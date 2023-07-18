@@ -2028,11 +2028,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4eb8</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a855</ipv6>
 </content>
-<content id="5187158" includeTime="2022-12-13T22:11:37" entryType="1" hash="7F71D83B6E053892743BA671B796F736" blockType="domain" ts="2022-12-13T22:11:37">
- <decision date="2022-12-13" number="2-6-18/2022-08-08-1308-ÀÈ" org="ÔÍÑ"/>
- <domain><![CDATA[resign.buzz]]></domain>
- <ip>37.1.219.46</ip>
-</content>
 <content id="5187160" includeTime="2022-12-13T22:11:34" entryType="1" hash="F5A30AB8F7DAF197079DB42032A7FE16" blockType="domain" ts="2022-12-13T22:11:34">
  <decision date="2022-12-13" number="2-6-18/2022-08-07-328-ÀÈ" org="ÔÍÑ"/>
  <domain><![CDATA[jvspin-wb.top]]></domain>
@@ -3977,9 +3972,9 @@
  <domain><![CDATA[*.vavadankd.com]]></domain>
  <ip>185.104.211.35</ip>
 </content>
-<content id="5187904" includeTime="2022-12-13T22:11:39" entryType="1" hash="7709B4589C92BBF7E7095A1BD27DDAA5" blockType="domain" ts="2022-12-13T22:11:39">
+<content id="5187904" includeTime="2022-12-13T22:11:39" entryType="1" hash="CB29EE411F7138EA5E1724256AADECC9" blockType="domain-mask" ts="2023-07-18T21:30:02">
  <decision date="2017-05-11" number="2-6-20/2017-05-11-5-ÀÈ" org="ÔÍÑ"/>
- <domain><![CDATA[azinocazino-games.ru]]></domain>
+ <domain><![CDATA[*.azinocazino-games.ru]]></domain>
  <ip>104.21.66.245</ip>
  <ip>172.67.166.134</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:a686</ipv6>
