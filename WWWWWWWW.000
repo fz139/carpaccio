@@ -4941,4 +4941,26 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6211373" includeTime="2023-07-18T10:50:03" urgencyType="1" entryType="3" hash="BA9510C70D974B3B322B0562A8695295" blockType="domain-mask" ts="2023-07-18T10:50:03">
+ <decision date="2023-07-14" number="" org=""/>
+ <domain><![CDATA[*.wwf.org]]></domain>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
+</content>
+<content id="6211374" includeTime="2023-07-18T10:50:03" urgencyType="1" entryType="3" hash="B6C499FCE1FCD46A8BE9D18350202DC7" blockType="domain-mask" ts="2023-07-18T10:50:03">
+ <decision date="2023-07-14" number="" org=""/>
+ <domain><![CDATA[*.wwf.panda.org]]></domain>
+ <ip>3.127.111.198</ip>
+ <ip>3.67.154.206</ip>
+</content>
+<content id="6211375" includeTime="2023-07-18T10:50:03" urgencyType="1" entryType="3" hash="B8FBA519120599C92A1002AEA571DB2F" blockType="domain-mask" ts="2023-07-18T10:50:03">
+ <decision date="2023-07-14" number="" org=""/>
+ <domain><![CDATA[*.worldwildlife.org]]></domain>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
+</content>
 </reg:register>
