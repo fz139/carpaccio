@@ -2992,16 +2992,6 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2eb0</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a8cf</ipv6>
 </content>
-<content id="4572858" includeTime="2022-07-04T23:05:54" entryType="1" hash="3F397D7E788B34340AE9FC931F249006" blockType="domain-mask" ts="2022-07-04T23:05:54">
- <decision date="2022-06-30" number="2022-06-30-2007" org="МВД"/>
- <domain><![CDATA[*.staff-tut.site]]></domain>
- <ip>188.114.96.3</ip>
-</content>
-<content id="4572864" includeTime="2022-07-12T23:15:43" entryType="1" hash="BCF28857A7813AE3E262B11A3F460A1D" blockType="domain-mask" ts="2022-07-12T23:15:43">
- <decision date="2022-06-28" number="2022-06-28-1346" org="МВД"/>
- <domain><![CDATA[*.sovoc.rodeo]]></domain>
- <ip>37.48.78.132</ip>
-</content>
 <content id="4572885" includeTime="2022-07-04T23:05:57" entryType="1" hash="2D8D7B41B28EE50C82FA069124CC7EEE" ts="2022-07-04T23:05:57">
  <decision date="2022-07-01" number="1727751-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static2.hentai-img.com/upload/20160531/57/57862/p=700/55.jpg]]></url>
@@ -3168,11 +3158,6 @@
  <ip>172.67.152.228</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:98e4</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:02cb</ipv6>
-</content>
-<content id="4572975" includeTime="2022-07-12T23:15:45" entryType="1" hash="59245CF653B0ADF427C9696239C6DA92" blockType="domain-mask" ts="2022-07-12T23:15:45">
- <decision date="2022-06-28" number="2022-06-28-1407" org="МВД"/>
- <domain><![CDATA[*.euroseeds.top]]></domain>
- <ip>194.182.80.127</ip>
 </content>
 <content id="4572984" includeTime="2022-07-04T23:06:03" entryType="1" hash="90F2A98A63BD77974822FD7DAED1FDBF" blockType="domain" ts="2022-07-04T23:06:03">
  <decision date="2022-06-30" number="2022-06-26-3213-АЛК" org="Росалкогольрегулирование"/>
