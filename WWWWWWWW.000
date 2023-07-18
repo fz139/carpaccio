@@ -6101,9 +6101,9 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:10b7</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d749</ipv6>
 </content>
-<content id="6211506" includeTime="2023-07-18T13:40:02" urgencyType="1" entryType="3" hash="9CAEED8086CFBB2863D05502CB24819E" blockType="domain" ts="2023-07-18T13:40:02">
+<content id="6211506" includeTime="2023-07-18T13:40:02" urgencyType="1" entryType="3" hash="D58AC99C63562787E5B4D89BB18F776E" blockType="domain-mask" ts="2023-07-18T13:45:02">
  <decision date="2023-07-17" number="" org=""/>
- <domain><![CDATA[vesma.today]]></domain>
+ <domain><![CDATA[*.vesma.today]]></domain>
  <ip>172.67.208.177</ip>
 </content>
 </reg:register>
