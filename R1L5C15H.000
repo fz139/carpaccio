@@ -322,13 +322,11 @@
  <ip>161.35.22.226</ip>
  <ipv6>2a03:b0c0:0003:00d0:0000:0000:149b:e001</ipv6>
 </content>
-<content id="3597029" includeTime="2021-09-03T21:23:40" entryType="1" hash="9279C0705D7DF7D22170DB4B2FE5A9AD" blockType="domain" ts="2021-09-03T21:23:40">
+<content id="3597029" includeTime="2021-09-03T21:23:40" entryType="1" hash="9F49DED8646BCBA735E5186A5CBD0F76" blockType="domain-mask" ts="2023-07-20T20:40:02">
  <decision date="2021-09-03" number="2-6-18/2021-06-23-3081-АИ" org="ФНС"/>
- <domain><![CDATA[1-win-app.ru]]></domain>
- <ip>104.21.3.5</ip>
- <ip>172.67.129.250</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:0305</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:81fa</ipv6>
+ <domain><![CDATA[*.1-win-app.ru]]></domain>
+ <ip>104.21.16.139</ip>
+ <ip>172.67.212.243</ip>
 </content>
 <content id="3597040" includeTime="2021-09-06T19:32:55" entryType="1" hash="3EFB46FD27852A9EDC6D5DCBCC727C94" ts="2021-09-06T19:32:55">
  <decision date="2017-09-06" number="2а-5010/2017" org="Южно-Сахалинский городской суд - Сахалинская область"/>

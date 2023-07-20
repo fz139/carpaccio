@@ -201,13 +201,11 @@
  <ipv6>2606:4700:0007:0000:0000:0000:a29f:8955</ipv6>
  <ipv6>2606:4700:0007:0000:0000:0000:a29f:8a55</ipv6>
 </content>
-<content id="4262309" includeTime="2022-04-13T13:21:00" entryType="1" hash="02BB05C409ED5F697D843608044CEB5C" blockType="domain" ts="2022-04-13T13:21:00">
+<content id="4262309" includeTime="2022-04-13T13:21:00" entryType="1" hash="078DACB852FC4869C4F838483BAFA7F6" blockType="domain-mask" ts="2023-07-20T20:40:02">
  <decision date="2022-04-12" number="2-6-18/2022-01-20-1353-ÀÈ" org="ÔÍÑ"/>
- <domain><![CDATA[1win24.ru]]></domain>
- <ip>104.21.72.207</ip>
- <ip>172.67.154.250</ip>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:48cf</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:9afa</ipv6>
+ <domain><![CDATA[*.1win24.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
 </content>
 <content id="4262312" includeTime="2022-04-13T13:21:02" entryType="1" hash="896560971476D1B9005E09460E3D8B11" ts="2022-04-13T13:21:02">
  <decision date="2022-04-12" number="2-6-18/2022-01-26-2742-ÀÈ" org="ÔÍÑ"/>
