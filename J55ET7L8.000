@@ -13958,9 +13958,9 @@
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c719</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:158b</ipv6>
 </content>
-<content id="3368966" includeTime="2021-07-26T10:33:15" urgencyType="1" entryType="3" hash="A81099F4547582019627B27DCCB4C28A" blockType="domain" ts="2021-07-26T10:33:15">
+<content id="3368966" includeTime="2021-07-26T10:33:15" urgencyType="1" entryType="3" hash="FA273549C0F1604D639C2C1384C4DA53" blockType="domain-mask" ts="2023-07-21T19:00:03">
  <decision date="2021-06-15" number="" org=""/>
- <domain><![CDATA[fbk.info]]></domain>
+ <domain><![CDATA[*.fbk.info]]></domain>
  <ip>104.21.65.105</ip>
  <ip>172.67.162.116</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4169</ipv6>

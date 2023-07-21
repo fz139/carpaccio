@@ -3551,9 +3551,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6113948" includeTime="2023-06-27T14:28:34" urgencyType="1" entryType="3" hash="EB59DDEFD13958B040F76596A9A0D6B0" blockType="domain" ts="2023-06-27T14:28:34">
+<content id="6113948" includeTime="2023-06-27T14:28:34" urgencyType="1" entryType="3" hash="9B17EFA883A19D2D76C0878F8F8BB767" blockType="domain-mask" ts="2023-07-21T19:00:03">
  <decision date="2022-02-24" number="" org=""/>
- <domain><![CDATA[kino-effect.com]]></domain>
+ <domain><![CDATA[*.kino-effect.com]]></domain>
  <ip>104.21.15.67</ip>
  <ip>172.67.161.231</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:0f43</ipv6>
