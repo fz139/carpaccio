@@ -3166,12 +3166,6 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c010</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:0b74</ipv6>
 </content>
-<content id="6213308" includeTime="2023-07-20T14:30:02" entryType="1" hash="614D7008CE654CE2BD6D3906EFB69D21" ts="2023-07-21T09:05:02">
- <decision date="2023-07-18" number="2023-07-17-9114-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://z6.lovertab.com/catalog/dzheneriki]]></url>
- <domain><![CDATA[z6.lovertab.com]]></domain>
- <ip>94.23.150.8</ip>
-</content>
 <content id="6213310" includeTime="2023-07-20T14:30:02" entryType="1" hash="8923AED30578900B1D3BE5B800192863" ts="2023-07-21T09:05:02">
  <decision date="2023-07-18" number="2023-07-08-1502-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://apteka-poland.com/goods/proktosedon-czopki-doodbytnicze-12-szt-1712/]]></url>
@@ -4761,6 +4755,14 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5de8</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:d887</ipv6>
 </content>
+<content id="6213770" includeTime="2023-07-25T09:35:02" entryType="1" hash="DC62D3C037DFACF61C82385696997FAC" blockType="domain" ts="2023-07-25T09:35:02">
+ <decision date="2020-07-15" number="2020-07-15-1257" org="МВД"/>
+ <domain><![CDATA[mega-gl.org]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6213776" includeTime="2023-07-20T20:40:02" entryType="1" hash="99B6EE26081FD67CABDB5F9A16428B3D" ts="2023-07-21T09:05:02">
  <decision date="2020-07-21" number="2020-07-21-405" org="МВД"/>
  <url><![CDATA[https://cheboksary.drug-marketplace.com/spice.php]]></url>
@@ -4950,6 +4952,11 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6213846" includeTime="2023-07-25T09:35:02" entryType="1" hash="D115EE9BC912AD664F44C4603B150F96" blockType="domain" ts="2023-07-25T09:35:02">
+ <decision date="2023-07-17" number="2а-2459/2023" org="Октябрьский районный суд - Амурская область"/>
+ <domain><![CDATA[arkhangelsk.sigaret24.ru]]></domain>
+ <ip>185.43.222.121</ip>
 </content>
 <content id="6213850" includeTime="2023-07-19T20:40:03" entryType="1" hash="A1E98925DEC2C66A07A6041B6F63CFA9" blockType="domain" ts="2023-07-21T09:05:02">
  <decision date="2023-07-17" number="2а-390/2023" org="Чернышевский районный суд - Забайкальский край"/>
