@@ -2361,6 +2361,22 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
+<content id="6237367" includeTime="2023-07-29T20:45:01" urgencyType="1" entryType="3" hash="2FE6FD2E35B5D4F40E871693451E9AD5" blockType="domain-mask" ts="2023-07-29T20:45:01">
+ <decision date="2023-07-27" number="" org=""/>
+ <domain><![CDATA[*.upmp.news]]></domain>
+ <ip>104.21.76.49</ip>
+ <ip>172.67.187.178</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:bbb2</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:4c31</ipv6>
+</content>
+<content id="6237368" includeTime="2023-07-29T20:45:01" urgencyType="1" entryType="3" hash="D95A2BD0BFC0A353D5E81B8C2FC922CB" blockType="domain-mask" ts="2023-07-29T20:45:01">
+ <decision date="2023-07-27" number="" org=""/>
+ <domain><![CDATA[*.ukr-live.com]]></domain>
+ <ip>104.21.93.123</ip>
+ <ip>172.67.209.224</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:5d7b</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:d1e0</ipv6>
+</content>
 <content id="6237372" includeTime="2023-07-29T14:15:02" urgencyType="1" entryType="3" hash="EED0893A983BFA920B1C3770D15B5E54" blockType="domain" ts="2023-07-29T14:15:02">
  <decision date="2022-12-23" number="" org=""/>
  <domain><![CDATA[pg-fai3phohy3.global.nethub.fi]]></domain>
@@ -2962,5 +2978,13 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6237507" includeTime="2023-07-29T20:45:01" urgencyType="1" entryType="3" hash="2D1D03C2B45D1BE6DF18BDF25F794092" blockType="domain-mask" ts="2023-07-29T20:45:01">
+ <decision date="2023-07-27" number="" org=""/>
+ <domain><![CDATA[*.republicsiberia.world]]></domain>
+ <ip>104.21.6.180</ip>
+ <ip>172.67.135.25</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:06b4</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:8719</ipv6>
 </content>
 </reg:register>
