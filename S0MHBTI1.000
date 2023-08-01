@@ -6119,6 +6119,11 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:299e</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9436</ipv6>
 </content>
+<content id="6206387" includeTime="2023-08-01T14:30:03" entryType="1" hash="014BDF3669C5A5C3F1DC965B43F9A21E" blockType="domain" ts="2023-08-01T14:30:03">
+ <decision date="2023-07-13" number="2023-07-06-764-АЛК" org="Росалкогольрегулирование"/>
+ <domain><![CDATA[1alco-express24-nsk.ru]]></domain>
+ <ip>178.32.248.248</ip>
+</content>
 <content id="6206389" includeTime="2023-07-13T23:43:19" entryType="1" hash="77C78996524652F6D3F711BC193F1074" blockType="domain-mask" ts="2023-07-21T09:05:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.casinogr1lla.com]]></domain>
@@ -6535,6 +6540,14 @@
  <ip>172.67.203.63</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:cb3f</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:2cc0</ipv6>
+</content>
+<content id="6206475" includeTime="2023-08-01T14:30:03" entryType="1" hash="D4797636A0D97C0BA96E5880C694F18D" blockType="domain" ts="2023-08-01T14:30:03">
+ <decision date="2023-07-13" number="2023-07-10-5821-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[frisium.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6206477" includeTime="2023-07-17T14:50:02" entryType="1" hash="8F7E8D381128F3FF8869675D599EF099" ts="2023-07-21T09:05:02">
  <decision date="2020-07-21" number="2020-07-21-405" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -8124,6 +8137,14 @@
  <ip>203.17.126.185</ip>
  <ipv6>2a05:7880:0134:6dc7:8c88:7e4a:9a0b:890c</ipv6>
 </content>
+<content id="6206840" includeTime="2023-08-01T14:30:03" entryType="1" hash="B614B1FFB9755FBCB29EE282A2114D90" blockType="domain" ts="2023-08-01T14:30:03">
+ <decision date="2023-07-12" number="2023-07-11-3870" org="МВД"/>
+ <domain><![CDATA[megasbdarknet.com]]></domain>
+ <ip>104.21.86.101</ip>
+ <ip>172.67.217.212</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:d9d4</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:5665</ipv6>
+</content>
 <content id="6206841" includeTime="2023-07-17T14:50:02" entryType="1" hash="FEFF661F00BD5CAD946F62144E515191" ts="2023-07-21T09:05:02">
  <decision date="2023-07-13" number="2161361-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static.hentai-img.com/upload/20120316/10/9973/4.jpg]]></url>
@@ -8378,12 +8399,6 @@
  <ip>172.67.197.230</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:24ad</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c5e6</ipv6>
-</content>
-<content id="6206893" includeTime="2023-07-17T22:10:02" entryType="1" hash="30F25DA77010A98A0110786844932C5F" ts="2023-07-21T09:05:02">
- <decision date="2023-07-12" number="2023-07-11-1078" org="МВД"/>
- <url><![CDATA[https://timelinewriters.com/onion/]]></url>
- <domain><![CDATA[timelinewriters.com]]></domain>
- <ip>192.64.112.100</ip>
 </content>
 <content id="6206895" includeTime="2023-07-13T23:43:18" entryType="1" hash="E8A9F99151B6667E85243BF8FD73A6B2" blockType="domain-mask" ts="2023-07-21T09:05:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
