@@ -1172,6 +1172,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6236927" includeTime="2023-08-02T14:00:02" entryType="1" hash="4B7B0440F6865DD4F19AA36279CD1CCB" blockType="domain" ts="2023-08-02T14:00:02">
+ <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[bshn.run]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6236928" includeTime="2023-07-28T22:00:02" entryType="1" hash="468BFAD4A9800C29C5272D27AAC0DF11" blockType="domain-mask" ts="2023-07-28T22:00:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.ogladanieonline.pl]]></domain>
@@ -1325,12 +1333,6 @@
  <ip>172.67.146.29</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:278f</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:921d</ipv6>
-</content>
-<content id="6236970" includeTime="2023-08-01T14:30:03" entryType="1" hash="414A1A292A4A147606B529D18F43326B" ts="2023-08-01T14:30:03">
- <decision date="2023-07-27" number="2023-07-24-867-АЛК" org="Росалкогольрегулирование"/>
- <url><![CDATA[https://perm-342.my1.ru/publ/novosti_goroda/vse_magaziny_s_vodkoj_perm/3-1-0-114]]></url>
- <domain><![CDATA[perm-342.my1.ru]]></domain>
- <ip>195.216.243.8</ip>
 </content>
 <content id="6236974" includeTime="2023-08-01T14:30:03" entryType="1" hash="5212B52D307508FCAA2F5B95248DB0A2" ts="2023-08-01T14:30:03">
  <decision date="2023-07-27" number="2023-07-26-53967-ПЛ" org="Росздравнадзор"/>
@@ -2265,12 +2267,6 @@
  <url><![CDATA[http://gen344.viamagaz.ru/nabor_klassicheskij.html]]></url>
  <domain><![CDATA[gen344.viamagaz.ru]]></domain>
  <ip>5.45.81.153</ip>
-</content>
-<content id="6237191" includeTime="2023-07-31T22:45:02" entryType="1" hash="D114CD6D83B507453CE9D2F1CB12D0E4" ts="2023-07-31T22:45:02">
- <decision date="2023-07-27" number="2023-07-26-53924-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[http://medprom.ru/medprom/243602]]></url>
- <domain><![CDATA[medprom.ru]]></domain>
- <ip>89.188.109.229</ip>
 </content>
 <content id="6237193" includeTime="2023-07-31T15:10:02" entryType="1" hash="48D84B5AB05FC3B66BC6B3433A4092BF" blockType="domain" ts="2023-07-31T15:10:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -5793,6 +5789,15 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6815:5e6b</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:de5e</ipv6>
 </content>
+<content id="6237901" includeTime="2023-08-02T14:00:02" entryType="1" hash="BF9DD33EBBAA729238DBA2831D78384B" ts="2023-08-02T14:00:02">
+ <decision date="2023-05-23" number="2а-788/2023" org="Ишимский городской суд - Тюменская область"/>
+ <url><![CDATA[https://www.passfab.ru/wifi-password/kak-vzlomat-parol-wifi-na-noutbuke-windows-10-8-7.html]]></url>
+ <domain><![CDATA[www.passfab.ru]]></domain>
+ <ip>104.18.22.175</ip>
+ <ip>104.18.23.175</ip>
+ <ipv6>2606:4700:0000:0000:0000:0000:6812:16af</ipv6>
+ <ipv6>2606:4700:0000:0000:0000:0000:6812:17af</ipv6>
+</content>
 <content id="6237904" includeTime="2023-07-31T22:45:02" entryType="1" hash="A34CF1B22D7247895A2D55382A6A0501" blockType="domain-mask" ts="2023-07-31T22:45:02">
  <decision date="2023-07-28" number="2-6-14/2023-06-02-1450-АИ" org="ФНС"/>
  <domain><![CDATA[*.vavada-qki6.xyz]]></domain>
@@ -6715,15 +6720,6 @@
  <ip>64.225.99.2</ip>
  <ipv6>2a03:b0c0:0003:00d0:0000:0000:1602:c001</ipv6>
 </content>
-<content id="6238331" includeTime="2023-08-01T21:25:02" entryType="1" hash="9610DF1E23F7BC15DF6F4F92E91EA196" ts="2023-08-01T21:25:02">
- <decision date="2023-05-23" number="2а-790/2023" org="Ишимский городской суд - Тюменская область"/>
- <url><![CDATA[https://vgrafike.ru/kak-vzlomat-chuzhuju-stranicu-vkontakte-i-zajti-na-nee-2/]]></url>
- <domain><![CDATA[vgrafike.ru]]></domain>
- <ip>104.21.32.125</ip>
- <ip>172.67.151.247</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:97f7</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:207d</ipv6>
-</content>
 <content id="6238333" includeTime="2023-08-01T21:25:02" entryType="1" hash="BF4A838FCF7F742099B8A3406A41D8C2" ts="2023-08-01T21:25:02">
  <decision date="2023-07-20" number="2а-205/2023" org="Новошешминский районный суд - Республика Татарстан (Татарстан)"/>
  <url><![CDATA[https://m.xyebav.com/tags/gig-porno]]></url>
@@ -6915,15 +6911,6 @@
  <decision date="2023-07-25" number="2-6-14/2023-07-07-1121-АИ" org="ФНС"/>
  <domain><![CDATA[*.stardacasino-online32.ru]]></domain>
  <ip>141.95.86.109</ip>
-</content>
-<content id="6238420" includeTime="2023-08-01T21:25:02" entryType="1" hash="7FB7C1752C79E5BCD54E4218D171F853" ts="2023-08-01T21:25:02">
- <decision date="2023-07-07" number="2а-6553/2023" org="Сургутский городской суд - Ханты-Мансийский автономный округ - Югра"/>
- <url><![CDATA[https://restobarvintage.ru/vodka/kak-sdelat-spirt-v-domashnih-usloviyah.html]]></url>
- <domain><![CDATA[restobarvintage.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6238421" includeTime="2023-08-01T21:25:02" entryType="1" hash="47C8C4CA60DFC939F8E9AFD57FC6CEB3" blockType="domain" ts="2023-08-01T21:25:02">
  <decision date="2023-07-24" number="2а-818/2023" org="Советский районный суд г. Иваново - Ивановская область"/>
