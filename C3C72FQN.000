@@ -12977,9 +12977,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:c0da</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:147b</ipv6>
 </content>
-<content id="6069141" includeTime="2023-06-17T08:31:20" entryType="1" hash="A995371B2C3EDBD20D5FC2AB15AE560E" blockType="domain" ts="2023-06-17T08:31:20">
+<content id="6069141" includeTime="2023-06-17T08:31:20" entryType="1" hash="44FD7D34EF22626A8518A204184264E0" blockType="domain-mask" ts="2023-08-11T13:05:02">
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[friends-casino.academy]]></domain>
+ <domain><![CDATA[*.friends-casino.academy]]></domain>
  <ip>108.156.22.115</ip>
  <ip>108.156.22.128</ip>
  <ip>108.156.22.19</ip>
