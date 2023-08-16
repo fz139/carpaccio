@@ -981,9 +981,9 @@
  <domain><![CDATA[tokino.org]]></domain>
  <ip>51.254.31.183</ip>
 </content>
-<content id="5465690" includeTime="2023-02-15T19:32:14" urgencyType="1" entryType="3" hash="51481F9284C31B2F19CE425DD8DEEBE4" blockType="domain" ts="2023-02-15T19:32:14">
+<content id="5465690" includeTime="2023-02-15T19:32:14" urgencyType="1" entryType="3" hash="E5C82C4091B9A3989F8E6C537DFB875D" blockType="domain-mask" ts="2023-08-16T21:00:03">
  <decision date="2022-02-24" number="" org=""/>
- <domain><![CDATA[newbobfilm.club]]></domain>
+ <domain><![CDATA[*.newbobfilm.club]]></domain>
  <ip>104.21.45.177</ip>
  <ip>172.67.217.182</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d9b6</ipv6>
@@ -6691,11 +6691,6 @@
  <ip>172.67.138.153</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8a99</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:083a</ipv6>
-</content>
-<content id="5475140" includeTime="2023-02-20T16:16:04" entryType="1" hash="3D016AE128C6193B52DBF453AD82B665" blockType="domain" ts="2023-02-20T16:16:04">
- <decision date="2023-02-16" number="2023-02-15-868-АЛК" org="Росалкогольрегулирование"/>
- <domain><![CDATA[gradus96-dj.site]]></domain>
- <ip>157.90.2.157</ip>
 </content>
 <content id="5475141" includeTime="2023-02-16T22:35:12" entryType="1" hash="C929B06CB9EBF469C15DE44F3DFA42DF" blockType="domain-mask" ts="2023-02-16T22:35:12">
  <decision date="2017-10-27" number="2-6-20/ 2017-10-26-206-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -31316,14 +31311,6 @@
  <url><![CDATA[https://www.alamy.com/a-businessman-with-a-handgun-committing-suicide-image68738846.html?imageid=A2E5E1C8-C2FF-4473-992B-55942E32DDED&p=163097&pn=1&searchId=2492a47c298685b7f93e999adcfe4e73&searchtype=0]]></url>
  <domain><![CDATA[www.alamy.com]]></domain>
  <ip>31.221.62.226</ip>
-</content>
-<content id="5503009" includeTime="2023-02-27T14:53:21" entryType="1" hash="82697102994F983973813730D8E76069" blockType="domain" ts="2023-02-27T14:53:21">
- <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[mega555kf7lsmb45yd1etzginolhxxi6ytdoma2rf77ng.com]]></domain>
- <ip>104.21.45.79</ip>
- <ip>172.67.211.61</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2d4f</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:d33d</ipv6>
 </content>
 <content id="5503013" includeTime="2023-02-27T14:53:18" entryType="1" hash="5249664F91CDB6530B75407B8E94A2FB" blockType="domain" ts="2023-02-27T14:53:18">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
