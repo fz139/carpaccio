@@ -5232,6 +5232,54 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2904</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:8d1f</ipv6>
 </content>
+<content id="6284816" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="662CFB6D56AAE3BD50CA533B3D7ADFDC" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[d2k6lw1gun6c2b.cloudfront.net]]></domain>
+ <ip>18.165.142.159</ip>
+ <ip>18.165.142.176</ip>
+ <ip>18.165.142.202</ip>
+ <ip>18.165.142.220</ip>
+ <ipv6>2600:9000:25f7:2200:001c:ad1c:64c0:0021</ipv6>
+ <ipv6>2600:9000:25f7:4a00:001c:ad1c:64c0:0021</ipv6>
+ <ipv6>2600:9000:25f7:5200:001c:ad1c:64c0:0021</ipv6>
+ <ipv6>2600:9000:25f7:ac00:001c:ad1c:64c0:0021</ipv6>
+ <ipv6>2600:9000:25f7:ae00:001c:ad1c:64c0:0021</ipv6>
+ <ipv6>2600:9000:25f7:c800:001c:ad1c:64c0:0021</ipv6>
+ <ipv6>2600:9000:25f7:dc00:001c:ad1c:64c0:0021</ipv6>
+ <ipv6>2600:9000:25f7:f000:001c:ad1c:64c0:0021</ipv6>
+</content>
+<content id="6284817" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="DC82E6C2C4429FD0A6EE278DC5D07312" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[d46j7mmiyqpnq.cloudfront.net]]></domain>
+ <ip>108.156.24.128</ip>
+ <ip>108.156.24.38</ip>
+ <ip>108.156.24.52</ip>
+ <ip>108.156.24.98</ip>
+ <ipv6>2600:9000:2368:0e00:0011:6c73:9980:0021</ipv6>
+ <ipv6>2600:9000:2368:1c00:0011:6c73:9980:0021</ipv6>
+ <ipv6>2600:9000:2368:2c00:0011:6c73:9980:0021</ipv6>
+ <ipv6>2600:9000:2368:4e00:0011:6c73:9980:0021</ipv6>
+ <ipv6>2600:9000:2368:6800:0011:6c73:9980:0021</ipv6>
+ <ipv6>2600:9000:2368:7000:0011:6c73:9980:0021</ipv6>
+ <ipv6>2600:9000:2368:9a00:0011:6c73:9980:0021</ipv6>
+ <ipv6>2600:9000:2368:b800:0011:6c73:9980:0021</ipv6>
+</content>
+<content id="6284818" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="6D441AECB8965EF6D2AC41F4AC93A6A0" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[d10n5ba1eyh8lk.cloudfront.net]]></domain>
+ <ip>18.165.121.110</ip>
+ <ip>18.165.121.121</ip>
+ <ip>18.165.121.140</ip>
+ <ip>18.165.121.180</ip>
+ <ipv6>2600:9000:2375:4200:0011:d14b:f200:0021</ipv6>
+ <ipv6>2600:9000:2375:4a00:0011:d14b:f200:0021</ipv6>
+ <ipv6>2600:9000:2375:7000:0011:d14b:f200:0021</ipv6>
+ <ipv6>2600:9000:2375:8800:0011:d14b:f200:0021</ipv6>
+ <ipv6>2600:9000:2375:a200:0011:d14b:f200:0021</ipv6>
+ <ipv6>2600:9000:2375:aa00:0011:d14b:f200:0021</ipv6>
+ <ipv6>2600:9000:2375:d000:0011:d14b:f200:0021</ipv6>
+ <ipv6>2600:9000:2375:fc00:0011:d14b:f200:0021</ipv6>
+</content>
 <content id="6284821" includeTime="2023-08-18T17:55:02" urgencyType="1" entryType="3" hash="743AB551199E0D234D3D2B9E92AE1D82" blockType="domain" ts="2023-08-18T17:55:02">
  <decision date="2023-01-26" number="" org=""/>
  <domain><![CDATA[d1cxxb9mr45o1x.cloudfront.net]]></domain>
@@ -5392,9 +5440,9 @@
  <ipv6>2600:9000:25f7:d200:000a:cf85:ee40:0021</ipv6>
  <ipv6>2600:9000:25f7:e200:000a:cf85:ee40:0021</ipv6>
 </content>
-<content id="6284831" includeTime="2023-08-18T17:55:02" urgencyType="1" entryType="3" hash="35BCAA8DB84F4E1898DAABF50FC2D28B" blockType="domain" ts="2023-08-18T17:55:02">
+<content id="6284831" includeTime="2023-08-18T17:55:02" urgencyType="1" entryType="3" hash="76294D0095C0412B602077142E7B72CF" blockType="domain-mask" ts="2023-08-19T11:10:02">
  <decision date="2023-01-26" number="" org=""/>
- <domain><![CDATA[vpnovaya.online]]></domain>
+ <domain><![CDATA[*.vpnovaya.online]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -6129,11 +6177,48 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6285406" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="E2F397A4D00D01CB7DEE3B6A7F1458D0" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[hdrezkaur1vk0.org]]></domain>
+ <ip>45.10.218.208</ip>
+</content>
+<content id="6285407" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="E0DAE60607D9C9E8928B589EDFC48F56" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[66.kinoland29.site]]></domain>
+ <ip>104.21.17.35</ip>
+ <ip>172.67.220.130</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:dc82</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:1123</ipv6>
+</content>
 <content id="6285408" includeTime="2023-08-18T16:20:03" urgencyType="1" entryType="3" hash="A1AA334F9502732D20DE21CFEEDF966E" ts="2023-08-18T16:20:03">
  <decision date="2023-08-16" number="" org=""/>
  <url><![CDATA[https://oleg-reshetin.blogspot.com/2023/07/20_27.html]]></url>
  <domain><![CDATA[oleg-reshetin.blogspot.com]]></domain>
  <ip>74.125.196.132</ip>
+</content>
+<content id="6290634" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="3180636AC1CCEE7A4B85CA90A0269405" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-17" number="" org=""/>
+ <domain><![CDATA[*.ehrh.org]]></domain>
+ <ip>142.132.196.168</ip>
+ <ip>171.22.120.2</ip>
+ <ip>172.104.232.45</ip>
+</content>
+<content id="6290635" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="A5ACFC7A27F845AE3A86CB0C8E2E22E2" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-17" number="" org=""/>
+ <domain><![CDATA[*.wildsalmoncenter.org]]></domain>
+ <ip>23.185.0.3</ip>
+ <ipv6>2620:012a:8000:0000:0000:0000:0000:0003</ipv6>
+ <ipv6>2620:012a:8001:0000:0000:0000:0000:0003</ipv6>
+</content>
+<content id="6290636" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="B7970C2C5E2679738BED54B7DED669B0" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-17" number="" org=""/>
+ <domain><![CDATA[*.humanrightshouse.org]]></domain>
+ <ip>195.159.29.211</ip>
+</content>
+<content id="6290637" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="58725367F057AA75C18402C494B8B288" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-17" number="" org=""/>
+ <domain><![CDATA[*.www.martenscentre.eu]]></domain>
+ <ip>128.65.195.207</ip>
 </content>
 <content id="6290638" includeTime="2023-08-18T19:25:02" entryType="5" hash="9AC3AC3D68DCB82E5546F3E7956513E4" blockType="domain" ts="2023-08-18T19:25:02">
  <decision date="2023-08-17" number="1з-68545/2023" org="Минцифры"/>
@@ -11195,5 +11280,374 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6292902" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="4E17D806AC41D3480820BED27F3AC84F" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[chastniy-zaym-kaliningrad.ru]]></domain>
+ <ip>5.101.153.147</ip>
+</content>
+<content id="6292903" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="A3A96CBE1C01018B50B682B41DA11B44" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[www.ftse100.org]]></domain>
+ <ip>185.191.124.51</ip>
+</content>
+<content id="6292904" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="708CA60A4ADDD6A40BDCD7BBCD31CE0C" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[*.finupcorp.org]]></domain>
+ <ip>213.142.147.76</ip>
+</content>
+<content id="6292905" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="02DA3E736FC6CD1A48584E89149601E4" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[asset-ace.org]]></domain>
+ <ip>104.21.77.155</ip>
+ <ip>172.67.209.145</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:4d9b</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:d191</ipv6>
+</content>
+<content id="6292906" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="3200AD8E004AC35F538E6AEBCB98F80E" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[user.asset-ace.net]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6292907" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="93021391DBE07AE856446CEBDA9646BF" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[wt.asset-ace.net]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6292908" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="2663D6D214D9EF95EF522BA85D9EBF28" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[lombard-pw.vsite.biz]]></domain>
+ <ip>144.76.73.230</ip>
+</content>
+<content id="6292910" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="EA5D6BAA3F7040C3CBF83124B1CDF9E3" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[chastniy-zaym-tver.ru]]></domain>
+ <ip>5.101.153.147</ip>
+</content>
+<content id="6292911" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="C6DB4CC59005B99F79D0F1330E38D9F0" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[dengi-vdolg-belgorod.ru]]></domain>
+ <ip>5.101.153.147</ip>
+</content>
+<content id="6292912" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="5FE9C61C09AB63E35A570987EB60F168" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[dengi-vdolg-petrozavodsk.ru]]></domain>
+ <ip>5.101.153.147</ip>
+</content>
+<content id="6292913" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="DEF0F1ACC9A7F781FBEE565DCAD509EE" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[dengi-vdolg-saransk.ru]]></domain>
+ <ip>5.101.153.147</ip>
+</content>
+<content id="6292914" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="9E07D61923D14902CC9EC0B6B74876A2" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[chastnie-zaimy-perm.ru]]></domain>
+ <ip>5.101.153.147</ip>
+</content>
+<content id="6292915" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="7A9875F6D313CA0BCF2EEA60D19B53BD" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[www.investin.store]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="6292916" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="413B0D7BD51E3A2A7E975BA298B6F557" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[investin.store]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="6292917" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="00276153C3400D9CDCEEAE6D0CD40D39" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[lk.investin.store]]></domain>
+ <ip>62.113.110.83</ip>
+</content>
+<content id="6292918" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="0DEEB7C0EA451C104368A6293B2525F3" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[beefarm.uno]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6292919" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="DC997E27FA11B9CAC23C56E21D96FBD9" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[*.rex24.store]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6292920" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="2C2F1729A23E8F3FC617FC3FF4C0DDFA" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[*.rexroom.store]]></domain>
+ <ip>104.21.11.211</ip>
+ <ip>172.67.192.166</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:c0a6</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:0bd3</ipv6>
+</content>
+<content id="6292921" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="BE69A4DB6D66BA71CA6AB1AACBCC2BAD" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[*.rexsite.store]]></domain>
+ <ip>104.21.68.113</ip>
+ <ip>172.67.195.5</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:4471</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:c305</ipv6>
+</content>
+<content id="6292922" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="A3DADE3B8D370603055DC5231C969273" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[*.arbitroom.club]]></domain>
+ <ip>104.21.58.151</ip>
+ <ip>172.67.205.44</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:3a97</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:cd2c</ipv6>
+</content>
+<content id="6292923" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="40F1C31ECEDBE35119D02818C5926A7F" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[crypto-citadel.org]]></domain>
+ <ip>45.67.231.11</ip>
+</content>
+<content id="6292924" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="34A7ED72C12D53601727C4DF4BE858A5" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[*.avalon-invest.pro]]></domain>
+ <ip>190.115.31.213</ip>
+</content>
+<content id="6292925" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="DCA36488F0875BCE9CFE08C47D3018C9" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[*.golden-klever.ru]]></domain>
+ <ip>104.21.86.211</ip>
+ <ip>172.67.136.224</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:88e0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:56d3</ipv6>
+</content>
+<content id="6292926" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="0B85AA3DECCBE27B51045C49586388FC" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[godfather.blog]]></domain>
+ <ip>104.21.22.4</ip>
+ <ip>172.67.201.172</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:c9ac</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:1604</ipv6>
+</content>
+<content id="6292927" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="F4441A9D5FBB8994861C5952A4BB18DC" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[playphoriya.com]]></domain>
+ <ip>168.119.79.232</ip>
+</content>
+<content id="6292928" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="28403F0C729E1AB0F4190777E9CDF21B" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[playphoriya.space]]></domain>
+ <ip>195.201.193.169</ip>
+</content>
+<content id="6292929" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="18DB0820C41BA0C47A394E3F3A3229D6" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[moneyowls.online]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6292930" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="0313127DB99FB0969C21529918CA1993" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[gnomez.online]]></domain>
+ <ip>104.21.78.20</ip>
+ <ip>172.67.214.135</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:4e14</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:d687</ipv6>
+</content>
+<content id="6292931" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="42A03504E6DE587B578F0D52D2543448" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[mining-farm.online]]></domain>
+ <ip>104.21.37.47</ip>
+ <ip>172.67.203.244</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:cbf4</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:252f</ipv6>
+</content>
+<content id="6292932" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="9DE40E31466B23E34FE8960309DA59FD" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[*.moneyoligarch.org]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6292933" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="8E3EC9AB190725F1E1E3DC3CA383FB45" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[*.best-money-birds.org]]></domain>
+ <ip>104.21.28.157</ip>
+ <ip>172.67.170.233</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:aae9</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:1c9d</ipv6>
+</content>
+<content id="6292934" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="E82C4EB1CB6457631DA8E5A205FA002C" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[*.astellia.vip]]></domain>
+ <ip>104.21.57.234</ip>
+ <ip>172.67.193.126</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:c17e</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:39ea</ipv6>
+</content>
+<content id="6292935" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="76D57F141E3FC0D88ABEDDDE7C5EC398" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[*.7-gnomes.co]]></domain>
+ <ip>104.21.67.121</ip>
+ <ip>172.67.221.229</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:dde5</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:4379</ipv6>
+</content>
+<content id="6292936" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="78DB3CEC4D0B154F9BFC0D687ECA78CB" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[*.robotss.online]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6292937" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="197A26FEF17B573765B1AA1B1B1CF2FC" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[junglegame.online]]></domain>
+ <ip>104.21.48.127</ip>
+ <ip>172.67.151.153</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:307f</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:9799</ipv6>
+</content>
+<content id="6292938" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="1287A2CA25E3A595602A4580BF436545" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[trix34.fun]]></domain>
+ <ip>104.21.9.51</ip>
+ <ip>172.67.141.191</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:0933</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:8dbf</ipv6>
+</content>
+<content id="6292939" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="659559D07ECB8B2C6DF93561C583EDF3" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[squid-game.online]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6292940" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="83275AE450184EA14E2018D6F199114F" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[invest-town.live]]></domain>
+ <ip>104.21.74.191</ip>
+ <ip>172.67.162.95</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:a25f</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:4abf</ipv6>
+</content>
+<content id="6292941" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="F7D14068EB063C0966D34711E627381E" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[birdz.tech]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6292942" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="8313B58269B4F9E834D01F6FE796CEAF" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[wood-man.info]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6292943" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="D0F5C6D1A2BB6E79730D2533A6071FD0" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[spexy.game]]></domain>
+ <ip>104.21.80.155</ip>
+ <ip>172.67.151.87</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:9757</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:509b</ipv6>
+</content>
+<content id="6292944" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="5BE8AE8E7E58A22F7239261BE837BA57" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[grame.tech]]></domain>
+ <ip>104.21.15.183</ip>
+ <ip>172.67.163.194</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:0fb7</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:a3c2</ipv6>
+</content>
+<content id="6292945" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="5A632DADC689161107095A631C83679E" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[lk.grame.tech]]></domain>
+ <ip>104.21.15.183</ip>
+ <ip>172.67.163.194</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:0fb7</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:a3c2</ipv6>
+</content>
+<content id="6292946" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="3F3B20CE543CF6ECCD58811E5B5BF6DF" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[avtosalon-game.site]]></domain>
+ <ip>5.63.158.160</ip>
+</content>
+<content id="6292947" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="EBF57D1EED956FC4BBEE2F7ABE29DA04" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[www.avtosalon-game.site]]></domain>
+ <ip>5.63.158.160</ip>
+</content>
+<content id="6292948" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="B18D34CF0F07F3A24D505F478830C4E1" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[apexone.ai]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="6292949" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="4468176A9CFCD5E273C754C8CB03602B" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[baksis.website]]></domain>
+ <ip>45.147.176.211</ip>
+</content>
+<content id="6292950" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="010218B012D3F8F2B148E074B5AA2FA5" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[*.money-boom.website]]></domain>
+ <ip>81.91.178.157</ip>
+</content>
+<content id="6292951" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="6DA52651DDCF0DECEDF251B718EFCB8B" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <domain><![CDATA[finam.pro]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6292953" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="EEBF2DDCC22E8571323C408B1C3BA0CE" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-16" number="" org=""/>
+ <url><![CDATA[https://invidious.io.lol/watch?v=nlq4LXe2mWE]]></url>
+ <domain><![CDATA[invidious.io.lol]]></domain>
+ <ip>144.202.65.209</ip>
+</content>
+<content id="6292954" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="F275D849500A8F37F7028366539F0024" ts="2023-08-19T11:10:02">
+ <decision date="2022-03-06" number="" org=""/>
+ <url><![CDATA[https://dnipro-m.ua/ru/dopomoga-zsu/]]></url>
+ <domain><![CDATA[dnipro-m.ua]]></domain>
+ <ip>159.69.231.202</ip>
+</content>
+<content id="6292955" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="E7BF174EAB29C38061C0DDAD01D19057" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2022-03-06" number="" org=""/>
+ <domain><![CDATA[*.howtohelpua.com]]></domain>
+ <ip>192.241.144.45</ip>
+</content>
+<content id="6292956" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="14C53E9CB7B15A384BC57AB995CE1D6A" blockType="domain" ts="2023-08-19T11:10:02">
+ <decision date="2022-03-06" number="" org=""/>
+ <domain><![CDATA[galya-baluvana.kiev.ua]]></domain>
+ <ip>185.68.16.173</ip>
+ <ipv6>2a00:7a60:0000:10ad:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6292957" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="B57BD39D0CBF691DA2805338F72F781A" blockType="domain-mask" ts="2023-08-19T11:10:02">
+ <decision date="2022-03-06" number="" org=""/>
+ <domain><![CDATA[*.moneybanking.com.ua]]></domain>
+ <ip>165.232.86.55</ip>
+</content>
+<content id="6292958" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="E3ED81B68FD7AF11FB8F34EAB5A5D486" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-17" number="" org=""/>
+ <url><![CDATA[http://milov.org/entry/3930]]></url>
+ <domain><![CDATA[milov.org]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="6292959" includeTime="2023-08-19T11:10:02" urgencyType="1" entryType="3" hash="C53C1E24AF4010BF0B0CCDE353EDC805" ts="2023-08-19T11:10:02">
+ <decision date="2023-08-17" number="" org=""/>
+ <url><![CDATA[https://www.earthisland.org/index.php/project/entry/the-altai-project]]></url>
+ <domain><![CDATA[www.earthisland.org]]></domain>
+ <ip>199.19.157.220</ip>
 </content>
 </reg:register>
