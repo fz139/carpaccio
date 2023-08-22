@@ -2449,11 +2449,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d5ca</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3b2d</ipv6>
 </content>
-<content id="6210032" includeTime="2023-07-18T21:30:02" entryType="1" hash="30B4DD71D376D3388F5B75F545CABDF3" blockType="domain" ts="2023-07-21T09:05:02">
- <decision date="2023-06-16" number="2а-1060/2023" org="Моздокский районный суд - Республика Северная Осетия - Алания"/>
- <domain><![CDATA[priobresti.voenrf.com]]></domain>
- <ip>5.61.48.87</ip>
-</content>
 <content id="6210043" includeTime="2023-07-17T22:10:02" entryType="1" hash="8AC139C367A1F0B10825E5E34793BA50" blockType="domain" ts="2023-07-21T09:05:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[kraken-dark.net]]></domain>
@@ -5058,6 +5053,12 @@
  <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
+</content>
+<content id="6211001" includeTime="2023-08-22T16:05:02" entryType="1" hash="C3D651A776CB12AE61842EF2C0CD89F4" ts="2023-08-22T16:05:02">
+ <decision date="2023-07-13" number="2а-2367/2023" org="Ленинский районный суд г. Владимира - Владимирская область"/>
+ <url><![CDATA[https://priobresti.voenrf.com]]></url>
+ <domain><![CDATA[priobresti.voenrf.com]]></domain>
+ <ip>5.61.48.87</ip>
 </content>
 <content id="6211002" includeTime="2023-07-19T13:50:03" entryType="1" hash="3851971BC34CB9DF86676C1AEB1D5D7B" blockType="domain" ts="2023-07-21T09:05:02">
  <decision date="2023-07-11" number="2а-2327/2023" org="Ленинский районный суд г. Владимира - Владимирская область"/>
@@ -9572,12 +9573,6 @@
  <ip>172.67.176.72</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:605e</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:b048</ipv6>
-</content>
-<content id="6212586" includeTime="2023-07-20T20:40:02" entryType="1" hash="8CE7C9B9279E4E07B7B6190F438707BD" ts="2023-07-21T09:05:02">
- <decision date="2023-07-17" number="2023-07-13-32408" org="МВД"/>
- <url><![CDATA[https://kievboard.com/%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C-%D0%9C%D0%B5%D1%84%D0%B5%D0%B4%D1%80%D0%BE%D0%BD-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5-%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC-beststor-p-357137.html]]></url>
- <domain><![CDATA[kievboard.com]]></domain>
- <ip>75.119.150.232</ip>
 </content>
 <content id="6212588" includeTime="2023-07-19T13:50:03" entryType="1" hash="257D10CEB249EFAAE9627B91839D5476" blockType="domain" ts="2023-07-21T09:05:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
