@@ -173,6 +173,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6229634" includeTime="2023-08-24T13:35:01" entryType="1" hash="DC5A52A9A788376EEDBDE6863F8A35B2" blockType="domain-mask" ts="2023-08-24T13:35:01">
+ <decision date="2023-07-26" number="2023-07-26-1101" org="МВД"/>
+ <domain><![CDATA[*.harvest-1.ru]]></domain>
+ <ip>87.236.16.32</ip>
+</content>
 <content id="6229637" includeTime="2023-07-28T13:50:02" entryType="1" hash="F255AA0400403734ED273AA8E2901F91" ts="2023-07-28T13:50:02">
  <decision date="2020-07-21" number="2020-07-21-405" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://hydraclubqbhuwlj2g3ih5akn7sb7tumlesk5f6.hdr2go.site/product/171827]]></url>
