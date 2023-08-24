@@ -74,6 +74,16 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6304666" includeTime="2023-08-24T19:15:02" urgencyType="1" entryType="3" hash="3DA5B7E6EF1F17522AEB09AF865D0B4D" blockType="domain-mask" ts="2023-08-24T19:15:02">
+ <decision date="2023-08-23" number="" org=""/>
+ <domain><![CDATA[*.gmx.net]]></domain>
+ <ip>82.165.229.87</ip>
+</content>
+<content id="6304667" includeTime="2023-08-24T19:15:02" urgencyType="1" entryType="3" hash="5E05DC83F24EDA0C10356DA5675D349D" blockType="domain-mask" ts="2023-08-24T19:15:02">
+ <decision date="2023-08-23" number="" org=""/>
+ <domain><![CDATA[*.eurocuck.pw]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
 <content id="6304738" includeTime="2023-08-24T13:35:01" entryType="1" hash="E983211EC488D63BA3256051B537D8A5" blockType="domain-mask" ts="2023-08-24T13:35:01">
  <decision date="2023-08-23" number="2-6-14/2023-05-22-3241-АИ" org="ФНС"/>
  <domain><![CDATA[*.death.show]]></domain>
@@ -413,5 +423,23 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6305309" includeTime="2023-08-24T19:15:02" urgencyType="1" entryType="3" hash="7B2AAD2EF4B99E1B6AD6190572F1C89D" ts="2023-08-24T19:15:02">
+ <decision date="2023-08-17" number="" org=""/>
+ <url><![CDATA[https://moskva-pomnit.ru/view/kupit-prava-kategoriya-v/0-voditelskie-prava-v-sankt-peterburge.html]]></url>
+ <domain><![CDATA[moskva-pomnit.ru]]></domain>
+ <ip>104.21.47.114</ip>
+ <ip>172.67.147.123</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:937b</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:2f72</ipv6>
+</content>
+<content id="6305310" includeTime="2023-08-24T19:15:02" urgencyType="1" entryType="3" hash="748A9DFA9EAFE2E9C89E815194A2A72E" ts="2023-08-24T19:15:02">
+ <decision date="2023-08-17" number="" org=""/>
+ <url><![CDATA[https://wiuwi.com/blogs/15139/купить-права-на-погрузчик]]></url>
+ <domain><![CDATA[wiuwi.com]]></domain>
+ <ip>104.21.54.217</ip>
+ <ip>172.67.142.217</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:36d9</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:8ed9</ipv6>
 </content>
 </reg:register>
