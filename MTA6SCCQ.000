@@ -12426,6 +12426,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6292612" includeTime="2023-08-24T21:40:02" entryType="1" hash="BFE5EF6FBF324DE3B9DC62679EA3A8A1" blockType="domain-mask" ts="2023-08-24T21:40:02">
+ <decision date="2023-08-17" number="2023-08-15-3023" org="МВД"/>
+ <domain><![CDATA[*.semyanich-seeds-2.store]]></domain>
+ <ip>87.236.16.32</ip>
+</content>
 <content id="6292615" includeTime="2023-08-21T13:30:03" entryType="1" hash="011BA78335DB706155BCEC1E66ED7044" ts="2023-08-21T13:30:03">
  <decision date="2020-07-21" number="2020-07-21-405" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://moreon-aqua.ru/boshki-v-ussuriyske.html]]></url>
@@ -14066,10 +14071,10 @@
  <ipv6>2600:9000:2038:cc00:0016:fbd8:12c0:0021</ipv6>
  <ipv6>2600:9000:2038:e200:0016:fbd8:12c0:0021</ipv6>
 </content>
-<content id="6292973" includeTime="2023-08-19T13:15:02" entryType="5" hash="0DDEE173272CFFEE4C7026F43594A7D7" blockType="domain" ts="2023-08-19T13:15:02">
+<content id="6292973" includeTime="2023-08-19T13:15:02" entryType="5" hash="FBD6E34CD182FBDD126A85DF4E1BD4D2" blockType="domain" ts="2023-08-24T21:40:02">
  <decision date="2023-08-18" number="1з-68656/2023" org="Минцифры"/>
  <domain><![CDATA[kinovod200823.cc]]></domain>
- <ip>74.125.29.132</ip>
+ <ip>81.17.19.7</ip>
 </content>
 <content id="6292974" includeTime="2023-08-19T13:15:02" entryType="5" hash="FFAB97AC74F2283A7FA7F2893999D14E" blockType="domain" ts="2023-08-19T13:15:02">
  <decision date="2023-08-18" number="1з-68630/2023" org="Минцифры"/>
