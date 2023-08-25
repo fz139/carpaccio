@@ -3538,6 +3538,19 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6275062" includeTime="2023-08-25T20:10:02" urgencyType="1" entryType="3" hash="F11C623729431D0202A341FEDF9B5BF1" blockType="domain-mask" ts="2023-08-25T20:10:02">
+ <decision date="2023-08-15" number="" org=""/>
+ <domain><![CDATA[*.svitlytsia.crimea.ua]]></domain>
+ <ip>89.184.73.225</ip>
+</content>
+<content id="6275063" includeTime="2023-08-25T20:10:02" urgencyType="1" entryType="3" hash="26F95876BD756087AD9D8C71EC82C37D" blockType="domain-mask" ts="2023-08-25T20:10:02">
+ <decision date="2023-08-15" number="" org=""/>
+ <domain><![CDATA[*.smi.pp.ua]]></domain>
+ <ip>104.21.80.236</ip>
+ <ip>172.67.187.166</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:bba6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:50ec</ipv6>
+</content>
 <content id="6275067" includeTime="2023-08-15T23:35:02" entryType="1" hash="9E1ACD51D337ADF2F560D55EDE0100EF" blockType="domain-mask" ts="2023-08-15T23:35:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1xbet765.ru]]></domain>

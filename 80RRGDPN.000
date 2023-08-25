@@ -2955,6 +2955,24 @@
  <domain><![CDATA[dispose-efrain-644465.appspot.com]]></domain>
  <ip>74.125.196.132</ip>
 </content>
+<content id="6302179" includeTime="2023-08-25T20:10:02" urgencyType="1" entryType="3" hash="4D6F2393512AA43B4E3A9AC514189D54" blockType="domain-mask" ts="2023-08-25T20:10:02">
+ <decision date="2023-08-23" number="" org=""/>
+ <domain><![CDATA[*.koronavirus.center]]></domain>
+ <ip>185.56.234.13</ip>
+</content>
+<content id="6302180" includeTime="2023-08-25T20:10:02" urgencyType="1" entryType="3" hash="8901FF23062FA83FE895B01320252834" blockType="domain-mask" ts="2023-08-25T20:10:02">
+ <decision date="2023-08-23" number="" org=""/>
+ <domain><![CDATA[*.fonge.org]]></domain>
+ <ip>5.148.169.160</ip>
+</content>
+<content id="6302181" includeTime="2023-08-25T20:10:02" urgencyType="1" entryType="3" hash="D39E9F7ABFD8EC320493F4E5F01471FB" blockType="domain-mask" ts="2023-08-25T20:10:02">
+ <decision date="2023-08-23" number="" org=""/>
+ <domain><![CDATA[*.mapofpeace.org]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6302182" includeTime="2023-08-24T19:15:02" urgencyType="1" entryType="3" hash="38B3CC3B761813CC44DF963B7DC57F03" blockType="domain" ts="2023-08-24T19:15:02">
  <decision date="2023-08-18" number="" org=""/>
  <domain><![CDATA[101-diplomh.com]]></domain>
@@ -3695,6 +3713,15 @@
 <content id="6302324" includeTime="2023-08-23T22:35:02" entryType="1" hash="4402078B93E835D58B43E327200B4746" blockType="domain-mask" ts="2023-08-23T22:35:02">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.richclub710.sbs]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6302326" includeTime="2023-08-25T20:10:02" entryType="1" hash="F92AFB3975121FF754A41DE6D5D27564" ts="2023-08-25T20:10:02">
+ <decision date="2023-08-23" number="2023-08-22-3229-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://v.fintovary.com/katalog/rebelsas-14-mg-90-sht-tabletki]]></url>
+ <domain><![CDATA[v.fintovary.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
