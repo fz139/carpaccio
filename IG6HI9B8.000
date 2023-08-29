@@ -3904,6 +3904,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6275156" includeTime="2023-08-29T22:25:01" entryType="1" hash="7B5934B4F0BC3096643BFCAF2B54A323" blockType="domain-mask" ts="2023-08-29T22:25:01">
+ <decision date="2023-08-14" number="2023-08-02-557-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[*.lux-farma.net]]></domain>
+ <ip>104.248.32.252</ip>
+</content>
 <content id="6275157" includeTime="2023-08-15T23:35:02" entryType="1" hash="23C6C35FA00810B47DF8012250F1787C" blockType="domain-mask" ts="2023-08-15T23:35:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1xbet-zerkalo117.ru]]></domain>
@@ -3919,6 +3924,11 @@
  <ip>172.67.221.166</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:dda6</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3336</ipv6>
+</content>
+<content id="6275160" includeTime="2023-08-29T22:25:01" entryType="1" hash="D0451145CCE75DE447753AEA31BA69A5" blockType="domain-mask" ts="2023-08-29T22:25:01">
+ <decision date="2023-08-14" number="2023-08-02-568-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[*.apteka-medik.net]]></domain>
+ <ip>178.128.204.117</ip>
 </content>
 <content id="6275162" includeTime="2023-08-17T18:20:02" entryType="1" hash="B17B8BE73FB7226CAE7BA733ACF8A3A3" blockType="domain" ts="2023-08-17T18:20:02">
  <decision date="2023-08-14" number="2023-08-02-621-ПЛ" org="Росздравнадзор"/>
