@@ -4834,6 +4834,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6313689" includeTime="2023-09-05T13:15:01" entryType="1" hash="6BA6E44256722E4EC7E9EE058D0251D9" blockType="domain-mask" ts="2023-09-05T13:15:01">
+ <decision date="2023-08-25" number="2023-08-22-1686" org="МВД"/>
+ <domain><![CDATA[*.hs420seeds.xyz]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6313698" includeTime="2023-08-29T13:50:03" entryType="1" hash="1161F54394DF8A0B6B394E39C2BB91F1" blockType="domain" ts="2023-08-29T13:50:03">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[gubkin.narco.store]]></domain>
@@ -5196,6 +5204,11 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6313806" includeTime="2023-09-05T13:15:01" entryType="1" hash="0C80D080D94A400217D1C31B46582F3B" blockType="domain" ts="2023-09-05T13:15:01">
+ <decision date="2023-08-17" number="2а-899/2023" org="Кировский районный суд г. Кемерово - Кемеровская область"/>
+ <domain><![CDATA[www.onhypeclub.ru]]></domain>
+ <ip>79.133.180.99</ip>
 </content>
 <content id="6313809" includeTime="2023-08-30T13:50:02" entryType="1" hash="51AC24DCEBADD4A991BC5611F92A3FBC" blockType="domain" ts="2023-08-30T13:50:02">
  <decision date="2023-08-25" number="2023-08-23-1131" org="МВД"/>
