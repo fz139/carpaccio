@@ -624,11 +624,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:c7fa</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:2c7f</ipv6>
 </content>
-<content id="5802012" includeTime="2023-04-24T09:59:10" entryType="1" hash="9BD814DC0488F0E0D081ECC9ABE86556" blockType="domain-mask" ts="2023-04-24T09:59:10">
- <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.onikfilm.site]]></domain>
- <ip>85.192.40.13</ip>
-</content>
 <content id="5802019" includeTime="2023-04-24T13:04:18" entryType="1" hash="69A46AA352AF066F2C3FC1995FF3D0B4" blockType="domain" ts="2023-04-24T13:04:18">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[dir24.cc]]></domain>
@@ -1440,6 +1435,15 @@
  <ip>172.67.141.187</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8dbb</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:092f</ipv6>
+</content>
+<content id="5804892" includeTime="2023-09-05T09:25:02" entryType="2" hash="AFD4864D17B8D0207DA67A3AC4F83B6D" ts="2023-09-05T09:25:02">
+ <decision date="2021-03-24" number="определение о предварительном обеспечении по заявлению № 2И-2306/2021" org="Мосгорсуд"/>
+ <url><![CDATA[https://lf8.lordy.in/filmy/80062-bud-moim-kirillom-2021.html]]></url>
+ <domain><![CDATA[lf8.lordy.in]]></domain>
+ <ip>104.21.47.71</ip>
+ <ip>172.67.170.165</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:aaa5</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:2f47</ipv6>
 </content>
 <content id="5804907" includeTime="2023-07-20T11:45:01" entryType="2" hash="6BA89AEFCC04F35C66BA6FB5DBED8961" ts="2023-07-20T11:45:01">
  <decision date="2021-12-08" number="определение о предварительном обеспечении по заявлению № 2И-15033/2021" org="Мосгорсуд"/>
@@ -4074,12 +4078,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5807539" includeTime="2023-04-21T22:00:56" entryType="1" hash="F3355773C6D66D9C64A4F438AFE3CF0B" blockType="domain-mask" ts="2023-04-21T22:00:56">
- <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.jet-stom2.info]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
-</content>
 <content id="5807543" includeTime="2023-04-21T22:00:56" entryType="1" hash="39EB486D3863852BFCD4521722CFA48F" blockType="domain-mask" ts="2023-04-21T22:00:56">
  <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.up5yd8x.tech]]></domain>
@@ -4268,14 +4266,6 @@
  <ip>172.67.215.186</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:4e24</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d7ba</ipv6>
-</content>
-<content id="5807622" includeTime="2023-04-21T22:00:57" entryType="1" hash="4A00AA334860D144D59A911EA3E275D4" blockType="domain" ts="2023-04-21T22:00:57">
- <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[korzhonov.ru]]></domain>
- <ip>104.21.90.121</ip>
- <ip>172.67.156.112</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:9c70</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:5a79</ipv6>
 </content>
 <content id="5807623" includeTime="2023-04-21T22:00:58" entryType="1" hash="CC4A2D4862890F87FB565DB181085A45" blockType="domain-mask" ts="2023-04-21T22:00:58">
  <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4512,14 +4502,6 @@
  <url><![CDATA[https://nitter.ktachibana.party/ks1v/status/1439866313476689924]]></url>
  <domain><![CDATA[nitter.ktachibana.party]]></domain>
  <ip>159.65.99.86</ip>
-</content>
-<content id="5807714" includeTime="2023-04-21T22:00:56" entryType="1" hash="F24D91B4B2B27FE96706CD824BCAE62E" blockType="domain-mask" ts="2023-04-21T22:00:56">
- <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.1win-joyy468.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="5807718" includeTime="2023-04-21T22:00:57" entryType="1" hash="4B7368328C0E52B3C2396353E7B1B691" blockType="domain-mask" ts="2023-04-21T22:00:57">
  <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4906,14 +4888,6 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:927a</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:375b</ipv6>
 </content>
-<content id="5807838" includeTime="2023-04-21T22:00:57" entryType="1" hash="242261DC17A2EE9FE4127F4C228ABE6B" blockType="domain-mask" ts="2023-04-21T22:00:57">
- <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.1win63.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="5807842" includeTime="2023-04-21T22:00:58" entryType="1" hash="69D18D2761287919EA28EBB93A6EFC1C" blockType="domain" ts="2023-04-21T22:00:58">
  <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[xn----gtbho2aetb.xn--p1ai]]></domain>
@@ -5101,11 +5075,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5807907" includeTime="2023-04-24T09:59:11" entryType="1" hash="EF006118B55B1F6D1983359289289CDB" blockType="domain-mask" ts="2023-04-24T09:59:11">
- <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.kinosmotr.pw]]></domain>
- <ip>77.91.78.32</ip>
-</content>
 <content id="5807910" includeTime="2023-04-24T13:04:23" entryType="1" hash="16FD58951A804487FA31B7E8776B9B1C" blockType="domain" ts="2023-04-24T13:04:23">
  <decision date="2023-04-20" number="2а-551/2023" org="Ужурский районный суд - Красноярский край"/>
  <domain><![CDATA[medspravkiii-medknigki-krasnoyarsk.ru]]></domain>
@@ -5214,14 +5183,6 @@
  <decision date="2023-04-20" number="2023-04-15-157-АЛК" org="Росалкогольрегулирование"/>
  <domain><![CDATA[alcogol-96.ru]]></domain>
  <ip>45.147.197.150</ip>
-</content>
-<content id="5807947" includeTime="2023-04-21T22:00:57" entryType="1" hash="E143C93DBE2E3A87B2A7723BC6733F9D" blockType="domain-mask" ts="2023-04-21T22:00:57">
- <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.pokerdomroom19.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="5807950" includeTime="2023-04-24T13:04:22" entryType="1" hash="39AB2F48CF7E1C0C32001159D4235D8D" blockType="domain" ts="2023-04-24T13:04:22">
  <decision date="2023-04-20" number="2023-04-17-2386-АЛК" org="Росалкогольрегулирование"/>
