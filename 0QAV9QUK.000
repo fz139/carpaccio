@@ -634,9 +634,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6260281" includeTime="2023-08-08T23:55:01" entryType="1" hash="F02D03363EBE548CFC0510D3D174CDDA" blockType="domain" ts="2023-08-08T23:55:01">
+<content id="6260281" includeTime="2023-08-08T23:55:01" entryType="1" hash="7E3DB1171E012D8537058411A9A102CC" blockType="domain-mask" ts="2023-09-06T22:10:03">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[smart-plank.com]]></domain>
+ <domain><![CDATA[*.smart-plank.com]]></domain>
  <ip>209.17.116.160</ip>
 </content>
 <content id="6260283" includeTime="2023-08-08T23:55:01" entryType="1" hash="066742E73538453C93F90111C7EED217" blockType="domain-mask" ts="2023-08-08T23:55:01">
