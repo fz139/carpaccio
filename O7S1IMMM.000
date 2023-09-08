@@ -2809,13 +2809,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:b552</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4bc7</ipv6>
 </content>
-<content id="988741" includeTime="2018-10-02T19:29:36" entryType="1" hash="A5DB0EE1B0A55AB7076788103522C89C" ts="2018-10-02T19:29:36">
- <decision date="2018-06-28" number="461407-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://0chan.pl/trans/1471]]></url>
- <domain><![CDATA[0chan.pl]]></domain>
- <ip>104.21.44.253</ip>
- <ip>172.67.206.214</ip>
-</content>
 <content id="988746" includeTime="2018-07-02T19:50:43" entryType="1" hash="B88759D47EE8EF3D1488AE17A8B1D2C4" blockType="domain" ts="2018-07-02T19:50:43">
  <decision date="2018-06-20" number="12211" org="МВД"/>
  <domain><![CDATA[chromashop.biz]]></domain>
@@ -2855,11 +2848,6 @@
  <decision date="2018-05-16" number="2а-205/18" org="Песчанокопский районный суд - Ростовская область"/>
  <domain><![CDATA[ros2.intimros.net]]></domain>
  <ip>95.142.37.22</ip>
-</content>
-<content id="989220" includeTime="2018-10-16T19:38:16" entryType="1" hash="C05C8A90CE04376D0D8DD7A88C32E7E2" blockType="domain" ts="2018-10-16T19:38:16">
- <decision date="2018-06-28" number="461525-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[artffboard.net]]></domain>
- <ip>46.166.189.98</ip>
 </content>
 <content id="989227" includeTime="2018-08-03T16:17:36" entryType="1" hash="33B08CFCB88CD495340535A5688E92A0" blockType="domain" ts="2018-08-03T16:17:36">
  <decision date="2018-05-16" number="2а-209/18" org="Песчанокопский районный суд - Ростовская область"/>
@@ -12306,12 +12294,14 @@
  <domain><![CDATA[muslimsbook.com]]></domain>
  <ip>50.116.94.60</ip>
 </content>
-<content id="1010753" includeTime="2018-10-04T20:11:01" entryType="1" hash="FCC5AF8BE6AF7796F2EDD291EE54E541" ts="2018-10-04T20:11:01">
+<content id="1010753" includeTime="2018-10-04T20:11:01" entryType="1" hash="052989E369BDDCA2D736F94505F4D33C" ts="2023-09-08T12:15:02">
  <decision date="2018-07-18" number="471382-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[http://www.nakedonthestreets.com/content/2018_11.jpg]]></url>
  <domain><![CDATA[www.nakedonthestreets.com]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.234</ip>
 </content>
 <content id="1010819" includeTime="2018-07-23T19:19:25" entryType="1" hash="53C37EBCD2A41F19DC1B44E51421020E" ts="2018-07-23T19:19:25">
  <decision date="2018-07-18" number="471448-URL-on" org="Роскомнадзор"/>
