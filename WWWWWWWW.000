@@ -909,9 +909,9 @@
  <domain><![CDATA[kupit-diplomc.com]]></domain>
  <ip>185.74.253.176</ip>
 </content>
-<content id="6345647" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="BE060DCA761DD04A10BC51D075B8C0CB" blockType="domain" ts="2023-09-09T19:25:01">
+<content id="6345647" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="BBF3974360A86ECAD8755A81920C2660" blockType="domain-mask" ts="2023-09-09T19:30:02">
  <decision date="2023-09-08" number="" org=""/>
- <domain><![CDATA[uanews.net]]></domain>
+ <domain><![CDATA[*.uanews.net]]></domain>
  <ip>145.239.95.182</ip>
 </content>
 <content id="6345648" includeTime="2023-09-09T14:05:02" urgencyType="1" entryType="3" hash="50DA0929F92289917E798703099E9579" blockType="domain-mask" ts="2023-09-09T14:05:02">
@@ -1118,35 +1118,35 @@
  <ipv6>2600:9000:2118:e400:000f:a58a:cf40:0021</ipv6>
  <ipv6>2600:9000:2118:fa00:000f:a58a:cf40:0021</ipv6>
 </content>
-<content id="6345740" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="0F50C17AC4163EA5C795133B46E21214" blockType="domain" ts="2023-09-09T19:25:01">
+<content id="6345740" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="74F999F3D173EDA8EEDDA46A9D0CD03D" blockType="domain-mask" ts="2023-09-09T19:30:02">
  <decision date="2023-09-09" number="" org=""/>
- <domain><![CDATA[prosleduetmedia.com]]></domain>
+ <domain><![CDATA[*.prosleduetmedia.com]]></domain>
  <ip>213.133.104.18</ip>
  <ipv6>2a01:04f8:0d0a:213f:0000:0000:0000:0002</ipv6>
 </content>
-<content id="6345741" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="1DFC5D6BC4B1C773031C5181779AC322" blockType="domain" ts="2023-09-09T19:25:01">
+<content id="6345741" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="2FE2BF9337B32222492461BDE63E29E9" blockType="domain-mask" ts="2023-09-09T19:30:02">
  <decision date="2023-09-09" number="" org=""/>
- <domain><![CDATA[kovcheg.live]]></domain>
+ <domain><![CDATA[*.kovcheg.live]]></domain>
  <ip>104.21.89.239</ip>
  <ip>172.67.191.238</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:59ef</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:bfee</ipv6>
 </content>
-<content id="6345742" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="9884DA60E75F9451D2520CF6B0602730" blockType="domain" ts="2023-09-09T19:25:01">
+<content id="6345742" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="4CD4BC57FEB2C6EC5020D8BC4EC12346" blockType="domain-mask" ts="2023-09-09T19:30:02">
  <decision date="2023-09-09" number="" org=""/>
- <domain><![CDATA[www.groza.media]]></domain>
+ <domain><![CDATA[*.www.groza.media]]></domain>
  <ip>13.200.123.229</ip>
  <ip>13.234.100.116</ip>
  <ip>65.0.79.182</ip>
 </content>
-<content id="6345743" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="52F5B349815342D1DB0FD568D1282D27" blockType="domain" ts="2023-09-09T19:25:01">
+<content id="6345743" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="FA6958B52087CD1BD7C919CA9C0F8E49" blockType="domain-mask" ts="2023-09-09T19:30:02">
  <decision date="2023-09-09" number="" org=""/>
- <domain><![CDATA[christianitytoday.com]]></domain>
+ <domain><![CDATA[*.christianitytoday.com]]></domain>
  <ip>12.227.87.140</ip>
 </content>
-<content id="6345744" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="C86837A87E331EE0D6DD89F55EE5C370" blockType="domain" ts="2023-09-09T19:25:01">
+<content id="6345744" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="456E6E21A0FFBA3AF0FF638BE5842809" blockType="domain-mask" ts="2023-09-09T19:30:02">
  <decision date="2023-09-09" number="" org=""/>
- <domain><![CDATA[kompromat1.press]]></domain>
+ <domain><![CDATA[*.kompromat1.press]]></domain>
  <ip>172.67.208.177</ip>
 </content>
 <content id="6345745" includeTime="2023-09-09T14:05:02" urgencyType="1" entryType="3" hash="A5953AD64F91429D4EEEB6013F78CEA2" ts="2023-09-09T14:05:02">
@@ -1370,53 +1370,46 @@
  <domain><![CDATA[istinno-govoryu-vam.z-zasrancy.giize.com]]></domain>
  <ip>5.181.80.165</ip>
 </content>
-<content id="6345841" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="772CCE51C1E99B3C4F47703B04A7443F" ts="2023-09-09T19:25:01">
+<content id="6345841" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="18E91231DB9B725C9F84CCD48BDC731A" blockType="domain-mask" ts="2023-09-09T19:30:02">
  <decision date="2023-06-19" number="" org=""/>
- <url><![CDATA[https://tits-guru.com/stop-war.html]]></url>
- <domain><![CDATA[tits-guru.com]]></domain>
+ <domain><![CDATA[*.tits-guru.com]]></domain>
  <ip>138.197.237.254</ip>
 </content>
-<content id="6345842" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="0CBB9E2BEBBBC79CEA3B741C4E22C584" ts="2023-09-09T19:25:01">
+<content id="6345842" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="9DDF18975CF90EE7E987F4A92D30C774" blockType="domain-mask" ts="2023-09-09T19:30:02">
  <decision date="2023-06-19" number="" org=""/>
- <url><![CDATA[https://zerkaloworld.site/news/amp/world/30832.html]]></url>
- <domain><![CDATA[zerkaloworld.site]]></domain>
+ <domain><![CDATA[*.zerkaloworld.site]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6345843" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="D1FE6C50C8FEF24E3EC84B1EE88531A6" ts="2023-09-09T19:25:01">
+<content id="6345843" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="4F4227FA8F8CCBCEBFED931046F4EB86" blockType="domain-mask" ts="2023-09-09T19:30:02">
  <decision date="2023-08-09" number="" org=""/>
- <url><![CDATA[https://proagro.com.ua/rus/rastenievodstvo/zernovye/rashysty-ukraly-100-tys-tonn-kukuruzy-y-podsolnechnyka-na-hersonshhyne.html]]></url>
- <domain><![CDATA[proagro.com.ua]]></domain>
+ <domain><![CDATA[*.proagro.com.ua]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6345844" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="0EA97136A5544D6B988D9D686A21701E" ts="2023-09-09T19:25:01">
+<content id="6345844" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="5532D79FD6B1F3CAC1B745D97C7B211D" blockType="domain-mask" ts="2023-09-09T19:30:02">
  <decision date="2023-08-09" number="" org=""/>
- <url><![CDATA[https://m-ezhoff.com/Blogging/ÍÀØÈ-ÌÀËÜ×ÈÊÈ-04-12-2022/#wbb1]]></url>
- <domain><![CDATA[m-ezhoff.com]]></domain>
+ <domain><![CDATA[*.m-ezhoff.com]]></domain>
  <ip>198.54.116.74</ip>
 </content>
-<content id="6345845" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="4CD7EA3C2DB76D1D2202F488FEDC4D0F" ts="2023-09-09T19:25:01">
+<content id="6345845" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="7718ABF4E6B5915E68846BBF075BDBE6" blockType="domain-mask" ts="2023-09-09T19:30:02">
  <decision date="2023-08-09" number="" org=""/>
- <url><![CDATA[https://denixnovisti.ru/rossija-udarila-po-ukraine-kinzhalami-s-territorii-belarusi]]></url>
- <domain><![CDATA[denixnovisti.ru]]></domain>
+ <domain><![CDATA[*.denixnovisti.ru]]></domain>
  <ip>92.53.118.39</ip>
  <ipv6>2a03:6f00:0001:0000:0000:0000:5c35:7627</ipv6>
 </content>
-<content id="6345846" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="54F21561CFD3B8479B517F444CC0DE7C" ts="2023-09-09T19:25:01">
+<content id="6345846" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="EC69898EF4951B0FBE79159592FD1DAD" blockType="domain-mask" ts="2023-09-09T19:30:02">
  <decision date="2023-08-15" number="" org=""/>
- <url><![CDATA[https://r4.err.ee/1608744886/vvsrossii-snova-bombjat-mirnye-goroda-ukrainy]]></url>
- <domain><![CDATA[r4.err.ee]]></domain>
+ <domain><![CDATA[*.r4.err.ee]]></domain>
  <ip>194.36.162.37</ip>
 </content>
-<content id="6345847" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="A356738072D98F8C16B7D180580CED71" ts="2023-09-09T19:25:01">
+<content id="6345847" includeTime="2023-09-09T19:25:01" urgencyType="1" entryType="3" hash="5D156BD3DF5392DECFDC1849D403599C" blockType="domain-mask" ts="2023-09-09T19:30:02">
  <decision date="2023-08-22" number="" org=""/>
- <url><![CDATA[https://yuginform.com/news/25423-v-zapovednike-askaniya-nova-rashisty-ubili-oleney-i-pohvastalis-v-socsetyah.html]]></url>
- <domain><![CDATA[yuginform.com]]></domain>
+ <domain><![CDATA[*.yuginform.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
