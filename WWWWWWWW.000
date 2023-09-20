@@ -14857,4 +14857,17 @@
  <decision date="2023-09-20" number="2239676-URL-on" org="Роскомнадзор"/>
  <ip>94.237.43.28</ip>
 </content>
+<content id="6368659" includeTime="2023-09-20T19:35:02" urgencyType="1" entryType="3" hash="A957CA4C34AEC497E40726A5259D5E85" blockType="domain-mask" ts="2023-09-20T19:35:02">
+ <decision date="2023-09-20" number="" org=""/>
+ <domain><![CDATA[*.unkremlin.org]]></domain>
+ <ip>104.21.67.24</ip>
+ <ip>172.67.211.145</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:4318</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:d391</ipv6>
+</content>
+<content id="6368660" includeTime="2023-09-20T19:35:02" urgencyType="1" entryType="3" hash="665F8EE4D270FE09C501BA6F9CC948A0" blockType="domain-mask" ts="2023-09-20T19:35:02">
+ <decision date="2023-09-20" number="" org=""/>
+ <domain><![CDATA[*.uralic.org]]></domain>
+ <ip>85.222.234.14</ip>
+</content>
 </reg:register>
