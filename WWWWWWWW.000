@@ -18527,4 +18527,13 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4e25</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d7bb</ipv6>
 </content>
+<content id="6372336" includeTime="2023-09-21T18:00:03" entryType="1" hash="F1E0C9EE6086E6150299576E139CAE4F" blockType="ip" ts="2023-09-21T18:00:03">
+ <decision date="2023-09-21" number="2241108-URL-on" org="Роскомнадзор"/>
+ <ip>94.237.108.49</ip>
+</content>
+<content id="6372337" includeTime="2023-09-21T18:00:03" entryType="1" hash="1B9DEC4437E90D45E7ADFEE01C966F8D" blockType="domain" ts="2023-09-21T18:00:03">
+ <decision date="2023-09-21" number="2241109-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[yp3l.elm.ovh]]></domain>
+ <ip>46.166.185.163</ip>
+</content>
 </reg:register>
