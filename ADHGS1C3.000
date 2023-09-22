@@ -14351,9 +14351,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6320344" includeTime="2023-08-30T23:45:01" entryType="1" hash="95371045C1ECC9A33424C2FDFE399676" blockType="domain" ts="2023-09-22T14:20:03">
+<content id="6320344" includeTime="2023-08-30T23:45:01" entryType="1" hash="B4977F449771C914B3B739AE29DF8D6E" blockType="domain-mask" ts="2023-09-22T19:20:02">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[hasraek.ru]]></domain>
+ <domain><![CDATA[*.hasraek.ru]]></domain>
  <ip>104.21.93.81</ip>
  <ip>172.67.207.154</ip>
 </content>

@@ -2318,9 +2318,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1e7e</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:aceb</ipv6>
 </content>
-<content id="6358076" includeTime="2023-09-18T13:55:03" entryType="1" hash="19754BBDA19DFFAEBBA0DE175E06EC7C" blockType="domain" ts="2023-09-18T13:55:03">
- <decision date="2023-09-14" number="L001-708/23" org="Роскомнадзор"/>
- <domain><![CDATA[mangahub.ru]]></domain>
+<content id="6358076" includeTime="2023-09-18T13:55:03" entryType="1" hash="636EFC4C675C9C6D3E21D7FF62E35F5A" blockType="domain-mask" ts="2023-09-22T19:20:02">
+ <decision date="2023-09-14" number="2234428-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.mangahub.ru]]></domain>
  <ip>104.21.83.183</ip>
  <ip>172.67.180.127</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b47f</ipv6>
