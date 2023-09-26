@@ -2237,12 +2237,16 @@
  <ip>67.202.114.141</ip>
  <ipv6>2607:f128:0053:0000:0000:0000:0000:0044</ipv6>
 </content>
-<content id="355696" includeTime="2016-10-04T16:02:05" entryType="1" hash="24CDF342ED11825E3A0B0B4056956466" blockType="domain" ts="2016-10-04T16:02:05">
+<content id="355696" includeTime="2016-10-04T16:02:05" entryType="1" hash="76E679B3DBE8ADCC55A0E995E0A0C846" blockType="domain" ts="2023-09-26T14:55:02">
  <decision date="2016-09-28" number="154858-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[danbooru.donmai.us]]></domain>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="355702" includeTime="2016-10-04T16:02:09" entryType="1" hash="6F7D95290FCA39D3968689AC48A99768" ts="2016-10-04T16:02:09">
@@ -2563,13 +2567,15 @@
  <ip>88.208.39.131</ip>
  <ip>88.208.59.70</ip>
 </content>
-<content id="357040" includeTime="2016-10-04T16:02:07" entryType="1" hash="1F2C53722BCE4F418FAA20355DE1754E" ts="2023-07-12T17:35:40">
+<content id="357040" includeTime="2016-10-04T16:02:07" entryType="1" hash="D75E90FFA7B20FE314D4E84BA56D2C6B" ts="2023-09-26T14:55:02">
  <decision date="2016-09-30" number="155807-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[http://www.pixiv.net/member_illust.php?mode=medium&illust_id=55905973]]></url>
  <domain><![CDATA[www.pixiv.net]]></domain>
  <ip>104.18.36.166</ip>
  <ip>172.64.151.90</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
 </content>
 <content id="357094" includeTime="2016-10-07T17:17:23" entryType="1" hash="0E3C58D723765F51D3A86DDD3F1BADEB" ts="2016-10-07T17:17:23">
@@ -5459,15 +5465,14 @@
  <ip>104.18.34.175</ip>
  <ip>104.18.35.175</ip>
 </content>
-<content id="369489" includeTime="2016-10-24T16:19:40" entryType="1" hash="751C6CD631940D48037D3A0190C58F92" blockType="domain" ts="2016-10-24T16:19:40">
+<content id="369489" includeTime="2016-10-24T16:19:40" entryType="1" hash="6156ED4B8D3036BE933E44D24AD676D7" ts="2023-09-26T14:55:02">
  <decision date="2016-10-20" number="2-6-27/2016-08-26-26-АИ" org="ФНС"/>
+ <url><![CDATA[https://www.32red.com]]></url>
  <domain><![CDATA[www.32red.com]]></domain>
  <ip>104.16.111.33</ip>
  <ip>104.16.112.33</ip>
- <ip>151.249.90.232</ip>
- <ip>151.249.91.124</ip>
- <ip>151.249.91.35</ip>
- <ip>174.35.62.120</ip>
+ <ip>104.17.129.40</ip>
+ <ip>104.17.130.40</ip>
 </content>
 <content id="369490" includeTime="2016-10-24T16:19:37" entryType="1" hash="823A8AB0E50679F200071F8CAD5C69D9" ts="2016-10-24T16:19:37">
  <decision date="2016-10-20" number="2-6-27/2016-08-27-2-АИ" org="ФНС"/>
