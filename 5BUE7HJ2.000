@@ -3,10 +3,14 @@
  <domain><![CDATA[bad.news]]></domain>
  <ip>172.64.108.26</ip>
  <ip>172.64.109.26</ip>
+ <ip>172.64.136.19</ip>
+ <ip>172.64.137.19</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1a</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1a</ipv6>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8813</ipv6>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8913</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -102,11 +106,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5607711" includeTime="2023-03-22T13:37:52" entryType="1" hash="520B159AE39939EE580B4DCBBA1F1720" ts="2023-07-13T14:36:55">
+<content id="5607711" includeTime="2023-03-22T13:37:52" entryType="1" hash="DAFC7BCE3FE4DEC407071014493C1E22" ts="2023-09-29T15:30:02">
  <decision date="2023-03-20" number="2015730-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://www.littlemodels.org/]]></url>
  <domain><![CDATA[www.littlemodels.org]]></domain>
- <ip>86.38.217.18</ip>
+ <ip>89.117.30.14</ip>
 </content>
 <content id="5607713" includeTime="2023-03-20T20:27:29" entryType="1" hash="A96B266B1FB4144E191CA7BD81918EE4" blockType="domain-mask" ts="2023-03-20T20:27:29">
  <decision date="2017-08-30" number="2-6-20/2017-08-30-1156-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1332,10 +1336,10 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:54d0</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c523</ipv6>
 </content>
-<content id="5608121" includeTime="2023-03-22T13:37:50" entryType="1" hash="8FC844417D3920F08CED8002EEE2F1E8" blockType="domain" ts="2023-03-22T13:37:50">
+<content id="5608121" includeTime="2023-03-22T13:37:50" entryType="1" hash="024FC7E5EDC14A0590F34AE0D0CB4118" blockType="domain" ts="2023-09-29T15:30:02">
  <decision date="2023-03-20" number="2015717-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[www.bestmodels.site]]></domain>
- <ip>139.64.135.204</ip>
+ <ip>89.117.30.14</ip>
 </content>
 <content id="5608125" includeTime="2023-03-22T13:37:52" entryType="1" hash="0EE1B8243202F0F34D9B4CC84D841F0A" ts="2023-03-22T13:37:52">
  <decision date="2023-02-14" number="2а-1137/2023" org="Металлургический районный суд г. Челябинска - Челябинская область"/>
@@ -2959,16 +2963,20 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6815:4bf5</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:b80c</ipv6>
 </content>
-<content id="5608648" includeTime="2023-03-23T13:43:07" entryType="1" hash="39A39959B88DDD6542EC79D0743B9BD1" ts="2023-09-26T17:35:02">
+<content id="5608648" includeTime="2023-03-23T13:43:07" entryType="1" hash="EC6C86191394456601AA87B3BAB54002" ts="2023-09-29T15:30:02">
  <decision date="2023-03-20" number="2015665-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://bad.news/mh/view/id-48863#11]]></url>
  <domain><![CDATA[bad.news]]></domain>
  <ip>172.64.108.26</ip>
  <ip>172.64.109.26</ip>
+ <ip>172.64.136.19</ip>
+ <ip>172.64.137.19</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1a</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1a</ipv6>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8813</ipv6>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8913</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -3038,12 +3046,16 @@
  <domain><![CDATA[yakutsk7.hotxxxx.pro]]></domain>
  <ip>37.1.205.41</ip>
 </content>
-<content id="5608684" includeTime="2023-03-22T13:37:52" entryType="1" hash="C6D39C472E709F50332685303BEEBA7A" ts="2023-03-22T13:37:52">
+<content id="5608684" includeTime="2023-03-22T13:37:52" entryType="1" hash="1119023C034EB13580D8E8F43DA80B59" ts="2023-09-29T15:30:02">
  <decision date="2022-10-25" number="2а-1704/2022" org="Замоскворецкий районный суд - Москва"/>
  <url><![CDATA[http://muzlit.net/oksimiron-posledniy-zvonok-lyrics]]></url>
  <domain><![CDATA[muzlit.net]]></domain>
+ <ip>104.21.43.57</ip>
+ <ip>172.67.221.108</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:dd6c</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:2b39</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
