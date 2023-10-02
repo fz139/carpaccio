@@ -1,1102 +1,12 @@
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4090248" includeTime="2022-02-28T17:12:53" entryType="1" hash="8E6C2AE3DD038C8C927D43F92831EEA8" ts="2023-07-10T13:28:00">
- <decision date="2022-02-24" number="1600727-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://baraag.net/system/media_attachments/files/107/151/807/330/727/930/original/8e803d7143e86362.png]]></url>
- <domain><![CDATA[baraag.net]]></domain>
- <ip>104.21.234.16</ip>
- <ip>104.21.234.17</ip>
- <ip>104.27.202.88</ip>
- <ip>104.27.203.88</ip>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:ca58</ipv6>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:cb58</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea10</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea11</ipv6>
-</content>
-<content id="4090249" includeTime="2022-02-28T17:12:46" entryType="1" hash="325EE4386B31D7B6CA59A1CC18A275E7" ts="2022-02-28T17:12:46">
- <decision date="2022-02-24" number="1600735-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/161678707654.jpg]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090252" includeTime="2022-02-28T17:12:49" entryType="1" hash="4A58FB63D14661FD183C5DC19CA35D69" blockType="domain" ts="2022-02-28T17:12:49">
- <decision date="2022-02-24" number="2022-02-19-569-АЛК" org="Росалкогольрегулирование"/>
- <domain><![CDATA[dutyfreealko.ru]]></domain>
- <ip>208.97.158.216</ip>
-</content>
-<content id="4090255" includeTime="2022-02-24T22:15:27" entryType="1" hash="1E9C45D957EA781E40901A7E3DAAAEED" blockType="domain" ts="2022-02-24T22:15:27">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-1284-АИ" org="ФНС"/>
- <domain><![CDATA[onlineslotv.xyz]]></domain>
- <ip>104.21.91.154</ip>
- <ip>172.67.223.117</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:df75</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:5b9a</ipv6>
-</content>
-<content id="4090256" includeTime="2022-02-24T22:15:25" entryType="1" hash="EDC3484531CD30B970A730F993820480" blockType="domain" ts="2022-02-24T22:15:25">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3223-АИ" org="ФНС"/>
- <domain><![CDATA[www.casoo22.com]]></domain>
- <ip>185.177.95.41</ip>
-</content>
-<content id="4090258" includeTime="2022-02-25T14:24:49" entryType="1" hash="B624C15E4DB545F389D45D71F0523E5B" ts="2022-02-25T14:24:49">
- <decision date="2022-02-24" number="2-6-18/2021-12-21-1332-АИ" org="ФНС"/>
- <url><![CDATA[https://vseonlineigry.su/pravila-i-usloviya]]></url>
- <domain><![CDATA[vseonlineigry.su]]></domain>
- <ip>51.15.36.129</ip>
-</content>
-<content id="4090259" includeTime="2022-02-24T22:15:27" entryType="1" hash="576BB6D33540AA5E059D7B37468C83D5" blockType="domain-mask" ts="2022-02-24T22:15:27">
- <decision date="2022-02-24" number="2-6-18/2021-10-12-3923-АИ" org="ФНС"/>
- <domain><![CDATA[*.gg187.bet]]></domain>
- <ip>203.32.120.113</ip>
- <ipv6>2a05:7880:010a:fe95:3cf5:9f47:0212:942c</ipv6>
-</content>
-<content id="4090263" includeTime="2022-02-24T22:15:38" entryType="1" hash="DAEB0A00C1A4505DE7100C445B6828A2" blockType="domain" ts="2022-02-24T22:15:38">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-1518-АИ" org="ФНС"/>
- <domain><![CDATA[mostbet-wl6.xyz]]></domain>
- <ip>104.21.22.77</ip>
- <ip>172.67.203.116</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:164d</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:cb74</ipv6>
-</content>
-<content id="4090269" includeTime="2022-02-24T22:15:27" entryType="1" hash="BC819D5BED85362D6620392C977E7C0F" blockType="domain" ts="2022-02-24T22:15:27">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3120-АИ" org="ФНС"/>
- <domain><![CDATA[www.spinsamurai.com]]></domain>
- <ip>104.26.14.15</ip>
- <ip>104.26.15.15</ip>
- <ip>172.67.74.86</ip>
-</content>
-<content id="4090271" includeTime="2022-03-03T00:06:26" entryType="1" hash="26140A76696249D23C684009FF5C535D" ts="2022-03-03T00:06:26">
- <decision date="2022-02-21" number="137262" org="Роспотребнадзор"/>
- <url><![CDATA[https://wiki2wiki.ru/wiki/Suicide_methods]]></url>
- <domain><![CDATA[wiki2wiki.ru]]></domain>
- <ip>104.21.96.7</ip>
- <ip>172.67.150.29</ip>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:6007</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:961d</ipv6>
-</content>
-<content id="4090274" includeTime="2022-02-28T17:12:51" entryType="1" hash="9F619FF896EEEFB8814FCF32997520C9" blockType="domain" ts="2022-02-28T17:12:51">
- <decision date="2022-02-14" number="2а-27/2022" org="Дмитровский районный суд - Орловская область"/>
- <domain><![CDATA[oryol-kupi.prava-online.net]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="4090292" includeTime="2022-02-28T17:12:48" entryType="1" hash="1387E5FA64261436A26C15C02B588220" blockType="domain" ts="2022-02-28T17:12:48">
- <decision date="2022-02-22" number="2а-235/2022" org="Красноярский районный суд Астраханской области"/>
- <domain><![CDATA[astrahanskaya-oblast-tut.prava-online.net]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="4090293" includeTime="2022-02-28T22:36:16" entryType="1" hash="1A7489BB553AF42FC06CB65114873D0F" ts="2023-07-11T10:36:00">
- <decision date="2022-02-24" number="1600661-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://imhentai.xxx/view/544353/397/]]></url>
- <domain><![CDATA[imhentai.xxx]]></domain>
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4090295" includeTime="2022-02-28T17:12:54" entryType="1" hash="43F26E99D2C1957EBE4E0BFBB708D50E" ts="2022-02-28T17:12:54">
- <decision date="2022-02-24" number="1600669-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/164350403274.jpg]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090299" includeTime="2022-02-28T17:12:50" entryType="1" hash="1EEE851548FCEA9CE9F78F4F06E32EDC" ts="2023-07-10T13:28:00">
- <decision date="2022-02-24" number="1600685-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://baraag.net/system/media_attachments/files/105/846/653/823/498/929/original/ea3dd69a04283816.png]]></url>
- <domain><![CDATA[baraag.net]]></domain>
- <ip>104.21.234.16</ip>
- <ip>104.21.234.17</ip>
- <ip>104.27.202.88</ip>
- <ip>104.27.203.88</ip>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:ca58</ipv6>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:cb58</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea10</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea11</ipv6>
-</content>
-<content id="4090301" includeTime="2022-02-28T22:36:16" entryType="1" hash="C83E3460F6C90C43216F5E90A4F04FF9" ts="2023-07-11T10:36:00">
- <decision date="2022-02-24" number="1600693-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://imhentai.xxx/view/544353/423/]]></url>
- <domain><![CDATA[imhentai.xxx]]></domain>
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4090303" includeTime="2022-02-28T17:12:50" entryType="1" hash="9C45276690C7E209B3B50FA35F9AB381" ts="2022-02-28T17:12:50">
- <decision date="2022-02-24" number="1600701-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/162399642768.png]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090311" includeTime="2022-02-24T22:15:24" entryType="1" hash="BA7B98870BE27EE6B9340AEDE6EE2E8B" blockType="domain-mask" ts="2022-02-24T22:15:24">
- <decision date="2022-02-24" number="2-6-18/2021-10-12-2502-АИ" org="ФНС"/>
- <domain><![CDATA[*.play-vulkanrussia.biz]]></domain>
- <ip>104.21.52.185</ip>
- <ip>172.67.202.217</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:cad9</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:34b9</ipv6>
-</content>
-<content id="4090314" includeTime="2022-02-24T22:15:26" entryType="1" hash="EB1B87F197DEC3A45ADCBA38F4BBB982" ts="2022-02-24T22:15:26">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3252-АИ" org="ФНС"/>
- <url><![CDATA[https://freeliveporn.site/975328/]]></url>
- <domain><![CDATA[freeliveporn.site]]></domain>
- <ip>104.21.14.128</ip>
- <ip>172.67.159.40</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:0e80</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:9f28</ipv6>
-</content>
-<content id="4090316" includeTime="2022-02-24T22:15:27" entryType="1" hash="AA27FC1BAF96E570A22551D73ECFE8B6" ts="2022-02-24T22:15:27">
- <decision date="2022-02-24" number="2-6-18/2021-12-21-2013-АИ" org="ФНС"/>
- <url><![CDATA[https://wildtornado.online/ac188ebfb]]></url>
- <domain><![CDATA[wildtornado.online]]></domain>
- <ip>104.21.46.201</ip>
- <ip>172.67.141.173</ip>
-</content>
-<content id="4090317" includeTime="2022-02-24T22:15:26" entryType="1" hash="630A7089727637A9F2BC6E9DBABC9000" ts="2022-02-24T22:15:26">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-496-АИ" org="ФНС"/>
- <url><![CDATA[https://onlinecasinos77russia.com/%D0%BA%D0%B0%D0%B7%D0%B8%D0%BD%D0%BE-%D0%B1%D0%BE%D0%BD%D1%83%D1%81%D1%8B]]></url>
- <domain><![CDATA[onlinecasinos77russia.com]]></domain>
- <ip>104.21.8.147</ip>
- <ip>172.67.188.139</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:bc8b</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:0893</ipv6>
-</content>
-<content id="4090319" includeTime="2022-02-24T22:15:28" entryType="1" hash="610549DA6D61745161EFD48AACEE6EFC" blockType="domain" ts="2022-02-24T22:15:28">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-1267-АИ" org="ФНС"/>
- <domain><![CDATA[vulcan-24-cazino.net]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090321" includeTime="2022-02-28T17:12:49" entryType="1" hash="9C37FBE6C2FF986182781092F75A6F93" ts="2023-07-10T13:28:00">
- <decision date="2022-02-24" number="1600720-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://baraag.net/system/media_attachments/files/107/100/520/707/507/104/original/8d4d6018005cfebc.png]]></url>
- <domain><![CDATA[baraag.net]]></domain>
- <ip>104.21.234.16</ip>
- <ip>104.21.234.17</ip>
- <ip>104.27.202.88</ip>
- <ip>104.27.203.88</ip>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:ca58</ipv6>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:cb58</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea10</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea11</ipv6>
-</content>
-<content id="4090322" includeTime="2022-02-28T17:12:54" entryType="1" hash="4678B42EE0B5CFC20AC79655633FB976" ts="2023-07-10T13:28:00">
- <decision date="2022-02-24" number="1600728-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://baraag.net/system/media_attachments/files/107/151/806/462/700/949/original/656f081beec38c78.png]]></url>
- <domain><![CDATA[baraag.net]]></domain>
- <ip>104.21.234.16</ip>
- <ip>104.21.234.17</ip>
- <ip>104.27.202.88</ip>
- <ip>104.27.203.88</ip>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:ca58</ipv6>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:cb58</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea10</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea11</ipv6>
-</content>
-<content id="4090323" includeTime="2022-02-28T17:12:48" entryType="1" hash="93A50ABE756F7CD68BE05E8070839640" ts="2022-02-28T17:12:48">
- <decision date="2022-02-24" number="1600736-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/161783859249.png]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090324" includeTime="2022-02-28T17:12:50" entryType="1" hash="CFE2C3D15B6A7DF5A32633ACC8E8B215" blockType="domain" ts="2022-02-28T17:12:50">
- <decision date="2022-02-24" number="2022-02-24-1185-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[pharmimport.net]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090329" includeTime="2022-02-24T22:15:25" entryType="1" hash="5DB90AA303FB3E3D9B8CE693B931679A" ts="2022-02-24T22:15:25">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3173-АИ" org="ФНС"/>
- <url><![CDATA[https://www.kingschancelinks.com/click/47/49/1365/1]]></url>
- <domain><![CDATA[www.kingschancelinks.com]]></domain>
- <ip>209.172.32.149</ip>
-</content>
-<content id="4090332" includeTime="2022-02-24T22:15:24" entryType="1" hash="FC638CF9723AD9BCFBF1C3B2617888A2" ts="2022-02-24T22:15:24">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3272-АИ" org="ФНС"/>
- <url><![CDATA[https://renaissance.pw/slot-mashinasi-robinson-bepul-oynaydi.html]]></url>
- <domain><![CDATA[renaissance.pw]]></domain>
- <ip>167.86.98.233</ip>
-</content>
-<content id="4090333" includeTime="2023-09-18T17:40:02" entryType="1" hash="8662AFCEF27AD15D32543F5C5DBE6153" blockType="domain-mask" ts="2023-09-18T17:40:02">
- <decision date="2022-02-24" number="2-6-18/2021-10-12-4063-АИ" org="ФНС"/>
- <domain><![CDATA[*.joycasinoo.life]]></domain>
- <ip>203.23.103.196</ip>
- <ipv6>2a05:7880:020f:5c08:5158:ccd0:5cf6:745f</ipv6>
-</content>
-<content id="4090341" includeTime="2022-02-24T22:15:26" entryType="1" hash="A323C474BC1B542E773CC33FD81FEE74" blockType="domain-mask" ts="2022-02-24T22:15:26">
- <decision date="2022-02-24" number="2-6-18/2021-10-25-698-АИ" org="ФНС"/>
- <domain><![CDATA[*.доктор-рядом45.рф]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090344" includeTime="2022-02-28T22:36:12" entryType="1" hash="5377A4D084B6C4674B4BE05FEB8445CF" ts="2022-02-28T22:36:12">
- <decision date="2022-02-21" number="2а-94/2022" org="Таштыпский районный суд РХ"/>
- <url><![CDATA[https://www.riztube.com/gay]]></url>
- <domain><![CDATA[www.riztube.com]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090345" includeTime="2022-02-28T17:12:47" entryType="1" hash="501FFEC65A465C65BF0454B67E42DF9A" ts="2023-07-10T18:04:00">
- <decision date="2022-02-24" number="1600574-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://img1.gelbooru.com//samples/de/80/sample_de80495d02020c8bb95f9f4b7ca4a456.jpg]]></url>
- <domain><![CDATA[img1.gelbooru.com]]></domain>
- <ip>104.21.233.235</ip>
- <ip>104.21.233.236</ip>
- <ip>104.21.234.4</ip>
- <ip>104.21.234.5</ip>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
-</content>
-<content id="4090347" includeTime="2022-02-28T22:36:13" entryType="1" hash="54D848279D92B68058CAF76A2F4FE563" ts="2023-09-28T12:40:02">
- <decision date="2022-02-24" number="1600582-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://pururin.to/]]></url>
- <domain><![CDATA[pururin.to]]></domain>
- <ip>104.21.62.29</ip>
- <ip>104.21.63.226</ip>
- <ip>172.67.172.91</ip>
- <ip>172.67.219.29</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:ac5b</ipv6>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:db1d</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:3fe2</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:3e1d</ipv6>
-</content>
-<content id="4090350" includeTime="2022-02-28T22:36:10" entryType="1" hash="BF75499FCBAE51EDA1087E8D110BFA44" blockType="domain" ts="2022-02-28T22:36:10">
- <decision date="2022-02-15" number="2а-2-29/2022" org="Бежецкий межрайонный суд Тверской области - Тверская область"/>
- <domain><![CDATA[kupit.dopogrf.com]]></domain>
- <ip>37.252.15.202</ip>
-</content>
-<content id="4090354" includeTime="2022-02-28T17:12:49" entryType="1" hash="938D32525A301987D2E7761C8EC47CFC" ts="2022-02-28T17:12:49">
- <decision date="2022-02-17" number="2a-155/2022" org="Аргаяшский районный суд - Челябинская область"/>
- <url><![CDATA[http://hunting-club.org/forum/index.php?/topic/35-lovlya-kunitsy-kapkanami/]]></url>
- <domain><![CDATA[hunting-club.org]]></domain>
- <ip>176.56.182.154</ip>
-</content>
-<content id="4090358" includeTime="2022-02-28T17:12:52" entryType="1" hash="A46707EC656292D1BFC2A37A5933A031" ts="2022-02-28T17:12:52">
- <decision date="2022-02-21" number="2а-97/2022" org="Таштыпский районный суд РХ"/>
- <url><![CDATA[https://gayhorse.net/]]></url>
- <domain><![CDATA[gayhorse.net]]></domain>
- <ip>104.21.235.135</ip>
- <ip>104.21.235.136</ip>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:eb87</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:eb88</ipv6>
-</content>
-<content id="4090366" includeTime="2022-02-28T17:12:48" entryType="1" hash="E8FBC326165BA8416779A3072176C815" blockType="domain" ts="2022-02-28T17:12:48">
- <decision date="2022-02-01" number="2a-1982/2022" org="Центральный районный суд г. Челябинска - Челябинская область"/>
- <domain><![CDATA[babushki.online]]></domain>
- <ip>51.210.74.45</ip>
-</content>
-<content id="4090368" includeTime="2022-02-28T22:36:10" entryType="1" hash="BB4B91AC460E4E6DC7F83A9747461629" ts="2022-02-28T22:36:10">
- <decision date="2022-02-11" number="2а-1193/2022" org="Дзержинский городской суд - Нижегородская область"/>
- <url><![CDATA[http://risovach.ru/thumb/upload/200s/2016/06/mem/chernilnicy-_116301339_orig_.jpg?3i6fp]]></url>
- <domain><![CDATA[risovach.ru]]></domain>
- <ip>104.21.15.188</ip>
- <ip>172.67.163.199</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:0fbc</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:a3c7</ipv6>
-</content>
-<content id="4090369" includeTime="2022-02-28T22:36:14" entryType="1" hash="236E24A8C1BFB16121097688D13C9886" blockType="domain-mask" ts="2022-02-28T22:36:14">
- <decision date="2022-02-22" number="2022-02-21-2342" org="МВД"/>
- <domain><![CDATA[*.localbot.pro]]></domain>
- <ip>95.215.205.173</ip>
-</content>
-<content id="4090371" includeTime="2022-02-28T17:12:50" entryType="1" hash="3A65B53DBAA87200B737423D1F48B554" ts="2022-02-28T17:12:50">
- <decision date="2022-02-24" number="1600678-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/161935911005.jpg]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090375" includeTime="2022-02-28T17:12:48" entryType="1" hash="D8A8B11835F5E6970A1B44ACA24B8A47" ts="2022-02-28T17:12:48">
- <decision date="2022-02-24" number="1600694-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/162188352332.jpg]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090377" includeTime="2022-02-28T22:36:18" entryType="1" hash="9B51C71F4A0A209F32F268607E9B1ADF" ts="2023-07-11T10:36:00">
- <decision date="2022-02-24" number="1600702-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://imhentai.xxx/view/544353/429/]]></url>
- <domain><![CDATA[imhentai.xxx]]></domain>
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4090381" includeTime="2022-02-24T22:15:30" entryType="1" hash="F89E8548182FF4437DA59C1F03BDA030" ts="2022-02-24T22:15:30">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-1677-АИ" org="ФНС"/>
- <url><![CDATA[https://admiiral-na-dengi.com/jackpot]]></url>
- <domain><![CDATA[admiiral-na-dengi.com]]></domain>
- <ip>203.29.55.161</ip>
- <ipv6>2a07:0180:06d3:8932:d6d3:45db:3e64:51df</ipv6>
-</content>
-<content id="4090386" includeTime="2022-02-24T22:15:30" entryType="1" hash="370C52E9239266AD66D0214C81653AE3" blockType="domain" ts="2022-02-24T22:15:30">
- <decision date="2022-02-24" number="2-6-18/2021-10-12-3783-АИ" org="ФНС"/>
- <domain><![CDATA[www.canadacasinohub.com]]></domain>
- <ip>173.209.36.131</ip>
-</content>
-<content id="4090388" includeTime="2022-02-24T22:15:38" entryType="1" hash="A3071BCCC038318D46B319698C58D68D" ts="2022-02-24T22:15:38">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3253-АИ" org="ФНС"/>
- <url><![CDATA[https://freeliveporn.site/183756/]]></url>
- <domain><![CDATA[freeliveporn.site]]></domain>
- <ip>104.21.14.128</ip>
- <ip>172.67.159.40</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:0e80</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:9f28</ipv6>
-</content>
-<content id="4090389" includeTime="2022-02-24T22:15:26" entryType="1" hash="D9B91F8CF49CC8C5C585A8487BE4D02A" blockType="domain" ts="2022-02-24T22:15:26">
- <decision date="2022-02-24" number="2-6-18/2021-12-21-2005-АИ" org="ФНС"/>
- <domain><![CDATA[betplay.io]]></domain>
- <ip>104.21.5.129</ip>
- <ip>172.67.133.119</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:0581</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:8577</ipv6>
-</content>
-<content id="4090390" includeTime="2022-02-24T22:15:26" entryType="1" hash="6BC97EAD4B5E240847B9549E34DA8333" blockType="domain" ts="2022-02-24T22:15:26">
- <decision date="2022-02-24" number="2-6-18/2021-12-21-2014-АИ" org="ФНС"/>
- <domain><![CDATA[celsiuscasino.com]]></domain>
- <ip>104.26.6.189</ip>
- <ip>104.26.7.189</ip>
- <ip>172.67.74.180</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:06bd</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:07bd</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4ab4</ipv6>
-</content>
-<content id="4090391" includeTime="2022-02-24T22:15:34" entryType="1" hash="AD48F3744481C85F62540A392DCD0F05" blockType="domain" ts="2022-02-24T22:15:34">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-540-АИ" org="ФНС"/>
- <domain><![CDATA[booi-casinoonlines.com]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090392" includeTime="2022-02-24T22:15:37" entryType="1" hash="1EEB2776FC5AFFE7A51D7B0E01DC7495" blockType="domain" ts="2022-02-24T22:15:37">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-810-АИ" org="ФНС"/>
- <domain><![CDATA[casino-columbusonline.com]]></domain>
- <ip>104.21.79.229</ip>
- <ip>172.67.149.76</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:4fe5</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:954c</ipv6>
-</content>
-<content id="4090393" includeTime="2022-02-24T22:15:27" entryType="1" hash="012BD1DC737B2B4C1E3950A87E73ABA4" blockType="domain" ts="2022-02-24T22:15:27">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-1268-АИ" org="ФНС"/>
- <domain><![CDATA[24-faraon.com]]></domain>
- <ip>203.30.188.128</ip>
- <ipv6>2a07:0180:04f7:430a:ecb3:b0b7:a3ab:d881</ipv6>
-</content>
-<content id="4090396" includeTime="2022-02-28T17:12:50" entryType="1" hash="485F7739124EBF995FDC19D1106F377E" ts="2023-07-10T13:28:00">
- <decision date="2022-02-24" number="1600729-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://baraag.net/system/media_attachments/files/107/164/010/539/146/209/original/6946c169eb74888a.png]]></url>
- <domain><![CDATA[baraag.net]]></domain>
- <ip>104.21.234.16</ip>
- <ip>104.21.234.17</ip>
- <ip>104.27.202.88</ip>
- <ip>104.27.203.88</ip>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:ca58</ipv6>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:cb58</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea10</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea11</ipv6>
-</content>
-<content id="4090397" includeTime="2022-02-28T17:12:51" entryType="1" hash="9E142DE9904BB9A999306AC19E268213" ts="2022-02-28T17:12:51">
- <decision date="2022-02-24" number="1600737-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/161826224880.png]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090403" includeTime="2022-02-24T22:15:24" entryType="1" hash="526FD9E2CA6DEBD0A165F183C735AE1E" blockType="domain" ts="2022-02-24T22:15:24">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3174-АИ" org="ФНС"/>
- <domain><![CDATA[www.gokingschance.com]]></domain>
- <ip>104.26.8.89</ip>
- <ip>104.26.9.89</ip>
- <ip>172.67.69.55</ip>
-</content>
-<content id="4090404" includeTime="2022-02-24T22:15:24" entryType="1" hash="0B8677DA1761EBCEB72D6A0DF222B06A" blockType="domain" ts="2022-02-24T22:15:24">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3224-АИ" org="ФНС"/>
- <domain><![CDATA[www.77casoo.com]]></domain>
- <ip>185.177.95.41</ip>
-</content>
-<content id="4090405" includeTime="2022-02-24T22:15:35" entryType="1" hash="04A5ABB96E13BAF3D4EA046304E71C46" ts="2022-02-24T22:15:35">
- <decision date="2022-02-24" number="2-6-18/2021-11-12-903-АИ" org="ФНС"/>
- <url><![CDATA[https://www.qz8zv-admiral-x.icu/ru/]]></url>
- <domain><![CDATA[www.qz8zv-admiral-x.icu]]></domain>
- <ip>45.148.38.101</ip>
-</content>
-<content id="4090406" includeTime="2022-02-24T22:15:38" entryType="1" hash="EA100D65B8200EC65CF6F86A5B82DD8A" blockType="domain" ts="2022-02-24T22:15:38">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3234-АИ" org="ФНС"/>
- <domain><![CDATA[www.ilucki.top]]></domain>
- <ip>104.21.18.199</ip>
- <ip>172.67.183.80</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:b750</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:12c7</ipv6>
-</content>
-<content id="4090407" includeTime="2022-02-24T22:15:29" entryType="1" hash="278CCD1F7355C59F89F4A267F08C1425" blockType="domain" ts="2022-02-24T22:15:29">
- <decision date="2022-02-24" number="2-6-18/2021-10-12-4331-АИ" org="ФНС"/>
- <domain><![CDATA[superslots-casino.biz]]></domain>
- <ip>203.32.120.164</ip>
- <ipv6>2a05:7880:0720:2197:04e4:eb36:eaf0:b3c8</ipv6>
-</content>
-<content id="4090411" includeTime="2022-02-24T22:15:27" entryType="1" hash="17339263664D8C818B2FEF259110AEE6" blockType="domain" ts="2022-02-24T22:15:27">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-1511-АИ" org="ФНС"/>
- <domain><![CDATA[mostbet-wz1.xyz]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090412" includeTime="2022-02-24T22:15:27" entryType="1" hash="C36E8E4F888F3A7ED28638748A3252C2" blockType="domain" ts="2022-02-24T22:15:27">
- <decision date="2022-02-24" number="2-6-18/2021-10-12-3317-АИ" org="ФНС"/>
- <domain><![CDATA[clubnikacazino.com]]></domain>
- <ip>134.209.197.207</ip>
- <ipv6>2a03:b0c0:0002:00d0:0000:0000:1153:a001</ipv6>
-</content>
-<content id="4090432" includeTime="2022-02-28T17:12:53" entryType="1" hash="8951653128A928416C6AC1CA81FD4990" ts="2022-02-28T17:12:53">
- <decision date="2022-02-21" number="2а-97/2022" org="Таштыпский районный суд РХ"/>
- <url><![CDATA[https://gaytube.video]]></url>
- <domain><![CDATA[gaytube.video]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090439" includeTime="2022-02-24T22:15:26" entryType="1" hash="15CCDCF378B71C10D9EBE99CD7FB194C" ts="2022-02-24T22:15:26">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-1341-АИ" org="ФНС"/>
- <url><![CDATA[https://all.nodep-bonus-casino.top/casinos/149-furor.html]]></url>
- <domain><![CDATA[all.nodep-bonus-casino.top]]></domain>
- <ip>104.21.42.74</ip>
- <ip>172.67.159.20</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:2a4a</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:9f14</ipv6>
-</content>
-<content id="4090441" includeTime="2022-02-28T22:36:18" entryType="1" hash="717B282945ECF4504033F146208F5217" ts="2023-07-11T10:36:00">
- <decision date="2022-02-24" number="1600663-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://imhentai.xxx/view/544353/398/]]></url>
- <domain><![CDATA[imhentai.xxx]]></domain>
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4090443" includeTime="2022-02-28T17:12:46" entryType="1" hash="FBF2061F0F104C8C769D94DF1464B38A" ts="2022-02-28T17:12:46">
- <decision date="2022-02-24" number="1600671-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/164420262480.jpg]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090444" includeTime="2022-02-28T17:12:47" entryType="1" hash="F990FA4EBED25245EC8D22AF5430E023" blockType="domain" ts="2022-02-28T17:12:47">
- <decision date="2022-01-19" number="2а-1725/2022" org="Свердловский районный суд г. Перми - Пермский край"/>
- <domain><![CDATA[perm.area-diploma.com]]></domain>
- <ip>157.245.72.144</ip>
-</content>
-<content id="4090449" includeTime="2022-02-28T17:12:55" entryType="1" hash="A1E4DA4010F0D128FE0FB444E4AFA26B" ts="2023-07-10T13:28:00">
- <decision date="2022-02-24" number="1600695-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://baraag.net/system/media_attachments/files/106/213/121/358/149/050/original/a854dd7117f4ec1a.png]]></url>
- <domain><![CDATA[baraag.net]]></domain>
- <ip>104.21.234.16</ip>
- <ip>104.21.234.17</ip>
- <ip>104.27.202.88</ip>
- <ip>104.27.203.88</ip>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:ca58</ipv6>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:cb58</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea10</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea11</ipv6>
-</content>
-<content id="4090451" includeTime="2022-02-28T17:12:53" entryType="1" hash="D1FF0DC43C19B769259B1848EA802EDF" ts="2023-07-10T13:28:00">
- <decision date="2022-02-24" number="1600703-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://baraag.net/system/media_attachments/files/106/529/045/420/391/240/original/65edbd71112792c9.png]]></url>
- <domain><![CDATA[baraag.net]]></domain>
- <ip>104.21.234.16</ip>
- <ip>104.21.234.17</ip>
- <ip>104.27.202.88</ip>
- <ip>104.27.203.88</ip>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:ca58</ipv6>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:cb58</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea10</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea11</ipv6>
-</content>
-<content id="4090460" includeTime="2022-02-24T22:15:32" entryType="1" hash="26909BB57E5C10E96701AADBC3B8BA2D" blockType="domain" ts="2022-02-24T22:15:32">
- <decision date="2022-02-24" number="2-6-18/2021-10-12-3807-АИ" org="ФНС"/>
- <domain><![CDATA[gmscasino.xyz]]></domain>
- <ip>203.28.9.228</ip>
- <ipv6>2a07:0180:03f8:3755:3075:5995:2b09:e8d9</ipv6>
-</content>
-<content id="4090462" includeTime="2022-02-24T22:15:29" entryType="1" hash="535CAEC4BA6B24A4C6813BF7990470B6" blockType="domain" ts="2022-02-24T22:15:29">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3235-АИ" org="ФНС"/>
- <domain><![CDATA[www.ilucki2.com]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090463" includeTime="2022-02-24T22:15:34" entryType="1" hash="51E0D8C8E792F38298FC2A289E479560" ts="2022-02-24T22:15:34">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3260-АИ" org="ФНС"/>
- <url><![CDATA[https://stateoforiginlive.xyz/243497/]]></url>
- <domain><![CDATA[stateoforiginlive.xyz]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090465" includeTime="2022-02-24T22:15:24" entryType="1" hash="5D8FFAB0CA1AC3073B6E9AF6D86DC678" blockType="domain" ts="2022-02-24T22:15:24">
- <decision date="2022-02-24" number="2-6-18/2021-12-21-2015-АИ" org="ФНС"/>
- <domain><![CDATA[everygame.eu]]></domain>
- <ip>104.18.12.25</ip>
- <ip>104.18.13.25</ip>
-</content>
-<content id="4090467" includeTime="2022-02-24T22:15:34" entryType="1" hash="770F7D8D1A1DDD3FE332D29CBD119C0D" blockType="domain" ts="2022-02-24T22:15:34">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-819-АИ" org="ФНС"/>
- <domain><![CDATA[drift-cazino.link]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090468" includeTime="2022-02-28T22:36:21" entryType="1" hash="204CDBB0EB1FBA4BD9404E0E4795CB12" ts="2023-07-11T10:36:00">
- <decision date="2022-02-24" number="1600714-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://imhentai.xxx/view/544353/437/]]></url>
- <domain><![CDATA[imhentai.xxx]]></domain>
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4090469" includeTime="2022-02-28T22:36:14" entryType="1" hash="C66C867F8706508251BA410ECD4F9870" ts="2023-07-11T10:36:00">
- <decision date="2022-02-24" number="1600722-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://imhentai.xxx/view/544353/448/]]></url>
- <domain><![CDATA[imhentai.xxx]]></domain>
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4090470" includeTime="2022-02-28T17:12:52" entryType="1" hash="0822CE51D72BE2011782085A2DF92E97" ts="2023-07-10T13:28:00">
- <decision date="2022-02-24" number="1600730-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://baraag.net/system/media_attachments/files/107/163/998/249/293/593/original/78ccc298616c80ac.png]]></url>
- <domain><![CDATA[baraag.net]]></domain>
- <ip>104.21.234.16</ip>
- <ip>104.21.234.17</ip>
- <ip>104.27.202.88</ip>
- <ip>104.27.203.88</ip>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:ca58</ipv6>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:cb58</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea10</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea11</ipv6>
-</content>
-<content id="4090476" includeTime="2022-02-28T17:12:51" entryType="1" hash="E248B12919C9EE7B55D0C5B465DB24EA" blockType="domain" ts="2022-02-28T17:12:51">
- <decision date="2022-02-24" number="2022-02-13-354-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[alphatab.ru]]></domain>
- <ip>104.21.63.197</ip>
- <ip>172.67.149.238</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:95ee</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:3fc5</ipv6>
-</content>
-<content id="4090477" includeTime="2022-02-24T22:15:34" entryType="1" hash="ECADCF6920C495B04260504458BA964F" blockType="domain" ts="2022-02-24T22:15:34">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3178-АИ" org="ФНС"/>
- <domain><![CDATA[www.abocasino.com]]></domain>
- <ip>104.18.0.72</ip>
- <ip>104.18.1.72</ip>
-</content>
-<content id="4090483" includeTime="2022-09-07T21:21:15" entryType="1" hash="95DC08690E435D4E71BBDDA2510A9779" blockType="domain" ts="2022-09-07T21:21:15">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-1547-АИ" org="ФНС"/>
- <domain><![CDATA[www.taxi-money.info]]></domain>
- <ip>104.21.37.93</ip>
- <ip>172.67.206.217</ip>
-</content>
-<content id="4090487" includeTime="2022-02-24T22:15:38" entryType="1" hash="C59DA4FFE69E0DB124E68AB90C671F51" blockType="domain" ts="2022-02-24T22:15:38">
- <decision date="2022-02-24" number="2-6-18/2021-10-12-4723-АИ" org="ФНС"/>
- <domain><![CDATA[crystal-bet.online]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090491" includeTime="2022-09-02T13:54:22" entryType="1" hash="BEFE6F0FF62A2A3911763B8B4956F2BA" ts="2022-09-02T13:54:22">
- <decision date="2022-02-21" number="137263" org="Роспотребнадзор"/>
- <url><![CDATA[https://www.wikiwand.com/ru/%D0%A1%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B_%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%B0]]></url>
- <domain><![CDATA[www.wikiwand.com]]></domain>
- <ip>3.232.249.14</ip>
- <ip>52.7.44.244</ip>
-</content>
-<content id="4090493" includeTime="2022-02-28T17:12:54" entryType="1" hash="8B41C5ABCDFE7AD55E82448B1A42009A" blockType="domain" ts="2022-02-28T17:12:54">
- <decision date="2022-02-24" number="2022-02-22-1508-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[rnd33.hostmed.ru]]></domain>
- <ip>135.125.234.17</ip>
-</content>
-<content id="4090515" includeTime="2022-02-28T22:36:19" entryType="1" hash="9D82BAF19F5B72494EA1D10BDF05BFF4" ts="2023-07-11T10:36:00">
- <decision date="2022-02-24" number="1600664-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://imhentai.xxx/view/544353/402/]]></url>
- <domain><![CDATA[imhentai.xxx]]></domain>
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4090517" includeTime="2022-02-28T22:36:11" entryType="1" hash="DEEB1E85B61DE8C12FBD455D3CFB486B" ts="2023-07-11T10:36:00">
- <decision date="2022-02-24" number="1600672-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://imhentai.xxx/view/544353/413/]]></url>
- <domain><![CDATA[imhentai.xxx]]></domain>
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4090518" includeTime="2022-02-28T17:12:48" entryType="1" hash="000FE4D202B3ACC21280967C0AC3D2D2" blockType="domain" ts="2022-02-28T17:12:48">
- <decision date="2022-01-21" number="2а-913/2022" org="Октябрьский районный суд г. Екатеринбурга - Свердловская область"/>
- <domain><![CDATA[ekaterinburg.exdiplomis.com]]></domain>
- <ip>198.199.125.231</ip>
-</content>
-<content id="4090519" includeTime="2022-02-28T17:12:51" entryType="1" hash="192388D446E2C6AF3AE1064E70B55ECA" ts="2022-02-28T17:12:51">
- <decision date="2022-02-24" number="1600680-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/161950173826.png]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090521" includeTime="2022-02-28T17:12:53" entryType="1" hash="AB5055A7CD0517669B29BE5D9DE64F63" ts="2022-02-28T17:12:53">
- <decision date="2022-02-24" number="1600688-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/161995133639.png]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090523" includeTime="2022-02-28T17:12:49" entryType="1" hash="B70679D2A2BAD681C061AEA03247A773" ts="2022-02-28T17:12:49">
- <decision date="2022-02-24" number="1600696-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[http://dreamstories.ru/story/golovomojka.html]]></url>
- <domain><![CDATA[dreamstories.ru]]></domain>
- <ip>104.21.23.60</ip>
- <ip>172.67.209.114</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:d172</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:173c</ipv6>
-</content>
-<content id="4090525" includeTime="2022-02-28T17:12:51" entryType="1" hash="F812E5B415DED6203B2E2A4BA05958DC" ts="2022-02-28T17:12:51">
- <decision date="2022-02-24" number="1600704-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/162491477056.png]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090534" includeTime="2022-02-24T22:15:34" entryType="1" hash="0B421CE647BE3CA5894A98DA36B05B13" blockType="domain" ts="2022-02-24T22:15:34">
- <decision date="2022-02-24" number="2-6-18/2021-10-12-3826-АИ" org="ФНС"/>
- <domain><![CDATA[xxx-vulkan.com]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090535" includeTime="2022-02-24T22:15:27" entryType="1" hash="2FF09E9E0CB038D60AA7613ED4E092D5" ts="2022-02-24T22:15:27">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3236-АИ" org="ФНС"/>
- <url><![CDATA[https://fastpay-go.com/ab6beaeb3]]></url>
- <domain><![CDATA[fastpay-go.com]]></domain>
- <ip>104.21.44.14</ip>
- <ip>172.67.192.205</ip>
-</content>
-<content id="4090536" includeTime="2022-02-24T22:15:29" entryType="1" hash="7FE9DF4DDF91547E2BC756DA02EBCC42" ts="2022-02-24T22:15:29">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3271-АИ" org="ФНС"/>
- <url><![CDATA[https://topbahis.icu/ru/freaky-fruits-slot-machine/]]></url>
- <domain><![CDATA[topbahis.icu]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090537" includeTime="2022-02-24T22:15:24" entryType="1" hash="F7BAA40B0BEF66F004F9CF1E8B0F2022" blockType="domain" ts="2022-02-24T22:15:24">
- <decision date="2022-02-24" number="2-6-18/2021-12-21-2006-АИ" org="ФНС"/>
- <domain><![CDATA[cryptocasinos.com]]></domain>
- <ip>172.66.40.103</ip>
- <ip>172.66.43.153</ip>
- <ipv6>2606:4700:3108:0000:0000:0000:ac42:2867</ipv6>
- <ipv6>2606:4700:3108:0000:0000:0000:ac42:2b99</ipv6>
-</content>
-<content id="4090538" includeTime="2022-02-24T22:15:38" entryType="1" hash="1978F6F52E61506119ADD29CD43BE28E" ts="2022-02-24T22:15:38">
- <decision date="2022-02-24" number="2-6-18/2021-12-21-2016-АИ" org="ФНС"/>
- <url><![CDATA[https://bs1.direct/b8ec04a98]]></url>
- <domain><![CDATA[bs1.direct]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
-</content>
-<content id="4090540" includeTime="2022-02-24T22:15:32" entryType="1" hash="07A56BB08781D938C9B47C48B57D13BE" blockType="domain-mask" ts="2022-02-24T22:15:32">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-848-АИ" org="ФНС"/>
- <domain><![CDATA[*.slotvcasinoenter.com]]></domain>
- <ip>5.61.50.240</ip>
-</content>
-<content id="4090542" includeTime="2022-02-28T17:12:55" entryType="1" hash="D35D370319815439753BADE339E1B4DC" ts="2023-07-10T13:28:00">
- <decision date="2022-02-24" number="1600715-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://baraag.net/system/media_attachments/files/106/789/463/714/087/181/original/1eb173bc5de4f9a9.png]]></url>
- <domain><![CDATA[baraag.net]]></domain>
- <ip>104.21.234.16</ip>
- <ip>104.21.234.17</ip>
- <ip>104.27.202.88</ip>
- <ip>104.27.203.88</ip>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:ca58</ipv6>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:cb58</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea10</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea11</ipv6>
-</content>
-<content id="4090550" includeTime="2022-02-24T22:15:30" entryType="1" hash="051C924BE25E41E8F83C57067E597277" blockType="domain" ts="2022-02-24T22:15:30">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3136-АИ" org="ФНС"/>
- <domain><![CDATA[joy-casinoonline.com]]></domain>
- <ip>104.21.81.218</ip>
- <ip>172.67.165.58</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:51da</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:a53a</ipv6>
-</content>
-<content id="4090552" includeTime="2022-02-24T22:15:24" entryType="1" hash="D703F19583D6D4DE6ADA95B158E87426" blockType="domain" ts="2022-02-24T22:15:24">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-1311-АИ" org="ФНС"/>
- <domain><![CDATA[casino-columbus-zerkalo.com]]></domain>
- <ip>185.235.128.108</ip>
-</content>
-<content id="4090553" includeTime="2022-02-24T22:15:28" entryType="1" hash="B4D6D27B97115C5AD8CEC4EB44B982D5" blockType="domain" ts="2022-02-24T22:15:28">
- <decision date="2022-02-24" number="2-6-18/2021-11-29-924-АИ" org="ФНС"/>
- <domain><![CDATA[hr-conference.ru]]></domain>
- <ip>104.21.92.128</ip>
- <ip>172.67.194.33</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:c221</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:5c80</ipv6>
-</content>
-<content id="4090554" includeTime="2022-02-24T22:15:37" entryType="1" hash="9450C94D6EDEFFED5FFC9F5C96CDB317" blockType="domain-mask" ts="2022-02-24T22:15:37">
- <decision date="2022-02-24" number="2-6-18/2021-10-12-3169-АИ" org="ФНС"/>
- <domain><![CDATA[*.ipokerdom2.su]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090561" includeTime="2022-02-25T14:24:48" entryType="1" hash="DF05B98ADD9411F7A1C559E4B7C68FC8" blockType="domain" ts="2022-02-25T14:24:48">
- <decision date="2022-02-24" number="2-6-18/2021-10-13-4268-АИ" org="ФНС"/>
- <domain><![CDATA[solcasinoo.bitbucket.io]]></domain>
- <ip>18.234.32.164</ip>
- <ip>18.234.32.165</ip>
- <ip>18.234.32.166</ip>
- <ipv6>2406:da00:ff00:0000:0000:0000:12d0:5d6e</ipv6>
- <ipv6>2406:da00:ff00:0000:0000:0000:3414:6492</ipv6>
- <ipv6>2406:da00:ff00:0000:0000:0000:3437:b4cb</ipv6>
-</content>
-<content id="4090576" includeTime="2022-02-28T17:12:48" entryType="1" hash="38CCBB33B6C72A5110E67081F8E927E3" ts="2022-02-28T17:12:48">
- <decision date="2022-02-07" number="2а-1619/2022" org="Центральный районный суд г. Новокузнецка - Кемеровская область"/>
- <url><![CDATA[https://ur.1lib.sk/book/306215/87ebe2]]></url>
- <domain><![CDATA[ur.1lib.sk]]></domain>
- <ip>81.17.17.254</ip>
-</content>
-<content id="4090588" includeTime="2022-02-28T17:12:49" entryType="1" hash="A3E39DC99F83070D40B174F423996750" blockType="domain" ts="2022-02-28T17:12:49">
- <decision date="2022-01-28" number="2a-1985/2022" org="Центральный районный суд г. Челябинска - Челябинская область"/>
- <domain><![CDATA[www.dasistporno.com]]></domain>
- <ip>104.21.17.192</ip>
- <ip>172.67.178.50</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:11c0</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:b232</ipv6>
-</content>
-<content id="4090591" includeTime="2022-02-28T17:12:48" entryType="1" hash="880DAF3FCD84D0196BE8BD0A547C98D5" ts="2022-02-28T17:12:48">
- <decision date="2022-02-24" number="1600673-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/161935723487.jpg]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090595" includeTime="2022-02-28T22:36:14" entryType="1" hash="57F348CB91BB25E26758EBD85B1C44F2" ts="2023-07-11T10:36:00">
- <decision date="2022-02-24" number="1600689-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://imhentai.xxx/view/544353/420/]]></url>
- <domain><![CDATA[imhentai.xxx]]></domain>
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4090612" includeTime="2022-02-24T22:15:34" entryType="1" hash="80BF349E87E6417A9265E078D347180A" ts="2022-02-24T22:15:34">
- <decision date="2022-02-24" number="2-6-18/2021-12-21-2017-АИ" org="ФНС"/>
- <url><![CDATA[https://bs1.direct/b814ed1de]]></url>
- <domain><![CDATA[bs1.direct]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
-</content>
-<content id="4090614" includeTime="2022-02-24T22:15:30" entryType="1" hash="64A1865B6ACDBBC881723ADFD1C51B41" blockType="domain" ts="2022-02-24T22:15:30">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-1151-АИ" org="ФНС"/>
- <domain><![CDATA[melbet.onlycss.ru]]></domain>
- <ip>104.21.81.210</ip>
- <ip>172.67.164.156</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:a49c</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:51d2</ipv6>
-</content>
-<content id="4090615" includeTime="2022-02-28T17:12:52" entryType="1" hash="5B4B0819A86E0F4CF5C818B4C5475CFB" ts="2022-02-28T17:12:52">
- <decision date="2022-02-24" number="1600708-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/162491478775.png]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090616" includeTime="2022-02-28T22:36:10" entryType="1" hash="8CE0F92D0EBD09E4D136DEB64EA40512" ts="2023-07-11T10:36:00">
- <decision date="2022-02-24" number="1600716-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://imhentai.xxx/view/544353/439/]]></url>
- <domain><![CDATA[imhentai.xxx]]></domain>
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4090617" includeTime="2022-02-28T17:12:50" entryType="1" hash="968006D72CE71DE2F2453659BF08AAFA" ts="2023-07-10T13:28:00">
- <decision date="2022-02-24" number="1600724-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://baraag.net/system/media_attachments/files/107/100/519/438/933/127/original/d4d4dfbfd7751c9c.png]]></url>
- <domain><![CDATA[baraag.net]]></domain>
- <ip>104.21.234.16</ip>
- <ip>104.21.234.17</ip>
- <ip>104.27.202.88</ip>
- <ip>104.27.203.88</ip>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:ca58</ipv6>
- <ipv6>2606:4700:0021:0000:0000:0000:681b:cb58</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea10</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea11</ipv6>
-</content>
-<content id="4090622" includeTime="2022-02-28T17:12:52" entryType="1" hash="1FF4A61D19983672BC8DC8BEB254373A" blockType="domain" ts="2022-02-28T17:12:52">
- <decision date="2022-02-24" number="2022-02-20-137-АЛК" org="Росалкогольрегулирование"/>
- <domain><![CDATA[46.101.200.32]]></domain>
- <ip>46.101.200.32</ip>
-</content>
-<content id="4090624" includeTime="2022-02-24T22:15:34" entryType="1" hash="79BFC37DDEED73A37E0EA7D1F52BC357" blockType="domain" ts="2022-02-24T22:15:34">
- <decision date="2022-02-24" number="2-6-18/2021-12-22-1323-АИ" org="ФНС"/>
- <domain><![CDATA[platinumtoursmaui.com]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090625" includeTime="2022-02-24T22:15:32" entryType="1" hash="92D5FC476C0DBF67B2CE75881F5FD5B1" blockType="domain" ts="2022-02-24T22:15:32">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3179-АИ" org="ФНС"/>
- <domain><![CDATA[www.abocasino.biz]]></domain>
- <ip>104.18.2.91</ip>
- <ip>104.18.3.91</ip>
-</content>
-<content id="4090626" includeTime="2022-02-24T22:15:35" entryType="1" hash="0C73EE90478A45B842BF5B131BBE7AC9" ts="2022-02-24T22:15:35">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3233-АИ" org="ФНС"/>
- <url><![CDATA[https://ilucki.media/a32f266ed]]></url>
- <domain><![CDATA[ilucki.media]]></domain>
- <ip>104.21.51.153</ip>
- <ip>172.67.182.22</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:3399</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:b616</ipv6>
-</content>
-<content id="4090627" includeTime="2022-02-24T22:15:24" entryType="1" hash="9544FEBCE70EE0FE4FF28C22434E3A87" ts="2022-02-24T22:15:24">
- <decision date="2022-02-24" number="2-6-18/2021-12-21-676-АИ" org="ФНС"/>
- <url><![CDATA[https://101gagarin-stat1.com/click/5f730e629e16c902652e3029/125/3874]]></url>
- <domain><![CDATA[101gagarin-stat1.com]]></domain>
- <ip>174.138.96.20</ip>
-</content>
-<content id="4090633" includeTime="2022-02-25T14:24:48" entryType="1" hash="0B9188D9B6F0185D4AADB6ABC7960532" blockType="domain" ts="2022-02-25T14:24:48">
- <decision date="2022-02-24" number="2-6-18/2021-10-12-4641-АИ" org="ФНС"/>
- <domain><![CDATA[freshcasino37new.bitbucket.io]]></domain>
- <ip>18.234.32.164</ip>
- <ip>18.234.32.165</ip>
- <ip>18.234.32.166</ip>
- <ipv6>2406:da00:ff00:0000:0000:0000:12d0:5d6e</ipv6>
- <ipv6>2406:da00:ff00:0000:0000:0000:3414:6492</ipv6>
- <ipv6>2406:da00:ff00:0000:0000:0000:3437:b4cb</ipv6>
-</content>
-<content id="4090634" includeTime="2022-02-28T17:12:46" entryType="1" hash="B83A3CB1249DFFB45EE9EDC016FC27BC" blockType="domain" ts="2022-02-28T17:12:46">
- <decision date="2022-02-14" number="2а-22/2022" org="Дмитровский районный суд - Орловская область"/>
- <domain><![CDATA[individualki-orenburga.com]]></domain>
- <ip>104.21.8.153</ip>
- <ip>172.67.139.171</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:0899</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:8bab</ipv6>
-</content>
-<content id="4090653" includeTime="2022-02-28T17:12:49" entryType="1" hash="036EF72E1A771AA1BA3CA222B9F6A6F5" ts="2023-07-10T18:04:00">
- <decision date="2022-02-24" number="1600626-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://img1.gelbooru.com//samples/a7/3d/sample_a73da3c7ca34b15cb9253f23ab1e1a4b.jpg]]></url>
- <domain><![CDATA[img1.gelbooru.com]]></domain>
- <ip>104.21.233.235</ip>
- <ip>104.21.233.236</ip>
- <ip>104.21.234.4</ip>
- <ip>104.21.234.5</ip>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
-</content>
-<content id="4090655" includeTime="2022-02-28T17:12:53" entryType="1" hash="E37E62DB92E834F3A81A78460AA06206" blockType="domain" ts="2022-02-28T17:12:53">
- <decision date="2022-02-24" number="2022-02-24-352-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[chel5.hostmed.ru]]></domain>
- <ip>135.125.234.17</ip>
-</content>
-<content id="4090662" includeTime="2022-02-28T17:12:51" entryType="1" hash="0D00C8DA974E84DEDB89917B31718A2F" blockType="domain" ts="2022-02-28T17:12:51">
- <decision date="2022-01-28" number="2a-1985/2022" org="Центральный районный суд г. Челябинска - Челябинская область"/>
- <domain><![CDATA[www.oxotube.com]]></domain>
- <ip>198.37.112.248</ip>
-</content>
-<content id="4090663" includeTime="2022-02-28T22:36:21" entryType="1" hash="50B2D0A0EE1288BA70C4E75B001F5440" ts="2023-07-11T10:36:00">
- <decision date="2022-02-24" number="1600666-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://imhentai.xxx/view/544353/407/]]></url>
- <domain><![CDATA[imhentai.xxx]]></domain>
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4090664" includeTime="2022-02-28T17:12:54" entryType="1" hash="F6C43F0E32A2A262B103C08A4A7F3C08" blockType="domain" ts="2022-02-28T17:12:54">
- <decision date="2022-02-21" number="2а-635/22 ~ М-219/2022" org="Ленинский районный суд г.Мурманска"/>
- <domain><![CDATA[erkiss8.com]]></domain>
- <ip>212.83.179.172</ip>
-</content>
-<content id="4090665" includeTime="2022-02-28T17:12:49" entryType="1" hash="96273796181A518B66872F1267C4E963" ts="2022-02-28T17:12:49">
- <decision date="2022-02-24" number="1600674-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/161935909508.jpg]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090666" includeTime="2022-02-28T17:12:46" entryType="1" hash="A7DF619A9784DFF2DEF631B819D9E297" blockType="domain" ts="2022-02-28T17:12:46">
- <decision date="2022-01-24" number="2а-25/2022 (2а-602/2021)" org="Шалинский районный суд Свердловской области"/>
- <domain><![CDATA[sexotagil.red]]></domain>
- <ip>37.139.3.215</ip>
-</content>
-<content id="4090667" includeTime="2022-02-28T22:36:13" entryType="1" hash="4E86CB098465DFB22D84709AC270155D" ts="2023-07-11T10:36:00">
- <decision date="2022-02-24" number="1600682-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://imhentai.xxx/view/544353/418/]]></url>
- <domain><![CDATA[imhentai.xxx]]></domain>
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4090669" includeTime="2022-02-28T17:12:52" entryType="1" hash="6981707ACE7401CB16C9C3D4A99D1C31" ts="2022-02-28T17:12:52">
- <decision date="2022-02-24" number="1600690-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/161995135738.png]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="4090674" includeTime="2023-09-28T14:00:03" entryType="1" hash="9641FB17AC932B24E843E2F7C9E932A2" blockType="domain" ts="2023-09-28T14:00:03">
- <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
- <domain><![CDATA[glazboga.pw]]></domain>
- <ip>45.130.41.10</ip>
-</content>
-<content id="4090683" includeTime="2022-02-24T22:15:24" entryType="1" hash="D57631C07AC8D54144F4F9C92D429519" blockType="domain" ts="2022-02-24T22:15:24">
- <decision date="2022-02-24" number="2-6-18/2021-10-12-3863-АИ" org="ФНС"/>
- <domain><![CDATA[jetcazinoclub.ru]]></domain>
- <ip>146.59.223.160</ip>
-</content>
-<content id="4090684" includeTime="2022-02-24T22:15:24" entryType="1" hash="F222015B2F67E8007F335143186D658A" ts="2022-02-24T22:15:24">
- <decision date="2022-02-24" number="2-6-18/2021-12-17-3248-АИ" org="ФНС"/>
- <url><![CDATA[https://solutionseekers.xyz/724248/]]></url>
- <domain><![CDATA[solutionseekers.xyz]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4090685" includeTime="2022-02-24T22:15:24" entryType="1" hash="1B6FA34DE9A71957CE54B9BA7CD3FAEE" blockType="domain-mask" ts="2022-02-24T22:15:24">
- <decision date="2022-02-24" number="2-6-18/2021-12-21-1864-АИ" org="ФНС"/>
- <domain><![CDATA[*.24vulkan.website]]></domain>
- <ip>203.23.103.14</ip>
- <ipv6>2a06:9ac0:0011:3fb1:9394:74f6:1ad2:3277</ipv6>
-</content>
-<content id="4090686" includeTime="2022-02-24T22:15:34" entryType="1" hash="41C46F314165289380917D57D03F18E6" blockType="domain" ts="2022-02-24T22:15:34">
- <decision date="2022-02-24" number="2-6-18/2021-12-21-2010-АИ" org="ФНС"/>
- <domain><![CDATA[www.katsubet.com]]></domain>
- <ip>172.66.40.183</ip>
- <ip>172.66.43.73</ip>
-</content>
-<content id="4090687" includeTime="2022-02-24T22:15:30" entryType="1" hash="67D0DA6C224A81C2FEE46902E9600870" ts="2022-02-24T22:15:30">
- <decision date="2022-02-24" number="2-6-18/2021-12-21-2018-АИ" org="ФНС"/>
- <url><![CDATA[https://click.casoo.partners/afs/come.php?cid=3187]]></url>
- <domain><![CDATA[click.casoo.partners]]></domain>
- <ip>46.37.8.199</ip>
- <ip>95.110.252.126</ip>
-</content>
-<content id="4090690" includeTime="2022-02-28T22:36:19" entryType="1" hash="468A1D36D712130B7938321D4CD1BB1D" ts="2023-07-11T10:36:00">
- <decision date="2022-02-24" number="1600709-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://imhentai.xxx/view/544353/430/]]></url>
- <domain><![CDATA[imhentai.xxx]]></domain>
- <ip>104.26.12.229</ip>
- <ip>104.26.13.229</ip>
- <ip>172.67.71.114</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4090691" includeTime="2022-02-28T17:12:47" entryType="1" hash="D8F87BF1DE02D1768699D156E997C109" ts="2023-07-10T13:28:00">
@@ -1112,19 +22,23 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea10</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea11</ipv6>
 </content>
-<content id="4090692" includeTime="2022-02-28T22:36:16" entryType="1" hash="6700E0094530E3EB08F2C71DFF196915" ts="2023-07-11T10:36:00">
+<content id="4090692" includeTime="2022-02-28T22:36:16" entryType="1" hash="05F7646A7216A8440B41C4F3AA1EF1EF" ts="2023-10-02T16:30:03">
  <decision date="2022-02-24" number="1600725-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/449/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4090693" includeTime="2022-02-28T17:12:54" entryType="1" hash="E0CCC6F46D84F7E0BFD080055F313BC8" ts="2022-02-28T17:12:54">
@@ -1171,19 +85,23 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:2884</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:97f3</ipv6>
 </content>
-<content id="4090734" includeTime="2022-02-28T22:36:14" entryType="1" hash="135B0FE6AB4D1387F1A2DF56FE22FDE8" ts="2023-07-11T10:36:00">
+<content id="4090734" includeTime="2022-02-28T22:36:14" entryType="1" hash="1F120D0D04210D956B95F33692C12349" ts="2023-10-02T16:30:03">
  <decision date="2022-02-24" number="1600651-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/393/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4090737" includeTime="2022-02-28T17:12:52" entryType="1" hash="28664B461998766F0F59D225C50154EF" blockType="domain" ts="2022-02-28T17:12:52">
@@ -1194,19 +112,23 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
 </content>
-<content id="4090738" includeTime="2022-02-28T22:36:09" entryType="1" hash="79DAAC53DB57368B66C054AC5B0A46D7" ts="2023-07-11T10:36:00">
+<content id="4090738" includeTime="2022-02-28T22:36:09" entryType="1" hash="81A291E4B245D27106460CF8C7B9A1CA" ts="2023-10-02T16:30:03">
  <decision date="2022-02-24" number="1600667-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/409/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4090739" includeTime="2022-02-28T17:12:46" entryType="1" hash="497D2EB9047B5C205EF65DC402A08AF6" ts="2022-02-28T17:12:46">
@@ -4219,19 +3141,23 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:5387</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:b09d</ipv6>
 </content>
-<content id="4094436" includeTime="2022-02-28T22:36:10" entryType="1" hash="FB2D61529B63688FFC51D50B1A33DD29" ts="2023-07-11T10:36:00">
+<content id="4094436" includeTime="2022-02-28T22:36:10" entryType="1" hash="432D9A69596D55AF6284F4E672B6F780" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601765-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/453/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4094437" includeTime="2022-02-28T22:36:19" entryType="1" hash="B48D6E60E155EA0EDB4BF60DF20EE9EE" ts="2022-02-28T22:36:19">
@@ -4246,49 +3172,61 @@
  <domain><![CDATA[boards.plus4chan.org]]></domain>
  <ip>104.244.75.22</ip>
 </content>
-<content id="4094446" includeTime="2022-02-28T22:36:19" entryType="1" hash="23FBB2CB7CD6F68B8B2AA58B63D91A62" ts="2023-07-11T10:36:00">
+<content id="4094446" includeTime="2022-02-28T22:36:19" entryType="1" hash="00982AA7FD219C95874E492F47198E20" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601812-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/527/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="4094447" includeTime="2022-02-28T22:36:16" entryType="1" hash="5CE4EF1DA772552F7F5CFEE382BD6C0F" ts="2023-07-11T10:36:00">
+<content id="4094447" includeTime="2022-02-28T22:36:16" entryType="1" hash="D8EDFD3FEA981A69FC8399B628F2944F" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601820-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/612074/6/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="4094449" includeTime="2022-02-28T22:36:12" entryType="1" hash="3DF9C9577E14B0BCDD4CCED594DCB675" ts="2023-07-11T10:36:00">
+<content id="4094449" includeTime="2022-02-28T22:36:12" entryType="1" hash="011681FB3F7C6794B8391D35662F1494" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601828-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/571/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4094455" includeTime="2022-02-28T22:36:17" entryType="1" hash="6E044D35ACB0891F33B9C547EDF45671" blockType="domain" ts="2022-02-28T22:36:17">
@@ -4403,34 +3341,42 @@
  <domain><![CDATA[boards.plus4chan.org]]></domain>
  <ip>104.244.75.22</ip>
 </content>
-<content id="4094502" includeTime="2022-02-28T22:36:21" entryType="1" hash="8D7DF32697B492C72A2F84E162995982" ts="2023-07-11T10:36:00">
+<content id="4094502" includeTime="2022-02-28T22:36:21" entryType="1" hash="394BDFDCECDE4C59AFB1C279F66755BD" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601813-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/534/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="4094503" includeTime="2022-02-28T22:36:18" entryType="1" hash="3A967DD04830A7FA1BF728B414706F4B" ts="2023-07-11T10:36:00">
+<content id="4094503" includeTime="2022-02-28T22:36:18" entryType="1" hash="BAEFEA68638733DB5B297283800395A3" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601821-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/612074/7/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4094505" includeTime="2022-02-28T17:12:48" entryType="1" hash="31D251E407034E00AB5F94F82763469B" ts="2022-02-28T17:12:48">
@@ -4453,19 +3399,23 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
 </content>
-<content id="4094514" includeTime="2022-02-28T22:36:16" entryType="1" hash="D357411FFCB62FE3E97F056DC965691E" ts="2023-07-11T10:36:00">
+<content id="4094514" includeTime="2022-02-28T22:36:16" entryType="1" hash="A214161DC97788A4ED5CF0E23E7D9FC5" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601885-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/602/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4094515" includeTime="2022-02-28T17:12:53" entryType="1" hash="2966CDBD99C71C30F7C9ADD99DCE74B2" blockType="domain" ts="2022-02-28T17:12:53">
@@ -4517,19 +3467,23 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
 </content>
-<content id="4094530" includeTime="2022-02-28T22:36:15" entryType="1" hash="D404F2C66981C257ABB214B3F7D4B477" ts="2023-07-11T10:36:00">
+<content id="4094530" includeTime="2022-02-28T22:36:15" entryType="1" hash="052BB9A566F82056E153A74DFCD95E93" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601783-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/461/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4094532" includeTime="2022-02-28T17:12:54" entryType="1" hash="F93B370F12B87817B60FF9F357027B65" blockType="domain" ts="2022-02-28T17:12:54">
@@ -4557,64 +3511,80 @@
  <domain><![CDATA[boards.plus4chan.org]]></domain>
  <ip>104.244.75.22</ip>
 </content>
-<content id="4094561" includeTime="2022-02-28T22:36:21" entryType="1" hash="F1CFA110FF54A310AEF5E6FB3A541DF3" ts="2023-07-11T10:36:00">
+<content id="4094561" includeTime="2022-02-28T22:36:21" entryType="1" hash="106CA25C4E8D344AC8B08487CB9BDBB5" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601798-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/477/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="4094562" includeTime="2022-02-28T22:36:11" entryType="1" hash="B66CABF7CD7DBC15756793116F6C81A8" ts="2023-07-11T10:36:00">
+<content id="4094562" includeTime="2022-02-28T22:36:11" entryType="1" hash="BEE8E606AAED1599DE35D86B4809D6A3" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601806-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/494/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="4094566" includeTime="2022-02-28T22:36:10" entryType="1" hash="7F3FE789D441E220115530AADCB1913A" ts="2023-07-11T10:36:00">
+<content id="4094566" includeTime="2022-02-28T22:36:10" entryType="1" hash="8BE78EBC3C4B8A0DFD044D288221EE62" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601814-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/539/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="4094567" includeTime="2022-02-28T22:36:19" entryType="1" hash="6C6F788F9592297A382CA1A4109C5F03" ts="2023-07-11T10:36:00">
+<content id="4094567" includeTime="2022-02-28T22:36:19" entryType="1" hash="CB0B01E6C92A6322ACF5D644CB017738" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601822-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/612074/8/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4094569" includeTime="2022-02-28T17:12:50" entryType="1" hash="8A4297DC45B00BCB1784DB652960B042" ts="2022-02-28T17:12:50">
@@ -4751,19 +3721,23 @@
  <domain><![CDATA[boards.plus4chan.org]]></domain>
  <ip>104.244.75.22</ip>
 </content>
-<content id="4094624" includeTime="2022-02-28T22:36:19" entryType="1" hash="4AB2854C003EEDA6997F45AB6261A68E" ts="2023-07-11T10:36:00">
+<content id="4094624" includeTime="2022-02-28T22:36:19" entryType="1" hash="665FCB95BEE7172723A4F3E567BB9E95" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601791-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/475/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4094625" includeTime="2022-02-28T22:36:09" entryType="1" hash="F1DA8F373323A3CF3985A9D364800054" ts="2022-02-28T22:36:09">
@@ -4778,34 +3752,42 @@
  <domain><![CDATA[boards.plus4chan.org]]></domain>
  <ip>104.244.75.22</ip>
 </content>
-<content id="4094627" includeTime="2022-02-28T22:36:11" entryType="1" hash="D05FB5021B46E676BFD6581BF1FFAF97" ts="2023-07-11T10:36:00">
+<content id="4094627" includeTime="2022-02-28T22:36:11" entryType="1" hash="E3C7A00A0F72C873BE569F8B33134FA3" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601815-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/542/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="4094628" includeTime="2022-02-28T22:36:21" entryType="1" hash="13F78D715B7F9DD5BC1C04990E11C5F0" ts="2023-07-11T10:36:00">
+<content id="4094628" includeTime="2022-02-28T22:36:21" entryType="1" hash="634EE72809CF13ACF91F4E9DD6CFD14E" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601823-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/612074/9/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4094634" includeTime="2022-02-25T21:09:06" entryType="1" hash="6B2091D01D7B09D966A30194845B3AC5" blockType="domain" ts="2022-02-25T21:09:06">
@@ -4923,19 +3905,23 @@
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a0bb</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:0ee3</ipv6>
 </content>
-<content id="4094683" includeTime="2022-02-28T22:36:13" entryType="1" hash="022DBF03E34081320A42045D8A535545" ts="2023-07-11T10:36:00">
+<content id="4094683" includeTime="2022-02-28T22:36:13" entryType="1" hash="72E116597ADAC6E05C596CB1C08184AE" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601769-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/492/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4094684" includeTime="2022-02-28T22:36:09" entryType="1" hash="925E56E34DFEB895D702B05F590BA607" ts="2022-02-28T22:36:09">
@@ -4950,34 +3936,42 @@
  <domain><![CDATA[boards.plus4chan.org]]></domain>
  <ip>104.244.75.22</ip>
 </content>
-<content id="4094686" includeTime="2022-02-28T22:36:13" entryType="1" hash="9D982E37A3E1AEEF3584E3015E234B39" ts="2023-07-11T10:36:00">
+<content id="4094686" includeTime="2022-02-28T22:36:13" entryType="1" hash="D04D5C979E53ECA7FE9CE1A58733EA65" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601808-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/544353/496/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="4094688" includeTime="2022-02-28T22:36:10" entryType="1" hash="C71C610C1A4FD002E25991379AAED9EE" ts="2023-07-11T10:36:00">
+<content id="4094688" includeTime="2022-02-28T22:36:10" entryType="1" hash="F524E2DD7B16C8462121C0A3FDBEC392" ts="2023-10-02T16:30:03">
  <decision date="2022-02-25" number="1601824-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/612074/3/]]></url>
  <domain><![CDATA[imhentai.xxx]]></domain>
  <ip>104.26.12.229</ip>
  <ip>104.26.13.229</ip>
  <ip>172.67.71.114</ip>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0ce5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0de5</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4772</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4094698" includeTime="2022-02-28T17:12:48" entryType="1" hash="0770669A2347FB9D3D03D707D9A20C44" ts="2022-02-28T17:12:48">
