@@ -1969,9 +1969,9 @@
  <ipv6>2a0f:5680:0000:0007:0000:0000:0000:001a</ipv6>
  <ipv6>2a0f:5680:0001:0007:0000:0000:0000:001a</ipv6>
 </content>
-<content id="2200109" includeTime="2020-04-03T20:33:33" entryType="1" hash="E93DB5DAE20F3EB14C3E4C2BD6CFEA70" blockType="domain" ts="2023-10-03T17:45:02">
+<content id="2200109" includeTime="2020-04-03T20:33:33" entryType="1" hash="D1124D440966F3F7715CD4E0FE482689" blockType="domain-mask" ts="2023-10-03T20:35:02">
  <decision date="2020-03-19" number="2-6-20/ 2020-03-17-1575-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[ru-pokerdom.ru]]></domain>
+ <domain><![CDATA[*.ru-pokerdom.ru]]></domain>
  <ip>185.196.8.72</ip>
 </content>
 <content id="2200110" includeTime="2020-04-03T20:33:33" entryType="1" hash="A55FA94FF7C3042E122829817AF7DB7F" blockType="domain" ts="2020-04-03T20:33:33">
