@@ -435,6 +435,14 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:bf1a</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:4c4c</ipv6>
 </content>
+<content id="6388215" includeTime="2023-10-03T13:55:02" entryType="1" hash="0E6492DFDD186C9FFE109B68C32194B1" blockType="domain" ts="2023-10-03T13:55:02">
+ <decision date="2023-09-28" number="2247633-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[inocam.pw]]></domain>
+ <ip>104.21.42.218</ip>
+ <ip>172.67.210.104</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:d268</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:2ada</ipv6>
+</content>
 <content id="6388217" includeTime="2023-09-29T09:25:03" entryType="1" hash="465BAA7B851B364E7A2DDA93FBB58126" blockType="domain" ts="2023-09-29T09:25:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[chelyabinsk.drugs-online.com]]></domain>
@@ -1152,6 +1160,14 @@
  <decision date="2023-09-27" number="2023-09-27-511-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[5.alkomig96-210.ru]]></domain>
  <ip>81.91.178.190</ip>
+</content>
+<content id="6388385" includeTime="2023-10-03T13:55:02" entryType="1" hash="B556453B39CA9B6F72CB42B3B345BC0A" blockType="domain" ts="2023-10-03T13:55:02">
+ <decision date="2023-09-27" number="2023-09-25-2913-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[alcotime099.site]]></domain>
+ <ip>104.21.29.108</ip>
+ <ip>172.67.171.117</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:1d6c</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:ab75</ipv6>
 </content>
 <content id="6388386" includeTime="2023-09-28T21:40:02" entryType="1" hash="9D72238558766E3A5053F12A973DCEF2" blockType="domain-mask" ts="2023-09-28T21:40:02">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2134,6 +2150,14 @@
  <decision date="2023-09-27" number="2023-09-27-1614-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[5.alkomig96-207.ru]]></domain>
  <ip>81.91.178.190</ip>
+</content>
+<content id="6388615" includeTime="2023-10-03T13:55:02" entryType="1" hash="E969FB48B711A0774BA69E75A87C33BF" blockType="domain" ts="2023-10-03T13:55:02">
+ <decision date="2023-09-27" number="2023-09-26-2384-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[alkodom-72.com.cutestat.com]]></domain>
+ <ip>188.114.98.224</ip>
+ <ip>188.114.99.224</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
 <content id="6388617" includeTime="2023-09-28T21:40:02" entryType="1" hash="ECECDF84577F1D6C3E729455C2072F6B" blockType="domain-mask" ts="2023-09-28T21:40:02">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
