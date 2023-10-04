@@ -2751,18 +2751,22 @@
  <ip>67.202.114.141</ip>
  <ipv6>2607:f128:0053:0000:0000:0000:0000:0044</ipv6>
 </content>
-<content id="3007655" includeTime="2021-04-13T18:56:11" entryType="1" hash="3C6DDD6DF4F21428873CEFAD21DE7A75" ts="2023-07-10T18:04:00">
+<content id="3007655" includeTime="2021-04-13T18:56:11" entryType="1" hash="1D9461433230B4CC30897D455AD1D1CB" ts="2023-10-04T19:50:02">
  <decision date="2021-02-20" number="1232485-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com//images/b5/0a/b50a1f11ca4fcd77d8a66c521247d112.png]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="3007667" includeTime="2021-02-25T12:56:48" entryType="1" hash="8F93B8360F2D7C62ED6DE22579D14A45" blockType="domain" ts="2021-02-25T12:56:48">
  <decision date="2021-02-18" number="2021-02-18-126-ПЛ" org="Росздравнадзор"/>
@@ -4852,10 +4856,12 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9c7e</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:07df</ipv6>
 </content>
-<content id="3012929" includeTime="2021-04-13T18:56:14" entryType="1" hash="9629C9BEBAA7C744583B441FB4D1F968" ts="2023-07-10T18:04:00">
+<content id="3012929" includeTime="2021-04-13T18:56:14" entryType="1" hash="F4A9BD0E8A32D53ADC1E7F4CDA6F67ED" ts="2023-10-04T19:50:02">
  <decision date="2021-02-24" number="1233382-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img3.gelbooru.com//samples/79/1d/sample_791d37d1edd06488e571e2d6a8587ea6.jpg]]></url>
  <domain><![CDATA[img3.gelbooru.com]]></domain>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ip>172.64.162.5</ip>
@@ -4864,6 +4870,8 @@
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a305</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="3013008" includeTime="2021-02-25T18:16:21" entryType="1" hash="062FF208E3058A78D7B3C452CD08B06F" ts="2023-07-11T18:01:00">
  <decision date="2021-02-24" number="1233403-URL-on" org="Роскомнадзор"/>
@@ -5055,31 +5063,39 @@
  <ip>67.202.114.141</ip>
  <ipv6>2607:f128:0053:0000:0000:0000:0000:0044</ipv6>
 </content>
-<content id="3013405" includeTime="2021-04-13T18:56:14" entryType="1" hash="C5E34A0D761D8422596F3BF886E0923C" ts="2023-07-10T18:04:00">
+<content id="3013405" includeTime="2021-04-13T18:56:14" entryType="1" hash="0A6E77FFA0F19222BFEB1B6FC1F35454" ts="2023-10-04T19:50:02">
  <decision date="2021-02-24" number="1233685-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img3.gelbooru.com//samples/13/c7/sample_13c7783e917686c6063c527f6cd3cba0.jpg]]></url>
  <domain><![CDATA[img3.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
-<content id="3013406" includeTime="2021-04-13T18:56:11" entryType="1" hash="9430CE2A66F8DAAC066432F393AB6671" ts="2023-07-10T18:04:00">
+<content id="3013406" includeTime="2021-04-13T18:56:11" entryType="1" hash="02D9D7C67097076995BBC83113C66DF0" ts="2023-10-04T19:50:02">
  <decision date="2021-02-24" number="1233686-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com//samples/f5/7a/sample_f57abaa3d359d3953a03408532a9b535.jpg]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="3013407" includeTime="2021-04-13T18:56:11" entryType="1" hash="68299789A46B39C9917EB2E9DDECA9C5" ts="2021-04-13T18:56:11">
  <decision date="2021-02-24" number="1233687-URL-on" org="Роскомнадзор"/>
@@ -5102,18 +5118,22 @@
  <ip>67.202.114.141</ip>
  <ipv6>2607:f128:0053:0000:0000:0000:0000:0044</ipv6>
 </content>
-<content id="3013410" includeTime="2021-04-13T18:56:11" entryType="1" hash="0F06C62745583DC1FD20E7A55CBFCAD2" ts="2023-07-10T18:04:00">
+<content id="3013410" includeTime="2021-04-13T18:56:11" entryType="1" hash="F9AE9CD5E0C2649CE6900492F529BE90" ts="2023-10-04T19:50:02">
  <decision date="2021-02-24" number="1233690-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com//samples/08/b1/sample_08b175ac63966e0f3e081ad77dfcb01e.jpg]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="3013411" includeTime="2021-04-13T18:56:11" entryType="1" hash="671F8430116A4052D409C03294425B65" ts="2021-04-13T18:56:11">
  <decision date="2021-02-24" number="1233691-URL-on" org="Роскомнадзор"/>
@@ -5129,18 +5149,22 @@
  <ip>67.202.114.141</ip>
  <ipv6>2607:f128:0053:0000:0000:0000:0000:0044</ipv6>
 </content>
-<content id="3013413" includeTime="2021-04-13T18:56:11" entryType="1" hash="2883E8B5AD943CD4A448DB1583D7CDE5" ts="2023-07-10T18:04:00">
+<content id="3013413" includeTime="2021-04-13T18:56:11" entryType="1" hash="BC50F70601003A82AF0E00D612081319" ts="2023-10-04T19:50:02">
  <decision date="2021-02-24" number="1233693-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com//samples/90/25/sample_902570618970c07987e8dc145794be4d.jpg]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="3013414" includeTime="2021-04-13T18:56:12" entryType="1" hash="0165C735E66993CD51C39E106B2DD9A4" ts="2021-04-13T18:56:12">
  <decision date="2021-02-24" number="1233694-URL-on" org="Роскомнадзор"/>
@@ -5149,18 +5173,22 @@
  <ip>67.202.114.141</ip>
  <ipv6>2607:f128:0053:0000:0000:0000:0000:0044</ipv6>
 </content>
-<content id="3013415" includeTime="2021-04-13T18:56:12" entryType="1" hash="0B83953E09D5262D1D56331928C865B2" ts="2023-07-10T18:04:00">
+<content id="3013415" includeTime="2021-04-13T18:56:12" entryType="1" hash="5AFD7ECA9A0835EFD2AB02DBC7432969" ts="2023-10-04T19:50:02">
  <decision date="2021-02-24" number="1233695-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com//samples/c0/4b/sample_c04b6030d6573c003c5e166244378579.jpg]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="3013416" includeTime="2021-04-13T18:56:12" entryType="1" hash="F97CF092380C194DE1F0D0A6E23FC71A" ts="2021-04-13T18:56:12">
  <decision date="2021-02-24" number="1233696-URL-on" org="Роскомнадзор"/>
@@ -5169,18 +5197,22 @@
  <ip>67.202.114.141</ip>
  <ipv6>2607:f128:0053:0000:0000:0000:0000:0044</ipv6>
 </content>
-<content id="3013417" includeTime="2021-04-13T18:56:14" entryType="1" hash="9D51FE7A7DF8A8CD9A0D6B70E5492965" ts="2023-07-10T18:04:00">
+<content id="3013417" includeTime="2021-04-13T18:56:14" entryType="1" hash="F4F7F9B25F1B7F552E4DFF24F331B0AF" ts="2023-10-04T19:50:02">
  <decision date="2021-02-24" number="1233697-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img3.gelbooru.com//samples/75/f1/sample_75f1319403fef526c38da6deb1eb5e5a.jpg]]></url>
  <domain><![CDATA[img3.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="3013418" includeTime="2021-04-13T18:56:12" entryType="1" hash="F1A5CEA00CD4CC98B188B78B0A6E719D" ts="2021-04-13T18:56:12">
  <decision date="2021-02-24" number="1233698-URL-on" org="Роскомнадзор"/>
@@ -5189,18 +5221,22 @@
  <ip>67.202.114.141</ip>
  <ipv6>2607:f128:0053:0000:0000:0000:0000:0044</ipv6>
 </content>
-<content id="3013419" includeTime="2021-04-13T18:56:12" entryType="1" hash="277E58BABE776C7DF0F58F767F1B395D" ts="2023-07-10T18:04:00">
+<content id="3013419" includeTime="2021-04-13T18:56:12" entryType="1" hash="952687A8E713378B1B84557BDD0A7555" ts="2023-10-04T19:50:02">
  <decision date="2021-02-24" number="1233699-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com//samples/a4/5d/sample_a45d1bce46bfec8b2851255eb9c1c8da.jpg]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="3013420" includeTime="2021-04-13T18:56:12" entryType="1" hash="F9836FDE11E3398FB65F5634F038A8A7" ts="2021-04-13T18:56:12">
  <decision date="2021-02-24" number="1233700-URL-on" org="Роскомнадзор"/>
@@ -5209,31 +5245,39 @@
  <ip>67.202.114.141</ip>
  <ipv6>2607:f128:0053:0000:0000:0000:0000:0044</ipv6>
 </content>
-<content id="3013421" includeTime="2021-04-13T18:56:11" entryType="1" hash="C671E473CF254C6139624A411E8C38EF" ts="2023-07-10T18:04:00">
+<content id="3013421" includeTime="2021-04-13T18:56:11" entryType="1" hash="C3D26208083982C0726A1DCFC9CBA7C5" ts="2023-10-04T19:50:02">
  <decision date="2021-02-24" number="1233701-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com//images/57/b7/57b7283993a99d306740a4d73a04ab76.jpg]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
-<content id="3013422" includeTime="2021-04-13T18:56:11" entryType="1" hash="E970AA140B43DFA006794B3B60FB0F91" ts="2023-07-10T18:04:00">
+<content id="3013422" includeTime="2021-04-13T18:56:11" entryType="1" hash="F9C453B09821B5E6BB9831D2FFE1ADF4" ts="2023-10-04T19:50:02">
  <decision date="2021-02-24" number="1233702-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com//samples/64/73/sample_6473fbff105b7d0ec3ac71a405e299fe.jpg]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="3013450" includeTime="2021-02-24T22:25:40" entryType="1" hash="2BE56513FD52B7D83ADC6B4204737E08" blockType="domain-mask" ts="2021-02-24T22:25:40">
  <decision date="2017-02-22" number="2-6-20/2017-02-20-38-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -7451,18 +7495,22 @@
  <domain><![CDATA[*.netgameonline77.com]]></domain>
  <ip>46.101.98.2</ip>
 </content>
-<content id="3018162" includeTime="2021-04-13T18:56:11" entryType="1" hash="205C94C668FD6F9F3061FAF7F97D5DA6" ts="2023-07-10T18:04:00">
+<content id="3018162" includeTime="2021-04-13T18:56:11" entryType="1" hash="C647AE5D905D4765BC0A683841C2BB75" ts="2023-10-04T19:50:02">
  <decision date="2021-02-25" number="1235347-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com//images/a1/a0/a1a08ba73926aa584df2770015fe271c.jpeg]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="3018163" includeTime="2021-04-13T18:56:11" entryType="1" hash="C4A47003756CBF3F8718112B8BE1D6A4" ts="2021-04-13T18:56:11">
  <decision date="2021-02-25" number="1235348-URL-on" org="Роскомнадзор"/>
@@ -7496,18 +7544,22 @@
  <domain><![CDATA[blargsnarf.com]]></domain>
  <ip>199.168.187.55</ip>
 </content>
-<content id="3018179" includeTime="2021-04-13T18:56:13" entryType="1" hash="B5A35E0C06A6A73CCFD7D209A63E2368" ts="2023-07-10T18:04:00">
+<content id="3018179" includeTime="2021-04-13T18:56:13" entryType="1" hash="43B63FAD483B11DE19E9C2E6199E3A89" ts="2023-10-04T19:50:02">
  <decision date="2021-02-25" number="1235364-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img3.gelbooru.com//images/63/d7/63d7ea20f8b4834de674fe7594f02b63.png]]></url>
  <domain><![CDATA[img3.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="3018181" includeTime="2021-03-01T17:53:44" entryType="1" hash="B11F60E94F9062816A7F33F748691D2E" ts="2023-09-06T18:20:02">
  <decision date="2021-02-25" number="1235366-URL-on" org="Роскомнадзор"/>

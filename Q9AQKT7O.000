@@ -4867,18 +4867,22 @@
  <ipv6>2a06:98c1:3122:a000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:a000:0000:0000:0000:0000</ipv6>
 </content>
-<content id="3963252" includeTime="2022-01-26T13:58:23" entryType="1" hash="CCE22711C284017D71DC851043DC35C8" ts="2023-07-10T18:04:00">
+<content id="3963252" includeTime="2022-01-26T13:58:23" entryType="1" hash="31D73B5A57077FAA430F88CF717F0D9F" ts="2023-10-04T19:50:02">
  <decision date="2022-01-19" number="1562596-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com/images/58/1e/581ed3447d51f1f23895d9e826077f14.jpeg]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="3963255" includeTime="2022-01-21T19:37:19" entryType="1" hash="A0407D1427E431C84D66A85A6FC22963" blockType="domain" ts="2023-08-22T11:45:02">
  <decision date="2021-12-27" number="2а-6745/2021" org="Северодвинский городской суд - Архангельская область"/>
@@ -11650,14 +11654,18 @@
  <domain><![CDATA[boards.plus4chan.org]]></domain>
  <ip>104.244.75.22</ip>
 </content>
-<content id="3977593" includeTime="2022-01-26T13:58:22" entryType="1" hash="997E46415378E615EF72EBB02B02148A" ts="2023-07-10T18:04:00">
+<content id="3977593" includeTime="2022-01-26T13:58:22" entryType="1" hash="EE63FA4625DDCA52A94007E961C844DB" ts="2023-10-04T19:50:02">
  <decision date="2022-01-24" number="1566863-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img3.gelbooru.com//samples/8e/41/sample_8e41db431e33c8dab4e67188c26e6fcc.jpg]]></url>
  <domain><![CDATA[img3.gelbooru.com]]></domain>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="3977595" includeTime="2022-01-26T13:58:26" entryType="1" hash="97C6929944F6201A17A5BE2BCA2F3502" blockType="domain" ts="2022-01-26T13:58:26">
  <decision date="2022-01-24" number="2022-01-21-2618-ПЛ" org="Росздравнадзор"/>

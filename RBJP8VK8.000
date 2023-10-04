@@ -3930,14 +3930,18 @@
  <ip>104.21.48.220</ip>
  <ip>172.67.156.176</ip>
 </content>
-<content id="5548847" includeTime="2023-03-09T22:44:51" entryType="1" hash="9552B89F0FC167C78A03E25D7A7158A1" ts="2023-03-09T22:44:51">
+<content id="5548847" includeTime="2023-03-09T22:44:51" entryType="1" hash="ACC948153FE5666FD4472B71D7048F28" ts="2023-10-04T19:50:02">
  <decision date="2023-03-07" number="2001708-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img3.gelbooru.com//samples/be/42/sample_be4298921d6884defbb9d0b8bd3e179a.jpg]]></url>
  <domain><![CDATA[img3.gelbooru.com]]></domain>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="5548850" includeTime="2023-03-07T20:45:30" entryType="1" hash="F7B73A42783016CCDE59CA049ADF0B69" blockType="domain-mask" ts="2023-03-07T20:45:30">
  <decision date="2017-10-27" number="2-6-20/ 2017-10-26-206-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4556,7 +4560,7 @@
  <ip>104.21.42.11</ip>
  <ip>172.67.198.27</ip>
 </content>
-<content id="5549071" includeTime="2023-03-09T14:09:40" entryType="1" hash="689FC8D3E4686A175CBB1EE92B0F15A5" ts="2023-07-12T17:35:40">
+<content id="5549071" includeTime="2023-03-09T14:09:40" entryType="1" hash="4D11216A603B2C46122481BCFD2FF925" ts="2023-10-04T19:50:02">
  <decision date="2023-03-07" number="2001726-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static4.hentai-img.com/upload/20170423/288/294118/21.jpg]]></url>
  <domain><![CDATA[static4.hentai-img.com]]></domain>
@@ -4564,10 +4568,14 @@
  <ip>172.64.109.31</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="5549072" includeTime="2023-03-07T20:45:31" entryType="1" hash="493162AD5EFFEBFFA510F499F66174A8" blockType="domain-mask" ts="2023-03-07T20:45:31">
  <decision date="2017-10-27" number="2-6-20/ 2017-10-26-206-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

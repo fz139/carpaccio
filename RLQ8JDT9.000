@@ -2109,7 +2109,7 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a1f1</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0f4c</ipv6>
 </content>
-<content id="4881807" includeTime="2022-09-30T14:31:07" entryType="1" hash="30BC306CE581BFAC17BF4668DC231988" ts="2023-07-12T17:35:40">
+<content id="4881807" includeTime="2022-09-30T14:31:07" entryType="1" hash="170C88F822A1E957C1F16A60EA7E87D2" ts="2023-10-04T19:50:02">
  <decision date="2022-09-28" number="1824318-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static4.hentai-img.com/upload/20170301/263/268712/18.jpg]]></url>
  <domain><![CDATA[static4.hentai-img.com]]></domain>
@@ -2117,10 +2117,14 @@
  <ip>172.64.137.35</ip>
  <ip>172.64.166.6</ip>
  <ip>172.64.167.6</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a606</ipv6>
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a706</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="4881809" includeTime="2022-09-29T13:35:21" entryType="1" hash="32CB0BEC8E352F102AE6425855341750" blockType="domain" ts="2022-09-29T13:35:21">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2532,7 +2536,7 @@
  <domain><![CDATA[ag.anabolicshops.me]]></domain>
  <ip>193.233.15.133</ip>
 </content>
-<content id="4881972" includeTime="2022-09-30T14:31:01" entryType="1" hash="75B5C4393832FFA0A6D6AC4450093620" ts="2023-07-12T17:35:40">
+<content id="4881972" includeTime="2022-09-30T14:31:01" entryType="1" hash="B1BFE5A901AC54DBBD1F4E72A1BD4922" ts="2023-10-04T19:50:02">
  <decision date="2022-09-28" number="1824376-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static4.hentai-img.com/upload/20170213/255/260500/p=700/14.jpg]]></url>
  <domain><![CDATA[static4.hentai-img.com]]></domain>
@@ -2540,10 +2544,14 @@
  <ip>172.64.137.35</ip>
  <ip>172.64.166.6</ip>
  <ip>172.64.167.6</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a606</ipv6>
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a706</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="4881974" includeTime="2022-09-28T21:08:04" entryType="1" hash="6B038632AACC5BCBABA95AD1ED19DDCA" blockType="domain" ts="2022-09-28T21:08:04">
  <decision date="2017-10-03" number="2-6-20/ 2017-10-03-874-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2675,14 +2683,18 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b2c1</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4858</ipv6>
 </content>
-<content id="4882010" includeTime="2022-09-30T14:31:01" entryType="1" hash="FE829489A3F79A8E1AD3710B5DDAB185" ts="2022-09-30T14:31:01">
+<content id="4882010" includeTime="2022-09-30T14:31:01" entryType="1" hash="63DF582F4343ABA53771438D166B7A9D" ts="2023-10-04T19:50:02">
  <decision date="2022-09-28" number="1824440-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com/images/12/43/1243c155f589eb1e7bea24a9a10ff684.jpeg]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="4882016" includeTime="2022-09-28T21:12:32" entryType="1" hash="3E1BEBE5497D8EEEFBA86AD03306E2EB" blockType="domain" ts="2022-09-28T21:12:32">
  <decision date="2017-10-03" number="2-6-20/ 2017-10-03-874-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -3842,14 +3854,18 @@
  <ip>104.21.46.89</ip>
  <ip>172.67.137.5</ip>
 </content>
-<content id="4882473" includeTime="2022-09-30T14:31:06" entryType="1" hash="9FF9D040F894C086D9211B9ED266FF5A" ts="2022-09-30T14:31:06">
+<content id="4882473" includeTime="2022-09-30T14:31:06" entryType="1" hash="833FA53BB9AD4B52E86341958A1B3111" ts="2023-10-04T19:50:02">
  <decision date="2022-09-28" number="1824347-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com/images/de/68/de68ac941304fdccd7b2701cb891288a.jpg]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="4882474" includeTime="2022-09-30T14:31:09" entryType="1" hash="35347C5A452691D7368330F42E1224EC" ts="2023-09-29T16:25:01">
  <decision date="2015-10-26" number="2-2746/15" org="Учалинский районный суд Республики Башкортостан"/>
@@ -7656,7 +7672,7 @@
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c810</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c910</ipv6>
 </content>
-<content id="4887621" includeTime="2022-10-03T14:21:28" entryType="1" hash="9ECED9984ACDC48A124FCEC46F721A93" ts="2023-07-12T17:35:40">
+<content id="4887621" includeTime="2022-10-03T14:21:28" entryType="1" hash="43B15A200504614588EA0CE8FB683C93" ts="2023-10-04T19:50:02">
  <decision date="2022-09-29" number="1825837-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static4.hentai-img.com/upload/20170430/295/301399/p=700/31.jpg]]></url>
  <domain><![CDATA[static4.hentai-img.com]]></domain>
@@ -7666,10 +7682,14 @@
  <ip>172.64.137.35</ip>
  <ip>172.64.166.6</ip>
  <ip>172.64.167.6</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a606</ipv6>
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a706</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9c3</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9c4</ipv6>
 </content>

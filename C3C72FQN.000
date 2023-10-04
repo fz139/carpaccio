@@ -5044,11 +5044,15 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6061390" includeTime="2023-06-16T13:34:30" entryType="1" hash="086A5F3155FC1E0D70ABE42651D22170" blockType="domain" ts="2023-06-16T13:34:30">
+<content id="6061390" includeTime="2023-06-16T13:34:30" entryType="1" hash="E11C4D973958D6A704B031B948D3D5C3" blockType="domain" ts="2023-10-04T19:50:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[zooline43.ru]]></domain>
+ <ip>104.21.55.139</ip>
+ <ip>172.67.148.240</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:94f0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:378b</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -11529,14 +11533,18 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0264</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:8111</ipv6>
 </content>
-<content id="6068830" includeTime="2023-06-19T14:17:51" entryType="1" hash="A44DC711F51D1B7B49326464758D2D41" ts="2023-06-19T14:17:51">
+<content id="6068830" includeTime="2023-06-19T14:17:51" entryType="1" hash="7673CCD45192061BCD697A7CADD314FE" ts="2023-10-04T19:50:02">
  <decision date="2023-06-16" number="2127535-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com/images/c8/50/c85069b743d8dbb7b972726c8bcd130e.jpeg]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="6068833" includeTime="2023-06-19T14:17:48" entryType="1" hash="A8FB5CAE8543463DDF6A0563B56677E2" blockType="domain-mask" ts="2023-06-19T14:17:48">
  <decision date="2023-06-16" number="2023-06-15-3021" org="МВД"/>

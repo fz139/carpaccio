@@ -4733,18 +4733,22 @@
  <ip>188.114.96.160</ip>
  <ipv6>2a06:98c1:3120:a000:0000:0000:0000:0000</ipv6>
 </content>
-<content id="4532972" includeTime="2022-06-24T14:18:24" entryType="1" hash="E0FBEADF184F854A0218812614F4C9CB" ts="2023-07-10T18:04:00">
+<content id="4532972" includeTime="2022-06-24T14:18:24" entryType="1" hash="40DB3239C16AFB22AED1E90C9BEA7B7A" ts="2023-10-04T19:50:02">
  <decision date="2022-06-22" number="1716459-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com//images/95/21/9521a60b8c2119ab982ecfcb602fe5dc.jpeg]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
  <ip>104.21.233.235</ip>
  <ip>104.21.233.236</ip>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="4532977" includeTime="2022-06-22T21:53:34" entryType="1" hash="4D132B5788D9DF84B12D0C80D45E2586" blockType="domain-mask" ts="2022-06-22T21:53:34">
  <decision date="2017-06-05" number="2-6-20/2017-06-05-161-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4900,14 +4904,18 @@
  <domain><![CDATA[boards.plus4chan.org]]></domain>
  <ip>104.244.75.22</ip>
 </content>
-<content id="4533202" includeTime="2022-06-24T14:18:23" entryType="1" hash="0268D392235C4A683739E910CDD16DAC" ts="2023-07-10T18:04:00">
+<content id="4533202" includeTime="2022-06-24T14:18:23" entryType="1" hash="360C2E4087992F03FBAEE3FBD2B978F5" ts="2023-10-04T19:50:02">
  <decision date="2022-06-22" number="1716453-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img3.gelbooru.com//images/86/63/8663905d03d4f7e90047cae99289870e.jpeg]]></url>
  <domain><![CDATA[img3.gelbooru.com]]></domain>
+ <ip>104.21.234.102</ip>
+ <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
 <content id="4533268" includeTime="2022-06-27T20:51:10" urgencyType="1" entryType="3" hash="CE9160960A3D0DC2A13D44C55FE68C69" ts="2022-06-27T20:51:10">
  <decision date="2015-12-04" number="" org=""/>
