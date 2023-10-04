@@ -9970,12 +9970,16 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6271699" includeTime="2023-08-16T11:55:02" entryType="1" hash="A1DA999E56433984879455D0D30636CF" ts="2023-08-16T11:55:02">
+<content id="6271699" includeTime="2023-08-16T11:55:02" entryType="1" hash="53AA5AB37B877307A4D72E70AFAF6AD9" ts="2023-10-04T13:20:03">
  <decision date="2023-08-14" number="2196509-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static11.hentai-img.com/upload/20210103/685/701154/p=700/15.jpg]]></url>
  <domain><![CDATA[static11.hentai-img.com]]></domain>
  <ip>172.64.166.6</ip>
  <ip>172.64.167.6</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="6271700" includeTime="2023-08-15T13:55:02" entryType="1" hash="6C689E975407E2B3D0808B1D8E976232" blockType="domain" ts="2023-08-15T13:55:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -11646,14 +11650,18 @@
  <domain><![CDATA[*.slotv-v.co]]></domain>
  <ip>188.42.89.243</ip>
 </content>
-<content id="6272463" includeTime="2023-08-16T11:55:02" entryType="1" hash="EC3A79301EC0E4BBD3FDD62B3C405B6A" ts="2023-08-16T11:55:02">
+<content id="6272463" includeTime="2023-08-16T11:55:02" entryType="1" hash="B176390711F6439B0986A68245BA5B8E" ts="2023-10-04T13:20:03">
  <decision date="2023-08-14" number="2196839-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static11.hentai-img.com/upload/20210223/693/708845/p=700/5.jpg]]></url>
  <domain><![CDATA[static11.hentai-img.com]]></domain>
  <ip>172.64.166.6</ip>
  <ip>172.64.167.6</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a606</ipv6>
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a706</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="6272464" includeTime="2023-08-15T00:50:01" entryType="1" hash="4D06AC4BA23F8C62E9124C5BE16632CD" blockType="domain-mask" ts="2023-08-15T00:50:01">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

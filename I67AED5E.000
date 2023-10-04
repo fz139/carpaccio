@@ -6936,14 +6936,18 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6223730" includeTime="2023-07-26T13:40:03" entryType="1" hash="39A68E5080BB3307E2AD712E5919EB39" ts="2023-07-26T13:40:03">
+<content id="6223730" includeTime="2023-07-26T13:40:03" entryType="1" hash="45E0AEB9F3F5D6D5D40651865D54C8E2" ts="2023-10-04T13:20:03">
  <decision date="2023-07-24" number="2172524-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static7.hentai-img.com/upload/20190301/537/549665/12.jpg]]></url>
  <domain><![CDATA[static7.hentai-img.com]]></domain>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="6223731" includeTime="2023-07-24T20:45:02" entryType="1" hash="219D9616E771B6408E2324275710E4BB" blockType="domain-mask" ts="2023-07-24T20:45:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -9430,9 +9434,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6224519" includeTime="2023-07-26T22:05:02" entryType="1" hash="224F2F454CD713A21B43AD25B9C0CD35" blockType="domain" ts="2023-07-26T22:05:02">
+<content id="6224519" includeTime="2023-07-26T22:05:02" entryType="1" hash="C9A678B9DBD9CFADA087BAF424CA3788" blockType="domain-mask" ts="2023-10-04T13:20:03">
  <decision date="2023-05-03" number="2а-560/23" org="Черемушкинский районный суд - Москва"/>
- <domain><![CDATA[ndfl-v-moskve.ru]]></domain>
+ <domain><![CDATA[*.ndfl-v-moskve.ru]]></domain>
  <ip>45.147.197.220</ip>
 </content>
 <content id="6224530" includeTime="2023-07-26T22:05:02" entryType="1" hash="E913273DC96399F437C67EDCA1620A91" blockType="domain" ts="2023-07-26T22:05:02">
