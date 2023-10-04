@@ -1139,14 +1139,6 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3a74</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:9f68</ipv6>
 </content>
-<content id="6280358" includeTime="2023-08-19T00:25:01" entryType="1" hash="E67045D54DDCACB91F6CACFA853C45FE" blockType="domain" ts="2023-08-19T00:25:01">
- <decision date="2023-08-16" number="2023-08-11-3034-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[d-rus.spb-apteka.su]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6280359" includeTime="2023-08-18T13:15:01" entryType="1" hash="BE3D77800EFA523F24CD51363937AEAC" ts="2023-08-18T13:15:01">
  <decision date="2023-08-15" number="2023-08-09-3438-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[http://tomsk.rutab24.ru/]]></url>
@@ -9898,14 +9890,18 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6284578" includeTime="2023-08-22T08:20:02" entryType="1" hash="C9304CA5D3BE10CE5A3CBB30A10249CF" ts="2023-08-22T08:20:02">
+<content id="6284578" includeTime="2023-08-22T08:20:02" entryType="1" hash="7F80340A7E8EB84817C1A225A123AE31" ts="2023-10-04T10:55:03">
  <decision date="2023-08-17" number="2202780-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static12.hentai-img.com/upload/20210412/729/746401/10.jpg]]></url>
  <domain><![CDATA[static12.hentai-img.com]]></domain>
  <ip>172.64.166.6</ip>
  <ip>172.64.167.6</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a606</ipv6>
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a706</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="6284581" includeTime="2023-08-21T13:30:03" entryType="1" hash="EE8F859C873D37FC90BB2B7A31EFD2F6" ts="2023-08-21T13:30:03">
  <decision date="2022-10-25" number="2а-1704/2022" org="Замоскворецкий районный суд - Москва"/>
