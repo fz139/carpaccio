@@ -4849,14 +4849,6 @@
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:b6ec</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:406f</ipv6>
 </content>
-<content id="6383086" includeTime="2023-09-28T14:00:03" entryType="1" hash="300BD2AFA167CE5E8038F829FCB89830" blockType="domain" ts="2023-09-28T14:00:03">
- <decision date="2023-09-25" number="2023-09-25-250-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[m-et.love-farma.ru]]></domain>
- <ip>104.21.94.156</ip>
- <ip>172.67.137.203</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:89cb</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:5e9c</ipv6>
-</content>
 <content id="6383087" includeTime="2023-09-26T21:40:02" entryType="1" hash="137ECE64B3F0132632EC199FBFAE0220" blockType="domain-mask" ts="2023-09-26T21:40:02">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1-win-registrationr.org.ru]]></domain>
@@ -11099,6 +11091,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:bcf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:413b</ipv6>
 </content>
+<content id="6385449" includeTime="2023-10-04T13:50:02" entryType="1" hash="3E7EB6679828378BF29E366AA589A0BC" blockType="domain" ts="2023-10-04T13:50:02">
+ <decision date="2023-09-27" number="2023-09-23-1347-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[alcogol-dostawka888.online]]></domain>
+ <ip>104.21.75.113</ip>
+ <ip>172.67.222.203</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:4b71</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:decb</ipv6>
+</content>
 <content id="6385453" includeTime="2023-09-29T13:15:02" entryType="1" hash="CFF4F856018F9E999BAAC50AD76B4711" blockType="domain" ts="2023-09-29T13:15:02">
  <decision date="2023-09-27" number="2023-09-23-70-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[balashiha-grand51.ru]]></domain>
@@ -13821,6 +13821,14 @@
  <ip>172.67.136.23</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:20d7</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:8817</ipv6>
+</content>
+<content id="6386192" includeTime="2023-10-04T13:50:02" entryType="1" hash="92ABC13E91687A4ED03DF1B99D7F8CCB" blockType="domain" ts="2023-10-04T13:50:02">
+ <decision date="2023-09-27" number="2023-09-23-1276-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[alcohol-market.fun]]></domain>
+ <ip>104.21.7.219</ip>
+ <ip>172.67.188.16</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:bc10</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:07db</ipv6>
 </content>
 <content id="6386197" includeTime="2023-09-29T13:15:02" entryType="1" hash="55AF93DDC903D5EA7B21EB22BEB70AF1" ts="2023-09-29T13:15:02">
  <decision date="2023-09-27" number="2246452-URL-on" org="Роскомнадзор"/>
