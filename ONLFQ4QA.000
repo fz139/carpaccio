@@ -2811,7 +2811,7 @@
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c810</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c910</ipv6>
 </content>
-<content id="4796829" includeTime="2022-09-09T20:50:04" entryType="1" hash="76F872107CEA50FAA3603B552499CF54" ts="2023-07-12T17:35:40">
+<content id="4796829" includeTime="2022-09-09T20:50:04" entryType="1" hash="8135C490C0A6C98ED76F81787E6557AB" ts="2023-10-06T11:20:04">
  <decision date="2022-09-08" number="1800471-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static8.hentai-img.com/upload/20200303/617/631572/10.png]]></url>
  <domain><![CDATA[static8.hentai-img.com]]></domain>
@@ -2819,10 +2819,14 @@
  <ip>172.64.109.31</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="4796831" includeTime="2022-09-09T20:50:06" entryType="1" hash="B0DA7B655D562C742C61012CD87F2DBE" ts="2023-10-06T09:20:04">
  <decision date="2022-09-08" number="1800479-URL-on" org="Роскомнадзор"/>
@@ -3643,7 +3647,7 @@
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
-<content id="4797249" includeTime="2022-09-09T20:50:09" entryType="1" hash="213977ADD0B7D1F317CC59DFCC0709EB" ts="2023-07-12T17:35:40">
+<content id="4797249" includeTime="2022-09-09T20:50:09" entryType="1" hash="288CD69217AB17B3DA204F8273941554" ts="2023-10-06T11:20:04">
  <decision date="2022-09-08" number="1800425-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static8.hentai-img.com/upload/20200308/619/633619/p=700/2.jpg]]></url>
  <domain><![CDATA[static8.hentai-img.com]]></domain>
@@ -3651,10 +3655,14 @@
  <ip>172.64.109.31</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="4797253" includeTime="2022-09-09T20:50:10" entryType="1" hash="7033C487DC0E313F511A164C109877FA" ts="2023-10-03T13:20:02">
  <decision date="2022-09-08" number="1800433-URL-on" org="Роскомнадзор"/>
@@ -4103,14 +4111,6 @@
  <ip>172.67.148.154</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:949a</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0b5f</ipv6>
-</content>
-<content id="4797463" includeTime="2022-09-12T21:01:20" entryType="1" hash="F1A28D8250E00FA13EBFC874E77D69B2" blockType="domain" ts="2022-09-12T21:01:20">
- <decision date="2022-08-04" number="2а-501/2022" org="Североуральский городской суд - Свердловская область"/>
- <domain><![CDATA[centr-meed-ekb.ru]]></domain>
- <ip>104.21.36.99</ip>
- <ip>172.67.192.79</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:2463</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:c04f</ipv6>
 </content>
 <content id="4797464" includeTime="2022-09-09T20:50:07" entryType="1" hash="DE7BC59EA2BBE8D0896A43B2A56ACB58" blockType="domain" ts="2022-09-09T20:50:07">
  <decision date="2022-09-07" number="2022-09-06-1727" org="МВД"/>
@@ -5169,7 +5169,7 @@
  <domain><![CDATA[www.gtube.xxx]]></domain>
  <ip>104.193.254.142</ip>
 </content>
-<content id="4797954" includeTime="2022-09-09T20:50:11" entryType="1" hash="441A3372AC99A494806F33A4AC905047" ts="2023-07-12T17:35:40">
+<content id="4797954" includeTime="2022-09-09T20:50:11" entryType="1" hash="442FA8C93138FB63C8344ECD27E85091" ts="2023-10-06T11:20:04">
  <decision date="2022-09-08" number="1800373-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static8.hentai-img.com/upload/20190513/567/580151/p=700/37.jpg]]></url>
  <domain><![CDATA[static8.hentai-img.com]]></domain>
@@ -5177,10 +5177,14 @@
  <ip>172.64.109.31</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="4797956" includeTime="2022-09-09T20:50:04" entryType="1" hash="37C233EE3354EC8E864239F6D6BBD79D" blockType="domain" ts="2022-09-09T20:50:04">
  <decision date="2022-09-08" number="2022-09-08-138-ПЛ" org="Росздравнадзор"/>
@@ -5687,7 +5691,7 @@
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c810</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c910</ipv6>
 </content>
-<content id="4798124" includeTime="2022-09-12T21:01:09" entryType="1" hash="500CAB4403C1D8E220D3BECF577CE2C6" ts="2023-07-12T17:35:40">
+<content id="4798124" includeTime="2022-09-12T21:01:09" entryType="1" hash="DD441BCA268581B9E722FECF20CB953E" ts="2023-10-06T11:20:04">
  <decision date="2022-09-08" number="1801619-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static8.hentai-img.com/upload/20190408/556/569290/p=700/28.jpg]]></url>
  <domain><![CDATA[static8.hentai-img.com]]></domain>
@@ -5695,10 +5699,14 @@
  <ip>172.64.109.31</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="4798125" includeTime="2022-09-12T21:01:05" entryType="1" hash="9469FB3373322E5BD275D893826F34B8" ts="2023-10-06T09:20:04">
  <decision date="2022-09-08" number="1801627-URL-on" org="Роскомнадзор"/>
@@ -5900,7 +5908,7 @@
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c810</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c910</ipv6>
 </content>
-<content id="4798226" includeTime="2022-09-12T21:01:00" entryType="1" hash="CC3FAFDC264B60692C45C17E163DB0A0" ts="2023-07-12T17:35:40">
+<content id="4798226" includeTime="2022-09-12T21:01:00" entryType="1" hash="BDC73FAF4804F90B932C1AE54BC431B9" ts="2023-10-06T11:20:04">
  <decision date="2022-09-08" number="1801556-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static8.hentai-img.com/upload/20190825/585/598370/p=700/6.jpg]]></url>
  <domain><![CDATA[static8.hentai-img.com]]></domain>
@@ -5908,10 +5916,14 @@
  <ip>172.64.109.31</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="4798228" includeTime="2022-09-12T21:01:06" entryType="1" hash="4E0A17735EDD80FC4907DB1A1B7CE4E6" blockType="domain" ts="2023-09-28T13:00:02">
  <decision date="2022-09-08" number="1801572-URL-on" org="Роскомнадзор"/>
@@ -5950,7 +5962,7 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:da95</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5672</ipv6>
 </content>
-<content id="4798235" includeTime="2022-09-12T21:01:12" entryType="1" hash="500FF04EFF59A243F16302A4BDB217B8" ts="2023-07-12T17:35:40">
+<content id="4798235" includeTime="2022-09-12T21:01:12" entryType="1" hash="448EC41E6A614C35EE83B194B9812F3C" ts="2023-10-06T11:20:04">
  <decision date="2022-09-08" number="1801628-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static8.hentai-img.com/upload/20190408/556/568663/p=700/3.jpg]]></url>
  <domain><![CDATA[static8.hentai-img.com]]></domain>
@@ -5958,12 +5970,16 @@
  <ip>172.64.109.31</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
-<content id="4798236" includeTime="2022-09-12T21:01:26" entryType="1" hash="464FF897F13BDB6E49BFC53338665C74" ts="2023-07-12T17:35:40">
+<content id="4798236" includeTime="2022-09-12T21:01:26" entryType="1" hash="A26BC5733004A015C016A69790774C74" ts="2023-10-06T11:20:04">
  <decision date="2022-09-08" number="1801636-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static8.hentai-img.com/upload/20190914/588/601949/p=700/6.jpg]]></url>
  <domain><![CDATA[static8.hentai-img.com]]></domain>
@@ -5971,10 +5987,14 @@
  <ip>172.64.109.31</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="4798239" includeTime="2022-09-12T21:01:19" entryType="1" hash="ADD22B9D902ED71894632D2E030F8F78" ts="2023-10-05T10:55:02">
  <decision date="2022-09-08" number="1801660-URL-on" org="Роскомнадзор"/>
@@ -6200,7 +6220,7 @@
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c810</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c910</ipv6>
 </content>
-<content id="4798345" includeTime="2022-09-12T21:01:22" entryType="1" hash="E9A8EC0EC66BFDFD09E5D94DF8CE7339" ts="2023-07-12T17:35:40">
+<content id="4798345" includeTime="2022-09-12T21:01:22" entryType="1" hash="02285BF8CD6487442997EAE3896BB066" ts="2023-10-06T11:20:04">
  <decision date="2022-09-08" number="1801613-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static8.hentai-img.com/upload/20190923/590/603522/p=700/20.jpg]]></url>
  <domain><![CDATA[static8.hentai-img.com]]></domain>
@@ -6208,10 +6228,14 @@
  <ip>172.64.109.31</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="4798347" includeTime="2022-09-12T21:01:06" entryType="1" hash="5A9E9EEC50217E8FB8508B92AC5F6F4C" ts="2022-09-12T21:01:06">
  <decision date="2022-09-08" number="1801629-URL-on" org="Роскомнадзор"/>
@@ -6460,7 +6484,7 @@
  <ipv6>2a01:53c0:ff06:ffff:5973:2d2b:cc1e:92bd</ipv6>
  <ipv6>2a01:53c0:ff0b:0001:0d08:03d5:07bf:65af</ipv6>
 </content>
-<content id="4798458" includeTime="2022-09-12T21:01:19" entryType="1" hash="802DD56144D584D9C845FCAA7B21DF1D" ts="2023-07-12T17:35:40">
+<content id="4798458" includeTime="2022-09-12T21:01:19" entryType="1" hash="B58C26566D84EFE9B17DAD5F4C1C87D2" ts="2023-10-06T11:20:04">
  <decision date="2022-09-08" number="1801630-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static8.hentai-img.com/upload/20200209/612/626610/20.jpg]]></url>
  <domain><![CDATA[static8.hentai-img.com]]></domain>
@@ -6468,10 +6492,14 @@
  <ip>172.64.109.31</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="4798459" includeTime="2022-09-20T22:23:10" entryType="1" hash="050CD90F37C052C9933ED703F474A1F2" blockType="domain" ts="2022-09-20T22:23:10">
  <decision date="2022-09-07" number="2022-09-03-19-АЛК" org="Росалкогольрегулирование"/>
@@ -6652,7 +6680,7 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:8990</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3eac</ipv6>
 </content>
-<content id="4798556" includeTime="2022-09-12T21:01:12" entryType="1" hash="BFAB8435BD19A10CBB788120A5D8778E" ts="2023-07-12T17:35:40">
+<content id="4798556" includeTime="2022-09-12T21:01:12" entryType="1" hash="38232ED76DEA7DCFBB2B462E0EB17FE1" ts="2023-10-06T11:20:04">
  <decision date="2022-09-08" number="1801559-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static8.hentai-img.com/upload/20190413/561/573766/14.png]]></url>
  <domain><![CDATA[static8.hentai-img.com]]></domain>
@@ -6660,10 +6688,14 @@
  <ip>172.64.109.31</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="4798562" includeTime="2022-09-12T21:01:03" entryType="1" hash="E14D5C85439E3C70DC9879C748278C5C" blockType="domain" ts="2022-09-12T21:01:03">
  <decision date="2022-09-07" number="2022-09-02-1530-АЛК" org="Росалкогольрегулирование"/>
@@ -6913,7 +6945,7 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:c8f6</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:15e9</ipv6>
 </content>
-<content id="4798677" includeTime="2022-09-12T21:01:08" entryType="1" hash="79505761039AACB3EF806084C44BA901" ts="2023-07-12T17:35:40">
+<content id="4798677" includeTime="2022-09-12T21:01:08" entryType="1" hash="5D6BF4650C28BF18FD665EA77461FEB9" ts="2023-10-06T11:20:04">
  <decision date="2022-09-08" number="1801640-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static8.hentai-img.com/upload/20190914/588/602047/p=700/8.jpg]]></url>
  <domain><![CDATA[static8.hentai-img.com]]></domain>
@@ -6921,10 +6953,14 @@
  <ip>172.64.109.31</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="4798681" includeTime="2022-09-12T21:01:15" entryType="1" hash="1B38D0BD690770EABE39B0656F4BE058" blockType="domain" ts="2022-09-12T21:01:15">
  <decision date="2022-09-07" number="2022-09-06-1860-АЛК" org="Росалкогольрегулирование"/>
@@ -7434,7 +7470,7 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea8a</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea8b</ipv6>
 </content>
-<content id="4798896" includeTime="2022-09-12T21:01:26" entryType="1" hash="2CCA8098C83941DCAECAAEE6A31D1EB4" ts="2023-07-12T17:35:40">
+<content id="4798896" includeTime="2022-09-12T21:01:26" entryType="1" hash="3DB59F11DCBC0DADDD77DA155EC69DEA" ts="2023-10-06T11:20:04">
  <decision date="2022-09-08" number="1801626-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static8.hentai-img.com/upload/20190413/561/573705/p=700/14.png]]></url>
  <domain><![CDATA[static8.hentai-img.com]]></domain>
@@ -7442,10 +7478,14 @@
  <ip>172.64.109.31</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
+ <ip>172.64.194.36</ip>
+ <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
 </content>
 <content id="4798897" includeTime="2022-09-12T21:01:15" entryType="1" hash="8CE837D2F67E578978ED8B005B0942E0" ts="2022-09-12T21:01:15">
  <decision date="2022-09-08" number="1801634-URL-on" org="Роскомнадзор"/>
