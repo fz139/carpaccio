@@ -374,6 +374,17 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:07f8</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:bc1f</ipv6>
 </content>
+<content id="6407381" includeTime="2023-10-09T09:10:04" entryType="1" hash="D316E8139D8590A5A6B868C0B769F318" ts="2023-10-09T09:10:04">
+ <decision date="2023-10-06" number="2256043-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://b.gaysmska.online/top]]></url>
+ <domain><![CDATA[b.gaysmska.online]]></domain>
+ <ip>185.155.96.183</ip>
+</content>
+<content id="6407384" includeTime="2023-10-09T09:10:04" entryType="1" hash="AAB16934138B5A1DA2EC1F73D11690AE" blockType="domain" ts="2023-10-09T09:10:04">
+ <decision date="2023-10-06" number="2256051-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[b.mosgay.online]]></domain>
+ <ip>185.155.96.140</ip>
+</content>
 <content id="6407392" includeTime="2023-10-06T22:40:04" entryType="1" hash="629E67FABFB0A96E53EEFB7AAA9CF804" blockType="domain-mask" ts="2023-10-06T22:40:04">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.admiralx-009.buzz]]></domain>
