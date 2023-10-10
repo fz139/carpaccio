@@ -7585,14 +7585,6 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2bd0</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:b92d</ipv6>
 </content>
-<content id="3018204" includeTime="2021-03-16T18:58:07" entryType="1" hash="F828464062AF06756A3983734E1AF726" blockType="domain-mask" ts="2021-03-16T18:58:07">
- <decision date="2021-02-24" number="2021-02-19-133" org="МВД"/>
- <domain><![CDATA[*.ganja-liv.xyz]]></domain>
- <ip>104.21.83.109</ip>
- <ip>172.67.223.120</ip>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:536d</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:df78</ipv6>
-</content>
 <content id="3018205" includeTime="2021-03-16T18:58:07" entryType="1" hash="D0568F173DA7F3501A931AAF9EDE224D" blockType="domain-mask" ts="2021-03-16T18:58:07">
  <decision date="2021-02-24" number="2021-02-19-7" org="МВД"/>
  <domain><![CDATA[*.semenarniya.net]]></domain>
@@ -10763,13 +10755,15 @@
  <domain><![CDATA[www.redtube.com.br]]></domain>
  <ip>66.254.114.238</ip>
 </content>
-<content id="3027307" includeTime="2021-04-12T17:46:00" entryType="1" hash="82F18C6EA6C9B3A009A73BC40BDBE1E5" ts="2023-10-04T10:55:03">
+<content id="3027307" includeTime="2021-04-12T17:46:00" entryType="1" hash="6569999FF8443A8ECD24EEAD137AE190" ts="2023-10-10T12:20:03">
  <decision date="2021-03-01" number="1238014-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static3.porn-images-xxx.com/upload/20180113/510/522191/6.jpg]]></url>
  <domain><![CDATA[static3.porn-images-xxx.com]]></domain>
  <ip>104.21.23.20</ip>
  <ip>172.64.142.8</ip>
  <ip>172.64.143.8</ip>
+ <ip>172.64.162.22</ip>
+ <ip>172.64.163.22</ip>
  <ip>172.64.200.21</ip>
  <ip>172.64.201.21</ip>
  <ip>172.64.204.27</ip>
@@ -10785,6 +10779,8 @@
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6118</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8e08</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8f08</ipv6>
+ <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a216</ipv6>
+ <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a316</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c815</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c915</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:cc1b</ipv6>
@@ -10792,13 +10788,15 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:d06b</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:1714</ipv6>
 </content>
-<content id="3027308" includeTime="2021-04-12T17:46:00" entryType="1" hash="26A7953AAAB494F1F3955A5259C3E391" ts="2023-10-04T10:55:03">
+<content id="3027308" includeTime="2021-04-12T17:46:00" entryType="1" hash="672D3C3530CFF8638BD990868AA4AD5A" ts="2023-10-10T12:20:03">
  <decision date="2021-03-01" number="1238015-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static3.porn-images-xxx.com/upload/20180113/510/522191/3.jpg]]></url>
  <domain><![CDATA[static3.porn-images-xxx.com]]></domain>
  <ip>104.21.23.20</ip>
  <ip>172.64.142.8</ip>
  <ip>172.64.143.8</ip>
+ <ip>172.64.162.22</ip>
+ <ip>172.64.163.22</ip>
  <ip>172.64.200.21</ip>
  <ip>172.64.201.21</ip>
  <ip>172.64.204.27</ip>
@@ -10814,6 +10812,8 @@
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6118</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8e08</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8f08</ipv6>
+ <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a216</ipv6>
+ <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a316</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c815</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c915</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:cc1b</ipv6>
