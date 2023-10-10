@@ -3637,14 +3637,6 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
-<content id="4996691" includeTime="2022-10-26T14:35:18" entryType="1" hash="BA87805E5AFFCC328D0A2A74BBFD5532" blockType="domain" ts="2022-10-26T14:35:18">
- <decision date="2022-10-24" number="1856665-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[video.av4.space]]></domain>
- <ip>104.21.70.36</ip>
- <ip>172.67.219.31</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:4624</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:db1f</ipv6>
-</content>
 <content id="4996710" includeTime="2022-10-26T14:35:21" entryType="1" hash="67C6D15255FF42488E567FA1FF079E53" blockType="domain" ts="2022-10-26T14:35:21">
  <decision date="2022-10-20" number="2022-10-19-11-АЛК" org="Росалкогольрегулирование"/>
  <domain><![CDATA[alconight1173.com]]></domain>
@@ -9031,10 +9023,13 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2ca6</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:c95e</ipv6>
 </content>
-<content id="5004054" includeTime="2022-10-27T13:02:53" entryType="1" hash="A57DCBABFE5E4843D415FA7017CBE323" blockType="domain" ts="2022-10-27T13:02:53">
+<content id="5004054" includeTime="2022-10-27T13:02:53" entryType="1" hash="8207FDA5C40124958C2A1B6698A513A8" blockType="domain" ts="2023-10-10T13:45:02">
  <decision date="2022-10-25" number="1859437-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[starsessions.cc]]></domain>
- <ip>185.61.152.59</ip>
+ <ip>104.21.5.239</ip>
+ <ip>172.67.154.196</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:05ef</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:9ac4</ipv6>
 </content>
 <content id="5004066" includeTime="2022-10-27T13:02:56" entryType="1" hash="B1C0F8769AA8681E653654DD0EFEDF9B" blockType="domain" ts="2022-10-27T13:02:56">
  <decision date="2022-08-01" number="2а-4205/2022" org="Центральный районный суд г. Хабаровска - Хабаровский край"/>
