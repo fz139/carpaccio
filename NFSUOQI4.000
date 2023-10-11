@@ -4398,9 +4398,9 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea67</ipv6>
 </content>
-<content id="4406124" includeTime="2022-05-23T14:31:09" entryType="1" hash="FC746C33E842D54AB2A74FAACC223C56" blockType="domain" ts="2022-05-23T14:31:09">
+<content id="4406124" includeTime="2022-05-23T14:31:09" entryType="1" hash="8538648697D3D0FDF1D10B3523509504" blockType="domain-mask" ts="2023-10-11T13:10:04">
  <decision date="2022-05-18" number="2022-05-18-748" org="ÌÂÄ"/>
- <domain><![CDATA[narco.store]]></domain>
+ <domain><![CDATA[*.narco.store]]></domain>
  <ip>104.21.69.33</ip>
  <ip>172.67.203.154</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4521</ipv6>

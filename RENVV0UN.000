@@ -1603,9 +1603,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1f9f</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:b23e</ipv6>
 </content>
-<content id="5836879" includeTime="2023-05-02T15:52:54" entryType="1" hash="BEB73291D3CEF270D135934C2BFE541E" blockType="domain" ts="2023-05-02T15:52:54">
+<content id="5836879" includeTime="2023-05-02T15:52:54" entryType="1" hash="EEDC5BB59C6635432B64393886399F38" blockType="domain-mask" ts="2023-10-11T13:10:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[narko-market.com]]></domain>
+ <domain><![CDATA[*.narko-market.com]]></domain>
  <ip>104.21.91.199</ip>
  <ip>172.67.179.52</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:b334</ipv6>
@@ -2660,9 +2660,9 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
-<content id="5837214" includeTime="2023-05-02T15:52:55" entryType="1" hash="4B1065D6CCDD3D79A817F9A177C9C07A" blockType="domain" ts="2023-05-02T15:52:55">
+<content id="5837214" includeTime="2023-05-02T15:52:55" entryType="1" hash="F900B5E4EFBC0E22136D533CB467A61E" blockType="domain-mask" ts="2023-10-11T13:10:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[easy-drugs.com]]></domain>
+ <domain><![CDATA[*.easy-drugs.com]]></domain>
  <ip>104.21.2.58</ip>
  <ip>172.67.128.208</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:80d0</ipv6>

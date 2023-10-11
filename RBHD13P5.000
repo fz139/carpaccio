@@ -2600,9 +2600,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:96c9</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:005a</ipv6>
 </content>
-<content id="4605506" includeTime="2022-07-13T13:55:16" entryType="1" hash="A5E832EC555F9AB5CEA4D0FD09407077" blockType="domain" ts="2022-07-13T13:55:16">
+<content id="4605506" includeTime="2022-07-13T13:55:16" entryType="1" hash="7F8127A186F32FBC01BE28E8D6384163" blockType="domain-mask" ts="2023-10-11T13:10:04">
  <decision date="2022-07-07" number="2022-07-01-757" org="ÌÂÄ"/>
- <domain><![CDATA[drug-store.store]]></domain>
+ <domain><![CDATA[*.drug-store.store]]></domain>
  <ip>104.21.39.143</ip>
  <ip>172.67.146.29</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:278f</ipv6>

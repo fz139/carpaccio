@@ -553,9 +553,9 @@
  <ip>104.21.74.143</ip>
  <ip>172.67.203.142</ip>
 </content>
-<content id="5814704" includeTime="2023-04-26T21:00:58" entryType="1" hash="1AB4DC11B0646790671C82CF26C11CE5" blockType="domain" ts="2023-04-26T21:00:58">
+<content id="5814704" includeTime="2023-04-26T21:00:58" entryType="1" hash="00D8CB848D47F564588848C67122970D" blockType="domain-mask" ts="2023-10-11T13:10:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[drugs-marketplace.com]]></domain>
+ <domain><![CDATA[*.drugs-marketplace.com]]></domain>
  <ip>104.21.36.65</ip>
  <ip>172.67.186.195</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2441</ipv6>
