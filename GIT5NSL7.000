@@ -4961,13 +4961,17 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:38f5</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:8aea</ipv6>
 </content>
-<content id="4222254" includeTime="2022-04-06T09:02:31" entryType="1" hash="E39D7AECED281B953D5A34234AEDFA3A" blockType="domain-mask" ts="2022-04-06T09:02:31">
+<content id="4222254" includeTime="2022-04-06T09:02:31" entryType="1" hash="1669ADC1C6227BF6617A7482523C71BD" blockType="domain-mask" ts="2023-10-11T19:00:03">
  <decision date="2022-04-01" number="2022-04-01-349" org="МВД"/>
  <domain><![CDATA[*.odium.co]]></domain>
  <ip>104.21.53.194</ip>
+ <ip>104.21.54.65</ip>
+ <ip>172.67.136.10</ip>
  <ip>172.67.217.247</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:3641</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d9f7</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:35c2</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:880a</ipv6>
 </content>
 <content id="4222268" includeTime="2022-04-06T13:15:54" entryType="1" hash="02571DE1DE784E5946011BC8241A509F" ts="2022-04-06T13:15:54">
  <decision date="2022-04-04" number="1638072-URL-on" org="Роскомнадзор"/>
