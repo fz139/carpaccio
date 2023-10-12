@@ -1587,7 +1587,7 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6292041" includeTime="2023-08-22T08:20:02" entryType="1" hash="7B7B8101141B9245A916C88662D1AC46" ts="2023-10-03T13:20:02">
+<content id="6292041" includeTime="2023-08-22T08:20:02" entryType="1" hash="07717DA19AD0CB304E9E5807BA7F906F" ts="2023-10-12T12:45:04">
  <decision date="2023-08-18" number="2204321-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://vi.hentai-img.com/image/secondary-erotic-might-find-bargains-why-collect-various-erotic-images-part905/attachment/4/]]></url>
  <domain><![CDATA[vi.hentai-img.com]]></domain>
@@ -1595,10 +1595,14 @@
  <ip>172.64.167.6</ip>
  <ip>172.64.194.36</ip>
  <ip>172.64.195.36</ip>
+ <ip>172.64.200.16</ip>
+ <ip>172.64.201.16</ip>
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a606</ipv6>
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:a706</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c810</ipv6>
+ <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c910</ipv6>
 </content>
 <content id="6292044" includeTime="2023-08-19T00:25:01" entryType="1" hash="B3165B4F241FFBD34020CEB5A0E84CA9" blockType="domain-mask" ts="2023-08-19T00:25:01">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2075,11 +2079,15 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:bc9a</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:13c8</ipv6>
 </content>
-<content id="6292184" includeTime="2023-08-21T13:30:03" entryType="1" hash="48250214114A7278B4674F6F085CEC33" blockType="domain" ts="2023-08-21T13:30:03">
+<content id="6292184" includeTime="2023-08-21T13:30:03" entryType="1" hash="C62763D5B45E2F7842D8B60983BB0C9A" blockType="domain" ts="2023-10-12T12:45:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[mamamj.ru]]></domain>
+ <ip>104.21.47.117</ip>
+ <ip>172.67.147.126</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:2f75</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:937e</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
