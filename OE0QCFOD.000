@@ -4200,9 +4200,9 @@
  <ip>74.208.236.28</ip>
  <ipv6>2607:f1c0:100f:f000:0000:0000:0000:020d</ipv6>
 </content>
-<content id="3500742" includeTime="2021-08-05T13:49:10" entryType="1" hash="51CEB685D0707444456C16E3E020A1C9" blockType="domain" ts="2021-08-05T13:49:10">
+<content id="3500742" includeTime="2021-08-05T13:49:10" entryType="1" hash="0BF0DC60888EE9C3250C00D67B3D870F" blockType="domain-mask" ts="2023-10-12T20:55:02">
  <decision date="2021-08-02" number="2021-07-30-2297-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[gofarma.ltd]]></domain>
+ <domain><![CDATA[*.gofarma.ltd]]></domain>
  <ip>104.21.12.232</ip>
  <ip>172.67.153.185</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:99b9</ipv6>
