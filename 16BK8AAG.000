@@ -2803,11 +2803,15 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:58e1</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:99b2</ipv6>
 </content>
-<content id="5845826" includeTime="2023-05-02T15:52:58" entryType="1" hash="3933C9C7691BB833185CC95A3DD25771" blockType="domain" ts="2023-05-02T15:52:58">
+<content id="5845826" includeTime="2023-05-02T15:52:58" entryType="1" hash="C0504F45EC51E64B672897DF7E02AB82" blockType="domain" ts="2023-10-17T18:05:03">
  <decision date="2023-04-28" number="2023-04-27-1652-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[cheljabinsk.vip-farma.net]]></domain>
+ <ip>104.21.61.57</ip>
+ <ip>172.67.206.183</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:ceb7</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:3d39</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -2896,11 +2900,6 @@
  <ip>172.67.218.6</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:da06</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2614</ipv6>
-</content>
-<content id="5845871" includeTime="2023-05-01T08:38:02" entryType="1" hash="A362BD68ACA5AFAEA49655025EFB20EE" blockType="domain-mask" ts="2023-05-01T08:38:02">
- <decision date="2023-04-25" number="2-6-14/2023-04-05-2344-АИ" org="ФНС"/>
- <domain><![CDATA[*.clubz-clubnikas.xyz]]></domain>
- <ip>46.101.189.22</ip>
 </content>
 <content id="5845875" includeTime="2023-05-01T08:37:57" entryType="1" hash="36157DFA2B6D110642111B994E712B7F" blockType="domain-mask" ts="2023-05-01T08:37:57">
  <decision date="2023-04-25" number="2-6-14/2023-04-13-800-АИ" org="ФНС"/>
@@ -9855,14 +9854,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5852543" includeTime="2023-05-03T06:51:52" entryType="1" hash="F64DC7BCBF5107BF031453FB9E2FC258" blockType="domain-mask" ts="2023-05-03T06:51:52">
- <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.1win-yyy-official8.xyz]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="5852544" includeTime="2023-05-03T06:51:56" entryType="1" hash="F8E070FB77D080FE5B5B674978777B98" blockType="domain-mask" ts="2023-05-03T06:51:56">
  <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1win-autobet6.top]]></domain>
@@ -10441,14 +10432,6 @@
  <ip>172.67.145.105</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:9169</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:4178</ipv6>
-</content>
-<content id="5852724" includeTime="2023-05-03T06:51:51" entryType="1" hash="8FBBEC5821C45C2502D97CA0DF4E3C12" blockType="domain-mask" ts="2023-05-03T06:51:51">
- <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.1win-autobet15.xyz]]></domain>
- <ip>104.21.54.225</ip>
- <ip>172.67.142.177</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:36e1</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:8eb1</ipv6>
 </content>
 <content id="5852726" includeTime="2023-05-03T06:51:54" entryType="1" hash="85B2155BA83DD32119E0864B3939A498" blockType="domain-mask" ts="2023-05-03T06:51:54">
  <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
