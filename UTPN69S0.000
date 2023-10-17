@@ -781,11 +781,6 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:326f</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a1a1</ipv6>
 </content>
-<content id="6407767" includeTime="2023-10-10T13:45:02" entryType="1" hash="BA983EC2E7D4394548CCED50621E685B" blockType="domain" ts="2023-10-10T13:45:02">
- <decision date="2023-10-05" number="2023-10-05-832-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[samara3.alcomen300.ru]]></domain>
- <ip>62.84.100.213</ip>
-</content>
 <content id="6407773" includeTime="2023-10-09T15:35:03" entryType="1" hash="71529CD34B2359626EC6AB0F7F25C2CD" ts="2023-10-09T15:35:03">
  <decision date="2023-10-06" number="2023-10-06-70-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://chelyabinsk15.hostmed.ru/sialis-kupit]]></url>
@@ -1193,6 +1188,11 @@
  <url><![CDATA[https://chelyabinsk15.hostmed.ru/antidepressanty]]></url>
  <domain><![CDATA[chelyabinsk15.hostmed.ru]]></domain>
  <ip>185.74.255.186</ip>
+</content>
+<content id="6407907" includeTime="2023-10-17T13:40:04" entryType="1" hash="94C79365CDAB88F5BCCE3802326984C7" blockType="domain" ts="2023-10-17T13:40:04">
+ <decision date="2023-10-06" number="2255847-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[www.dolcemodz.fun]]></domain>
+ <ip>89.116.48.230</ip>
 </content>
 <content id="6407908" includeTime="2023-10-06T22:40:04" entryType="1" hash="672C962CD34708E30CE4569195B84370" blockType="domain-mask" ts="2023-10-06T22:40:04">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
