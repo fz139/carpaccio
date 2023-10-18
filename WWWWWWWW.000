@@ -5181,6 +5181,19 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4cb3</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c665</ipv6>
 </content>
+<content id="6433227" includeTime="2023-10-18T23:55:03" entryType="1" hash="1D7353791C2785BD3D984AC0C9AEFCF1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-1372-АИ" org="ФНС"/>
+ <domain><![CDATA[*.rioplay.club]]></domain>
+ <ip>104.21.0.192</ip>
+ <ip>172.67.128.56</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:00c0</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:8038</ipv6>
+</content>
+<content id="6433243" includeTime="2023-10-18T23:55:03" entryType="1" hash="D5634172E8378B5595B5DB49C9A7A681" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-4046-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casino-x-717.fun]]></domain>
+ <ip>45.147.197.165</ip>
+</content>
 <content id="6433245" includeTime="2023-10-18T13:50:04" entryType="1" hash="3AE228F44075743DD97F7D9625D7C4EC" blockType="domain-mask" ts="2023-10-18T13:50:04">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.drift-interup.top]]></domain>
@@ -5198,6 +5211,52 @@
  <domain><![CDATA[*.flux-interup.top]]></domain>
  <ip>139.59.128.83</ip>
  <ipv6>2a03:b0c0:0003:00d0:0000:0000:0d63:9001</ipv6>
+</content>
+<content id="6433248" includeTime="2023-10-18T23:55:03" entryType="1" hash="E58601EED6F69EE461C3FA5CEAAF65D0" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-13" number="2-6-14/2023-08-15-3803-АИ" org="ФНС"/>
+ <domain><![CDATA[*.vulkanplatinum.guru]]></domain>
+ <ip>104.21.54.158</ip>
+ <ip>172.67.140.87</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:8c57</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:369e</ipv6>
+</content>
+<content id="6433249" includeTime="2023-10-18T23:55:03" entryType="1" hash="0920DF0BE8FEF6C4349702D9C7B82DFB" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-13" number="2-6-14/2023-10-12-3255-АИ" org="ФНС"/>
+ <domain><![CDATA[*.zerkalovavada.org]]></domain>
+ <ip>104.21.16.109</ip>
+ <ip>172.67.167.77</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:106d</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:a74d</ipv6>
+</content>
+<content id="6433252" includeTime="2023-10-18T23:55:03" entryType="1" hash="F9B65D75665CFC2D08B7D21A9ACDD8A5" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-09-926-АИ" org="ФНС"/>
+ <domain><![CDATA[*.catcasino.makeup]]></domain>
+ <ip>104.21.96.106</ip>
+ <ip>172.67.176.220</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:b0dc</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:606a</ipv6>
+</content>
+<content id="6433264" includeTime="2023-10-18T23:55:03" entryType="1" hash="320799C9A5253454922B1DB4BEAC096B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-09-800-АИ" org="ФНС"/>
+ <domain><![CDATA[*.eldoradoo24.click]]></domain>
+ <ip>203.29.52.75</ip>
+ <ipv6>2a06:9ac0:02d2:affb:b191:09c0:daed:adcd</ipv6>
+</content>
+<content id="6433272" includeTime="2023-10-18T23:55:03" entryType="1" hash="9FE193657B6F7580818F2357869C0E93" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-3998-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casinox-vml.top]]></domain>
+ <ip>104.21.85.240</ip>
+ <ip>172.67.212.137</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:55f0</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:d489</ipv6>
+</content>
+<content id="6433274" includeTime="2023-10-18T23:55:03" entryType="1" hash="B5BDEC59CF48D60B00527351FF7DA96D" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-14-2170-АИ" org="ФНС"/>
+ <domain><![CDATA[*.gamacasinoofficial21.win]]></domain>
+ <ip>104.21.5.235</ip>
+ <ip>172.67.154.192</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9ac0</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:05eb</ipv6>
 </content>
 <content id="6433280" includeTime="2023-10-18T13:50:04" entryType="1" hash="1764C314BE04992143F5620685C005AD" blockType="domain-mask" ts="2023-10-18T13:50:04">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -5217,6 +5276,34 @@
  <ip>139.59.128.83</ip>
  <ipv6>2a03:b0c0:0003:00d0:0000:0000:0d63:9001</ipv6>
 </content>
+<content id="6433284" includeTime="2023-10-18T23:55:03" entryType="1" hash="FB06EF975EA04883E67B79C8BCB0300D" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-13" number="2-6-14/2023-08-16-2364-АИ" org="ФНС"/>
+ <domain><![CDATA[*.admiral-x1-ru.top]]></domain>
+ <ip>104.21.53.194</ip>
+ <ip>172.67.217.247</ip>
+</content>
+<content id="6433285" includeTime="2023-10-18T23:55:03" entryType="1" hash="FCBAFBB804EE7D3DEBE9ADAA32E07204" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-13" number="2-6-14/2023-10-12-4190-АИ" org="ФНС"/>
+ <domain><![CDATA[*.maxbetslotsbonus.com]]></domain>
+ <ip>203.55.107.80</ip>
+ <ipv6>2a07:0180:0261:a57a:7d00:910a:cc03:da09</ipv6>
+</content>
+<content id="6433286" includeTime="2023-10-18T23:55:03" entryType="1" hash="CBBB944070B885A3D406FA6CB9083321" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-09-836-АИ" org="ФНС"/>
+ <domain><![CDATA[*.peugeot-tula.ru]]></domain>
+ <ip>104.21.39.229</ip>
+ <ip>172.67.149.174</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:95ae</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:27e5</ipv6>
+</content>
+<content id="6433309" includeTime="2023-10-18T23:55:03" entryType="1" hash="887E41ABA282EBD8783DF6E275C34071" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-4028-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casinox-izk.top]]></domain>
+ <ip>104.21.25.96</ip>
+ <ip>172.67.133.249</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1960</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:85f9</ipv6>
+</content>
 <content id="6433312" includeTime="2023-10-18T13:50:04" entryType="1" hash="D93C470BF3E1575E293681BBB1B473D1" blockType="domain-mask" ts="2023-10-18T13:50:04">
  <decision date="2023-10-17" number="2-6-14/2023-09-19-3535-АИ" org="ФНС"/>
  <domain><![CDATA[*.gamacasino.icu]]></domain>
@@ -5224,6 +5311,11 @@
  <ip>172.67.141.242</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:8df2</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:392f</ipv6>
+</content>
+<content id="6433313" includeTime="2023-10-18T23:55:03" entryType="1" hash="9364BB3CA2C246F454CBBADDA3892F88" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-4083-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casino-x-gop.fun]]></domain>
+ <ip>45.147.197.165</ip>
 </content>
 <content id="6433317" includeTime="2023-10-18T13:50:04" entryType="1" hash="F5361BDCCD4DA40B908A69CB7CBF5B37" blockType="domain-mask" ts="2023-10-18T13:50:04">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -5243,6 +5335,52 @@
  <ip>159.65.118.224</ip>
  <ipv6>2a03:b0c0:0003:00d0:0000:0000:157d:1001</ipv6>
 </content>
+<content id="6433320" includeTime="2023-10-18T23:55:03" entryType="1" hash="D4DDA21F56F8EBA99C1C870D7AF7A752" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-13" number="2-6-14/2023-08-17-1493-АИ" org="ФНС"/>
+ <domain><![CDATA[*.stardacasino-online86.ru]]></domain>
+ <ip>104.21.55.214</ip>
+ <ip>172.67.173.109</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:37d6</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:ad6d</ipv6>
+</content>
+<content id="6433325" includeTime="2023-10-18T23:55:03" entryType="1" hash="2B41116D0CF1805225EDE71909959981" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-09-864-АИ" org="ФНС"/>
+ <domain><![CDATA[*.xn--74-6kcl0axhhq8m.xn--p1ai]]></domain>
+ <ip>104.21.36.24</ip>
+ <ip>172.67.184.51</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2418</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:b833</ipv6>
+</content>
+<content id="6433327" includeTime="2023-10-18T23:55:03" entryType="1" hash="129F03F03FB94B3AD110A92B203C6365" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-1364-АИ" org="ФНС"/>
+ <domain><![CDATA[*.riobetcasino-oet.top]]></domain>
+ <ip>104.21.34.222</ip>
+ <ip>172.67.165.235</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:22de</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:a5eb</ipv6>
+</content>
+<content id="6433337" includeTime="2023-10-18T23:55:03" entryType="1" hash="E34E893A5706A012C084D2E8D98E8484" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-3754-АИ" org="ФНС"/>
+ <domain><![CDATA[*.riobetcasino-dch.top]]></domain>
+ <ip>104.21.88.148</ip>
+ <ip>172.67.185.92</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:b95c</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:5894</ipv6>
+</content>
+<content id="6433348" includeTime="2023-10-18T23:55:03" entryType="1" hash="9C9E16AB84FCA131A895FE38DE87FEB3" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-04-1549-АИ" org="ФНС"/>
+ <domain><![CDATA[*.legzocaziino.ru]]></domain>
+ <ip>104.21.61.91</ip>
+ <ip>172.67.208.146</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3d5b</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:d092</ipv6>
+</content>
+<content id="6433350" includeTime="2023-10-18T23:55:03" entryType="1" hash="C18D739CBE5B862B45A9033F4DE48A00" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-15-2301-АИ" org="ФНС"/>
+ <domain><![CDATA[*.dripcasino-art.com]]></domain>
+ <ip>104.21.23.101</ip>
+ <ip>172.67.210.119</ip>
+</content>
 <content id="6433351" includeTime="2023-10-18T13:50:04" entryType="1" hash="5505AE0E7D4E74192B28CBBEE72F2BEB" blockType="domain-mask" ts="2023-10-18T13:50:04">
  <decision date="2023-10-17" number="2-6-14/2023-09-19-3541-АИ" org="ФНС"/>
  <domain><![CDATA[*.brillxcasino-game.buzz]]></domain>
@@ -5250,6 +5388,11 @@
  <ip>172.67.143.122</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8f7a</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:5f42</ipv6>
+</content>
+<content id="6433353" includeTime="2023-10-18T23:55:03" entryType="1" hash="8D3EF800B954B7BC15E503C66BC73501" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-04-1042-АИ" org="ФНС"/>
+ <domain><![CDATA[*.best-joycasino7893.ru]]></domain>
+ <ip>185.196.8.72</ip>
 </content>
 <content id="6433354" includeTime="2023-10-18T13:50:04" entryType="1" hash="1400957141E36B634B6EC91FE27485E9" blockType="domain-mask" ts="2023-10-18T13:50:04">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -5269,6 +5412,57 @@
  <ip>159.65.118.224</ip>
  <ipv6>2a03:b0c0:0003:00d0:0000:0000:157d:1001</ipv6>
 </content>
+<content id="6433357" includeTime="2023-10-18T23:55:03" entryType="1" hash="31EEAC83678427F178C0964E86C94DB7" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-13" number="2-6-14/2023-08-18-3085-АИ" org="ФНС"/>
+ <domain><![CDATA[*.goldisvulkani.com]]></domain>
+ <ip>134.209.246.234</ip>
+ <ipv6>2a03:b0c0:0003:00d0:0000:0000:0eeb:a001</ipv6>
+</content>
+<content id="6433359" includeTime="2023-10-18T23:55:03" entryType="1" hash="BC13AB43BF0420366D35E8534F2E1672" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-09-838-АИ" org="ФНС"/>
+ <domain><![CDATA[melp.dp.ua]]></domain>
+ <ip>104.21.48.32</ip>
+ <ip>172.67.176.109</ip>
+</content>
+<content id="6433371" includeTime="2023-10-18T23:55:03" entryType="1" hash="929B84127DFC543E8673DF8B7A5292CB" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-3768-АИ" org="ФНС"/>
+ <domain><![CDATA[*.1winkazino.top]]></domain>
+ <ip>104.21.6.186</ip>
+ <ip>172.67.187.126</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:bb7e</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:06ba</ipv6>
+</content>
+<content id="6433374" includeTime="2023-10-18T23:55:03" entryType="1" hash="1D3955FC2B33741B256044FDC7D53D59" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-2057-АИ" org="ФНС"/>
+ <domain><![CDATA[*.v24-official.com]]></domain>
+ <ip>203.23.104.189</ip>
+ <ipv6>2a05:7880:0287:4a32:04e2:bc26:32bc:43e2</ipv6>
+</content>
+<content id="6433383" includeTime="2023-10-18T23:55:03" entryType="1" hash="66BA1B7E154CAE879438FCFB7B62113A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-4039-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casino-x-and.buzz]]></domain>
+ <ip>104.21.91.238</ip>
+ <ip>172.67.181.236</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b5ec</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:5bee</ipv6>
+</content>
+<content id="6433384" includeTime="2023-10-18T23:55:03" entryType="1" hash="38C97C1800BC415A6843A8079227A1B2" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-14-2012-АИ" org="ФНС"/>
+ <domain><![CDATA[*.gama-casino-kmv.buzz]]></domain>
+ <ip>104.21.39.85</ip>
+ <ip>172.67.170.22</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:2755</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:aa16</ipv6>
+</content>
+<content id="6433386" includeTime="2023-10-18T23:55:03" entryType="1" hash="F34578071C02E5E70311FCF590A49876" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-19-3306-АИ" org="ФНС"/>
+ <url><![CDATA[https://izzicasino-play71.ru/support-izzicasino.html]]></url>
+ <domain><![CDATA[izzicasino-play71.ru]]></domain>
+ <ip>104.21.91.203</ip>
+ <ip>172.67.179.86</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:b356</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:5bcb</ipv6>
+</content>
 <content id="6433388" includeTime="2023-10-18T13:50:04" entryType="1" hash="131EDB29A53E6A57165190BB63AE73F9" blockType="domain-mask" ts="2023-10-18T13:50:04">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.flow-interups.top]]></domain>
@@ -5287,6 +5481,14 @@
  <ip>139.59.128.83</ip>
  <ipv6>2a03:b0c0:0003:00d0:0000:0000:0d63:9001</ipv6>
 </content>
+<content id="6433392" includeTime="2023-10-18T23:55:03" entryType="1" hash="C30E0415DD742AF49C7E917A2D788383" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-13" number="2-6-14/2023-08-19-1225-АИ" org="ФНС"/>
+ <domain><![CDATA[*.pinup-skacat.com]]></domain>
+ <ip>104.21.38.217</ip>
+ <ip>172.67.139.82</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:8b52</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:26d9</ipv6>
+</content>
 <content id="6433421" includeTime="2023-10-18T13:50:04" entryType="1" hash="1A303E3C1505695A9DC588D46F49E189" blockType="domain-mask" ts="2023-10-18T13:50:04">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.informs-circulation.top]]></domain>
@@ -5299,6 +5501,86 @@
  <ip>104.248.29.254</ip>
  <ipv6>2a03:b0c0:0003:00d0:0000:0000:157c:a001</ipv6>
 </content>
+<content id="6433423" includeTime="2023-10-18T23:55:03" entryType="1" hash="B8F48903A74376CE7BAE2EBA65BFCE86" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-13" number="2-6-14/2023-08-12-1684-АИ" org="ФНС"/>
+ <domain><![CDATA[*.jetcassiono-russia1.top]]></domain>
+ <ip>104.21.18.123</ip>
+ <ip>172.67.181.211</ip>
+</content>
+<content id="6433424" includeTime="2023-10-18T23:55:03" entryType="1" hash="2B7C7CC251CF76822C708AE35FD48FBC" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-13" number="2-6-14/2023-09-06-3458-АИ" org="ФНС"/>
+ <domain><![CDATA[*.stars-vulkan.cam]]></domain>
+ <ip>203.24.109.188</ip>
+ <ipv6>2a07:0180:0268:d9e6:1e6e:786a:3ea6:aa07</ipv6>
+</content>
+<content id="6433425" includeTime="2023-10-18T23:55:03" entryType="1" hash="1FCA366198826C220C1963BD3960CBEA" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-07-15-1889-АИ" org="ФНС"/>
+ <domain><![CDATA[www.wmt-kazan.ru]]></domain>
+ <ip>104.21.41.216</ip>
+ <ip>172.67.152.8</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:29d8</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:9808</ipv6>
+</content>
+<content id="6433427" includeTime="2023-10-18T23:55:03" entryType="1" hash="00A2CC78E0F013B27D5CFAA7D40BFD28" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-09-858-АИ" org="ФНС"/>
+ <domain><![CDATA[*.oracantat.net]]></domain>
+ <ip>104.21.55.93</ip>
+ <ip>172.67.147.48</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:9330</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:375d</ipv6>
+</content>
+<content id="6433429" includeTime="2023-10-18T23:55:03" entryType="1" hash="601036A0A2CF2A372FFCDE2A70B48092" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-09-865-АИ" org="ФНС"/>
+ <domain><![CDATA[*.vseretsepty.ru]]></domain>
+ <ip>104.21.5.121</ip>
+ <ip>172.67.133.100</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:0579</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:8564</ipv6>
+</content>
+<content id="6433431" includeTime="2023-10-18T23:55:03" entryType="1" hash="FB481074E906208127B90115ADB475D5" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-1365-АИ" org="ФНС"/>
+ <domain><![CDATA[*.riobetcasino-pyb.top]]></domain>
+ <ip>104.21.44.57</ip>
+ <ip>172.67.195.220</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:2c39</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:c3dc</ipv6>
+</content>
+<content id="6433443" includeTime="2023-10-18T23:55:03" entryType="1" hash="815EE14ABB85205E1EB551233AFF1670" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-09-839-АИ" org="ФНС"/>
+ <domain><![CDATA[*.osvitasport.org]]></domain>
+ <ip>31.28.191.34</ip>
+</content>
+<content id="6433445" includeTime="2023-10-18T23:55:03" entryType="1" hash="895DC4BAD8A3DA08E22C2F06906AA1F6" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-3799-АИ" org="ФНС"/>
+ <domain><![CDATA[*.1win1031-space.ru]]></domain>
+ <ip>185.196.8.72</ip>
+</content>
+<content id="6433452" includeTime="2023-10-18T23:55:03" entryType="1" hash="75A8BEFE9FCE4CF70789A5AD3D079A1C" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-4042-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casinox-oue.top]]></domain>
+ <ip>104.21.48.200</ip>
+ <ip>172.67.187.235</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:30c8</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:bbeb</ipv6>
+</content>
+<content id="6433454" includeTime="2023-10-18T23:55:03" entryType="1" hash="228862C9D7278FD9B3EECEB0CFD791E8" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-19-3417-АИ" org="ФНС"/>
+ <domain><![CDATA[*.izzi-latvij.space]]></domain>
+ <ip>104.21.61.134</ip>
+ <ip>172.67.210.163</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3d86</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:d2a3</ipv6>
+</content>
+<content id="6433456" includeTime="2023-10-18T23:55:03" entryType="1" hash="25CC4BF90A87E449355DE35CE3A12382" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-3990-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casino-xxx8.ru]]></domain>
+ <ip>185.196.8.72</ip>
+</content>
+<content id="6433457" includeTime="2023-10-18T23:55:03" entryType="1" hash="F957857A2735C27C205ACC8CCB08645C" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-14-2275-АИ" org="ФНС"/>
+ <domain><![CDATA[bcg-avtomaty.pp.ru]]></domain>
+ <ip>45.82.68.15</ip>
+</content>
 <content id="6433459" includeTime="2023-10-18T13:50:04" entryType="1" hash="8A8CD5C0EF5CA24180E9DA8567E0A9DC" blockType="domain-mask" ts="2023-10-18T13:50:04">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.flow-inter.top]]></domain>
@@ -5310,6 +5592,33 @@
  <domain><![CDATA[*.flow-interup.top]]></domain>
  <ip>139.59.128.83</ip>
  <ipv6>2a03:b0c0:0003:00d0:0000:0000:0d63:9001</ipv6>
+</content>
+<content id="6433461" includeTime="2023-10-18T23:55:03" entryType="1" hash="46EFC9FB579D6A0782A308A432750F04" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-13" number="2-6-14/2023-08-12-1688-АИ" org="ФНС"/>
+ <domain><![CDATA[*.betwinnerspace.ru]]></domain>
+ <ip>185.196.8.72</ip>
+</content>
+<content id="6433462" includeTime="2023-10-18T23:55:03" entryType="1" hash="E488EDE5A79B13D3731FB29626EA1677" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-13" number="2-6-14/2023-10-12-514-АИ" org="ФНС"/>
+ <domain><![CDATA[*.kingvulkan.online]]></domain>
+ <ip>203.29.54.67</ip>
+ <ipv6>2a07:0180:079a:6a09:73bb:d95b:0a6f:01c1</ipv6>
+</content>
+<content id="6433477" includeTime="2023-10-18T23:55:03" entryType="1" hash="ECD355AD30A60CC75833162CB9B8174D" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-17-3778-АИ" org="ФНС"/>
+ <domain><![CDATA[*.1win-book.ru]]></domain>
+ <ip>104.21.24.147</ip>
+ <ip>172.67.219.65</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:db41</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:1893</ipv6>
+</content>
+<content id="6433490" includeTime="2023-10-18T23:55:03" entryType="1" hash="BFB63C5B305D9089DBAAA3DDD66C882F" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-14-2169-АИ" org="ФНС"/>
+ <domain><![CDATA[*.looi.co]]></domain>
+ <ip>104.21.14.113</ip>
+ <ip>172.67.202.232</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:cae8</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:0e71</ipv6>
 </content>
 <content id="6433492" includeTime="2023-10-18T13:50:04" entryType="1" hash="3496BE2D8BBC0662451315F38DD2B23E" blockType="domain-mask" ts="2023-10-18T13:50:04">
  <decision date="2023-10-17" number="2-6-14/2023-09-19-3498-АИ" org="ФНС"/>
@@ -5335,6 +5644,36 @@
  <domain><![CDATA[*.informs-drift.top]]></domain>
  <ip>139.59.128.83</ip>
  <ipv6>2a03:b0c0:0003:00d0:0000:0000:0d63:9001</ipv6>
+</content>
+<content id="6433498" includeTime="2023-10-18T23:55:03" entryType="1" hash="422F39314F13EE8C42D2B0FDCB1C9165" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-13" number="2-6-14/2023-08-15-2738-АИ" org="ФНС"/>
+ <domain><![CDATA[*.1xbet-site.life]]></domain>
+ <ip>104.21.27.248</ip>
+ <ip>172.67.143.206</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:8fce</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:1bf8</ipv6>
+</content>
+<content id="6433499" includeTime="2023-10-18T23:55:03" entryType="1" hash="E9C8393D804E2D41C76771507D059347" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-13" number="2-6-14/2023-10-12-971-АИ" org="ФНС"/>
+ <domain><![CDATA[*.gmslotsdeluxeclub.com]]></domain>
+ <ip>203.32.121.118</ip>
+ <ipv6>2a07:0180:026c:4cc3:458e:5cb0:f130:7811</ipv6>
+</content>
+<content id="6433500" includeTime="2023-10-18T23:55:03" entryType="1" hash="293011186196C714CF1A154F377836E7" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-09-815-АИ" org="ФНС"/>
+ <domain><![CDATA[*.alstuning.ru]]></domain>
+ <ip>104.21.72.54</ip>
+ <ip>172.67.175.167</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:4836</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:afa7</ipv6>
+</content>
+<content id="6433502" includeTime="2023-10-18T23:55:03" entryType="1" hash="65D4811C76117AB4BD317C16F1892EAA" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-08-09-863-АИ" org="ФНС"/>
+ <domain><![CDATA[*.vavadamb33.com]]></domain>
+ <ip>104.21.21.32</ip>
+ <ip>172.67.196.87</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:c457</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:1520</ipv6>
 </content>
 <content id="6433513" includeTime="2023-10-18T13:50:04" entryType="1" hash="74AB1D385C2D8A99692A5071A6BB5EFE" blockType="domain" ts="2023-10-18T13:50:04">
  <decision date="2023-10-18" number="2268578-URL-on" org="Роскомнадзор"/>
@@ -5563,6 +5902,686 @@
  <ipv6>2600:9000:223c:ca00:0013:0e19:f240:0021</ipv6>
  <ipv6>2600:9000:223c:f600:0013:0e19:f240:0021</ipv6>
  <ipv6>2600:9000:223c:fc00:0013:0e19:f240:0021</ipv6>
+</content>
+<content id="6433553" includeTime="2023-10-18T23:55:03" entryType="1" hash="2A258B4692C2BD098A4F39A66EEB506F" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2569-АИ" org="ФНС"/>
+ <url><![CDATA[https://cryptoenthusiast.net/bitstarz-casino/]]></url>
+ <domain><![CDATA[cryptoenthusiast.net]]></domain>
+ <ip>72.167.125.133</ip>
+</content>
+<content id="6433554" includeTime="2023-10-18T23:55:03" entryType="1" hash="7B2206ED7232CA6DAA1F57E4D7279F8C" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-699-АИ" org="ФНС"/>
+ <domain><![CDATA[*.daddy-casino.guru]]></domain>
+ <ip>104.21.55.5</ip>
+ <ip>172.67.170.5</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:3705</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:aa05</ipv6>
+</content>
+<content id="6433555" includeTime="2023-10-18T23:55:03" entryType="1" hash="E1079DBDD0EEB992B1AC069108711190" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-705-АИ" org="ФНС"/>
+ <domain><![CDATA[*.gama-casino-icz.buzz]]></domain>
+ <ip>104.21.76.69</ip>
+ <ip>172.67.190.242</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:4c45</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:bef2</ipv6>
+</content>
+<content id="6433557" includeTime="2023-10-18T23:55:03" entryType="1" hash="04E06718B511FD37EA2ACB945FCE53C5" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2653-АИ" org="ФНС"/>
+ <domain><![CDATA[*.sykaaa-casino-bonus.ru]]></domain>
+ <ip>5.45.87.111</ip>
+</content>
+<content id="6433559" includeTime="2023-10-18T23:55:03" entryType="1" hash="2F5818B09A0C07A06B6C39159E093E09" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-706-АИ" org="ФНС"/>
+ <domain><![CDATA[*.gamacasino-ofrw.buzz]]></domain>
+ <ip>104.21.65.182</ip>
+ <ip>172.67.165.76</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:a54c</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:41b6</ipv6>
+</content>
+<content id="6433562" includeTime="2023-10-18T23:55:03" entryType="1" hash="255A567F707881852584FCA807EE7CB0" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-29-2965-АИ" org="ФНС"/>
+ <domain><![CDATA[xcazino.org.ru]]></domain>
+ <ip>104.21.63.230</ip>
+ <ip>172.67.172.149</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:ac95</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:3fe6</ipv6>
+</content>
+<content id="6433563" includeTime="2023-10-18T23:55:03" entryType="1" hash="F6B01A58825EA750D5EF678A287C1B05" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-16-3515-АИ" org="ФНС"/>
+ <domain><![CDATA[*.volna-casino311.com]]></domain>
+ <ip>104.21.55.100</ip>
+ <ip>172.67.147.116</ip>
+</content>
+<content id="6433570" includeTime="2023-10-18T23:55:03" entryType="1" hash="51EE440536DA186EDDCAF32CC8C6508F" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-19-3573-АИ" org="ФНС"/>
+ <domain><![CDATA[jj3-antiblock.s3-website-us-west-2.amazonaws.com]]></domain>
+ <ip>52.218.177.234</ip>
+ <ip>52.218.218.218</ip>
+ <ip>52.218.230.42</ip>
+ <ip>52.218.238.10</ip>
+ <ip>52.218.242.250</ip>
+ <ip>52.218.250.218</ip>
+ <ip>52.92.228.251</ip>
+ <ip>52.92.242.235</ip>
+</content>
+<content id="6433572" includeTime="2023-10-18T23:55:03" entryType="1" hash="090F0D45F875C4D3DB606A61F28A4649" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-20-548-АИ" org="ФНС"/>
+ <url><![CDATA[https://igrovieavtomaty-top.xyz/gonzos-quest/]]></url>
+ <domain><![CDATA[igrovieavtomaty-top.xyz]]></domain>
+ <ip>104.21.80.2</ip>
+ <ip>172.67.172.83</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:5002</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:ac53</ipv6>
+</content>
+<content id="6433573" includeTime="2023-10-18T23:55:03" entryType="1" hash="BBF20A92D1306323921B6F636B54B52F" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2358-АИ" org="ФНС"/>
+ <domain><![CDATA[*.playfortuna-zerkalo2.buzz]]></domain>
+ <ip>104.21.65.186</ip>
+ <ip>172.67.191.123</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:bf7b</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:41ba</ipv6>
+</content>
+<content id="6433577" includeTime="2023-10-18T23:55:03" entryType="1" hash="5A6233CD823AAB0AC03D2E92084B8391" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2542-АИ" org="ФНС"/>
+ <url><![CDATA[https://bezdepcasino13.ru/spinamba/]]></url>
+ <domain><![CDATA[bezdepcasino13.ru]]></domain>
+ <ip>185.66.69.19</ip>
+</content>
+<content id="6433593" includeTime="2023-10-18T23:55:03" entryType="1" hash="D69ED9FC29BF55FED7A47AFFFCAD3888" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-707-АИ" org="ФНС"/>
+ <url><![CDATA[https://boncasin.ru/casino/daddy-casino/]]></url>
+ <domain><![CDATA[boncasin.ru]]></domain>
+ <ip>104.21.72.185</ip>
+ <ip>172.67.153.219</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:99db</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:48b9</ipv6>
+</content>
+<content id="6433595" includeTime="2023-10-18T23:55:03" entryType="1" hash="43470EF755191811EA16D4283199AA4C" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-25-1340-АИ" org="ФНС"/>
+ <domain><![CDATA[*.vulkan77casino77.xyz]]></domain>
+ <ip>104.21.75.120</ip>
+ <ip>172.67.175.148</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:af94</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:4b78</ipv6>
+</content>
+<content id="6433597" includeTime="2023-10-18T23:55:03" entryType="1" hash="DB5B905B3DE7448349E045456674AB5A" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-29-2966-АИ" org="ФНС"/>
+ <domain><![CDATA[kasinox-app.pw]]></domain>
+ <ip>104.21.42.247</ip>
+ <ip>172.67.213.222</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:2af7</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:d5de</ipv6>
+</content>
+<content id="6433598" includeTime="2023-10-18T23:55:03" entryType="1" hash="BAEC501F03629AC1EB815B5336F728CB" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-17-991-АИ" org="ФНС"/>
+ <domain><![CDATA[*.jekpot.space]]></domain>
+ <ip>104.21.10.104</ip>
+ <ip>172.67.131.80</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:0a68</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:8350</ipv6>
+</content>
+<content id="6433599" includeTime="2023-10-18T23:55:03" entryType="1" hash="B5784FE96F5977FFCAD76C6413213213" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-16-3583-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casino-x-caz2.fun]]></domain>
+ <ip>45.147.197.165</ip>
+</content>
+<content id="6433600" includeTime="2023-10-18T23:55:03" entryType="1" hash="02682B39BE84F99C64822C2CAB0F3120" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-16-4153-АИ" org="ФНС"/>
+ <domain><![CDATA[*.melbetcasino.info]]></domain>
+ <ip>203.24.102.197</ip>
+ <ipv6>2a05:7880:0424:5b28:cc9f:febb:74f0:7e57</ipv6>
+</content>
+<content id="6433605" includeTime="2023-10-18T23:55:03" entryType="1" hash="3C3EDAAD91F7D408E6E925CADCBBEBD5" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-19-3575-АИ" org="ФНС"/>
+ <domain><![CDATA[*.joy-casino-25.ru]]></domain>
+ <ip>104.21.13.213</ip>
+ <ip>172.67.133.32</ip>
+</content>
+<content id="6433606" includeTime="2023-10-18T23:55:03" entryType="1" hash="94AFE9001F2503FE3B1C028FC55A4581" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-19-3600-АИ" org="ФНС"/>
+ <url><![CDATA[https://bonuss-dep.me/banners/sykaaacasino/]]></url>
+ <domain><![CDATA[bonuss-dep.me]]></domain>
+ <ip>178.159.42.225</ip>
+</content>
+<content id="6433607" includeTime="2023-10-18T23:55:03" entryType="1" hash="4B7AF94DAFCDD9B88D52B89DE758F8F1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2290-АИ" org="ФНС"/>
+ <domain><![CDATA[*.bfblago.ru]]></domain>
+ <ip>104.21.93.16</ip>
+ <ip>172.67.202.179</ip>
+</content>
+<content id="6433608" includeTime="2023-10-18T23:55:03" entryType="1" hash="30EF195C9EB3E06A7284F798F20CAFD5" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2360-АИ" org="ФНС"/>
+ <domain><![CDATA[*.jozz-casino-gjg.buzz]]></domain>
+ <ip>104.21.44.112</ip>
+ <ip>172.67.199.11</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:c70b</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:2c70</ipv6>
+</content>
+<content id="6433610" includeTime="2023-10-18T23:55:03" entryType="1" hash="8AF8E70B95E53358B88C0BD693144C63" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2508-АИ" org="ФНС"/>
+ <domain><![CDATA[*.joycasino-dsl.top]]></domain>
+ <ip>104.21.67.153</ip>
+ <ip>172.67.177.135</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:b187</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:4399</ipv6>
+</content>
+<content id="6433620" includeTime="2023-10-18T23:55:03" entryType="1" hash="69053C745E99D5D1D4175A5EEDE09BFE" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2570-АИ" org="ФНС"/>
+ <url><![CDATA[https://brillx16.ru/vvod-i-vyvod-deneg-iz-kazino]]></url>
+ <domain><![CDATA[brillx16.ru]]></domain>
+ <ip>104.21.22.142</ip>
+ <ip>172.67.205.79</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:168e</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:cd4f</ipv6>
+</content>
+<content id="6433621" includeTime="2023-10-18T23:55:03" entryType="1" hash="99C4FFE60D357F3AAE536EB7CBB00C8B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2660-АИ" org="ФНС"/>
+ <domain><![CDATA[*.1xbet-azj.top]]></domain>
+ <ip>104.21.27.215</ip>
+ <ip>172.67.169.195</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:a9c3</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:1bd7</ipv6>
+</content>
+<content id="6433622" includeTime="2023-10-18T23:55:03" entryType="1" hash="010511C5E22A5CE997DB55D42BB1C631" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-700-АИ" org="ФНС"/>
+ <domain><![CDATA[*.daddycasino-621.buzz]]></domain>
+ <ip>104.21.46.108</ip>
+ <ip>172.67.138.56</ip>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:2e6c</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:8a38</ipv6>
+</content>
+<content id="6433623" includeTime="2023-10-18T23:55:03" entryType="1" hash="B8ECFE54C6195DA8D6522FA12BA3B995" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2555-АИ" org="ФНС"/>
+ <domain><![CDATA[*.luckypeople.biz]]></domain>
+ <ip>45.147.197.234</ip>
+</content>
+<content id="6433625" includeTime="2023-10-18T23:55:03" entryType="1" hash="9D1746E4C85B64DE0AC7A16E796A6A27" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2656-АИ" org="ФНС"/>
+ <url><![CDATA[https://bezdepcasino13.ru/vavada/]]></url>
+ <domain><![CDATA[bezdepcasino13.ru]]></domain>
+ <ip>185.66.69.19</ip>
+</content>
+<content id="6433626" includeTime="2023-10-18T23:55:03" entryType="1" hash="D7DAC9C89513609ABA70D7C33FAD5DD4" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-737-АИ" org="ФНС"/>
+ <domain><![CDATA[*.cat-casino-hdh.buzz]]></domain>
+ <ip>104.21.90.191</ip>
+ <ip>172.67.204.108</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5abf</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:cc6c</ipv6>
+</content>
+<content id="6433628" includeTime="2023-10-18T23:55:03" entryType="1" hash="F3742AC10F1E70826E85DA16C1B906C5" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-28-480-АИ" org="ФНС"/>
+ <domain><![CDATA[www.admiralx-geev.buzz]]></domain>
+ <ip>104.21.55.209</ip>
+ <ip>172.67.173.36</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:ad24</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:37d1</ipv6>
+</content>
+<content id="6433631" includeTime="2023-10-18T23:55:03" entryType="1" hash="8036A02C915E855073741AF772BC1D4A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-08-1513-АИ" org="ФНС"/>
+ <domain><![CDATA[*.askarida.ru]]></domain>
+ <ip>104.21.87.253</ip>
+ <ip>172.67.149.70</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:57fd</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:9546</ipv6>
+</content>
+<content id="6433632" includeTime="2023-10-18T23:55:03" entryType="1" hash="F837FD748EE5C67B754747873E440ACA" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-16-3503-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casino-x5551.win]]></domain>
+ <ip>104.21.95.112</ip>
+ <ip>172.67.144.166</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5f70</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:90a6</ipv6>
+</content>
+<content id="6433633" includeTime="2023-10-18T23:55:03" entryType="1" hash="46BB6337342116274365CA66309C7C9F" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-16-3538-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casino-x2256.win]]></domain>
+ <ip>104.21.39.224</ip>
+ <ip>172.67.149.96</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:9560</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:27e0</ipv6>
+</content>
+<content id="6433635" includeTime="2023-10-18T23:55:03" entryType="1" hash="883B0E4B7A8DB30656BF5E31A8CEBE8F" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-17-1823-АИ" org="ФНС"/>
+ <domain><![CDATA[*.friendscasino.group]]></domain>
+ <ip>104.21.54.192</ip>
+ <ip>172.67.141.87</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:8d57</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:36c0</ipv6>
+</content>
+<content id="6433640" includeTime="2023-10-18T23:55:03" entryType="1" hash="94830D0259C116BBBEF5058AD1F2B362" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-19-3567-АИ" org="ФНС"/>
+ <domain><![CDATA[www.brillx-zerkalo.ru]]></domain>
+ <ip>144.217.251.184</ip>
+</content>
+<content id="6433641" includeTime="2023-10-18T23:55:03" entryType="1" hash="E20A88190F61F2BD127B7FE8E067E543" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-19-3638-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casino-roxofficial.net]]></domain>
+ <ip>104.21.15.195</ip>
+ <ip>172.67.163.206</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a3ce</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:0fc3</ipv6>
+</content>
+<content id="6433643" includeTime="2023-10-18T23:55:03" entryType="1" hash="8B3163EAA11BFE97799B3E9CC6B69F4E" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-20-550-АИ" org="ФНС"/>
+ <domain><![CDATA[*.turbocasino-cgre.buzz]]></domain>
+ <ip>104.21.94.20</ip>
+ <ip>172.67.218.101</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:5e14</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:da65</ipv6>
+</content>
+<content id="6433645" includeTime="2023-10-18T23:55:03" entryType="1" hash="A13C37BEEA0EF8B43B5E3A98573841ED" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2292-АИ" org="ФНС"/>
+ <domain><![CDATA[*.lic4krd.ru]]></domain>
+ <ip>104.21.41.94</ip>
+ <ip>172.67.146.102</ip>
+</content>
+<content id="6433648" includeTime="2023-10-18T23:55:03" entryType="1" hash="F92FE17DC7133345D56641AA90BD8828" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2512-АИ" org="ФНС"/>
+ <domain><![CDATA[*.izzi-nevidimka5.top]]></domain>
+ <ip>104.21.39.9</ip>
+ <ip>172.67.141.208</ip>
+</content>
+<content id="6433650" includeTime="2023-10-18T23:55:03" entryType="1" hash="946364E3547051143823BABC11976CEE" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2383-АИ" org="ФНС"/>
+ <url><![CDATA[https://gonzos-casino.com/zerkalo-gonzo-casino/]]></url>
+ <domain><![CDATA[gonzos-casino.com]]></domain>
+ <ip>185.132.132.251</ip>
+</content>
+<content id="6433651" includeTime="2023-10-18T23:55:03" entryType="1" hash="A1F72349193149E6B1ED55A32712EDD1" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2549-АИ" org="ФНС"/>
+ <url><![CDATA[https://145slottica.com/ru]]></url>
+ <domain><![CDATA[145slottica.com]]></domain>
+ <ip>181.214.1.10</ip>
+ <ip>181.214.1.11</ip>
+ <ip>181.214.1.12</ip>
+</content>
+<content id="6433659" includeTime="2023-10-18T23:55:03" entryType="1" hash="A2C077369DECB1ED128B00BB133360D7" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-665-АИ" org="ФНС"/>
+ <domain><![CDATA[*.daddycasinoru.buzz]]></domain>
+ <ip>104.21.21.70</ip>
+ <ip>172.67.196.254</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:c4fe</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:1546</ipv6>
+</content>
+<content id="6433663" includeTime="2023-10-18T23:55:03" entryType="1" hash="474C6F0FA12B34B7EE0846063C170F71" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-738-АИ" org="ФНС"/>
+ <domain><![CDATA[*.cat-casino-officialsite24.win]]></domain>
+ <ip>104.21.51.248</ip>
+ <ip>172.67.192.67</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:33f8</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:c043</ipv6>
+</content>
+<content id="6433666" includeTime="2023-10-18T23:55:03" entryType="1" hash="BD50C010B8458F29599483B1F0A10358" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-1069-АИ" org="ФНС"/>
+ <domain><![CDATA[*.topkacino.ru]]></domain>
+ <ip>185.196.8.72</ip>
+</content>
+<content id="6433668" includeTime="2023-10-18T23:55:03" entryType="1" hash="ED85F33C03D3FB9E7751A1011505BF69" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-16-3560-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casino-x2153.win]]></domain>
+ <ip>104.21.71.198</ip>
+ <ip>172.67.171.156</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:47c6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:ab9c</ipv6>
+</content>
+<content id="6433673" includeTime="2023-10-18T23:55:03" entryType="1" hash="CEE80372E8A83E671A3E3F31EAE2E02B" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-19-3639-АИ" org="ФНС"/>
+ <url><![CDATA[https://sykaaacazino.ru/sykaaa-casino-oficzialnyj-sajt/]]></url>
+ <domain><![CDATA[sykaaacazino.ru]]></domain>
+ <ip>212.224.118.205</ip>
+</content>
+<content id="6433675" includeTime="2023-10-18T23:55:03" entryType="1" hash="B7DF09343498B618911AB18F456282E2" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-20-552-АИ" org="ФНС"/>
+ <url><![CDATA[https://vulcanmillion-klub.click/gonzos-quest-extreme/]]></url>
+ <domain><![CDATA[vulcanmillion-klub.click]]></domain>
+ <ip>104.21.52.84</ip>
+ <ip>172.67.197.68</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:3454</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:c544</ipv6>
+</content>
+<content id="6433676" includeTime="2023-10-18T23:55:03" entryType="1" hash="7CC301BFDA0802914A031F277919A67D" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2293-АИ" org="ФНС"/>
+ <domain><![CDATA[*.sykaaacazino.ru]]></domain>
+ <ip>212.224.118.205</ip>
+</content>
+<content id="6433677" includeTime="2023-10-18T23:55:03" entryType="1" hash="4A381125254C39FCA16A8D7FF49DF5E6" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2384-АИ" org="ФНС"/>
+ <domain><![CDATA[*.joycasino-lng.buzz]]></domain>
+ <ip>104.21.78.15</ip>
+ <ip>172.67.214.130</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:d682</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:4e0f</ipv6>
+</content>
+<content id="6433689" includeTime="2023-10-18T23:55:03" entryType="1" hash="F4CB62D51B77C004813664754EDC1F72" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2651-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casino-sol-asia.top]]></domain>
+ <ip>104.21.45.27</ip>
+ <ip>172.67.208.20</ip>
+</content>
+<content id="6433691" includeTime="2023-10-18T23:55:03" entryType="1" hash="A5C191C7ACC0DD85121C2353E500FA38" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2572-АИ" org="ФНС"/>
+ <url><![CDATA[https://slottica147.com/ru]]></url>
+ <domain><![CDATA[slottica147.com]]></domain>
+ <ip>181.214.1.10</ip>
+ <ip>181.214.1.11</ip>
+ <ip>181.214.1.12</ip>
+</content>
+<content id="6433695" includeTime="2023-10-18T23:55:03" entryType="1" hash="45705221E5D0CFB2E2B190A3B0256C6A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-739-АИ" org="ФНС"/>
+ <domain><![CDATA[*.kazinogama1.ru]]></domain>
+ <ip>104.21.89.141</ip>
+ <ip>172.67.161.20</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:598d</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:a114</ipv6>
+</content>
+<content id="6433697" includeTime="2023-10-18T23:55:03" entryType="1" hash="60DA8A301A9B550D59650BC21BC2DC1D" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-04-2200-АИ" org="ФНС"/>
+ <domain><![CDATA[*.kazinos2023.top]]></domain>
+ <ip>104.21.42.97</ip>
+ <ip>172.67.160.175</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:2a61</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:a0af</ipv6>
+</content>
+<content id="6433706" includeTime="2023-10-18T23:55:03" entryType="1" hash="1452C6560C9837212505FAF4881DBD0C" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-19-3843-АИ" org="ФНС"/>
+ <url><![CDATA[https://ppking.co/en/casino/bitstarz-casino/]]></url>
+ <domain><![CDATA[ppking.co]]></domain>
+ <ip>104.21.67.90</ip>
+ <ip>172.67.219.36</ip>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:435a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:db24</ipv6>
+</content>
+<content id="6433707" includeTime="2023-10-18T23:55:03" entryType="1" hash="1366CC98CB5F599209F0E90CC702DD7E" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-20-559-АИ" org="ФНС"/>
+ <domain><![CDATA[*.school14-slob.ru]]></domain>
+ <ip>104.21.25.246</ip>
+ <ip>172.67.134.239</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:19f6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:86ef</ipv6>
+</content>
+<content id="6433708" includeTime="2023-10-18T23:55:03" entryType="1" hash="AF288C59A92DFEBAC0E807BF486299F9" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2093-АИ" org="ФНС"/>
+ <domain><![CDATA[*.1wstnd.top]]></domain>
+ <ip>190.115.24.78</ip>
+</content>
+<content id="6433709" includeTime="2023-10-18T23:55:03" entryType="1" hash="10045C45F0420A27BE6FA71E59FBE3F8" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2294-АИ" org="ФНС"/>
+ <url><![CDATA[https://fresh-casino-crabfe.top/fresh-avtomaty-dlya-igry-onlajn/]]></url>
+ <domain><![CDATA[fresh-casino-crabfe.top]]></domain>
+ <ip>104.21.39.57</ip>
+ <ip>172.67.169.177</ip>
+</content>
+<content id="6433711" includeTime="2023-10-18T23:55:03" entryType="1" hash="5EDA4F63F17166A80062131C15DAA45A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2537-АИ" org="ФНС"/>
+ <domain><![CDATA[*.legzocasinokz46.com]]></domain>
+ <ip>104.21.49.30</ip>
+ <ip>172.67.140.130</ip>
+</content>
+<content id="6433714" includeTime="2023-10-18T23:55:03" entryType="1" hash="B2F252A3F9F6F78EF9A758DAEA1EC6A3" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.gamacasino722.com]]></domain>
+ <ip>45.195.62.73</ip>
+</content>
+<content id="6433724" includeTime="2023-10-18T23:55:03" entryType="1" hash="561FEF8918372A652C36E1532DE1A994" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2652-АИ" org="ФНС"/>
+ <url><![CDATA[https://profi-casino.ru/riobet-casino]]></url>
+ <domain><![CDATA[profi-casino.ru]]></domain>
+ <ip>104.21.87.175</ip>
+ <ip>172.67.170.123</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:57af</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:aa7b</ipv6>
+</content>
+<content id="6433726" includeTime="2023-10-18T23:55:03" entryType="1" hash="7BC3FFBC15F600805390693BDCB2E081" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-701-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casinogama-srl.top]]></domain>
+ <ip>104.21.64.250</ip>
+ <ip>172.67.138.125</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:40fa</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:8a7d</ipv6>
+</content>
+<content id="6433731" includeTime="2023-10-18T23:55:03" entryType="1" hash="8F7A3AF9D74F12437BD392D4A43CB5F9" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-06-18-АИ" org="ФНС"/>
+ <domain><![CDATA[*.bonusivcasino1.space]]></domain>
+ <ip>104.21.26.232</ip>
+ <ip>172.67.168.148</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:1ae8</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:a894</ipv6>
+</content>
+<content id="6433732" includeTime="2023-10-18T23:55:03" entryType="1" hash="CD897BC67DE3C5B807F9ABBD802BCF1C" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-06-47-АИ" org="ФНС"/>
+ <domain><![CDATA[*.vavada-zerkalo-top1.ru]]></domain>
+ <ip>104.21.49.235</ip>
+ <ip>172.67.195.149</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:c395</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:31eb</ipv6>
+</content>
+<content id="6433733" includeTime="2023-10-18T23:55:03" entryType="1" hash="9996C178E7525EC4143B14BACAF0A2E9" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-25-2830-АИ" org="ФНС"/>
+ <domain><![CDATA[*.melbet-bonus.fun]]></domain>
+ <ip>185.154.15.226</ip>
+</content>
+<content id="6433734" includeTime="2023-10-18T23:55:03" entryType="1" hash="6E2D89BAABE9A8493929D5F37DDBF289" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-16-4762-АИ" org="ФНС"/>
+ <domain><![CDATA[*.rsdunphyphotography.com]]></domain>
+ <ip>104.21.12.10</ip>
+ <ip>172.67.131.218</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:0c0a</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:83da</ipv6>
+</content>
+<content id="6433736" includeTime="2023-10-18T23:55:03" entryType="1" hash="0781040226861A1AA7952C64094D22F6" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-16-3860-АИ" org="ФНС"/>
+ <domain><![CDATA[*.club-vulkan-official.live]]></domain>
+ <ip>203.28.9.243</ip>
+ <ipv6>2a07:0180:02ad:8d2c:0d83:507a:87f0:a407</ipv6>
+</content>
+<content id="6433737" includeTime="2023-10-18T23:55:03" entryType="1" hash="B2742F62EF423BE5649EF2030E589155" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-16-4180-АИ" org="ФНС"/>
+ <domain><![CDATA[*.kazino-vavada.com]]></domain>
+ <ip>203.34.28.140</ip>
+ <ipv6>2a05:7880:0428:8a05:ccbf:c826:0ef1:0d96</ipv6>
+</content>
+<content id="6433741" includeTime="2023-10-18T23:55:03" entryType="1" hash="0CB5C513131ABF7B63EAE60F337BEE37" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-19-3571-АИ" org="ФНС"/>
+ <url><![CDATA[https://brillx-casino.online/rabochee-zerkalo/]]></url>
+ <domain><![CDATA[brillx-casino.online]]></domain>
+ <ip>104.21.66.38</ip>
+ <ip>172.67.155.248</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:9bf8</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:4226</ipv6>
+</content>
+<content id="6433743" includeTime="2023-10-18T23:55:03" entryType="1" hash="36B2BD7E0B8FFF7FF7708FD4455E5359" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-20-499-АИ" org="ФНС"/>
+ <domain><![CDATA[*.1xbet-uko.top]]></domain>
+ <ip>104.21.9.152</ip>
+ <ip>172.67.160.63</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:0998</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:a03f</ipv6>
+</content>
+<content id="6433744" includeTime="2023-10-18T23:55:03" entryType="1" hash="297282331CE7C28C8E670EF8AF3C8562" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-20-668-АИ" org="ФНС"/>
+ <url><![CDATA[https://blazonguitars.ru/support/]]></url>
+ <domain><![CDATA[blazonguitars.ru]]></domain>
+ <ip>104.21.95.72</ip>
+ <ip>172.67.143.128</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:8f80</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:5f48</ipv6>
+</content>
+<content id="6433745" includeTime="2023-10-18T23:55:03" entryType="1" hash="A8D7C46310E50F5355517ABE97107300" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2094-АИ" org="ФНС"/>
+ <domain><![CDATA[*.1wyvgr.top]]></domain>
+ <ip>190.115.24.78</ip>
+</content>
+<content id="6433746" includeTime="2023-10-18T23:55:03" entryType="1" hash="24987421DB15E46AC456EC7FE28CC5EA" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2355-АИ" org="ФНС"/>
+ <domain><![CDATA[*.play-fortuna-bdf.buzz]]></domain>
+ <ip>104.21.86.146</ip>
+ <ip>172.67.220.150</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5692</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:dc96</ipv6>
+</content>
+<content id="6433748" includeTime="2023-10-18T23:55:03" entryType="1" hash="15546AFAD300B3CFBB19646E456F6A4C" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2534-АИ" org="ФНС"/>
+ <url><![CDATA[https://golder-cazino.xyz/social]]></url>
+ <domain><![CDATA[golder-cazino.xyz]]></domain>
+ <ip>167.71.76.235</ip>
+ <ipv6>2a03:b0c0:0002:00d0:0000:0000:15fc:6001</ipv6>
+</content>
+<content id="6433759" includeTime="2023-10-18T23:55:03" entryType="1" hash="3C67D34F2CC3781DB949DBAD7438AD25" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-698-АИ" org="ФНС"/>
+ <domain><![CDATA[*.gama-casino-qfv.buzz]]></domain>
+ <ip>104.21.25.214</ip>
+ <ip>172.67.134.178</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:19d6</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:86b2</ipv6>
+</content>
+<content id="6433761" includeTime="2023-10-18T23:55:03" entryType="1" hash="9C22EC883A9F6C1BB5D6337D76A8DC14" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-702-АИ" org="ФНС"/>
+ <domain><![CDATA[*.daddycasino1c.ru]]></domain>
+ <ip>104.21.52.30</ip>
+ <ip>172.67.194.157</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:c29d</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:341e</ipv6>
+</content>
+<content id="6433763" includeTime="2023-10-18T23:55:03" entryType="1" hash="1297B2BC87BB9A97AB4A2DBCD14B47FC" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2657-АИ" org="ФНС"/>
+ <domain><![CDATA[*.platinumhome.ru]]></domain>
+ <ip>185.196.8.72</ip>
+</content>
+<content id="6433765" includeTime="2023-10-18T23:55:03" entryType="1" hash="903D47477330E27D947AB6F046D1A4F4" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-1058-АИ" org="ФНС"/>
+ <url><![CDATA[https://top10casinowin.ru/vulkan-24-igrat-igrovye-avtomaty]]></url>
+ <domain><![CDATA[top10casinowin.ru]]></domain>
+ <ip>104.21.6.96</ip>
+ <ip>172.67.134.170</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:0660</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:86aa</ipv6>
+</content>
+<content id="6433768" includeTime="2023-10-18T23:55:03" entryType="1" hash="CDDFBEC848B380E0EACC6F16068089D7" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-28-5086-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casino-jozz-t.buzz]]></domain>
+ <ip>104.21.66.123</ip>
+ <ip>172.67.159.231</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:9fe7</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:427b</ipv6>
+</content>
+<content id="6433769" includeTime="2023-10-18T23:55:03" entryType="1" hash="04E7A13A9C137F8436B9048F4474C0CF" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-09-3167-АИ" org="ФНС"/>
+ <domain><![CDATA[*.kinogallery.com]]></domain>
+ <ip>195.248.234.111</ip>
+</content>
+<content id="6433771" includeTime="2023-10-18T23:55:03" entryType="1" hash="3EC384DABB49CABF4DB1C163949EB5E9" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-16-3527-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casino-x-gam1.fun]]></domain>
+ <ip>45.147.197.165</ip>
+</content>
+<content id="6433775" includeTime="2023-10-18T23:55:03" entryType="1" hash="9CF21FA85883F30A3523DE9BA202C108" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-19-3572-АИ" org="ФНС"/>
+ <url><![CDATA[https://brillks.beauty/support/]]></url>
+ <domain><![CDATA[brillks.beauty]]></domain>
+ <ip>104.21.32.226</ip>
+ <ip>172.67.156.80</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:20e2</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:9c50</ipv6>
+</content>
+<content id="6433777" includeTime="2023-10-18T23:55:03" entryType="1" hash="2257F71CE0B3203DE52C34A5034A0B7E" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-20-500-АИ" org="ФНС"/>
+ <domain><![CDATA[*.altaipant.ru]]></domain>
+ <ip>104.21.78.76</ip>
+ <ip>172.67.217.224</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:d9e0</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:4e4c</ipv6>
+</content>
+<content id="6433778" includeTime="2023-10-18T23:55:03" entryType="1" hash="03B95FDCC22A35086C8E80F925C4C1D7" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-20-1043-АИ" org="ФНС"/>
+ <domain><![CDATA[*.booicazofi.top]]></domain>
+ <ip>104.21.7.117</ip>
+ <ip>172.67.130.54</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:0775</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:8236</ipv6>
+</content>
+<content id="6433780" includeTime="2023-10-18T23:55:03" entryType="1" hash="F46D585F0A84E78F65F5B77DB21BCE81" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2356-АИ" org="ФНС"/>
+ <domain><![CDATA[*.playfortuna-vhod6.buzz]]></domain>
+ <ip>104.21.53.142</ip>
+ <ip>172.67.213.135</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:358e</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:d587</ipv6>
+</content>
+<content id="6433781" includeTime="2023-10-18T23:55:03" entryType="1" hash="6C5433C4835D825158E0DD9732F3FF85" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2416-АИ" org="ФНС"/>
+ <domain><![CDATA[*.booi-casino-wew.buzz]]></domain>
+ <ip>104.21.50.4</ip>
+ <ip>172.67.198.176</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:3204</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:c6b0</ipv6>
+</content>
+<content id="6433796" includeTime="2023-10-18T23:55:03" entryType="1" hash="D268D9ED99F53233BF2CDFFCE32881F0" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-704-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casino-gama-uiw.buzz]]></domain>
+ <ip>104.21.26.49</ip>
+ <ip>172.67.135.100</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1a31</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:8764</ipv6>
+</content>
+<content id="6433797" includeTime="2023-10-18T23:55:03" entryType="1" hash="C433A1BC3A8CA3B316A0D57975D3861E" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2574-АИ" org="ФНС"/>
+ <domain><![CDATA[137slottica.com]]></domain>
+ <ip>181.214.1.10</ip>
+ <ip>181.214.1.11</ip>
+ <ip>181.214.1.12</ip>
+</content>
+<content id="6433801" includeTime="2023-10-18T23:55:03" entryType="1" hash="B816E2709E5FB77B00A0CF5BCCB466E5" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-22-1068-АИ" org="ФНС"/>
+ <domain><![CDATA[*.pinupcasinoonline245-win.win]]></domain>
+ <ip>104.21.10.106</ip>
+ <ip>172.67.131.109</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:0a6a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:836d</ipv6>
+</content>
+<content id="6433803" includeTime="2023-10-18T23:55:03" entryType="1" hash="0B20E2BAE1D3AFB50716C0369BB6FDCA" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-06-19-АИ" org="ФНС"/>
+ <domain><![CDATA[*.noviecasinoo.website]]></domain>
+ <ip>104.21.49.251</ip>
+ <ip>172.67.197.220</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:31fb</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:c5dc</ipv6>
+</content>
+<content id="6433805" includeTime="2023-10-18T23:55:03" entryType="1" hash="F2DBB3C05FE46277A97FFD3A6119EC71" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-28-15298-АИ" org="ФНС"/>
+ <domain><![CDATA[*.slotsonlines5.fun]]></domain>
+ <ip>104.21.33.226</ip>
+ <ip>172.67.151.24</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:9718</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:21e2</ipv6>
+</content>
+<content id="6433807" includeTime="2023-10-18T23:55:03" entryType="1" hash="B52CC557CA0D4F171A7FC3C10F33A63C" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-10-16-4795-АИ" org="ФНС"/>
+ <domain><![CDATA[*.orgplan.pro]]></domain>
+ <ip>104.21.79.194</ip>
+ <ip>172.67.171.5</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4fc2</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:ab05</ipv6>
+</content>
+<content id="6433813" includeTime="2023-10-18T23:55:03" entryType="1" hash="B44EFCD8388E55E0B8C82960FCF43EFA" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2096-АИ" org="ФНС"/>
+ <domain><![CDATA[*.cazinoz-lewus.xyz]]></domain>
+ <ip>167.71.4.232</ip>
+ <ipv6>2a03:b0c0:0002:00d0:0000:0000:0285:e001</ipv6>
+</content>
+<content id="6433816" includeTime="2023-10-18T23:55:03" entryType="1" hash="016E4079BB9B92941788559436A59848" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2507-АИ" org="ФНС"/>
+ <domain><![CDATA[*.jozz-casino-wlx.buzz]]></domain>
+ <ip>104.21.14.124</ip>
+ <ip>172.67.158.228</ip>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:0e7c</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:9ee4</ipv6>
+</content>
+<content id="6433818" includeTime="2023-10-18T23:55:03" entryType="1" hash="E3B982727913CC18973462FE8670CAA2" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2023-10-17" number="2-6-14/2023-09-21-2097-АИ" org="ФНС"/>
+ <domain><![CDATA[*.lewafun.xyz]]></domain>
+ <ip>134.209.246.234</ip>
+ <ipv6>2a03:b0c0:0003:00d0:0000:0000:0eeb:a001</ipv6>
 </content>
 <content id="6433832" includeTime="2023-10-18T19:00:04" urgencyType="1" entryType="3" hash="FF0558ED25B777AF35EA2C3B81E8E06A" blockType="domain-mask" ts="2023-10-18T19:00:04">
  <decision date="2022-02-24" number="" org=""/>
@@ -11905,5 +12924,1935 @@
  <ip>172.67.176.15</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:b00f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:4842</ipv6>
+</content>
+<content id="6435988" includeTime="2023-10-18T23:55:03" entryType="1" hash="2FC791067E437B63F9F45B2B4EA681AB" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.cazinoz-melbet.org.ru]]></domain>
+ <ip>185.206.215.225</ip>
+</content>
+<content id="6435990" includeTime="2023-10-18T23:55:03" entryType="1" hash="A9E4D452F5FCFDFB04617D5AEE409958" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasino-site45.win]]></domain>
+ <ip>104.21.76.98</ip>
+ <ip>172.67.192.172</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:4c62</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:c0ac</ipv6>
+</content>
+<content id="6435991" includeTime="2023-10-18T23:55:03" entryType="1" hash="D2CAA49391870FD6A679F629AEE45F32" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vulcanstavki.ru]]></domain>
+ <ip>104.21.49.213</ip>
+ <ip>172.67.193.143</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:c18f</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:31d5</ipv6>
+</content>
+<content id="6435993" includeTime="2023-10-18T23:55:03" entryType="1" hash="94C72DF5961194BF2A09FF4EF3A242E7" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.leon-zerkalox.buzz]]></domain>
+ <ip>104.21.94.64</ip>
+ <ip>172.67.220.83</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:dc53</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:5e40</ipv6>
+</content>
+<content id="6435995" includeTime="2023-10-18T23:55:03" entryType="1" hash="6998C34E48DD19872019B5EA3E485102" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.maksbetslotss12.top]]></domain>
+ <ip>104.21.66.151</ip>
+ <ip>172.67.205.54</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:4297</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:cd36</ipv6>
+</content>
+<content id="6435997" includeTime="2023-10-18T23:55:03" entryType="1" hash="C544552C7FE7047BB639E459B87F65B0" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[klinika-lika.ru]]></domain>
+ <ip>104.21.13.227</ip>
+ <ip>172.67.133.92</ip>
+</content>
+<content id="6435999" includeTime="2023-10-18T23:55:03" entryType="1" hash="F8A11689DF1530F1BECAF3D56EC17726" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.joycazino377.top]]></domain>
+ <ip>104.21.23.64</ip>
+ <ip>172.67.209.119</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1740</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:d177</ipv6>
+</content>
+<content id="6436002" includeTime="2023-10-18T23:55:03" entryType="1" hash="AD8C259BE739323D775CF2EF9847185B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.jetcasino-future3.top]]></domain>
+ <ip>104.21.76.80</ip>
+ <ip>172.67.191.106</ip>
+</content>
+<content id="6436005" includeTime="2023-10-18T23:55:03" entryType="1" hash="D64E9A613DEF0379AD54B723D6286B9B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.freshcasino1249.com]]></domain>
+ <ip>104.21.49.137</ip>
+ <ip>172.67.163.129</ip>
+</content>
+<content id="6436008" includeTime="2023-10-18T23:55:03" entryType="1" hash="DBED87CBAE51150CD1D5C36718882AA1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.e1daar.com]]></domain>
+ <ip>167.99.36.139</ip>
+ <ipv6>2a03:b0c0:0002:00d0:0000:0000:1011:a001</ipv6>
+</content>
+<content id="6436010" includeTime="2023-10-18T23:55:03" entryType="1" hash="E150E2F15F41E0923EF1835ADA38565E" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslotts4.top]]></domain>
+ <ip>104.21.67.33</ip>
+ <ip>172.67.211.215</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:d3d7</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:4321</ipv6>
+</content>
+<content id="6436012" includeTime="2023-10-18T23:55:03" entryType="1" hash="9BAFF9A4194D4A472829F62BDB5CAD34" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.brillx33.gg]]></domain>
+ <ip>13.224.189.119</ip>
+ <ip>13.224.189.25</ip>
+ <ip>13.224.189.53</ip>
+ <ip>13.224.189.93</ip>
+</content>
+<content id="6436013" includeTime="2023-10-18T23:55:03" entryType="1" hash="42449AE3DBEED26E521FF87DF6AC61D2" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1win-slot-x.store]]></domain>
+ <ip>45.82.68.15</ip>
+</content>
+<content id="6436014" includeTime="2023-10-18T23:55:03" entryType="1" hash="1246CC81FADF510126B17C860A127BAE" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.daddycasino495.com]]></domain>
+ <ip>45.195.62.138</ip>
+</content>
+<content id="6436015" includeTime="2023-10-18T23:55:03" entryType="1" hash="29FEB52840DF76144DB5BB9FAB950CE7" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasino479.com]]></domain>
+ <ip>104.21.86.9</ip>
+ <ip>172.67.213.186</ip>
+</content>
+<content id="6436016" includeTime="2023-10-18T23:55:03" entryType="1" hash="939588D00FC1E2A78626EB7F2DF10BA1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vavadastsx.top]]></domain>
+ <ip>104.21.38.234</ip>
+ <ip>172.67.140.198</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:8cc6</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:26ea</ipv6>
+</content>
+<content id="6436017" includeTime="2023-10-18T23:55:03" entryType="1" hash="9A19F67D5DECD8F8228B42ECCD443CE4" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.freshcasino-mlai.buzz]]></domain>
+ <ip>104.21.94.198</ip>
+ <ip>172.67.168.165</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:a8a5</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:5ec6</ipv6>
+</content>
+<content id="6436019" includeTime="2023-10-18T23:55:03" entryType="1" hash="510D43A07C01B119F9B22053F00877BA" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.7k-casino-017.online]]></domain>
+ <ip>104.21.95.35</ip>
+ <ip>172.67.142.166</ip>
+</content>
+<content id="6436020" includeTime="2023-10-18T23:55:03" entryType="1" hash="02FF5A9490EB9776970B6559E51B9940" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[1win-officiale.org.ru]]></domain>
+ <ip>104.21.40.97</ip>
+ <ip>172.67.183.211</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:2861</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:b7d3</ipv6>
+</content>
+<content id="6436021" includeTime="2023-10-18T23:55:03" entryType="1" hash="B67C50E6F19CA6FB7A2E72D56D4E82B5" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casinoplay-pin-up1.ru]]></domain>
+ <ip>104.21.49.29</ip>
+ <ip>172.67.140.129</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:8c81</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:311d</ipv6>
+</content>
+<content id="6436023" includeTime="2023-10-18T23:55:03" entryType="1" hash="2416D9D98116966B874C1F4F45E6A096" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1win-registratsiya.pw]]></domain>
+ <ip>104.21.22.137</ip>
+ <ip>172.67.205.27</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:1689</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:cd1b</ipv6>
+</content>
+<content id="6436024" includeTime="2023-10-18T23:55:03" entryType="1" hash="07EEED1BA1EFADA1BB3D3EE02DBD70AA" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdom10.online]]></domain>
+ <ip>104.21.51.26</ip>
+ <ip>172.67.219.88</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:331a</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:db58</ipv6>
+</content>
+<content id="6436026" includeTime="2023-10-18T23:55:03" entryType="1" hash="C704627691894FCDBDD5966F5D81429A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.fresh-mobi4.info]]></domain>
+ <ip>104.21.16.30</ip>
+ <ip>172.67.166.13</ip>
+</content>
+<content id="6436029" includeTime="2023-10-18T23:55:03" entryType="1" hash="53A372DED363798F0791B631FC762238" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.solcasino-ale.com]]></domain>
+ <ip>104.21.1.87</ip>
+ <ip>172.67.128.241</ip>
+</content>
+<content id="6436030" includeTime="2023-10-18T23:55:03" entryType="1" hash="A4119AF5911DE284E4AAA6A0B1576651" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.sykaaacasino-bonus.site]]></domain>
+ <ip>5.45.86.182</ip>
+</content>
+<content id="6436032" includeTime="2023-10-18T23:55:03" entryType="1" hash="0A28F7B351890119ECA866A814A9D3CE" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.joyy-1xslots252.ru]]></domain>
+ <ip>185.196.8.72</ip>
+</content>
+<content id="6436033" includeTime="2023-10-18T23:55:03" entryType="1" hash="291720E4DA91FFFC7820AD36672D4E10" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.melbets-com.top]]></domain>
+ <ip>104.21.9.70</ip>
+ <ip>172.67.189.44</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:0946</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:bd2c</ipv6>
+</content>
+<content id="6436076" includeTime="2023-10-18T23:55:03" entryType="1" hash="32EBE643C94E527372DFF2EAB25A464A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.greatwinlucky.com]]></domain>
+ <ip>104.21.32.146</ip>
+ <ip>172.67.186.230</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:bae6</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:2092</ipv6>
+</content>
+<content id="6436081" includeTime="2023-10-18T23:55:03" entryType="1" hash="7D303BEAF365440C22D52E000CB5D252" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.7k-casino-015.online]]></domain>
+ <ip>104.21.30.115</ip>
+ <ip>172.67.172.224</ip>
+</content>
+<content id="6436083" includeTime="2023-10-18T23:55:03" entryType="1" hash="C73B1B9BCC1E7B9E6C632C7BC0997095" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdom-12.fun]]></domain>
+ <ip>104.21.34.161</ip>
+ <ip>172.67.163.16</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:22a1</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:a310</ipv6>
+</content>
+<content id="6436085" includeTime="2023-10-18T23:55:03" entryType="1" hash="9924073655FE13FC580EE3B97A38B03C" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vulkanstarscasinoy9.xyz]]></domain>
+ <ip>104.21.67.214</ip>
+ <ip>172.67.181.97</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:b561</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:43d6</ipv6>
+</content>
+<content id="6436088" includeTime="2023-10-18T23:55:03" entryType="1" hash="C03D9675F5F1DF3C618D7046DC52967F" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[recyclingperks.com]]></domain>
+ <ip>104.21.21.170</ip>
+ <ip>172.67.199.164</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:15aa</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:c7a4</ipv6>
+</content>
+<content id="6436090" includeTime="2023-10-18T23:55:03" entryType="1" hash="A713571ED4E3FD9C30DF3DB264D461F5" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vulkan-platinum-online.store]]></domain>
+ <ip>185.51.247.53</ip>
+</content>
+<content id="6436095" includeTime="2023-10-18T23:55:03" entryType="1" hash="4D5E7C4F3F7308B35498D3AAC1082142" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.freshcasinosmake12.top]]></domain>
+ <ip>104.21.20.188</ip>
+ <ip>172.67.194.19</ip>
+</content>
+<content id="6436097" includeTime="2023-10-18T23:55:03" entryType="1" hash="B9890F5290E4B0BC261A87605F30E715" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-reg7.buzz]]></domain>
+ <ip>104.21.83.7</ip>
+ <ip>172.67.210.54</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5307</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:d236</ipv6>
+</content>
+<content id="6436099" includeTime="2023-10-18T23:55:03" entryType="1" hash="C815BDD27E9FAD3958C3FD802FA2B2F3" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-378.buzz]]></domain>
+ <ip>104.21.93.93</ip>
+ <ip>172.67.208.126</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:5d5d</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:d07e</ipv6>
+</content>
+<content id="6436101" includeTime="2023-10-18T23:55:03" entryType="1" hash="A70B7FE4758049073F71F34EE83EDFED" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vulkan----delux.ru]]></domain>
+ <ip>104.21.66.178</ip>
+ <ip>172.67.162.247</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:a2f7</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:42b2</ipv6>
+</content>
+<content id="6436102" includeTime="2023-10-18T23:55:03" entryType="1" hash="E0D63B3C2D9ECF517F0541FA9780F5F3" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1-win-casinozlicense.org.ru]]></domain>
+ <ip>81.91.176.237</ip>
+</content>
+<content id="6436104" includeTime="2023-10-18T23:55:03" entryType="1" hash="0ADF27635F8565F2604CAF67DBCD7BA7" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino1win.press]]></domain>
+ <ip>185.51.247.53</ip>
+</content>
+<content id="6436107" includeTime="2023-10-18T23:55:03" entryType="1" hash="DDCD4DAFDAF39410B517EFA2854641A8" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.zerkalo-leonbets-ywq9.biz]]></domain>
+ <ip>104.21.95.171</ip>
+ <ip>172.67.146.58</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:5fab</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:923a</ipv6>
+</content>
+<content id="6436109" includeTime="2023-10-18T23:55:03" entryType="1" hash="57A96C6C1DFCD05121E9EDC7AA3A48D9" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1win-jjj-official16.top]]></domain>
+ <ip>104.21.54.167</ip>
+ <ip>172.67.140.172</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:36a7</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:8cac</ipv6>
+</content>
+<content id="6436112" includeTime="2023-10-18T23:55:03" entryType="1" hash="BAAEEAEB60CE0D13A642499F882CDFF1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1443joycasino.com]]></domain>
+ <ip>93.114.64.166</ip>
+</content>
+<content id="6436115" includeTime="2023-10-18T23:55:03" entryType="1" hash="4E6CDF3375898683A0739835A03A306D" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.jet176.casino]]></domain>
+ <ip>104.21.47.59</ip>
+ <ip>172.67.144.221</ip>
+</content>
+<content id="6436118" includeTime="2023-10-18T23:55:03" entryType="1" hash="AA8B1D1CCFEB16CBA3F6F308E59F0477" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.maxbetonlineg4.xyz]]></domain>
+ <ip>104.21.43.161</ip>
+ <ip>172.67.181.111</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:2ba1</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:b56f</ipv6>
+</content>
+<content id="6436120" includeTime="2023-10-18T23:55:03" entryType="1" hash="DCD6879A5F522B90C962705C98F56F5C" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-ake.top]]></domain>
+ <ip>104.21.51.4</ip>
+ <ip>172.67.215.172</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3304</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:d7ac</ipv6>
+</content>
+<content id="6436123" includeTime="2023-10-18T23:55:03" entryType="1" hash="0AFC9960BF5631EF9A4212986338646F" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.dripcasino33.com]]></domain>
+ <ip>104.21.94.152</ip>
+ <ip>172.67.137.104</ip>
+</content>
+<content id="6436125" includeTime="2023-10-18T23:55:03" entryType="1" hash="4868900116E950F3BC6FA73C2BC054C1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casinogama-sarelcom.ru]]></domain>
+ <ip>104.21.65.76</ip>
+ <ip>172.67.159.148</ip>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:414c</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:9f94</ipv6>
+</content>
+<content id="6436126" includeTime="2023-10-18T23:55:03" entryType="1" hash="75AF80464F6919AD4DD0FA3E8D64C40F" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino-x-zfp.buzz]]></domain>
+ <ip>104.21.13.206</ip>
+ <ip>172.67.133.25</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:8519</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:0dce</ipv6>
+</content>
+<content id="6436127" includeTime="2023-10-18T23:55:03" entryType="1" hash="E862588C5D0FDA35B0E8CFE7D2FEED45" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.club-vulkan-official.rocks]]></domain>
+ <ip>203.29.54.200</ip>
+ <ipv6>2a07:0180:0399:3a76:9bbe:154a:9050:803d</ipv6>
+</content>
+<content id="6436128" includeTime="2023-10-18T23:55:03" entryType="1" hash="1D3242D606B83F58ECF12A40F275BA36" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdom-bet.live]]></domain>
+ <ip>104.21.28.123</ip>
+ <ip>172.67.146.43</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1c7b</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:922b</ipv6>
+</content>
+<content id="6436129" includeTime="2023-10-18T23:55:03" entryType="1" hash="1D76DC66827D45CC56E0EC51BC03E0F1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.drift-cazinos.space]]></domain>
+ <ip>185.235.128.179</ip>
+</content>
+<content id="6436130" includeTime="2023-10-18T23:55:03" entryType="1" hash="B958AD86E97BF1C133A504D1EA0AAC57" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasino3578.com]]></domain>
+ <ip>104.21.17.214</ip>
+ <ip>172.67.178.84</ip>
+</content>
+<content id="6436133" includeTime="2023-10-18T23:55:03" entryType="1" hash="5EAD18140DB27E469C7369FD2082C277" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.leon-zerkalo23.xyz]]></domain>
+ <ip>104.21.78.11</ip>
+ <ip>172.67.214.109</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:4e0b</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:d66d</ipv6>
+</content>
+<content id="6436134" includeTime="2023-10-18T23:55:03" entryType="1" hash="66A8BFD3DE4FC1DD814625B455C1FF35" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.mostbet-es.ru]]></domain>
+ <ip>104.21.87.211</ip>
+ <ip>172.67.146.145</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:57d3</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:9291</ipv6>
+</content>
+<content id="6436135" includeTime="2023-10-18T23:55:03" entryType="1" hash="28B12B5F4AA94A58C570E2737BB46061" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.maxbet-casino-wea.buzz]]></domain>
+ <ip>104.21.55.253</ip>
+ <ip>172.67.174.213</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:aed5</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:37fd</ipv6>
+</content>
+<content id="6436136" includeTime="2023-10-18T23:55:03" entryType="1" hash="0296A0D19C7864505D0D9B13214C8F64" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eldorado-casino-axx.buzz]]></domain>
+ <ip>104.21.39.219</ip>
+ <ip>172.67.148.247</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:27db</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:94f7</ipv6>
+</content>
+<content id="6436137" includeTime="2023-10-18T23:55:03" entryType="1" hash="F8D73DDC941A1B9FAE012FD186118222" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasino4051.com]]></domain>
+ <ip>104.21.4.183</ip>
+ <ip>172.67.132.88</ip>
+</content>
+<content id="6436138" includeTime="2023-10-18T23:55:03" entryType="1" hash="FB1FBA56223FA160F984FF9DF64D747F" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eldoradocasino-ejx.top]]></domain>
+ <ip>104.21.40.80</ip>
+ <ip>172.67.182.143</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:2850</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:b68f</ipv6>
+</content>
+<content id="6436139" includeTime="2023-10-18T23:55:03" entryType="1" hash="D8664BAB89D01E4DC3F4DD9A5762F0C5" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.kri-vavada-ok.press]]></domain>
+ <ip>104.21.86.204</ip>
+ <ip>172.67.136.205</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:56cc</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:88cd</ipv6>
+</content>
+<content id="6436144" includeTime="2023-10-18T23:55:03" entryType="1" hash="7E6F7E5702F872B5FBE6CD5891683AF3" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.solcasino3408.com]]></domain>
+ <ip>104.21.5.116</ip>
+ <ip>172.67.133.95</ip>
+</content>
+<content id="6436145" includeTime="2023-10-18T23:55:03" entryType="1" hash="479B3FDA7C25FAF3A08C70364A485413" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[www.anapafuture.ru]]></domain>
+ <ip>92.119.113.113</ip>
+</content>
+<content id="6436146" includeTime="2023-10-18T23:55:03" entryType="1" hash="C2424E4C84F93648158DAE4B43D91741" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.slotozal21.online]]></domain>
+ <ip>104.21.21.19</ip>
+ <ip>172.67.195.250</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1513</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:c3fa</ipv6>
+</content>
+<content id="6436148" includeTime="2023-10-18T23:55:03" entryType="1" hash="264F56E27928232EF94037D308CE9C7F" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.maxbetslots-tz.buzz]]></domain>
+ <ip>104.21.58.158</ip>
+ <ip>172.67.161.139</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:a18b</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:3a9e</ipv6>
+</content>
+<content id="6436149" includeTime="2023-10-18T23:55:03" entryType="1" hash="2FCA3A080BA1831DC169F4811875A6E2" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.starda44.casino]]></domain>
+ <ip>104.21.86.110</ip>
+ <ip>172.67.218.145</ip>
+</content>
+<content id="6436163" includeTime="2023-10-18T23:55:03" entryType="1" hash="AAF3C6BB9AB9032620822D206C89D858" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.fresh-casino-golosbaik.com]]></domain>
+ <ip>104.21.24.41</ip>
+ <ip>172.67.216.196</ip>
+</content>
+<content id="6436196" includeTime="2023-10-18T23:55:03" entryType="1" hash="8BDF173EE9F2D6DD1203C16D2938DBA1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vulkanplatinum-1877.buzz]]></domain>
+ <ip>104.21.95.99</ip>
+ <ip>172.67.144.26</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:901a</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:5f63</ipv6>
+</content>
+<content id="6436198" includeTime="2023-10-18T23:55:03" entryType="1" hash="3432E2354AA0E96856DB36E5AC349096" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots23.top]]></domain>
+ <ip>104.21.89.152</ip>
+ <ip>172.67.161.40</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:a128</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5998</ipv6>
+</content>
+<content id="6436201" includeTime="2023-10-18T23:55:03" entryType="1" hash="99183E62BB7F0082EA7221DD3620E6D2" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[urbanfest.club]]></domain>
+ <ip>104.21.71.26</ip>
+ <ip>172.67.142.109</ip>
+</content>
+<content id="6436203" includeTime="2023-10-18T23:55:03" entryType="1" hash="13BC0C8E2AF8AD4E8BD20D2876929C44" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.turbo-casino39.gg]]></domain>
+ <ip>18.165.140.102</ip>
+ <ip>18.165.140.103</ip>
+ <ip>18.165.140.32</ip>
+ <ip>18.165.140.90</ip>
+</content>
+<content id="6436205" includeTime="2023-10-18T23:55:03" entryType="1" hash="E5CA9C55070D024D8660630218EAA3CA" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.sykaa-casinos.ru]]></domain>
+ <ip>37.1.216.92</ip>
+</content>
+<content id="6436210" includeTime="2023-10-18T23:55:03" entryType="1" hash="021FB8140F872BD2974704CF4A13CB76" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vulcandeluxy10.xyz]]></domain>
+ <ip>104.21.61.220</ip>
+ <ip>172.67.215.191</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:d7bf</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:3ddc</ipv6>
+</content>
+<content id="6436212" includeTime="2023-10-18T23:55:03" entryType="1" hash="82FE7230E388EB59ABEFCBFC8EE475BF" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vulkan-deluxe-bonus.pw]]></domain>
+ <ip>185.154.15.226</ip>
+</content>
+<content id="6436213" includeTime="2023-10-18T23:55:03" entryType="1" hash="06435F838AABE22D3869715877C4E86E" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino-x260.ru]]></domain>
+ <ip>185.196.8.72</ip>
+</content>
+<content id="6436215" includeTime="2023-10-18T23:55:03" entryType="1" hash="769A221170603AA3C71BC3CC98632EC6" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eldoradocasino-fzp.top]]></domain>
+ <ip>104.21.62.198</ip>
+ <ip>172.67.138.194</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:8ac2</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3ec6</ipv6>
+</content>
+<content id="6436217" includeTime="2023-10-18T23:55:03" entryType="1" hash="19FF373DF5350E7F2E553C2F309236DB" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.admiralx-ohx.top]]></domain>
+ <ip>104.21.46.183</ip>
+ <ip>172.67.141.95</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:8d5f</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:2eb7</ipv6>
+</content>
+<content id="6436219" includeTime="2023-10-18T23:55:03" entryType="1" hash="86411B541C4DC71AE1855C57F01B019D" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[oren-sarmats.ru]]></domain>
+ <ip>104.21.7.112</ip>
+ <ip>172.67.130.49</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:8231</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:0770</ipv6>
+</content>
+<content id="6436222" includeTime="2023-10-18T23:55:03" entryType="1" hash="4D94B3C4F37AAA63477928A3F1DBD6AE" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vulkan-deluxe2.ru]]></domain>
+ <ip>104.21.1.116</ip>
+ <ip>172.67.152.56</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:9838</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:0174</ipv6>
+</content>
+<content id="6436224" includeTime="2023-10-18T23:55:03" entryType="1" hash="EBD67DE98D57A86005F0B390650D0BFC" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1win-ggg7.top]]></domain>
+ <ip>104.21.66.201</ip>
+ <ip>172.67.207.60</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:cf3c</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:42c9</ipv6>
+</content>
+<content id="6436227" includeTime="2023-10-18T23:55:03" entryType="1" hash="FD213A23503BFFFE30CA74CC9A4BAEC1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.joycasino-j63.top]]></domain>
+ <ip>104.21.22.97</ip>
+ <ip>172.67.204.41</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:1661</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:cc29</ipv6>
+</content>
+<content id="6436230" includeTime="2023-10-18T23:55:03" entryType="1" hash="F45016C2308CC0385E6D9ABAB30D7A9B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.izzicasino85.com]]></domain>
+ <ip>104.21.12.211</ip>
+ <ip>172.67.196.90</ip>
+</content>
+<content id="6436233" includeTime="2023-10-18T23:55:03" entryType="1" hash="4B3279A575B02FE54150BC412E55EA2A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1wrsts.xyz]]></domain>
+ <ip>190.115.24.78</ip>
+</content>
+<content id="6436235" includeTime="2023-10-18T23:55:03" entryType="1" hash="1E57468A48F954392246E4593615DBDD" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-jhi.top]]></domain>
+ <ip>104.21.94.246</ip>
+ <ip>172.67.141.248</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:5ef6</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:8df8</ipv6>
+</content>
+<content id="6436237" includeTime="2023-10-18T23:55:03" entryType="1" hash="E52E677E3F789AE8D2DFB2C32511CE10" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.46luckybirdcasino.com]]></domain>
+ <ip>181.214.1.140</ip>
+ <ip>181.214.1.150</ip>
+</content>
+<content id="6436239" includeTime="2023-10-18T23:55:03" entryType="1" hash="05EDC83FF22C2279158C8D05FC566D13" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino-rox.wiki]]></domain>
+ <ip>203.34.28.193</ip>
+ <ipv6>2a05:7880:0500:c932:f6af:3a38:fa83:5c31</ipv6>
+</content>
+<content id="6436240" includeTime="2023-10-18T23:55:03" entryType="1" hash="54025D3BD63D8DC83A04C8B0B0AD852E" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino7g.com]]></domain>
+ <ip>185.131.64.122</ip>
+</content>
+<content id="6436241" includeTime="2023-10-18T23:55:03" entryType="1" hash="657DC2DE46318C099161107810CE0545" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdom-cnw5.top]]></domain>
+ <ip>54.37.75.68</ip>
+ <ipv6>2001:41d0:0701:1100:0000:0000:0000:7f4d</ipv6>
+</content>
+<content id="6436242" includeTime="2023-10-18T23:55:03" entryType="1" hash="86965A965CFFBFBB44286BC042151372" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[ftsell.ru]]></domain>
+ <ip>104.21.37.141</ip>
+ <ip>172.67.209.41</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:258d</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:d129</ipv6>
+</content>
+<content id="6436243" includeTime="2023-10-18T23:55:03" entryType="1" hash="2DE0DBB5DFC5BFE53AAE336253036C3A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.freshcasino2049.com]]></domain>
+ <ip>104.21.5.92</ip>
+ <ip>172.67.133.63</ip>
+</content>
+<content id="6436246" includeTime="2023-10-18T23:55:03" entryType="1" hash="799DB8FBE4A323C3060E6520F703BCB1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eldoradocasino-rdo.top]]></domain>
+ <ip>104.21.46.146</ip>
+ <ip>172.67.140.50</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:8c32</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:2e92</ipv6>
+</content>
+<content id="6436247" includeTime="2023-10-18T23:55:03" entryType="1" hash="EF27A17D011697B61CBC94206829F3A3" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[maxbet-registration.pp.ru]]></domain>
+ <ip>185.206.215.225</ip>
+</content>
+<content id="6436248" includeTime="2023-10-18T23:55:03" entryType="1" hash="EEC95891AE4AC5BB86CBA139D37253F7" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.cok7pokerdom.com]]></domain>
+ <ip>193.148.245.183</ip>
+ <ipv6>2a0f:5680:0001:0007:0000:0000:0000:026b</ipv6>
+</content>
+<content id="6436249" includeTime="2023-10-18T23:55:03" entryType="1" hash="0875B1035BA46D4CE90D97F8B479DC56" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.admrylsk46.ru]]></domain>
+ <ip>104.21.54.196</ip>
+ <ip>172.67.141.93</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:36c4</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:8d5d</ipv6>
+</content>
+<content id="6436250" includeTime="2023-10-18T23:55:03" entryType="1" hash="F1BBE0F1E54A16D9FD885BCAEE54C90A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.rabochee-zerkalo-leonbet-i99y.xyz]]></domain>
+ <ip>104.21.90.205</ip>
+ <ip>172.67.161.42</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5acd</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:a12a</ipv6>
+</content>
+<content id="6436253" includeTime="2023-10-18T23:55:03" entryType="1" hash="54B72B5BE5543572D1D9B6A3A4C6B152" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.maxbet-casino-col.buzz]]></domain>
+ <ip>104.21.51.149</ip>
+ <ip>172.67.182.18</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:b612</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:3395</ipv6>
+</content>
+<content id="6436256" includeTime="2023-10-18T23:55:03" entryType="1" hash="C2F7AD5C15C06D0030B634C656EAA101" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.sol216.casino]]></domain>
+ <ip>104.21.5.149</ip>
+ <ip>172.67.154.184</ip>
+</content>
+<content id="6436257" includeTime="2023-10-18T23:55:03" entryType="1" hash="F1BFC8CB34DDA2F863A9DF0D9480C2D5" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[sykaaa-casino.net.ru]]></domain>
+ <ip>104.21.78.65</ip>
+ <ip>172.67.217.112</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4e41</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:d970</ipv6>
+</content>
+<content id="6436259" includeTime="2023-10-18T23:55:03" entryType="1" hash="964B96F35F818E74E9E2C05C653CC77C" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[up-svetlanovskiy.ru]]></domain>
+ <ip>104.21.71.26</ip>
+ <ip>172.67.142.109</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:8e6d</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:471a</ipv6>
+</content>
+<content id="6436260" includeTime="2023-10-18T23:55:03" entryType="1" hash="7CBAE89151DE8D9AE692616FE7D8548F" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-bgk.top]]></domain>
+ <ip>104.21.84.70</ip>
+ <ip>172.67.187.203</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:bbcb</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:5446</ipv6>
+</content>
+<content id="6436312" includeTime="2023-10-18T23:55:03" entryType="1" hash="D734372872CB1A760D4104A55CD44059" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdomgames.fun]]></domain>
+ <ip>104.21.51.252</ip>
+ <ip>172.67.192.132</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:33fc</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:c084</ipv6>
+</content>
+<content id="6436314" includeTime="2023-10-18T23:55:03" entryType="1" hash="69C60B0E22EEB05E3F3326189FC5DABF" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pin-up889.com]]></domain>
+ <ip>188.244.122.32</ip>
+</content>
+<content id="6436317" includeTime="2023-10-18T23:55:03" entryType="1" hash="E54A704A3A72A1B0677F4D2AE6AB4CD8" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1wincasino-play.pw]]></domain>
+ <ip>185.209.22.57</ip>
+</content>
+<content id="6436319" includeTime="2023-10-18T23:55:03" entryType="1" hash="BE2117A6916BE3509BB0F1D2B9EC57FA" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.leonbets-8jde.biz]]></domain>
+ <ip>104.21.77.127</ip>
+ <ip>172.67.207.239</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:cfef</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:4d7f</ipv6>
+</content>
+<content id="6436321" includeTime="2023-10-18T23:55:03" entryType="1" hash="EF33A1FA343E784EC8CAB0CE68171B98" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[play.aplaycasino-good.win]]></domain>
+ <ip>5.45.71.137</ip>
+</content>
+<content id="6436326" includeTime="2023-10-18T23:55:03" entryType="1" hash="1714E628236A1AF84655485B4059C0F1" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[robo-polis.com]]></domain>
+ <ip>104.21.41.16</ip>
+ <ip>172.67.141.101</ip>
+</content>
+<content id="6436328" includeTime="2023-10-18T23:55:03" entryType="1" hash="A91124FA11C83814FCABE6D1C550D176" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.maxbetslots-com-vx.buzz]]></domain>
+ <ip>104.21.24.181</ip>
+ <ip>172.67.219.225</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:dbe1</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:18b5</ipv6>
+</content>
+<content id="6436329" includeTime="2023-10-18T23:55:03" entryType="1" hash="24CC508DF15F468F95A91DE1DAB46BD1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdomcasinoofficial7.top]]></domain>
+ <ip>104.21.54.246</ip>
+ <ip>172.67.143.158</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:36f6</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:8f9e</ipv6>
+</content>
+<content id="6436331" includeTime="2023-10-18T23:55:03" entryType="1" hash="1EBD849877FBBDC615653313A07DA5A8" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino-leon-l7e8.lol]]></domain>
+ <ip>104.21.16.227</ip>
+ <ip>172.67.216.120</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:d878</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:10e3</ipv6>
+</content>
+<content id="6436332" includeTime="2023-10-18T23:55:03" entryType="1" hash="6175BC4460ED047FD2DF18D8A67E0FDD" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eldorado-casino-gwc.buzz]]></domain>
+ <ip>104.21.42.43</ip>
+ <ip>172.67.156.26</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:2a2b</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:9c1a</ipv6>
+</content>
+<content id="6436333" includeTime="2023-10-18T23:55:03" entryType="1" hash="CBCD3C1E9E610EB5EC27C27C3B92D862" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.leonbets-r72w.lol]]></domain>
+ <ip>104.21.34.124</ip>
+ <ip>172.67.205.4</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:227c</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:cd04</ipv6>
+</content>
+<content id="6436335" includeTime="2023-10-18T23:55:03" entryType="1" hash="9EDC33A65D763241694A5612D09042B8" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.selector224.gg]]></domain>
+ <ip>18.165.122.113</ip>
+ <ip>18.165.122.17</ip>
+ <ip>18.165.122.2</ip>
+ <ip>18.165.122.30</ip>
+</content>
+<content id="6436338" includeTime="2023-10-18T23:55:03" entryType="1" hash="35ABE946F65569A25EC32C70B2A8C337" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[v1.vulcan-game-spins.com]]></domain>
+ <ip>18.156.195.80</ip>
+</content>
+<content id="6436340" includeTime="2023-10-18T23:55:03" entryType="1" hash="6D76E62A45B43B96D5AF40E8039E4E54" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasinos-pro10.top]]></domain>
+ <ip>104.21.92.113</ip>
+ <ip>172.67.192.24</ip>
+</content>
+<content id="6436343" includeTime="2023-10-18T23:55:03" entryType="1" hash="47156D27CF773A47CFA96FDEDE33CD42" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1wkqbx.top]]></domain>
+ <ip>190.115.24.78</ip>
+</content>
+<content id="6436345" includeTime="2023-10-18T23:55:03" entryType="1" hash="03C2C2BA20CBBF8E88AF3B6EF907354D" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.generic-center.ru]]></domain>
+ <ip>5.45.87.181</ip>
+</content>
+<content id="6436348" includeTime="2023-10-18T23:55:03" entryType="1" hash="D0A2028806C1E7CD2DE1573706422B55" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1wtbco.top]]></domain>
+ <ip>190.115.24.78</ip>
+</content>
+<content id="6436350" includeTime="2023-10-18T23:55:03" entryType="1" hash="4E728CF879A617A234E9057468FE2606" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.ds-123.ru]]></domain>
+ <ip>104.21.74.104</ip>
+ <ip>172.67.157.50</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:4a68</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:9d32</ipv6>
+</content>
+<content id="6436352" includeTime="2023-10-18T23:55:03" entryType="1" hash="824E65464CE6BBCC6BC16AED362D927A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.daddycasinoofficial.ru]]></domain>
+ <ip>185.27.134.34</ip>
+</content>
+<content id="6436353" includeTime="2023-10-18T23:55:03" entryType="1" hash="B5A296C1887283F3CD8C87CD2B5C0A21" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.freshcasino374.com]]></domain>
+ <ip>104.21.51.24</ip>
+ <ip>172.67.219.38</ip>
+</content>
+<content id="6436354" includeTime="2023-10-18T23:55:03" entryType="1" hash="B016B66917D1CA2E966EE7C655D6BA62" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.daddycasino652.com]]></domain>
+ <ip>45.195.62.137</ip>
+</content>
+<content id="6436355" includeTime="2023-10-18T23:55:03" entryType="1" hash="B5016E9D925381706EF79CD5FFFD21CB" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.admiralx-eru.ru]]></domain>
+ <ip>104.21.89.15</ip>
+ <ip>172.67.155.132</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:590f</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:9b84</ipv6>
+</content>
+<content id="6436356" includeTime="2023-10-18T23:55:03" entryType="1" hash="6D4DB194BF0F75C6280C0FA5773B3597" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-ed13.top]]></domain>
+ <ip>104.21.2.180</ip>
+ <ip>172.67.129.135</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:8187</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:02b4</ipv6>
+</content>
+<content id="6436357" includeTime="2023-10-18T23:55:03" entryType="1" hash="22283F35065CA53B8427D2A5F8A9AA3B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.uj7pokerdom237.win]]></domain>
+ <ip>104.21.61.59</ip>
+ <ip>172.67.206.185</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:ceb9</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:3d3b</ipv6>
+</content>
+<content id="6436358" includeTime="2023-10-18T23:55:03" entryType="1" hash="09CE041F0C96B992B7097427C454D07A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.admiralxgamesvip.ru]]></domain>
+ <ip>104.21.49.146</ip>
+ <ip>172.67.163.171</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:a3ab</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:3192</ipv6>
+</content>
+<content id="6436359" includeTime="2023-10-18T23:55:03" entryType="1" hash="95E37A939E0B2AF5BCFCC2EAD442E310" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1win-official-new-g.xyz]]></domain>
+ <ip>104.21.85.94</ip>
+ <ip>172.67.204.64</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:cc40</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:555e</ipv6>
+</content>
+<content id="6436360" includeTime="2023-10-18T23:55:03" entryType="1" hash="F7BFB7E99941D5A4306EED921A803FEA" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[casino-pokerdom.pp.ru]]></domain>
+ <ip>185.51.247.244</ip>
+</content>
+<content id="6436361" includeTime="2023-10-18T23:55:03" entryType="1" hash="63FCE3ED7BA3443686DB7D5FC6333D33" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[vulcanscazino.pp.ru]]></domain>
+ <ip>104.21.57.179</ip>
+ <ip>172.67.165.69</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:a545</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:39b3</ipv6>
+</content>
+<content id="6436362" includeTime="2023-10-18T23:55:03" entryType="1" hash="EED9FAD5193E2445A85DC543B2341BA0" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.admiralx-wye.top]]></domain>
+ <ip>104.21.36.200</ip>
+ <ip>172.67.199.71</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:24c8</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:c747</ipv6>
+</content>
+<content id="6436363" includeTime="2023-10-18T23:55:03" entryType="1" hash="92AFB81AA082BFC94F7C154FE1B35B9B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.leonbets-6foz.buzz]]></domain>
+ <ip>104.21.1.32</ip>
+ <ip>172.67.186.118</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:0120</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:ba76</ipv6>
+</content>
+<content id="6436364" includeTime="2023-10-18T23:55:03" entryType="1" hash="E75F1BCD3F9681C1E831EBDE9C037226" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.maxbetslotscasino16.top]]></domain>
+ <ip>104.21.78.216</ip>
+ <ip>172.67.137.163</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:4ed8</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:89a3</ipv6>
+</content>
+<content id="6436368" includeTime="2023-10-18T23:55:03" entryType="1" hash="1EF648995C26A99C8DC2052291E6DCB6" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasino-ter.top]]></domain>
+ <ip>104.21.79.88</ip>
+ <ip>172.67.169.108</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:4f58</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:a96c</ipv6>
+</content>
+<content id="6436369" includeTime="2023-10-18T23:55:03" entryType="1" hash="06C8A713CB4D3849B672113C17AAFE73" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1win-fff-official23.top]]></domain>
+ <ip>104.21.58.142</ip>
+ <ip>172.67.160.91</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:3a8e</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:a05b</ipv6>
+</content>
+<content id="6436370" includeTime="2023-10-18T23:55:03" entryType="1" hash="BFC0F1308F99A75D6FACF58E53EEC86C" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.fresh-kazino.ru]]></domain>
+ <ip>64.227.76.234</ip>
+ <ipv6>2a03:b0c0:0002:00d0:0000:0000:15f5:3001</ipv6>
+</content>
+<content id="6436371" includeTime="2023-10-18T23:55:03" entryType="1" hash="93BF7E474B43F614C7C5DE5173C2E8D5" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.plusvulkan-8492.ru]]></domain>
+ <ip>185.196.8.72</ip>
+</content>
+<content id="6436372" includeTime="2023-10-18T23:55:03" entryType="1" hash="FAE0BEAAD69B675D77378383B928A9FE" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[belgym22.ru]]></domain>
+ <ip>104.21.49.148</ip>
+ <ip>172.67.163.242</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a3f2</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:3194</ipv6>
+</content>
+<content id="6436411" includeTime="2023-10-18T23:55:03" entryType="1" hash="C836D47919E7E653F1C684C88BD645CE" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.gamacasino873.com]]></domain>
+ <ip>45.195.62.74</ip>
+</content>
+<content id="6436422" includeTime="2023-10-18T23:55:03" entryType="1" hash="3F2F89A5F26D9B1C087416B2911AD772" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.mostbet-wcc6.top]]></domain>
+ <ip>104.21.6.114</ip>
+ <ip>172.67.134.195</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:86c3</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:0672</ipv6>
+</content>
+<content id="6436424" includeTime="2023-10-18T23:55:03" entryType="1" hash="4C03AE2B356D0AF56278042276CA234C" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.max-bet9.top]]></domain>
+ <ip>104.21.95.9</ip>
+ <ip>172.67.142.124</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:8e7c</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:5f09</ipv6>
+</content>
+<content id="6436428" includeTime="2023-10-18T23:55:03" entryType="1" hash="47F583F900ECB584F336A6DE16B0AE89" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vulkan-24-official.ru]]></domain>
+ <ip>185.196.8.72</ip>
+</content>
+<content id="6436430" includeTime="2023-10-18T23:55:03" entryType="1" hash="6F89DE0A44214C7CCA3B985A5EA4F409" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.sykaaa-kasino.fun]]></domain>
+ <ip>104.21.57.37</ip>
+ <ip>172.67.188.240</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:bcf0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:3925</ipv6>
+</content>
+<content id="6436435" includeTime="2023-10-18T23:55:03" entryType="1" hash="173C64051F46A7808F4E0405B1DF792E" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.melbet-bigu.sbs]]></domain>
+ <ip>104.21.84.187</ip>
+ <ip>172.67.195.185</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:c3b9</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:54bb</ipv6>
+</content>
+<content id="6436436" includeTime="2023-10-18T23:55:03" entryType="1" hash="B5064165D3D2C954E4AFBE8EFF481C44" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.play-cat-club.press]]></domain>
+ <ip>104.21.52.142</ip>
+ <ip>172.67.200.76</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:c84c</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:348e</ipv6>
+</content>
+<content id="6436437" includeTime="2023-10-18T23:55:03" entryType="1" hash="DEBA1D01F70C2E539BD19F7C6E4D300A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino7.fun]]></domain>
+ <ip>185.104.45.199</ip>
+</content>
+<content id="6436439" includeTime="2023-10-18T23:55:03" entryType="1" hash="B2FA94DE85890806EFDD238DB43FC581" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-ec14.top]]></domain>
+ <ip>104.21.29.4</ip>
+ <ip>172.67.171.54</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:1d04</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:ab36</ipv6>
+</content>
+<content id="6436441" includeTime="2023-10-18T23:55:03" entryType="1" hash="582DB4142162D25E47C16A11BCC805A6" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.admiralx-ksc.top]]></domain>
+ <ip>104.21.49.88</ip>
+ <ip>172.67.189.110</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3158</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:bd6e</ipv6>
+</content>
+<content id="6436442" includeTime="2023-10-18T23:55:03" entryType="1" hash="1A1BC220693DB0004CF7DA6AF145C7CF" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.riskmap76.top]]></domain>
+ <ip>104.21.6.43</ip>
+ <ip>172.67.154.231</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:062b</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9ae7</ipv6>
+</content>
+<content id="6436444" includeTime="2023-10-18T23:55:03" entryType="1" hash="5190081E7AC32D6E8E6E99F439CD0C33" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.maxbet-cazino-mf.buzz]]></domain>
+ <ip>104.21.45.202</ip>
+ <ip>172.67.218.187</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:2dca</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:dabb</ipv6>
+</content>
+<content id="6436447" includeTime="2023-10-18T23:55:03" entryType="1" hash="211112C7A08F870C33DA9FE2DDA9050F" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.drgn-money-online.ru]]></domain>
+ <ip>104.21.66.78</ip>
+ <ip>172.67.157.130</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:424e</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:9d82</ipv6>
+</content>
+<content id="6436449" includeTime="2023-10-18T23:55:03" entryType="1" hash="A79658EF8DB9AA2C19F6B552D6AB2712" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-ei21.top]]></domain>
+ <ip>104.21.27.38</ip>
+ <ip>172.67.168.224</ip>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:1b26</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:a8e0</ipv6>
+</content>
+<content id="6436452" includeTime="2023-10-18T23:55:03" entryType="1" hash="8E7FB005123AE57BE09E5A478BDF2977" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.joycasino-i21.top]]></domain>
+ <ip>104.21.12.233</ip>
+ <ip>172.67.153.227</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:99e3</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:0ce9</ipv6>
+</content>
+<content id="6436455" includeTime="2023-10-18T23:55:03" entryType="1" hash="68560AE73E4A567149A2DED797D487A1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.gaminglewa.xyz]]></domain>
+ <ip>134.209.246.234</ip>
+ <ipv6>2a03:b0c0:0003:00d0:0000:0000:0eeb:a001</ipv6>
+</content>
+<content id="6436458" includeTime="2023-10-18T23:55:03" entryType="1" hash="9ADB012D02B3B428E9D3FE861DCCEB94" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1wvseo.top]]></domain>
+ <ip>190.115.24.78</ip>
+</content>
+<content id="6436460" includeTime="2023-10-18T23:55:03" entryType="1" hash="B17A92C3DACB3D017B6D2EED626144BA" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-lco.top]]></domain>
+ <ip>104.21.21.123</ip>
+ <ip>172.67.198.156</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:157b</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:c69c</ipv6>
+</content>
+<content id="6436462" includeTime="2023-10-18T23:55:03" entryType="1" hash="603EB687EE215D9CFB111ED596BDF382" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.7731.info]]></domain>
+ <ip>139.162.217.80</ip>
+</content>
+<content id="6436463" includeTime="2023-10-18T23:55:03" entryType="1" hash="924DE2EB86AB0247E3A440A6ABA8409D" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eldorado-casino-eqp.buzz]]></domain>
+ <ip>104.21.56.31</ip>
+ <ip>172.67.176.28</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:b01c</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:381f</ipv6>
+</content>
+<content id="6436464" includeTime="2023-10-18T23:55:03" entryType="1" hash="158717E116E9661EB4E0B08C01BFD6EF" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino-x1298.com]]></domain>
+ <ip>89.47.56.190</ip>
+</content>
+<content id="6436465" includeTime="2023-10-18T23:55:03" entryType="1" hash="FB46F953F3063DF6167F3F0EFDEF0F76" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1win-play-free.shop]]></domain>
+ <ip>185.209.22.57</ip>
+</content>
+<content id="6436466" includeTime="2023-10-18T23:55:03" entryType="1" hash="E8269C4498FEE270E6B8076401571DD1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino7-nrl.top]]></domain>
+ <ip>104.21.8.34</ip>
+ <ip>172.67.156.190</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:0822</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9cbe</ipv6>
+</content>
+<content id="6436467" includeTime="2023-10-18T23:55:03" entryType="1" hash="ABB124FF9C54D289ABC2C774BA4BCF1C" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-caa5.top]]></domain>
+ <ip>104.21.37.190</ip>
+ <ip>172.67.212.108</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:25be</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:d46c</ipv6>
+</content>
+<content id="6436468" includeTime="2023-10-18T23:55:03" entryType="1" hash="A48E03D89214E0D1B5962EF464490FE2" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.fresh336.casino]]></domain>
+ <ip>104.21.24.218</ip>
+ <ip>172.67.220.218</ip>
+</content>
+<content id="6436469" includeTime="2023-10-18T23:55:03" entryType="1" hash="C62071AF98E0E8CC94038DF955C0179D" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[vulcan-24-roulette.org.ru]]></domain>
+ <ip>45.88.105.134</ip>
+</content>
+<content id="6436470" includeTime="2023-10-18T23:55:03" entryType="1" hash="04866BB3C576F2D650451BBEBCA20D82" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1-win-slotz.store]]></domain>
+ <ip>80.89.235.148</ip>
+</content>
+<content id="6436471" includeTime="2023-10-18T23:55:03" entryType="1" hash="67F3067CFC156371C495E1DF598B0901" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vulcan24-zerkalo.space]]></domain>
+ <ip>80.89.235.148</ip>
+</content>
+<content id="6436473" includeTime="2023-10-18T23:55:03" entryType="1" hash="18B4EA8DE2F4B3AD554336D77FBB700A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.melbet-casinos.store]]></domain>
+ <ip>45.82.71.14</ip>
+</content>
+<content id="6436474" includeTime="2023-10-18T23:55:03" entryType="1" hash="61D2D9BAE002D2E955CDEB891E4F4FA0" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.7k-casino-006.ru]]></domain>
+ <ip>104.21.78.137</ip>
+ <ip>172.67.222.105</ip>
+</content>
+<content id="6436477" includeTime="2023-10-18T23:55:03" entryType="1" hash="89E48A766C355D3B3920E73D22AD39DC" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino-maxbet-mx.buzz]]></domain>
+ <ip>104.21.81.86</ip>
+ <ip>172.67.158.177</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:5156</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9eb1</ipv6>
+</content>
+<content id="6436479" includeTime="2023-10-18T23:55:03" entryType="1" hash="8DF2C96C18DFCB926FB4F8A2AC3C901F" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.leonbets-casino8200.xyz]]></domain>
+ <ip>104.21.73.113</ip>
+ <ip>172.67.144.179</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4971</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:90b3</ipv6>
+</content>
+<content id="6436483" includeTime="2023-10-18T23:55:03" entryType="1" hash="2792E15C319C848B71C0D7723280EBE3" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasino-sjd3.top]]></domain>
+ <ip>104.21.83.74</ip>
+ <ip>172.67.217.137</ip>
+</content>
+<content id="6436484" includeTime="2023-10-18T23:55:03" entryType="1" hash="846095461978F5F84DF159F00916690A" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[sykaaa-casino.com.ru]]></domain>
+ <ip>104.21.8.59</ip>
+ <ip>172.67.138.154</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:083b</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:8a9a</ipv6>
+</content>
+<content id="6436485" includeTime="2023-10-18T23:55:03" entryType="1" hash="888A44E170C3AA6927FEC6786E17A25A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdommirror.site]]></domain>
+ <ip>104.21.62.72</ip>
+ <ip>172.67.221.18</ip>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:3e48</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:dd12</ipv6>
+</content>
+<content id="6436486" includeTime="2023-10-18T23:55:03" entryType="1" hash="C1DF2E7A36B7DC3A2B2760495D6B9165" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasino568.com]]></domain>
+ <ip>104.21.15.80</ip>
+ <ip>172.67.161.245</ip>
+</content>
+<content id="6436519" includeTime="2023-10-18T23:55:03" entryType="1" hash="CEC91BF1CAE90D9B24528FA1F1610F15" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.29bez-depov.site]]></domain>
+ <ip>104.21.73.98</ip>
+ <ip>172.67.160.233</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:a0e9</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:4962</ipv6>
+</content>
+<content id="6436535" includeTime="2023-10-18T23:55:03" entryType="1" hash="A00C9E3CE0415EBE8F338C59165C0769" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.bukmekerskaya-kontora-leon-registratsiya-7yh6.buzz]]></domain>
+ <ip>104.21.85.203</ip>
+ <ip>172.67.210.55</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:55cb</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:d237</ipv6>
+</content>
+<content id="6436537" includeTime="2023-10-18T23:55:03" entryType="1" hash="DE4E04BEB8D931F04C5EE23605BA3C04" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.daddycasino48.com]]></domain>
+ <ip>104.21.26.144</ip>
+ <ip>172.67.136.129</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:8881</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:1a90</ipv6>
+</content>
+<content id="6436540" includeTime="2023-10-18T23:55:03" entryType="1" hash="D9C1B3B530A7718A0A5BECB1E3EDAAE1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.ua-01.com]]></domain>
+ <ip>104.21.13.6</ip>
+ <ip>172.67.154.20</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:9a14</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:0d06</ipv6>
+</content>
+<content id="6436542" includeTime="2023-10-18T23:55:03" entryType="1" hash="7263224684FD7AE7118ED6077BCA1A90" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.turbo-casino.onl]]></domain>
+ <ip>108.156.22.124</ip>
+ <ip>108.156.22.21</ip>
+ <ip>108.156.22.24</ip>
+ <ip>108.156.22.48</ip>
+</content>
+<content id="6436544" includeTime="2023-10-18T23:55:03" entryType="1" hash="0B5F351AB037CAB84ECDEC9E5667BF99" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-388.buzz]]></domain>
+ <ip>104.21.65.7</ip>
+ <ip>172.67.138.177</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:8ab1</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:4107</ipv6>
+</content>
+<content id="6436552" includeTime="2023-10-18T23:55:03" entryType="1" hash="D57762871C69EC1EE9B28E5CACE2FBD7" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.freshcasino-exp20.top]]></domain>
+ <ip>104.21.61.98</ip>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="6436554" includeTime="2023-10-18T23:55:03" entryType="1" hash="FA26E0541E7E4AE58ECDF75BBAB1271C" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[method.place]]></domain>
+ <ip>45.147.197.234</ip>
+</content>
+<content id="6436556" includeTime="2023-10-18T23:55:03" entryType="1" hash="AFAE5BD1CFF6264FEB7A653C480E1BC0" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.rox-sosrzd30.top]]></domain>
+ <ip>104.21.59.177</ip>
+ <ip>172.67.182.6</ip>
+</content>
+<content id="6436557" includeTime="2023-10-18T23:55:03" entryType="1" hash="D845AF7336B2066444EB04CBB0FB8633" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdomgame.fun]]></domain>
+ <ip>104.21.80.92</ip>
+ <ip>172.67.176.164</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:505c</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:b0a4</ipv6>
+</content>
+<content id="6436558" includeTime="2023-10-18T23:55:03" entryType="1" hash="7F06E4BBF610B6D56B9051AD3F2D05AF" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.maxbet-casino-fx.buzz]]></domain>
+ <ip>104.21.4.3</ip>
+ <ip>172.67.131.105</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:8369</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:0403</ipv6>
+</content>
+<content id="6436560" includeTime="2023-10-18T23:55:03" entryType="1" hash="89EB9D5079BA9099E8B2AAC1E2E6CAE1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.maxbet-casino-zxx.buzz]]></domain>
+ <ip>104.21.25.131</ip>
+ <ip>172.67.134.65</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:1983</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:8641</ipv6>
+</content>
+<content id="6436563" includeTime="2023-10-18T23:55:03" entryType="1" hash="F4C3A01C7020F910249004A97832D38E" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.freshcasino-fur.buzz]]></domain>
+ <ip>104.21.18.197</ip>
+ <ip>172.67.183.78</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:b74e</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:12c5</ipv6>
+</content>
+<content id="6436565" includeTime="2023-10-18T23:55:03" entryType="1" hash="153F89010C8BD5FE09013B6C2AA2DE2D" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.jozzlg16.com]]></domain>
+ <ip>165.227.131.82</ip>
+ <ip>172.255.248.61</ip>
+</content>
+<content id="6436568" includeTime="2023-10-18T23:55:03" entryType="1" hash="AB25BB8021FC5877A85C79FC8A51495A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1wqvsk.xyz]]></domain>
+ <ip>190.115.24.78</ip>
+</content>
+<content id="6436571" includeTime="2023-10-18T23:55:03" entryType="1" hash="CE76ECA30F743B902C0720AAD999AB2E" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.fresh-punk-ru.top]]></domain>
+ <ip>104.21.30.112</ip>
+ <ip>172.67.172.221</ip>
+</content>
+<content id="6436574" includeTime="2023-10-18T23:55:03" entryType="1" hash="1ED8E74F76103A4E872A7D31A756B445" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eldocwin.com]]></domain>
+ <ip>167.99.36.139</ip>
+ <ipv6>2a03:b0c0:0002:00d0:0000:0000:1011:a001</ipv6>
+</content>
+<content id="6436576" includeTime="2023-10-18T23:55:03" entryType="1" hash="EFAA0F4B2CB2130A99CB61CAB0151CD8" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-ncv.top]]></domain>
+ <ip>104.21.56.229</ip>
+ <ip>172.67.137.171</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:38e5</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:89ab</ipv6>
+</content>
+<content id="6436578" includeTime="2023-10-18T23:55:03" entryType="1" hash="81A30F33046F36E4971CD4EF56775486" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.7sfwtnus0ixl33.live]]></domain>
+ <ip>193.148.245.90</ip>
+</content>
+<content id="6436579" includeTime="2023-10-18T23:55:03" entryType="1" hash="B1C33AB5880AF1B767369EECC24E33E0" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.leon-aktualnoe-zerkalo-gb4i.xyz]]></domain>
+ <ip>104.21.93.254</ip>
+ <ip>172.67.217.99</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:5dfe</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:d963</ipv6>
+</content>
+<content id="6436580" includeTime="2023-10-18T23:55:03" entryType="1" hash="316273EC782A0BBCBEC77E933903A902" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.cat-casino-play521.ru]]></domain>
+ <ip>104.21.69.57</ip>
+ <ip>172.67.204.235</ip>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:4539</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:cceb</ipv6>
+</content>
+<content id="6436581" includeTime="2023-10-18T23:55:03" entryType="1" hash="EC9A2EC4575EB5643920AD7B09731847" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eldoradocasino-hsi.top]]></domain>
+ <ip>104.21.37.227</ip>
+ <ip>172.67.214.170</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:d6aa</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:25e3</ipv6>
+</content>
+<content id="6436582" includeTime="2023-10-18T23:55:03" entryType="1" hash="0C0432A9687DA4F4BBDED86E5A3A18EE" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[vulkan-platinum-play.net.ru]]></domain>
+ <ip>185.209.22.62</ip>
+</content>
+<content id="6436583" includeTime="2023-10-18T23:55:03" entryType="1" hash="3EE52C77F03A5DD8C47E29E8E8B98F6B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1win-asd17.top]]></domain>
+ <ip>104.21.55.57</ip>
+ <ip>172.67.145.56</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:9138</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:3739</ipv6>
+</content>
+<content id="6436584" includeTime="2023-10-18T23:55:03" entryType="1" hash="1BCBDA934488F5B485FB8C6CEAF21BC3" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.leon-bk12.xyz]]></domain>
+ <ip>104.21.60.74</ip>
+ <ip>172.67.193.218</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:c1da</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:3c4a</ipv6>
+</content>
+<content id="6436585" includeTime="2023-10-18T23:55:03" entryType="1" hash="21A08AACA61DEDA4AAFF690781A39A31" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.fresh338.casino]]></domain>
+ <ip>104.21.19.26</ip>
+ <ip>172.67.184.231</ip>
+</content>
+<content id="6436586" includeTime="2023-10-18T23:55:03" entryType="1" hash="FFC08F6036C63CD0F02E696478A1A9A9" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdom-spin3.fun]]></domain>
+ <ip>45.147.197.165</ip>
+</content>
+<content id="6436588" includeTime="2023-10-18T23:55:03" entryType="1" hash="2C963CE228E48CDDD0FBD2D046E67C6B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdommirror.fun]]></domain>
+ <ip>104.21.34.232</ip>
+ <ip>172.67.210.22</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:22e8</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:d216</ipv6>
+</content>
+<content id="6436590" includeTime="2023-10-18T23:55:03" entryType="1" hash="EAA32936804E76E6D8C74050BCADDB36" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdom-12.online]]></domain>
+ <ip>104.21.4.66</ip>
+ <ip>172.67.154.16</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:0442</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9a10</ipv6>
+</content>
+<content id="6436592" includeTime="2023-10-18T23:55:03" entryType="1" hash="8C964343E2C91150D933DE3F575D4DBD" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.aktualnoe-zerkalo-bk-leon-i3f4.xyz]]></domain>
+ <ip>104.21.11.65</ip>
+ <ip>172.67.165.82</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:a552</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:0b41</ipv6>
+</content>
+<content id="6436594" includeTime="2023-10-18T23:55:03" entryType="1" hash="C18D363ACC5E9E00560A6BF6091EBC6E" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.sol-rf2.top]]></domain>
+ <ip>104.21.59.108</ip>
+ <ip>172.67.223.132</ip>
+</content>
+<content id="6436596" includeTime="2023-10-18T23:55:03" entryType="1" hash="4054FD9E63547DFB57337F4FD986AC3B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasinoofficial-site2.win]]></domain>
+ <ip>104.21.70.20</ip>
+ <ip>172.67.217.239</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:4614</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:d9ef</ipv6>
+</content>
+<content id="6436597" includeTime="2023-10-18T23:55:03" entryType="1" hash="FEA07DA7FF522B6408CA4F67FE80A2D9" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eldorado-casino-qgm.buzz]]></domain>
+ <ip>104.21.51.78</ip>
+ <ip>172.67.177.98</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:334e</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b162</ipv6>
+</content>
+<content id="6436598" includeTime="2023-10-18T23:55:03" entryType="1" hash="CAE26C492509CD50AC86BA8C3E05C71B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.maxbet-slots-lw.buzz]]></domain>
+ <ip>104.21.72.194</ip>
+ <ip>172.67.154.140</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:48c2</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:9a8c</ipv6>
+</content>
+<content id="6436625" includeTime="2023-10-18T23:55:03" entryType="1" hash="2AA138F5FCED94DA6226B7E6DB3FA6A4" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.cazinowinmoney.ru]]></domain>
+ <ip>104.21.5.134</ip>
+ <ip>172.67.133.125</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:0586</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:857d</ipv6>
+</content>
+<content id="6436649" includeTime="2023-10-18T23:55:03" entryType="1" hash="603CDC6939485309E2E9F25EA8464E9B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdom-cm7.xyz]]></domain>
+ <ip>199.59.243.225</ip>
+</content>
+<content id="6436651" includeTime="2023-10-18T23:55:03" entryType="1" hash="08CAF5B6E8BA5100F2094BD9ED5CA04D" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino-x5551.win]]></domain>
+ <ip>104.21.95.112</ip>
+ <ip>172.67.144.166</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5f70</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:90a6</ipv6>
+</content>
+<content id="6436654" includeTime="2023-10-18T23:55:03" entryType="1" hash="959193A7C9385BEC70F23A41958ED6A4" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.azartplay-casino-28.top]]></domain>
+ <ip>104.21.81.64</ip>
+ <ip>172.67.157.105</ip>
+</content>
+<content id="6436656" includeTime="2023-10-18T23:55:03" entryType="1" hash="C628131C188523E920E4C9701A6EF082" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[tangosquare.kz]]></domain>
+ <ip>104.21.0.135</ip>
+ <ip>172.67.150.254</ip>
+</content>
+<content id="6436662" includeTime="2023-10-18T23:55:03" entryType="1" hash="15400E42346F5EBF7D15EDB3EC42D8AD" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxkazinokz8.com]]></domain>
+ <ip>104.21.12.43</ip>
+ <ip>172.67.151.161</ip>
+</content>
+<content id="6436663" includeTime="2023-10-18T23:55:03" entryType="1" hash="7E331535769243BD2B8C45F67A81EC45" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[leadersawards.ru]]></domain>
+ <ip>104.21.55.242</ip>
+ <ip>172.67.174.118</ip>
+</content>
+<content id="6436664" includeTime="2023-10-18T23:55:03" entryType="1" hash="60D26E61735ECFAA853E89D9A93784D3" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-20.top]]></domain>
+ <ip>104.21.89.248</ip>
+ <ip>172.67.166.47</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:59f8</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:a62f</ipv6>
+</content>
+<content id="6436666" includeTime="2023-10-18T23:55:03" entryType="1" hash="6A73A763924BBDE760FED3C06E25C9BE" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eldoradocasino-hkw.top]]></domain>
+ <ip>104.21.33.178</ip>
+ <ip>172.67.147.173</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:21b2</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:93ad</ipv6>
+</content>
+<content id="6436667" includeTime="2023-10-18T23:55:03" entryType="1" hash="98E053D2008A47737C114836DDE88178" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.17-casino-x-com.ru]]></domain>
+ <ip>185.196.8.72</ip>
+</content>
+<content id="6436668" includeTime="2023-10-18T23:55:03" entryType="1" hash="D80FAC9A3BB1820B3DB6F2D119D46131" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslotszerkalo.xyz]]></domain>
+ <ip>104.21.32.125</ip>
+ <ip>172.67.151.247</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:97f7</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:207d</ipv6>
+</content>
+<content id="6436670" includeTime="2023-10-18T23:55:03" entryType="1" hash="4B430ACDFC4C72D184D41DE12746132F" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.zerkalo-leonbets-gfpk.buzz]]></domain>
+ <ip>104.21.39.173</ip>
+ <ip>172.67.147.100</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:27ad</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:9364</ipv6>
+</content>
+<content id="6436673" includeTime="2023-10-18T23:55:03" entryType="1" hash="AD7F44FEC8F5E4F400C49987D9E487BD" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.faraday-protocol4.com]]></domain>
+ <ip>104.21.83.207</ip>
+ <ip>172.67.181.78</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:53cf</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:b54e</ipv6>
+</content>
+<content id="6436676" includeTime="2023-10-18T23:55:03" entryType="1" hash="959B8A1400915DB63CD88F5ECF46C479" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eldoradocasino-kex.top]]></domain>
+ <ip>104.21.84.199</ip>
+ <ip>172.67.196.149</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:54c7</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:c495</ipv6>
+</content>
+<content id="6436678" includeTime="2023-10-18T23:55:03" entryType="1" hash="30A8329BD30377265B1FDF985281F57A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vulkan-platinum-bonuses.space]]></domain>
+ <ip>80.89.235.147</ip>
+</content>
+<content id="6436681" includeTime="2023-10-18T23:55:03" entryType="1" hash="F5104036EB90C4210AE485CAC2684D36" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.jetcasino-sky2.top]]></domain>
+ <ip>104.21.72.231</ip>
+ <ip>172.67.155.170</ip>
+</content>
+<content id="6436684" includeTime="2023-10-18T23:55:03" entryType="1" hash="1E656EE33008076A5CDB4C6B8E73C4C8" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.fresh-casino-can.top]]></domain>
+ <ip>104.21.41.40</ip>
+ <ip>172.67.142.85</ip>
+</content>
+<content id="6436686" includeTime="2023-10-18T23:55:03" entryType="1" hash="D7E76F79A5F4953748DF3D67352E7477" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslotcasinozerkalo.ru]]></domain>
+ <ip>195.54.174.133</ip>
+</content>
+<content id="6436688" includeTime="2023-10-18T23:55:03" entryType="1" hash="1AE64723566EC5F8371218EFD0E6E4A3" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.dripcasinolet.com]]></domain>
+ <ip>104.21.56.214</ip>
+ <ip>172.67.156.7</ip>
+</content>
+<content id="6436690" includeTime="2023-10-18T23:55:03" entryType="1" hash="CE35A8F5CCAC5D9781631E72444ABD04" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.82supercatcasino.com]]></domain>
+ <ip>181.214.1.140</ip>
+ <ip>181.214.1.150</ip>
+</content>
+<content id="6436691" includeTime="2023-10-18T23:55:03" entryType="1" hash="062FF54488939312C5A02E58FB3B00E7" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[vulkan-casino-registration.pp.ru]]></domain>
+ <ip>104.21.45.142</ip>
+ <ip>172.67.215.49</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:d731</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:2d8e</ipv6>
+</content>
+<content id="6436692" includeTime="2023-10-18T23:55:03" entryType="1" hash="8B4B609FCFAD82A4013FFDDC75C93C5F" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.daddy1.casino]]></domain>
+ <ip>104.21.91.142</ip>
+ <ip>172.67.222.21</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:de15</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:5b8e</ipv6>
+</content>
+<content id="6436693" includeTime="2023-10-18T23:55:03" entryType="1" hash="F0262EF3496AED3F8413938C4F34E1C5" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.mostbet-2023-1.ru]]></domain>
+ <ip>104.21.18.245</ip>
+ <ip>172.67.183.244</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:b7f4</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:12f5</ipv6>
+</content>
+<content id="6436694" includeTime="2023-10-18T23:55:03" entryType="1" hash="09BAFDB74594C2EBF69F95C999F096D7" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.maxbet-cazino17.top]]></domain>
+ <ip>104.21.6.12</ip>
+ <ip>172.67.134.37</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:8625</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:060c</ipv6>
+</content>
+<content id="6436695" includeTime="2023-10-18T23:55:03" entryType="1" hash="2A2184679434815F39E42A495FCE0907" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.fresh-casinoz-official.store]]></domain>
+ <ip>212.86.114.118</ip>
+</content>
+<content id="6436696" includeTime="2023-10-18T23:55:03" entryType="1" hash="57A594B6434296CAD02DE3DF7CF91DE8" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdom10.site]]></domain>
+ <ip>104.21.49.240</ip>
+ <ip>172.67.195.214</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:c3d6</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:31f0</ipv6>
+</content>
+<content id="6436698" includeTime="2023-10-18T23:55:03" entryType="1" hash="56D656DEC7FF64DF22C1F508BCF05D73" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[mostbet-cazinos.org.ru]]></domain>
+ <ip>80.89.235.232</ip>
+</content>
+<content id="6436699" includeTime="2023-10-18T23:55:03" entryType="1" hash="D21052D5DDBFF2999D07BD87F2725A44" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casinos-imperator.space]]></domain>
+ <ip>45.82.71.14</ip>
+</content>
+<content id="6436701" includeTime="2023-10-18T23:55:03" entryType="1" hash="0D1AE28094EF70BEBF49598D3860A57C" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdom-premium.ru]]></domain>
+ <ip>185.196.8.72</ip>
+</content>
+<content id="6436702" includeTime="2023-10-18T23:55:03" entryType="1" hash="F0F05A4D29E9087B43119EB117ED4F5B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasinoignat16.top]]></domain>
+ <ip>104.21.48.253</ip>
+ <ip>172.67.139.224</ip>
+</content>
+<content id="6436706" includeTime="2023-10-18T23:55:03" entryType="1" hash="598A0021FC3C283A7B3839310DE0CA54" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.solcasino-open.top]]></domain>
+ <ip>104.21.52.23</ip>
+ <ip>172.67.194.78</ip>
+</content>
+<content id="6436707" includeTime="2023-10-18T23:55:03" entryType="1" hash="96A9A722C466E308C57A7A8C9BD3B5A2" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.azartplay-casino.pw]]></domain>
+ <ip>199.59.243.225</ip>
+</content>
+<content id="6436709" includeTime="2023-10-18T23:55:03" entryType="1" hash="4609F758D4996CC50AE883D203D62CF7" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pokerdom-12.site]]></domain>
+ <ip>104.21.29.62</ip>
+ <ip>172.67.148.131</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:9483</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:1d3e</ipv6>
+</content>
+<content id="6436710" includeTime="2023-10-18T23:55:03" entryType="1" hash="33ED73FA52575AEB61F65944298746FD" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxorion2.top]]></domain>
+ <ip>104.21.39.76</ip>
+ <ip>172.67.143.199</ip>
+</content>
+<content id="6436711" includeTime="2023-10-18T23:55:03" entryType="1" hash="C6741614DA601260A24B7B8BF8A87E18" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino-azartplay.store]]></domain>
+ <ip>45.82.68.15</ip>
+</content>
+<content id="6436728" includeTime="2023-10-18T23:55:03" entryType="1" hash="C42E5DFD851148CE61B92DEE11E8C12A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.slotspaycards.com]]></domain>
+ <ip>104.21.62.247</ip>
+ <ip>172.67.141.56</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3ef7</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:8d38</ipv6>
+</content>
+<content id="6436757" includeTime="2023-10-18T23:55:03" entryType="1" hash="E65BDF1D336C3BDDCBD866C328D6604A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eplay2wins.com]]></domain>
+ <ip>104.21.79.11</ip>
+ <ip>172.67.139.230</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:8be6</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:4f0b</ipv6>
+</content>
+<content id="6436762" includeTime="2023-10-18T23:55:03" entryType="1" hash="AADE71F22A1388E6F14DFE69293B369D" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.freshcasino1370.com]]></domain>
+ <ip>104.21.93.170</ip>
+ <ip>172.67.213.66</ip>
+</content>
+<content id="6436766" includeTime="2023-10-18T23:55:03" entryType="1" hash="9000383DB371420D675A57038F5B14F9" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.7k-casino-012.ru]]></domain>
+ <ip>104.21.22.208</ip>
+ <ip>172.67.207.23</ip>
+</content>
+<content id="6436768" includeTime="2023-10-18T23:55:03" entryType="1" hash="603593B6D4733E4249F6A782808CDE70" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vavadakkj.com]]></domain>
+ <ip>185.104.211.35</ip>
+</content>
+<content id="6436771" includeTime="2023-10-18T23:55:03" entryType="1" hash="EDE55E149855CEDCB18AB5559FF380D4" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino-x-cpj.buzz]]></domain>
+ <ip>104.21.6.60</ip>
+ <ip>172.67.134.139</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:063c</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:868b</ipv6>
+</content>
+<content id="6436773" includeTime="2023-10-18T23:55:03" entryType="1" hash="5FE4EB44CF26D6251FF077C4BD81AC8B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.melbet-kazino.top]]></domain>
+ <ip>91.215.43.12</ip>
+</content>
+<content id="6436779" includeTime="2023-10-18T23:55:03" entryType="1" hash="396FDDCCC53938AEA3FB1906D866EDEE" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasino-rs9.top]]></domain>
+ <ip>104.21.6.26</ip>
+ <ip>172.67.154.152</ip>
+</content>
+<content id="6436780" includeTime="2023-10-18T23:55:03" entryType="1" hash="2CD6C6DA4DB0C99E446AE4FD42458E36" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.rox-lazurniy35.top]]></domain>
+ <ip>104.21.41.88</ip>
+ <ip>172.67.163.70</ip>
+</content>
+<content id="6436781" includeTime="2023-10-18T23:55:03" entryType="1" hash="D1CD9266DC321CFDE7711BD1D076A72E" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[kvels77.ru]]></domain>
+ <ip>104.21.33.15</ip>
+ <ip>172.67.139.165</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:8ba5</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:210f</ipv6>
+</content>
+<content id="6436782" includeTime="2023-10-18T23:55:03" entryType="1" hash="8469A51A4553A4A88CE96A4ECE6A4CE2" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.cazino-xofficial75.win]]></domain>
+ <ip>104.21.68.31</ip>
+ <ip>172.67.185.216</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:441f</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:b9d8</ipv6>
+</content>
+<content id="6436785" includeTime="2023-10-18T23:55:03" entryType="1" hash="CF774067B9F5DFCC68439A80C1371C73" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.mostbet-wgg9.top]]></domain>
+ <ip>104.21.40.14</ip>
+ <ip>172.67.174.43</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:280e</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:ae2b</ipv6>
+</content>
+<content id="6436786" includeTime="2023-10-18T23:55:03" entryType="1" hash="8676C7D12CCFE691689764EC98E941D7" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eldoradocasino-hrx.top]]></domain>
+ <ip>104.21.75.12</ip>
+ <ip>172.67.166.65</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:4b0c</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:a641</ipv6>
+</content>
+<content id="6436787" includeTime="2023-10-18T23:55:03" entryType="1" hash="11CA71221720563ACE740C85316131F8" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino7-ujs.top]]></domain>
+ <ip>104.21.23.164</ip>
+ <ip>172.67.212.84</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:d454</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:17a4</ipv6>
+</content>
+<content id="6436788" includeTime="2023-10-18T23:55:03" entryType="1" hash="B3DA3B16C4589D5C9BC79A2AD9734248" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1wxiiw.top]]></domain>
+ <ip>190.115.24.78</ip>
+</content>
+<content id="6436791" includeTime="2023-10-18T23:55:03" entryType="1" hash="0C7EFF33F2DD2787715A86F54C7AFC68" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.imperator-club.store]]></domain>
+ <ip>185.51.247.244</ip>
+</content>
+<content id="6436793" includeTime="2023-10-18T23:55:03" entryType="1" hash="B9C4FEDF0E81577B7B001ABE0AAB21E4" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.pin-up-casino-27-23.ru]]></domain>
+ <ip>104.21.59.74</ip>
+ <ip>172.67.218.106</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:da6a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:3b4a</ipv6>
+</content>
+<content id="6436795" includeTime="2023-10-18T23:55:03" entryType="1" hash="62E2CDEEC35F37F5CE3029AA514BE0C1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vulkan-starz.pw]]></domain>
+ <ip>185.51.247.244</ip>
+</content>
+<content id="6436798" includeTime="2023-10-18T23:55:03" entryType="1" hash="ECF913BF8AB0081E0F71DBA16495E3AC" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1wrnbe.xyz]]></domain>
+ <ip>190.115.24.78</ip>
+</content>
+<content id="6436801" includeTime="2023-10-18T23:55:03" entryType="1" hash="C4700CDB43145689F40819E1F8F82238" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.freshcasino2630.com]]></domain>
+ <ip>104.21.64.240</ip>
+ <ip>172.67.138.43</ip>
+</content>
+<content id="6436803" includeTime="2023-10-18T23:55:03" entryType="1" hash="7BE9CBDC4ECCFEA597ACDEE502F2271A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-603.buzz]]></domain>
+ <ip>104.21.24.15</ip>
+ <ip>172.67.216.73</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:180f</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:d849</ipv6>
+</content>
+<content id="6436805" includeTime="2023-10-18T23:55:03" entryType="1" hash="17F8E6938C1AC49BF25D2EF6C6995825" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots-yds.top]]></domain>
+ <ip>104.21.46.215</ip>
+ <ip>172.67.142.220</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:2ed7</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:8edc</ipv6>
+</content>
+<content id="6436807" includeTime="2023-10-18T23:55:03" entryType="1" hash="D8C5085076854C473F0C65B11094C991" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.areas.news]]></domain>
+ <ip>104.21.11.117</ip>
+ <ip>172.67.165.254</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:0b75</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:a5fe</ipv6>
+</content>
+<content id="6436808" includeTime="2023-10-18T23:55:03" entryType="1" hash="A16AF17B4A352D55C6AA6311251D8B3B" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasino373.com]]></domain>
+ <ip>104.21.38.232</ip>
+ <ip>172.67.140.196</ip>
+</content>
+<content id="6436809" includeTime="2023-10-18T23:55:03" entryType="1" hash="729B7CFA4D5AD1C1A684C5B79BE1D6DA" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.daddycasino.kz]]></domain>
+ <ip>81.91.178.100</ip>
+</content>
+<content id="6436810" includeTime="2023-10-18T23:55:03" entryType="1" hash="D088DEAFF962DE76975846ACE9CECCBA" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasino2962.com]]></domain>
+ <ip>104.21.56.143</ip>
+ <ip>172.67.152.127</ip>
+</content>
+<content id="6436811" includeTime="2023-10-18T23:55:03" entryType="1" hash="1091755A233DB976A019E85BC5C95762" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.roxcasino961.com]]></domain>
+ <ip>172.64.136.15</ip>
+ <ip>172.64.137.15</ip>
+</content>
+<content id="6436812" includeTime="2023-10-18T23:55:03" entryType="1" hash="801197351ABC6DA26F1D7BA9424F9021" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.freshcasino584.com]]></domain>
+ <ip>104.21.80.243</ip>
+ <ip>172.67.155.155</ip>
+</content>
+<content id="6436813" includeTime="2023-10-18T23:55:03" entryType="1" hash="4B4DEA3DE7D294CACF790BBB00BFF7BB" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.eldorado-casino-sln.buzz]]></domain>
+ <ip>104.21.67.187</ip>
+ <ip>172.67.179.123</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:b37b</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:43bb</ipv6>
+</content>
+<content id="6436814" includeTime="2023-10-18T23:55:03" entryType="1" hash="626F2F8FD7E2F8F8CDC42BC8FB7053D4" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.7k-casino-014.ru]]></domain>
+ <ip>104.21.72.199</ip>
+ <ip>172.67.187.77</ip>
+</content>
+<content id="6436815" includeTime="2023-10-18T23:55:03" entryType="1" hash="9AD082F766BBD9A641F9C1F6FE680400" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.leonbets-0r1a.xyz]]></domain>
+ <ip>104.21.20.93</ip>
+ <ip>172.67.192.10</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:145d</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:c00a</ipv6>
+</content>
+<content id="6436816" includeTime="2023-10-18T23:55:03" entryType="1" hash="7A902B5132021602F19811D51018F774" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xslots38.online]]></domain>
+ <ip>104.21.45.220</ip>
+ <ip>172.67.219.130</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:2ddc</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:db82</ipv6>
+</content>
+<content id="6436817" includeTime="2023-10-18T23:55:03" entryType="1" hash="419C9CE2151D3B3D1DBADB9F93F3AB90" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.casino-x-registraciya.ru]]></domain>
+ <ip>185.196.8.72</ip>
+</content>
+<content id="6436821" includeTime="2023-10-18T23:55:03" entryType="1" hash="655AD495FE17B9DE8402D239B56C27BD" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.solcasino-grand9.top]]></domain>
+ <ip>104.21.9.79</ip>
+ <ip>172.67.189.46</ip>
+</content>
+<content id="6436822" includeTime="2023-10-18T23:55:03" entryType="1" hash="EDCE2E24A094F9C1F100FE9D542B0AC0" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[schoolboxing3.ru]]></domain>
+ <ip>104.21.61.37</ip>
+ <ip>172.67.205.200</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:3d25</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:cdc8</ipv6>
+</content>
+<content id="6436824" includeTime="2023-10-18T23:55:03" entryType="1" hash="33A449AA59756A4A155F43F8A3C996F1" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.sykaaa27.com]]></domain>
+ <ip>104.21.83.245</ip>
+ <ip>172.67.183.155</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:53f5</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b79b</ipv6>
+</content>
+<content id="6436840" includeTime="2023-10-18T23:55:03" entryType="1" hash="C5099467CF8E7558A7EFEF4F8BBAAD1C" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.topplay-cazino2023.ru]]></domain>
+ <ip>104.21.80.149</ip>
+ <ip>172.67.186.56</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:ba38</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:5095</ipv6>
+</content>
+<content id="6436861" includeTime="2023-10-18T23:55:03" entryType="1" hash="501B13632800D1E3492FD8B498D6BC0A" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.cazino-top10.ru]]></domain>
+ <ip>104.21.60.102</ip>
+ <ip>172.67.195.197</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:3c66</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:c3c5</ipv6>
+</content>
+<content id="6436876" includeTime="2023-10-18T23:55:03" entryType="1" hash="93AD1EC20F8459DF38C383046766EEE8" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1wincasino.vip]]></domain>
+ <ip>104.21.28.142</ip>
+ <ip>172.67.170.220</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:aadc</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:1c8e</ipv6>
+</content>
+<content id="6436878" includeTime="2023-10-18T23:55:03" entryType="1" hash="B98737E177E07F7AB832B96920672341" blockType="domain-mask" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.aza1-jet.top]]></domain>
+ <ip>104.21.43.89</ip>
+ <ip>172.67.177.104</ip>
+</content>
+<content id="6436882" includeTime="2023-10-18T23:55:03" entryType="1" hash="0ECDD2B676FAC19843EC0F19781F899B" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[1-win-enter.net.ru]]></domain>
+ <ip>104.21.38.234</ip>
+ <ip>172.67.140.198</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:8cc6</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:26ea</ipv6>
+</content>
+<content id="6436884" includeTime="2023-10-18T23:55:03" entryType="1" hash="FBAE13A05E1D95D41B9D7DAFF744F3D3" blockType="domain" ts="2023-10-18T23:55:03">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[oyster-fish.ru]]></domain>
+ <ip>104.21.11.73</ip>
+ <ip>172.67.148.134</ip>
 </content>
 </reg:register>
