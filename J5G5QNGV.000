@@ -716,16 +716,20 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2cf7</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:ce97</ipv6>
 </content>
-<content id="3746487" includeTime="2021-10-29T20:44:20" entryType="1" hash="B5411E72A4EAAE6405D7D7E03CD76FFD" ts="2021-10-29T20:44:20">
+<content id="3746487" includeTime="2021-10-29T20:44:20" entryType="1" hash="6B4871ADF90237CA1EF97795FB5F3439" ts="2023-10-18T13:20:05">
  <decision date="2021-08-18" number="2a-7840/2021" org="Якутский городской суд - Республика Саха (Якутия)"/>
  <url><![CDATA[http://kirov4.sex-rach.com/natcionalnost_uzbechka/]]></url>
  <domain><![CDATA[kirov4.sex-rach.com]]></domain>
  <ip>104.26.10.81</ip>
  <ip>104.26.11.81</ip>
  <ip>172.67.70.223</ip>
+ <ip>188.114.98.224</ip>
+ <ip>188.114.99.224</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0a51</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0b51</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:46df</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
 <content id="3746521" includeTime="2021-11-01T23:25:07" entryType="1" hash="1362A1EC29EA6CFD749E675D92BA920A" blockType="domain" ts="2021-11-01T23:25:07">
  <decision date="2021-10-22" number="2а-6602/2021" org="Октябрьский районный суд г. Белгорода - Белгородская область"/>
@@ -9386,15 +9390,19 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:821c</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0767</ipv6>
 </content>
-<content id="3758201" includeTime="2021-11-08T13:38:22" entryType="1" hash="427A4ABCC722039F91CC56658168C5FF" blockType="domain" ts="2021-11-08T13:38:22">
+<content id="3758201" includeTime="2021-11-08T13:38:22" entryType="1" hash="F3BEFD26BC6852DAAD961E490637B4C4" blockType="domain" ts="2023-10-18T13:20:05">
  <decision date="2021-10-26" number="2а-404/2021" org="Устьянский районный суд - Архангельская область"/>
  <domain><![CDATA[arhangelysk1.sex-rach.com]]></domain>
  <ip>104.26.10.81</ip>
  <ip>104.26.11.81</ip>
  <ip>172.67.70.223</ip>
+ <ip>188.114.98.224</ip>
+ <ip>188.114.99.224</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0a51</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0b51</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:46df</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
 <content id="3758206" includeTime="2021-11-08T21:19:58" entryType="1" hash="E90EBD40144970E490D059EB8B98FD61" ts="2021-11-08T21:19:58">
  <decision date="2021-09-30" number="2а-944/2021" org="Новодвинский городской суд - Архангельская область"/>
@@ -16764,9 +16772,9 @@
  <ip>104.21.2.186</ip>
  <ip>172.67.129.142</ip>
 </content>
-<content id="3768967" includeTime="2021-11-11T13:43:03" entryType="1" hash="940FB27460AFF43A881602B91BFF9A57" blockType="domain" ts="2023-10-18T10:25:04">
+<content id="3768967" includeTime="2021-11-11T13:43:03" entryType="1" hash="EEDE6833B47198D0439CB5D1862709B9" blockType="domain-mask" ts="2023-10-18T13:20:05">
  <decision date="2021-11-03" number="2021-11-03-2096-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[rosstab.com]]></domain>
+ <domain><![CDATA[*.rosstab.com]]></domain>
  <ip>137.74.246.67</ip>
 </content>
 <content id="3768971" includeTime="2021-12-14T22:23:44" entryType="1" hash="F885846362463BB28944C278A109C587" ts="2021-12-14T22:23:44">
