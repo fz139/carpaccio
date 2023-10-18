@@ -3655,9 +3655,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:39eb</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c17f</ipv6>
 </content>
-<content id="3743902" includeTime="2021-10-29T20:44:23" entryType="1" hash="05BC9B19FE8A57B5DAFFC6DB5F1D6EC0" blockType="domain" ts="2021-10-29T20:44:23">
+<content id="3743902" includeTime="2021-10-29T20:44:23" entryType="1" hash="D85FCA09E646EB9BA5B06AAD00393F00" blockType="domain-mask" ts="2023-10-18T23:25:03">
  <decision date="2021-10-27" number="2021-10-27-1135-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[profarm2.top]]></domain>
+ <domain><![CDATA[*.profarm2.top]]></domain>
  <ip>104.21.23.176</ip>
  <ip>172.67.212.114</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:d472</ipv6>
