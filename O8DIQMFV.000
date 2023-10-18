@@ -1417,10 +1417,10 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:cb2d</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:4519</ipv6>
 </content>
-<content id="6410436" includeTime="2023-10-11T14:10:04" entryType="1" hash="555B8B4DA440C246F540595EE5129C22" blockType="domain" ts="2023-10-11T14:10:04">
+<content id="6410436" includeTime="2023-10-11T14:10:04" entryType="1" hash="BEE8EA4221FDCCF1F89C4BDD0686FB86" blockType="domain" ts="2023-10-18T09:55:02">
  <decision date="2023-10-09" number="2023-10-09-263-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[f0.lovtab.biz]]></domain>
- <ip>91.121.216.18</ip>
+ <ip>188.165.139.160</ip>
 </content>
 <content id="6410437" includeTime="2023-10-09T22:10:04" entryType="1" hash="DF059E66A788458A94F76FD7A16A76BF" blockType="domain-mask" ts="2023-10-09T22:10:04">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -8054,6 +8054,12 @@
  <ip>172.67.133.4</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:8504</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0539</ipv6>
+</content>
+<content id="6413213" includeTime="2023-10-18T09:55:02" entryType="1" hash="967BB65FD15AC797852D7E6002349C51" blockType="domain-mask" ts="2023-10-18T09:55:02">
+ <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.dragon-money.top]]></domain>
+ <ip>104.21.65.26</ip>
+ <ip>172.67.139.222</ip>
 </content>
 <content id="6413214" includeTime="2023-10-10T23:20:02" entryType="1" hash="83E97E1E20A1A048687D986AE4ACA1C0" blockType="domain-mask" ts="2023-10-10T23:20:02">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
