@@ -1759,6 +1759,14 @@
  <ip>167.71.8.191</ip>
  <ipv6>2a03:b0c0:0002:00d0:0000:0000:11c0:7001</ipv6>
 </content>
+<content id="3836902" includeTime="2023-10-19T14:05:03" entryType="1" hash="E3F354A1F1D1680CAF9200807773E2AC" blockType="domain-mask" ts="2023-10-19T14:05:03">
+ <decision date="2021-12-02" number="2021-12-01-1415-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[*.vip-farma.net]]></domain>
+ <ip>104.21.61.57</ip>
+ <ip>172.67.206.183</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:ceb7</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:3d39</ipv6>
+</content>
 <content id="3836954" includeTime="2021-12-02T23:21:28" entryType="1" hash="64C9CA4D302B67A5FA52D3331863B3A5" blockType="domain-mask" ts="2021-12-02T23:21:28">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.mostbet-cave.top]]></domain>
