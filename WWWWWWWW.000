@@ -897,11 +897,10 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:b74e</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:12c5</ipv6>
 </content>
-<content id="6436565" includeTime="2023-10-18T23:55:03" entryType="1" hash="153F89010C8BD5FE09013B6C2AA2DE2D" blockType="domain-mask" ts="2023-10-18T23:55:03">
+<content id="6436565" includeTime="2023-10-18T23:55:03" entryType="1" hash="5768EC7BA88247E540A56BCD9F549D1B" blockType="domain-mask" ts="2023-10-19T19:45:02">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.jozzlg16.com]]></domain>
- <ip>165.227.131.82</ip>
- <ip>172.255.248.61</ip>
+ <ip>37.1.217.0</ip>
 </content>
 <content id="6436568" includeTime="2023-10-18T23:55:03" entryType="1" hash="AB25BB8021FC5877A85C79FC8A51495A" blockType="domain-mask" ts="2023-10-18T23:55:03">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -6915,6 +6914,25 @@
  <url><![CDATA[https://xn--80ac9aeh6f.xn--p1ai/finalom-zlodeyki-moghet-byty-tolyko-smerty]]></url>
  <domain><![CDATA[xn--80ac9aeh6f.xn--p1ai]]></domain>
  <ip>179.43.141.26</ip>
+</content>
+<content id="6440027" includeTime="2023-10-19T19:45:02" entryType="1" hash="E9778766A7B1C18A75E0E0AEC18B2062" blockType="domain-mask" ts="2023-10-19T19:45:02">
+ <decision date="2023-10-19" number="2270634-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lordserial.top]]></domain>
+ <ip>104.21.55.90</ip>
+ <ip>172.67.146.95</ip>
+</content>
+<content id="6440028" includeTime="2023-10-19T19:45:02" entryType="1" hash="1EEDCA03A200C2BB330E2EBD867D58D2" blockType="domain-mask" ts="2023-10-19T19:45:02">
+ <decision date="2023-10-19" number="2270636-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lordserial.media]]></domain>
+ <ip>104.21.62.93</ip>
+ <ip>172.67.222.115</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:3e5d</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:de73</ipv6>
+</content>
+<content id="6440029" includeTime="2023-10-19T19:45:02" entryType="1" hash="67B658C59E0AECD48368B6FF3CBF541A" blockType="domain-mask" ts="2023-10-19T19:45:02">
+ <decision date="2023-10-19" number="2270632-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lordfilm.black]]></domain>
+ <ip>213.24.64.156</ip>
 </content>
 <content id="6440030" includeTime="2023-10-19T16:55:02" entryType="5" hash="ADED866054BF46A21955CA523230FE3F" blockType="domain" ts="2023-10-19T16:55:02">
  <decision date="2023-08-08" number="решение суда по делу № 3-1464/2023" org="Мосгорсуд"/>
