@@ -3934,9 +3934,9 @@
  <domain><![CDATA[*.wawada.online]]></domain>
  <ip>213.142.147.29</ip>
 </content>
-<content id="6429048" includeTime="2023-10-17T18:05:03" entryType="1" hash="66DA27012CC5AFCCFD95232FD42E1DC4" blockType="domain" ts="2023-10-17T18:05:03">
+<content id="6429048" includeTime="2023-10-17T18:05:03" entryType="1" hash="24655236BCD1E9276BB05DC91AB9C74A" blockType="domain-mask" ts="2023-10-20T16:20:04">
  <decision date="2023-10-17" number="2266982-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[rserial.com]]></domain>
+ <domain><![CDATA[*.rserial.com]]></domain>
  <ip>104.21.87.118</ip>
  <ip>172.67.143.9</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:5776</ipv6>
@@ -5371,12 +5371,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a83a</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1a3a</ipv6>
 </content>
-<content id="6429385" includeTime="2023-10-18T23:55:03" entryType="1" hash="A57A72818F8B5FF3F0AA87A0AC8F2B55" ts="2023-10-18T23:55:03">
- <decision date="2023-09-22" number="2а-2603/2023" org="Советский районный суд г. Рязани - Рязанская область"/>
- <url><![CDATA[https://ryazan.boevoyrezerv.com/ohota/kapkany/]]></url>
- <domain><![CDATA[ryazan.boevoyrezerv.com]]></domain>
- <ip>91.193.182.94</ip>
-</content>
 <content id="6429386" includeTime="2023-10-17T22:30:04" entryType="1" hash="6AA52B49F496041F9144CFA7C04CEDBE" blockType="domain-mask" ts="2023-10-17T22:30:04">
  <decision date="2023-10-16" number="2-6-14/2023-09-15-2040-АИ" org="ФНС"/>
  <domain><![CDATA[*.sykaaa-casino.skin]]></domain>
@@ -6022,9 +6016,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a878</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2e76</ipv6>
 </content>
-<content id="6429538" includeTime="2023-10-17T18:05:03" entryType="1" hash="D692DEEE936F57A7F0452A7BBA9738FE" blockType="domain" ts="2023-10-17T18:05:03">
+<content id="6429538" includeTime="2023-10-17T18:05:03" entryType="1" hash="29E5768C40692BBC38588A3A1B9978B4" blockType="domain-mask" ts="2023-10-20T16:20:04">
  <decision date="2023-10-17" number="2266972-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[rosserialhd.ru]]></domain>
+ <domain><![CDATA[*.rosserialhd.ru]]></domain>
  <ip>45.144.31.207</ip>
 </content>
 <content id="6429539" includeTime="2023-10-17T22:30:04" entryType="1" hash="6DC9F1DFAB0DB446DC22733570527658" blockType="domain-mask" ts="2023-10-17T22:30:04">
