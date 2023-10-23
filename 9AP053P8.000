@@ -12310,6 +12310,14 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8fcb</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:2752</ipv6>
 </content>
+<content id="3429402" includeTime="2023-10-23T13:35:02" entryType="1" hash="DA6A36B1B0A8C7D9FAEA1C0F638B379B" blockType="domain-mask" ts="2023-10-23T13:35:02">
+ <decision date="2021-07-06" number="2021-06-30-1935-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[*.vipp-steroid.com]]></domain>
+ <ip>104.21.6.250</ip>
+ <ip>172.67.135.133</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:8785</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:06fa</ipv6>
+</content>
 <content id="3429407" includeTime="2021-07-08T22:24:12" entryType="1" hash="DBA2A12F279765FEDAE9FD544C906586" blockType="domain-mask" ts="2021-07-08T22:24:12">
  <decision date="2017-03-02" number="2-6-20/ 2017-02-27-30-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.mostbet-bst.xyz]]></domain>

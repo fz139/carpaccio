@@ -4340,6 +4340,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="3285425" includeTime="2023-10-23T13:35:02" entryType="1" hash="AA43281AE5FB9045B855EEF1A96E0E85" blockType="domain-mask" ts="2023-10-23T13:35:02">
+ <decision date="2021-05-17" number="2021-04-27-1458-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[*.indiamed.biz]]></domain>
+ <ip>104.21.85.54</ip>
+ <ip>172.67.202.183</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:cab7</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:5536</ipv6>
+</content>
 <content id="3285465" includeTime="2021-05-21T23:32:28" entryType="1" hash="024846138A88DB8A26C710F0F7E04185" ts="2021-05-21T23:32:28">
  <decision date="2021-05-17" number="2021-05-14-3899-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[http://khv.vitahit.ru/katalog/gormon_rosta/]]></url>

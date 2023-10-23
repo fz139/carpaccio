@@ -2079,6 +2079,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6279726" includeTime="2023-10-23T13:35:02" entryType="1" hash="3F2522FD6014081CD69331B19299825F" blockType="domain-mask" ts="2023-10-23T13:35:02">
+ <decision date="2023-08-15" number="2023-08-02-497-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[*.avisfarm.net]]></domain>
+ <ip>207.154.219.29</ip>
+</content>
 <content id="6279729" includeTime="2023-08-17T18:20:02" entryType="1" hash="4DD5D2FD4FEEF8FCEBA7BDE3A0D53A0F" blockType="domain" ts="2023-08-17T18:20:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[fort-andreevskiy.ru]]></domain>
