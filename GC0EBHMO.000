@@ -7698,9 +7698,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:2f2f</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:9076</ipv6>
 </content>
-<content id="5719046" includeTime="2023-04-12T14:16:14" entryType="1" hash="F5FE2BBCE036081FA9A376A75ED745BD" blockType="domain" ts="2023-04-12T14:16:14">
+<content id="5719046" includeTime="2023-04-12T14:16:14" entryType="1" hash="DD6993C17B68D65808B87D1DE2C66657" blockType="domain-mask" ts="2023-10-23T13:05:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[diller-club.ru]]></domain>
+ <domain><![CDATA[*.diller-club.ru]]></domain>
  <ip>104.21.10.33</ip>
  <ip>172.67.189.226</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:0a21</ipv6>

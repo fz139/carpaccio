@@ -850,9 +850,9 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:b065</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:484c</ipv6>
 </content>
-<content id="5814860" includeTime="2023-04-26T13:46:39" entryType="1" hash="B2AB68506886B02900E557F27FBE3D05" blockType="domain" ts="2023-04-26T13:46:39">
+<content id="5814860" includeTime="2023-04-26T13:46:39" entryType="1" hash="F11307D3E664B9C8F67823A6DC260CF2" blockType="domain-mask" ts="2023-10-23T13:05:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[drugs-online.com]]></domain>
+ <domain><![CDATA[*.drugs-online.com]]></domain>
  <ip>104.21.27.43</ip>
  <ip>172.67.168.229</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1b2b</ipv6>
@@ -916,9 +916,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5814872" includeTime="2023-04-26T13:46:38" entryType="1" hash="38883ACE78E1B9AEE2DC00E7C147FBFE" blockType="domain" ts="2023-10-23T11:10:05">
+<content id="5814872" includeTime="2023-04-26T13:46:38" entryType="1" hash="0CC679C97EC1293B835B9F862EF103FC" blockType="domain-mask" ts="2023-10-23T13:05:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[apvp-marijuana-cocaine.ru]]></domain>
+ <domain><![CDATA[*.apvp-marijuana-cocaine.ru]]></domain>
  <ip>104.21.40.188</ip>
  <ip>172.67.156.77</ip>
  <ip>188.114.96.1</ip>

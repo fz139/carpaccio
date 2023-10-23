@@ -3300,9 +3300,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6292559" includeTime="2023-08-21T13:30:03" entryType="1" hash="60A02F67CDF355B85A01040F67C0FBB8" blockType="domain" ts="2023-08-21T13:30:03">
+<content id="6292559" includeTime="2023-08-21T13:30:03" entryType="1" hash="B0771C758C62F0D54308DAC66E52B13C" blockType="domain-mask" ts="2023-10-23T13:05:04">
  <decision date="2023-08-17" number="2023-08-17-161-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[centr-lechenie.ru]]></domain>
+ <domain><![CDATA[*.centr-lechenie.ru]]></domain>
  <ip>104.21.30.235</ip>
  <ip>172.67.174.44</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:ae2c</ipv6>
