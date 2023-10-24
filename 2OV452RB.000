@@ -2191,14 +2191,6 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2441</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:bac3</ipv6>
 </content>
-<content id="6237250" includeTime="2023-07-28T22:00:02" entryType="1" hash="409CE631681BA915F780299DECB282D6" blockType="domain" ts="2023-07-28T22:00:02">
- <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[47detsad.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6237252" includeTime="2023-07-28T22:00:02" entryType="1" hash="98C5134BB4EAEB8731EB51AE3142A305" blockType="domain-mask" ts="2023-07-28T22:00:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.bet-gifts.com]]></domain>
@@ -6588,11 +6580,15 @@
  <domain><![CDATA[sex2.sexovrn.net]]></domain>
  <ip>159.223.14.34</ip>
 </content>
-<content id="6238515" includeTime="2023-08-01T21:25:02" entryType="1" hash="3631B6DE0FF2AA29B620ABF679BD548C" blockType="domain" ts="2023-08-01T21:25:02">
+<content id="6238515" includeTime="2023-08-01T21:25:02" entryType="1" hash="5292F218264AB5DF538859DACEAA3AF2" blockType="domain" ts="2023-10-24T12:55:03">
  <decision date="2023-07-24" number="2а-818/2023" org="Советский районный суд г. Иваново - Ивановская область"/>
  <domain><![CDATA[d8.allsteroid6.com]]></domain>
+ <ip>104.21.23.46</ip>
+ <ip>172.67.209.46</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:d12e</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:172e</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>

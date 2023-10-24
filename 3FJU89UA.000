@@ -4847,11 +4847,15 @@
  <domain><![CDATA[board.hvgbook.net]]></domain>
  <ip>185.246.128.60</ip>
 </content>
-<content id="6210966" includeTime="2023-07-19T13:50:03" entryType="1" hash="20B5D6B127E186BAFD934209B8C4E05B" blockType="domain" ts="2023-07-21T09:05:02">
+<content id="6210966" includeTime="2023-07-19T13:50:03" entryType="1" hash="671301BF55E5B300DBAEDD4EB4ED8993" blockType="domain" ts="2023-10-24T12:55:03">
  <decision date="2023-07-14" number="2023-07-13-36001-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[c8.prodoping.ltd]]></domain>
+ <ip>104.21.43.84</ip>
+ <ip>172.67.176.248</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2b54</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:b0f8</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -8831,14 +8835,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6212482" includeTime="2023-07-18T21:30:02" entryType="1" hash="2CCC3A472E31F7DD31E78062A5CBF8EE" blockType="domain-mask" ts="2023-07-21T09:05:02">
- <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.goldfishka180.online]]></domain>
- <ip>104.21.12.225</ip>
- <ip>172.67.196.130</ip>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:c482</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:0ce1</ipv6>
-</content>
 <content id="6212485" includeTime="2023-07-20T14:30:02" entryType="1" hash="90FC05728DD7C83FDDF4CE196A7F5545" ts="2023-07-21T09:05:02">
  <decision date="2023-07-18" number="2166330-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://www.acgxmh.com/h/53218-13.html]]></url>
@@ -11403,11 +11399,15 @@
  <domain><![CDATA[domostory.com]]></domain>
  <ip>39.109.127.161</ip>
 </content>
-<content id="6213190" includeTime="2023-07-20T14:30:02" entryType="1" hash="ED04924760C92BF411DD5832D07E78C4" blockType="domain" ts="2023-07-21T09:05:02">
+<content id="6213190" includeTime="2023-07-20T14:30:02" entryType="1" hash="067002B9BC0ADAAF556D70022618CF97" blockType="domain" ts="2023-10-24T12:55:03">
  <decision date="2023-07-18" number="2023-07-18-1440-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[d7.allsteroid6.com]]></domain>
+ <ip>104.21.23.46</ip>
+ <ip>172.67.209.46</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:d12e</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:172e</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -17302,14 +17302,6 @@
  <domain><![CDATA[*.recruiting.org.ua]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
-</content>
-<content id="6215236" includeTime="2023-07-20T14:30:02" entryType="1" hash="92B4E6C27C892A334F34FFDAD6C1F46B" blockType="domain" ts="2023-07-21T09:05:02">
- <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[ww.pandafilm.vip]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6215237" includeTime="2023-07-20T14:30:02" entryType="1" hash="F6998271BBE00C90EE74AA76E0EF5E1A" blockType="domain-mask" ts="2023-07-21T09:05:02">
  <decision date="2023-07-19" number="2-6-14/2023-05-27-1389-АИ" org="ФНС"/>
