@@ -1150,6 +1150,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:851a</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0dcf</ipv6>
 </content>
+<content id="6436548" includeTime="2023-10-24T13:45:04" entryType="1" hash="2B815256276C1397145E78427E835372" blockType="domain" ts="2023-10-24T13:45:04">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[blacksprut3.store]]></domain>
+ <ip>104.21.44.253</ip>
+ <ip>172.67.206.214</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2cfd</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:ced6</ipv6>
+</content>
 <content id="6436549" includeTime="2023-10-19T14:05:03" entryType="1" hash="712C72A2543770B0FC8281910DC21E1B" blockType="domain" ts="2023-10-19T14:05:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[omgmiror2.online]]></domain>
@@ -2288,6 +2296,12 @@
  <ip>172.67.139.58</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:4f04</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:8b3a</ipv6>
+</content>
+<content id="6436875" includeTime="2023-10-24T13:45:04" entryType="1" hash="51F7122362672E0942A089DB859FB44C" ts="2023-10-24T13:45:04">
+ <decision date="2023-10-18" number="2023-10-17-3004-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[http://xpharm.shop/]]></url>
+ <domain><![CDATA[xpharm.shop]]></domain>
+ <ip>91.189.114.27</ip>
 </content>
 <content id="6436876" includeTime="2023-10-18T23:55:03" entryType="1" hash="93AD1EC20F8459DF38C383046766EEE8" blockType="domain-mask" ts="2023-10-18T23:55:03">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
