@@ -17980,11 +17980,10 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:2fbf</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:ac22</ipv6>
 </content>
-<content id="6443765" includeTime="2023-10-20T22:00:04" entryType="1" hash="556E48BD221E7DF5BB847C19CF5DA4AB" blockType="domain-mask" ts="2023-10-20T22:00:04">
+<content id="6443765" includeTime="2023-10-20T22:00:04" entryType="1" hash="B8802C2592D7DE969352F578CDDE418B" blockType="domain-mask" ts="2023-10-24T15:25:03">
  <decision date="2017-10-11" number="2-6-20/2017-10-10-84-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.jozz1lv9.com]]></domain>
- <ip>164.90.220.117</ip>
- <ip>188.42.217.233</ip>
+ <ip>37.1.217.0</ip>
 </content>
 <content id="6443766" includeTime="2023-10-20T22:00:04" entryType="1" hash="DAD941DA1E37746D826F1A5FA96C76B0" blockType="domain-mask" ts="2023-10-20T22:00:04">
  <decision date="2017-10-11" number="2-6-20/2017-10-10-84-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -20971,6 +20970,21 @@
  <ipv6>2600:9000:2038:6600:0005:b30d:7640:0021</ipv6>
  <ipv6>2600:9000:2038:7000:0005:b30d:7640:0021</ipv6>
  <ipv6>2600:9000:2038:d000:0005:b30d:7640:0021</ipv6>
+</content>
+<content id="6444606" includeTime="2023-10-24T15:25:03" entryType="5" hash="07BFFC8D809F1AF136D8FE2E1892A2AC" blockType="domain" ts="2023-10-24T15:25:03">
+ <decision date="2023-10-20" number="1з-72649/2023" org="Минцифры"/>
+ <domain><![CDATA[w9.lordfilm.cc]]></domain>
+ <ip>81.17.19.227</ip>
+</content>
+<content id="6444607" includeTime="2023-10-24T15:25:03" entryType="5" hash="F319AA93AAC357C805C659440B020DCD" blockType="domain" ts="2023-10-24T15:25:03">
+ <decision date="2023-10-20" number="1з-72656/2023" org="Минцифры"/>
+ <domain><![CDATA[kinovod211023.cc]]></domain>
+ <ip>81.17.19.227</ip>
+</content>
+<content id="6444608" includeTime="2023-10-24T15:25:03" entryType="5" hash="2B6AF2FA20FE98CB154ACB86DC03B53C" blockType="domain" ts="2023-10-24T15:25:03">
+ <decision date="2023-10-20" number="1з-72657/2023" org="Минцифры"/>
+ <domain><![CDATA[kinovod221023.cc]]></domain>
+ <ip>81.17.19.227</ip>
 </content>
 <content id="6444609" includeTime="2023-10-21T13:15:03" entryType="5" hash="0811461A44CEC1174F218D8DAAF1B3D1" blockType="domain" ts="2023-10-21T13:15:03">
  <decision date="2023-10-20" number="1з-72643/2023" org="Минцифры"/>
