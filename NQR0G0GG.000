@@ -4759,9 +4759,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:451b</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:cb2f</ipv6>
 </content>
-<content id="5092350" includeTime="2022-11-17T13:57:03" entryType="1" hash="480B4185F80EC105FF3984CAFC8F1B98" blockType="domain" ts="2022-11-17T13:57:03">
+<content id="5092350" includeTime="2022-11-17T13:57:03" entryType="1" hash="EA3AFC90BA2723F48082241B89544A9A" blockType="domain-mask" ts="2023-10-24T09:15:03">
  <decision date="2022-11-14" number="2022-11-13-1046-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[slabakam.ru]]></domain>
+ <domain><![CDATA[*.slabakam.ru]]></domain>
  <ip>104.21.23.9</ip>
  <ip>172.67.208.67</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d043</ipv6>
