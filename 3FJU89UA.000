@@ -6671,9 +6671,9 @@
  <ip>5.45.65.108</ip>
  <ip>5.61.48.87</ip>
 </content>
-<content id="6211684" includeTime="2023-07-18T21:30:02" entryType="1" hash="2DFC65CC213F32AB2A1B854B9C37B2F2" blockType="domain" ts="2023-07-21T09:05:02">
+<content id="6211684" includeTime="2023-07-18T21:30:02" entryType="1" hash="97D9E8C1D8674BBFA450875115654219" blockType="domain-mask" ts="2023-10-25T10:50:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[mdma-mef-apvp.ru]]></domain>
+ <domain><![CDATA[*.mdma-mef-apvp.ru]]></domain>
  <ip>104.21.70.203</ip>
  <ip>172.67.139.72</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:8b48</ipv6>

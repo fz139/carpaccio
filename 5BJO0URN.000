@@ -6735,9 +6735,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5823223" includeTime="2023-04-27T13:46:49" entryType="1" hash="FB64DABF2390BF8D65DF382C9517D5B8" blockType="domain" ts="2023-10-25T09:50:04">
+<content id="5823223" includeTime="2023-04-27T13:46:49" entryType="1" hash="8EC6EFD465C0F057177C70C2C509872F" blockType="domain-mask" ts="2023-10-25T10:50:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[amphetamine-gashish.ru]]></domain>
+ <domain><![CDATA[*.amphetamine-gashish.ru]]></domain>
  <ip>104.21.93.172</ip>
  <ip>172.67.213.68</ip>
  <ip>188.114.96.1</ip>
