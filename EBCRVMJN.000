@@ -1330,11 +1330,6 @@
  <domain><![CDATA[*.winl-45774.club]]></domain>
  <ip>178.208.90.38</ip>
 </content>
-<content id="2886448" includeTime="2021-01-15T10:49:23" entryType="1" hash="50016DEE37C87FC2BB986E846B9236D0" blockType="domain" ts="2021-01-15T10:49:23">
- <decision date="2021-01-14" number="2-6-20/2020-09-16-4582-АИ" org="ФНС"/>
- <domain><![CDATA[tasteoftrucks.com]]></domain>
- <ip>195.123.221.156</ip>
-</content>
 <content id="2886449" includeTime="2021-01-14T22:36:31" entryType="1" hash="4ABFBAAC9FB58FFCC009DCFDF74FF096" blockType="domain-mask" ts="2021-01-14T22:36:31">
  <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.winl-45751.club]]></domain>
@@ -1407,16 +1402,6 @@
  <ip>172.67.186.241</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:baf1</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:139d</ipv6>
-</content>
-<content id="2886517" includeTime="2021-01-15T10:49:24" entryType="1" hash="127F93A1BE8E60A1BB217EEB6F9FDB8B" blockType="domain-mask" ts="2021-01-15T10:49:24">
- <decision date="2021-01-14" number="2-6-20/2020-09-18-1214-АИ" org="ФНС"/>
- <domain><![CDATA[*.slotor-777.com]]></domain>
- <ip>104.24.114.36</ip>
- <ip>104.24.115.36</ip>
- <ip>172.67.216.21</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6818:7324</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:d815</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6818:7224</ipv6>
 </content>
 <content id="2886524" includeTime="2021-01-15T10:49:24" entryType="1" hash="C11FD5F6B47FC77FB783500D3BA77BFC" blockType="domain-mask" ts="2021-01-15T10:49:24">
  <decision date="2021-01-14" number="2-6-20/2020-09-18-1376-АИ" org="ФНС"/>
@@ -1836,17 +1821,6 @@
  <decision date="2021-01-14" number="2-6-20/2020-10-22-3182-АИ" org="ФНС"/>
  <domain><![CDATA[*.gamblerkey1.net]]></domain>
  <ip>51.195.43.77</ip>
-</content>
-<content id="2887136" includeTime="2021-01-15T20:07:58" entryType="1" hash="883C56ECD55C66D683091D33A937F5F2" ts="2021-01-15T20:07:58">
- <decision date="2021-01-14" number="2-6-20/2020-11-03-1243-АИ" org="ФНС"/>
- <url><![CDATA[https://3erkala.xyz/kazino-zerkalo/azino-777-zerkalo/]]></url>
- <domain><![CDATA[3erkala.xyz]]></domain>
- <ip>104.24.124.214</ip>
- <ip>104.24.125.214</ip>
- <ip>172.67.168.13</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6818:7cd6</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6818:7dd6</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:a80d</ipv6>
 </content>
 <content id="2887137" includeTime="2021-04-13T13:07:58" entryType="1" hash="86B2A6FBADE649A4EC2C273C3B1789AD" ts="2021-04-13T13:07:58">
  <decision date="2021-01-13" number="125172" org="Роспотребнадзор"/>
@@ -4998,11 +4972,15 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="2895332" includeTime="2021-01-20T13:04:11" entryType="1" hash="2ABA807C262B25243C2FBACB3E790276" blockType="domain" ts="2021-01-20T13:04:11">
+<content id="2895332" includeTime="2021-01-20T13:04:11" entryType="1" hash="8AF60210190F31972011D685103F8E12" blockType="domain" ts="2023-10-25T13:10:04">
  <decision date="2020-12-24" number="2а-4340/2020" org="Псковский городской суд - Псковская область"/>
  <domain><![CDATA[pskov-tut.prava-online.net]]></domain>
+ <ip>104.21.89.19</ip>
+ <ip>172.67.155.143</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5913</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:9b8f</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>

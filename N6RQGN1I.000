@@ -2464,12 +2464,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="2800555" includeTime="2020-12-09T20:31:32" entryType="1" hash="C07F6C6806053E786FED71840DB0661B" blockType="domain-mask" ts="2020-12-09T20:31:32">
- <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.gg92.bet]]></domain>
- <ip>203.30.188.99</ip>
- <ipv6>2a07:0180:0484:a1e5:69a5:f8c4:91c9:d0a0</ipv6>
-</content>
 <content id="2800561" includeTime="2020-12-09T20:31:33" entryType="1" hash="6138490CAEDDB639ED88A4B6AF16053A" blockType="domain-mask" ts="2020-12-09T20:31:33">
  <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.gg128.bet]]></domain>
@@ -2705,12 +2699,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:9073</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6812:3861</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6812:3961</ipv6>
-</content>
-<content id="2800811" includeTime="2020-12-09T20:31:34" entryType="1" hash="598B58E238D9AB53B3347B193EA148D1" blockType="domain-mask" ts="2020-12-09T20:31:34">
- <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.anewbeginning-game.com]]></domain>
- <ip>178.62.207.228</ip>
- <ipv6>2a03:b0c0:0002:00d0:0000:0000:0e0e:1001</ipv6>
 </content>
 <content id="2800812" includeTime="2020-12-09T20:31:34" entryType="1" hash="3AADD167381DE8FE2F6E1618A7BB1572" ts="2020-12-09T20:31:34">
  <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -7764,18 +7752,6 @@
  <ipv6>2606:4700:3033:0000:0000:0000:681b:b925</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d79c</ipv6>
 </content>
-<content id="2812759" includeTime="2020-12-14T22:11:04" entryType="1" hash="C882EE4FB14DCF9711DCDC20C2B07CF4" blockType="domain-mask" ts="2020-12-14T22:11:04">
- <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.gg94.bet]]></domain>
- <ip>203.28.8.100</ip>
- <ipv6>2a06:9ac0:0137:c599:6033:fbce:e88b:8c35</ipv6>
-</content>
-<content id="2812760" includeTime="2020-12-14T22:11:04" entryType="1" hash="47F1846350E2191AAFDEFDCFA7EF782D" blockType="domain-mask" ts="2020-12-14T22:11:04">
- <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.gg98.bet]]></domain>
- <ip>203.29.53.12</ip>
- <ipv6>2a05:7880:075f:576a:6935:dcc6:8dca:857c</ipv6>
-</content>
 <content id="2812761" includeTime="2020-12-14T22:11:04" entryType="1" hash="E2E73B7245011D8EECB6BC46F4A31EDD" blockType="domain-mask" ts="2020-12-14T22:11:04">
  <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.liveggbet.com]]></domain>
@@ -9247,11 +9223,15 @@
  <domain><![CDATA[saratov.arena-diplomer.com]]></domain>
  <ip>157.245.72.144</ip>
 </content>
-<content id="2817839" includeTime="2020-12-17T18:25:20" entryType="1" hash="5CBD3CDEC7715E40627FF9E7E6ECA22E" blockType="domain" ts="2020-12-17T18:25:20">
+<content id="2817839" includeTime="2020-12-17T18:25:20" entryType="1" hash="991556BC111BD257B44FF4D7C41E4ED1" blockType="domain" ts="2023-10-25T13:10:04">
  <decision date="2020-12-03" number="2а-356/2020" org="Стругокрасненский районный суд - Псковская область"/>
  <domain><![CDATA[pskov-tut.prava-online.net]]></domain>
+ <ip>104.21.89.19</ip>
+ <ip>172.67.155.143</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5913</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:9b8f</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -11423,16 +11403,6 @@
  <ipv6>2606:4700:3033:0000:0000:0000:681b:a723</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8b1c</ipv6>
 </content>
-<content id="2821645" includeTime="2020-12-17T00:15:28" entryType="1" hash="3E1737F18C37D89DCF52C83010B6DF84" blockType="domain-mask" ts="2020-12-17T00:15:28">
- <decision date="2020-12-16" number="2-6-20/2020-07-06-438-АИ" org="ФНС"/>
- <domain><![CDATA[*.ukrcentr.com.ua]]></domain>
- <ip>104.31.78.12</ip>
- <ip>104.31.79.12</ip>
- <ip>172.67.220.209</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:681f:4f0c</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:dcd1</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:681f:4e0c</ipv6>
-</content>
 <content id="2821649" includeTime="2020-12-17T00:15:28" entryType="1" hash="544DF2B965919BB17C5827484FF2A2F6" blockType="domain-mask" ts="2020-12-17T00:15:28">
  <decision date="2020-12-16" number="2-6-20/2020-07-06-1362-АИ" org="ФНС"/>
  <domain><![CDATA[*.aplay-cassino.igry-online.com]]></domain>
@@ -11579,16 +11549,6 @@
  <ip>104.18.44.170</ip>
  <ip>104.18.45.170</ip>
  <ip>172.67.182.143</ip>
-</content>
-<content id="2821708" includeTime="2020-12-17T00:15:29" entryType="1" hash="E84EF673CC50108A8EAD5FAD85A14DD1" blockType="domain-mask" ts="2020-12-17T00:15:29">
- <decision date="2020-12-16" number="2-6-20/2020-07-10-2412-АИ" org="ФНС"/>
- <domain><![CDATA[*.maxbets-casino.biz]]></domain>
- <ip>104.24.106.237</ip>
- <ip>104.24.107.237</ip>
- <ip>172.67.163.168</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:6818:6bed</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6818:6aed</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:a3a8</ipv6>
 </content>
 <content id="2821709" includeTime="2020-12-17T00:15:30" entryType="1" hash="5D89902358C0E1F0FB344FD53BFDE641" blockType="domain-mask" ts="2020-12-17T00:15:30">
  <decision date="2020-12-16" number="2-6-20/2020-07-10-3027-АИ" org="ФНС"/>
