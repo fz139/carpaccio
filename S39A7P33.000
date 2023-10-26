@@ -4026,9 +4026,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:04f5</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:bb3f</ipv6>
 </content>
-<content id="5911028" includeTime="2023-05-17T13:20:57" entryType="1" hash="13831453E3C49538AFE1BA47597F2E38" blockType="domain" ts="2023-10-26T12:25:02">
+<content id="5911028" includeTime="2023-05-17T13:20:57" entryType="1" hash="87D82D6B2948FC1C38C25731031DF53B" blockType="domain-mask" ts="2023-10-26T13:45:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[a-pvp-24online.ru]]></domain>
+ <domain><![CDATA[*.a-pvp-24online.ru]]></domain>
  <ip>104.21.13.47</ip>
  <ip>172.67.154.159</ip>
  <ip>188.114.96.1</ip>
