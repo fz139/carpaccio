@@ -2790,9 +2790,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:c701</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:347b</ipv6>
 </content>
-<content id="6455429" includeTime="2023-10-25T22:55:03" entryType="1" hash="EDB353E4D287FC5CD4BDFA7D8D5D2405" blockType="domain" ts="2023-10-25T22:55:03">
+<content id="6455429" includeTime="2023-10-25T22:55:03" entryType="1" hash="F427249989A440C3DA60B5577D32F864" blockType="domain-mask" ts="2023-10-27T22:40:04">
  <decision date="2017-10-11" number="2-6-20/2017-10-10-84-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[pruzhin.ru]]></domain>
+ <domain><![CDATA[*.pruzhin.ru]]></domain>
  <ip>104.21.10.166</ip>
  <ip>172.67.146.5</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:0aa6</ipv6>
