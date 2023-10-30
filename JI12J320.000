@@ -304,14 +304,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="4731866" includeTime="2022-08-22T09:14:00" entryType="1" hash="EBE8DE3DBECEB54B83878332A8EBC659" blockType="domain" ts="2022-08-22T09:14:00">
- <decision date="2022-08-08" number="2а-454/2022" org="Пучежский районный суд - Ивановская область"/>
- <domain><![CDATA[spb1.spravkavyz.com]]></domain>
- <ip>104.21.0.168</ip>
- <ip>172.67.128.32</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:00a8</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:8020</ipv6>
-</content>
 <content id="4731868" includeTime="2022-08-22T09:14:00" entryType="1" hash="1D739C783FAC00663B5D8F1789C500EE" ts="2022-08-22T09:14:00">
  <decision date="2022-08-02" number="2а-2735/22" org="Первомайский районный суд города Мурманска"/>
  <url><![CDATA[https://alagir.praspec.com/products/b]]></url>
@@ -574,11 +566,6 @@
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c810</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c910</ipv6>
-</content>
-<content id="4732150" includeTime="2022-08-19T19:43:46" entryType="1" hash="491CF98177846E0B2C7FB9E92CEC49D1" blockType="domain" ts="2022-08-19T19:43:46">
- <decision date="2022-08-12" number="2022-07-12-4636-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[indiavir7.site]]></domain>
- <ip>147.182.196.54</ip>
 </content>
 <content id="4732164" includeTime="2022-08-19T15:18:33" entryType="1" hash="61D43335C99F1EBBD0508164C28A1958" blockType="domain" ts="2022-08-19T15:18:33">
  <decision date="2022-08-16" number="2022-08-15-1054" org="МВД"/>
@@ -2602,6 +2589,11 @@
  <decision date="2022-08-16" number="" org=""/>
  <domain><![CDATA[2ndflbank-vw.ru]]></domain>
  <ip>31.210.171.17</ip>
+</content>
+<content id="4735167" includeTime="2023-10-30T13:35:03" urgencyType="1" entryType="3" hash="B53209FCC83177E5205224CB74FC5EF2" blockType="domain" ts="2023-10-30T13:35:03">
+ <decision date="2022-08-16" number="" org=""/>
+ <domain><![CDATA[2ndfl-ltd.ru]]></domain>
+ <ip>92.119.113.254</ip>
 </content>
 <content id="4735168" includeTime="2022-08-18T20:14:15" urgencyType="1" entryType="3" hash="CE8F918C697ABEF8BA0DC55CFC7D8215" blockType="domain-mask" ts="2022-08-18T20:14:15">
  <decision date="2022-08-16" number="" org=""/>
@@ -8606,14 +8598,6 @@
  <ip>172.67.145.230</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:91e6</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1c75</ipv6>
-</content>
-<content id="4741001" includeTime="2022-08-24T14:11:44" entryType="1" hash="8284C0F56798C1E0C830B109F2D3AD71" blockType="domain" ts="2022-08-24T14:11:44">
- <decision date="2022-08-18" number="2022-08-15-235" org="МВД"/>
- <domain><![CDATA[megadarknet.org]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:1e2a</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:968a</ipv6>
 </content>
 <content id="4741004" includeTime="2022-08-22T22:06:06" entryType="1" hash="F81F4B0BDE21292351689C1689E75932" blockType="domain" ts="2022-08-22T22:06:06">
  <decision date="2017-10-03" number="2-6-20/ 2017-10-01-1540-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
