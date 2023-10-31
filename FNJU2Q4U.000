@@ -192,13 +192,17 @@
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0188</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:49c5</ipv6>
 </content>
-<content id="2009954" includeTime="2019-12-26T20:42:46" entryType="1" hash="816F02BFF531EBAC9CB7C00AA0B5AF1C" blockType="domain" ts="2019-12-26T20:42:46">
+<content id="2009954" includeTime="2019-12-26T20:42:46" entryType="1" hash="D81E78156B8E7E4BB8A4E6FE146132A8" blockType="domain" ts="2023-10-31T14:25:03">
  <decision date="2019-12-24" number="2019-12-07-105" org="МВД"/>
  <domain><![CDATA[jahforum.net]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="2009955" includeTime="2019-12-26T20:42:46" entryType="1" hash="03E5EDE4131DCBCCA0C804D7DC387831" blockType="domain" ts="2019-12-26T20:42:46">
  <decision date="2019-12-23" number="2019-12-16-452" org="МВД"/>
@@ -3988,8 +3992,9 @@
  <domain><![CDATA[tehosmotr76.ru]]></domain>
  <ip>149.255.58.16</ip>
 </content>
-<content id="2018421" includeTime="2020-01-09T15:26:40" entryType="1" hash="DA4A8B379B41E6FDADD5F859D239EC22" blockType="domain" ts="2020-01-09T15:26:40">
+<content id="2018421" includeTime="2020-01-09T15:26:40" entryType="1" hash="854B3AFA128C6C2E25ED8466F795C2F4" ts="2023-10-31T14:25:03">
  <decision date="2019-12-30" number="2019-11-25-215" org="МВД"/>
+ <url><![CDATA[https://www.bonzaseeds.com]]></url>
  <domain><![CDATA[www.bonzaseeds.com]]></domain>
  <ip>104.18.48.118</ip>
  <ip>104.18.49.118</ip>
@@ -4000,6 +4005,8 @@
  <ip>104.21.47.91</ip>
  <ip>172.67.146.21</ip>
  <ip>172.67.214.18</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:0030:0000:0000:0000:6812:3ad3</ipv6>
  <ipv6>2606:4700:0030:0000:0000:0000:6812:3bd3</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6812:3076</ipv6>
@@ -4011,6 +4018,8 @@
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d612</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6812:3ad3</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6812:3bd3</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="2018511" includeTime="2020-01-09T19:05:25" entryType="1" hash="703AF0ABC4F0FCF51E3E01D34494D54E" ts="2020-01-09T19:05:25">
  <decision date="2019-12-11" number="2-6861/2019" org="Вахитовский районный суд г. Казани - Республика Татарстан (Татарстан)"/>

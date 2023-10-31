@@ -5,18 +5,22 @@
  <domain><![CDATA[pegas21-2gi41.icu]]></domain>
  <ip>45.148.39.64</ip>
 </content>
-<content id="4787515" includeTime="2022-09-08T14:26:11" entryType="1" hash="6C406D074910498AA72F3D36164C81F4" ts="2023-10-04T19:50:02">
+<content id="4787515" includeTime="2022-09-08T14:26:11" entryType="1" hash="14BD8CAD0FF8B323B980AD1CD042B1F7" ts="2023-10-31T14:25:03">
  <decision date="2022-09-06" number="1798044-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static4.hentai-img.com/upload/20170202/248/253281/8.jpg]]></url>
  <domain><![CDATA[static4.hentai-img.com]]></domain>
  <ip>172.64.108.31</ip>
  <ip>172.64.109.31</ip>
+ <ip>172.64.128.18</ip>
+ <ip>172.64.129.18</ip>
  <ip>172.64.136.35</ip>
  <ip>172.64.137.35</ip>
  <ip>172.64.194.36</ip>
  <ip>172.64.195.36</ip>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6c1f</ipv6>
  <ipv6>2606:4700:00e0:0000:0000:0000:ac40:6d1f</ipv6>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8012</ipv6>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8112</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8823</ipv6>
  <ipv6>2606:4700:00e2:0000:0000:0000:ac40:8923</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
@@ -782,10 +786,11 @@
  <domain><![CDATA[x2.boominfo.org]]></domain>
  <ip>45.147.197.14</ip>
 </content>
-<content id="4789266" includeTime="2022-09-07T17:09:29" entryType="5" hash="486E488CF0B15345EAA06A0FD51EBF73" blockType="domain" ts="2022-09-07T17:09:29">
+<content id="4789266" includeTime="2022-09-07T17:09:29" entryType="5" hash="49C6B560DCC30A263F0F48D8E74F353F" blockType="domain" ts="2023-10-31T14:25:03">
  <decision date="2022-09-06" number="1з-52352/2022" org="Минцифры"/>
  <domain><![CDATA[chas.kinogo-fiilm.com]]></domain>
- <ip>199.59.243.223</ip>
+ <ip>3.141.96.53</ip>
+ <ip>3.20.137.44</ip>
 </content>
 <content id="4789275" includeTime="2022-09-07T17:09:30" entryType="5" hash="13A11FDC8AB47A2C3A1880D292CBBAC6" blockType="domain" ts="2022-09-07T17:09:30">
  <decision date="2022-09-06" number="1з-52353/2022" org="Минцифры"/>
@@ -873,10 +878,10 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5d74</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d181</ipv6>
 </content>
-<content id="4789386" includeTime="2022-09-07T17:09:38" entryType="5" hash="B211DA84CE062410D475AD83C9253822" blockType="domain" ts="2022-09-07T17:09:38">
+<content id="4789386" includeTime="2022-09-07T17:09:38" entryType="5" hash="1EFAA4C2C13834346015BFE577C05502" blockType="domain" ts="2023-10-31T14:25:03">
  <decision date="2022-09-06" number="1з-52362/2022" org="Минцифры"/>
  <domain><![CDATA[pirateproxy.pm]]></domain>
- <ip>199.59.243.223</ip>
+ <ip>199.59.243.225</ip>
 </content>
 <content id="4789387" includeTime="2022-09-07T17:09:39" entryType="5" hash="B39F4870D9DB0674640868155FF4D36C" blockType="domain" ts="2022-09-07T17:09:39">
  <decision date="2022-09-06" number="1з-52363/2022" org="Минцифры"/>

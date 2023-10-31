@@ -8851,13 +8851,17 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:032d</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:823b</ipv6>
 </content>
-<content id="6460425" includeTime="2023-10-27T22:10:02" entryType="1" hash="F8989E4D6423B3A5357E25F343ED0118" blockType="domain" ts="2023-10-27T22:40:04">
+<content id="6460425" includeTime="2023-10-27T22:10:02" entryType="1" hash="9E12A037942EB845D810A15EC759A1E1" blockType="domain" ts="2023-10-31T14:25:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[kraken8-at.com]]></domain>
  <ip>104.21.67.239</ip>
  <ip>172.67.182.249</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b6f9</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:43ef</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6460426" includeTime="2023-10-27T22:10:02" entryType="1" hash="85BF9100F0B0BE537B01AE65FF39BF51" blockType="domain" ts="2023-10-27T22:40:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -8880,13 +8884,17 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a58e</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:2ac4</ipv6>
 </content>
-<content id="6460430" includeTime="2023-10-27T22:10:02" entryType="1" hash="E5BFF8CAAFAC6ED34F7AEB8A5DEADFF5" blockType="domain" ts="2023-10-27T22:40:04">
+<content id="6460430" includeTime="2023-10-27T22:10:02" entryType="1" hash="B335C73B31411F9FAAB6B45C9E00F852" blockType="domain" ts="2023-10-31T14:25:03">
  <decision date="2023-10-26" number="2023-10-19-3766-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[alkodostavka96.ru]]></domain>
  <ip>104.21.10.48</ip>
  <ip>172.67.189.240</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0a30</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:bdf0</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6460431" includeTime="2023-10-27T22:10:02" entryType="1" hash="B9FCD64D6054E80A59BF9E297D11BA9F" blockType="domain" ts="2023-10-27T22:40:04">
  <decision date="2023-10-27" number="2279363-URL-on" org="Роскомнадзор"/>
@@ -12740,14 +12748,18 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8c57</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:369e</ipv6>
 </content>
-<content id="6462371" includeTime="2023-10-30T13:35:03" entryType="1" hash="259D0B19FD231062151CE7C9BB96756D" ts="2023-10-30T13:35:03">
+<content id="6462371" includeTime="2023-10-30T13:35:03" entryType="1" hash="595C5B70AFCF245A12C0547F48C3300C" ts="2023-10-31T14:25:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://russvil.ru/podebradi.html]]></url>
  <domain><![CDATA[russvil.ru]]></domain>
  <ip>104.21.62.209</ip>
  <ip>172.67.139.66</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3ed1</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8b42</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6462375" includeTime="2023-10-30T13:35:03" entryType="1" hash="AEA873ADE905E987EEB9C3CE14989E47" ts="2023-10-30T13:35:03">
  <decision date="2023-10-26" number="2023-10-26-1140-ПЛ" org="Росздравнадзор"/>
@@ -15062,6 +15074,41 @@
  <ipv6>2600:9000:2118:ec00:0005:d5bc:9cc0:0021</ipv6>
  <ipv6>2600:9000:2118:fa00:0005:d5bc:9cc0:0021</ipv6>
 </content>
+<content id="6462969" includeTime="2023-10-31T14:25:03" entryType="5" hash="359F6567F2D86DA5DB7B2B23E9825272" blockType="domain" ts="2023-10-31T14:25:03">
+ <decision date="2023-10-26" number="1з-72937/2023" org="Минцифры"/>
+ <domain><![CDATA[m3.lordserials.bio]]></domain>
+ <ip>81.17.19.227</ip>
+</content>
+<content id="6462970" includeTime="2023-10-31T14:25:03" entryType="5" hash="A88BD0EECDEA2EF34476C3017AD04FB7" blockType="domain" ts="2023-10-31T14:25:03">
+ <decision date="2023-10-26" number="1з-73097/2023" org="Минцифры"/>
+ <domain><![CDATA[livetv719.me]]></domain>
+ <ip>81.17.19.227</ip>
+</content>
+<content id="6462971" includeTime="2023-10-31T14:25:03" entryType="5" hash="565BCB1CADE46F6EAB720622C9BD0E45" blockType="domain" ts="2023-10-31T14:25:03">
+ <decision date="2023-10-26" number="1з-73098/2023" org="Минцифры"/>
+ <domain><![CDATA[livetv720.me]]></domain>
+ <ip>81.17.19.227</ip>
+</content>
+<content id="6462972" includeTime="2023-10-31T14:25:03" entryType="5" hash="4114089CFA42E99F7F737F31D5A03ED4" blockType="domain" ts="2023-10-31T14:25:03">
+ <decision date="2023-10-26" number="1з-73100/2023" org="Минцифры"/>
+ <domain><![CDATA[cdn.livetv720.me]]></domain>
+ <ip>81.17.19.227</ip>
+</content>
+<content id="6462973" includeTime="2023-10-31T14:25:03" entryType="5" hash="B8E58502821D9F21E28A1561610BE94D" blockType="domain" ts="2023-10-31T14:25:03">
+ <decision date="2023-10-26" number="1з-72954/2023" org="Минцифры"/>
+ <domain><![CDATA[1604.lordseria.cc]]></domain>
+ <ip>81.17.19.227</ip>
+</content>
+<content id="6462974" includeTime="2023-10-31T14:25:03" entryType="5" hash="61450F2F9480E717FE340B72BC5520DF" blockType="domain" ts="2023-10-31T14:25:03">
+ <decision date="2023-10-26" number="1з-73028/2023" org="Минцифры"/>
+ <domain><![CDATA[tv22.lordserial.uno]]></domain>
+ <ip>81.17.19.227</ip>
+</content>
+<content id="6462975" includeTime="2023-10-31T14:25:03" entryType="5" hash="1D408DF9C125F0A1B5355F52E802F3FD" blockType="domain" ts="2023-10-31T14:25:03">
+ <decision date="2023-10-26" number="1з-73035/2023" org="Минцифры"/>
+ <domain><![CDATA[tv4.lordserial.tv]]></domain>
+ <ip>81.17.19.227</ip>
+</content>
 <content id="6462976" includeTime="2023-10-28T18:00:05" entryType="5" hash="BEC3B96D9C8819D2FA2D00E0D4C4CCAE" blockType="domain" ts="2023-10-28T18:00:05">
  <decision date="2023-10-26" number="1з-72936/2023" org="Минцифры"/>
  <domain><![CDATA[m1.lordserials.bio]]></domain>
@@ -15686,15 +15733,6 @@
  <url><![CDATA[http://piridisinigi.serial4ikking.online/203-zhizn-po-vyzovu-2-sezon-m-28-10-2023-09.html]]></url>
  <domain><![CDATA[piridisinigi.serial4ikking.online]]></domain>
  <ip>80.66.79.132</ip>
-</content>
-<content id="6463196" includeTime="2023-10-28T19:55:03" entryType="2" hash="B7B8CCA19E304C4259D3247377AA1CB9" ts="2023-10-28T19:55:03">
- <decision date="2023-08-23" number="определение о предварительном обеспечении по заявлению № 2И-9947/2023" org="Мосгорсуд"/>
- <url><![CDATA[https://2-new-rutor.123rutor.su/torrent/941030/zhizn-po-vyzovu-02h01-09-iz-10-2023-webrip-1080p/]]></url>
- <domain><![CDATA[2-new-rutor.123rutor.su]]></domain>
- <ip>104.21.32.42</ip>
- <ip>172.67.182.203</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:202a</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:b6cb</ipv6>
 </content>
 <content id="6463197" includeTime="2023-10-28T19:55:03" entryType="2" hash="35F52B29CC40CAF7D05E5A96BF2D3519" ts="2023-10-28T19:55:03">
  <decision date="2023-08-23" number="определение о предварительном обеспечении по заявлению № 2И-9947/2023" org="Мосгорсуд"/>

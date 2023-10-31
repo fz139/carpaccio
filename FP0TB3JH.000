@@ -783,11 +783,11 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0d8c</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:84e2</ipv6>
 </content>
-<content id="71981" includeTime="2014-03-21T21:28:17" entryType="1" hash="8E41E10DA97FC70B2789D8BDCBCD8A58" ts="2014-03-21T21:28:17">
+<content id="71981" includeTime="2014-03-21T21:28:17" entryType="1" hash="54BEA6BDE2BE27B3152FF1A1E40CA21E" ts="2023-10-31T14:25:03">
  <decision date="2013-06-10" number="2-946/13" org="Октябрьский районный суд г. Ставрополя"/>
  <url><![CDATA[https://ru.unibet.com/casino]]></url>
  <domain><![CDATA[ru.unibet.com]]></domain>
- <ip>85.184.96.0</ip>
+ <ip>85.184.96.28</ip>
 </content>
 <content id="71982" includeTime="2014-04-11T12:03:51" entryType="1" hash="ADCBA23C37B7A521A102F21CB85C85F2" ts="2014-04-11T12:03:51">
  <decision date="2013-06-10" number="2-946/13" org="Октябрьский районный суд г. Ставрополя"/>
@@ -1070,12 +1070,14 @@
  <domain><![CDATA[www.casinotropez.com]]></domain>
  <ip>23.38.8.85</ip>
 </content>
-<content id="75138" includeTime="2014-04-11T12:03:51" entryType="1" hash="B80AA922EDC1525A8ABCDC418CC27741" ts="2014-04-11T12:03:51">
+<content id="75138" includeTime="2014-04-11T12:03:51" entryType="1" hash="696E4706B820B14F008991020FE80211" ts="2023-10-31T14:25:03">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
  <url><![CDATA[http://www.alljackpotscasino.com]]></url>
  <domain><![CDATA[www.alljackpotscasino.com]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.234</ip>
 </content>
 <content id="75139" includeTime="2014-04-11T12:03:51" entryType="1" hash="274321392A95674AB2CD7BF391FBA80A" ts="2014-04-11T12:03:51">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
@@ -1131,10 +1133,10 @@
  <domain><![CDATA[www.pokerstars.be]]></domain>
  <ip>15.197.215.179</ip>
 </content>
-<content id="75159" includeTime="2014-04-11T12:03:51" entryType="1" hash="8DCB23AE0056D819DF4208C019BF61A6" blockType="domain" ts="2014-04-11T12:03:51">
+<content id="75159" includeTime="2014-04-11T12:03:51" entryType="1" hash="236EB14F3100859CA87B58C069D2DD73" blockType="domain" ts="2023-10-31T14:25:03">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
  <domain><![CDATA[www.unibet.com]]></domain>
- <ip>85.184.96.0</ip>
+ <ip>85.184.96.28</ip>
 </content>
 <content id="75160" includeTime="2014-04-11T12:03:51" entryType="1" hash="F4160C249ABF3B839856A50FA62B82D8" ts="2014-04-11T12:03:51">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
@@ -1234,14 +1236,18 @@
  <ip>104.18.188.226</ip>
  <ip>104.18.189.226</ip>
 </content>
-<content id="75796" includeTime="2014-04-11T12:03:51" entryType="1" hash="024D566EC45481059DF12034BAA6E0DC" ts="2014-04-11T12:03:51">
+<content id="75796" includeTime="2014-04-11T12:03:51" entryType="1" hash="175A5E5F04CFA0C88DAA3DAC8F34E447" ts="2023-10-31T14:25:03">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
  <url><![CDATA[http://www.thisisvegas.com]]></url>
  <domain><![CDATA[www.thisisvegas.com]]></domain>
  <ip>104.21.75.65</ip>
  <ip>172.67.215.184</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4b41</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d7b8</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="75799" includeTime="2014-04-11T12:03:51" entryType="1" hash="4C9AD10BC967CCDD9B91CA2E5489F697" blockType="domain" ts="2014-04-11T12:03:51">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
@@ -1404,19 +1410,25 @@
  <domain><![CDATA[www.titanbet.com]]></domain>
  <ip>104.114.138.172</ip>
 </content>
-<content id="75871" includeTime="2014-04-11T12:03:50" entryType="1" hash="A8E84FCFD2170F0F73C88C2693135BB5" ts="2014-04-11T12:03:50">
+<content id="75871" includeTime="2014-04-11T12:03:50" entryType="1" hash="34DD880D4BE047931EDC151B18BA0194" ts="2023-10-31T14:25:03">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
  <url><![CDATA[http://www.pokertime.eu]]></url>
  <domain><![CDATA[www.pokertime.eu]]></domain>
+ <ip>172.66.40.124</ip>
+ <ip>172.66.43.132</ip>
  <ip>188.114.98.224</ip>
  <ip>188.114.99.224</ip>
+ <ipv6>2606:4700:3108:0000:0000:0000:ac42:287c</ipv6>
+ <ipv6>2606:4700:3108:0000:0000:0000:ac42:2b84</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
-<content id="75873" includeTime="2014-04-11T12:03:50" entryType="1" hash="10FDDED61D9DA171A2D1ECC611D69125" ts="2014-04-11T12:03:50">
+<content id="75873" includeTime="2014-04-11T12:03:50" entryType="1" hash="A8F91411E7C3FF6B5E2BAE3AC637AE55" ts="2023-10-31T14:25:03">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
  <url><![CDATA[http://www.wildjackcasino.com]]></url>
  <domain><![CDATA[www.wildjackcasino.com]]></domain>
+ <ip>104.17.221.25</ip>
+ <ip>104.17.9.58</ip>
  <ip>104.18.194.226</ip>
  <ip>104.18.195.226</ip>
 </content>
@@ -1432,12 +1444,14 @@
  <domain><![CDATA[www.rivernilecasino.net]]></domain>
  <ip>66.212.242.131</ip>
 </content>
-<content id="75879" includeTime="2014-04-11T12:03:50" entryType="1" hash="75B176D6F33577C58180AC46B98A8985" ts="2014-04-11T12:03:50">
+<content id="75879" includeTime="2014-04-11T12:03:50" entryType="1" hash="15D96C9F54378C42E5A7208181BF0664" ts="2023-10-31T14:25:03">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
  <url><![CDATA[http://www.rubyfortune.com]]></url>
  <domain><![CDATA[www.rubyfortune.com]]></domain>
  <ip>104.18.89.101</ip>
  <ip>104.18.90.101</ip>
+ <ip>104.19.248.127</ip>
+ <ip>104.19.249.127</ip>
 </content>
 <content id="75880" includeTime="2014-04-11T12:03:50" entryType="1" hash="921D1C1FE77F44F633BD33B7ABB3109A" ts="2014-04-11T12:03:50">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
@@ -1445,11 +1459,13 @@
  <domain><![CDATA[www.playerspalacecasino.eu]]></domain>
  <ip>66.212.229.223</ip>
 </content>
-<content id="75882" includeTime="2014-04-11T12:03:50" entryType="1" hash="E5E662313C92ACDC920C54B0A2F4CD70" blockType="domain" ts="2014-04-11T12:03:50">
+<content id="75882" includeTime="2014-04-11T12:03:50" entryType="1" hash="1FD20A0D3C7FB34F581F000814087AD8" blockType="domain" ts="2023-10-31T14:25:03">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
  <domain><![CDATA[www.cherrycasino.com]]></domain>
  <ip>104.17.220.46</ip>
  <ip>104.17.221.46</ip>
+ <ip>104.18.125.104</ip>
+ <ip>104.18.126.104</ip>
 </content>
 <content id="75883" includeTime="2014-04-11T12:03:50" entryType="1" hash="43B71B29BA59D57613E3667F2F08C4DC" ts="2014-04-11T12:03:50">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
@@ -1475,9 +1491,11 @@
  <ip>195.72.134.95</ip>
  <ip>195.72.135.95</ip>
 </content>
-<content id="75887" includeTime="2014-04-11T12:03:50" entryType="1" hash="FC45EB97687F7DC9827078B9B718DDF9" blockType="domain" ts="2014-04-11T12:03:50">
+<content id="75887" includeTime="2014-04-11T12:03:50" entryType="1" hash="0379E83C35375A5D6653683896869AE4" blockType="domain" ts="2023-10-31T14:25:03">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
  <domain><![CDATA[www.riverbellecasino.com]]></domain>
+ <ip>104.16.205.22</ip>
+ <ip>104.16.206.22</ip>
  <ip>104.18.85.221</ip>
  <ip>104.18.86.221</ip>
 </content>
@@ -1536,14 +1554,18 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c222</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:5c81</ipv6>
 </content>
-<content id="75913" includeTime="2014-04-11T12:03:50" entryType="1" hash="8865DA1554D6441C4C9ABCB02A3463C1" ts="2014-04-11T12:03:50">
+<content id="75913" includeTime="2014-04-11T12:03:50" entryType="1" hash="8E89EA5E916F6C0BA7F1B6F4428A6288" ts="2023-10-31T14:25:03">
  <decision date="2013-12-12" number="2-8558/13" org="Промышленный районный суд г.Самары"/>
  <url><![CDATA[http://www.seedsman.com/]]></url>
  <domain><![CDATA[www.seedsman.com]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="75914" includeTime="2014-04-11T12:03:50" entryType="1" hash="2E9BED806C08E4AEA8EBD72145239E2D" ts="2014-04-11T12:03:50">
  <decision date="2013-12-12" number="2-8557/13" org="Промышленный районный суд г.Самары"/>
@@ -1568,12 +1590,14 @@
  <domain><![CDATA[www.grandhotelcasino.com]]></domain>
  <ip>66.212.229.213</ip>
 </content>
-<content id="75932" includeTime="2014-04-11T12:03:50" entryType="1" hash="B3656108A34B0A90DD80ADD51C7EBA53" ts="2014-04-11T12:03:50">
+<content id="75932" includeTime="2014-04-11T12:03:50" entryType="1" hash="83FC78F26A07B22EF9ACFDBF9CC1B47B" ts="2023-10-31T14:25:03">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
  <url><![CDATA[http://www.paddypower.com]]></url>
  <domain><![CDATA[www.paddypower.com]]></domain>
  <ip>104.18.30.65</ip>
  <ip>104.18.31.65</ip>
+ <ip>104.18.35.133</ip>
+ <ip>172.64.152.123</ip>
 </content>
 <content id="75947" includeTime="2014-04-11T12:03:50" entryType="1" hash="E385191300D711EB579E46CE6DA1155C" ts="2014-04-11T12:03:50">
  <decision date="2013-12-09" number="2-8732/13" org="Промышленный районный суд г.Самары"/>
@@ -1728,12 +1752,14 @@
  <domain><![CDATA[chinarazor.diytrade.com]]></domain>
  <ip>195.189.226.155</ip>
 </content>
-<content id="78498" includeTime="2014-05-14T18:06:20" entryType="1" hash="CF57FCD53BC54D1467B00A556CE8D412" ts="2014-05-14T18:06:20">
+<content id="78498" includeTime="2014-05-14T18:06:20" entryType="1" hash="1F82C28E112B0B2AD3A3A61F5ECA372C" ts="2023-10-31T14:25:03">
  <decision date="2013-12-03" number="2-12685/13" org="Ленинский районный суд г.Краснодара"/>
  <url><![CDATA[http://casino.netbet.com/ru]]></url>
  <domain><![CDATA[casino.netbet.com]]></domain>
  <ip>104.16.180.110</ip>
  <ip>104.16.181.110</ip>
+ <ip>104.19.247.21</ip>
+ <ip>104.19.248.21</ip>
 </content>
 <content id="79436" includeTime="2015-02-11T17:10:39" entryType="1" hash="EEA3F920155D294FC976093B780AEEE2" ts="2015-02-11T17:10:39">
  <decision date="2014-04-25" number="2/1/11-20307" org="ФСКН"/>
@@ -1771,12 +1797,16 @@
  <ip>176.56.182.155</ip>
  <ip>87.239.187.242</ip>
 </content>
-<content id="79708" includeTime="2014-05-14T18:06:20" entryType="1" hash="B80BB8B4624A3157C7A3567159084428" ts="2014-05-14T18:06:20">
+<content id="79708" includeTime="2014-05-14T18:06:20" entryType="1" hash="33879A38BE90EE721B6D9F8E4ED56C8D" ts="2023-10-31T14:25:03">
  <decision date="2014-02-19" number="2-1520/14" org="Промышленный районный суд г.Самары"/>
  <url><![CDATA[http://1001casino.com/]]></url>
  <domain><![CDATA[1001casino.com]]></domain>
+ <ip>104.18.119.61</ip>
+ <ip>104.18.120.61</ip>
  <ip>104.19.154.92</ip>
  <ip>104.19.155.92</ip>
+ <ipv6>2606:4700:0000:0000:0000:0000:6812:773d</ipv6>
+ <ipv6>2606:4700:0000:0000:0000:0000:6812:783d</ipv6>
  <ipv6>2606:4700:0000:0000:0000:0000:6813:9a5c</ipv6>
  <ipv6>2606:4700:0000:0000:0000:0000:6813:9b5c</ipv6>
 </content>
@@ -1918,12 +1948,16 @@
  <ip>178.21.19.207</ip>
  <ipv6>2a00:1ca8:002a:0000:0000:0000:0000:026f</ipv6>
 </content>
-<content id="81851" includeTime="2014-08-21T17:59:30" entryType="1" hash="8935EE5152F27F96D10F7049D56FB078" ts="2014-08-21T17:59:30">
+<content id="81851" includeTime="2014-08-21T17:59:30" entryType="1" hash="BF736D7BC4A024720C2DD54A1A877275" ts="2023-10-31T14:25:03">
  <decision date="2014-03-17" number="2/1/11-18189" org="ФСКН"/>
  <url><![CDATA[http://www.ru.legalizer.info/]]></url>
  <domain><![CDATA[www.ru.legalizer.info]]></domain>
  <ip>104.21.15.64</ip>
+ <ip>104.21.40.70</ip>
  <ip>172.67.161.195</ip>
+ <ip>172.67.180.84</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:b454</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:2846</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a1c3</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:0f40</ipv6>
 </content>
@@ -1959,9 +1993,11 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:1bc8</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a9ba</ipv6>
 </content>
-<content id="81939" includeTime="2014-06-17T02:50:52" entryType="1" hash="E37079E02D6FF65CF681D77AE60E570B" blockType="domain" ts="2014-06-17T02:50:52">
+<content id="81939" includeTime="2014-06-17T02:50:52" entryType="1" hash="5EE5825FF05A8455710C9C626A4D51AC" blockType="domain" ts="2023-10-31T14:25:03">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
  <domain><![CDATA[www.luckynuggetcasino.com]]></domain>
+ <ip>104.18.245.78</ip>
+ <ip>104.18.246.78</ip>
  <ip>104.18.250.220</ip>
  <ip>104.18.251.220</ip>
 </content>
@@ -2385,11 +2421,11 @@
  <domain><![CDATA[kavkazcenter.net]]></domain>
  <ip>185.157.223.250</ip>
 </content>
-<content id="86778" includeTime="2014-07-08T17:17:56" entryType="1" hash="E999188ECC919EC1560BF64B0FC43BCF" ts="2014-07-08T17:17:56">
+<content id="86778" includeTime="2014-07-08T17:17:56" entryType="1" hash="A847C2EB31CB7856986DF19102068286" ts="2023-10-31T14:25:03">
  <decision date="2011-09-12" number="2-5413/11" org="Никулинский районный суд г.Москвы"/>
  <url><![CDATA[http://kavkaznews.com]]></url>
  <domain><![CDATA[kavkaznews.com]]></domain>
- <ip>185.167.177.120</ip>
+ <ip>185.157.223.250</ip>
 </content>
 <content id="86779" includeTime="2014-07-08T17:17:56" entryType="1" hash="C72D6D49A48E61CFF96DFEEFA3944B82" ts="2023-09-28T15:05:02">
  <decision date="2011-09-12" number="2-5413/11" org="Никулинский районный суд г.Москвы"/>
@@ -3156,23 +3192,30 @@
  <ip>15.197.215.179</ip>
  <ip>3.33.250.164</ip>
 </content>
-<content id="96512" includeTime="2014-08-26T13:24:15" entryType="1" hash="B4FE7A85C76F5A382E6299E22F3BE40D" ts="2014-08-26T13:24:15">
+<content id="96512" includeTime="2014-08-26T13:24:15" entryType="1" hash="E61C1103C4EF05FEB8B21DB0B5A2800E" ts="2023-10-31T14:25:03">
  <decision date="2014-06-17" number="2-4288/14" org="Промышленный районный суд г. Самары"/>
  <url><![CDATA[http://www.royalqueenseeds.com/]]></url>
  <domain><![CDATA[www.royalqueenseeds.com]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="96516" includeTime="2014-08-26T13:24:15" entryType="1" hash="69759BE5DED581962A3CD01C28B1C66A" ts="2014-08-26T13:24:15">
+<content id="96516" includeTime="2014-08-26T13:24:15" entryType="1" hash="5CF7F502B811142E6489CC3AD0A152ED" blockType="domain" ts="2023-10-31T14:25:03">
  <decision date="2014-06-17" number="2-4284/14" org="Промышленный районный суд г. Самары"/>
- <url><![CDATA[http://www.ministryofcannabis.com/]]></url>
  <domain><![CDATA[www.ministryofcannabis.com]]></domain>
  <ip>104.20.68.115</ip>
  <ip>104.20.69.115</ip>
+ <ip>172.66.40.19</ip>
+ <ip>172.66.43.237</ip>
  <ipv6>2606:4700:0010:0000:0000:0000:6814:4473</ipv6>
  <ipv6>2606:4700:0010:0000:0000:0000:6814:4573</ipv6>
+ <ipv6>2606:4700:3108:0000:0000:0000:ac42:2813</ipv6>
+ <ipv6>2606:4700:3108:0000:0000:0000:ac42:2bed</ipv6>
 </content>
 <content id="96517" includeTime="2014-08-26T13:24:15" entryType="1" hash="6A8AB088857BD609B39879EF5A30F94B" ts="2014-08-26T13:24:15">
  <decision date="2014-06-17" number="2-4283/14" org="Промышленный районный суд г. Самары"/>
@@ -3707,14 +3750,17 @@
  <ipv6>2a03:b0c0:0002:00f0:0000:0000:03a6:5001</ipv6>
  <ipv6>2a03:b0c0:0002:00f0:0000:0000:03a6:8001</ipv6>
 </content>
-<content id="101046" includeTime="2014-10-02T18:55:41" entryType="1" hash="85433F36E351EC713E2F65E0FA694F3C" ts="2014-10-02T18:55:41">
+<content id="101046" includeTime="2014-10-02T18:55:41" entryType="1" hash="3C7A59488F97CE32FC78DA42F9A7D606" blockType="domain" ts="2023-10-31T14:25:03">
  <decision date="2014-06-06" number="2-4326/14" org="Промышленный районный суд г. Самары"/>
- <url><![CDATA[http://www.bonzaseeds.com/]]></url>
  <domain><![CDATA[www.bonzaseeds.com]]></domain>
  <ip>104.21.47.91</ip>
  <ip>172.67.146.21</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2f5b</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:9215</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="101864" includeTime="2014-09-24T14:40:46" urgencyType="1" entryType="3" hash="E010EA682A1FD21998DC0ED1975A06B0" blockType="domain" ts="2014-09-24T14:40:46">
  <decision date="2014-03-17" number="" org=""/>
@@ -4070,11 +4116,13 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:eaea</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:eaeb</ipv6>
 </content>
-<content id="106729" includeTime="2014-11-03T01:01:52" entryType="1" hash="FE0B43CD510EB3B3FA7D440A2255D2C2" blockType="domain" ts="2014-11-03T01:01:52">
+<content id="106729" includeTime="2014-11-03T01:01:52" entryType="1" hash="F6F4BC69590A4E2E398115ECCFB83C78" blockType="domain" ts="2023-10-31T14:25:03">
  <decision date="2014-10-15" number="37669-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[juliamovies.com]]></domain>
- <ip>162.251.108.162</ip>
- <ipv6>2605:6280:0001:00a3:0000:0000:0000:0006</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="107010" includeTime="2014-10-16T08:34:00" urgencyType="1" entryType="3" hash="5C47540D351CE8ED62333F311C5A966D" ts="2014-10-16T08:34:00">
  <decision date="2014-03-13" number="" org=""/>
@@ -8813,14 +8861,18 @@
  <domain><![CDATA[mirror93.graniru.info]]></domain>
  <ip>104.130.236.41</ip>
 </content>
-<content id="121689" includeTime="2023-09-06T13:45:02" entryType="1" hash="2EDBEFC862AB70BDE6E921007DB4B126" ts="2023-09-06T13:45:02">
+<content id="121689" includeTime="2023-09-06T13:45:02" entryType="1" hash="552A6A2E7541C695371E70F0E68404AB" ts="2023-10-31T14:25:03">
  <decision date="2014-07-28" number="2-1416" org="Куйбышевский районный суд г. Самары - Самарская область"/>
  <url><![CDATA[http://high-stone.com]]></url>
  <domain><![CDATA[high-stone.com]]></domain>
  <ip>104.21.8.245</ip>
  <ip>172.67.130.199</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:08f5</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:82c7</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="121711" includeTime="2014-11-25T08:58:50" urgencyType="1" entryType="3" hash="580798029895B082808477E09E2349C3" ts="2014-11-25T08:58:50">
  <decision date="2014-03-13" number="" org=""/>
@@ -8873,14 +8925,18 @@
  <domain><![CDATA[cannabismoon.com]]></domain>
  <ip>185.110.92.18</ip>
 </content>
-<content id="122678" includeTime="2015-01-28T18:26:47" entryType="1" hash="3778C0EF58C9332DC4A0856124460D4E" ts="2015-01-28T18:26:47">
+<content id="122678" includeTime="2015-01-28T18:26:47" entryType="1" hash="49E0200915B130C6EB1151287478D5DF" ts="2023-10-31T14:25:03">
  <decision date="2014-11-26" number="2/1/11-29967" org="ФСКН"/>
  <url><![CDATA[http://blogs.ukrhome.net/view/16189/]]></url>
  <domain><![CDATA[blogs.ukrhome.net]]></domain>
  <ip>104.21.23.129</ip>
  <ip>172.67.211.72</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:1781</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d348</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="122939" includeTime="2014-11-27T16:27:35" urgencyType="1" entryType="3" hash="B1A464D3F83F2685953EC54CB2BB1E67" ts="2014-11-27T16:27:35">
  <decision date="2014-03-13" number="" org=""/>
@@ -9153,11 +9209,15 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:22c7</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a479</ipv6>
 </content>
-<content id="127159" includeTime="2014-12-17T15:19:13" entryType="1" hash="4D2585F7B6BA47A397BBB45770C63F52" blockType="domain" ts="2014-12-17T15:19:13">
+<content id="127159" includeTime="2014-12-17T15:19:13" entryType="1" hash="00B6B175648202164D579BB43058A1BC" blockType="domain" ts="2023-10-31T14:25:03">
  <decision date="2014-12-10" number="2/1/11-30312" org="ФСКН"/>
  <domain><![CDATA[ua.legalizer.info]]></domain>
  <ip>104.21.15.64</ip>
+ <ip>104.21.40.70</ip>
  <ip>172.67.161.195</ip>
+ <ip>172.67.180.84</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:b454</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:2846</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a1c3</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:0f40</ipv6>
 </content>
@@ -9229,14 +9289,18 @@
  <domain><![CDATA[mirror121.graniru.info]]></domain>
  <ip>207.97.239.78</ip>
 </content>
-<content id="128571" includeTime="2015-02-11T17:10:33" entryType="1" hash="EE5C090149ED62EC3D1530D4A65B543D" ts="2015-02-11T17:10:33">
+<content id="128571" includeTime="2015-02-11T17:10:33" entryType="1" hash="47B2FBCFD9CC1CC852D80FF762B949DA" ts="2023-10-31T14:25:03">
  <decision date="2014-12-11" number="5419" org="Роспотребнадзор"/>
  <url><![CDATA[http://hvylya.net/analytics/society/rossiyskiy-narod-put-k-samoubiystvu.html]]></url>
  <domain><![CDATA[hvylya.net]]></domain>
  <ip>104.21.45.70</ip>
  <ip>172.67.211.15</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:2d46</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:d30f</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="129212" includeTime="2014-12-25T13:54:35" entryType="1" hash="BCBB5DFC22CB76124520FBBF8A906413" blockType="domain" ts="2014-12-25T13:54:35">
  <decision date="2014-12-16" number="44548-URL-on" org="Роскомнадзор"/>
