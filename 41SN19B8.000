@@ -2633,14 +2633,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:2950</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:a30c</ipv6>
 </content>
-<content id="5466464" includeTime="2023-02-15T22:06:16" entryType="1" hash="1FD439842567DF27744BAE7250948A87" blockType="domain-mask" ts="2023-02-15T22:06:16">
- <decision date="2017-10-27" number="2-6-20/ 2017-10-26-206-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.24freedom.ru]]></domain>
- <ip>104.21.55.253</ip>
- <ip>172.67.174.213</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:aed5</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:37fd</ipv6>
-</content>
 <content id="5466470" includeTime="2023-02-17T13:25:13" entryType="1" hash="BDB36FBA5415785154B50F56ED55BFCD" ts="2023-02-17T13:25:13">
  <decision date="2023-02-15" number="1981462-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://4archive.org/board/b/thread/561392513/starting-a-new-one-here-u-go-guys-since-the-movie-just#p561393296]]></url>
@@ -7858,14 +7850,6 @@
  <ip>172.67.147.90</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:935a</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:59d3</ipv6>
-</content>
-<content id="5476003" includeTime="2023-02-17T13:25:14" entryType="1" hash="C0377F5F8B4F44880CFA922615F87D46" blockType="domain" ts="2023-02-17T13:25:14">
- <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[plus.lordflims.link]]></domain>
- <ip>104.21.36.41</ip>
- <ip>172.67.184.185</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2429</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:b8b9</ipv6>
 </content>
 <content id="5476004" includeTime="2023-02-16T22:35:13" entryType="1" hash="59DD99776E3E4EF7BE324FC3871E8BCE" blockType="domain-mask" ts="2023-02-16T22:35:13">
  <decision date="2017-10-27" number="2-6-20/ 2017-10-26-206-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -20074,6 +20058,15 @@
  <ip>172.67.161.146</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a192</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:4163</ipv6>
+</content>
+<content id="5491766" includeTime="2023-11-01T21:25:03" entryType="2" hash="31D15A40502FD6D0619C086FC6A648EC" ts="2023-11-01T21:25:03">
+ <decision date="2023-02-08" number="определение о предварительном обеспечении по заявлению № 2И-1175/2023" org="Мосгорсуд"/>
+ <url><![CDATA[https://www.hdfilms.red/ru/movie/76814-priklyucheniya-argonavtov.html]]></url>
+ <domain><![CDATA[www.hdfilms.red]]></domain>
+ <ip>104.21.76.244</ip>
+ <ip>172.67.202.82</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:4cf4</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:ca52</ipv6>
 </content>
 <content id="5491770" includeTime="2023-03-02T16:04:07" entryType="2" hash="9661BDE971CC50031E43A464E2800A15" ts="2023-03-02T16:04:07">
  <decision date="2023-02-08" number="определение о предварительном обеспечении по заявлению № 2И-1175/2023" org="Мосгорсуд"/>
