@@ -4323,7 +4323,7 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:ba3b</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:5098</ipv6>
 </content>
-<content id="3583865" includeTime="2021-09-07T19:09:31" entryType="1" hash="244E745967193E57F1BFB3988BFC40B5" ts="2023-10-04T19:50:02">
+<content id="3583865" includeTime="2021-09-07T19:09:31" entryType="1" hash="1F00BF896FBC6DC9B3A727BF70FAD229" ts="2023-11-02T18:20:03">
  <decision date="2021-08-31" number="1411558-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com//images/5e/5c/5e5c07dde18048cfde38f72c7ac07312.png]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
@@ -4333,6 +4333,10 @@
  <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
+ <ip>172.64.130.27</ip>
+ <ip>172.64.131.27</ip>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:821b</ipv6>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:831b</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
@@ -7286,13 +7290,17 @@
  <domain><![CDATA[moscow-1.russia.x-narod.ru]]></domain>
  <ip>5.45.74.44</ip>
 </content>
-<content id="3593409" includeTime="2021-09-06T19:33:19" entryType="1" hash="8666BD23C9FF1573BA64941748D85762" blockType="domain" ts="2021-09-06T19:33:19">
+<content id="3593409" includeTime="2021-09-06T19:33:19" entryType="1" hash="10F27BBDA9236E601CD56E043727FA37" blockType="domain" ts="2023-11-02T18:20:03">
  <decision date="2021-09-01" number="2021-08-31-2389-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[pill4real.com]]></domain>
  <ip>104.21.19.21</ip>
  <ip>172.67.184.121</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:1315</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:b879</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3593417" includeTime="2021-09-06T19:33:05" entryType="1" hash="DD30684D0003079B462E4ADCAD6E2708" blockType="domain" ts="2021-09-06T19:33:05">
  <decision date="2021-09-01" number="2021-08-31-2692-ПЛ" org="Росздравнадзор"/>

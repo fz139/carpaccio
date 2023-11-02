@@ -8660,7 +8660,7 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:c77d</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3a24</ipv6>
 </content>
-<content id="4821068" includeTime="2022-09-16T13:07:11" entryType="1" hash="32A6111FAEFA773A8D85020A67441BEE" ts="2023-10-04T19:50:02">
+<content id="4821068" includeTime="2022-09-16T13:07:11" entryType="1" hash="8E3E5AC4844EBD0320B407C721ABEC97" ts="2023-11-02T18:20:03">
  <decision date="2022-09-14" number="1807711-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img3.gelbooru.com//images/4e/d9/4ed99da13c473ab27fd5f16d9cd64a1f.jpeg]]></url>
  <domain><![CDATA[img3.gelbooru.com]]></domain>
@@ -8668,6 +8668,10 @@
  <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
+ <ip>172.64.130.27</ip>
+ <ip>172.64.131.27</ip>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:821b</ipv6>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:831b</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
@@ -12943,13 +12947,17 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:097c</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:bd43</ipv6>
 </content>
-<content id="4825870" includeTime="2022-09-19T15:33:04" entryType="1" hash="989833E35D2510F917B85BB958A80E2E" blockType="domain" ts="2022-09-19T15:33:04">
+<content id="4825870" includeTime="2022-09-19T15:33:04" entryType="1" hash="2906AE1C6C0A01FFECC43DBBEBA68DAB" blockType="domain" ts="2023-11-02T18:20:03">
  <decision date="2022-09-15" number="2022-09-15-500-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[generic.viagros.ru]]></domain>
  <ip>104.21.67.110</ip>
  <ip>172.67.221.99</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:dd63</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:436e</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4825875" includeTime="2022-09-19T22:04:45" entryType="1" hash="AEE874A8F0F1D83D5CB58FE95713E36F" ts="2023-11-01T19:20:04">
  <decision date="2022-09-15" number="1809163-URL-on" org="Роскомнадзор"/>

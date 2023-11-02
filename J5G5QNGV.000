@@ -14751,13 +14751,17 @@
  <domain><![CDATA[sochi3.hostmed.ru]]></domain>
  <ip>185.74.255.186</ip>
 </content>
-<content id="3767864" includeTime="2021-11-10T20:28:08" entryType="1" hash="F318AE844CAF9790E774E4B9F3DF86FB" blockType="domain" ts="2021-11-10T20:28:08">
+<content id="3767864" includeTime="2021-11-10T20:28:08" entryType="1" hash="093D9C8857838C16AD43E049B1FC0DE0" blockType="domain" ts="2023-11-02T18:20:03">
  <decision date="2021-11-03" number="2021-11-03-2101-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[ip.vitalite.one]]></domain>
  <ip>104.21.3.67</ip>
  <ip>172.67.153.120</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:0343</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9978</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3767865" includeTime="2021-11-10T20:28:04" entryType="1" hash="0150EC83B04669AE94E89C26ACE6990B" blockType="domain" ts="2021-11-10T20:28:04">
  <decision date="2021-11-03" number="2021-11-03-2274-ПЛ" org="Росздравнадзор"/>
@@ -17294,7 +17298,7 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2edf</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:8eb2</ipv6>
 </content>
-<content id="3771670" includeTime="2021-11-23T13:28:09" entryType="1" hash="F24CD9C61DCC76610DEA0D3BFA74AF64" ts="2023-10-04T19:50:02">
+<content id="3771670" includeTime="2021-11-23T13:28:09" entryType="1" hash="F61C9370A1A6AEB3762EC880CD8DF6CB" ts="2023-11-02T18:20:03">
  <decision date="2021-11-10" number="1495179-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img1.gelbooru.com//images/88/2e/882eb364c23d2fadf579f8d23f10132b.png]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
@@ -17304,6 +17308,10 @@
  <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
+ <ip>172.64.130.27</ip>
+ <ip>172.64.131.27</ip>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:821b</ipv6>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:831b</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>

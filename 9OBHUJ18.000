@@ -3787,7 +3787,7 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6815:2d8f</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:d732</ipv6>
 </content>
-<content id="3888282" includeTime="2021-12-22T19:59:21" entryType="1" hash="58AFDE2DADF11E04E75F2C55342CC9B6" ts="2023-10-04T19:50:02">
+<content id="3888282" includeTime="2021-12-22T19:59:21" entryType="1" hash="BA77E9A8C93942B40F88E53C487B5E5B" ts="2023-11-02T18:20:03">
  <decision date="2021-12-20" number="1535215-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[http://img1.gelbooru.com/images/f6/ce/f6ce2a747bf0482cf5ea34e4d8c29d30.png]]></url>
  <domain><![CDATA[img1.gelbooru.com]]></domain>
@@ -3797,6 +3797,10 @@
  <ip>104.21.234.103</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
+ <ip>172.64.130.27</ip>
+ <ip>172.64.131.27</ip>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:821b</ipv6>
+ <ipv6>2606:4700:00e2:0000:0000:0000:ac40:831b</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9eb</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e9ec</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
@@ -5135,13 +5139,17 @@
  <domain><![CDATA[yuzhno-sahalinsk.area-diploma.com]]></domain>
  <ip>157.245.72.144</ip>
 </content>
-<content id="3892188" includeTime="2021-12-23T14:55:49" entryType="1" hash="5AAC350F8C534CD5F1E17CF2ECE41D5B" blockType="domain" ts="2021-12-23T14:55:49">
+<content id="3892188" includeTime="2021-12-23T14:55:49" entryType="1" hash="9815681D7655A003868C49F0DC1DCCC7" blockType="domain" ts="2023-11-02T18:20:03">
  <decision date="2021-11-29" number="02/2а-221/2021" org="Кандалакшский районный суд - Мурманская область"/>
  <domain><![CDATA[ru4.on-prava.com]]></domain>
  <ip>104.21.19.142</ip>
  <ip>172.67.186.123</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:138e</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:ba7b</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3892193" includeTime="2021-12-22T19:59:22" entryType="1" hash="33FED69A513A3D1D8396B97F20674D07" ts="2021-12-22T19:59:22">
  <decision date="2021-11-12" number="2а-2571/2021" org="Промышленный районный суд г. Владикавказа - Республика Северная Осетия - Алания"/>
