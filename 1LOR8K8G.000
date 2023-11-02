@@ -1278,6 +1278,11 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
+<content id="6470043" includeTime="2023-11-02T14:10:04" entryType="1" hash="6E67A9A4C770EC6CE6AE1432DE4004F5" blockType="domain-mask" ts="2023-11-02T14:10:04">
+ <decision date="2023-10-31" number="2282498-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lordfilm.lu]]></domain>
+ <ip>104.28.6.67</ip>
+</content>
 <content id="6470044" includeTime="2023-10-31T23:45:03" entryType="1" hash="5E9B9B2D9D3B257918BD1BEF7F90A62C" blockType="domain-mask" ts="2023-10-31T23:45:03">
  <decision date="2017-10-11" number="2-6-20/2017-10-10-84-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.freshcasino-mir.ru]]></domain>
