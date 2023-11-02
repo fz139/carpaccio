@@ -1636,11 +1636,6 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6818:7557</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6818:7457</ipv6>
 </content>
-<content id="547192" includeTime="2017-12-26T01:52:51" entryType="1" hash="E454809BC82F495EA3088457DFC81B98" blockType="domain" ts="2017-12-26T01:52:51">
- <decision date="2017-03-13" number="2-243/2017" org="Кронштадтский районный суд - Санкт-Петербург"/>
- <domain><![CDATA[anydiploms.com]]></domain>
- <ip>185.203.240.132</ip>
-</content>
 <content id="547333" includeTime="2018-11-26T09:46:43" entryType="1" hash="9D695BA88B951E3990E12FC6D4F3F716" ts="2018-11-26T09:46:43">
  <decision date="2017-06-13" number="254873-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://assets.yande.re/data/preview/7b/06/7b06f50133030eb38d411f55646ba4b1.jpg]]></url>
@@ -1734,14 +1729,18 @@
  <ip>144.76.127.69</ip>
  <ip>88.198.99.109</ip>
 </content>
-<content id="547531" includeTime="2017-07-10T21:15:28" entryType="1" hash="53927C6CB92FDA84E40272A72D236F97" ts="2023-10-04T21:55:02">
+<content id="547531" includeTime="2017-07-10T21:15:28" entryType="1" hash="14BB47497BABC93570A60D34B2FD414F" ts="2023-11-02T13:40:04">
  <decision date="2017-06-12" number="8/7/10-8553" org="МВД"/>
  <url><![CDATA[https://wshop24.net/]]></url>
  <domain><![CDATA[wshop24.net]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="547532" includeTime="2017-07-10T21:15:29" entryType="1" hash="0BACB3554A2B4D1CCDB6EC3926ABB9A6" blockType="domain" ts="2017-07-10T21:15:29">
  <decision date="2017-06-12" number="8/7/10-8584" org="МВД"/>
@@ -16113,14 +16112,6 @@
  <ip>172.67.198.251</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:3478</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c6fb</ipv6>
-</content>
-<content id="584754" includeTime="2017-07-28T12:25:27" entryType="1" hash="6D938CB522EB5B357F8476070F6B5F06" blockType="domain" ts="2017-07-28T12:25:27">
- <decision date="2017-07-02" number="8/7/10-9971" org="МВД"/>
- <domain><![CDATA[prostosk.biz]]></domain>
- <ip>104.21.66.21</ip>
- <ip>172.67.155.80</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:4215</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:9b50</ipv6>
 </content>
 <content id="585112" includeTime="2017-12-13T19:18:10" entryType="1" hash="D5C81B94AFDC2E60204F8BC9BC4AC583" blockType="domain" ts="2017-12-13T19:18:10">
  <decision date="2017-06-05" number="2(2)-126/2017" org="Приволжский районный суд - Самарская область"/>

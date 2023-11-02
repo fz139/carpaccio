@@ -142,11 +142,6 @@
  <ip>104.21.82.71</ip>
  <ip>172.67.197.189</ip>
 </content>
-<content id="6407565" includeTime="2023-10-06T22:40:04" entryType="1" hash="D94EBAC85F44AADFD2DD6A7201660328" blockType="domain-mask" ts="2023-10-06T22:40:04">
- <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.pin-up419.com]]></domain>
- <ip>188.244.122.180</ip>
-</content>
 <content id="6407566" includeTime="2023-10-06T22:40:04" entryType="1" hash="2C83E734517AD510CE10BE5574609FBA" blockType="domain" ts="2023-10-06T22:40:04">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[nu26.alexfilm.one]]></domain>
@@ -556,11 +551,6 @@
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[svbaktiv.ru]]></domain>
  <ip>38.180.2.41</ip>
-</content>
-<content id="6407695" includeTime="2023-10-06T22:40:04" entryType="1" hash="378AFA70A2162547194CB2BAE9298F4B" blockType="domain" ts="2023-10-06T22:40:04">
- <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[full.playserial.top]]></domain>
- <ip>5.45.68.127</ip>
 </content>
 <content id="6407696" includeTime="2023-10-06T22:40:04" entryType="1" hash="881C244BFA687CECE910A93831838099" blockType="domain" ts="2023-10-06T22:40:04">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1002,14 +992,18 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:9eba</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:494a</ipv6>
 </content>
-<content id="6407842" includeTime="2023-10-09T15:35:03" entryType="1" hash="3D432F6857A0AC392E5C98276CE8F8AA" ts="2023-10-09T15:35:03">
+<content id="6407842" includeTime="2023-10-09T15:35:03" entryType="1" hash="D9B3B646355EF8778293D06B5E4E24A1" ts="2023-11-02T13:40:04">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://www.cafe-vd.ru/kak-kupit-zakladki-mef-v-elets.html]]></url>
  <domain><![CDATA[www.cafe-vd.ru]]></domain>
  <ip>104.21.36.89</ip>
  <ip>172.67.191.192</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:bfc0</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2459</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6407843" includeTime="2023-10-06T22:40:04" entryType="1" hash="9FBF145A64A3ECF2274C2EFBF398CB2D" blockType="domain-mask" ts="2023-10-06T22:40:04">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1331,11 +1325,6 @@
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[panmarzipan.ru]]></domain>
  <ip>51.15.48.124</ip>
-</content>
-<content id="6407960" includeTime="2023-10-06T22:40:04" entryType="1" hash="5F09991ACB39BE7200685DBEB172E986" blockType="domain-mask" ts="2023-10-06T22:40:04">
- <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.1xlite-372490.top]]></domain>
- <ip>178.253.14.80</ip>
 </content>
 <content id="6407961" includeTime="2023-10-06T22:40:04" entryType="1" hash="D5252BB6E6ADDA0CE18A6036558265DA" blockType="domain-mask" ts="2023-10-06T22:40:04">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4137,13 +4126,17 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
-<content id="6408900" includeTime="2023-10-09T22:10:04" entryType="1" hash="81C9109426A86286F9F2C3DD2972F8EF" blockType="domain" ts="2023-10-09T22:10:04">
+<content id="6408900" includeTime="2023-10-09T22:10:04" entryType="1" hash="9064D4B8431AFF63A18336F8EC4FE30C" blockType="domain" ts="2023-11-02T13:40:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[spaincome.ru]]></domain>
  <ip>104.21.16.44</ip>
  <ip>172.67.166.27</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:102c</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a61b</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6408901" includeTime="2023-10-09T22:10:04" entryType="1" hash="A9D83305C6AE0220DD5CA54A378EFF17" blockType="domain" ts="2023-10-09T22:10:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>

@@ -347,13 +347,17 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a42d</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:2964</ipv6>
 </content>
-<content id="6348582" includeTime="2023-09-12T22:15:02" entryType="1" hash="7A880A6D9CDB39A103138729D3D0551A" blockType="domain" ts="2023-09-12T22:15:02">
+<content id="6348582" includeTime="2023-09-12T22:15:02" entryType="1" hash="25534DDA4A0E91C5C071AA22346A7FF9" blockType="domain" ts="2023-11-02T13:40:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[vastmining.com]]></domain>
  <ip>104.21.31.33</ip>
  <ip>172.67.174.234</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1f21</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:aeea</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6348583" includeTime="2023-09-12T22:15:02" entryType="1" hash="A07060A0EEB987ED58A31064258B3F67" blockType="domain" ts="2023-09-12T22:15:02">
  <decision date="2023-09-11" number="2-6-14/2023-08-29-2601-АИ" org="ФНС"/>
@@ -2934,15 +2938,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:405b</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b3da</ipv6>
 </content>
-<content id="6349314" includeTime="2023-09-14T13:55:02" entryType="1" hash="62E0983552E76E535235893E80E76985" ts="2023-09-18T15:40:02">
- <decision date="2023-09-12" number="2231509-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://severodvinsk-individualki.com/pic/2023/09/11/58a476da709b049aba8ed1d2ec4e5903.jpg]]></url>
- <domain><![CDATA[severodvinsk-individualki.com]]></domain>
- <ip>104.21.88.162</ip>
- <ip>172.67.186.9</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:58a2</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:ba09</ipv6>
-</content>
 <content id="6349315" includeTime="2023-09-14T13:55:02" entryType="1" hash="BD366054AB47907FA4E074BAB7B4F7E0" ts="2023-09-14T13:55:02">
  <decision date="2023-09-05" number="2а-594/2023" org="Зареченский городской суд - Пензенская область"/>
  <url><![CDATA[https://kriminals-teams.ru/threads/kupit-boevoj-pistolet-makarova-pm-bez-licenzii-s-glushitelem-patrony.159/]]></url>
@@ -5256,15 +5251,6 @@
  <ip>172.67.130.115</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8273</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:0347</ipv6>
-</content>
-<content id="6349845" includeTime="2023-09-14T13:55:02" entryType="1" hash="CAC2001960EE88C54974C7F9265F7732" ts="2023-09-14T13:55:02">
- <decision date="2023-08-02" number="2а-3831/2023" org="Норильский городской суд - Красноярский край"/>
- <url><![CDATA[https://postroy-sam.info/novosti/kak-kupit-prava-na-malomernoe-sudno.html]]></url>
- <domain><![CDATA[postroy-sam.info]]></domain>
- <ip>104.21.2.33</ip>
- <ip>172.67.128.168</ip>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:0221</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:80a8</ipv6>
 </content>
 <content id="6349849" includeTime="2023-09-12T22:15:02" entryType="1" hash="6F023363CE9AEBD530803C168E2B9317" blockType="domain-mask" ts="2023-09-12T22:15:02">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -12729,14 +12715,18 @@
  <ip>104.21.9.226</ip>
  <ip>172.67.161.95</ip>
 </content>
-<content id="6354019" includeTime="2023-09-15T13:30:03" entryType="1" hash="A89CE71A2D0531F82A8EB5136ACE636D" ts="2023-09-15T13:30:03">
+<content id="6354019" includeTime="2023-09-15T13:30:03" entryType="1" hash="AF87E52F13A9197E8A4EFFE5DB9ED521" ts="2023-11-02T13:40:04">
  <decision date="2023-09-13" number="2232922-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://severodvinsk-individualki.com/pic/2023/09/11/575aad7b6aec913199cdf58c077671c7.jpg]]></url>
  <domain><![CDATA[severodvinsk-individualki.com]]></domain>
  <ip>104.21.88.162</ip>
  <ip>172.67.186.9</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:58a2</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:ba09</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6354020" includeTime="2023-09-13T21:00:03" entryType="1" hash="553D523AA45484ED749C4712EF82A844" blockType="domain-mask" ts="2023-09-13T21:00:03">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -13152,13 +13142,17 @@
  <ip>104.21.75.3</ip>
  <ip>172.67.209.148</ip>
 </content>
-<content id="6354112" includeTime="2023-09-14T09:55:02" entryType="1" hash="998BE2FB4A0CA0AF39EE075CEB64AE7A" blockType="domain" ts="2023-09-14T09:55:02">
+<content id="6354112" includeTime="2023-09-14T09:55:02" entryType="1" hash="640B1E1294BF02B06691C98A280AE583" blockType="domain" ts="2023-11-02T13:40:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[cereraprm.ru]]></domain>
  <ip>104.21.18.61</ip>
  <ip>172.67.180.178</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:123d</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:b4b2</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6354113" includeTime="2023-09-13T21:00:03" entryType="1" hash="BC6193500AF7280B9D51B6FF56052C70" blockType="domain-mask" ts="2023-09-13T21:00:03">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -13825,14 +13819,18 @@
  <domain><![CDATA[leoncasinoz-mobile.org.ru]]></domain>
  <ip>212.86.114.118</ip>
 </content>
-<content id="6354276" includeTime="2023-09-15T13:30:03" entryType="1" hash="9FB8F051375B843B02A1254E95BD3A53" ts="2023-09-15T13:30:03">
+<content id="6354276" includeTime="2023-09-15T13:30:03" entryType="1" hash="4125AF7F3A1E55ADC8516082FFB3F2B4" ts="2023-11-02T13:40:04">
  <decision date="2023-09-13" number="2232925-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://severodvinsk-individualki.com/pic/2023/09/11/5094c6574b892229486bee22df908fce.jpg]]></url>
  <domain><![CDATA[severodvinsk-individualki.com]]></domain>
  <ip>104.21.88.162</ip>
  <ip>172.67.186.9</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:58a2</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:ba09</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6354277" includeTime="2023-09-13T21:00:03" entryType="1" hash="F7ACF886223FDC43ED07641EA3B5DD65" blockType="domain-mask" ts="2023-09-13T21:00:03">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -14199,14 +14197,18 @@
  <ip>104.21.43.128</ip>
  <ip>172.67.179.136</ip>
 </content>
-<content id="6354364" includeTime="2023-09-15T13:30:03" entryType="1" hash="DEDE983544319414DCD89A2F4306FB7D" ts="2023-09-15T13:30:03">
+<content id="6354364" includeTime="2023-09-15T13:30:03" entryType="1" hash="4DC53F9286D948ADB91514705A211ED8" ts="2023-11-02T13:40:04">
  <decision date="2023-09-13" number="2232926-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://severodvinsk-individualki.com/pic/2023/09/11/d5e4f8e1427db7b110b9f8eacecd772e.jpg]]></url>
  <domain><![CDATA[severodvinsk-individualki.com]]></domain>
  <ip>104.21.88.162</ip>
  <ip>172.67.186.9</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:58a2</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:ba09</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6354365" includeTime="2023-09-13T21:00:03" entryType="1" hash="CFC6ECA2CEB8DF198F866581D3155919" blockType="domain-mask" ts="2023-09-13T21:00:03">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -14214,13 +14216,17 @@
  <ip>54.37.75.68</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:7f4d</ipv6>
 </content>
-<content id="6354366" includeTime="2023-09-14T13:55:02" entryType="1" hash="30BCDD17E7DA7FDACA3E1AF9949BF9DA" blockType="domain" ts="2023-09-14T13:55:02">
+<content id="6354366" includeTime="2023-09-14T13:55:02" entryType="1" hash="4B22F6FE7054D14893C585ACEE840B4D" blockType="domain" ts="2023-11-02T13:40:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[www.alenamebelrostov.ru]]></domain>
  <ip>104.21.67.72</ip>
  <ip>172.67.217.130</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d982</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4348</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6354367" includeTime="2023-09-13T21:00:03" entryType="1" hash="EFEB9DAAE239CFD1E6B93CF5066B340E" blockType="domain-mask" ts="2023-09-13T21:00:03">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -15296,15 +15302,6 @@
  <domain><![CDATA[*.legzo39.casino]]></domain>
  <ip>104.21.11.227</ip>
  <ip>172.67.192.222</ip>
-</content>
-<content id="6354625" includeTime="2023-09-15T13:30:03" entryType="1" hash="20939D1482370BFF6FA1AC8EF6C88F47" ts="2023-09-15T13:30:03">
- <decision date="2023-09-13" number="2232929-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://severodvinsk-individualki.com/pic/2023/09/08/d338752c53aa8a23faec1ab7ea0e58af.jpg]]></url>
- <domain><![CDATA[severodvinsk-individualki.com]]></domain>
- <ip>104.21.88.162</ip>
- <ip>172.67.186.9</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:58a2</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:ba09</ipv6>
 </content>
 <content id="6354626" includeTime="2023-09-13T21:00:03" entryType="1" hash="4145FB26FD5A33FFA23D45519BF24CE9" blockType="domain-mask" ts="2023-09-13T21:00:03">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
