@@ -3769,9 +3769,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4584</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d0b8</ipv6>
 </content>
-<content id="4304034" includeTime="2022-04-22T20:12:56" entryType="1" hash="8C0C3BD1BE3353E330502E05B7AA8AC2" blockType="domain" ts="2023-11-03T14:30:02">
+<content id="4304034" includeTime="2022-04-22T20:12:56" entryType="1" hash="CC1FEC1342AF54F067E0918C2ED3FDF0" blockType="domain-mask" ts="2023-11-03T21:50:03">
  <decision date="2022-04-05" number="2а-517/2022" org="Малгобекский городской суд - Республика Ингушетия"/>
- <domain><![CDATA[snus-mag-moskva.ru]]></domain>
+ <domain><![CDATA[*.snus-mag-moskva.ru]]></domain>
  <ip>104.21.66.21</ip>
  <ip>172.67.155.80</ip>
  <ip>188.114.96.1</ip>
