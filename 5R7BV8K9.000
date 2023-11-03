@@ -5856,13 +5856,17 @@
  <domain><![CDATA[*.obzorpoker.com]]></domain>
  <ip>138.197.186.114</ip>
 </content>
-<content id="3081271" includeTime="2021-03-22T15:01:40" entryType="1" hash="D17E37654E54C59B30E4437796D96CAB" blockType="domain" ts="2021-03-22T15:01:40">
+<content id="3081271" includeTime="2021-03-22T15:01:40" entryType="1" hash="328EAA881A85404A56C16A480848441E" blockType="domain" ts="2023-11-03T13:30:04">
  <decision date="2021-03-16" number="2021-03-15-1875" org="МВД"/>
  <domain><![CDATA[www.farm-tab.ru]]></domain>
  <ip>104.21.4.19</ip>
+ <ip>104.21.47.249</ip>
  <ip>172.67.131.135</ip>
+ <ip>172.67.174.216</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:8387</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0413</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:2ff9</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:aed8</ipv6>
 </content>
 <content id="3081283" includeTime="2021-03-22T15:01:40" entryType="1" hash="2353C0CC48AE38AA16DC8923E6E1C5EB" ts="2021-03-22T15:01:40">
  <decision date="2021-03-16" number="2021-03-01-2052" org="МВД"/>
@@ -13160,17 +13164,21 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:eb09</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:eb0a</ipv6>
 </content>
-<content id="3099392" includeTime="2021-03-25T18:13:20" entryType="1" hash="45C4C8A6C8AB3FCD1BE325A2325D8810" ts="2021-03-25T18:13:20">
+<content id="3099392" includeTime="2021-03-25T18:13:20" entryType="1" hash="F02B3032AFE7F4CD1B156D3D1141DAFF" ts="2023-11-03T13:30:04">
  <decision date="2021-03-24" number="1257272-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img.fireden.net/co/image/1485/32/1485329506997.png]]></url>
  <domain><![CDATA[img.fireden.net]]></domain>
  <ip>104.21.81.164</ip>
  <ip>172.67.145.7</ip>
+ <ip>188.114.96.1</ip>
  <ip>188.114.96.2</ip>
+ <ip>188.114.97.1</ip>
  <ip>188.114.97.2</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:9107</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:51a4</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
 </content>
 <content id="3099395" includeTime="2021-04-06T13:29:19" entryType="1" hash="17E5256756B01BEE6E31A475DF9DB892" ts="2021-04-06T13:29:19">
@@ -15395,10 +15403,11 @@
  <domain><![CDATA[www.ship-of-fools.com]]></domain>
  <ip>95.138.182.64</ip>
 </content>
-<content id="3105351" includeTime="2021-03-27T21:31:01" entryType="1" hash="32D1954DB30528DEB18877252E571FD1" ts="2021-03-27T21:31:01">
+<content id="3105351" includeTime="2021-03-27T21:31:01" entryType="1" hash="39CC3559462D7AA89F8AC75638FEC564" ts="2023-11-03T13:30:04">
  <decision date="2017-02-28" number="2-645/2017" org="Басманный районный суд - Москва"/>
  <url><![CDATA[http://www.rus-sky.com/history/library/plat6-2.htm]]></url>
  <domain><![CDATA[www.rus-sky.com]]></domain>
+ <ip>128.199.37.105</ip>
  <ip>178.62.199.154</ip>
 </content>
 <content id="3105357" includeTime="2021-04-06T13:29:22" entryType="1" hash="6157062F6C7256CD199B3F0BF184CCA9" ts="2021-04-06T13:29:22">
@@ -19838,13 +19847,17 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:0dbc</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c9aa</ipv6>
 </content>
-<content id="3115866" includeTime="2021-03-31T13:20:06" entryType="1" hash="29B78DA21CC7D40B418D322DD5FF29F7" blockType="domain" ts="2023-09-26T10:20:02">
+<content id="3115866" includeTime="2021-03-31T13:20:06" entryType="1" hash="BE084EA013A54747F66670820A2BA3C6" blockType="domain" ts="2023-11-03T13:30:04">
  <decision date="2021-03-09" number="2а-385/2021" org="Кировский районный суд г. Курска - Курская область"/>
  <domain><![CDATA[1.1prostitutki-kurska.com]]></domain>
  <ip>104.21.64.108</ip>
  <ip>172.67.182.66</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:406c</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:b642</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3115874" includeTime="2021-04-06T18:57:56" entryType="1" hash="C4C46A99F290E08E405C3D2674BD072D" blockType="domain" ts="2021-04-06T18:57:56">
  <decision date="2021-03-15" number="2а-128/2021" org="Княжпогостский районный суд - Республика Коми"/>

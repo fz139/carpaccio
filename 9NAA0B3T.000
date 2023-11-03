@@ -3325,13 +3325,17 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:c3d1</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:41f9</ipv6>
 </content>
-<content id="553046" includeTime="2017-07-12T20:52:57" entryType="1" hash="83464311446F584854850B035F2617B0" blockType="domain-mask" ts="2023-10-12T20:55:02">
+<content id="553046" includeTime="2017-07-12T20:52:57" entryType="1" hash="5275FA45AE7E8FA4E043A116496AF521" blockType="domain-mask" ts="2023-11-03T13:30:04">
  <decision date="2017-06-17" number="8/7/10-8635" org="МВД"/>
  <domain><![CDATA[*.klad3.biz]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="553052" includeTime="2018-07-16T19:39:57" entryType="1" hash="C0A4732D04F7B63C11A8FED344BB85CD" blockType="domain" ts="2023-08-08T14:45:02">
  <decision date="2017-04-06" number="2-2-69/2017" org="Кошкинский районный суд - Самарская область"/>
@@ -6355,41 +6359,57 @@
  <domain><![CDATA[khar-kov.kha.milla.com.ua]]></domain>
  <ip>139.59.131.171</ip>
 </content>
-<content id="561437" includeTime="2017-11-02T20:57:32" entryType="1" hash="9EACC3B3CAD5BC398E64DB41861DCC25" ts="2017-11-02T20:57:32">
+<content id="561437" includeTime="2017-11-02T20:57:32" entryType="1" hash="281F39F6462D56FB4D90B8B67E49BFD7" ts="2023-11-03T13:30:04">
  <decision date="2017-04-03" number="2-1521/17" org="Центральный районный суд г. Воронежа - Воронежская область"/>
  <url><![CDATA[http://hs420.net/index.php/topic/7252-перевозка-марихуаны-заграницу-в-др-город-на-сам/]]></url>
  <domain><![CDATA[hs420.net]]></domain>
  <ip>104.21.58.76</ip>
  <ip>172.67.202.26</ip>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ca1a</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3a4c</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="561438" includeTime="2017-11-02T20:57:32" entryType="1" hash="2B493F6266C89CC8821A249B825DB100" ts="2017-11-02T20:57:32">
+<content id="561438" includeTime="2017-11-02T20:57:32" entryType="1" hash="525699A9B842B8F737697C30CE8A94D3" ts="2023-11-03T13:30:04">
  <decision date="2017-04-03" number="2-1521/17" org="Центральный районный суд г. Воронежа - Воронежская область"/>
  <url><![CDATA[http://hs420.net/index.php/topic/7252-nеревозка-марихуаны-заграницу-в-др-город-на-сам/page-2]]></url>
  <domain><![CDATA[hs420.net]]></domain>
  <ip>104.21.58.76</ip>
  <ip>172.67.202.26</ip>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ca1a</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3a4c</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="561439" includeTime="2017-11-02T20:57:32" entryType="1" hash="BBE3730B518D5727FB135D09B4949330" ts="2017-11-02T20:57:32">
+<content id="561439" includeTime="2017-11-02T20:57:32" entryType="1" hash="4D7CBA61191A0114EBB52CCE19F4FE35" ts="2023-11-03T13:30:04">
  <decision date="2017-04-03" number="2-1521/17" org="Центральный районный суд г. Воронежа - Воронежская область"/>
  <url><![CDATA[http://hs420.net/index.php/topic/7252-перевозка-марихуаны-заграницу-в-др-город-на-сам/page-3]]></url>
  <domain><![CDATA[hs420.net]]></domain>
  <ip>104.21.58.76</ip>
  <ip>172.67.202.26</ip>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ca1a</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3a4c</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="561462" includeTime="2017-11-02T20:57:32" entryType="1" hash="E26C19F007BD1B3783E51EB13F42D838" ts="2017-11-02T20:57:32">
+<content id="561462" includeTime="2017-11-02T20:57:32" entryType="1" hash="E2191F978DAD38160DFB5E1C480F2105" ts="2023-11-03T13:30:04">
  <decision date="2017-04-03" number="2-1521/17" org="Центральный районный суд г. Воронежа - Воронежская область"/>
  <url><![CDATA[http://hs420.net/index.php/topic/7252-перевозка-марихуаны-заграницу-в-др-город-на-сам/page-4]]></url>
  <domain><![CDATA[hs420.net]]></domain>
  <ip>104.21.58.76</ip>
  <ip>172.67.202.26</ip>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ca1a</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3a4c</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="561676" includeTime="2019-03-11T12:34:09" entryType="1" hash="C0B509B464B5268EFBF4F4E87E6119CB" ts="2019-03-11T12:34:09">
  <decision date="2017-03-09" number="2-1353/2017" org="Ленинский районный суд г. Саратова - Саратовская область"/>
@@ -6798,14 +6818,18 @@
  <ip>104.28.17.65</ip>
  <ip>172.67.132.17</ip>
 </content>
-<content id="562728" includeTime="2017-11-02T20:57:32" entryType="1" hash="60ADD9DAD223ECF55351EA532A187C09" ts="2017-11-02T20:57:32">
+<content id="562728" includeTime="2017-11-02T20:57:32" entryType="1" hash="55E8FA96E00ADCC88EA6894269281C8E" ts="2023-11-03T13:30:04">
  <decision date="2017-04-03" number="2-1521/17" org="Центральный районный суд г. Воронежа - Воронежская область"/>
  <url><![CDATA[http://hs420.net/index.php/topic/7252-перевозка-марихуаны-заграницу-в-др-город-на-сам/page-5]]></url>
  <domain><![CDATA[hs420.net]]></domain>
  <ip>104.21.58.76</ip>
  <ip>172.67.202.26</ip>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ca1a</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3a4c</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="562782" includeTime="2017-12-13T19:18:10" entryType="1" hash="733DCB91B9A4D73BC64088A87F0566AC" blockType="domain" ts="2023-08-15T19:25:02">
  <decision date="2017-05-05" number="2-1288/2017" org="Октябрьский районный суд г. Омска - Омская область"/>
@@ -6834,14 +6858,18 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:8c74</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:5145</ipv6>
 </content>
-<content id="563214" includeTime="2017-07-19T20:00:49" entryType="1" hash="A15B3C46698D3B5026B84347737CDE77" ts="2023-10-10T22:50:03">
+<content id="563214" includeTime="2017-07-19T20:00:49" entryType="1" hash="136403DA2D430AB6A37B546BFA87154A" ts="2023-11-03T13:30:04">
  <decision date="2017-06-12" number="8/7/10-8555" org="МВД"/>
  <url><![CDATA[https://upteka24.biz/]]></url>
  <domain><![CDATA[upteka24.biz]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="563289" includeTime="2017-08-29T19:04:57" entryType="1" hash="5C551D9E3C32E4F84ED82AEC8E848CB3" blockType="domain" ts="2017-08-29T19:04:57">
  <decision date="2017-06-28" number="2-6-20/ 2017-06-08-60-АИ" org="ФНС"/>
