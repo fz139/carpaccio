@@ -7939,6 +7939,16 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6476006" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="28BFFB09D9CB11AC1AAC45F38305D631" blockType="domain-mask" ts="2023-11-03T14:30:02">
+ <decision date="2023-10-31" number="" org=""/>
+ <domain><![CDATA[*.ufaref.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="6476007" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="B44BBE6950EEC95F31675A5084530248" blockType="domain-mask" ts="2023-11-03T14:30:02">
+ <decision date="2023-10-31" number="" org=""/>
+ <domain><![CDATA[*.sterref.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
 <content id="6476008" includeTime="2023-11-02T20:50:02" urgencyType="1" entryType="3" hash="D21C15247ED58FB5C89B969B960D1A44" blockType="domain" ts="2023-11-02T20:50:02">
  <decision date="2023-10-31" number="" org=""/>
  <domain><![CDATA[частные-инвесторы-москва.рф]]></domain>
@@ -10195,6 +10205,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6476410" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="026654D861CE5D69E0B719405236C7CD" blockType="domain-mask" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <domain><![CDATA[*.malhama-team.com]]></domain>
+ <ip>185.183.98.36</ip>
+</content>
 <content id="6476413" includeTime="2023-11-02T22:05:02" entryType="1" hash="4D9BCE4407B3285E629187299775649D" blockType="domain-mask" ts="2023-11-02T22:05:02">
  <decision date="2017-10-11" number="2-6-20/2017-10-10-84-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pharaon777best.xyz]]></domain>
@@ -12029,5 +12044,387 @@
  <ip>172.67.166.199</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:a6c7</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:530f</ipv6>
+</content>
+<content id="6476991" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="427B12894861F505090373A87F8F9BCB" blockType="domain" ts="2023-11-03T14:30:02">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[dfqkmlgtkcbz2.cloudfront.net]]></domain>
+ <ip>108.156.24.126</ip>
+ <ip>108.156.24.13</ip>
+ <ip>108.156.24.171</ip>
+ <ip>108.156.24.9</ip>
+ <ipv6>2600:9000:2368:2600:000f:a00b:e780:0021</ipv6>
+ <ipv6>2600:9000:2368:2a00:000f:a00b:e780:0021</ipv6>
+ <ipv6>2600:9000:2368:4c00:000f:a00b:e780:0021</ipv6>
+ <ipv6>2600:9000:2368:5400:000f:a00b:e780:0021</ipv6>
+ <ipv6>2600:9000:2368:7400:000f:a00b:e780:0021</ipv6>
+ <ipv6>2600:9000:2368:7600:000f:a00b:e780:0021</ipv6>
+ <ipv6>2600:9000:2368:9c00:000f:a00b:e780:0021</ipv6>
+ <ipv6>2600:9000:2368:a400:000f:a00b:e780:0021</ipv6>
+</content>
+<content id="6476992" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="71EB8C7C955E0ACF37E00A00C6DC4B72" blockType="domain" ts="2023-11-03T14:30:02">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[d1xaj1cjbcu3za.cloudfront.net]]></domain>
+ <ip>18.165.121.111</ip>
+ <ip>18.165.121.171</ip>
+ <ip>18.165.121.2</ip>
+ <ip>18.165.121.80</ip>
+ <ipv6>2600:9000:2375:0200:0007:d50d:e980:0021</ipv6>
+ <ipv6>2600:9000:2375:1200:0007:d50d:e980:0021</ipv6>
+ <ipv6>2600:9000:2375:4a00:0007:d50d:e980:0021</ipv6>
+ <ipv6>2600:9000:2375:7400:0007:d50d:e980:0021</ipv6>
+ <ipv6>2600:9000:2375:7e00:0007:d50d:e980:0021</ipv6>
+ <ipv6>2600:9000:2375:9200:0007:d50d:e980:0021</ipv6>
+ <ipv6>2600:9000:2375:a200:0007:d50d:e980:0021</ipv6>
+ <ipv6>2600:9000:2375:a600:0007:d50d:e980:0021</ipv6>
+</content>
+<content id="6476993" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="36E19C3E3370EAF29B820480CF59B0A5" blockType="domain" ts="2023-11-03T14:30:02">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[d3p3f8hpjyrui2.cloudfront.net]]></domain>
+ <ip>18.165.142.103</ip>
+ <ip>18.165.142.161</ip>
+ <ip>18.165.142.20</ip>
+ <ip>18.165.142.68</ip>
+ <ipv6>2600:9000:25f7:0400:0014:7d0c:4a80:0021</ipv6>
+ <ipv6>2600:9000:25f7:1200:0014:7d0c:4a80:0021</ipv6>
+ <ipv6>2600:9000:25f7:1400:0014:7d0c:4a80:0021</ipv6>
+ <ipv6>2600:9000:25f7:3800:0014:7d0c:4a80:0021</ipv6>
+ <ipv6>2600:9000:25f7:4800:0014:7d0c:4a80:0021</ipv6>
+ <ipv6>2600:9000:25f7:5c00:0014:7d0c:4a80:0021</ipv6>
+ <ipv6>2600:9000:25f7:6e00:0014:7d0c:4a80:0021</ipv6>
+ <ipv6>2600:9000:25f7:ca00:0014:7d0c:4a80:0021</ipv6>
+</content>
+<content id="6476994" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="5DA8A2006260C4F4BC33EEC762253F90" blockType="domain" ts="2023-11-03T14:30:02">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[dxyxkqzxgh0gu.cloudfront.net]]></domain>
+ <ip>18.165.121.102</ip>
+ <ip>18.165.121.136</ip>
+ <ip>18.165.121.177</ip>
+ <ip>18.165.121.201</ip>
+ <ipv6>2600:9000:2375:3400:000d:57c0:2780:0021</ipv6>
+ <ipv6>2600:9000:2375:6000:000d:57c0:2780:0021</ipv6>
+ <ipv6>2600:9000:2375:8200:000d:57c0:2780:0021</ipv6>
+ <ipv6>2600:9000:2375:9c00:000d:57c0:2780:0021</ipv6>
+ <ipv6>2600:9000:2375:a200:000d:57c0:2780:0021</ipv6>
+ <ipv6>2600:9000:2375:ae00:000d:57c0:2780:0021</ipv6>
+ <ipv6>2600:9000:2375:ba00:000d:57c0:2780:0021</ipv6>
+ <ipv6>2600:9000:2375:fa00:000d:57c0:2780:0021</ipv6>
+</content>
+<content id="6477829" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="19DADC49B68D0348B47D004C9024273F" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[http://ipleer.pro/download/358968645_456239111/Anzor-Astemirov-Reket.html?ysclid=ln1pbxs6wf820051957]]></url>
+ <domain><![CDATA[ipleer.pro]]></domain>
+ <ip>93.190.143.130</ip>
+</content>
+<content id="6477830" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="609A72D5A0519C58268E2FC266897D3D" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[http://ipleer.pro/download/406496658_456239380/Musa-Mukojev-Stydlivost.html]]></url>
+ <domain><![CDATA[ipleer.pro]]></domain>
+ <ip>93.190.143.130</ip>
+</content>
+<content id="6477831" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="44211CD0D10E2FB9DD47BF2A3662F61E" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[http://ipleer.pro/download/462057732_456239189/Koran-Sunna-Nravstvennost.html]]></url>
+ <domain><![CDATA[ipleer.pro]]></domain>
+ <ip>93.190.143.130</ip>
+</content>
+<content id="6477832" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="736D1FF8D4824960C185EFBED81542E8" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[http://ipleer.pro/download/491106621_456241994/Ali-abu-Muhammad-Za-chto-my-vynosim-takfir.html]]></url>
+ <domain><![CDATA[ipleer.pro]]></domain>
+ <ip>93.190.143.130</ip>
+</content>
+<content id="6477833" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="C5A5BF960290B348E66C80ED54F115AE" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[http://ipleer.pro/download/501814112_456239532/Anzor-Astemirov-at-Tavba-111.html]]></url>
+ <domain><![CDATA[ipleer.pro]]></domain>
+ <ip>93.190.143.130</ip>
+</content>
+<content id="6477834" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="3B83F8F3EEFAB6B07ACFB42D1124BE4E" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[http://ipleer.pro/download/566310877_456239074/Amir-SayfuLlah-Anzor-Astemirov-Tseli-daua-i-djihada-2.html]]></url>
+ <domain><![CDATA[ipleer.pro]]></domain>
+ <ip>93.190.143.130</ip>
+</content>
+<content id="6477835" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="0B69324FEABBF19F1369CABB13793EFB" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[http://ipleer.pro/download/566310877_456239145/Musa-Mukojev---nravstvennost_2_-club17670037.html]]></url>
+ <domain><![CDATA[ipleer.pro]]></domain>
+ <ip>93.190.143.130</ip>
+</content>
+<content id="6477836" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="C6D4DC24B06062DC787B18330F1BC320" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[http://ipleer.pro/download/527982245_456240983/Ali-abu-Muhammad-Plennik-v-islame.html]]></url>
+ <domain><![CDATA[ipleer.pro]]></domain>
+ <ip>93.190.143.130</ip>
+</content>
+<content id="6477837" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="EF8F77821A64EE7D9BA8E213B26C5302" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[http://ipleer.pro/mp3/платити%20или%20заберем%20амир%20Сайфуллах%20кбк/]]></url>
+ <domain><![CDATA[ipleer.pro]]></domain>
+ <ip>93.190.143.130</ip>
+</content>
+<content id="6477838" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="711601270F4B9BA2DA8A6853F4D3DAF5" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[http://ipleer.pro/mp3/Амир%20СайфуЛлах%20(Анзор%20Астемиров)%20обращение/]]></url>
+ <domain><![CDATA[ipleer.pro]]></domain>
+ <ip>93.190.143.130</ip>
+</content>
+<content id="6477839" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="09B192EA1B5C959DD94CF0E60D7CB2AD" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[http://ipleer.pro/mp3/2%20милиона%20платити%20и%20туризму%20добро%20амир%20кбк-аскер%20джаппуев%20-%20амир%20кбк-аскер%20джаппуев/]]></url>
+ <domain><![CDATA[ipleer.pro]]></domain>
+ <ip>93.190.143.130</ip>
+</content>
+<content id="6477840" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="00D1129250DF3F4B20FFF2D2D11AE0B4" ts="2023-11-03T14:30:02">
+ <decision date="2023-10-28" number="" org=""/>
+ <url><![CDATA[https://library.fes.de/pdf-files/bueros/ukraine/19984.pdf]]></url>
+ <domain><![CDATA[library.fes.de]]></domain>
+ <ip>195.243.222.33</ip>
+</content>
+<content id="6477841" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="225DC2F2FB0E9C174C2292226EAEA5F9" ts="2023-11-03T14:30:02">
+ <decision date="2023-10-28" number="" org=""/>
+ <url><![CDATA[https://zimovka.travel/3575457-okkupanty-pytayut-ukrainskih-voennoplennyhi-podvergayut]]></url>
+ <domain><![CDATA[zimovka.travel]]></domain>
+ <ip>212.8.246.168</ip>
+</content>
+<content id="6477842" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="8C0B411F573D4D18D811C831697F983C" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[http://ipleer.pro/mp3/Анзор%20Астемиров%20рэкет]]></url>
+ <domain><![CDATA[ipleer.pro]]></domain>
+ <ip>93.190.143.130</ip>
+</content>
+<content id="6477843" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="631EC629A19EBAC28E368ED01DA23560" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[https://stafaband123t.site/save/lTUAPVS-u4U.html]]></url>
+ <domain><![CDATA[stafaband123t.site]]></domain>
+ <ip>104.21.7.223</ip>
+ <ip>172.67.156.126</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:9c7e</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:07df</ipv6>
+</content>
+<content id="6477844" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="E25D5479146096B9E07F1BFC2CED3039" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[http://muviza.tel/video/uNefKbm7HX8/127.html]]></url>
+ <domain><![CDATA[muviza.tel]]></domain>
+ <ip>51.159.106.150</ip>
+</content>
+<content id="6477845" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="BA1F81CE939359CDE49CCD76FA97FD85" ts="2023-11-03T14:30:02">
+ <decision date="2015-04-03" number="" org=""/>
+ <url><![CDATA[http://muviza.tel/video/p0Fy8pwRA2w/127.html]]></url>
+ <domain><![CDATA[muviza.tel]]></domain>
+ <ip>51.159.106.150</ip>
+</content>
+<content id="6477846" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="5F6CD0EFB72F225F50E22160BB11CA71" ts="2023-11-03T14:30:02">
+ <decision date="2015-04-03" number="" org=""/>
+ <url><![CDATA[http://muviza.tel/video/7DVs3K9Ox8s/127.html]]></url>
+ <domain><![CDATA[muviza.tel]]></domain>
+ <ip>51.159.106.150</ip>
+</content>
+<content id="6477847" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="5D1263CD248B388A271A20B5C8CEF882" ts="2023-11-03T14:30:02">
+ <decision date="2015-03-12" number="" org=""/>
+ <url><![CDATA[http://muviza.tel/video/hlyJIf5j28c/127.html]]></url>
+ <domain><![CDATA[muviza.tel]]></domain>
+ <ip>51.159.106.150</ip>
+</content>
+<content id="6477848" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="3EE721106A0CAC3BCC3EF4ADCF322CC7" ts="2023-11-03T14:30:02">
+ <decision date="2015-03-12" number="" org=""/>
+ <url><![CDATA[https://greencoin.life/v/SiWAGJFJCkc]]></url>
+ <domain><![CDATA[greencoin.life]]></domain>
+ <ip>149.40.62.165</ip>
+</content>
+<content id="6477849" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="AA9EC4AFE9DC804F064DE8D4306F3F8A" ts="2023-11-03T14:30:02">
+ <decision date="2015-03-12" number="" org=""/>
+ <url><![CDATA[https://greencoin.life/v/Y_H2xruoOsc]]></url>
+ <domain><![CDATA[greencoin.life]]></domain>
+ <ip>149.40.62.165</ip>
+</content>
+<content id="6477850" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="A389894BD23D379566A26CC7C1CB339D" ts="2023-11-03T14:30:02">
+ <decision date="2015-03-12" number="" org=""/>
+ <url><![CDATA[https://greencoin.life/v/HvphB0ciDAE]]></url>
+ <domain><![CDATA[greencoin.life]]></domain>
+ <ip>149.40.62.165</ip>
+</content>
+<content id="6477851" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="83AEB795F710D2F1A4FD80236C724F9A" ts="2023-11-03T14:30:02">
+ <decision date="2015-04-03" number="" org=""/>
+ <url><![CDATA[https://saqofat.com/display/SQFT/2014_02_13_hab]]></url>
+ <domain><![CDATA[saqofat.com]]></domain>
+ <ip>159.89.0.72</ip>
+</content>
+<content id="6477852" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="429634F5F738F0C16EDDC2E96F28C842" ts="2023-11-03T14:30:02">
+ <decision date="2015-04-03" number="" org=""/>
+ <url><![CDATA[https://saqofat.com/pages/viewpage.action?pageId=84181926]]></url>
+ <domain><![CDATA[saqofat.com]]></domain>
+ <ip>159.89.0.72</ip>
+</content>
+<content id="6477853" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="3EB2EA44B0F9E05EF73997BC008193DE" ts="2023-11-03T14:30:02">
+ <decision date="2015-04-03" number="" org=""/>
+ <url><![CDATA[https://saqofat.com/pages/viewpage.action?pageId=363449]]></url>
+ <domain><![CDATA[saqofat.com]]></domain>
+ <ip>159.89.0.72</ip>
+</content>
+<content id="6477854" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="D6F71433F9AC6EF225D50F857C5693ED" ts="2023-11-03T14:30:02">
+ <decision date="2015-04-03" number="" org=""/>
+ <url><![CDATA[https://saqofat.com/pages/viewpage.action?pageId=84181320]]></url>
+ <domain><![CDATA[saqofat.com]]></domain>
+ <ip>159.89.0.72</ip>
+</content>
+<content id="6477855" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="07509AB25DA66EA680E1C45D35332038" ts="2023-11-03T14:30:02">
+ <decision date="2015-04-03" number="" org=""/>
+ <url><![CDATA[https://saqofat.com/pages/viewpage.action?pageId=84181581]]></url>
+ <domain><![CDATA[saqofat.com]]></domain>
+ <ip>159.89.0.72</ip>
+</content>
+<content id="6477856" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="D542E95CB8AF1DBFA3D7EC1B1E7E746A" ts="2023-11-03T14:30:02">
+ <decision date="2015-04-03" number="" org=""/>
+ <url><![CDATA[https://greencoin.life/v/dzelYbrGMzY]]></url>
+ <domain><![CDATA[greencoin.life]]></domain>
+ <ip>149.40.62.165</ip>
+</content>
+<content id="6477857" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="23234AA848759605573FE854CAC225C1" ts="2023-11-03T14:30:02">
+ <decision date="2015-04-03" number="" org=""/>
+ <url><![CDATA[https://greencoin.life/v/xCEuoNRAUMs]]></url>
+ <domain><![CDATA[greencoin.life]]></domain>
+ <ip>149.40.62.165</ip>
+</content>
+<content id="6477858" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="ACA6A085A15A7838257AE4A1CEAEF2FA" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[https://gudangmp3r.cafelagu.me/downloadmp3/uNefKbm7HX8/1]]></url>
+ <domain><![CDATA[gudangmp3r.cafelagu.me]]></domain>
+ <ip>104.21.50.94</ip>
+ <ip>172.67.159.236</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:325e</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9fec</ipv6>
+</content>
+<content id="6477859" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="EA35ACF5190CA0A9C6B42804F5911B27" ts="2023-11-03T14:30:02">
+ <decision date="2015-04-03" number="" org=""/>
+ <url><![CDATA[https://gudangmp3r.cafelagu.me/downloadmp3/p0Fy8pwRA2w/1]]></url>
+ <domain><![CDATA[gudangmp3r.cafelagu.me]]></domain>
+ <ip>104.21.50.94</ip>
+ <ip>172.67.159.236</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:325e</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9fec</ipv6>
+</content>
+<content id="6477860" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="C8FC530F1336E56D1424F87D6253EC81" ts="2023-11-03T14:30:02">
+ <decision date="2015-04-03" number="" org=""/>
+ <url><![CDATA[https://gudangmp3r.cafelagu.me/downloadmp3/OVUqg9D3WAk/1]]></url>
+ <domain><![CDATA[gudangmp3r.cafelagu.me]]></domain>
+ <ip>104.21.50.94</ip>
+ <ip>172.67.159.236</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:325e</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9fec</ipv6>
+</content>
+<content id="6477861" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="004D64512E236E16C3BAACE8889CAADF" ts="2023-11-03T14:30:02">
+ <decision date="2015-04-03" number="" org=""/>
+ <url><![CDATA[https://gudangmp3r.cafelagu.me/downloadmp3/7DVs3K9Ox8s/1]]></url>
+ <domain><![CDATA[gudangmp3r.cafelagu.me]]></domain>
+ <ip>104.21.50.94</ip>
+ <ip>172.67.159.236</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:325e</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9fec</ipv6>
+</content>
+<content id="6477862" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="9B83AC20927188DE9117AD514074E757" ts="2023-11-03T14:30:02">
+ <decision date="2015-03-12" number="" org=""/>
+ <url><![CDATA[https://gudangmp3r.cafelagu.me/downloadmp3/vL9iM92cyc8/1]]></url>
+ <domain><![CDATA[gudangmp3r.cafelagu.me]]></domain>
+ <ip>104.21.50.94</ip>
+ <ip>172.67.159.236</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:325e</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9fec</ipv6>
+</content>
+<content id="6477863" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="B93B6B334FD6104787098C2BEB4C7919" ts="2023-11-03T14:30:02">
+ <decision date="2015-03-12" number="" org=""/>
+ <url><![CDATA[https://gudangmp3r.cafelagu.me/downloadmp3/WL8650BAnpA/1]]></url>
+ <domain><![CDATA[gudangmp3r.cafelagu.me]]></domain>
+ <ip>104.21.50.94</ip>
+ <ip>172.67.159.236</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:325e</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9fec</ipv6>
+</content>
+<content id="6477864" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="D9D14CBCAC18570D02CAA324A5383FE7" ts="2023-11-03T14:30:02">
+ <decision date="2015-03-12" number="" org=""/>
+ <url><![CDATA[https://gudangmp3r.cafelagu.me/downloadmp3/hlyJIf5j28c/1]]></url>
+ <domain><![CDATA[gudangmp3r.cafelagu.me]]></domain>
+ <ip>104.21.50.94</ip>
+ <ip>172.67.159.236</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:325e</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9fec</ipv6>
+</content>
+<content id="6477865" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="E1FA31C5B387511D60C5A67CFB488247" ts="2023-11-03T14:30:02">
+ <decision date="2015-03-12" number="" org=""/>
+ <url><![CDATA[http://muviza.tel/video/N5F-M3qM410/1.html]]></url>
+ <domain><![CDATA[muviza.tel]]></domain>
+ <ip>51.159.106.150</ip>
+</content>
+<content id="6477866" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="3466220F594E2B10404666CE41F6E991" ts="2023-11-03T14:30:02">
+ <decision date="2015-03-12" number="" org=""/>
+ <url><![CDATA[http://muviza.tel/video/q8xRXAxLCVI/1.html]]></url>
+ <domain><![CDATA[muviza.tel]]></domain>
+ <ip>51.159.106.150</ip>
+</content>
+<content id="6477867" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="DD7EEAC022A612B0E89846F980823C2C" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[https://sharo-argun.ru/kak-rossiya-tryaslas-pered-chechney-poslav-410000-soldat-dlya-ustanovleniya-bezopasnosti-xl-xf0gxSvN14vTgE0mn4t-vi.html]]></url>
+ <domain><![CDATA[sharo-argun.ru]]></domain>
+ <ip>212.8.246.130</ip>
+</content>
+<content id="6477868" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="65FE12EDED1994028F1FF4E42779D530" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[https://sharo-argun.ru/abu-zubeyr-dagestani-my-ne-voyuem-iz-za-lichnostey-ne-paday-duhom-xl-xf0gb9CJpE8Ln8omn4t-vi.html]]></url>
+ <domain><![CDATA[sharo-argun.ru]]></domain>
+ <ip>212.8.246.130</ip>
+</content>
+<content id="6477869" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="218BFFE989E61D04AA85C4A1C15590BC" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[https://sharo-argun.ru/tadjikov-otpravlyayut-na-voynu-v-ukrainu-xl-xf0gNeFPjD_5uCsmn4t-vi.html]]></url>
+ <domain><![CDATA[sharo-argun.ru]]></domain>
+ <ip>212.8.246.130</ip>
+</content>
+<content id="6477870" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="604E910F8AB0D718DCE28F0064EBA0D2" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[https://sharo-argun.ru/pod-pricelom-istrebitelya-xl-xf0gAn3DKo2jIIcmn4t-vi.html]]></url>
+ <domain><![CDATA[sharo-argun.ru]]></domain>
+ <ip>212.8.246.130</ip>
+</content>
+<content id="6477871" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="3CAA69F16F0252F0A6BEE5CA8C48D6AC" ts="2023-11-03T14:30:02">
+ <decision date="2015-12-04" number="" org=""/>
+ <url><![CDATA[https://sharo-argun.ru/faruk-shami-intervyu-s-ahmed-ahmedovym-xl-xf0gK_v7odi0lkkmn4t-vi.html]]></url>
+ <domain><![CDATA[sharo-argun.ru]]></domain>
+ <ip>212.8.246.130</ip>
+</content>
+<content id="6477872" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="91A3D7C719434204DF1EF509F4B02D18" ts="2023-11-03T14:30:02">
+ <decision date="2015-04-03" number="" org=""/>
+ <url><![CDATA[https://blogs-tatalueat.tatalueat.com/to/to.php?q=0MuizoUZ9lA]]></url>
+ <domain><![CDATA[blogs-tatalueat.tatalueat.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6477873" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="C9716ED225F17AC7E108C2324F5B9DDE" ts="2023-11-03T14:30:02">
+ <decision date="2015-03-12" number="" org=""/>
+ <url><![CDATA[https://blogs-tatalueat.tatalueat.com/to/to.php?q=ePZp5NLIglQ]]></url>
+ <domain><![CDATA[blogs-tatalueat.tatalueat.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6477874" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="08C7025A332C079675AFB3F3CC154557" ts="2023-11-03T14:30:02">
+ <decision date="2015-03-12" number="" org=""/>
+ <url><![CDATA[https://blogs-tatalueat.tatalueat.com/to/to.php?q=n8-gwhlg8JE]]></url>
+ <domain><![CDATA[blogs-tatalueat.tatalueat.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6477875" includeTime="2023-11-03T14:30:02" urgencyType="1" entryType="3" hash="E1A3D28A5A129CAA80E221DA441CBB95" ts="2023-11-03T14:30:02">
+ <decision date="2015-03-12" number="" org=""/>
+ <url><![CDATA[https://blogs-tatalueat.tatalueat.com/to/to.php?q=NrkJJgy5vrs]]></url>
+ <domain><![CDATA[blogs-tatalueat.tatalueat.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 </reg:register>
