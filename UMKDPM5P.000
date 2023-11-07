@@ -207,14 +207,18 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:c77d</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3a24</ipv6>
 </content>
-<content id="4657112" includeTime="2022-07-29T18:35:43" entryType="1" hash="9BA0103A11A8EF46C2F4C9C8688F769C" ts="2022-07-29T18:35:43">
+<content id="4657112" includeTime="2022-07-29T18:35:43" entryType="1" hash="D363DA0959C3EF8E85E99390E9620E08" ts="2023-11-07T19:45:03">
  <decision date="2022-07-27" number="1753428-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img2.rule34.us/images/36/98/36987928da5630c359fb18cf62dd7923.jpeg]]></url>
  <domain><![CDATA[img2.rule34.us]]></domain>
  <ip>104.21.233.127</ip>
  <ip>104.21.233.128</ip>
+ <ip>104.21.234.190</ip>
+ <ip>104.21.234.191</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e97f</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e980</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:eabe</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:eabf</ipv6>
 </content>
 <content id="4657130" includeTime="2022-07-29T13:49:35" entryType="1" hash="73E77646CAC3C6F3986467CC1233F1E2" blockType="domain-mask" ts="2022-07-29T13:49:35">
  <decision date="2022-07-26" number="2022-07-26-1367" org="МВД"/>
@@ -3240,14 +3244,18 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:35ac</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d7d1</ipv6>
 </content>
-<content id="4662132" includeTime="2022-08-01T22:16:29" entryType="1" hash="3829D05E57BAE1A67DC9702FFEA1E53A" ts="2022-08-01T22:16:29">
+<content id="4662132" includeTime="2022-08-01T22:16:29" entryType="1" hash="56717B1EAA921676D28D69F601B7BB11" ts="2023-11-07T19:45:03">
  <decision date="2022-07-28" number="1755246-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://img2.rule34.us/images/a1/11/a11126f3dd4f9e73caa7683e12c1ec0f.png]]></url>
  <domain><![CDATA[img2.rule34.us]]></domain>
  <ip>104.21.233.127</ip>
  <ip>104.21.233.128</ip>
+ <ip>104.21.234.190</ip>
+ <ip>104.21.234.191</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e97f</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:e980</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:eabe</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:eabf</ipv6>
 </content>
 <content id="4662134" includeTime="2022-08-01T22:16:27" entryType="1" hash="22AAF832DBFB6A613B47A22C51A38E3F" ts="2022-08-01T22:16:27">
  <decision date="2022-07-28" number="2022-07-21-1252" org="МВД"/>
