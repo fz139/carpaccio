@@ -5300,14 +5300,6 @@
  <ip>159.65.205.18</ip>
  <ipv6>2a03:b0c0:0002:00d0:0000:0000:087a:c001</ipv6>
 </content>
-<content id="4664552" includeTime="2022-07-29T18:35:50" entryType="1" hash="F0317A57C6D5B9E0C9737913F52A9CD5" blockType="domain-mask" ts="2022-07-29T18:35:50">
- <decision date="2022-07-28" number="2-6-18/2022-04-22-2043-АИ" org="ФНС"/>
- <domain><![CDATA[*.vulcan-royal-casino.ru]]></domain>
- <ip>104.21.28.141</ip>
- <ip>172.67.170.219</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:1c8d</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:aadb</ipv6>
-</content>
 <content id="4664559" includeTime="2022-08-01T13:39:24" entryType="1" hash="0ABDD4672A8F11C0743C0699625DC37C" blockType="domain" ts="2022-08-01T13:39:24">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[chizgshop.biz]]></domain>
@@ -6873,13 +6865,17 @@
  <domain><![CDATA[sterlitamak.arena-diplomex.com]]></domain>
  <ip>104.248.204.101</ip>
 </content>
-<content id="4666423" includeTime="2022-08-01T22:16:30" entryType="1" hash="CB4F53D6F2E8B90B67A7CF07AF4A43FA" blockType="domain" ts="2022-08-01T22:16:30">
+<content id="4666423" includeTime="2022-08-01T22:16:30" entryType="1" hash="B39BF68480A69B17B848122849B9431D" blockType="domain" ts="2023-11-08T13:35:03">
  <decision date="2022-07-20" number="2а-373/2022" org="Хангаласский районный суд - Республика Саха (Якутия)"/>
  <domain><![CDATA[aldan.only-znakomstva.com]]></domain>
  <ip>104.21.62.167</ip>
  <ip>172.67.137.139</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:898b</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3ea7</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4666425" includeTime="2022-08-01T13:39:25" entryType="1" hash="9D118E64B82F7B284F01C624313371EC" blockType="domain" ts="2022-08-01T13:39:25">
  <decision date="2022-06-28" number="2а-2834/2022" org="Ленинский районный суд г. Омска - Омская область"/>
@@ -7116,13 +7112,17 @@
  <domain><![CDATA[m.eroboom.pw]]></domain>
  <ip>178.33.158.141</ip>
 </content>
-<content id="4666659" includeTime="2022-08-01T13:39:24" entryType="1" hash="DA74AADB16407F1CFF20C37C142570EC" blockType="domain" ts="2022-08-01T13:39:24">
+<content id="4666659" includeTime="2022-08-01T13:39:24" entryType="1" hash="7AC3B065554896BC338DAEDE123AB413" blockType="domain" ts="2023-11-08T13:35:03">
  <decision date="2022-07-07" number="2а-612/2022" org="Торжокский межрайонный суд Тверской области - Тверская область"/>
  <domain><![CDATA[habarovsk2.individualka-tut.com]]></domain>
  <ip>104.21.5.247</ip>
  <ip>172.67.134.15</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:05f7</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:860f</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4666664" includeTime="2022-08-01T22:16:29" entryType="1" hash="BAF072208D95345FD1C23121DCCF9545" blockType="domain-mask" ts="2022-08-01T22:16:29">
  <decision date="2022-07-28" number="2022-07-27-257" org="МВД"/>
@@ -7165,14 +7165,18 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:c77d</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3a24</ipv6>
 </content>
-<content id="4666712" includeTime="2022-08-01T13:39:25" entryType="1" hash="DA1F2B1E2126383EEED890423BBEC469" ts="2022-08-01T13:39:25">
+<content id="4666712" includeTime="2022-08-01T13:39:25" entryType="1" hash="C7CD41A2577DF3BB7C2A982562C5178A" ts="2023-11-08T13:35:03">
  <decision date="2022-07-20" number="2a-371/2022" org="Хангаласский районный суд - Республика Саха (Якутия)"/>
  <url><![CDATA[https://nerungri.only-znakomstva.com/prostitutki/]]></url>
  <domain><![CDATA[nerungri.only-znakomstva.com]]></domain>
  <ip>104.21.62.167</ip>
  <ip>172.67.137.139</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:898b</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3ea7</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4666724" includeTime="2022-08-01T22:16:25" entryType="1" hash="6E721A0FD937C0C65F5BED16281B5F1A" blockType="domain" ts="2022-08-01T22:16:25">
  <decision date="2022-07-12" number="2а-3287/2022" org="Октябрьский районный суд г. Мурманска - Мурманская область"/>
@@ -9987,14 +9991,6 @@
  <domain><![CDATA[ota17.org]]></domain>
  <ip>163.44.185.202</ip>
 </content>
-<content id="4672485" includeTime="2022-08-03T13:20:30" entryType="1" hash="A2255D956AC3DBA98FDFC68B2D1CA055" blockType="domain" ts="2022-08-03T13:20:30">
- <decision date="2022-08-01" number="2022-08-01-146-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[new.swissking2.space]]></domain>
- <ip>104.21.44.179</ip>
- <ip>172.67.202.98</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:2cb3</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:ca62</ipv6>
-</content>
 <content id="4672487" includeTime="2022-08-03T13:20:31" entryType="1" hash="F24C02F0CF65D582C3BBA8055E7AE00E" blockType="domain" ts="2022-08-03T13:20:31">
  <decision date="2022-08-01" number="2022-08-01-138-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[bestpharma.one]]></domain>
@@ -11435,11 +11431,6 @@
  <domain><![CDATA[rulibs.com]]></domain>
  <ip>95.164.22.114</ip>
 </content>
-<content id="4675889" includeTime="2022-08-03T22:17:22" entryType="1" hash="AC5F191E3023AE43FCAA7E57180D791D" blockType="domain" ts="2022-08-03T22:17:22">
- <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[ru.byserialsoul.online]]></domain>
- <ip>45.67.228.223</ip>
-</content>
 <content id="4675900" includeTime="2022-08-03T22:17:28" entryType="1" hash="6EE02A3EF5096960713F2617E8480CD7" blockType="domain" ts="2022-08-03T22:17:28">
  <decision date="2022-07-28" number="2а-202/2022" org="Пыталовский районный суд - Псковская область"/>
  <domain><![CDATA[b.spravki-dok.org]]></domain>
@@ -11833,11 +11824,6 @@
  <ip>172.67.176.233</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4386</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:b0e9</ipv6>
-</content>
-<content id="4676536" includeTime="2022-08-03T22:17:25" entryType="1" hash="0190AD4FC73F91A6209567209D9A1903" blockType="domain" ts="2022-08-03T22:17:25">
- <decision date="2021-04-20" number="2а-163/2021" org="Нагайбакский районный суд - Челябинская область"/>
- <domain><![CDATA[topporno.one]]></domain>
- <ip>109.206.176.208</ip>
 </content>
 <content id="4676566" includeTime="2022-08-03T00:06:40" entryType="1" hash="5A1D12825B2C5477B1F43479EC415259" blockType="domain-mask" ts="2022-08-03T00:06:40">
  <decision date="2017-09-18" number="2-6-20/2017-09-18-216-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

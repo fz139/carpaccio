@@ -3813,14 +3813,18 @@
  <domain><![CDATA[*.1win-stavki.club]]></domain>
  <ip>52.169.125.34</ip>
 </content>
-<content id="4557775" includeTime="2022-06-30T13:11:18" entryType="1" hash="864FB2B267D83615CA58AAB81B7FADE1" ts="2022-06-30T13:11:18">
+<content id="4557775" includeTime="2022-06-30T13:11:18" entryType="1" hash="AEC6CD575FCD20D96E8FA5F088C941AE" ts="2023-11-08T13:35:03">
  <decision date="2022-05-16" number="2а-549/2022" org="Нытвенский районный суд - Пермский край"/>
  <url><![CDATA[https://www.autocentre.ua/ua/news/unichtozhaem-okkupantov-retsept-koktejlya-molotova-1389978.html]]></url>
  <domain><![CDATA[www.autocentre.ua]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4557779" includeTime="2022-06-29T13:34:15" entryType="1" hash="EEC9F78D671F9EF0E9A124E4F365CC02" blockType="domain-mask" ts="2022-06-29T13:34:15">
  <decision date="2017-06-05" number="2-6-20/2017-06-05-161-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -5384,13 +5388,17 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a652</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:22eb</ipv6>
 </content>
-<content id="4559990" includeTime="2022-07-01T13:26:32" entryType="1" hash="B0E292C363F151D4F2E46C46D0C82289" blockType="domain" ts="2022-07-01T13:26:32">
+<content id="4559990" includeTime="2022-07-01T13:26:32" entryType="1" hash="4471F8C341F9C6BB23DFCE944C204923" blockType="domain" ts="2023-11-08T13:35:03">
  <decision date="2022-02-25" number="2а-682/2022" org="Ступинский городской суд - Московская область"/>
  <domain><![CDATA[stupino.only-znakomstva.com]]></domain>
  <ip>104.21.62.167</ip>
  <ip>172.67.137.139</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:898b</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3ea7</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4559995" includeTime="2022-07-01T13:26:30" entryType="1" hash="3932CA3A320DCFFF2852A2AAD78D4070" blockType="domain" ts="2022-07-01T13:26:30">
  <decision date="2022-06-23" number="2а-4297/2022" org="Химкинский городской суд - Московская область"/>
@@ -8463,14 +8471,6 @@
  <ip>172.67.179.136</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:2b80</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b388</ipv6>
-</content>
-<content id="4566655" includeTime="2022-06-30T23:02:48" entryType="1" hash="23CF24A5D076BDD3A0345E3A87810A0E" blockType="domain" ts="2022-06-30T23:02:48">
- <decision date="2022-06-30" number="2-6-18/2022-04-11-545-АИ" org="ФНС"/>
- <domain><![CDATA[vulkandeluxe-casino.com]]></domain>
- <ip>104.21.35.249</ip>
- <ip>172.67.181.195</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:23f9</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:b5c3</ipv6>
 </content>
 <content id="4566659" includeTime="2022-06-30T23:02:49" entryType="1" hash="D27F5DE461D8781272384C60730F9609" blockType="domain" ts="2022-06-30T23:02:49">
  <decision date="2022-06-30" number="2-6-18/2022-04-11-599-АИ" org="ФНС"/>
