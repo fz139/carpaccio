@@ -2195,6 +2195,12 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6483282" includeTime="2023-11-10T15:35:04" entryType="1" hash="71F2679AF968B112B033D0F4C4A5DEA8" blockType="domain" ts="2023-11-10T15:35:04">
+ <decision date="2023-11-03" number="2023-11-01-688" org="МВД"/>
+ <domain><![CDATA[konoply.business]]></domain>
+ <ip>104.21.14.61</ip>
+ <ip>172.67.158.28</ip>
+</content>
 <content id="6483283" includeTime="2023-11-08T00:15:02" entryType="1" hash="C369455268DF3A1B7887D8E1D7A07541" blockType="domain-mask" ts="2023-11-08T00:15:02">
  <decision date="2017-10-11" number="2-6-20/2017-10-10-84-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.jet-casino-moibiz42.ru]]></domain>
@@ -3116,6 +3122,12 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6483618" includeTime="2023-11-10T15:35:04" entryType="1" hash="D6A7E77A4751C07651482AF46566CE75" ts="2023-11-10T15:35:04">
+ <decision date="2016-05-24" number="2-5207/16" org="Благовещенский городской суд - Амурская область"/>
+ <url><![CDATA[https://ssl60.ru/49-1-0-2139/]]></url>
+ <domain><![CDATA[ssl60.ru]]></domain>
+ <ip>45.10.154.78</ip>
 </content>
 <content id="6483620" includeTime="2023-11-08T00:15:02" entryType="1" hash="8DBDD3D808EABE57FA3AAC9B40EE0F52" blockType="domain-mask" ts="2023-11-08T00:15:02">
  <decision date="2017-10-11" number="2-6-20/2017-10-10-84-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
