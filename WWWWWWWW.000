@@ -5539,6 +5539,43 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:93ab</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:21b0</ipv6>
 </content>
+<content id="6492882" includeTime="2023-11-11T10:10:05" urgencyType="1" entryType="3" hash="C679118E67E50051E137443D20E80814" blockType="domain" ts="2023-11-11T10:10:05">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[liveam-tv.onlinemoviesfree.net]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6492883" includeTime="2023-11-11T10:10:05" urgencyType="1" entryType="3" hash="1099B2893EC4F618803C5B5D484FAA31" blockType="domain" ts="2023-11-11T10:10:05">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[liveam-tv.tennislive.biz]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6492884" includeTime="2023-11-11T10:10:05" urgencyType="1" entryType="3" hash="2E6F399F68E8A7DD5E265FFD89A1A3FC" blockType="domain" ts="2023-11-11T10:10:05">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[liveam-tv.yourshow.info]]></domain>
+ <ip>104.21.48.189</ip>
+ <ip>172.67.156.12</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:30bd</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:9c0c</ipv6>
+</content>
+<content id="6492885" includeTime="2023-11-11T10:10:05" urgencyType="1" entryType="3" hash="E37B7DF5FB46554BA4D43A47035E84D5" blockType="domain" ts="2023-11-11T10:10:05">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[liveam-tv.gospelfilms.net]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6492886" includeTime="2023-11-11T10:10:05" urgencyType="1" entryType="3" hash="E7A1B933A6FFFC787CB53FCD72D179D1" blockType="domain" ts="2023-11-11T10:10:05">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[hdrezkabmmsho.org]]></domain>
+ <ip>45.10.218.243</ip>
+</content>
 <content id="6492888" includeTime="2023-11-10T17:10:05" entryType="5" hash="BE1030C05625FDCCA77812F311B99E32" blockType="domain" ts="2023-11-10T17:10:05">
  <decision date="2023-11-09" number="1з-73845/2023" org="Минцифры"/>
  <domain><![CDATA[kinovod091123.cc]]></domain>
@@ -8143,5 +8180,37 @@
  <domain><![CDATA[*.izzicasino-bazar5.top]]></domain>
  <ip>104.21.40.158</ip>
  <ip>172.67.154.104</ip>
+</content>
+<content id="6493696" includeTime="2023-11-11T10:10:05" urgencyType="1" entryType="3" hash="F93A9648F1D3F20303401B9E26565895" blockType="domain-mask" ts="2023-11-11T10:10:05">
+ <decision date="2023-11-10" number="" org=""/>
+ <domain><![CDATA[*.allatra.info]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6493697" includeTime="2023-11-11T10:10:05" urgencyType="1" entryType="3" hash="0E41560A6EB96FA7ED543143A020BAAD" blockType="domain-mask" ts="2023-11-11T10:10:05">
+ <decision date="2023-11-10" number="" org=""/>
+ <domain><![CDATA[*.allatravesti.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6493698" includeTime="2023-11-11T10:10:05" urgencyType="1" entryType="3" hash="47D61308DA7217C932AFC7C8F996CDA9" blockType="domain-mask" ts="2023-11-11T10:10:05">
+ <decision date="2023-11-10" number="" org=""/>
+ <domain><![CDATA[*.sensei.org.ua]]></domain>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
+</content>
+<content id="6493699" includeTime="2023-11-11T10:10:05" urgencyType="1" entryType="3" hash="7CF16BF64B3E726DF8175D5D0CB9FA28" blockType="domain-mask" ts="2023-11-11T10:10:05">
+ <decision date="2023-11-10" number="" org=""/>
+ <domain><![CDATA[*.allatra.tv]]></domain>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 </reg:register>
