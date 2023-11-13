@@ -72,11 +72,13 @@
  <domain><![CDATA[*.betwinnwer-qy4.top]]></domain>
  <ip>185.196.8.72</ip>
 </content>
-<content id="6490177" includeTime="2023-11-13T13:10:04" entryType="1" hash="16198F4013AFC2E55AD63C1AA41D3D38" blockType="domain-mask" ts="2023-11-13T13:10:04">
+<content id="6490177" includeTime="2023-11-13T13:10:04" entryType="1" hash="02314721958DB76B3959478C5BC6C61B" blockType="domain-mask" ts="2023-11-13T15:35:07">
  <decision date="2023-11-09" number="2292341-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.kino-hit.vin]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6490178" includeTime="2023-11-10T00:10:04" entryType="1" hash="ECE16859248DBDFA28CB21D0AB76D336" blockType="domain-mask" ts="2023-11-10T00:10:04">
  <decision date="2023-11-08" number="2-6-14/2023-10-25-1605-АИ" org="ФНС"/>
@@ -3193,12 +3195,6 @@
  <ip>172.67.215.73</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:10b7</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d749</ipv6>
-</content>
-<content id="6492083" includeTime="2023-11-10T15:35:04" entryType="2" hash="6AD4B5C0C52E4B5DEFBAB1A12373BF78" ts="2023-11-10T15:35:04">
- <decision date="2023-08-25" number="определение о предварительном обеспечении по заявлению № 2И-10040/2023" org="Мосгорсуд"/>
- <url><![CDATA[https://kinofine.com/film/19741-57-sekund-film-smotret.html]]></url>
- <domain><![CDATA[kinofine.com]]></domain>
- <ip>185.213.211.38</ip>
 </content>
 <content id="6492084" includeTime="2023-11-10T15:35:04" entryType="2" hash="FD8BC54A7C428B21E1613765DC838790" ts="2023-11-10T15:35:04">
  <decision date="2023-08-25" number="определение о предварительном обеспечении по заявлению № 2И-10040/2023" org="Мосгорсуд"/>
