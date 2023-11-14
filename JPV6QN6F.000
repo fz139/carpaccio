@@ -2234,18 +2234,6 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9e18</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:0e39</ipv6>
 </content>
-<content id="2843198" includeTime="2020-12-25T17:24:23" entryType="1" hash="90C87156E56E338A488C110CE47401A3" blockType="domain" ts="2020-12-25T17:24:23">
- <decision date="2020-12-23" number="2020-12-21-2722" org="МВД"/>
- <domain><![CDATA[hydra-onion-tor.com]]></domain>
- <ip>104.18.36.195</ip>
- <ip>104.18.37.195</ip>
- <ip>104.21.32.117</ip>
- <ip>172.67.151.178</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2075</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6812:24c3</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6812:25c3</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:97b2</ipv6>
-</content>
 <content id="2843206" includeTime="2020-12-25T17:24:21" entryType="1" hash="00AA4EDA907E0F647F0372BBE41EF34B" blockType="domain" ts="2020-12-25T17:24:21">
  <decision date="2020-12-23" number="2020-12-23-988" org="МВД"/>
  <domain><![CDATA[ilstarcentremall.com]]></domain>
@@ -2580,12 +2568,6 @@
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0a50</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0b50</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:49a9</ipv6>
-</content>
-<content id="2843596" includeTime="2020-12-23T23:50:10" entryType="1" hash="3893997F63A9ADE20C2C863F3979D9BD" blockType="domain-mask" ts="2020-12-23T23:50:10">
- <decision date="2020-12-23" number="2-6-20/2020-08-21-1628-АИ" org="ФНС"/>
- <domain><![CDATA[*.vulkan-prestige.rocks]]></domain>
- <ip>203.29.54.133</ip>
- <ipv6>2a05:7880:085c:b238:4535:40e8:5596:a108</ipv6>
 </content>
 <content id="2843600" includeTime="2020-12-23T23:50:10" entryType="1" hash="8AAE77A4BF4A6994B40245875BDF081F" blockType="domain" ts="2020-12-23T23:50:10">
  <decision date="2020-12-23" number="2-6-20/2020-08-23-82-АИ" org="ФНС"/>
@@ -4782,11 +4764,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:681c:16b4</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b323</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:681c:17b4</ipv6>
-</content>
-<content id="2848009" includeTime="2020-12-24T22:36:14" entryType="1" hash="2A0FFA271EA997600802EC7C3CA01865" blockType="domain-mask" ts="2020-12-24T22:36:14">
- <decision date="2019-02-19" number="2-6-20/2019-02-12-1471-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.kino-dom.fun]]></domain>
- <ip>103.119.112.65</ip>
 </content>
 <content id="2848010" includeTime="2020-12-24T22:36:14" entryType="1" hash="F5555DD8B07B34FE149729BF3154D72B" blockType="domain-mask" ts="2020-12-24T22:36:14">
  <decision date="2019-02-19" number="2-6-20/2019-02-12-1471-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
