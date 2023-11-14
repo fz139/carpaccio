@@ -12998,9 +12998,17 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:03ab</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:82f8</ipv6>
 </content>
-<content id="6499048" includeTime="2023-11-14T17:50:03" urgencyType="1" entryType="3" hash="AA5257FE2330242B7067DEC4F99C019E" blockType="domain" ts="2023-11-14T17:50:03">
+<content id="6499047" includeTime="2023-11-14T17:55:02" urgencyType="1" entryType="3" hash="779A4CBF3EB2E924C7D84EB9F265EB3C" blockType="domain-mask" ts="2023-11-14T17:55:02">
  <decision date="2023-11-14" number="" org=""/>
- <domain><![CDATA[vashdozor.com]]></domain>
+ <domain><![CDATA[*.vornadzor.com]]></domain>
+ <ip>104.21.37.161</ip>
+ <ip>172.67.210.116</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:d274</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:25a1</ipv6>
+</content>
+<content id="6499048" includeTime="2023-11-14T17:50:03" urgencyType="1" entryType="3" hash="F79E9C0FE1F40002BC77407AC3F48BA0" blockType="domain-mask" ts="2023-11-14T17:55:02">
+ <decision date="2023-11-14" number="" org=""/>
+ <domain><![CDATA[*.vashdozor.com]]></domain>
  <ip>104.21.22.124</ip>
  <ip>172.67.204.209</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:ccd1</ipv6>
