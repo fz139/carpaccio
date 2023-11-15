@@ -1801,12 +1801,6 @@
  <ipv6>2606:4700:0030:0000:0000:0000:6812:3270</ipv6>
  <ipv6>2606:4700:0030:0000:0000:0000:6812:3370</ipv6>
 </content>
-<content id="1610592" includeTime="2019-07-05T09:04:19" entryType="1" hash="9DB25ED091F41C7889A72A0AFFF24766" blockType="domain" ts="2019-07-05T09:04:19">
- <decision date="2019-07-02" number="2-6-20/2019-04-14-632-АИ" org="ФНС"/>
- <domain><![CDATA[vulcan24-best.net]]></domain>
- <ip>104.27.158.250</ip>
- <ip>104.27.159.250</ip>
-</content>
 <content id="1610595" includeTime="2019-07-08T20:00:44" entryType="1" hash="A8FE858346E880386DD832E0D2A282B1" blockType="domain" ts="2019-07-08T20:00:44">
  <decision date="2019-02-19" number="2-6-20/2019-02-12-1471-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[wkino4.net]]></domain>
@@ -1880,6 +1874,14 @@
  <decision date="2019-07-02" number="2-6-20/2019-04-14-1206-АИ" org="ФНС"/>
  <domain><![CDATA[crypto-casino.pro]]></domain>
  <ip>37.1.219.68</ip>
+</content>
+<content id="1610854" includeTime="2023-11-15T13:50:04" entryType="1" hash="AAF44B078AC649FA53E328ADC4BFEBEA" blockType="domain" ts="2023-11-15T13:50:04">
+ <decision date="2019-05-23" number="2а-1607/2019" org="Советский районный суд г. Астрахани - Астраханская область"/>
+ <domain><![CDATA[vulkan-super.net]]></domain>
+ <ip>104.18.132.87</ip>
+ <ip>104.18.133.87</ip>
+ <ip>203.29.54.200</ip>
+ <ipv6>2a07:0180:0399:3a76:9bbe:154a:9050:803d</ipv6>
 </content>
 <content id="1610868" includeTime="2019-07-05T09:04:17" entryType="1" hash="17162423FE597198AA9DBD263F7E2AE4" blockType="domain" ts="2019-07-05T09:04:17">
  <decision date="2019-07-02" number="2-6-20/2019-04-15-454-АИ" org="ФНС"/>
