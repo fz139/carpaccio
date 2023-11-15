@@ -4550,18 +4550,6 @@
  <domain><![CDATA[www.boyfriendtv.com]]></domain>
  <ip>45.138.128.186</ip>
 </content>
-<content id="2577569" includeTime="2020-10-02T17:59:49" entryType="1" hash="897C5B10430B2A1EDD36BAF3AA8B13AD" blockType="domain-mask" ts="2020-10-02T17:59:49">
- <decision date="2020-09-21" number="2020-09-18-1718" org="МВД"/>
- <domain><![CDATA[*.kannabiz.site]]></domain>
- <ip>104.21.76.100</ip>
- <ip>104.27.148.134</ip>
- <ip>104.27.149.134</ip>
- <ip>172.67.192.174</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:681b:9586</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:c0ae</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:681b:9486</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:4c64</ipv6>
-</content>
 <content id="2577576" includeTime="2020-09-22T18:32:24" entryType="1" hash="41CD375B27B150436FE9665875C9D125" blockType="domain-mask" ts="2020-09-22T18:32:24">
  <decision date="2016-12-20" number="2-6-27/2016-12-20-90-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.v-bet.cc]]></domain>
@@ -7225,22 +7213,30 @@
  <domain><![CDATA[www.hqhole.com]]></domain>
  <ip>78.140.183.147</ip>
 </content>
-<content id="2583991" includeTime="2020-09-28T13:39:23" entryType="1" hash="7DDB43919B08C91FAB5E275E1E7AEC1F" blockType="domain" ts="2023-08-29T09:45:03">
+<content id="2583991" includeTime="2020-09-28T13:39:23" entryType="1" hash="7CFEB5FC0839B3378684EFCA6785C1A8" blockType="domain" ts="2023-11-15T21:45:03">
  <decision date="2020-07-06" number="2а-96/2020" org="Баевский районный суд - Алтайский край"/>
  <domain><![CDATA[www.megatube.xxx]]></domain>
  <ip>172.64.196.3</ip>
  <ip>172.64.197.3</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c403</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c503</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="2583997" includeTime="2020-09-28T13:39:23" entryType="1" hash="358CC9E22B490EC7938DA77C3BCDBCF2" ts="2023-08-29T09:45:03">
+<content id="2583997" includeTime="2020-09-28T13:39:23" entryType="1" hash="65B210CD70579457E7DA122654D8288B" ts="2023-11-15T21:45:03">
  <decision date="2020-07-06" number="2а-96/2020" org="Баевский районный суд - Алтайский край"/>
  <url><![CDATA[https://megatube.xxx/]]></url>
  <domain><![CDATA[megatube.xxx]]></domain>
  <ip>172.64.196.3</ip>
  <ip>172.64.197.3</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c403</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c503</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="2584009" includeTime="2020-10-02T10:04:42" entryType="1" hash="9F1183C44316FD476DD8F6A2C0600042" blockType="domain" ts="2023-08-22T11:45:02">
  <decision date="2020-07-06" number="2а-96/2020" org="Баевский районный суд - Алтайский край"/>

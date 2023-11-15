@@ -212,14 +212,6 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:eabe</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:eabf</ipv6>
 </content>
-<content id="4657130" includeTime="2022-07-29T13:49:35" entryType="1" hash="73E77646CAC3C6F3986467CC1233F1E2" blockType="domain-mask" ts="2022-07-29T13:49:35">
- <decision date="2022-07-26" number="2022-07-26-1367" org="МВД"/>
- <domain><![CDATA[*.semenacanabis.loan]]></domain>
- <ip>104.21.16.124</ip>
- <ip>172.67.212.124</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:107c</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:d47c</ipv6>
-</content>
 <content id="4657152" includeTime="2022-07-29T13:49:41" entryType="1" hash="9095CC68EBE65B2A81177C1831C03B81" ts="2022-07-29T13:49:41">
  <decision date="2014-10-16" number="2-4437/2014" org="Октябрьский районный суд Санкт-Петербурга"/>
  <url><![CDATA[http://uznai-pravdu.com/m/viewtopic.php?f=6&t=160]]></url>
@@ -5005,13 +4997,17 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:0214</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:8097</ipv6>
 </content>
-<content id="4664331" includeTime="2022-08-01T13:39:21" entryType="1" hash="451DCA7074B1128F8CCE80874448BFD4" blockType="domain" ts="2022-08-01T13:39:21">
+<content id="4664331" includeTime="2022-08-01T13:39:21" entryType="1" hash="0ADAE60F6CF388165B17F0EC50EC4FFC" blockType="domain" ts="2023-11-15T21:45:03">
  <decision date="2022-07-25" number="2а-359/2022 ~ М-337/2022" org="Далматовский районный суд Курганской области"/>
  <domain><![CDATA[kazan.snus-mag-moskva.ru]]></domain>
  <ip>104.21.66.21</ip>
  <ip>172.67.155.80</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:4215</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:9b50</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4664342" includeTime="2022-07-29T18:35:49" entryType="1" hash="0D608C073BEBE81CEBC4841FA31C9405" ts="2022-07-29T18:35:49">
  <decision date="2022-07-28" number="2-6-18/2022-05-31-5768-АИ" org="ФНС"/>
@@ -6978,14 +6974,6 @@
  <ip>172.67.189.254</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:5193</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:bdfe</ipv6>
-</content>
-<content id="4666552" includeTime="2022-08-25T17:37:34" entryType="1" hash="0D3BBFA0B7B4701F18FD65D3DB9A39A2" blockType="domain-mask" ts="2022-08-25T17:37:34">
- <decision date="2022-07-28" number="2022-07-22-1394" org="МВД"/>
- <domain><![CDATA[*.bestseeds-22.xyz]]></domain>
- <ip>104.21.76.96</ip>
- <ip>172.67.192.112</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:c070</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:4c60</ipv6>
 </content>
 <content id="4666593" includeTime="2022-08-01T13:39:22" entryType="1" hash="3090DC428CE072E73F76F90A407071A1" blockType="domain-mask" ts="2022-08-01T13:39:22">
  <decision date="2022-07-28" number="2022-07-28-1593" org="МВД"/>
@@ -9879,14 +9867,6 @@
  <decision date="2022-08-01" number="2022-08-01-164-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[winner.ddpills.com]]></domain>
  <ip>81.17.17.234</ip>
-</content>
-<content id="4672502" includeTime="2022-08-03T13:20:30" entryType="1" hash="D2883D224A84D432DC1DEEBAFF9D35E1" blockType="domain" ts="2022-08-03T13:20:30">
- <decision date="2022-07-29" number="2022-07-29-678" org="МВД"/>
- <domain><![CDATA[dami18.ru]]></domain>
- <ip>104.21.22.216</ip>
- <ip>172.67.207.32</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:cf20</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:16d8</ipv6>
 </content>
 <content id="4672506" includeTime="2022-08-03T13:20:25" entryType="1" hash="89DC8FD365B9F01AFE9E44C0B9599065" blockType="domain" ts="2022-08-03T13:20:25">
  <decision date="2022-07-29" number="2022-07-29-567" org="МВД"/>
