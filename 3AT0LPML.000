@@ -1214,14 +1214,6 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:49c0</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a571</ipv6>
 </content>
-<content id="6480515" includeTime="2023-11-08T00:15:02" entryType="1" hash="9BFBEA674ACB30E6B2C23D88B9E578DE" blockType="domain-mask" ts="2023-11-08T00:15:02">
- <decision date="2023-11-02" number="2-6-14/2023-09-12-608-АИ" org="ФНС"/>
- <domain><![CDATA[*.lucky-jet-playru.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6480517" includeTime="2023-11-08T00:15:02" entryType="1" hash="0933ED0B65A690B40CD3C316D58C5508" blockType="domain-mask" ts="2023-11-08T00:15:02">
  <decision date="2023-11-02" number="2-6-14/2023-10-18-4046-АИ" org="ФНС"/>
  <domain><![CDATA[*.leonbets-zerkalo.co]]></domain>
@@ -2514,6 +2506,11 @@
  <ip>172.67.166.93</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a65d</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:0b97</ipv6>
+</content>
+<content id="6481171" includeTime="2023-11-16T13:30:03" entryType="1" hash="2F2D38E93911BC0D5A75CB72C7EEDD9C" blockType="domain" ts="2023-11-16T13:30:03">
+ <decision date="2019-05-13" number="2а-2727/2019" org="Октябрьский районный суд - Санкт-Петербург"/>
+ <domain><![CDATA[doktorspravki.ru]]></domain>
+ <ip>185.246.128.50</ip>
 </content>
 <content id="6481173" includeTime="2023-11-08T00:15:02" entryType="1" hash="7AAF2969933CC349E1974F61582D4FDD" blockType="domain" ts="2023-11-08T00:15:02">
  <decision date="2023-10-11" number="2а-1463/2023" org="Савеловский районный суд - Москва"/>
