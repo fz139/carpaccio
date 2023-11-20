@@ -757,12 +757,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d469</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:25bc</ipv6>
 </content>
-<content id="4225615" includeTime="2022-04-05T09:05:06" entryType="1" hash="18AC626792AD145011D34A35960C8177" blockType="domain" ts="2022-04-05T09:05:06">
- <decision date="2022-04-04" number="2-6-18/2021-12-15-227-АИ" org="ФНС"/>
- <domain><![CDATA[lioncasino.info]]></domain>
- <ip>203.30.190.162</ip>
- <ipv6>2a05:7880:075c:7880:5cb3:25f6:96e3:a1cf</ipv6>
-</content>
 <content id="4225617" includeTime="2022-04-05T09:05:09" entryType="1" hash="B2D870C490B5B7D78891B944F508316B" blockType="domain" ts="2022-04-05T09:05:09">
  <decision date="2022-04-04" number="2-6-18/2022-01-11-1392-АИ" org="ФНС"/>
  <domain><![CDATA[pin-up-950.com]]></domain>
@@ -6587,15 +6581,15 @@
  <domain><![CDATA[aplay.solutions]]></domain>
  <ip>45.133.246.10</ip>
 </content>
-<content id="4239169" includeTime="2022-04-07T13:51:40" entryType="1" hash="DEE92C12D0ED252680676320C6FB1B73" blockType="domain-mask" ts="2022-04-07T13:51:40">
- <decision date="2022-04-06" number="2-6-18/2022-01-12-521-АИ" org="ФНС"/>
- <domain><![CDATA[*.wy1k-starc24.com]]></domain>
- <ip>203.29.55.250</ip>
- <ipv6>2a05:7880:067e:fdcb:9d39:c221:b709:8d70</ipv6>
-</content>
 <content id="4239172" includeTime="2022-04-07T13:51:41" entryType="1" hash="24FCFFDECA117442ADC1DFB2C0098BAB" blockType="domain" ts="2022-04-07T13:51:41">
  <decision date="2022-04-06" number="2-6-18/2022-02-18-2520-АИ" org="ФНС"/>
  <domain><![CDATA[register-1xbet.ru]]></domain>
  <ip>52.169.125.34</ip>
 </content>
 <content id="4239173" includeTime="2022-04-07T13:51:42" entryType="1" hash="A08E6A4B77743DA5B1E1C82090ED8CFA" blockType="domain" ts="2022-04-07T13:51:42">
+ <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[nu1.joyfilm.one]]></domain>
+ <ip>104.21.85.25</ip>
+ <ip>172.67.201.55</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:c937</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:5519</ipv6>
