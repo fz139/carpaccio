@@ -3571,6 +3571,22 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d04a</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:1710</ipv6>
 </content>
+<content id="6521396" includeTime="2023-11-24T10:05:03" urgencyType="1" entryType="3" hash="C204DEFC1E0C0C72A3B0D8675F1B0E34" blockType="domain-mask" ts="2023-11-24T10:05:03">
+ <decision date="2023-11-22" number="" org=""/>
+ <domain><![CDATA[*.andriivka-school.zp.ua]]></domain>
+ <ip>185.69.152.202</ip>
+</content>
+<content id="6521397" includeTime="2023-11-24T10:05:03" urgencyType="1" entryType="3" hash="02EDC2C4827751321B311CAD0A2FD4DD" blockType="domain-mask" ts="2023-11-24T10:05:03">
+ <decision date="2023-11-22" number="" org=""/>
+ <domain><![CDATA[*.lyceum-erudite.at.ua]]></domain>
+ <ip>213.174.157.152</ip>
+</content>
+<content id="6521398" includeTime="2023-11-24T10:05:03" urgencyType="1" entryType="3" hash="6FB522481923DD2F70073402748F6970" blockType="domain-mask" ts="2023-11-24T10:05:03">
+ <decision date="2023-11-22" number="" org=""/>
+ <domain><![CDATA[*.www.cactuszno.com.ua]]></domain>
+ <ip>185.104.45.110</ip>
+ <ipv6>2a06:6440:0000:2d6e:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6521419" includeTime="2023-11-23T16:45:03" entryType="2" hash="F4221C80D1E9E31D3462BA3456546F64" ts="2023-11-23T16:45:03">
  <decision date="2023-11-13" number="определение о предварительном обеспечении по заявлению № 2И-14894/2023" org="Мосгорсуд"/>
  <url><![CDATA[https://s1.piratehub.biz/threads/damir-xalilov-nejro-skill-2023.179187/]]></url>
@@ -9481,5 +9497,21 @@
  <domain><![CDATA[*.eldorado-play.top]]></domain>
  <ip>188.166.5.117</ip>
  <ipv6>2a03:b0c0:0002:00d0:0000:0000:121d:8001</ipv6>
+</content>
+<content id="6524603" includeTime="2023-11-24T10:05:03" urgencyType="1" entryType="3" hash="F3494D4AD3F1D55FC8D14EA4F983692D" blockType="domain-mask" ts="2023-11-24T10:05:03">
+ <decision date="2023-11-22" number="" org=""/>
+ <domain><![CDATA[*.eschool-ua.com]]></domain>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
+</content>
+<content id="6524604" includeTime="2023-11-24T10:05:03" urgencyType="1" entryType="3" hash="B0F986623B3A04F69C9B719B47CCA2AD" blockType="domain-mask" ts="2023-11-24T10:05:03">
+ <decision date="2023-11-22" number="" org=""/>
+ <domain><![CDATA[*.www.ukredu.org]]></domain>
+ <ip>151.101.1.84</ip>
+ <ip>151.101.129.84</ip>
+ <ip>151.101.193.84</ip>
+ <ip>151.101.65.84</ip>
 </content>
 </reg:register>
