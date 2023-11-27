@@ -2140,9 +2140,9 @@
  <ip>208.96.18.237</ip>
  <ip>208.96.18.238</ip>
 </content>
-<content id="241462" includeTime="2015-10-30T18:45:04" entryType="1" hash="69504734DC5E3D279FFCA76F0EF9D753" blockType="domain" ts="2023-07-10T13:28:00">
+<content id="241462" includeTime="2015-10-30T18:45:04" entryType="1" hash="38D6E6E2590B74D1E7FF0E5A486FCDDB" blockType="domain-mask" ts="2023-11-27T13:15:03">
  <decision date="2015-10-26" number="84642-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[e621.net]]></domain>
+ <domain><![CDATA[*.e621.net]]></domain>
  <ip>188.114.98.224</ip>
  <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
