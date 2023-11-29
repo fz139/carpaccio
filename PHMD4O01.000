@@ -14613,9 +14613,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:c6e3</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:54ee</ipv6>
 </content>
-<content id="6340328" includeTime="2023-09-11T14:40:03" entryType="1" hash="597EF52C5E2D5EF8E8316FC1CBAE8952" blockType="domain" ts="2023-09-11T14:40:03">
+<content id="6340328" includeTime="2023-09-11T14:40:03" entryType="1" hash="D69D63ECD60F1A3698E20E4A9F26BFF1" blockType="domain-mask" ts="2023-11-29T13:30:03">
  <decision date="2023-09-07" number="2023-09-06-2979-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[site-2generics.ru]]></domain>
+ <domain><![CDATA[*.site-2generics.ru]]></domain>
  <ip>104.21.73.69</ip>
  <ip>172.67.158.184</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:9eb8</ipv6>
@@ -15682,10 +15682,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6340626" includeTime="2023-09-11T14:40:03" entryType="1" hash="0E3F03BA86E6F2F4B611D8EFDBC70646" blockType="domain" ts="2023-09-11T14:40:03">
+<content id="6340626" includeTime="2023-09-11T14:40:03" entryType="1" hash="5B417C0FCD6A842B1761DBD88459C4B6" blockType="domain" ts="2023-11-29T13:30:03">
  <decision date="2023-09-07" number="2023-09-07-101-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[2.lovertab-zerkalo.com]]></domain>
- <ip>5.135.59.222</ip>
+ <ip>37.59.247.61</ip>
 </content>
 <content id="6340628" includeTime="2023-09-07T21:35:02" entryType="1" hash="7520A2CD79875CE9FA4D31109156E9D3" blockType="domain-mask" ts="2023-09-07T21:35:02">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
