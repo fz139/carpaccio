@@ -9468,9 +9468,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:c273</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2203</ipv6>
 </content>
-<content id="3466703" includeTime="2021-07-23T16:50:27" entryType="1" hash="3F892DC226DE53975CF9AD02BDE9C6D3" blockType="domain" ts="2021-07-23T16:50:27">
+<content id="3466703" includeTime="2021-07-23T16:50:27" entryType="1" hash="8F33F763AAEA56EA2F79F800B2B3B666" blockType="domain-mask" ts="2023-11-29T13:15:04">
  <decision date="2021-07-20" number="2021-07-18-447-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[1000tabletok.ru]]></domain>
+ <domain><![CDATA[*.1000tabletok.ru]]></domain>
  <ip>130.185.109.2</ip>
  <ipv6>2a01:04a0:2002:2250:0000:0000:0000:0002</ipv6>
 </content>
