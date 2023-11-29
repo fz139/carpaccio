@@ -5169,9 +5169,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6302791" includeTime="2023-08-25T09:05:02" entryType="1" hash="CFF0ABE9ED75A29B33B15757499166D3" blockType="domain" ts="2023-08-25T09:05:02">
+<content id="6302791" includeTime="2023-08-25T09:05:02" entryType="1" hash="DF93BE0A63092289A58CFA82D151D5EE" blockType="domain-mask" ts="2023-11-29T21:35:04">
  <decision date="2023-08-23" number="2023-08-23-721-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[djeneric.ru]]></domain>
+ <domain><![CDATA[*.djeneric.ru]]></domain>
  <ip>104.21.72.27</ip>
  <ip>172.67.174.34</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:ae22</ipv6>

@@ -19073,9 +19073,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6500210" includeTime="2023-11-16T13:30:03" entryType="1" hash="4CD4A2BD9C03E9D6E062C9B71B47ACC9" blockType="domain" ts="2023-11-16T13:30:03">
+<content id="6500210" includeTime="2023-11-16T13:30:03" entryType="1" hash="E8AE4DFA1E080689B47E6480C43400AB" blockType="domain-mask" ts="2023-11-29T21:35:04">
  <decision date="2023-11-14" number="2023-10-11-3260-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[cggepanet.ru]]></domain>
+ <domain><![CDATA[*.cggepanet.ru]]></domain>
  <ip>104.21.88.28</ip>
  <ip>172.67.171.253</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:abfd</ipv6>
