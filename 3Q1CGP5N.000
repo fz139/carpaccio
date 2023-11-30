@@ -10972,12 +10972,6 @@
  <ip>104.21.11.128</ip>
  <ip>172.67.166.30</ip>
 </content>
-<content id="4378388" includeTime="2022-05-13T13:38:04" entryType="1" hash="85631CC4EE6E052B17E360B77CF0ADF1" blockType="domain" ts="2022-05-13T13:38:04">
- <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[hd.zfilm-hd-zerkalo.fun]]></domain>
- <ip>104.21.59.149</ip>
- <ip>172.67.179.189</ip>
-</content>
 <content id="4378389" includeTime="2022-05-16T14:51:45" entryType="1" hash="1A06AF42941F44BB7746F9B11A3EA4A0" blockType="domain" ts="2022-05-16T14:51:45">
  <decision date="2022-05-11" number="2022-05-09-56-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[store.ddpills.com]]></domain>
@@ -14007,15 +14001,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:165e</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:cbc9</ipv6>
 </content>
-<content id="4384016" includeTime="2022-05-16T14:51:49" entryType="1" hash="1B13643BC4BE8288E083D62AF1C7E659" ts="2022-05-16T14:51:49">
- <decision date="2022-04-18" number="2а-203/2022" org="Далматовский районный суд - Курганская область"/>
- <url><![CDATA[https://m.spb-kupit-snus.com/snus]]></url>
- <domain><![CDATA[m.spb-kupit-snus.com]]></domain>
- <ip>104.21.68.138</ip>
- <ip>172.67.195.237</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:448a</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:c3ed</ipv6>
-</content>
 <content id="4384027" includeTime="2022-05-16T20:37:50" entryType="1" hash="9F1791BE8DFB927E4FB0DB993FE5FFDF" blockType="domain" ts="2022-05-16T20:37:50">
  <decision date="2022-05-11" number="2022-05-11-755" org="МВД"/>
  <domain><![CDATA[thelodgecannabis.com]]></domain>
@@ -15522,6 +15507,12 @@
  <ip>172.67.166.132</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:a684</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:3afb</ipv6>
+</content>
+<content id="4386427" includeTime="2023-11-30T17:50:05" urgencyType="1" entryType="3" hash="036121D6242C1D1A4B284188C74E546B" blockType="domain" ts="2023-11-30T17:50:05">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[hd.zfilm-hd-zerkalo.fun]]></domain>
+ <ip>104.21.59.149</ip>
+ <ip>172.67.179.189</ip>
 </content>
 <content id="4386429" includeTime="2022-05-15T19:38:51" urgencyType="1" entryType="3" hash="4055F34F9BFE688C03DEEA79A281B7A2" blockType="domain" ts="2022-05-15T19:38:51">
  <decision date="2022-02-24" number="" org=""/>
