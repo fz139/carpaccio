@@ -1031,14 +1031,6 @@
  <domain><![CDATA[tv-cinema.club]]></domain>
  <ip>75.2.37.224</ip>
 </content>
-<content id="1616513" includeTime="2019-07-08T20:00:51" entryType="1" hash="0973869CD9AA1A2308509EB609E96943" blockType="domain" ts="2019-07-08T20:00:51">
- <decision date="2019-02-19" number="2-6-20/2019-02-12-1471-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[film1080p.ru]]></domain>
- <ip>104.24.98.112</ip>
- <ip>104.24.99.112</ip>
- <ipv6>2606:4700:0030:0000:0000:0000:6818:6270</ipv6>
- <ipv6>2606:4700:0030:0000:0000:0000:6818:6370</ipv6>
-</content>
 <content id="1616521" includeTime="2019-07-08T20:01:01" entryType="1" hash="44EE09A8FB5E1223B424CE83C8FFB0E0" blockType="domain-mask" ts="2019-07-08T20:01:01">
  <decision date="2019-07-05" number="2-6-20/2019-04-22-1362-АИ" org="ФНС"/>
  <domain><![CDATA[*.eldoradoplay.net]]></domain>
@@ -10751,12 +10743,13 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:59cb</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:a4e0</ipv6>
 </content>
-<content id="1639791" includeTime="2019-09-25T19:18:21" entryType="1" hash="76357594130409E5299D9C93F9BCFAD1" ts="2023-11-07T19:45:03">
+<content id="1639791" includeTime="2019-09-25T19:18:21" entryType="1" hash="5355AED24EDBE4DBE686158947BD4D41" ts="2023-12-05T13:40:02">
  <decision date="2019-07-17" number="86559" org="Роспотребнадзор"/>
  <url><![CDATA[http://www.russian-bazaar.com/ru/content/12851.htm#ep26765]]></url>
  <domain><![CDATA[www.russian-bazaar.com]]></domain>
  <ip>104.21.72.201</ip>
  <ip>172.67.187.79</ip>
+ <ip>198.57.196.176</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:48c9</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:bb4f</ipv6>
 </content>

@@ -2929,6 +2929,14 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
+<content id="6509160" includeTime="2023-12-05T13:40:02" entryType="1" hash="98BA05DFCBBBDFF4EF7317C2FCAD341F" blockType="domain" ts="2023-12-05T13:40:02">
+ <decision date="2023-11-15" number="2023-11-14-3785-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[adm.india-help2.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6509162" includeTime="2023-11-22T22:25:03" entryType="1" hash="AD5B0252E9200D5F87AB730803BF6892" ts="2023-11-22T22:25:03">
  <decision date="2023-11-16" number="2023-11-13-296-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <url><![CDATA[https://beermarket.webflow.io/#dostavka]]></url>
@@ -2972,12 +2980,6 @@
  <ip>172.67.218.89</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:186f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:da59</ipv6>
-</content>
-<content id="6509182" includeTime="2023-11-20T23:00:05" entryType="1" hash="F35C289B47B334B53C81116D71E07228" blockType="domain" ts="2023-11-20T23:00:05">
- <decision date="2023-11-16" number="2023-11-15-107-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[rxd.mgenerix.com]]></domain>
- <ip>104.21.3.224</ip>
- <ip>172.67.153.186</ip>
 </content>
 <content id="6509206" includeTime="2023-11-18T10:15:03" urgencyType="1" entryType="3" hash="0D09054F698014D96460A693250EC7A4" blockType="domain-mask" ts="2023-11-18T10:15:03">
  <decision date="2023-11-16" number="" org=""/>
@@ -10026,14 +10028,6 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:ab0d</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:3fa1</ipv6>
 </content>
-<content id="6512164" includeTime="2023-11-22T15:45:04" entryType="1" hash="D3F762660D5F3BDEB9AEBB0CD116205C" blockType="domain" ts="2023-11-22T15:45:04">
- <decision date="2023-11-17" number="2023-11-16-2296-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[qw.gerthshopn1.ru]]></domain>
- <ip>104.21.9.101</ip>
- <ip>172.67.189.57</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:0965</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:bd39</ipv6>
-</content>
 <content id="6512165" includeTime="2023-11-20T23:00:05" entryType="1" hash="30479F9EF0BE48C1880A0C7AFE3A8EDD" blockType="domain-mask" ts="2023-11-20T23:00:05">
  <decision date="2017-10-11" number="2-6-20/2017-10-10-84-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.azino777bestcash.ru]]></domain>
@@ -10643,15 +10637,6 @@
  <decision date="2023-11-20" number="2-6-14/2023-02-28-257-АИ" org="ФНС"/>
  <domain><![CDATA[*.mostbet572-ru.ru]]></domain>
  <ip>185.196.8.72</ip>
-</content>
-<content id="6512405" includeTime="2023-11-22T22:25:03" entryType="1" hash="D9D8705F7F01B43A4A5667B0DAFC53AC" ts="2023-11-22T22:25:03">
- <decision date="2023-11-20" number="2301565-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://nudistworld2.fun/nudism_photo/page/3/]]></url>
- <domain><![CDATA[nudistworld2.fun]]></domain>
- <ip>104.21.7.96</ip>
- <ip>172.67.130.22</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:8216</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:0760</ipv6>
 </content>
 <content id="6512409" includeTime="2023-11-22T15:45:04" entryType="1" hash="1C37D3C5ADBADA64233C7A6685F500CF" blockType="domain" ts="2023-11-22T15:45:04">
  <decision date="2023-11-19" number="2023-11-16-2910" org="МВД"/>

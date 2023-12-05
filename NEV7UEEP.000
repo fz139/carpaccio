@@ -3987,14 +3987,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d80d</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3de8</ipv6>
 </content>
-<content id="4727759" includeTime="2022-08-18T20:40:59" entryType="1" hash="1EF6A7B6BEEBF1F15020317EA01EF97E" blockType="domain" ts="2022-08-18T20:40:59">
- <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[katavas.ru]]></domain>
- <ip>104.21.15.123</ip>
- <ip>172.67.162.154</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:0f7b</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:a29a</ipv6>
-</content>
 <content id="4727762" includeTime="2022-08-17T13:55:07" entryType="1" hash="2C5CDF58BA81B704BDF3F3F10E4DE0AF" blockType="domain-mask" ts="2022-08-17T13:55:07">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.domseries.online]]></domain>
@@ -4575,14 +4567,6 @@
  <domain><![CDATA[sexohab.red]]></domain>
  <ip>198.199.125.16</ip>
 </content>
-<content id="4728644" includeTime="2022-08-18T20:40:55" entryType="1" hash="8D137CFD3C92309AC1F0E44330280E8C" blockType="domain" ts="2022-08-18T20:40:55">
- <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[ola-la-music.ru]]></domain>
- <ip>104.21.77.171</ip>
- <ip>172.67.210.153</ip>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:4dab</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:d299</ipv6>
-</content>
 <content id="4728646" includeTime="2022-08-18T20:41:01" entryType="1" hash="B52DD93AAC16A4DDD8ADF47BE37658CE" blockType="domain" ts="2022-08-18T20:41:01">
  <decision date="2022-08-11" number="2а-1-516/2022" org="Кировский районный суд Калужской области"/>
  <domain><![CDATA[girls.intim-kirov.com]]></domain>
@@ -4590,6 +4574,12 @@
  <ip>172.67.143.249</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:4752</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8ff9</ipv6>
+</content>
+<content id="4728649" includeTime="2023-12-05T13:40:02" entryType="1" hash="AFE0FFC967B2BF8E3713BC34015B13AB" blockType="domain" ts="2023-12-05T13:40:02">
+ <decision date="2022-08-16" number="2022-08-15-589-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[x.vipster.net]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
 </content>
 <content id="4728650" includeTime="2022-08-16T21:20:20" entryType="1" hash="8B5E5BAB3822B70044FC2B72E64FD9E7" blockType="domain" ts="2022-08-16T21:20:20">
  <decision date="2017-10-03" number="2-6-20/ 2017-10-01-1540-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
