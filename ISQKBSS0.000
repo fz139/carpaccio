@@ -1250,13 +1250,17 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:441f</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:b9d8</ipv6>
 </content>
-<content id="6425449" includeTime="2023-10-16T18:05:02" entryType="1" hash="55AD07D567E925299A1582ADD68F0EE0" blockType="domain" ts="2023-10-16T18:05:02">
+<content id="6425449" includeTime="2023-10-16T18:05:02" entryType="1" hash="7EF641C64CCD3D00CA9C7FDBAA7BB292" blockType="domain" ts="2023-12-08T11:15:03">
  <decision date="2023-10-16" number="2265309-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[ty.lordfilm.limo]]></domain>
  <ip>104.21.56.182</ip>
  <ip>172.67.155.70</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:38b6</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9b46</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6425450" includeTime="2023-10-16T22:10:03" entryType="1" hash="F928BA95F9893EC8352C54712DB0AA48" blockType="domain-mask" ts="2023-10-16T22:10:03">
  <decision date="2023-10-13" number="2-6-14/2023-09-05-2569-АИ" org="ФНС"/>
@@ -2826,11 +2830,15 @@
  <ip>104.21.93.55</ip>
  <ip>172.67.205.145</ip>
 </content>
-<content id="6425869" includeTime="2023-10-16T18:05:02" entryType="1" hash="8A877ECF14B522AE1C94A768A0498238" blockType="domain" ts="2023-10-16T18:05:02">
+<content id="6425869" includeTime="2023-10-16T18:05:02" entryType="1" hash="96D22F16A894DEF373150B8740864D89" blockType="domain" ts="2023-12-08T11:15:03">
  <decision date="2023-10-16" number="2265294-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[hd1.lordfilm.film]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ip>188.114.98.224</ip>
  <ip>188.114.99.224</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
@@ -2923,11 +2931,13 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:a7b0</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:220d</ipv6>
 </content>
-<content id="6425903" includeTime="2023-10-16T18:05:02" entryType="1" hash="8BE54E123D9F5AE9A211F21AF7B52371" blockType="domain" ts="2023-10-16T18:05:02">
+<content id="6425903" includeTime="2023-10-16T18:05:02" entryType="1" hash="13316CDAEF6AF506FD529AB87C4C54B7" blockType="domain" ts="2023-12-08T11:15:03">
  <decision date="2023-10-16" number="2265343-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[lo29.lordfilm.lu]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
@@ -8299,13 +8309,17 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:2a7e</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a208</ipv6>
 </content>
-<content id="6427777" includeTime="2023-10-16T18:35:03" entryType="1" hash="1D5783554E5FC1780859DF6AC07CC608" blockType="domain-mask" ts="2023-10-20T16:20:04">
+<content id="6427777" includeTime="2023-10-16T18:35:03" entryType="1" hash="F6DCE35DA637A0D4D3003A3CDDE86914" blockType="domain-mask" ts="2023-12-08T11:15:03">
  <decision date="2023-10-16" number="2265784-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.russkii-seriall.net]]></domain>
  <ip>104.21.41.44</ip>
  <ip>172.67.159.244</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:292c</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9ff4</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6427778" includeTime="2023-10-16T18:35:03" entryType="1" hash="E73225B2909CF919E7CB102766193757" blockType="domain-mask" ts="2023-10-20T16:20:04">
  <decision date="2023-10-16" number="2265781-URL-on" org="Роскомнадзор"/>
@@ -9704,14 +9718,18 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:4d9b</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:d191</ipv6>
 </content>
-<content id="6428147" includeTime="2023-10-17T13:40:04" entryType="1" hash="02CC2041840EC14AE60CE311C97A8537" ts="2023-10-17T13:40:04">
+<content id="6428147" includeTime="2023-10-17T13:40:04" entryType="1" hash="B0670FC9A9F1931AD0F02F318B0DE5D9" ts="2023-12-08T11:15:03">
  <decision date="2023-10-16" number="2266126-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://sochifeya8.com/users/transy/]]></url>
  <domain><![CDATA[sochifeya8.com]]></domain>
  <ip>104.21.95.189</ip>
  <ip>172.67.147.24</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:9318</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:5fbd</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6428148" includeTime="2023-10-18T09:55:02" entryType="1" hash="209C4286EF84178515F59600D01F66CB" blockType="domain" ts="2023-10-18T09:55:02">
  <decision date="2023-10-10" number="2а-369/2023" org="Кизеловский городской суд - Пермский край"/>
@@ -9976,14 +9994,18 @@
  <domain><![CDATA[russkoeporno.click]]></domain>
  <ip>89.39.106.207</ip>
 </content>
-<content id="6428217" includeTime="2023-10-17T13:40:04" entryType="1" hash="84813D51C21C68D8B8ABCD6D9A7CA0F4" ts="2023-10-17T13:40:04">
+<content id="6428217" includeTime="2023-10-17T13:40:04" entryType="1" hash="6AD3E59A5947083E84C5C338FDD6638C" ts="2023-12-08T11:15:03">
  <decision date="2023-10-16" number="2266127-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://new.sochifeya1.net/users/transy/]]></url>
  <domain><![CDATA[new.sochifeya1.net]]></domain>
  <ip>104.21.22.161</ip>
  <ip>172.67.205.133</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:cd85</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:16a1</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6428220" includeTime="2023-10-17T09:40:05" entryType="1" hash="04BC0C555974D5CDB5620E1D7904198E" ts="2023-10-17T09:40:05">
  <decision date="2023-10-13" number="2а-974/2023" org="Еманжелинский городской суд - Челябинская область"/>
