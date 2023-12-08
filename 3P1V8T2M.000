@@ -2175,13 +2175,17 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1e7e</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:aceb</ipv6>
 </content>
-<content id="6358076" includeTime="2023-09-18T13:55:03" entryType="1" hash="636EFC4C675C9C6D3E21D7FF62E35F5A" blockType="domain-mask" ts="2023-09-22T19:20:02">
+<content id="6358076" includeTime="2023-09-18T13:55:03" entryType="1" hash="DC5DD95F3244B9734D7BB2FD8102AF7A" blockType="domain-mask" ts="2023-12-08T10:15:03">
  <decision date="2023-09-14" number="2234428-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.mangahub.ru]]></domain>
  <ip>104.21.83.183</ip>
  <ip>172.67.180.127</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b47f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:53b7</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6358119" includeTime="2023-09-15T21:35:02" entryType="1" hash="F15B7E7F3CADE513B54A70754E389138" blockType="domain-mask" ts="2023-09-15T21:35:02">
  <decision date="2023-09-14" number="2-6-14/2023-07-25-3748-АИ" org="ФНС"/>
@@ -3928,10 +3932,13 @@
  <domain><![CDATA[*.kinopub.net]]></domain>
  <ip>91.242.229.148</ip>
 </content>
-<content id="6358479" includeTime="2023-09-18T13:55:03" entryType="1" hash="B3858302967D901E7A7C92EAB144469D" blockType="domain" ts="2023-09-18T13:55:03">
- <decision date="2023-09-15" number="L001-601/23" org="Роскомнадзор"/>
+<content id="6358479" includeTime="2023-09-18T13:55:03" entryType="1" hash="3BD1122A31B6C7BAE1D4DA63B07A48C1" blockType="domain" ts="2023-12-08T10:15:03">
+ <decision date="2023-09-15" number="2234986-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[fxggxt.com]]></domain>
- <ip>198.251.84.151</ip>
+ <ip>104.21.5.102</ip>
+ <ip>172.67.154.118</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:0566</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:9a76</ipv6>
 </content>
 <content id="6358483" includeTime="2023-09-15T21:35:02" entryType="1" hash="87FBD7CF08D30678EDB148102227982D" blockType="domain" ts="2023-09-15T21:35:02">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4083,13 +4090,17 @@
  <ip>185.213.89.117</ip>
  <ipv6>2a07:68c1:0000:0000:0000:0000:0000:0117</ipv6>
 </content>
-<content id="6358673" includeTime="2023-09-15T21:35:02" entryType="1" hash="E2D01F2D4E9AA2496A43E5CF5E8163EB" blockType="domain" ts="2023-09-15T21:35:02">
- <decision date="2023-09-06" number="L000-574/23" org="Роскомнадзор"/>
+<content id="6358673" includeTime="2023-09-15T21:35:02" entryType="1" hash="9F91F0E1F1E56F4322910770169194DE" blockType="domain" ts="2023-12-08T10:15:03">
+ <decision date="2023-09-15" number="2234975-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[rr.bbsgayru3.com]]></domain>
  <ip>104.21.92.124</ip>
  <ip>172.67.193.65</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5c7c</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:c141</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6358677" includeTime="2023-09-15T21:35:02" entryType="1" hash="D768B33392EA36BD019668F466245F2F" blockType="domain" ts="2023-09-15T21:35:02">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -11345,13 +11356,17 @@
  <domain><![CDATA[intimlife13.com]]></domain>
  <ip>88.208.7.30</ip>
 </content>
-<content id="6362091" includeTime="2023-09-19T20:55:02" entryType="1" hash="44029E8A95C658894C7E8668F876934B" blockType="domain" ts="2023-09-19T20:55:02">
+<content id="6362091" includeTime="2023-09-19T20:55:02" entryType="1" hash="CA0025DA441872C6001D793C6C2CE398" blockType="domain" ts="2023-12-08T10:15:03">
  <decision date="2023-09-18" number="2236465-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[m.mintmanga.live]]></domain>
  <ip>104.21.31.201</ip>
  <ip>172.67.179.239</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:b3ef</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1fc9</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6362093" includeTime="2023-09-19T20:55:02" entryType="1" hash="8F274D20D5D820C05F25CEC10CC62A65" blockType="domain" ts="2023-09-19T20:55:02">
  <decision date="2023-09-18" number="2236481-URL-on" org="Роскомнадзор"/>
