@@ -1145,11 +1145,6 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:4530</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:cc59</ipv6>
 </content>
-<content id="4359874" includeTime="2022-05-05T22:31:11" entryType="1" hash="F847294F153AF4CBA82583FD03E177AC" blockType="domain-mask" ts="2022-05-05T22:31:11">
- <decision date="2017-08-30" number="2-6-20/ 2017-08-30-535-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.ivtvhq.top]]></domain>
- <ip>185.238.1.172</ip>
-</content>
 <content id="4359888" includeTime="2022-05-05T22:31:15" entryType="1" hash="419D8BFF4DA80D0704EB719A91B84749" blockType="domain" ts="2022-05-05T22:31:15">
  <decision date="2017-08-30" number="2-6-20/ 2017-08-30-535-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[solcasino3302.com]]></domain>
@@ -3727,6 +3722,11 @@
  <domain><![CDATA[*.xq7pokerdom.com]]></domain>
  <ip>185.170.164.245</ip>
  <ipv6>2a0f:5680:0000:0007:0000:0000:0000:019b</ipv6>
+</content>
+<content id="4364033" includeTime="2023-12-08T14:00:05" entryType="1" hash="679545B872DD1C748389019F08E260D9" blockType="domain" ts="2023-12-08T14:00:05">
+ <decision date="2022-05-06" number="2022-05-06-168-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[1.animal-farma.tv]]></domain>
+ <ip>185.212.130.49</ip>
 </content>
 <content id="4364037" includeTime="2022-06-20T23:03:36" entryType="1" hash="4D8399285D99172906203E8E1BB8F85E" blockType="domain" ts="2022-06-20T23:03:36">
  <decision date="2022-05-06" number="2022-05-06-174-ПЛ" org="Росздравнадзор"/>
@@ -17267,12 +17267,6 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4391138" includeTime="2022-05-18T13:27:48" entryType="1" hash="784C74EBCB35204E051E416E409EEA56" ts="2022-05-18T13:27:48">
- <decision date="2022-03-14" number="2а-1026/2022" org="Первоуральский городской суд - Свердловская область"/>
- <url><![CDATA[http://diplomsruss.com/geography/pervouralsk.html]]></url>
- <domain><![CDATA[diplomsruss.com]]></domain>
- <ip>212.8.246.12</ip>
 </content>
 <content id="4391149" includeTime="2022-05-16T20:37:46" entryType="1" hash="B6C5B932986175C2963DF0D81A125DA6" blockType="domain-mask" ts="2022-05-16T20:37:46">
  <decision date="2017-08-30" number="2-6-20/ 2017-08-30-535-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
