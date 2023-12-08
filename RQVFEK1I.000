@@ -3649,12 +3649,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:8ea4</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:5f21</ipv6>
 </content>
-<content id="6366274" includeTime="2023-09-26T09:20:03" entryType="1" hash="035887991213CF82A0B1A225D6ED8143" ts="2023-09-26T09:20:03">
+<content id="6366274" includeTime="2023-09-26T09:20:03" entryType="1" hash="E9B2EB5FAF26A8533026824E3A220AE4" ts="2023-12-08T10:45:02">
  <decision date="2023-09-19" number="2238232-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://www.romeo.com/auth/signup]]></url>
  <domain><![CDATA[www.romeo.com]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.234</ip>
 </content>
 <content id="6366275" includeTime="2023-09-19T20:55:02" entryType="1" hash="F75F65951B9327C06B9783D990218649" blockType="domain-mask" ts="2023-09-19T20:55:02">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -5235,14 +5237,18 @@
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:8cf4</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1b1e</ipv6>
 </content>
-<content id="6366736" includeTime="2023-09-21T13:25:02" entryType="1" hash="27A4B4CDCC4D011CB64C5DFF6E4B73AA" ts="2023-09-21T13:25:02">
+<content id="6366736" includeTime="2023-09-21T13:25:02" entryType="1" hash="C044E0AE6E4F7145C5EEFECAAFA80B72" ts="2023-12-08T10:45:02">
  <decision date="2023-09-19" number="2238488-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[http://e.transseksualki.me/transy]]></url>
  <domain><![CDATA[e.transseksualki.me]]></domain>
  <ip>104.21.44.221</ip>
  <ip>172.67.204.33</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2cdd</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:cc21</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6366740" includeTime="2023-09-21T13:25:02" entryType="1" hash="365D4EC6C42D2166F7A55F5B5A3CA1D8" ts="2023-09-21T13:25:02">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -6858,13 +6864,17 @@
  <domain><![CDATA[vl1t8oc3---smartproxy-agent-aajwsfohcq-ez.a.run.app]]></domain>
  <ip>74.125.196.132</ip>
 </content>
-<content id="6367391" includeTime="2023-09-21T13:25:02" entryType="1" hash="351B98785901F772D2FF6D4728B0F403" blockType="domain-mask" ts="2023-09-21T13:25:02">
+<content id="6367391" includeTime="2023-09-21T13:25:02" entryType="1" hash="2AC05EB5ADE8010B045A7D1746BA8EB3" blockType="domain-mask" ts="2023-12-08T10:45:02">
  <decision date="2023-09-20" number="2239141-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.bluesystem.me]]></domain>
  <ip>104.21.44.7</ip>
  <ip>172.67.192.142</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:2c07</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c08e</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6367392" includeTime="2023-09-20T17:20:02" urgencyType="1" entryType="3" hash="4A6CA9E559A25739DDF4D537AB2D1D54" blockType="domain" ts="2023-09-20T17:20:02">
  <decision date="2023-01-26" number="" org=""/>
@@ -18698,10 +18708,11 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
-<content id="6372495" includeTime="2023-09-25T13:20:03" entryType="1" hash="81516EEEF694C876030157A4B2101641" ts="2023-09-25T13:20:03">
+<content id="6372495" includeTime="2023-09-25T13:20:03" entryType="1" hash="B9D0601AD4D8A1AA1984D7C589AC774B" ts="2023-12-08T10:45:02">
  <decision date="2023-09-21" number="2241097-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://vw.sslkn.sex/categories/lesbi/]]></url>
  <domain><![CDATA[vw.sslkn.sex]]></domain>
+ <ip>51.75.39.188</ip>
  <ip>51.83.229.103</ip>
 </content>
 <content id="6372496" includeTime="2023-09-22T09:45:08" entryType="1" hash="3B8535A6D5C973B24C37C08A0CBB7018" blockType="domain" ts="2023-09-22T09:45:08">
@@ -19878,14 +19889,18 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:4782</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:aa92</ipv6>
 </content>
-<content id="6372837" includeTime="2023-09-22T09:45:08" entryType="1" hash="18F29A5646BFAABDE989830652C05609" ts="2023-09-22T09:45:08">
+<content id="6372837" includeTime="2023-09-22T09:45:08" entryType="1" hash="6414DE323F7C815E2F91254DACEB6ECE" ts="2023-12-08T10:45:02">
  <decision date="2023-09-21" number="2241101-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://rd.bbsgayru3.com/znakomstva/muzhchiny]]></url>
  <domain><![CDATA[rd.bbsgayru3.com]]></domain>
  <ip>104.21.92.124</ip>
  <ip>172.67.193.65</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5c7c</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:c141</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6372838" includeTime="2023-09-22T09:45:08" entryType="1" hash="9339B02EC6AFBBBC9FA3E248D818AF55" blockType="domain" ts="2023-09-22T09:45:08">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -24781,26 +24796,32 @@
  <domain><![CDATA[1win-kacinoz.net.ru]]></domain>
  <ip>80.89.234.121</ip>
 </content>
-<content id="6374024" includeTime="2023-09-25T13:20:03" entryType="1" hash="56DAFD9CB032A327411CD2FB1C7A94B3" ts="2023-09-25T13:20:03">
+<content id="6374024" includeTime="2023-09-25T13:20:03" entryType="1" hash="F29058FB60AE7F1A8E329126EF0BA086" ts="2023-12-08T10:45:02">
  <decision date="2023-09-22" number="2242083-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://rusgayporno.com/allcats/]]></url>
  <domain><![CDATA[rusgayporno.com]]></domain>
  <ip>104.21.53.76</ip>
  <ip>172.67.210.99</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d263</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:354c</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6374025" includeTime="2023-09-22T19:20:02" entryType="1" hash="377217039F00774EEB4B25FE6051C670" blockType="domain-mask" ts="2023-09-22T19:20:02">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.leon1.casino]]></domain>
  <ip>143.42.231.24</ip>
 </content>
-<content id="6374026" includeTime="2023-09-25T13:20:03" entryType="1" hash="C87E81D2974939BA9DF2BB08BCEBE0B1" ts="2023-09-25T13:20:03">
+<content id="6374026" includeTime="2023-09-25T13:20:03" entryType="1" hash="3E0378DF0E2353E44351E0AA7EF97978" ts="2023-12-08T10:45:02">
  <decision date="2023-09-22" number="2242091-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://porno365z.com/categories/lesbijanki/]]></url>
  <domain><![CDATA[porno365z.com]]></domain>
  <ip>104.21.93.142</ip>
  <ip>172.67.210.223</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
 </content>
 <content id="6374027" includeTime="2023-09-22T19:20:02" entryType="1" hash="E660193955F27791787E197390E96B80" blockType="domain-mask" ts="2023-09-22T19:20:02">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -25758,14 +25779,18 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4202</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:a7c9</ipv6>
 </content>
-<content id="6374213" includeTime="2023-09-25T13:20:03" entryType="1" hash="F5105784D4C4EE8BC46B770F70587A1F" ts="2023-09-25T13:20:03">
+<content id="6374213" includeTime="2023-09-25T13:20:03" entryType="1" hash="A221E0C9E3D6E1C2122F92DA5C20157E" ts="2023-12-08T10:45:02">
  <decision date="2023-09-22" number="2242085-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://gayporno365.com/cat-hardcore/]]></url>
  <domain><![CDATA[gayporno365.com]]></domain>
  <ip>104.21.71.163</ip>
  <ip>172.67.147.66</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:47a3</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:9342</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6374214" includeTime="2023-09-22T19:20:02" entryType="1" hash="23EF659315BCE8A7780FB04B9F34143B" blockType="domain-mask" ts="2023-09-22T19:20:02">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
