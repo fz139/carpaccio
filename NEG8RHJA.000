@@ -141,14 +141,6 @@
  <ip>52.5.97.138</ip>
  <ip>54.225.120.23</ip>
 </content>
-<content id="4225275" includeTime="2022-04-05T09:05:13" entryType="1" hash="ED54CDFE3D713BB077E72DFBF89A4DCD" blockType="domain" ts="2022-04-05T09:05:13">
- <decision date="2022-04-04" number="2-6-18/2021-11-05-2007-АИ" org="ФНС"/>
- <domain><![CDATA[sol-vip.ru]]></domain>
- <ip>104.21.55.81</ip>
- <ip>172.67.145.247</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:91f7</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:3751</ipv6>
-</content>
 <content id="4225280" includeTime="2022-04-06T09:02:30" entryType="1" hash="286833C5B6C5EEAF560641AC998F28DE" blockType="domain" ts="2022-04-06T09:02:30">
  <decision date="2022-03-28" number="2а-1142/2022 ~ М-668/2022" org="Ленинский районный суд г. Костромы"/>
  <domain><![CDATA[zaraysk.vsekraskitver.ru]]></domain>
@@ -704,14 +696,6 @@
  <ip>172.67.215.59</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:2346</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d73b</ipv6>
-</content>
-<content id="4225621" includeTime="2022-04-05T09:05:07" entryType="1" hash="E7ECA8924128D6681088EB8B8B953333" blockType="domain" ts="2022-04-05T09:05:07">
- <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[lordfilms1.livecc.online]]></domain>
- <ip>104.21.16.54</ip>
- <ip>172.67.210.31</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:1036</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:d21f</ipv6>
 </content>
 <content id="4225623" includeTime="2022-04-05T09:05:09" entryType="1" hash="A57FD09A0E9701C9512995DD3CCC9106" ts="2022-04-05T09:05:09">
  <decision date="2022-04-04" number="2-6-18/2022-01-17-3626-АИ" org="ФНС"/>
@@ -2558,6 +2542,14 @@
  <decision date="2022-02-24" number="" org=""/>
  <domain><![CDATA[new-serials.ru]]></domain>
  <ip>91.236.136.8</ip>
+</content>
+<content id="4230356" includeTime="2023-12-11T13:40:06" urgencyType="1" entryType="3" hash="2EE12D641D1AB9115117270FC28F4FF6" blockType="domain" ts="2023-12-11T13:40:06">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[lordfilms1.livecc.online]]></domain>
+ <ip>104.21.16.54</ip>
+ <ip>172.67.210.31</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1036</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:d21f</ipv6>
 </content>
 <content id="4230787" includeTime="2022-04-06T09:02:30" entryType="1" hash="18D36FA2BDB4D4757CBC4ECDBE4F168A" blockType="domain" ts="2022-04-06T09:02:30">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
