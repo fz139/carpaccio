@@ -4060,14 +4060,6 @@
  <domain><![CDATA[*.playserial.online]]></domain>
  <ip>185.238.171.130</ip>
 </content>
-<content id="6249669" includeTime="2023-08-07T17:05:02" entryType="1" hash="F40B0D84B00C64F1D1A7FDB53667C79E" blockType="domain" ts="2023-08-07T17:05:02">
- <decision date="2023-08-03" number="2023-08-03-239-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[new.ekb-newdelhi.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6249672" includeTime="2023-08-08T00:15:02" entryType="1" hash="046A905C9339F8C07B15E2F09310B928" blockType="domain-mask" ts="2023-08-08T00:15:02">
  <decision date="2023-08-02" number="2023-08-02-977" org="МВД"/>
  <domain><![CDATA[*.semyanich-seeds-35.world]]></domain>
@@ -5579,6 +5571,14 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:0f0a</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a0fc</ipv6>
 </content>
+<content id="6250011" includeTime="2023-12-12T14:25:03" entryType="1" hash="9C4EC87A49E2E3944D759C1B80B8FDEF" blockType="domain" ts="2023-12-12T14:25:03">
+ <decision date="2023-08-03" number="2023-08-02-3014-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[fastfarma.pro]]></domain>
+ <ip>104.21.47.212</ip>
+ <ip>172.67.172.173</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:2fd4</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:acad</ipv6>
+</content>
 <content id="6250013" includeTime="2023-08-08T00:15:02" entryType="1" hash="92ADC896CC70FD16D4FDE5162B368A0F" ts="2023-08-08T00:15:02">
  <decision date="2023-07-26" number="2023-07-25-703" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://kinovod160623.cc/film/189527]]></url>
@@ -5722,14 +5722,6 @@
  <ip>172.67.179.127</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:b37f</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:336e</ipv6>
-</content>
-<content id="6250038" includeTime="2023-08-07T17:05:02" entryType="1" hash="95DF883C7D54F66F64505705F029C9AA" blockType="domain" ts="2023-08-07T17:05:02">
- <decision date="2023-08-01" number="2а-3899/2023" org="Рыбинский городской суд - Ярославская область"/>
- <domain><![CDATA[rybinsk.gosuslugi-propiska.site]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6250040" includeTime="2023-08-03T21:05:02" entryType="1" hash="5788E866C3A6B7DBAB299071D45B26F8" blockType="domain" ts="2023-08-03T21:05:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
