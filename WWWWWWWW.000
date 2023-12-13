@@ -163,6 +163,33 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:ac2c</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:27f5</ipv6>
 </content>
+<content id="6568402" includeTime="2023-12-13T11:05:03" urgencyType="1" entryType="3" hash="BBBED856BC1B2787B1D68738C06C1C00" blockType="domain-mask" ts="2023-12-13T11:05:03">
+ <decision date="2023-12-11" number="" org=""/>
+ <domain><![CDATA[*.subota.online]]></domain>
+ <ip>188.40.2.7</ip>
+ <ipv6>2a01:04f8:0d0a:3050:0000:0000:0000:0002</ipv6>
+</content>
+<content id="6568403" includeTime="2023-12-13T11:05:03" urgencyType="1" entryType="3" hash="BDCD4EC7E776D2BCEED3CA11565F69A8" blockType="domain-mask" ts="2023-12-13T11:05:03">
+ <decision date="2023-12-11" number="" org=""/>
+ <domain><![CDATA[*.pranaslo.com]]></domain>
+ <ip>104.21.62.13</ip>
+ <ip>172.67.217.172</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:d9ac</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:3e0d</ipv6>
+</content>
+<content id="6568404" includeTime="2023-12-13T11:05:03" urgencyType="1" entryType="3" hash="864B92FB08848A975C406D0D2E60E575" blockType="domain-mask" ts="2023-12-13T11:05:03">
+ <decision date="2023-12-11" number="" org=""/>
+ <domain><![CDATA[*.vinnytsia.city]]></domain>
+ <ip>104.21.37.208</ip>
+ <ip>172.67.213.114</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:25d0</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:d572</ipv6>
+</content>
+<content id="6568405" includeTime="2023-12-13T11:05:03" urgencyType="1" entryType="3" hash="1A9835238A4B12354D6DF45FF55E1BF5" blockType="domain-mask" ts="2023-12-13T11:05:03">
+ <decision date="2023-12-11" number="" org=""/>
+ <domain><![CDATA[*.spisok.domozhiroff.com]]></domain>
+ <ip>167.86.81.63</ip>
+</content>
 <content id="6568534" includeTime="2023-12-12T15:55:03" entryType="2" hash="114A545458F79870B9EF9C6B5EA24298" ts="2023-12-12T15:55:03">
  <decision date="2023-10-16" number="определение о предварительном обеспечении по заявлению № 2И-13051/2023" org="Мосгорсуд"/>
  <url><![CDATA[https://slovo-pacana-1-5-serija.lordfilm.art/]]></url>
@@ -5550,5 +5577,19 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6571942" includeTime="2023-12-13T11:05:03" urgencyType="1" entryType="3" hash="E98593D83472D999E3C5606A51750693" blockType="domain" ts="2023-12-13T11:05:03">
+ <decision date="2023-12-01" number="" org=""/>
+ <domain><![CDATA[smr.gov.ua]]></domain>
+ <ip>94.130.201.55</ip>
+</content>
+<content id="6571943" includeTime="2023-12-13T11:05:03" urgencyType="1" entryType="3" hash="1B1D95F035C84C790BDBB736E2757C26" ts="2023-12-13T11:05:03">
+ <decision date="2023-11-10" number="" org=""/>
+ <url><![CDATA[https://allatra.video/ru]]></url>
+ <domain><![CDATA[allatra.video]]></domain>
+ <ip>104.21.52.111</ip>
+ <ip>172.67.198.51</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:c633</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:346f</ipv6>
 </content>
 </reg:register>
