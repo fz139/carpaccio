@@ -6434,6 +6434,13 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1124</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:dc83</ipv6>
 </content>
+<content id="6575949" includeTime="2023-12-19T22:40:03" entryType="1" hash="E98440F5463BF5AC41D824F03A89A185" ts="2023-12-19T22:40:03">
+ <decision date="2023-12-14" number="2330990-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://vsluhzhurnal.com/zhurnal/%e2%84%964-oktyabr-2023/]]></url>
+ <domain><![CDATA[vsluhzhurnal.com]]></domain>
+ <ip>89.116.147.60</ip>
+ <ipv6>2a02:4780:0027:1034:0000:3692:8d9f:0002</ipv6>
+</content>
 <content id="6575952" includeTime="2023-12-14T22:55:04" entryType="1" hash="DDDCC70C44D4F66B051C3175BADA1418" blockType="domain-mask" ts="2023-12-15T13:10:06">
  <decision date="2023-12-14" number="2330879-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.8lordserial.site]]></domain>
@@ -6467,6 +6474,11 @@
  <decision date="2023-12-14" number="2330891-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.leofilm.life]]></domain>
  <ip>104.21.42.116</ip>
+</content>
+<content id="6575974" includeTime="2023-12-19T22:40:03" entryType="1" hash="83CAC2438C69AFC02CD8BFF5BA4F1F3D" blockType="domain-mask" ts="2023-12-19T22:40:03">
+ <decision date="2023-12-14" number="2330942-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lordfilm3.black]]></domain>
+ <ip>188.114.96.3</ip>
 </content>
 <content id="6575981" includeTime="2023-12-14T22:55:04" entryType="1" hash="05FEBF2F5057FE1F6276F842931359AD" blockType="domain-mask" ts="2023-12-15T13:10:06">
  <decision date="2023-12-14" number="2330874-URL-on" org="Роскомнадзор"/>
