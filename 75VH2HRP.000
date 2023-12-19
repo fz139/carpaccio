@@ -1528,12 +1528,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6571395" includeTime="2023-12-18T16:05:03" entryType="1" hash="CC8AACA965143B6582C27F9B6A9C9631" ts="2023-12-18T16:05:03">
- <decision date="2023-12-12" number="2328533-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://m.porno365.pics/movie/37747]]></url>
- <domain><![CDATA[m.porno365.pics]]></domain>
- <ip>186.2.163.214</ip>
-</content>
 <content id="6571398" includeTime="2023-12-12T22:20:03" entryType="1" hash="4839EDBD10EF09621EB5E5C32E0118DA" blockType="domain" ts="2023-12-12T22:20:03">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[urokilepki.ru]]></domain>
@@ -1889,12 +1883,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6571527" includeTime="2023-12-18T16:05:03" entryType="1" hash="225BBBA6328D013D1B97B2DBE8A2188F" ts="2023-12-18T16:05:03">
- <decision date="2023-12-12" number="2328534-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://m.porno365.pics/movie/37711]]></url>
- <domain><![CDATA[m.porno365.pics]]></domain>
- <ip>186.2.163.214</ip>
 </content>
 <content id="6571529" includeTime="2023-12-14T22:55:04" entryType="1" hash="F5ECCE7D5BEFEB2B55E879DCEB3F46E9" ts="2023-12-14T22:55:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -2502,6 +2490,11 @@
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.drift-kazinos.org.ru]]></domain>
  <ip>185.235.128.179</ip>
+</content>
+<content id="6571741" includeTime="2023-12-19T13:30:05" entryType="1" hash="D67410D64269C2E8A17A6D0614A770E2" blockType="domain" ts="2023-12-19T13:30:05">
+ <decision date="2023-11-01" number="2а-1368/2023" org="Чертановский районный суд - Москва"/>
+ <domain><![CDATA[kadastr-info.su]]></domain>
+ <ip>193.124.57.25</ip>
 </content>
 <content id="6571742" includeTime="2023-12-13T14:35:04" entryType="1" hash="CE48AA3918A9235DF928991EB9BBC96E" blockType="domain" ts="2023-12-13T14:35:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
