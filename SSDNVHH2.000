@@ -4616,9 +4616,9 @@
  <ip>188.114.99.160</ip>
  <ipv6>2a06:98c1:3123:a000:0000:0000:0000:0000</ipv6>
 </content>
-<content id="4467624" includeTime="2022-06-05T00:40:49" urgencyType="1" entryType="3" hash="12FD0CC31D6BBF7DADACD848A0296037" blockType="domain" ts="2022-06-05T00:40:49">
+<content id="4467624" includeTime="2022-06-05T00:40:49" urgencyType="1" entryType="3" hash="D71EDAFE6474DA6134DD6D01B9CBF3DD" blockType="domain-mask" ts="2023-12-20T14:50:02">
  <decision date="2022-06-02" number="" org=""/>
- <domain><![CDATA[www.pravdamail.com]]></domain>
+ <domain><![CDATA[*.pravdamail.com]]></domain>
  <ip>188.114.99.160</ip>
  <ipv6>2a06:98c1:3120:a000:0000:0000:0000:0000</ipv6>
 </content>
