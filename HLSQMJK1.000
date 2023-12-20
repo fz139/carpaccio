@@ -2656,18 +2656,6 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:24fb</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c99e</ipv6>
 </content>
-<content id="654071" includeTime="2017-10-04T21:21:11" entryType="1" hash="CC2ADB761ADCAEB8BEAAE0C86632C55A" ts="2017-10-04T21:21:11">
- <decision date="2017-09-24" number="8/7/10-14874" org="МВД"/>
- <url><![CDATA[http://ufa.webdoski.ru/other/6052]]></url>
- <domain><![CDATA[ufa.webdoski.ru]]></domain>
- <ip>92.62.139.12</ip>
-</content>
-<content id="654074" includeTime="2017-10-04T21:21:11" entryType="1" hash="D9844A94593C2E6DD8AE7B8033D83B46" ts="2017-10-04T21:21:11">
- <decision date="2017-09-24" number="8/7/10-14875" org="МВД"/>
- <url><![CDATA[http://krasnoyarsk.webdoski.ru/other/6045]]></url>
- <domain><![CDATA[krasnoyarsk.webdoski.ru]]></domain>
- <ip>92.62.139.12</ip>
-</content>
 <content id="654119" includeTime="2017-09-28T09:54:04" entryType="1" hash="31812AB76D58AB06C20DEBC17E972282" blockType="domain" ts="2017-09-28T09:54:04">
  <decision date="2015-11-23" number="2-6-27/106" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[wp0.3o.sl.pt]]></domain>
@@ -6838,10 +6826,13 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a0fe</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0f0c</ipv6>
 </content>
-<content id="661399" includeTime="2017-11-16T19:00:00" entryType="1" hash="3DB165AE8B5948D22E88DE104BF8BFD9" blockType="domain" ts="2017-11-16T19:00:00">
+<content id="661399" includeTime="2017-11-16T19:00:00" entryType="1" hash="66DB68A8D3A1C11193CD28BAF45A5B33" blockType="domain" ts="2023-12-20T14:10:02">
  <decision date="2017-06-13" number="2-1330/2017" org="Новочебоксарский городской суд - Чувашская  Республика - Чувашия"/>
  <domain><![CDATA[www.putana21.net]]></domain>
- <ip>5.45.78.153</ip>
+ <ip>104.21.70.10</ip>
+ <ip>172.67.217.175</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:460a</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:d9af</ipv6>
 </content>
 <content id="661415" includeTime="2017-10-25T21:47:07" entryType="1" hash="C56393D2BD3CF3037F3F8443BBF50E01" blockType="domain" ts="2017-10-25T21:47:07">
  <decision date="2017-06-13" number="2-1330/2017" org="Новочебоксарский городской суд - Чувашская  Республика - Чувашия"/>
