@@ -410,15 +410,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6578349" includeTime="2023-12-18T16:05:03" entryType="1" hash="C5993CC5EEAAACACE7CA9684EC25F330" ts="2023-12-18T16:05:03">
- <decision date="2023-12-13" number="2023-12-12-3781-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <url><![CDATA[https://crazycandy.ru/services/alkogolnoe_morozhenoe.html]]></url>
- <domain><![CDATA[crazycandy.ru]]></domain>
- <ip>104.21.88.230</ip>
- <ip>172.67.153.161</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:58e6</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:99a1</ipv6>
-</content>
 <content id="6578352" includeTime="2023-12-14T22:55:04" entryType="1" hash="6A0A3A3E0061E00615079C5767355EAE" blockType="domain-mask" ts="2023-12-15T13:10:06">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.eldorado-casino-lxl.buzz]]></domain>
@@ -759,11 +750,6 @@
  <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="6578443" includeTime="2023-12-14T22:55:04" entryType="1" hash="03373DAE0CDC4E91BC690A1FCE9BF1E3" blockType="domain-mask" ts="2023-12-15T13:10:06">
- <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.5imperatorbet.ru]]></domain>
- <ip>185.43.223.20</ip>
 </content>
 <content id="6578445" includeTime="2023-12-18T16:05:03" entryType="1" hash="E4ED38AFA3DA2D06663731DE8280DEAB" ts="2023-12-18T16:05:03">
  <decision date="2023-12-14" number="2332046-URL-on" org="Роскомнадзор"/>
@@ -3129,15 +3115,6 @@
  <decision date="2020-07-24" number="2а-521/2020" org="Алейский городской суд - Алтайский край"/>
  <domain><![CDATA[new.ufavip.sx]]></domain>
  <ip>5.187.1.38</ip>
-</content>
-<content id="6579151" includeTime="2023-12-18T22:35:03" entryType="1" hash="B7283B6D833F76233FEB841CD1112D9E" ts="2023-12-18T22:35:03">
- <decision date="2016-04-06" number="2-950/2016" org="Самарский районный суд г. Самары - Самарская область"/>
- <url><![CDATA[https://1chan.ca/news/res/34137/]]></url>
- <domain><![CDATA[1chan.ca]]></domain>
- <ip>104.21.233.229</ip>
- <ip>104.21.233.230</ip>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:e9e5</ipv6>
- <ipv6>2606:4700:3038:0000:0000:0000:6815:e9e6</ipv6>
 </content>
 <content id="6579152" includeTime="2023-12-15T13:20:02" entryType="1" hash="E98EFD54F2EE6AD2D2D79FB8DE156289" blockType="domain" ts="2023-12-15T13:20:02">
  <decision date="2023-01-18" number="2а-2486/2023" org="Центральный районный суд г. Челябинска - Челябинская область"/>
@@ -12054,6 +12031,30 @@
  <decision date="2023-12-06" number="определение о предварительном обеспечении по заявлению № 2И-16696/2023" org="Мосгорсуд"/>
  <url><![CDATA[https://rybakovigor.study/]]></url>
  <domain><![CDATA[rybakovigor.study]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6583898" includeTime="2023-12-22T18:45:03" urgencyType="1" entryType="3" hash="BC89193A789EE74AFE7E5BFF0E9BC3B6" blockType="domain-mask" ts="2023-12-22T18:45:03">
+ <decision date="2023-12-16" number="" org=""/>
+ <domain><![CDATA[*.theageoffootball.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6583899" includeTime="2023-12-22T18:45:03" urgencyType="1" entryType="3" hash="09566EE4D2087742714DF1C776DDE126" blockType="domain-mask" ts="2023-12-22T18:45:03">
+ <decision date="2023-12-16" number="" org=""/>
+ <domain><![CDATA[*.censor.org.ua]]></domain>
+ <ip>104.21.19.16</ip>
+ <ip>172.67.184.115</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:1310</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:b873</ipv6>
+</content>
+<content id="6583900" includeTime="2023-12-22T18:45:03" urgencyType="1" entryType="3" hash="C15B06AA89D72006E9BB6B8C4698BDDC" blockType="domain-mask" ts="2023-12-22T18:45:03">
+ <decision date="2023-12-16" number="" org=""/>
+ <domain><![CDATA[*.euro-pravda.org.ua]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -22012,6 +22013,16 @@
  <ipv6>2600:9000:2375:c200:0016:bda4:d200:0021</ipv6>
  <ipv6>2600:9000:2375:e600:0016:bda4:d200:0021</ipv6>
  <ipv6>2600:9000:2375:fa00:0016:bda4:d200:0021</ipv6>
+</content>
+<content id="6586858" includeTime="2023-12-22T18:45:03" urgencyType="1" entryType="3" hash="2926F3312B3B4A90F8FE6D7626691F2F" blockType="domain-mask" ts="2023-12-22T18:45:03">
+ <decision date="2023-12-18" number="" org=""/>
+ <domain><![CDATA[*.t1news.tv]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="6586859" includeTime="2023-12-22T18:45:03" urgencyType="1" entryType="3" hash="D34D467EE8CD47FEE633760D3C9546DC" blockType="domain-mask" ts="2023-12-22T18:45:03">
+ <decision date="2023-12-18" number="" org=""/>
+ <domain><![CDATA[*.nashigroshi.org]]></domain>
+ <ip>89.184.68.74</ip>
 </content>
 <content id="6586861" includeTime="2023-12-20T14:50:02" urgencyType="1" entryType="3" hash="356D68FA15175E1904546A3E5AF41FFC" blockType="domain-mask" ts="2023-12-20T14:50:02">
  <decision date="2023-12-11" number="" org=""/>
