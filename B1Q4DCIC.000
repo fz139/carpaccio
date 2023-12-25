@@ -9359,9 +9359,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6271568" includeTime="2023-08-16T11:55:02" entryType="1" hash="30F7F39D5B8D254AC38E3B7C83B0E549" blockType="domain" ts="2023-08-16T11:55:02">
+<content id="6271568" includeTime="2023-08-16T11:55:02" entryType="1" hash="34705642A11ABADD2AE320BD413D6F72" blockType="domain-mask" ts="2023-12-25T14:05:03">
  <decision date="2023-08-11" number="2023-08-11-492-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[gepa-medikal.ru]]></domain>
+ <domain><![CDATA[*.gepa-medikal.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
