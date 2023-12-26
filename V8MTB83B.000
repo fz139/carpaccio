@@ -5004,11 +5004,6 @@
  <domain><![CDATA[www.samosud.org]]></domain>
  <ip>64.233.161.121</ip>
 </content>
-<content id="368377" includeTime="2016-11-01T19:21:43" entryType="1" hash="31435EDE38ED63A1B17FD23CCF9178EC" blockType="domain" ts="2016-11-01T19:21:43">
- <decision date="2016-08-29" number="2-6050/16" org="Ленинский районный суд г. Омска - Омская область"/>
- <domain><![CDATA[webapteka.su]]></domain>
- <ip>89.184.93.16</ip>
-</content>
 <content id="368412" includeTime="2016-10-22T17:06:57" entryType="1" hash="2B2B8A96252C19CECA259F77376EF493" blockType="domain" ts="2016-10-22T17:06:57">
  <decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
  <domain><![CDATA[www.288563.com]]></domain>
@@ -7561,6 +7556,14 @@
  <url><![CDATA[http://alcovkus.ru]]></url>
  <domain><![CDATA[alcovkus.ru]]></domain>
  <ip>217.12.218.136</ip>
+</content>
+<content id="377600" includeTime="2023-12-26T11:00:04" entryType="1" hash="78BA652C75077BA396157E9FF23E1EA6" blockType="domain-mask" ts="2023-12-26T11:00:04">
+ <decision date="2016-09-09" number="2-882/2016" org="Заводоуковский районный суд - Тюменская область"/>
+ <domain><![CDATA[*.dosug-omsk.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="377622" includeTime="2016-11-07T17:29:40" entryType="1" hash="4B27D0C7BA61A0B15F97540286E1D8AF" ts="2016-11-07T17:29:40">
  <decision date="2016-09-22" number="2-478/2016" org="Топчихинский районный суд - Алтайский край"/>
