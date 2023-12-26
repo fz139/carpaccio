@@ -4677,12 +4677,6 @@
  <ip>104.21.53.106</ip>
  <ip>172.67.212.4</ip>
 </content>
-<content id="6540780" includeTime="2023-12-04T14:25:03" entryType="1" hash="13203AC9B0B0D6C9551EFCE30C34D2F8" blockType="domain" ts="2023-12-04T14:25:03">
- <decision date="2023-11-30" number="2023-11-30-71-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[rxe.mgenerix.com]]></domain>
- <ip>104.21.3.224</ip>
- <ip>172.67.153.186</ip>
-</content>
 <content id="6540781" includeTime="2023-11-30T21:50:04" entryType="1" hash="3CB324F66F576E654E8F8597560C43C1" blockType="domain-mask" ts="2023-11-30T21:50:04">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.simsiki.today]]></domain>
@@ -5630,12 +5624,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:970f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3077</ipv6>
 </content>
-<content id="6541123" includeTime="2023-12-04T14:25:03" entryType="1" hash="9821267A15FA0992910EB36A525D84E2" blockType="domain" ts="2023-12-04T14:25:03">
- <decision date="2023-11-30" number="2023-11-30-63-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[mdk.rxmoscow24.com]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
-</content>
 <content id="6541124" includeTime="2023-11-30T21:50:04" entryType="1" hash="D13E92BFB82B6EBED79EE20EE3CE49A5" blockType="domain-mask" ts="2023-11-30T21:50:04">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.7k-lol.buzz]]></domain>
@@ -6569,14 +6557,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6541462" includeTime="2023-12-04T14:25:03" entryType="1" hash="7C7CEE7D6065B5F2271E97C3CF143DBC" blockType="domain" ts="2023-12-04T14:25:03">
- <decision date="2023-11-30" number="2023-11-30-59-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[mo.djeneriki.biz]]></domain>
- <ip>104.21.79.27</ip>
- <ip>172.67.140.235</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:8ceb</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:4f1b</ipv6>
-</content>
 <content id="6541463" includeTime="2023-11-30T21:50:04" entryType="1" hash="E7E62C8AD44F79FB65134054D76B7F49" blockType="domain-mask" ts="2023-11-30T21:50:04">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.slotozal-casino1.buzz]]></domain>
@@ -6882,6 +6862,12 @@
  <domain><![CDATA[*.legzocasino-dialog2.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+</content>
+<content id="6541584" includeTime="2023-12-26T14:15:05" entryType="1" hash="87411539D3D8EAEFF21EB810F4E95FD0" blockType="domain" ts="2023-12-26T14:15:05">
+ <decision date="2023-11-29" number="2023-11-29-1355-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[krdp.sofosbuvir-russia.com]]></domain>
+ <ip>92.53.96.143</ip>
+ <ipv6>2a03:6f00:0001:0000:0000:0000:5c35:608f</ipv6>
 </content>
 <content id="6541585" includeTime="2023-12-04T14:25:03" entryType="1" hash="31E6118667DD827BD1156654581949D6" ts="2023-12-04T14:25:03">
  <decision date="2023-01-19" number="2а-100/2023" org="Куртамышский районный суд - Курганская область"/>

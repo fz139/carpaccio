@@ -352,6 +352,14 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9650</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:4ff4</ipv6>
 </content>
+<content id="6537759" includeTime="2023-12-26T14:15:05" entryType="1" hash="CE7602F9779656DB28699D66B19C950D" blockType="domain" ts="2023-12-26T14:15:05">
+ <decision date="2023-11-29" number="2023-11-29-473-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[g.lgepcenter.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6537760" includeTime="2023-11-29T22:05:03" entryType="1" hash="4BDEF7ECD17C2811FAA23DB4C41425DD" blockType="domain-mask" ts="2023-11-29T22:05:03">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pinuup848.xyz]]></domain>
@@ -387,14 +395,6 @@
  <ip>172.67.149.91</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:955b</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:29b7</ipv6>
-</content>
-<content id="6537767" includeTime="2023-12-01T20:50:03" entryType="1" hash="5BC9AECBDDA9D1248D788D0F60658E12" blockType="domain" ts="2023-12-01T20:50:03">
- <decision date="2023-11-29" number="2023-11-28-5753-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[we.gerthshopn1.ru]]></domain>
- <ip>104.21.9.101</ip>
- <ip>172.67.189.57</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:0965</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:bd39</ipv6>
 </content>
 <content id="6537768" includeTime="2023-11-29T22:05:03" entryType="1" hash="3F3BCE37459627724E8C3A04543EB721" blockType="domain-mask" ts="2023-11-29T22:05:03">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

@@ -2792,6 +2792,14 @@
  <ip>18.165.122.24</ip>
  <ip>18.165.122.98</ip>
 </content>
+<content id="6596873" includeTime="2023-12-26T14:15:05" entryType="1" hash="4E98204E25FF32F117D148A9A7BC51DD" blockType="domain-mask" ts="2023-12-26T14:15:05">
+ <decision date="2023-12-21" number="2339732-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.zetflixs.me]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6596874" includeTime="2023-12-21T22:15:03" entryType="1" hash="DCB28AAAF889CDDAB4A1F24FB2A7DCBD" blockType="domain-mask" ts="2023-12-21T22:15:03">
  <decision date="2017-06-20" number="2-6-20/2017-06-20-319-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.eldorado-casino-rgj.buzz]]></domain>
@@ -3572,15 +3580,6 @@
  <ip>45.80.111.10</ip>
  <ip>45.80.111.246</ip>
 </content>
-<content id="6597024" includeTime="2023-12-26T00:00:06" entryType="1" hash="999373D421C02D18B0990B5211EA3D3A" ts="2023-12-26T00:00:06">
- <decision date="2022-10-25" number="2а-1704/2022" org="Замоскворецкий районный суд - Москва"/>
- <url><![CDATA[https://galaxyflog.ru/composition/oksimiron_poslednij-zvonok-minus-originalnij-bit]]></url>
- <domain><![CDATA[galaxyflog.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6597025" includeTime="2023-12-21T22:15:03" entryType="1" hash="2F79D6D7743E7772DBD50DEC00105BB5" blockType="domain-mask" ts="2023-12-21T22:15:03">
  <decision date="2017-06-20" number="2-6-20/2017-06-20-319-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vegas-grand.pro]]></domain>
@@ -3870,6 +3869,14 @@
  <ip>172.67.218.193</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:dac1</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:2626</ipv6>
+</content>
+<content id="6597081" includeTime="2023-12-26T14:15:05" entryType="1" hash="73367CB1184E1B0CB2A5DB96191746A8" blockType="domain" ts="2023-12-26T14:15:05">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[kraken8.krtor.at]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6597082" includeTime="2023-12-21T22:15:03" entryType="1" hash="EAD8F2E30A2C0991FF3C386B6E843FC2" blockType="domain-mask" ts="2023-12-21T22:15:03">
  <decision date="2023-12-21" number="2-6-14/2023-12-18-2267-АИ" org="ФНС"/>
