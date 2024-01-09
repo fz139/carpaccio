@@ -8066,6 +8066,14 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:959f</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5feb</ipv6>
 </content>
+<content id="6611373" includeTime="2024-01-09T23:35:03" entryType="1" hash="57E35FCFB3B6A2434B04CCBEAB652F52" blockType="domain-mask" ts="2024-01-09T23:35:03">
+ <decision date="2023-12-27" number="2345800-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.hdtoday.tv]]></domain>
+ <ip>104.21.235.177</ip>
+ <ip>104.21.235.178</ip>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ebb1</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ebb2</ipv6>
+</content>
 <content id="6611375" includeTime="2023-12-27T22:55:09" entryType="1" hash="F9C7305C08E06F287FEC5B86EB6A717A" blockType="domain-mask" ts="2023-12-27T22:55:09">
  <decision date="2017-06-20" number="2-6-20/2017-06-20-319-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.sonicpokerdom-8955.ru]]></domain>
@@ -12587,6 +12595,12 @@
  <ip>52.85.49.35</ip>
  <ip>52.85.49.37</ip>
 </content>
+<content id="6613655" includeTime="2024-01-09T23:35:03" entryType="1" hash="B777BE76934685BEA33F6AF1B03AE522" ts="2024-01-09T23:35:03">
+ <decision date="2023-12-27" number="2023-12-18-3867" org="МВД"/>
+ <url><![CDATA[https://www.ionair.cl/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F-%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D0%B9-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-%D1%82%D0%BE%D1%80-%D0%B1%D1%80%D0%B0/]]></url>
+ <domain><![CDATA[www.ionair.cl]]></domain>
+ <ip>190.110.125.180</ip>
+</content>
 <content id="6613656" includeTime="2023-12-29T14:15:04" entryType="1" hash="C788A00424A3D53B1BC982ED9FF3A3C7" blockType="domain" ts="2023-12-29T14:15:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[6kraken.com]]></domain>
@@ -13351,6 +13365,15 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6613859" includeTime="2024-01-09T23:35:03" entryType="1" hash="19782830330638C51ADD52F621E13EA9" ts="2024-01-09T23:35:03">
+ <decision date="2023-12-27" number="2а-797/2023" org="Москаленский районный суд - Омская область"/>
+ <url><![CDATA[https://omsk.pitersmoke.ru/category/tabak-manual/]]></url>
+ <domain><![CDATA[omsk.pitersmoke.ru]]></domain>
+ <ip>104.21.86.239</ip>
+ <ip>172.67.137.217</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:89d9</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:56ef</ipv6>
 </content>
 <content id="6613860" includeTime="2023-12-28T22:15:04" entryType="1" hash="AE6537905F2AE50357D462423C404A30" blockType="domain-mask" ts="2023-12-28T22:15:04">
  <decision date="2017-06-20" number="2-6-20/2017-06-20-319-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
