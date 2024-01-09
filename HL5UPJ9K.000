@@ -2329,11 +2329,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6164063" includeTime="2023-07-06T08:27:59" entryType="1" hash="A4A44AEADE6FA3036A4E55A91EACB57A" blockType="domain" ts="2023-07-06T09:22:00">
- <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[bet.wulcan-registration.cfd]]></domain>
- <ip>80.89.235.241</ip>
-</content>
 <content id="6164064" includeTime="2023-07-07T16:51:41" entryType="1" hash="507F632A935824F4B526E2C15CFC7458" blockType="domain" ts="2023-07-07T17:42:00">
  <decision date="2023-07-04" number="2023-06-29-2124" org="МВД"/>
  <domain><![CDATA[promoto24.ru]]></domain>
@@ -4684,6 +4679,15 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:8d22</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2907</ipv6>
 </content>
+<content id="6168361" includeTime="2024-01-09T19:25:03" entryType="2" hash="5FECB224A065D13B71BB7DE60BF24DAD" ts="2024-01-09T19:25:03">
+ <decision date="2023-06-29" number="определение о предварительном обеспечении по заявлению № 2И-7753/2023" org="Мосгорсуд"/>
+ <url><![CDATA[https://site.kintas.ru/1791-maldivy-podozhdut.html]]></url>
+ <domain><![CDATA[site.kintas.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6168365" includeTime="2023-07-13T17:08:52" entryType="2" hash="16896EFC6F055D3CDB0A195EB2375C1D" ts="2023-07-13T17:08:52">
  <decision date="2023-06-29" number="определение о предварительном обеспечении по заявлению № 2И-7753/2023" org="Мосгорсуд"/>
  <url><![CDATA[https://tor19.labtor.tv/598107-maldivy-podozhdut-2022-ts.html]]></url>
@@ -6667,11 +6671,6 @@
  <domain><![CDATA[*.fresh-istok.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
-</content>
-<content id="6171734" includeTime="2023-07-07T08:32:56" entryType="1" hash="41283D47ACEF4A91C378FFFB7ADEDF35" blockType="domain-mask" ts="2023-07-07T10:37:00">
- <decision date="2023-07-05" number="2-6-14/2023-06-17-647-АИ" org="ФНС"/>
- <domain><![CDATA[*.vavada360.com]]></domain>
- <ip>92.119.113.115</ip>
 </content>
 <content id="6171751" includeTime="2023-07-07T08:32:51" entryType="1" hash="4B7DC9D2E5FB539F8FE58C924588C81F" blockType="domain-mask" ts="2023-07-07T10:37:00">
  <decision date="2023-07-05" number="2-6-14/2023-06-18-1481-АИ" org="ФНС"/>
