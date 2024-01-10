@@ -30,12 +30,6 @@
  <ip>104.27.146.5</ip>
  <ip>104.27.147.5</ip>
 </content>
-<content id="1021242" includeTime="2018-07-27T09:50:50" entryType="1" hash="CE92466F557D6A4363989CD15433B7F3" ts="2018-07-27T09:50:50">
- <decision date="2016-06-22" number="2-6-27/     2016-06-21-30-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <url><![CDATA[http://cupis.info/1x-1/]]></url>
- <domain><![CDATA[cupis.info]]></domain>
- <ip>88.99.26.91</ip>
-</content>
 <content id="1021248" includeTime="2019-04-10T19:33:46" entryType="1" hash="0A570883518C2537B8EFBC93F266D37E" blockType="domain-mask" ts="2019-04-10T19:33:46">
  <decision date="2018-07-25" number="2-6-20/2018-04-05-63-АИ" org="ФНС"/>
  <domain><![CDATA[*.bet-profit.com]]></domain>
@@ -593,24 +587,6 @@
  <ip>104.28.18.113</ip>
  <ip>104.28.19.113</ip>
 </content>
-<content id="1023246" includeTime="2018-07-28T08:07:16" entryType="1" hash="6BEE1B8260909B8ACB5211D6E6AA1BDE" blockType="domain-mask" ts="2018-07-28T08:07:16">
- <decision date="2016-04-11" number="2-6-27/2016-02-12-22-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.whatismbet.win]]></domain>
- <ip>109.169.1.199</ip>
- <ip>87.117.250.214</ip>
-</content>
-<content id="1023247" includeTime="2018-07-28T08:07:16" entryType="1" hash="86CBF2F27D1909964E6757058FC13CF2" blockType="domain" ts="2018-07-28T08:07:16">
- <decision date="2016-04-11" number="2-6-27/2016-02-12-22-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[whatismbet.win]]></domain>
- <ip>109.169.1.199</ip>
- <ip>87.117.250.214</ip>
-</content>
-<content id="1023248" includeTime="2018-07-28T08:07:16" entryType="1" hash="E355B8FF6C88531E079A4BD1944D460E" ts="2018-07-28T08:07:16">
- <decision date="2016-04-11" number="2-6-27/2016-02-12-22-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <url><![CDATA[https://www.whatismbet.win/su/siteaccess.htm]]></url>
- <domain><![CDATA[www.whatismbet.win]]></domain>
- <ip>109.169.1.199</ip>
-</content>
 <content id="1023251" includeTime="2018-07-28T08:07:16" entryType="1" hash="EAF1A06364C10D979FB2EDACA72A1A69" ts="2018-07-28T08:07:16">
  <decision date="2016-05-13" number="2-6-27/ 2016-05-05-39-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <url><![CDATA[https://34.246.137.153:16869]]></url>
@@ -887,17 +863,6 @@
  <ip>104.28.20.132</ip>
  <ip>104.28.21.132</ip>
 </content>
-<content id="1025207" includeTime="2018-07-29T08:49:50" entryType="1" hash="208541DEDF3E959B14686EE35767F380" blockType="domain-mask" ts="2023-08-31T15:30:01">
- <decision date="2016-06-14" number="2-6-27 2016-06-07-85-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.betsmara.win]]></domain>
- <ip>173.249.48.57</ip>
-</content>
-<content id="1025208" includeTime="2018-07-29T08:49:50" entryType="1" hash="F0FFD2A06C0AA7C6FE70A80FF0EF9EAA" blockType="domain" ts="2018-07-29T08:49:50">
- <decision date="2016-06-14" number="2-6-27 2016-06-07-85-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[betsmara.win]]></domain>
- <ip>173.249.48.57</ip>
- <ip>213.136.75.48</ip>
-</content>
 <content id="1025209" includeTime="2018-07-29T08:49:50" entryType="1" hash="411A6E7AC1D284008609316EC77268EB" ts="2018-07-29T08:49:50">
  <decision date="2016-06-14" number="2-6-27 2016-06-07-85-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <url><![CDATA[http://bit.ly/mbet3025]]></url>
@@ -1066,30 +1031,6 @@
  <decision date="2018-07-27" number="1з-3436/2018" org="Минцифры"/>
  <domain><![CDATA[m21.mp3-tut.biz]]></domain>
  <ip>195.22.26.248</ip>
-</content>
-<content id="1025647" includeTime="2018-07-30T08:51:23" entryType="1" hash="B5F99D514F73EB4A6B664250C9BC0947" blockType="domain-mask" ts="2018-07-30T08:51:23">
- <decision date="2016-04-11" number="2-6-27/2016-02-12-22-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.marathonstay.win]]></domain>
- <ip>109.169.1.229</ip>
- <ip>87.117.250.214</ip>
-</content>
-<content id="1025648" includeTime="2018-07-30T08:51:23" entryType="1" hash="86B72B479256E998DC8D009DBF8F33D9" blockType="domain" ts="2018-07-30T08:51:23">
- <decision date="2016-04-11" number="2-6-27/2016-02-12-22-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[marathonstay.win]]></domain>
- <ip>109.169.1.229</ip>
- <ip>87.117.250.214</ip>
-</content>
-<content id="1025649" includeTime="2018-07-30T08:51:23" entryType="1" hash="0F168FA0A4D26E423A6732307FA044A1" ts="2018-07-30T08:51:23">
- <decision date="2016-04-11" number="2-6-27/2016-02-12-22-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <url><![CDATA[https://www.marathonstay.win/su/siteaccess.htm]]></url>
- <domain><![CDATA[www.marathonstay.win]]></domain>
- <ip>109.169.1.229</ip>
-</content>
-<content id="1025661" includeTime="2018-07-30T08:51:23" entryType="1" hash="257FBA75E8045988A916B115C416E917" ts="2018-07-30T08:51:23">
- <decision date="2016-09-22" number="2-6-27/2016-07-28-56-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <url><![CDATA[http://cupis.info/mostbet-d3/]]></url>
- <domain><![CDATA[cupis.info]]></domain>
- <ip>88.99.26.91</ip>
 </content>
 <content id="1025701" includeTime="2018-07-30T08:51:24" entryType="1" hash="030E57157C04045C22D6A8E9FAE3A7D9" blockType="domain" ts="2018-07-30T08:51:24">
  <decision date="2017-05-05" number="2-6-20/2017-05-04-50-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2343,17 +2284,6 @@
  <ip>67.199.248.10</ip>
  <ip>67.199.248.11</ip>
 </content>
-<content id="1026540" includeTime="2018-07-31T06:46:18" entryType="1" hash="8B90DAAE867B1CCBFA3BE672008A708F" blockType="domain-mask" ts="2023-08-31T15:30:01">
- <decision date="2016-06-14" number="2-6-27 2016-06-07-85-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.supermara.win]]></domain>
- <ip>173.249.27.214</ip>
-</content>
-<content id="1026541" includeTime="2018-07-31T06:46:18" entryType="1" hash="54AB7253B517005D6F500BC457E154BE" blockType="domain" ts="2018-07-31T06:46:18">
- <decision date="2016-06-14" number="2-6-27 2016-06-07-85-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[supermara.win]]></domain>
- <ip>173.249.27.214</ip>
- <ip>213.136.75.48</ip>
-</content>
 <content id="1026559" includeTime="2018-07-31T06:46:18" entryType="1" hash="B201AE688BD4C7CDC1E488029986D738" blockType="domain" ts="2018-07-31T06:46:18">
  <decision date="2016-06-24" number="2-6-27/     2016-06-22-18-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[bkinf0-147.site]]></domain>
@@ -2410,18 +2340,6 @@
  <url><![CDATA[http://ssat.me/index.php/component/k2/itemlist/user/20349]]></url>
  <domain><![CDATA[ssat.me]]></domain>
  <ip>95.217.65.123</ip>
-</content>
-<content id="1028210" includeTime="2018-08-01T09:30:19" entryType="1" hash="63A41705E1BB5ADC5BD8D0F5323DF958" blockType="domain-mask" ts="2018-08-01T09:30:19">
- <decision date="2016-04-11" number="2-6-27/2016-02-12-22-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.marathonalive.win]]></domain>
- <ip>109.169.1.164</ip>
- <ip>87.117.250.214</ip>
-</content>
-<content id="1028213" includeTime="2018-08-01T09:30:19" entryType="1" hash="B79B9AA63B1D46565E7464318573CA40" blockType="domain" ts="2018-08-01T09:30:19">
- <decision date="2016-04-11" number="2-6-27/2016-02-12-22-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[marathonalive.win]]></domain>
- <ip>109.169.1.164</ip>
- <ip>87.117.250.214</ip>
 </content>
 <content id="1028216" includeTime="2018-08-01T09:30:19" entryType="1" hash="A6393231F5EFFC003D0281890F96756D" ts="2018-08-01T09:30:19">
  <decision date="2016-04-11" number="2-6-27/2016-02-12-22-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
