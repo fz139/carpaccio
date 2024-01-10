@@ -8354,9 +8354,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:8e63</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:4f36</ipv6>
 </content>
-<content id="6621523" includeTime="2024-01-09T19:00:05" urgencyType="1" entryType="3" hash="69970425528DAAB2BC425AC04FFFB604" blockType="domain" ts="2024-01-09T19:00:05">
+<content id="6621523" includeTime="2024-01-09T19:00:05" urgencyType="1" entryType="3" hash="2A8C21DFEFB0E1B202F0E7F3399807A8" blockType="domain-mask" ts="2024-01-10T19:45:01">
  <decision date="2022-08-05" number="" org=""/>
- <domain><![CDATA[сахком.рф]]></domain>
+ <domain><![CDATA[*.сахком.рф]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
