@@ -10756,11 +10756,13 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:9811</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:21fb</ipv6>
 </content>
-<content id="5919712" includeTime="2023-05-18T14:54:24" entryType="1" hash="0E60E40695EC690A0F24DEC2BD826649" blockType="domain" ts="2023-05-18T14:54:24">
+<content id="5919712" includeTime="2023-05-18T14:54:24" entryType="1" hash="49A40C485F335AAB57638510B690D7C7" blockType="domain" ts="2024-01-11T16:35:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[mega.store.sb]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ip>62.72.50.59</ip>
+ <ipv6>2a02:4780:000b:1207:0000:36fd:7c79:0009</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -11446,11 +11448,15 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d0d4</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0ff2</ipv6>
 </content>
-<content id="5919966" includeTime="2023-05-18T14:54:23" entryType="1" hash="6A87A2290DEA4AA3BC20FDF156F83AD7" blockType="domain-mask" ts="2023-05-18T14:54:23">
+<content id="5919966" includeTime="2023-05-18T14:54:23" entryType="1" hash="EF2AED65674939F5A5EC9BF95868020A" blockType="domain-mask" ts="2024-01-11T16:35:04">
  <decision date="2023-05-16" number="2023-05-15-1011" org="МВД"/>
  <domain><![CDATA[*.semyanich-dostupen.space]]></domain>
+ <ip>104.21.13.34</ip>
+ <ip>172.67.197.163</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:c5a3</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:0d22</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
