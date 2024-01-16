@@ -1315,14 +1315,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6607839" includeTime="2023-12-26T22:35:04" entryType="1" hash="0D77F83094AA797C0216471BA6BEF917" blockType="domain-mask" ts="2023-12-26T22:35:04">
- <decision date="2017-06-20" number="2-6-20/2017-06-20-319-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.casinoz5.biz]]></domain>
- <ip>104.21.84.230</ip>
- <ip>172.67.198.94</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:c65e</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:54e6</ipv6>
-</content>
 <content id="6607840" includeTime="2023-12-28T13:40:06" entryType="1" hash="93A3AA232EC14A5E599703CEFCDD8B67" ts="2023-12-28T13:40:06">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://crime24.biz/?city_id=108]]></url>
@@ -1771,6 +1763,11 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4149</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:bd27</ipv6>
 </content>
+<content id="6607960" includeTime="2024-01-16T23:35:04" entryType="1" hash="74C4509BBC4456362982A8FF9A33B8E4" blockType="domain" ts="2024-01-16T23:35:04">
+ <decision date="2023-12-25" number="2023-12-14-6345-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[6rusalco24-barnaul.ru]]></domain>
+ <ip>178.32.248.248</ip>
+</content>
 <content id="6607962" includeTime="2023-12-28T13:40:06" entryType="1" hash="A81CA7AF6CFFF9272DC2518FB2634052" ts="2023-12-28T13:40:06">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://42notarius.biz/?city_id=108]]></url>
@@ -1939,6 +1936,14 @@
 <content id="6608007" includeTime="2023-12-26T22:35:04" entryType="1" hash="656826B3FEBBE150238D7E7159040867" blockType="domain-mask" ts="2023-12-26T22:35:04">
  <decision date="2017-06-20" number="2-6-20/2017-06-20-319-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.rasn.io]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6608009" includeTime="2024-01-16T23:35:04" entryType="1" hash="02EEE1789C8B64BCB92789C916FC4B2A" blockType="domain-mask" ts="2024-01-16T23:35:04">
+ <decision date="2023-08-01" number="2а-1030/2023" org="Шилкинский районный суд - Забайкальский край"/>
+ <domain><![CDATA[*.sochifeya1.best]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
