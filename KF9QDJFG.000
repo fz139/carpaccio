@@ -10833,9 +10833,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="4321206" includeTime="2022-04-26T16:02:34" entryType="5" hash="62B53ACE55E1C1951C2429CC0021F8E2" blockType="domain" ts="2022-04-26T16:02:34">
+<content id="4321206" includeTime="2022-04-26T16:02:34" entryType="5" hash="7252DC8884253EDC7A3AE2426CB4AF87" blockType="domain-mask" ts="2024-01-18T18:05:01">
  <decision date="2022-04-25" number="1з-46611/2022" org="Минцифры"/>
- <domain><![CDATA[bxfilm.vip]]></domain>
+ <domain><![CDATA[*.bxfilm.vip]]></domain>
  <ip>104.21.89.55</ip>
  <ip>172.67.188.36</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:bc24</ipv6>
