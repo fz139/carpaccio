@@ -2034,6 +2034,16 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a705</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:4b20</ipv6>
 </content>
+<content id="6658502" includeTime="2024-01-19T18:20:02" urgencyType="1" entryType="3" hash="DAC145B7AD75B8D97D981001A95783BA" blockType="domain-mask" ts="2024-01-19T18:20:02">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[*.mmmfilm.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="6658503" includeTime="2024-01-19T18:20:02" urgencyType="1" entryType="3" hash="AA5F9E0C1EC074B2094C80FA76578156" blockType="domain-mask" ts="2024-01-19T18:20:02">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[*.hdrezka180grw.org]]></domain>
+ <ip>45.130.169.209</ip>
+</content>
 <content id="6658505" includeTime="2024-01-19T17:45:03" entryType="5" hash="4AB48E25F329941EAD640BB51D83E0DF" blockType="domain" ts="2024-01-19T17:45:03">
  <decision date="2024-01-18" number="1з-78461/2024" org="Минцифры"/>
  <domain><![CDATA[forumtv.org]]></domain>
@@ -2427,9 +2437,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6658587" includeTime="2024-01-19T18:05:02" urgencyType="1" entryType="3" hash="29EED880D7C83C7AF969D1404F2F18C5" blockType="domain" ts="2024-01-19T18:05:02">
+<content id="6658587" includeTime="2024-01-19T18:05:02" urgencyType="1" entryType="3" hash="C73BEDB6AA0853F05DD0DD46F0553F0D" blockType="domain-mask" ts="2024-01-19T18:20:02">
  <decision date="2023-12-05" number="" org=""/>
- <domain><![CDATA[exler.top]]></domain>
+ <domain><![CDATA[*.exler.top]]></domain>
  <ip>5.9.141.21</ip>
 </content>
 </reg:register>
