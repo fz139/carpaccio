@@ -2034,6 +2034,11 @@
  <domain><![CDATA[*.1x-bet85879.com]]></domain>
  <ip>83.147.225.139</ip>
 </content>
+<content id="2383295" includeTime="2024-01-22T23:30:03" entryType="1" hash="418862AEADABF4A9C81D04BC9533642A" blockType="domain-mask" ts="2024-01-22T23:30:03">
+ <decision date="2016-11-24" number="2-6-27/2016-11-24-96-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.apexbet.ru]]></domain>
+ <ip>185.196.8.72</ip>
+</content>
 <content id="2383318" includeTime="2020-06-27T13:37:41" entryType="1" hash="B30D101E2214DE625B13D3F30C9D631A" blockType="domain-mask" ts="2020-06-27T13:37:41">
  <decision date="2016-02-05" number="2-6-27/2016-01-07-5-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.aznews.guru]]></domain>
@@ -7409,9 +7414,9 @@
  <domain><![CDATA[ussuriysk.eccemoda.ru]]></domain>
  <ip>178.62.212.129</ip>
 </content>
-<content id="2394098" includeTime="2020-07-06T16:34:47" entryType="1" hash="A430433CEBAEB78D55B58B93801AE873" blockType="domain" ts="2024-01-22T15:30:01">
+<content id="2394098" includeTime="2020-07-06T16:34:47" entryType="1" hash="673E92DEB7DCDC5F2F3A644043DDD6EF" blockType="domain-mask" ts="2024-01-22T23:30:03">
  <decision date="2020-06-08" number="2а-2179/2020" org="Уссурийский районный суд - Приморский край"/>
- <domain><![CDATA[sexros.biz]]></domain>
+ <domain><![CDATA[*.sexros.biz]]></domain>
  <ip>104.21.15.157</ip>
  <ip>172.67.163.25</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:a319</ipv6>
