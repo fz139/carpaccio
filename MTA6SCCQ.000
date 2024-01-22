@@ -483,11 +483,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6293492" includeTime="2023-08-22T08:20:02" entryType="1" hash="AB6B77D0A3993663C3434A90EC2B13F6" blockType="domain-mask" ts="2023-08-22T08:20:02">
- <decision date="2023-08-18" number="2-6-14/2023-07-16-1836-АИ" org="ФНС"/>
- <domain><![CDATA[*.pokerdom-crl7.xyz]]></domain>
- <ip>54.37.75.68</ip>
-</content>
 <content id="6293496" includeTime="2023-08-22T08:20:02" entryType="1" hash="A6981ACDF6D17C91887E4EBCF509670E" blockType="domain" ts="2023-08-22T08:20:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[krasnodar.narco.store]]></domain>
@@ -1692,14 +1687,6 @@
  <ip>172.67.134.43</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:0612</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:862b</ipv6>
-</content>
-<content id="6294038" includeTime="2023-08-22T08:20:02" entryType="1" hash="46F37AF2DD57363027E66EC2889E39C4" blockType="domain" ts="2023-08-22T08:20:02">
- <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[codabra-online.com]]></domain>
- <ip>104.21.89.32</ip>
- <ip>172.67.136.146</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:5920</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:8892</ipv6>
 </content>
 <content id="6294040" includeTime="2023-08-22T21:00:02" entryType="1" hash="2CC95245F8219BB6E1EF9C0CA966F8CE" ts="2023-08-22T21:00:02">
  <decision date="2020-07-21" number="2020-07-21-405" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
