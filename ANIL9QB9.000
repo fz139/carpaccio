@@ -6000,6 +6000,12 @@
  <ipv6>2606:4700:0030:0000:0000:0000:6812:2064</ipv6>
  <ipv6>2606:4700:0030:0000:0000:0000:6812:2164</ipv6>
 </content>
+<content id="433578" includeTime="2024-01-24T22:00:04" entryType="1" hash="0DB6CAE0EDD3B88E003278860DCF9DDE" blockType="domain-mask" ts="2024-01-24T22:00:04">
+ <decision date="2016-06-24" number="2-6-27/     2016-06-22-18-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.bk-info9.online]]></domain>
+ <ip>104.21.30.49</ip>
+ <ip>172.67.150.150</ip>
+</content>
 <content id="433651" includeTime="2017-03-22T21:13:31" entryType="1" hash="579131BE312383FC35A0FDE70C260EF6" blockType="domain" ts="2017-03-22T21:13:31">
  <decision date="2017-01-25" number="2-6-20/2017-01-25-25-АИ" org="ФНС"/>
  <domain><![CDATA[www.poker-online.ru]]></domain>
@@ -19348,6 +19354,12 @@
  <ip>172.67.209.10</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d10a</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4d91</ipv6>
+</content>
+<content id="485996" includeTime="2024-01-24T22:00:04" entryType="1" hash="1620324380A8FC81F7AF7E9506DBB99C" blockType="domain-mask" ts="2024-01-24T22:00:04">
+ <decision date="2016-06-24" number="2-6-27/     2016-06-22-18-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.bkinfo17.online]]></domain>
+ <ip>104.21.67.11</ip>
+ <ip>172.67.210.254</ip>
 </content>
 <content id="486064" includeTime="2017-04-18T22:58:22" entryType="1" hash="63E57D454D686EDC2B47ED2E02815944" blockType="domain" ts="2023-11-21T13:40:04">
  <decision date="2017-01-16" number="б/н" org="Лабинский городской суд - Краснодарский край"/>

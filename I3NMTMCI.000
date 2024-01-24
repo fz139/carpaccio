@@ -3183,9 +3183,9 @@
  <ip>104.21.45.80</ip>
  <ip>172.67.211.62</ip>
 </content>
-<content id="4916875" includeTime="2022-10-10T23:55:40" entryType="1" hash="F2F20B5356CED30358AAAB8A0057E17B" blockType="domain" ts="2022-10-10T23:55:40">
+<content id="4916875" includeTime="2022-10-10T23:55:40" entryType="1" hash="FB4633EF9BB958AA1B9B59D4E15678EE" blockType="domain-mask" ts="2024-01-24T22:00:04">
  <decision date="2022-10-06" number="2022-10-06-1163-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[muscle-pharma.net]]></domain>
+ <domain><![CDATA[*.muscle-pharma.net]]></domain>
  <ip>104.21.34.247</ip>
  <ip>172.67.166.163</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a6a3</ipv6>

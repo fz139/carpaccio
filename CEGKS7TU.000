@@ -3319,6 +3319,11 @@
  <ip>203.29.52.160</ip>
  <ipv6>2a05:7880:0258:33b5:17ef:5c43:8e6e:8358</ipv6>
 </content>
+<content id="3934465" includeTime="2024-01-24T22:00:04" entryType="1" hash="B84DB93AD95D780765054CCDB6C0F4F0" blockType="domain" ts="2024-01-24T22:00:04">
+ <decision date="2022-01-11" number="2-6-18/2021-11-29-2926-АИ" org="ФНС"/>
+ <domain><![CDATA[w.in.ua]]></domain>
+ <ip>195.191.25.21</ip>
+</content>
 <content id="3934466" includeTime="2022-01-12T13:46:42" entryType="1" hash="12BED4189642707FEE91D571E40CA27E" blockType="domain" ts="2022-01-12T13:46:42">
  <decision date="2022-01-11" number="2-6-18/2021-09-03-67-АИ" org="ФНС"/>
  <domain><![CDATA[vavadacom.org]]></domain>
@@ -3334,6 +3339,12 @@
  <ip>172.67.217.49</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5658</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d931</ipv6>
+</content>
+<content id="3934468" includeTime="2024-01-24T22:00:04" entryType="1" hash="3CA32086EFDE6708181694616C6F8F0C" blockType="domain-mask" ts="2024-01-24T22:00:04">
+ <decision date="2022-01-11" number="2-6-18/2021-09-04-152-АИ" org="ФНС"/>
+ <domain><![CDATA[*.volgaslot6.com]]></domain>
+ <ip>94.140.115.23</ip>
+ <ipv6>2a02:7aa0:4000:0000:0000:0000:0000:0044</ipv6>
 </content>
 <content id="3934470" includeTime="2022-01-12T21:05:58" entryType="1" hash="93A231CC39D4CA17AF38DAADE049C3F2" blockType="domain" ts="2022-01-12T21:05:58">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
