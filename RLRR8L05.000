@@ -6312,9 +6312,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6647556" includeTime="2024-01-16T23:35:04" entryType="1" hash="948471071AC432564FD5BAFF704D4901" blockType="domain" ts="2024-01-16T23:35:04">
+<content id="6647556" includeTime="2024-01-16T23:35:04" entryType="1" hash="2B571DA72BCAF18166A5C7A1C125A9C4" blockType="domain-mask" ts="2024-01-25T22:35:01">
  <decision date="2017-06-20" number="2-6-20/2017-06-20-319-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[www.admgyda.ru]]></domain>
+ <domain><![CDATA[*.www.admgyda.ru]]></domain>
  <ip>104.21.83.173</ip>
  <ip>172.67.179.174</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:b3ae</ipv6>
