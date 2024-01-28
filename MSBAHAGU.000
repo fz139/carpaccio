@@ -1134,6 +1134,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6673369" includeTime="2024-01-28T14:20:03" urgencyType="1" entryType="3" hash="145D969943C49419508601B832BC3981" blockType="domain-mask" ts="2024-01-28T14:20:03">
+ <decision date="2024-01-23" number="" org=""/>
+ <domain><![CDATA[*.sokalinfo.com]]></domain>
+ <ip>104.21.3.240</ip>
+ <ip>172.67.131.88</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:8358</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:03f0</ipv6>
+</content>
 <content id="6673371" includeTime="2024-01-24T22:00:04" entryType="1" hash="B10F70522AFE80D32F73259640D6C8F7" blockType="domain-mask" ts="2024-01-24T22:00:04">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.207kcasino.ru]]></domain>
