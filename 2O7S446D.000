@@ -964,11 +964,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="3648976" includeTime="2021-09-22T22:35:31" entryType="1" hash="6C931394E9BA98BCB8EE110C2FFE9BC5" blockType="domain-mask" ts="2021-09-22T22:35:31">
- <decision date="2017-08-25" number="2-6-20/2017-08-24-197-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.6358.info]]></domain>
- <ip>45.79.149.110</ip>
-</content>
 <content id="3649227" includeTime="2021-09-22T17:20:46" entryType="5" hash="3E0F07B93285F31A78154997FD51BDA4" blockType="domain" ts="2021-09-22T17:20:46">
  <decision date="2021-09-21" number="1з-38174/2021" org="Минцифры"/>
  <domain><![CDATA[ru1.filmixhd.one]]></domain>
@@ -4656,11 +4651,6 @@
  <ip>35.79.243.127</ip>
  <ip>54.95.1.67</ip>
 </content>
-<content id="3657026" includeTime="2021-09-23T22:18:57" entryType="1" hash="258E15AAF5E05D62A556EB17F7C42FAD" blockType="domain" ts="2021-09-23T22:18:57">
- <decision date="2021-09-23" number="2-6-18/2021-07-26-1645-АИ" org="ФНС"/>
- <domain><![CDATA[lil.bet]]></domain>
- <ip>81.91.178.46</ip>
-</content>
 <content id="3657028" includeTime="2021-09-23T22:18:57" entryType="1" hash="7C1BD7A532B5DAA8A8E69904F31E02B1" blockType="domain" ts="2021-09-23T22:18:57">
  <decision date="2021-09-23" number="2-6-18/2021-07-31-233-АИ" org="ФНС"/>
  <domain><![CDATA[www.caxinocasino.com]]></domain>
@@ -6501,9 +6491,9 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
-<content id="3660821" includeTime="2021-09-27T14:56:56" entryType="1" hash="15894D475E484BC5AEF2E100717B557E" blockType="domain" ts="2021-09-27T14:56:56">
+<content id="3660821" includeTime="2021-09-27T14:56:56" entryType="1" hash="1F1BA843F0669A879E44FBB8C5FDC539" blockType="domain-mask" ts="2024-01-29T13:05:03">
  <decision date="2021-09-23" number="2021-08-23-998-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[u-hiv.site]]></domain>
+ <domain><![CDATA[*.u-hiv.site]]></domain>
  <ip>176.119.26.132</ip>
  <ip>176.119.30.165</ip>
 </content>
@@ -8717,9 +8707,9 @@
  <ip>203.23.104.133</ip>
  <ipv6>2a05:7880:085c:b238:4535:40e8:5596:a108</ipv6>
 </content>
-<content id="3665049" includeTime="2024-01-27T04:50:01" entryType="1" hash="E4534FB137B4A27DA161ED617DBEC64D" blockType="domain" ts="2024-01-27T04:50:01">
+<content id="3665049" includeTime="2024-01-27T04:50:01" entryType="1" hash="9C325D08C912D0283B6F50CA731F6C72" blockType="domain-mask" ts="2024-01-29T13:05:03">
  <decision date="2021-09-27" number="2-6-18/2021-07-17-150-АИ" org="ФНС"/>
- <domain><![CDATA[azino777-7it.ru]]></domain>
+ <domain><![CDATA[*.azino777-7it.ru]]></domain>
  <ip>104.21.5.21</ip>
  <ip>172.67.132.193</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:0515</ipv6>

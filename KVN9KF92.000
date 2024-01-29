@@ -1242,12 +1242,6 @@
  <domain><![CDATA[*.8playfortuna.ru]]></domain>
  <ip>185.235.128.6</ip>
 </content>
-<content id="3758247" includeTime="2021-11-02T23:11:04" entryType="1" hash="1C3EF9780105C84BB156BC25841D866F" blockType="domain-mask" ts="2021-11-02T23:11:04">
- <decision date="2017-08-25" number="2-6-20/2017-08-24-197-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.roxcasino-dokm5.ru]]></domain>
- <ip>104.21.37.40</ip>
- <ip>172.67.203.186</ip>
-</content>
 <content id="3758260" includeTime="2021-11-08T21:19:59" entryType="1" hash="027D5B39F781A991DAD68DC0AD5A46EF" ts="2023-10-02T14:40:02">
  <decision date="2021-11-02" number="1490526-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://www.hiqqu.com/view=90a6]]></url>
@@ -1763,16 +1757,6 @@
  <url><![CDATA[https://www.guardabene.com/community/profile/maxgames-5670/]]></url>
  <domain><![CDATA[www.guardabene.com]]></domain>
  <ip>89.46.110.62</ip>
-</content>
-<content id="3758665" includeTime="2021-11-03T22:41:05" entryType="1" hash="EB1C6EDB6D02F0DB3A47BF09D5F8F4D7" blockType="domain-mask" ts="2021-11-03T22:41:05">
- <decision date="2021-11-02" number="2-6-18/2021-10-17-468-АИ" org="ФНС"/>
- <domain><![CDATA[*.nvuti.ceo]]></domain>
- <ip>104.26.12.105</ip>
- <ip>104.26.13.105</ip>
- <ip>172.67.71.170</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0c69</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0d69</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:47aa</ipv6>
 </content>
 <content id="3758667" includeTime="2021-11-03T22:41:03" entryType="1" hash="47525AA25F0F1E4FD8CFD9E72AE35DEF" ts="2021-11-03T22:41:03">
  <decision date="2021-11-02" number="2-6-18/2021-10-28-3113-АИ" org="ФНС"/>
@@ -12510,9 +12494,9 @@
  <domain><![CDATA[poszfo.com]]></domain>
  <ip>87.249.43.129</ip>
 </content>
-<content id="3776697" includeTime="2024-01-27T04:50:01" entryType="1" hash="99178F4C48DA31FD2534FF3FAB85ACCC" blockType="domain" ts="2024-01-27T04:50:01">
+<content id="3776697" includeTime="2024-01-27T04:50:01" entryType="1" hash="29B19353B907D54621389252438E96EA" blockType="domain-mask" ts="2024-01-29T13:05:03">
  <decision date="2017-08-25" number="2-6-20/2017-08-24-197-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[1xbet-2880212.top]]></domain>
+ <domain><![CDATA[*.1xbet-2880212.top]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
