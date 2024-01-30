@@ -2727,9 +2727,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d704</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:32f4</ipv6>
 </content>
-<content id="6687348" includeTime="2024-01-29T23:10:02" entryType="1" hash="9B20FF1AD6566E907F9B22A747AB68F8" blockType="domain" ts="2024-01-29T23:10:02">
+<content id="6687348" includeTime="2024-01-29T23:10:02" entryType="1" hash="6829ACF2D05A40B12610D45B3B460892" blockType="domain-mask" ts="2024-01-30T09:05:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[quantumleapschools.com]]></domain>
+ <domain><![CDATA[*.quantumleapschools.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
