@@ -220,14 +220,6 @@
  <ipv6>2606:4700:0020:0000:0000:0000:681a:05ad</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4835</ipv6>
 </content>
-<content id="2954311" includeTime="2021-02-03T22:37:17" entryType="1" hash="47625D9F63B7E83F8340FAA6F953F171" blockType="domain" ts="2021-02-03T22:37:17">
- <decision date="2019-02-19" number="2-6-20/2019-02-12-1471-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[ww1.hd-videobox.cc]]></domain>
- <ip>104.21.35.194</ip>
- <ip>172.67.178.218</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:b2da</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:23c2</ipv6>
-</content>
 <content id="2954317" includeTime="2021-02-03T22:37:16" entryType="1" hash="872E0F2B77F41AB89C2443636BB94AD5" blockType="domain" ts="2021-02-03T22:37:16">
  <decision date="2019-12-10" number="2-6-20/ 2019-12-03-286-АИ" org="ФНС"/>
  <domain><![CDATA[wullcan-na-dengy.com]]></domain>
@@ -8941,10 +8933,13 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2fbb</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:abd1</ipv6>
 </content>
-<content id="2978428" includeTime="2021-02-12T17:06:11" entryType="1" hash="98A66E5497C7FCE965AEF2EB9EC44B4D" blockType="domain" ts="2021-02-12T17:06:11">
+<content id="2978428" includeTime="2021-02-12T17:06:11" entryType="1" hash="EE3B2717DFAAF6736F2238A553026DB4" blockType="domain" ts="2024-01-30T11:35:01">
  <decision date="2021-01-22" number="2а-412/2021" org="Павловский городской суд - Нижегородская область"/>
  <domain><![CDATA[eburg.dosug.club]]></domain>
- <ip>5.45.76.252</ip>
+ <ip>104.21.43.244</ip>
+ <ip>172.67.190.165</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:2bf4</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:bea5</ipv6>
 </content>
 <content id="2978629" includeTime="2021-03-01T17:53:43" entryType="1" hash="676BE51E990F7A8327AB4EA17C101E2C" blockType="domain" ts="2021-03-01T17:53:43">
  <decision date="2021-01-14" number="2а-504/2021" org="Новоалтайский городской суд - Алтайский край"/>
@@ -10212,11 +10207,6 @@
  <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.refpafxuzymi.top]]></domain>
  <ip>45.150.232.79</ip>
-</content>
-<content id="2983211" includeTime="2021-02-12T20:35:09" entryType="1" hash="133230D4268D54434A0F722D1417AEB7" blockType="domain-mask" ts="2021-02-12T20:35:09">
- <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.stopitparimatch.online]]></domain>
- <ip>104.18.101.5</ip>
 </content>
 <content id="2983216" includeTime="2021-02-12T20:35:09" entryType="1" hash="45B9DCFC6B1A25BC4949C67D82847729" blockType="domain-mask" ts="2021-02-12T20:35:09">
  <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -18314,14 +18304,6 @@
  <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[slot-dom.azurefd.net]]></domain>
  <ip>52.169.254.240</ip>
-</content>
-<content id="3004925" includeTime="2021-02-19T22:15:35" entryType="1" hash="F9B0ED0E0DC280B7BEA63F07E8C96547" blockType="domain-mask" ts="2021-02-19T22:15:35">
- <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.bez-depov-net.ru]]></domain>
- <ip>104.21.67.153</ip>
- <ip>172.67.177.135</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:b187</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:4399</ipv6>
 </content>
 <content id="3004926" includeTime="2021-02-19T22:15:35" entryType="1" hash="C92AD2CEE1E6D97C4C30F9198067ED0F" blockType="domain-mask" ts="2021-02-19T22:15:35">
  <decision date="2017-04-10" number="2-6-20/ 2017-04-05-1221-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

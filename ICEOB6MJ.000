@@ -848,11 +848,6 @@
  <domain><![CDATA[*.casino-columbus.xyz]]></domain>
  <ip>5.45.69.132</ip>
 </content>
-<content id="2232719" includeTime="2020-04-17T20:40:39" entryType="1" hash="E6BAA6CD54E22B531492D39174F09F87" blockType="domain-mask" ts="2020-04-17T20:40:39">
- <decision date="2016-11-07" number="2-6-27/2016-11-01-7-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.vsecasino.info]]></domain>
- <ip>185.31.208.227</ip>
-</content>
 <content id="2232720" includeTime="2020-04-17T20:40:39" entryType="1" hash="354A1BD8BAD432FCDBE7CEFFCB41068E" blockType="domain-mask" ts="2020-04-17T20:40:39">
  <decision date="2016-11-07" number="2-6-27/2016-11-01-7-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.casino.toys]]></domain>
@@ -3944,10 +3939,13 @@
  <domain><![CDATA[zlatoust.arena-diplomm.com]]></domain>
  <ip>157.245.72.144</ip>
 </content>
-<content id="2238503" includeTime="2020-04-22T18:27:18" entryType="1" hash="097F9ABA7C92E3D3E9D0E17E3878BA64" blockType="domain" ts="2020-04-22T18:27:18">
+<content id="2238503" includeTime="2020-04-22T18:27:18" entryType="1" hash="078C81977A6EECE4BCD0C4E7AAF15DE7" blockType="domain" ts="2024-01-30T11:35:01">
  <decision date="2020-04-15" number="2а-34/2020" org="Шелопугинский районный суд - Забайкальский край"/>
  <domain><![CDATA[70.dosug.la]]></domain>
- <ip>5.45.76.252</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="2238606" includeTime="2020-04-21T14:05:15" entryType="5" hash="DAA8721F465FE3D631548E47DB99507F" blockType="domain" ts="2020-04-21T14:05:15">
  <decision date="2020-04-20" number="1з-14369/2020" org="Минцифры"/>
