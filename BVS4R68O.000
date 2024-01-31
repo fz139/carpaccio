@@ -2046,6 +2046,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6675283" includeTime="2024-01-31T13:45:03" entryType="1" hash="BFAF008912BF2B4B82DB83B9917CC05A" blockType="domain-mask" ts="2024-01-31T13:45:03">
+ <decision date="2024-01-25" number="2375960-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.watchsomuch.to]]></domain>
+ <ip>104.21.55.24</ip>
+ <ip>172.67.144.34</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:3718</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:9022</ipv6>
+</content>
 <content id="6675297" includeTime="2024-01-27T04:50:01" entryType="1" hash="27DC510CF2A9CFE9D87EBF77A7D063AB" ts="2024-01-27T04:50:01">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://studlov.info/kraken-ploschadka.html]]></url>
