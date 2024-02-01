@@ -5261,12 +5261,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:bd42</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:097b</ipv6>
 </content>
-<content id="6628924" includeTime="2024-01-12T22:50:05" entryType="1" hash="325B94834C38A124A4C990F1065EBF34" ts="2024-01-12T22:50:05">
- <decision date="2024-01-10" number="2354811-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://secretstars.forumrom.com/viewtopic.php?id=24#p93]]></url>
- <domain><![CDATA[secretstars.forumrom.com]]></domain>
- <ip>91.194.2.84</ip>
-</content>
 <content id="6628925" includeTime="2024-01-11T13:40:05" entryType="1" hash="BBA15D4611B4765D70E993DC3F85DA34" blockType="domain" ts="2024-01-11T13:40:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[tex-lavka.ru]]></domain>
@@ -7231,6 +7225,12 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6629495" includeTime="2024-02-01T13:40:04" entryType="1" hash="B0EF24BDD85B68038FFD08F21B1589F3" ts="2024-02-01T13:40:04">
+ <decision date="2024-01-10" number="2354950-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://sekretstars.forum2.net/viewtopic.php?id=91]]></url>
+ <domain><![CDATA[sekretstars.forum2.net]]></domain>
+ <ip>91.194.2.84</ip>
 </content>
 <content id="6629498" includeTime="2024-01-10T22:40:05" entryType="1" hash="7DD6FAD6DB9CB319354A807E219CC5D5" blockType="domain-mask" ts="2024-01-10T22:40:05">
  <decision date="2017-06-20" number="2-6-20/2017-06-20-319-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
