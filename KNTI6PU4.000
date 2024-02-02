@@ -10391,13 +10391,65 @@
  <domain><![CDATA[dugouts-unassisted-803227.appspot.com]]></domain>
  <ip>74.125.196.132</ip>
 </content>
-<content id="6689188" includeTime="2024-02-02T19:55:02" urgencyType="1" entryType="3" hash="907C204AE392B9006DD6E07BF01EE75D" blockType="domain" ts="2024-02-02T19:55:02">
+<content id="6689185" includeTime="2024-02-02T20:25:02" urgencyType="1" entryType="3" hash="933EE7371471C60DEF2ED603F8414B12" blockType="domain-mask" ts="2024-02-02T20:25:02">
  <decision date="2024-01-29" number="" org=""/>
- <domain><![CDATA[hochunaiti.com]]></domain>
+ <domain><![CDATA[*.veritasvincit.info]]></domain>
+ <ip>162.213.255.33</ip>
+</content>
+<content id="6689186" includeTime="2024-02-02T20:25:02" urgencyType="1" entryType="3" hash="A3803E7B877E027B72574919B92C50C8" blockType="domain-mask" ts="2024-02-02T20:25:02">
+ <decision date="2024-01-29" number="" org=""/>
+ <domain><![CDATA[*.news-ua.pl]]></domain>
+ <ip>89.104.84.92</ip>
+</content>
+<content id="6689187" includeTime="2024-02-02T20:25:02" urgencyType="1" entryType="3" hash="C156175FE9A54BF1A9DDC0F7B6227465" blockType="domain-mask" ts="2024-02-02T20:25:02">
+ <decision date="2024-01-29" number="" org=""/>
+ <domain><![CDATA[*.freedom-of-speech.us]]></domain>
+ <ip>173.255.229.99</ip>
+</content>
+<content id="6689188" includeTime="2024-02-02T19:55:02" urgencyType="1" entryType="3" hash="05A9245AA9E3DEB74A0D272C41CDA4CD" blockType="domain-mask" ts="2024-02-02T20:25:02">
+ <decision date="2024-01-29" number="" org=""/>
+ <domain><![CDATA[*.hochunaiti.com]]></domain>
  <ip>104.21.89.174</ip>
  <ip>172.67.162.178</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a2b2</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:59ae</ipv6>
+</content>
+<content id="6689189" includeTime="2024-02-02T20:25:02" urgencyType="1" entryType="3" hash="FBCF6750CA64C21DEAE4D0C2F967960B" blockType="domain-mask" ts="2024-02-02T20:25:02">
+ <decision date="2024-01-29" number="" org=""/>
+ <domain><![CDATA[*.nexta.tv]]></domain>
+ <ip>45.88.198.30</ip>
+</content>
+<content id="6689190" includeTime="2024-02-02T20:25:02" urgencyType="1" entryType="3" hash="3D83697C5C825BB2DFF227BB6B041567" blockType="domain-mask" ts="2024-02-02T20:25:02">
+ <decision date="2024-01-29" number="" org=""/>
+ <domain><![CDATA[*.en.usm.media]]></domain>
+ <ip>104.21.48.178</ip>
+ <ip>172.67.155.85</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:30b2</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:9b55</ipv6>
+</content>
+<content id="6689191" includeTime="2024-02-02T20:25:02" urgencyType="1" entryType="3" hash="77E1B4BFF37AEAD6F9A5DB1E59A54F66" blockType="domain-mask" ts="2024-02-02T20:25:02">
+ <decision date="2024-01-29" number="" org=""/>
+ <domain><![CDATA[*.unn.ua]]></domain>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
+</content>
+<content id="6689192" includeTime="2024-02-02T20:25:02" urgencyType="1" entryType="3" hash="B27D6CBDAC267DEB7D4CCCE80683555F" blockType="domain-mask" ts="2024-02-02T20:25:02">
+ <decision date="2024-01-29" number="" org=""/>
+ <domain><![CDATA[*.military.news]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6689193" includeTime="2024-02-02T20:25:02" urgencyType="1" entryType="3" hash="570EE1AD9A930B6D4AEFD10651426054" blockType="domain-mask" ts="2024-02-02T20:25:02">
+ <decision date="2024-01-29" number="" org=""/>
+ <domain><![CDATA[*.mezha.net]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6689204" includeTime="2024-01-30T21:50:02" entryType="1" hash="65792ACCE48DEEDA9114AB2DC5D19345" blockType="domain" ts="2024-01-30T21:50:02">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
