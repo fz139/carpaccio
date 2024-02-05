@@ -1834,14 +1834,18 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:bc89</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:13bc</ipv6>
 </content>
-<content id="5073139" includeTime="2022-11-14T22:26:21" entryType="1" hash="BCC7C0D0D8DF28C09EDE25F1FE1D7575" ts="2022-11-14T22:26:21">
+<content id="5073139" includeTime="2022-11-14T22:26:21" entryType="1" hash="E3BB8CE1DA0913A834E5799B55B78AF4" ts="2024-02-05T14:25:01">
  <decision date="2022-11-10" number="1879360-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://kleofia.com/gallery?ref=driverlayer.com&page=468]]></url>
  <domain><![CDATA[kleofia.com]]></domain>
  <ip>104.21.75.131</ip>
  <ip>172.67.177.71</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4b83</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:b147</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="5073179" includeTime="2022-11-10T22:16:47" entryType="1" hash="F69B1E8527138FB40329FCC28611C3F6" blockType="domain" ts="2022-11-10T22:16:47">
  <decision date="2022-11-10" number="2-6-18/2022-11-08-175-АИ" org="ФНС"/>
@@ -4621,10 +4625,13 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:de79</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:465e</ipv6>
 </content>
-<content id="5079590" includeTime="2022-11-14T22:26:21" entryType="1" hash="E302FCEDD65A9B1986C983E03DDE8CED" blockType="domain" ts="2022-11-14T22:26:21">
+<content id="5079590" includeTime="2022-11-14T22:26:21" entryType="1" hash="E2F32C7148520AB75F85415C03368BF3" blockType="domain" ts="2024-02-05T14:25:01">
  <decision date="2022-11-11" number="1880696-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[bella-k.xyz]]></domain>
- <ip>162.0.209.214</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="5079607" includeTime="2022-11-11T20:15:00" entryType="1" hash="B2E5EF81972D5F8ECF38C73FBE2CD766" blockType="domain" ts="2022-11-11T20:15:00">
  <decision date="2017-07-04" number="2-6-20/ 2017-07-03-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4803,15 +4810,6 @@
  <ip>172.67.150.187</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:286c</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:96bb</ipv6>
-</content>
-<content id="5079749" includeTime="2022-11-15T21:55:24" entryType="1" hash="9C40154FDB6350CE7BE03C75AB8DE3A7" ts="2022-11-15T21:55:24">
- <decision date="2022-11-11" number="1880593-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://komiklokal.me/komik-teman-anakku-menyukaiku]]></url>
- <domain><![CDATA[komiklokal.me]]></domain>
- <ip>104.21.40.230</ip>
- <ip>172.67.157.146</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:28e6</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:9d92</ipv6>
 </content>
 <content id="5079751" includeTime="2022-11-11T20:15:00" entryType="1" hash="1A1DA9526D46A8A7836F14ECD8A8ACFA" blockType="domain" ts="2022-11-11T20:15:00">
  <decision date="2017-07-04" number="2-6-20/ 2017-07-03-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -10266,10 +10264,10 @@
  <domain><![CDATA[мрэо-жуков.рф]]></domain>
  <ip>95.214.60.18</ip>
 </content>
-<content id="5091676" includeTime="2022-11-17T20:44:51" entryType="1" hash="C187A0A5A258B4434EF4F31B6439FB55" blockType="domain" ts="2022-11-17T20:44:51">
+<content id="5091676" includeTime="2022-11-17T20:44:51" entryType="1" hash="3CCE9A0D9BED0A56A150A4C2FB9FD32D" blockType="domain" ts="2024-02-05T14:25:01">
  <decision date="2022-11-15" number="1884396-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[rockdilla.com]]></domain>
- <ip>162.248.225.163</ip>
+ <ip>138.124.181.142</ip>
 </content>
 <content id="5091678" includeTime="2022-11-17T13:57:08" entryType="1" hash="0061E12307599F5312266F493CA6AC3C" blockType="domain" ts="2022-11-17T13:57:08">
  <decision date="2022-11-15" number="2022-11-15-226-ПЛ" org="Росздравнадзор"/>
