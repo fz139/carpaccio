@@ -18692,9 +18692,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:9dd9</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:0e33</ipv6>
 </content>
-<content id="3114814" includeTime="2021-03-29T16:18:05" urgencyType="1" entryType="3" hash="00C268E50023267F8ABEF8AED8B0046E" blockType="domain" ts="2021-03-29T16:18:05">
+<content id="3114814" includeTime="2021-03-29T16:18:05" urgencyType="1" entryType="3" hash="9AE8F29F6BD6EB88386595D3C4D36B00" blockType="domain-mask" ts="2024-02-06T15:30:03">
  <decision date="2021-03-26" number="" org=""/>
- <domain><![CDATA[fincentra.com]]></domain>
+ <domain><![CDATA[*.fincentra.com]]></domain>
  <ip>104.21.20.156</ip>
  <ip>172.67.193.44</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:c12c</ipv6>
