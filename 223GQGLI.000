@@ -3961,6 +3961,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6701513" includeTime="2024-02-06T23:35:02" entryType="1" hash="4296C740A526C9E72D0D34FAED353113" blockType="domain-mask" ts="2024-02-06T23:35:02">
+ <decision date="2024-02-01" number="2387048-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lordfilm.com]]></domain>
+ <ip>193.233.15.8</ip>
+</content>
 <content id="6701514" includeTime="2024-02-01T22:25:01" entryType="1" hash="1FDD3C09A3DBB2BFA7AB592C09E8DDE8" blockType="domain-mask" ts="2024-02-01T22:25:01">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdom-officials.vip]]></domain>
@@ -4387,6 +4392,13 @@
  <ip>172.67.209.236</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:55c7</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:d1ec</ipv6>
+</content>
+<content id="6701603" includeTime="2024-02-06T23:35:02" entryType="1" hash="090C0B63C7E58D602D3D9197DB3442E4" ts="2024-02-06T23:35:02">
+ <decision date="2024-02-01" number="2387130-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://rt.xgroovy.com/photos/categories/lesbians/]]></url>
+ <domain><![CDATA[rt.xgroovy.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
 </content>
 <content id="6701604" includeTime="2024-02-05T22:55:02" entryType="1" hash="1A372BE2C4B3B9711D2553537DBA914B" blockType="domain" ts="2024-02-05T22:55:02">
  <decision date="2024-02-01" number="2024-02-01-6440-ПЛ" org="Росздравнадзор"/>
