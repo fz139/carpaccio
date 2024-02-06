@@ -11064,6 +11064,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6697224" includeTime="2024-02-06T13:30:02" entryType="1" hash="409C783D4FF50AD1E4AE92D33057812E" blockType="domain" ts="2024-02-06T13:30:02">
+ <decision date="2024-01-30" number="2024-01-29-1123-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[g.lvmed.ru]]></domain>
+ <ip>89.187.188.221</ip>
+</content>
 <content id="6697225" includeTime="2024-01-31T21:40:04" entryType="1" hash="B9605CE0BC4424F1A1CBCED41CB2668D" blockType="domain-mask" ts="2024-01-31T21:40:04">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.casinox-lvw.top]]></domain>
@@ -15959,12 +15964,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6698526" includeTime="2024-02-02T22:50:03" entryType="1" hash="BB251FAC4AF33D6754FB3699098C4AAB" ts="2024-02-02T22:50:03">
- <decision date="2024-01-23" number="2а-28/2024" org="Шурышкарский районный суд - Ямало-Ненецкий автономный округ"/>
- <url><![CDATA[https://lubok.club/otkr/zhizn/6515-otkrytki-zhizn-v-tjurme-80-foto.html]]></url>
- <domain><![CDATA[lubok.club]]></domain>
- <ip>209.126.127.76</ip>
 </content>
 <content id="6698529" includeTime="2024-02-01T22:25:01" entryType="1" hash="BD1B6DE813EFCB728E001597E4448F1B" blockType="domain-mask" ts="2024-02-01T22:25:01">
  <decision date="2024-01-31" number="2-6-14/2023-11-29-1343-АИ" org="ФНС"/>
