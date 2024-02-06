@@ -354,16 +354,20 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:eb7d</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:eb7e</ipv6>
 </content>
-<content id="2736714" includeTime="2021-01-11T15:03:36" entryType="1" hash="063B299EC3FD957D2E305D4687AA5AC9" ts="2021-01-11T15:03:36">
+<content id="2736714" includeTime="2021-01-11T15:03:36" entryType="1" hash="8AA71FAB923B6C9C7F4D29E3DC2B6CFC" ts="2024-02-06T14:00:05">
  <decision date="2020-11-17" number="1158756-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://cdn.xsd.cz/resize/ae6f16b7ecb932b699a0deb450027664_resize=397,600_.jpg?hash=129001aebe009b841ab5605666c40498]]></url>
  <domain><![CDATA[cdn.xsd.cz]]></domain>
  <ip>104.26.6.183</ip>
  <ip>104.26.7.183</ip>
  <ip>172.67.68.34</ip>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:06b7</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:07b7</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4422</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="2736715" includeTime="2020-12-07T15:55:28" entryType="1" hash="EBF79BF444164E6E9792ADC8862A3F12" ts="2020-12-07T15:55:28">
  <decision date="2020-11-17" number="1158757-URL-on" org="Роскомнадзор"/>
@@ -1259,11 +1263,15 @@
  <domain><![CDATA[chelyabinsk.mydiplomsstores.com]]></domain>
  <ip>5.61.58.119</ip>
 </content>
-<content id="2739272" includeTime="2021-01-11T15:03:36" entryType="1" hash="DF61483CD2C50E3C5C0AA60C8619E1B9" blockType="domain" ts="2021-01-11T15:03:36">
+<content id="2739272" includeTime="2021-01-11T15:03:36" entryType="1" hash="AA1C1455C544D5D24390027A5D550372" blockType="domain" ts="2024-02-06T14:00:05">
  <decision date="2020-11-18" number="1159508-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[shima.donmai.us]]></domain>
  <ip>188.114.96.144</ip>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:9000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="2739307" includeTime="2020-11-18T17:08:51" entryType="5" hash="DA6DF7CEACEDD1D4D901CD5150757052" blockType="domain" ts="2020-11-18T17:08:51">
  <decision date="2020-10-08" number="решение суда по делу № 66-5055/2020" org="Мосгорсуд"/>
@@ -1275,16 +1283,20 @@
  <domain><![CDATA[www.myscore.ru]]></domain>
  <ip>188.92.40.115</ip>
 </content>
-<content id="2739310" includeTime="2020-11-20T12:45:15" entryType="1" hash="480072DF876050F673B25C6C21D9F340" blockType="domain" ts="2020-11-20T12:45:15">
+<content id="2739310" includeTime="2020-11-20T12:45:15" entryType="1" hash="53B34DB54869C59EF7D310B2BFF2D13D" blockType="domain" ts="2024-02-06T14:00:05">
  <decision date="2020-11-18" number="1159510-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[rule34.art]]></domain>
  <ip>104.18.58.117</ip>
  <ip>104.18.59.117</ip>
  <ip>104.21.44.88</ip>
+ <ip>104.21.72.75</ip>
+ <ip>172.67.176.100</ip>
  <ip>172.67.198.56</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6812:3a75</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:b064</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:6812:3b75</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:2c58</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:484b</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c638</ipv6>
 </content>
 <content id="2739386" includeTime="2020-12-18T13:09:29" entryType="1" hash="4268CBD627DB12962B2335B4E3A36A6B" blockType="domain" ts="2023-10-18T09:55:02">
