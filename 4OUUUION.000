@@ -1079,13 +1079,17 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6815:506e</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:b368</ipv6>
 </content>
-<content id="6348831" includeTime="2023-09-12T22:15:02" entryType="1" hash="DC389A6B2B9108752A149EC5A2A3445D" blockType="domain" ts="2023-09-12T22:15:02">
+<content id="6348831" includeTime="2023-09-12T22:15:02" entryType="1" hash="BB60696D7FC80DC1FBA8559389ED21BA" blockType="domain" ts="2024-02-06T09:15:08">
  <decision date="2023-09-12" number="2230646-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[starsessions.pro]]></domain>
  <ip>104.21.38.19</ip>
  <ip>172.67.218.5</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2613</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:da05</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6348832" includeTime="2023-09-12T22:15:02" entryType="1" hash="4B338395F27B4AB44203C9E9B2C1ADDC" blockType="domain-mask" ts="2023-09-12T22:15:02">
  <decision date="2023-09-11" number="2-6-14/2023-09-05-2788-АИ" org="ФНС"/>
@@ -19314,15 +19318,6 @@
  <ip>181.214.1.10</ip>
  <ip>181.214.1.11</ip>
  <ip>181.214.1.12</ip>
-</content>
-<content id="6357353" includeTime="2023-09-18T13:55:03" entryType="1" hash="D9E78979FD3ADD55FA66F97D87094C44" ts="2023-09-18T13:55:03">
- <decision date="2023-09-14" number="2234163-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://hot-board.net/showthread.php?11931-Brima/page9]]></url>
- <domain><![CDATA[hot-board.net]]></domain>
- <ip>104.21.90.100</ip>
- <ip>172.67.155.146</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:5a64</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:9b92</ipv6>
 </content>
 <content id="6357355" includeTime="2023-09-14T22:15:02" entryType="1" hash="0181898BB37009E73BCD7B1898334CD5" blockType="domain-mask" ts="2023-09-14T22:15:02">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
