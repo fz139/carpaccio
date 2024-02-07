@@ -3698,15 +3698,19 @@
  <domain><![CDATA[boards.plus4chan.org]]></domain>
  <ip>104.244.75.22</ip>
 </content>
-<content id="4125381" includeTime="2022-03-09T13:17:43" entryType="1" hash="7B54CF0D542E878AE8CF12129C3F2391" ts="2022-03-09T13:17:43">
+<content id="4125381" includeTime="2022-03-09T13:17:43" entryType="1" hash="92C15A0508B4355B348448CEFC35A914" ts="2024-02-07T14:10:03">
  <decision date="2022-03-05" number="1612221-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://dailybusinessgazette.com/wp-content/imgs/sample_10200345f717d10135a85faf59a1171d.jpg]]></url>
  <domain><![CDATA[dailybusinessgazette.com]]></domain>
  <ip>104.21.60.41</ip>
  <ip>172.67.191.115</ip>
+ <ip>188.114.96.1</ip>
  <ip>188.114.96.2</ip>
+ <ip>188.114.97.1</ip>
  <ip>188.114.97.2</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
 </content>
 <content id="4125386" includeTime="2022-03-05T21:27:38" entryType="1" hash="558F76275136CDF1AE29702A40079D4D" blockType="domain" ts="2022-03-05T21:27:38">
@@ -3717,14 +3721,18 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:0303</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:81f7</ipv6>
 </content>
-<content id="4125396" includeTime="2022-03-09T13:17:45" entryType="1" hash="70D7DB2A3DA90BC9B24CA257355B3688" ts="2022-03-09T13:17:45">
+<content id="4125396" includeTime="2022-03-09T13:17:45" entryType="1" hash="C18660771D245B8F4CDBF5D7AC83D864" ts="2024-02-07T14:10:03">
  <decision date="2022-03-05" number="1612117-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://admos.eu/view_11227.php]]></url>
  <domain><![CDATA[admos.eu]]></domain>
+ <ip>188.114.96.1</ip>
  <ip>188.114.96.2</ip>
+ <ip>188.114.97.1</ip>
  <ip>188.114.97.2</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0e06</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8597</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4125398" includeTime="2022-03-09T13:17:48" entryType="1" hash="0A4519BF802E44425FC8F11E737298D7" ts="2022-03-09T13:17:48">
  <decision date="2022-03-05" number="1612133-URL-on" org="Роскомнадзор"/>
@@ -4317,11 +4325,15 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
-<content id="4125773" includeTime="2022-03-24T20:50:25" entryType="1" hash="1E8A03F9013663CB59C01996397A25B8" blockType="domain" ts="2022-03-24T20:50:25">
+<content id="4125773" includeTime="2022-03-24T20:50:25" entryType="1" hash="38F78D7F4A802DD09C73526203F5758D" blockType="domain" ts="2024-02-07T14:10:03">
  <decision date="2022-03-05" number="1611861-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[www.sieucapvippro.com]]></domain>
+ <ip>104.21.14.240</ip>
+ <ip>172.67.160.201</ip>
  <ip>188.114.96.2</ip>
  <ip>188.114.97.2</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:0ef0</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a0c9</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
 </content>
