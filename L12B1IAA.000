@@ -4,6 +4,11 @@
  <domain><![CDATA[*.slotozallplay.com]]></domain>
  <ip>203.17.126.96</ip>
 </content>
+<content id="6648234" includeTime="2024-02-13T22:55:03" entryType="1" hash="4509D69163275F6FD0AB04CFC2479E0B" blockType="domain" ts="2024-02-13T22:55:03">
+ <decision date="2024-01-15" number="2024-01-14-1875-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[catalog.medicos-gandhi.com]]></domain>
+ <ip>91.90.193.47</ip>
+</content>
 <content id="6648235" includeTime="2024-01-16T23:35:04" entryType="1" hash="32CF9E45FFD4E847FDCFF24315E6EBEC" blockType="domain" ts="2024-01-16T23:35:04">
  <decision date="2017-06-20" number="2-6-20/2017-06-20-319-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[villa-zvezda.ru]]></domain>
@@ -260,6 +265,11 @@
  <decision date="2024-01-16" number="2363051-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.bxfilms.me]]></domain>
  <ip>188.114.97.3</ip>
+</content>
+<content id="6648324" includeTime="2024-02-13T22:55:03" entryType="1" hash="328845C54D656648B602151F5DFB3D1B" blockType="domain" ts="2024-02-13T22:55:03">
+ <decision date="2024-01-15" number="2024-01-15-2516-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[wu.joysonshops.ru]]></domain>
+ <ip>130.185.109.2</ip>
 </content>
 <content id="6648328" includeTime="2024-01-18T22:10:02" entryType="1" hash="62AEC14E9718AC7D4A505B5BD883B807" blockType="domain" ts="2024-01-18T22:10:02">
  <decision date="2024-01-15" number="2024-01-15-4435" org="МВД"/>
@@ -611,6 +621,11 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6648413" includeTime="2024-02-13T22:55:03" entryType="1" hash="B75B1B813B9DC4B145BF08301DC0477B" blockType="domain-mask" ts="2024-02-13T22:55:03">
+ <decision date="2024-01-15" number="2024-01-14-1874-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[*.medicos-gandhi.com]]></domain>
+ <ip>91.90.193.47</ip>
 </content>
 <content id="6648414" includeTime="2024-01-16T23:35:04" entryType="1" hash="ADC6CAF25A41C4D2BD6DC79A56C1DA3D" blockType="domain-mask" ts="2024-01-16T23:35:04">
  <decision date="2017-06-20" number="2-6-20/2017-06-20-319-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -13013,6 +13028,14 @@
  <decision date="2023-09-22" number="2а-321/2023" org="Ельнинский районный суд - Смоленская область"/>
  <domain><![CDATA[smolensk.rusmassage.net]]></domain>
  <ip>5.61.54.91</ip>
+</content>
+<content id="6653089" includeTime="2024-02-13T22:55:03" entryType="1" hash="F6668C900EBBC646AEED13A8E3F94C57" blockType="domain" ts="2024-02-13T22:55:03">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[my.kazanfeya.top]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6653090" includeTime="2024-01-18T22:10:02" entryType="1" hash="FE0DE3AF919A80FDA3022A31979E234F" blockType="domain" ts="2024-01-18T22:10:02">
  <decision date="2023-03-27" number="2а-100/2023" org="Колышлейский районный суд - Пензенская область"/>
