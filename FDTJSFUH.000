@@ -13239,6 +13239,21 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6730823" includeTime="2024-02-13T17:05:02" entryType="1" hash="79200D71875868FB7AAEA3BED2CA31BF" blockType="domain-mask" ts="2024-02-13T17:05:02">
+ <decision date="2024-02-12" number="2401575-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.coollib.net]]></domain>
+ <ip>185.197.162.22</ip>
+</content>
+<content id="6730824" includeTime="2024-02-13T17:05:02" entryType="1" hash="BE8D14472D992AC9A265BF33BFF43A66" blockType="domain-mask" ts="2024-02-13T17:05:02">
+ <decision date="2024-02-12" number="2401572-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.coollib.xyz]]></domain>
+ <ip>185.197.162.22</ip>
+</content>
+<content id="6730825" includeTime="2024-02-13T17:05:02" entryType="1" hash="1FF1B07CA792D857554D1523E923993F" blockType="domain-mask" ts="2024-02-13T17:05:02">
+ <decision date="2024-02-12" number="2401571-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.coollib.com]]></domain>
+ <ip>185.197.162.22</ip>
+</content>
 <content id="6730826" includeTime="2024-02-12T19:40:03" urgencyType="1" entryType="3" hash="EFD7CCF0D918A71A40588C31FBD42FE0" blockType="domain" ts="2024-02-12T19:40:03">
  <decision date="2024-02-06" number="" org=""/>
  <domain><![CDATA[bilet-voenniy.ru]]></domain>
