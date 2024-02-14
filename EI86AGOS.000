@@ -4809,13 +4809,17 @@
  <domain><![CDATA[www.sobytiya.info]]></domain>
  <ip>104.24.25.58</ip>
 </content>
-<content id="720072" includeTime="2017-11-28T11:56:55" entryType="1" hash="ED751CCAF9FF2B73C59260F0E3068AB8" blockType="domain" ts="2017-11-28T11:56:55">
+<content id="720072" includeTime="2017-11-28T11:56:55" entryType="1" hash="6C812CFECA3EF82464A41C497816AB63" blockType="domain" ts="2024-02-14T12:00:04">
  <decision date="2017-11-24" number="8/7/10-18151" org="МВД"/>
  <domain><![CDATA[420cali.com]]></domain>
  <ip>104.21.81.8</ip>
  <ip>172.67.136.151</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:8897</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5108</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="720081" includeTime="2018-08-15T12:38:37" entryType="1" hash="9C28BFBC673739AA69ECA79C4370CD85" ts="2018-08-15T12:38:37">
  <decision date="2017-11-22" number="8/7/10-18038" org="МВД"/>
@@ -5918,11 +5922,14 @@
  <ip>157.245.114.224</ip>
  <ip>159.203.124.118</ip>
 </content>
-<content id="722098" includeTime="2017-12-06T11:56:12" entryType="1" hash="DDA045E4407A0815CDE6D1C63DB2A999" ts="2017-12-06T11:56:12">
+<content id="722098" includeTime="2017-12-06T11:56:12" entryType="1" hash="31443DD9CA758BC125633FCAF2205C32" ts="2024-02-14T12:00:04">
  <decision date="2017-11-23" number="8/7/10-18102" org="МВД"/>
  <url><![CDATA[http://wiki.tripsit.me/wiki/3-MeO-PCP]]></url>
  <domain><![CDATA[wiki.tripsit.me]]></domain>
- <ip>23.239.20.110</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="722120" includeTime="2017-12-06T11:56:12" entryType="1" hash="CADC0BB882E53942C98F95DEF5A3E247" ts="2017-12-06T11:56:12">
  <decision date="2017-11-24" number="8/7/10-18101" org="МВД"/>
@@ -5930,24 +5937,14 @@
  <domain><![CDATA[www.lgcstandards.com]]></domain>
  <ip>52.209.77.159</ip>
 </content>
-<content id="722145" includeTime="2018-01-16T12:19:20" entryType="1" hash="D63C8810B3F553C9F9F8EE901A0DC9C4" ts="2018-01-16T12:19:20">
+<content id="722145" includeTime="2018-01-16T12:19:20" entryType="1" hash="993EB636124FA4EFABFD55396445C866" ts="2024-02-14T12:00:04">
  <decision date="2017-11-24" number="8/7/10-17977" org="МВД"/>
  <url><![CDATA[https://cleanandsolve.com/rus/]]></url>
  <domain><![CDATA[cleanandsolve.com]]></domain>
- <ip>104.21.70.235</ip>
- <ip>104.22.26.80</ip>
- <ip>104.22.27.80</ip>
- <ip>104.24.114.216</ip>
- <ip>104.24.115.216</ip>
- <ip>172.67.168.192</ip>
- <ip>172.67.29.110</ip>
- <ipv6>2606:4700:0010:0000:0000:0000:6816:1a50</ipv6>
- <ipv6>2606:4700:0010:0000:0000:0000:6816:1b50</ipv6>
- <ipv6>2606:4700:0010:0000:0000:0000:ac43:1d6e</ipv6>
- <ipv6>2606:4700:3030:0000:0000:0000:6818:72d8</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:6818:73d8</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:46eb</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:a8c0</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="722232" includeTime="2018-01-12T18:47:38" entryType="1" hash="297E8BEE31582BD12CA07710BFBDFC6D" ts="2018-01-12T18:47:38">
  <decision date="2017-09-21" number="2-1265/17" org="Чекмагушевский межрайонный суд - Республика Башкортостан"/>
@@ -6070,14 +6067,18 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:db38</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2632</ipv6>
 </content>
-<content id="723474" includeTime="2018-01-25T18:19:50" entryType="1" hash="9D86832A8E2952AD88B4CB0922AF5D89" ts="2018-01-25T18:19:50">
+<content id="723474" includeTime="2018-01-25T18:19:50" entryType="1" hash="7E371360034337F0D55358E75F820AC0" ts="2024-02-14T12:00:04">
  <decision date="2017-11-27" number="8/7/10-18329" org="МВД"/>
  <url><![CDATA[http://www.chemical-service.com/buy/am-2201]]></url>
  <domain><![CDATA[www.chemical-service.com]]></domain>
  <ip>104.21.85.165</ip>
  <ip>172.67.207.166</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:55a5</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:cfa6</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="723572" includeTime="2017-11-28T19:04:51" entryType="5" hash="46F264DF02233BF0901FE754311D7B12" blockType="domain" ts="2017-11-28T19:04:51">
  <decision date="2017-08-17" number="решение суда по делу № 3-0348/2017" org="Мосгорсуд"/>
@@ -10753,15 +10754,14 @@
  <ip>104.31.194.10</ip>
  <ip>104.31.195.10</ip>
 </content>
-<content id="732608" includeTime="2018-01-16T12:19:21" entryType="1" hash="BD4A800930F4746409184F555982F0D6" ts="2018-01-16T12:19:21">
+<content id="732608" includeTime="2018-01-16T12:19:21" entryType="1" hash="BC5C6DD890934134907B7090F00A68B1" ts="2024-02-14T12:00:04">
  <decision date="2017-11-27" number="8/7/10-18400" org="МВД"/>
  <url><![CDATA[http://www.scbt.com/scbt/product/cp-55-940-83002-04-4]]></url>
  <domain><![CDATA[www.scbt.com]]></domain>
- <ip>104.18.4.133</ip>
- <ip>104.18.5.133</ip>
- <ip>72.32.242.127</ip>
- <ipv6>2606:4700:0000:0000:0000:0000:6812:0485</ipv6>
- <ipv6>2606:4700:0000:0000:0000:0000:6812:0585</ipv6>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="732617" includeTime="2017-12-11T17:49:06" entryType="1" hash="32C0EC9DC367F93BFB25674E8A69FACD" blockType="domain" ts="2017-12-11T17:49:06">
  <decision date="2017-12-04" number="8/7/10-17487" org="МВД"/>
