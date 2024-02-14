@@ -8526,6 +8526,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6714109" includeTime="2024-02-14T10:10:04" entryType="1" hash="40BE6260705B364D86917ED60B76CE3F" blockType="domain-mask" ts="2024-02-14T10:10:04">
+ <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.bet-royal.ru]]></domain>
+ <ip>159.89.18.47</ip>
+</content>
 <content id="6714110" includeTime="2024-02-07T16:05:05" entryType="1" hash="5000A3929AAE881B840C84C6961E611B" ts="2024-02-07T16:05:05">
  <decision date="2024-02-06" number="2393143-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://golubok.org/home/]]></url>
