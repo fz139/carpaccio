@@ -9027,15 +9027,12 @@
  <ip>104.18.44.74</ip>
  <ip>104.18.45.74</ip>
 </content>
-<content id="760216" includeTime="2018-02-14T20:38:45" entryType="1" hash="9A95C11B78B56633B7D680393F3F3998" ts="2018-02-14T20:38:45">
+<content id="760216" includeTime="2018-02-14T20:38:45" entryType="1" hash="24C6A341D8FF4C90659B91F0774003CB" ts="2024-02-14T12:30:05">
  <decision date="2017-12-25" number="8/7/10-20211" org="МВД"/>
  <url><![CDATA[http://www.poputchik.ru/users/matanga]]></url>
  <domain><![CDATA[www.poputchik.ru]]></domain>
- <ip>104.24.2.17</ip>
- <ip>104.24.3.17</ip>
- <ip>104.26.14.241</ip>
- <ip>104.26.15.241</ip>
- <ip>172.67.68.28</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
 </content>
 <content id="760305" includeTime="2019-07-12T11:56:54" entryType="1" hash="F9B566F6BD2444A9567578528E488EC5" ts="2019-07-12T11:56:54">
  <decision date="2017-12-23" number="36055" org="Роспотребнадзор"/>
@@ -17054,26 +17051,24 @@
  <domain><![CDATA[vulkan--klub.net]]></domain>
  <ip>37.1.200.233</ip>
 </content>
-<content id="788820" includeTime="2018-02-06T18:46:28" entryType="1" hash="5ECC3219BBEDCD1F2B750B37763E130E" blockType="domain" ts="2018-02-06T18:46:28">
+<content id="788820" includeTime="2018-02-06T18:46:28" entryType="1" hash="B4B1FB8E705F449FED79B33F179D1AFF" blockType="domain" ts="2024-02-14T12:30:05">
  <decision date="2018-01-25" number="2068" org="МВД"/>
  <domain><![CDATA[www.zambeza.com]]></domain>
- <ip>104.21.59.48</ip>
- <ip>104.22.0.187</ip>
- <ip>104.22.1.187</ip>
- <ip>172.67.11.153</ip>
- <ip>172.67.213.205</ip>
- <ipv6>2606:4700:0010:0000:0000:0000:6816:00bb</ipv6>
- <ipv6>2606:4700:0010:0000:0000:0000:6816:01bb</ipv6>
- <ipv6>2606:4700:0010:0000:0000:0000:ac43:0b99</ipv6>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:3b30</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:d5cd</ipv6>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="788851" includeTime="2018-02-06T18:46:28" entryType="1" hash="3BCEBB315DD34176A87EC1E4CFDC7B88" blockType="domain" ts="2018-02-06T18:46:28">
+<content id="788851" includeTime="2018-02-06T18:46:28" entryType="1" hash="FFB0219DBF159A25C7296F1B5A883AD6" blockType="domain" ts="2024-02-14T12:30:05">
  <decision date="2018-01-25" number="2067" org="МВД"/>
  <domain><![CDATA[www.herbiesheadshop.com]]></domain>
+ <ip>104.21.55.58</ip>
  <ip>104.21.73.237</ip>
+ <ip>172.67.145.72</ip>
  <ip>172.67.193.92</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:9148</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:49ed</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:373a</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c15c</ipv6>
 </content>
 <content id="788862" includeTime="2018-02-12T19:27:44" entryType="1" hash="68CFC1387C9D3CDBD5AC685A22CD00F5" blockType="ip" ts="2023-08-15T15:00:02">
@@ -17207,13 +17202,17 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6812:3524</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8b2d</ipv6>
 </content>
-<content id="789478" includeTime="2018-01-30T12:28:15" entryType="1" hash="C9D007EC87F2B5E49FCCF7E87FE228BA" blockType="domain" ts="2018-01-30T12:28:15">
+<content id="789478" includeTime="2018-01-30T12:28:15" entryType="1" hash="FBF79151A038C7681C5510261246B133" blockType="domain" ts="2024-02-14T12:30:05">
  <decision date="2018-01-26" number="2154" org="МВД"/>
  <domain><![CDATA[legalizer.biz]]></domain>
  <ip>104.21.27.172</ip>
  <ip>172.67.169.151</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:1bac</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:a997</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="789481" includeTime="2018-02-07T21:30:55" entryType="1" hash="271F7EEE8E165C5B0C1F87A29E9BB70F" blockType="domain" ts="2018-02-07T21:30:55">
  <decision date="2018-01-26" number="2165" org="МВД"/>
@@ -17566,13 +17565,17 @@
  <domain><![CDATA[z200.fm]]></domain>
  <ip>198.74.54.240</ip>
 </content>
-<content id="791197" includeTime="2018-04-06T19:23:17" entryType="1" hash="CE1DED5BCDFB38A016F0A102B84B44F3" blockType="domain-mask" ts="2018-04-06T19:23:17">
+<content id="791197" includeTime="2018-04-06T19:23:17" entryType="1" hash="A00FDF47B02DDF2B79834E9776951D81" blockType="domain-mask" ts="2024-02-14T12:30:05">
  <decision date="2018-01-29" number="2280" org="МВД"/>
  <domain><![CDATA[*.porox.biz]]></domain>
  <ip>104.21.92.177</ip>
  <ip>172.67.197.18</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:c512</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5cb1</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="791229" includeTime="2018-06-28T18:32:43" entryType="1" hash="A808C8D71865980C8FB1E709A211CCD6" blockType="domain" ts="2018-06-28T18:32:43">
  <decision date="2017-11-13" number="2-450/2017" org="Апанасенковский районный суд - Ставропольский край"/>
