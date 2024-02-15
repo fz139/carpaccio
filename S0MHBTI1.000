@@ -241,14 +241,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6206302" includeTime="2023-07-14T15:45:25" entryType="1" hash="95517138CFBAD401F7CA928CD8BC619E" blockType="domain" ts="2023-07-21T09:05:02">
- <decision date="2023-07-11" number="2023-07-10-2637" org="МВД"/>
- <domain><![CDATA[kraken-1.com]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6206306" includeTime="2023-07-14T15:45:25" entryType="1" hash="D854D7ADDF5C269EF161B9984D61700F" blockType="domain" ts="2023-07-21T09:05:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[extra-hoht.com]]></domain>
@@ -363,19 +355,6 @@
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[play.free-spinz.pw]]></domain>
  <ip>45.82.68.90</ip>
-</content>
-<content id="6206333" includeTime="2023-07-17T14:50:02" entryType="1" hash="37AFC02D65070E50CB4D01E16761B2AC" ts="2023-09-29T15:30:02">
- <decision date="2023-07-13" number="2161365-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://z2.shikotch.net/galleries/1705837/199.webp]]></url>
- <domain><![CDATA[z2.shikotch.net]]></domain>
- <ip>104.21.32.108</ip>
- <ip>172.67.185.164</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:b9a4</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:206c</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6206334" includeTime="2023-07-13T23:43:19" entryType="1" hash="732D60EF624FC216254CF2150BFC1235" blockType="domain-mask" ts="2023-07-21T09:05:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -543,19 +522,6 @@
  <ip>172.67.208.206</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:d0ce</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:1728</ipv6>
-</content>
-<content id="6206383" includeTime="2023-07-17T14:50:02" entryType="1" hash="131C990D997374AF39C35D0198E06CD6" ts="2023-09-29T15:30:02">
- <decision date="2023-07-13" number="2161309-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://z2.shikotch.net/galleries/1705837/144.webp]]></url>
- <domain><![CDATA[z2.shikotch.net]]></domain>
- <ip>104.21.32.108</ip>
- <ip>172.67.185.164</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:b9a4</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:206c</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6206384" includeTime="2023-07-14T15:45:25" entryType="1" hash="454A1526EBABF4427D3FAE2110367D79" blockType="domain" ts="2023-07-21T09:05:02">
  <decision date="2023-07-13" number="2023-07-03-2759-АЛК" org="Росалкогольрегулирование"/>
@@ -829,19 +795,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6206455" includeTime="2023-07-17T14:50:02" entryType="1" hash="8F86A732E3007D40E5F47420E663E1C3" ts="2023-09-28T13:00:02">
- <decision date="2023-07-13" number="2161358-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://shikotch.net/comic/sh1705837/]]></url>
- <domain><![CDATA[shikotch.net]]></domain>
- <ip>104.21.32.108</ip>
- <ip>172.67.185.164</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:b9a4</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:206c</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6206456" includeTime="2023-07-13T23:43:18" entryType="1" hash="F3589B00F113B09BE59C8682EA3FDF47" blockType="domain" ts="2023-07-21T09:05:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[top.supercat-registration.org.ru]]></domain>
@@ -854,19 +807,6 @@
  <ip>172.67.166.55</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:a637</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:52f8</ipv6>
-</content>
-<content id="6206459" includeTime="2023-07-17T14:50:02" entryType="1" hash="864AAD858FDCA848EA3102A9BC8C3B2C" ts="2023-09-29T15:30:02">
- <decision date="2023-07-13" number="2161366-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://z2.shikotch.net/galleries/1705837/194.webp]]></url>
- <domain><![CDATA[z2.shikotch.net]]></domain>
- <ip>104.21.32.108</ip>
- <ip>172.67.185.164</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:b9a4</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:206c</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6206460" includeTime="2023-07-13T23:43:15" entryType="1" hash="E5AB915054E7AC54DDC61B227648D628" blockType="domain-mask" ts="2023-07-21T09:05:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1386,19 +1326,6 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:8e0e</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:206b</ipv6>
 </content>
-<content id="6206588" includeTime="2023-07-17T14:50:02" entryType="1" hash="46661BACBD69BAAB6BA6485F1A4CC4E7" ts="2023-09-29T15:30:02">
- <decision date="2023-07-13" number="2161367-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://z2.shikotch.net/galleries/1705837/18.webp]]></url>
- <domain><![CDATA[z2.shikotch.net]]></domain>
- <ip>104.21.32.108</ip>
- <ip>172.67.185.164</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:b9a4</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:206c</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6206589" includeTime="2023-07-13T23:43:14" entryType="1" hash="EA4467F0656BF2A122B589FEB3608910" blockType="domain-mask" ts="2023-07-21T09:05:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.ratingkazino2023.ru]]></domain>
@@ -1645,19 +1572,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6206642" includeTime="2023-07-17T14:50:02" entryType="1" hash="74B8ADF53269E9A27858897EDC5B8486" ts="2023-09-29T15:30:02">
- <decision date="2023-07-13" number="2161311-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://z2.shikotch.net/galleries/1705837/129.webp]]></url>
- <domain><![CDATA[z2.shikotch.net]]></domain>
- <ip>104.21.32.108</ip>
- <ip>172.67.185.164</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:b9a4</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:206c</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6206645" includeTime="2023-07-13T23:43:17" entryType="1" hash="17255F7366D1E7E747ACB0025F00C8E1" blockType="domain-mask" ts="2023-07-21T09:05:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.booi-casino4.ru]]></domain>
@@ -1876,19 +1790,6 @@
  <domain><![CDATA[httpmega.com]]></domain>
  <ip>45.147.197.40</ip>
 </content>
-<content id="6206717" includeTime="2023-07-17T14:50:02" entryType="1" hash="AEA50A098A28352F516DFCC0EFB12E1C" ts="2023-09-29T15:30:02">
- <decision date="2023-07-13" number="2161368-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://z2.shikotch.net/galleries/1705837/27.webp]]></url>
- <domain><![CDATA[z2.shikotch.net]]></domain>
- <ip>104.21.32.108</ip>
- <ip>172.67.185.164</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:b9a4</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:206c</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6206718" includeTime="2023-07-13T23:43:14" entryType="1" hash="9B07D9BF00BB80EE5171E4C343BCD8EB" blockType="domain-mask" ts="2023-07-21T09:05:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.reallyspins.com]]></domain>
@@ -2085,19 +1986,6 @@
  <domain><![CDATA[*.semena-growerzz.cc]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6206765" includeTime="2023-07-17T14:50:02" entryType="1" hash="F8DCF47456EA31B26B70FB0429A0A6B1" ts="2023-09-29T15:30:02">
- <decision date="2023-07-13" number="2161304-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://z2.shikotch.net/galleries/1705837/170.webp]]></url>
- <domain><![CDATA[z2.shikotch.net]]></domain>
- <ip>104.21.32.108</ip>
- <ip>172.67.185.164</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:b9a4</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:206c</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -2559,19 +2447,6 @@
  <domain><![CDATA[*.24-vulkan.org]]></domain>
  <ip>203.30.191.110</ip>
  <ipv6>2a06:9ac0:039b:bb28:0a92:3249:8327:ccba</ipv6>
-</content>
-<content id="6206900" includeTime="2023-07-17T14:50:02" entryType="1" hash="668DC528633471F759FFEE293A268AFA" ts="2023-09-29T15:30:02">
- <decision date="2023-07-13" number="2161313-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://z2.shikotch.net/galleries/1705837/84.webp]]></url>
- <domain><![CDATA[z2.shikotch.net]]></domain>
- <ip>104.21.32.108</ip>
- <ip>172.67.185.164</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:b9a4</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:206c</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6206901" includeTime="2023-07-14T15:45:25" entryType="1" hash="EA41F0EA648DBD0511A84758B947B27D" blockType="domain" ts="2023-07-21T09:05:02">
  <decision date="2023-07-13" number="2023-07-03-2577-АЛК" org="Росалкогольрегулирование"/>
@@ -3473,32 +3348,6 @@
  <domain><![CDATA[www.pcytherapy.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6207153" includeTime="2023-07-17T14:50:02" entryType="1" hash="C185DB35FB3A38D907D586C7545E5A6D" ts="2023-09-29T15:30:02">
- <decision date="2023-07-13" number="2161307-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://z2.shikotch.net/galleries/1705837/168.webp]]></url>
- <domain><![CDATA[z2.shikotch.net]]></domain>
- <ip>104.21.32.108</ip>
- <ip>172.67.185.164</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:b9a4</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:206c</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6207155" includeTime="2023-07-17T14:50:02" entryType="1" hash="C3F2649551E5CEDF7D340B87FFCB1067" ts="2023-09-29T15:30:02">
- <decision date="2023-07-13" number="2161315-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://z2.shikotch.net/galleries/1705837/77.webp]]></url>
- <domain><![CDATA[z2.shikotch.net]]></domain>
- <ip>104.21.32.108</ip>
- <ip>172.67.185.164</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:b9a4</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:206c</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
