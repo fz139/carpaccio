@@ -186,6 +186,22 @@
  <domain><![CDATA[*.selektoskasin.site]]></domain>
  <ip>92.119.113.216</ip>
 </content>
+<content id="6744653" includeTime="2024-02-16T14:10:03" entryType="1" hash="EC7BA539E45C83DB3B7BCB75E4DDA042" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407839-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.zetflix-online.co]]></domain>
+ <ip>104.21.35.185</ip>
+ <ip>172.67.178.150</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:23b9</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:b296</ipv6>
+</content>
+<content id="6744656" includeTime="2024-02-16T14:10:03" entryType="1" hash="368BD8FD98FD161C212FF97222AC51EC" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407846-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.xserials.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6744659" includeTime="2024-02-15T23:50:03" entryType="1" hash="754A4FEDB8CA8E4A626DFC065CB9FE0C" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1xbetr9.top]]></domain>
@@ -307,6 +323,11 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:44bb</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:c5d4</ipv6>
 </content>
+<content id="6744694" includeTime="2024-02-16T14:10:03" entryType="1" hash="DB31897AD4DDD233B0F54CA55B0D24F1" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407480-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lostfilmtv.studio]]></domain>
+ <ip>38.180.99.116</ip>
+</content>
 <content id="6744698" includeTime="2024-02-15T23:50:03" entryType="1" hash="E413EE78EF229BBD02B3774BF9BECEC3" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.freshrussia5.top]]></domain>
@@ -330,10 +351,28 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:bbc1</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:443b</ipv6>
 </content>
+<content id="6744703" includeTime="2024-02-16T14:10:03" entryType="1" hash="806D640DED9E832DBB5CA579542E1260" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2408213-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://golubok1.name/home/]]></url>
+ <domain><![CDATA[golubok1.name]]></domain>
+ <ip>51.83.169.179</ip>
+</content>
+<content id="6744704" includeTime="2024-02-16T14:10:03" entryType="1" hash="DB3A60140E498CAEFE52CEB76C554D25" ts="2024-02-16T14:10:03">
+ <decision date="2023-12-15" number="2а-1359/2023" org="Дятьковский городской суд - Брянская область"/>
+ <url><![CDATA[https://streetputanikiss.store/city/prostitutki-dyatkovo/]]></url>
+ <domain><![CDATA[streetputanikiss.store]]></domain>
+ <ip>109.123.255.18</ip>
+</content>
 <content id="6744706" includeTime="2024-02-15T23:50:03" entryType="1" hash="28172D2EAC82A5103E2569A7C34ED804" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdomusk.fun]]></domain>
  <ip>91.215.43.12</ip>
+</content>
+<content id="6744708" includeTime="2024-02-16T14:10:03" entryType="1" hash="1F4541E85EC478817FBF785246B101B6" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-14" number="2а-35/2024" org="Сорский районный суд - Республика Хакасия"/>
+ <url><![CDATA[https://a_krasnokamsk.sex-pay.net/]]></url>
+ <domain><![CDATA[a_krasnokamsk.sex-pay.net]]></domain>
+ <ip>104.21.82.186</ip>
 </content>
 <content id="6744710" includeTime="2024-02-15T23:50:03" entryType="1" hash="F456A13A38D60D3F3F9E902008FA8925" blockType="domain" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -434,6 +473,12 @@
  <domain><![CDATA[*.pin-up-casino-seq1.top]]></domain>
  <ip>162.19.253.38</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:0ffe</ipv6>
+</content>
+<content id="6744732" includeTime="2024-02-16T14:10:03" entryType="1" hash="92A09CDFD956DC2DCB470D9C757F648E" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-14" number="2а-37/2024" org="Сорский районный суд - Республика Хакасия"/>
+ <url><![CDATA[https://a_torzhok.sex-pay.net/]]></url>
+ <domain><![CDATA[a_torzhok.sex-pay.net]]></domain>
+ <ip>104.21.82.186</ip>
 </content>
 <content id="6744735" includeTime="2024-02-15T23:50:03" entryType="1" hash="885F693EF30CF1CBEAE4C1819BC37EBB" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -578,6 +623,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6744770" includeTime="2024-02-16T14:10:03" entryType="1" hash="5BB77F44A42A312D2A3AAF79D0B2478C" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407847-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.onlinekino-filmse.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6744777" includeTime="2024-02-15T23:50:03" entryType="1" hash="9F853C031E7746C4A252F266B20933FF" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.gamacasino2774.xyz]]></domain>
@@ -711,6 +764,11 @@
  <domain><![CDATA[play.columbus-casinonew.top]]></domain>
  <ip>185.238.168.208</ip>
 </content>
+<content id="6744818" includeTime="2024-02-16T14:10:03" entryType="1" hash="15DD3FFAF5CA7511D1A9B1897AF0FA8D" blockType="domain" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2408214-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[ekaterinburg2.transi-mos.com]]></domain>
+ <ip>37.1.205.41</ip>
+</content>
 <content id="6744821" includeTime="2024-02-15T23:50:03" entryType="1" hash="CFDB27838A159E209A9470EECBC9AD7E" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdom-9hb6.shop]]></domain>
@@ -718,6 +776,21 @@
  <ip>172.67.200.252</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5cf6</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c8fc</ipv6>
+</content>
+<content id="6744822" includeTime="2024-02-16T14:10:03" entryType="1" hash="56DA94B84A5E6B03C941590A7BD1E5E3" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2408222-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://wv.mix-porn.xyz/tags/gei-jestko/most-popular/]]></url>
+ <domain><![CDATA[wv.mix-porn.xyz]]></domain>
+ <ip>135.125.28.44</ip>
+</content>
+<content id="6744823" includeTime="2024-02-16T14:10:03" entryType="1" hash="0B68AA0DC2864F7E5C763F2D36C1EDA7" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-14" number="2а-38/2024" org="Минусинский городской суд - Красноярский край"/>
+ <url><![CDATA[https://aksay3.seks-rach.com/]]></url>
+ <domain><![CDATA[aksay3.seks-rach.com]]></domain>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="6744825" includeTime="2024-02-15T23:50:03" entryType="1" hash="40AD20C19B1D343202E94A2E2A6C70BF" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -781,6 +854,11 @@
  <domain><![CDATA[*.pin-up-casino-stb5.top]]></domain>
  <ip>162.19.253.38</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:0ffe</ipv6>
+</content>
+<content id="6744838" includeTime="2024-02-16T14:10:03" entryType="1" hash="75296A443C745EFAA5DF1FF1CE7774B2" blockType="domain" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2а-45/2024" org="Кантемировский районный суд - Воронежская область"/>
+ <domain><![CDATA[sex.prostitutkivoronezhahot.net]]></domain>
+ <ip>5.61.53.122</ip>
 </content>
 <content id="6744841" includeTime="2024-02-15T23:50:03" entryType="1" hash="6FB4CBBEC19804F73ACA654879664B0F" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -935,6 +1013,32 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6744877" includeTime="2024-02-16T14:10:03" entryType="1" hash="C5359C91A6BF149D998593C549E0CBA8" blockType="domain" ts="2024-02-16T14:10:03">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[el-met.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6744881" includeTime="2024-02-16T14:10:03" entryType="1" hash="94D698F1037B07847B340DC9E3F8F7A9" blockType="domain" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-09" number="2а-108/2024 ~ М-56/2024" org="Карымский районный суд - Забайкальский край"/>
+ <domain><![CDATA[prostitutkibelgoroda24.review]]></domain>
+ <ip>5.61.54.126</ip>
+</content>
+<content id="6744882" includeTime="2024-02-16T14:10:03" entryType="1" hash="01E603F6BA5B7948683E63681C078176" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407892-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.filmlicious.net]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6744883" includeTime="2024-02-16T14:10:03" entryType="1" hash="07732EDAED658E4DFC46AFD45A5F7B75" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407848-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.fanfilms.fun]]></domain>
+ <ip>104.28.6.67</ip>
+</content>
 <content id="6744886" includeTime="2024-02-15T23:50:03" entryType="1" hash="0050B83197E3F001204D864EACD0B99D" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1xbet-rus.top]]></domain>
@@ -1009,6 +1113,14 @@
  <domain><![CDATA[*.vulkanavtomatmaid.ru]]></domain>
  <ip>185.196.8.72</ip>
 </content>
+<content id="6744911" includeTime="2024-02-16T14:10:03" entryType="1" hash="78E279E3B318DD2E64A3BD7240A16737" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407458-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.10lordfilm.online]]></domain>
+ <ip>104.21.61.70</ip>
+ <ip>172.67.207.53</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3d46</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:cf35</ipv6>
+</content>
 <content id="6744913" includeTime="2024-02-15T23:50:03" entryType="1" hash="F7A4384B1D7B67EE6EE5D0FF264C9614" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdom-25.shop]]></domain>
@@ -1038,6 +1150,15 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6744923" includeTime="2024-02-16T14:10:03" entryType="1" hash="6151A620912CB5FFDD7E6048E54063F5" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2408199-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://sochifeya3.top/photo/7/c/4/2/origin_91f3eg1.jpeg?1]]></url>
+ <domain><![CDATA[sochifeya3.top]]></domain>
+ <ip>104.21.9.248</ip>
+ <ip>172.67.189.214</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:bdd6</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:09f8</ipv6>
+</content>
 <content id="6744926" includeTime="2024-02-15T23:50:03" entryType="1" hash="5A2DA082F08129E6429E6A063F22EA74" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.game-go1g.ru]]></domain>
@@ -1064,6 +1185,12 @@
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.zerkaloriobtcas1n0.xyz]]></domain>
  <ip>176.97.74.26</ip>
+</content>
+<content id="6744936" includeTime="2024-02-16T14:10:03" entryType="1" hash="26A1161D2499BBBFFAF11D55DE9571FD" ts="2024-02-16T14:10:03">
+ <decision date="2024-01-31" number="2а-263/2024" org="Красноперекопский районный суд г. Ярославля - Ярославская область"/>
+ <url><![CDATA[https://sex3.prostitutkiyaroslavlyainfo.info/deshevye/]]></url>
+ <domain><![CDATA[sex3.prostitutkiyaroslavlyainfo.info]]></domain>
+ <ip>5.61.54.128</ip>
 </content>
 <content id="6744938" includeTime="2024-02-15T23:50:03" entryType="1" hash="43F9A05C69342B7D60912671958250D3" blockType="domain" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1301,6 +1428,11 @@
  <ip>104.21.54.86</ip>
  <ip>172.67.137.77</ip>
 </content>
+<content id="6744996" includeTime="2024-02-16T14:10:03" entryType="1" hash="8B5D127509EFA6F27D8B43038A335D69" blockType="domain" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-09" number="2а-108/2024 ~ М-56/2024" org="Карымский районный суд - Забайкальский край"/>
+ <domain><![CDATA[sex1.prostitutkibelgoroda24.review]]></domain>
+ <ip>5.61.54.126</ip>
+</content>
 <content id="6744997" includeTime="2024-02-15T23:50:03" entryType="1" hash="3F2BC5B2D5B3B3294738349AB08CC47D" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1xbet-dnd.top]]></domain>
@@ -1309,11 +1441,27 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6744998" includeTime="2024-02-16T14:10:03" entryType="1" hash="510D3898A06AEDE34AF4022DB5254DD4" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407849-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.fanzerkalo.online]]></domain>
+ <ip>104.21.14.126</ip>
+ <ip>172.67.203.91</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:0e7e</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:cb5b</ipv6>
+</content>
 <content id="6745001" includeTime="2024-02-15T23:50:03" entryType="1" hash="1AF0E3219AB10D71EAC785B30149A97A" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1xbet-sdu.top]]></domain>
  <ip>51.38.113.177</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:6a9b</ipv6>
+</content>
+<content id="6745002" includeTime="2024-02-16T14:10:03" entryType="1" hash="C7E512C8F0250DF62B719D025CECD9AD" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407855-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.hdvolt.cc]]></domain>
+ <ip>104.21.50.17</ip>
+ <ip>172.67.199.61</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:3211</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:c73d</ipv6>
 </content>
 <content id="6745005" includeTime="2024-02-15T23:50:03" entryType="1" hash="204B4927F0A53EE0C2EB54797E372A38" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1414,6 +1562,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6745030" includeTime="2024-02-16T14:10:03" entryType="1" hash="BDE5CEE3582E6851EA181AEC348B4532" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407467-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.idealfilms.ru]]></domain>
+ <ip>45.15.157.197</ip>
+</content>
 <content id="6745032" includeTime="2024-02-15T23:50:03" entryType="1" hash="DE4892738AEA4F7755A02D863B9EBC64" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.zerkalo-leonbetss27.xyz]]></domain>
@@ -1432,6 +1585,15 @@
  <domain><![CDATA[*.friends-casino.cash]]></domain>
  <ip>76.76.21.21</ip>
 </content>
+<content id="6745039" includeTime="2024-02-16T14:10:03" entryType="1" hash="6F4E0FAFB0DC15D63F1AB361E0281AB7" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2408200-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://sochifeya3.top/photo/b/a/7/0/origin_g3g9dge.jpeg?1]]></url>
+ <domain><![CDATA[sochifeya3.top]]></domain>
+ <ip>104.21.9.248</ip>
+ <ip>172.67.189.214</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:bdd6</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:09f8</ipv6>
+</content>
 <content id="6745042" includeTime="2024-02-15T23:50:03" entryType="1" hash="AD3B1FB86C7CF4F5FA7BD6E486B4839F" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.zerkalo-leonbets-875x.top]]></domain>
@@ -1439,6 +1601,12 @@
  <ip>172.67.149.111</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:956f</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1d9d</ipv6>
+</content>
+<content id="6745044" includeTime="2024-02-16T14:10:03" entryType="1" hash="4B5AE99F6304FE0DED9693DC66BCDFC1" ts="2024-02-16T14:10:03">
+ <decision date="2023-12-15" number="2а-1360/2023" org="Дятьковский городской суд - Брянская область"/>
+ <url><![CDATA[https://intimhelpix.store/sexy/city-dyatkovo/]]></url>
+ <domain><![CDATA[intimhelpix.store]]></domain>
+ <ip>45.85.146.122</ip>
 </content>
 <content id="6745046" includeTime="2024-02-15T23:50:03" entryType="1" hash="DFB76493AC4975485726BEF955EA353E" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1455,6 +1623,15 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6745052" includeTime="2024-02-16T14:10:03" entryType="1" hash="76F1272C576D6D6116D70D52EB88C53F" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-14" number="2а-34/2024" org="Сорский районный суд - Республика Хакасия"/>
+ <url><![CDATA[https://ghigulevsk1.seks-rach.com/]]></url>
+ <domain><![CDATA[ghigulevsk1.seks-rach.com]]></domain>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="6745054" includeTime="2024-02-15T23:50:03" entryType="1" hash="9436F8C92DA94B1640B9176B9D33D726" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1513,6 +1690,15 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6745062" includeTime="2024-02-16T14:10:03" entryType="1" hash="5018FBE63E495AB6D971EBBB4FC31750" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2408233-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://toy.pitergay.site/ads/transseksualki]]></url>
+ <domain><![CDATA[toy.pitergay.site]]></domain>
+ <ip>104.21.92.199</ip>
+ <ip>172.67.197.108</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5cc7</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:c56c</ipv6>
 </content>
 <content id="6745066" includeTime="2024-02-15T23:50:03" entryType="1" hash="A3EBCE98DD390DFB32BEDF4531309828" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1684,6 +1870,22 @@
  <ip>51.38.113.177</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:6a9b</ipv6>
 </content>
+<content id="6745113" includeTime="2024-02-16T14:10:03" entryType="1" hash="3CD90060D76898ADA074FE0D829AE788" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407850-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lorddkino.site]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6745116" includeTime="2024-02-16T14:10:03" entryType="1" hash="97A8CE462F3DE454C5DC865AAD3E8887" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407902-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.hollymoviehd.cc]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6745117" includeTime="2024-02-15T23:50:03" entryType="1" hash="7A2453B6B43D51B21FE9596466625A7B" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.gamacasino6518.xyz]]></domain>
@@ -1769,6 +1971,14 @@
  <domain><![CDATA[*.vulkandeluxe-casino.ru]]></domain>
  <ip>185.196.8.72</ip>
 </content>
+<content id="6745140" includeTime="2024-02-16T14:10:03" entryType="1" hash="CAD9A831F4DBBB8C5609511113DD9DA2" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407460-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lordserial-buzz.bio]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6745142" includeTime="2024-02-15T23:50:03" entryType="1" hash="F34F01372F945D8A82E85CFE73800FE8" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.admiralx-oui.ru]]></domain>
@@ -1794,6 +2004,29 @@
  <ip>172.67.161.249</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:0f54</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a1f9</ipv6>
+</content>
+<content id="6745153" includeTime="2024-02-16T14:10:03" entryType="1" hash="99E963F1DFAFA9D07C84C42CFADB4754" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2408201-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://sochifeya1.live/photo/7/c/4/2/origin_91f3eg1.jpeg]]></url>
+ <domain><![CDATA[sochifeya1.live]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6745155" includeTime="2024-02-16T14:10:03" entryType="1" hash="25EF05784E09ACD32CCF6658D81E66B1" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407492-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lordserials.tube]]></domain>
+ <ip>188.114.97.3</ip>
+</content>
+<content id="6745156" includeTime="2024-02-16T14:10:03" entryType="1" hash="5B207558FC425E8BE399B6CFFECE678E" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2408209-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://feyarostov1.top/photo/e/7/f/c/origin_ec69121.jpg]]></url>
+ <domain><![CDATA[feyarostov1.top]]></domain>
+ <ip>104.21.65.14</ip>
+ <ip>172.67.157.64</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:410e</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:9d40</ipv6>
 </content>
 <content id="6745159" includeTime="2024-02-15T23:50:03" entryType="1" hash="E92B413C07FFCAFB293E7BDD8EC93823" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1868,6 +2101,15 @@
  <ip>172.67.192.210</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:2471</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c0d2</ipv6>
+</content>
+<content id="6745176" includeTime="2024-02-16T14:10:03" entryType="1" hash="D2B16DCFC12D6813FA34238AB7DBBF91" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2408234-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://toy.gaypiter.xyz/transy]]></url>
+ <domain><![CDATA[toy.gaypiter.xyz]]></domain>
+ <ip>104.21.65.73</ip>
+ <ip>172.67.189.39</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:4149</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:bd27</ipv6>
 </content>
 <content id="6745180" includeTime="2024-02-15T23:50:03" entryType="1" hash="A2F2C1762AA1127D5B8AB1C69D7C05D4" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2040,6 +2282,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6745226" includeTime="2024-02-16T14:10:03" entryType="1" hash="D5487FEC77EF7CDB020408AF91012116" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407851-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lordfilmik.fun]]></domain>
+ <ip>104.21.45.190</ip>
+ <ip>172.67.218.70</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2dbe</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:da46</ipv6>
+</content>
 <content id="6745230" includeTime="2024-02-15T23:50:03" entryType="1" hash="3B97481E816046284014CBE547C856E5" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.gamacasino9301.xyz]]></domain>
@@ -2055,6 +2305,14 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6745234" includeTime="2024-02-16T14:10:03" entryType="1" hash="7394525D29866354BEA8024717023527" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407865-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.hdvolt.one]]></domain>
+ <ip>104.21.35.250</ip>
+ <ip>172.67.181.196</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:b5c4</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:23fa</ipv6>
 </content>
 <content id="6745236" includeTime="2024-02-15T23:50:03" entryType="1" hash="7AA4AB7F6AA8EF00905A3BD8AEA60B10" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2112,6 +2370,11 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:1e34</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:9699</ipv6>
 </content>
+<content id="6745248" includeTime="2024-02-16T14:10:03" entryType="1" hash="4B4FC12D0CFB0FDDF87A973C3B80F449" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407930-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.kinonadzor.pro]]></domain>
+ <ip>195.123.219.8</ip>
+</content>
 <content id="6745250" includeTime="2024-02-15T23:50:03" entryType="1" hash="20C6C83D98608DE504E994F8727F0FF4" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdom-3lkf.fun]]></domain>
@@ -2133,6 +2396,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6745260" includeTime="2024-02-16T14:10:03" entryType="1" hash="AC5F506AB54C80DDD53996F3B9C1992D" blockType="domain" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2408186-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[u214.urafilms.vip]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6745261" includeTime="2024-02-15T23:50:03" entryType="1" hash="A91F8836A6D10EF546375E90C26FADAB" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vulcan-official.online]]></domain>
@@ -2142,6 +2413,20 @@
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdomsks.fun]]></domain>
  <ip>91.215.43.12</ip>
+</content>
+<content id="6745267" includeTime="2024-02-16T14:10:03" entryType="1" hash="957BF9BDA4467D19EE674C0BAC2ABD78" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407485-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lost-filme.website]]></domain>
+ <ip>172.67.167.162</ip>
+</content>
+<content id="6745268" includeTime="2024-02-16T14:10:03" entryType="1" hash="321908D4D8D2A297CB9D4CDC7C872B1E" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2408202-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://sochifeya1.live/photo/b/a/7/0/origin_g3g9dge.jpeg]]></url>
+ <domain><![CDATA[sochifeya1.live]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6745270" includeTime="2024-02-15T23:50:03" entryType="1" hash="A78A849B29DD5C1F14348416414DA5C6" blockType="domain" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2219,6 +2504,15 @@
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.ace-pinup2714.ru]]></domain>
  <ip>185.196.8.72</ip>
+</content>
+<content id="6745290" includeTime="2024-02-16T14:10:03" entryType="1" hash="1ACD71610AF3365A245E95DF05038B97" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2408235-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://toy.gejmoskva.tech/ads/transy]]></url>
+ <domain><![CDATA[toy.gejmoskva.tech]]></domain>
+ <ip>104.21.33.35</ip>
+ <ip>172.67.158.129</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2123</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:9e81</ipv6>
 </content>
 <content id="6745294" includeTime="2024-02-15T23:50:03" entryType="1" hash="85ACAE45BDDA0AD81497172D98104CFD" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2400,6 +2694,14 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:3e76</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:df82</ipv6>
 </content>
+<content id="6745336" includeTime="2024-02-16T14:10:03" entryType="1" hash="B52D82F8D691F0FE57A7D14414F62EA1" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407844-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.movie-top.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6745339" includeTime="2024-02-15T23:50:03" entryType="1" hash="4D31E5EE739B4F0CB4D04AED6ED95999" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1xxbet.xyz]]></domain>
@@ -2553,6 +2855,12 @@
  <domain><![CDATA[*.pokerdom-cmi4.top]]></domain>
  <ip>135.125.161.39</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:7047</ipv6>
+</content>
+<content id="6745388" includeTime="2024-02-16T14:10:03" entryType="1" hash="0712271393251B11EC1DCCCC41403889" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2408219-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://sex.pornoakt.tube/gei/]]></url>
+ <domain><![CDATA[sex.pornoakt.tube]]></domain>
+ <ip>91.194.110.9</ip>
 </content>
 <content id="6745391" includeTime="2024-02-15T23:50:03" entryType="1" hash="0EF2B8C69E75C32E5CB20F39A88EB63B" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2783,6 +3091,14 @@
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.joycas-win.ru]]></domain>
  <ip>45.81.224.238</ip>
+</content>
+<content id="6745448" includeTime="2024-02-16T14:10:03" entryType="1" hash="B696365DC0E71E4A8B133D3716FAAEFD" blockType="domain-mask" ts="2024-02-16T14:10:03">
+ <decision date="2024-02-15" number="2407845-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.domkino-online.ru]]></domain>
+ <ip>104.21.35.25</ip>
+ <ip>172.67.212.70</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:d446</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:2319</ipv6>
 </content>
 <content id="6745454" includeTime="2024-02-15T23:50:03" entryType="1" hash="4AF333D9291F56C2B61EA6D7203E882E" blockType="domain-mask" ts="2024-02-15T23:50:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

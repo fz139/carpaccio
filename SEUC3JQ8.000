@@ -2545,9 +2545,9 @@
  <ipv6>2606:4700:0030:0000:0000:0000:681b:8655</ipv6>
  <ipv6>2606:4700:0030:0000:0000:0000:681b:8755</ipv6>
 </content>
-<content id="1619903" includeTime="2019-07-10T19:50:13" entryType="1" hash="C0CA25B03FAB5D6D784242AF4AAEC75C" blockType="domain" ts="2019-07-10T19:50:13">
+<content id="1619903" includeTime="2019-07-10T19:50:13" entryType="1" hash="1FB0D838D412126090596B7498D4B065" blockType="domain-mask" ts="2024-02-16T14:10:03">
  <decision date="2019-02-19" number="2-6-20/2019-02-12-1471-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[lamafilm.club]]></domain>
+ <domain><![CDATA[*.lamafilm.club]]></domain>
  <ip>172.64.202.22</ip>
  <ip>172.64.203.22</ip>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:ca16</ipv6>
