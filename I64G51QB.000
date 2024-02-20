@@ -8709,12 +8709,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6696639" includeTime="2024-02-02T22:50:03" entryType="1" hash="DBE19786C5DEF4AB124E8D8EA50A836A" ts="2024-02-02T22:50:03">
- <decision date="2024-01-31" number="2385517-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://hot-matures.net/lesbians]]></url>
- <domain><![CDATA[hot-matures.net]]></domain>
- <ip>31.210.171.118</ip>
-</content>
 <content id="6696642" includeTime="2024-02-02T13:45:02" entryType="1" hash="790C33F6A1CDEE963725E6F02D978242" blockType="domain" ts="2024-02-02T13:45:02">
  <decision date="2024-01-30" number="2024-01-30-4074-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[abakan.sofosbuvirrussia.com]]></domain>
@@ -9982,6 +9976,14 @@
  <ip>172.67.189.76</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:516f</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:bd4c</ipv6>
+</content>
+<content id="6696957" includeTime="2024-02-20T13:55:04" entryType="1" hash="BFB73D6D94BF86C0D443B80AD85A1EA7" blockType="domain-mask" ts="2024-02-20T13:55:04">
+ <decision date="2024-01-31" number="2385735-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.kino-ok.link]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6696961" includeTime="2024-02-01T13:40:04" entryType="1" hash="6ACFCE3308CCB227643A0E9F4DF11312" ts="2024-02-01T13:40:04">
  <decision date="2024-01-31" number="2385743-URL-on" org="Роскомнадзор"/>
