@@ -582,14 +582,14 @@
  <ip>203.24.102.80</ip>
  <ipv6>2a07:0180:00d0:1ff8:31db:a7ff:3c22:bdbf</ipv6>
 </content>
-<content id="3444676" includeTime="2021-07-21T13:55:04" entryType="1" hash="1FD3BECF2E002175E0DADA263170765B" ts="2021-07-21T13:55:04">
+<content id="3444676" includeTime="2021-07-21T13:55:04" entryType="1" hash="5E4EA2337218987EBF2B4264BC221AE1" ts="2024-02-21T16:40:04">
  <decision date="2021-07-14" number="130953" org="Роспотребнадзор"/>
  <url><![CDATA[https://www.tumgir.com/psihonayt-blog]]></url>
  <domain><![CDATA[www.tumgir.com]]></domain>
- <ip>188.114.98.160</ip>
- <ip>188.114.99.160</ip>
- <ipv6>2a06:98c1:3122:a000:0000:0000:0000:0000</ipv6>
- <ipv6>2a06:98c1:3123:a000:0000:0000:0000:0000</ipv6>
+ <ip>104.21.29.82</ip>
+ <ip>172.67.171.110</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:1d52</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:ab6e</ipv6>
 </content>
 <content id="3444701" includeTime="2021-07-14T21:24:32" entryType="1" hash="85A849328BD53D16799665340ABE6824" blockType="domain-mask" ts="2021-07-14T21:24:32">
  <decision date="2017-03-02" number="2-6-20/ 2017-02-27-30-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -793,18 +793,14 @@
  <domain><![CDATA[pixta.jp]]></domain>
  <ip>54.248.206.165</ip>
 </content>
-<content id="3445107" includeTime="2021-07-16T19:38:52" entryType="1" hash="01E07D93FC53F69E6E5C2B71FB8B8868" ts="2021-07-16T19:38:52">
+<content id="3445107" includeTime="2021-07-16T19:38:52" entryType="1" hash="CDFF5B1E15888A2D80E09C5AC662B506" ts="2024-02-21T16:40:04">
  <decision date="2021-07-14" number="130924" org="Роспотребнадзор"/>
  <url><![CDATA[https://poematrix.com/sites/default/files/styles/img-poema/public/imgs-poemas/poeta-12015/poema-83160-muerte.jpg?itok=31MjgUVD]]></url>
  <domain><![CDATA[poematrix.com]]></domain>
- <ip>104.21.8.80</ip>
- <ip>172.67.130.96</ip>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:0850</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:8260</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3445110" includeTime="2021-07-16T10:05:53" entryType="1" hash="0A57DB9A8B07397311D0F8785C6292B9" blockType="domain" ts="2021-07-16T10:05:53">
  <decision date="2021-05-27" number="2а-1089/21" org="Куйбышевский районный суд г. Самары - Самарская область"/>
@@ -1770,14 +1766,18 @@
  <domain><![CDATA[dasg7xwmldix6.cloudfront.net]]></domain>
  <ip>52.85.114.120</ip>
 </content>
-<content id="3448234" includeTime="2021-07-19T19:28:20" entryType="1" hash="11AD08332EDD2D253AA791C116F6D9D8" ts="2021-07-19T19:28:20">
+<content id="3448234" includeTime="2021-07-19T19:28:20" entryType="1" hash="608848FAAF57251748E110692343D5FC" ts="2024-02-21T16:40:04">
  <decision date="2021-07-14" number="130797" org="Роспотребнадзор"/>
  <url><![CDATA[https://www.rina-roleplay.com/forum/customavatars/avatar_505_1522448679.png]]></url>
  <domain><![CDATA[www.rina-roleplay.com]]></domain>
  <ip>104.21.3.27</ip>
  <ip>172.67.130.20</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:031b</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:8214</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3448245" includeTime="2021-07-19T19:28:18" entryType="1" hash="FAE80830F047FD5ACD47FF26CC0EB6A1" blockType="domain" ts="2021-07-19T19:28:18">
  <decision date="2021-06-15" number="2a-345/2021" org="Хангаласский районный суд - Республика Саха (Якутия)"/>
@@ -1924,12 +1924,12 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea44</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea45</ipv6>
 </content>
-<content id="3448458" includeTime="2021-07-21T13:55:10" entryType="1" hash="1AA0B002331245FFC750AABDE6D3B701" ts="2021-07-21T13:55:10">
+<content id="3448458" includeTime="2021-07-21T13:55:10" entryType="1" hash="5BAC3B0A4C04A7D2B8242ED64FC34686" ts="2024-02-21T16:40:04">
  <decision date="2021-07-14" number="130821" org="Роспотребнадзор"/>
  <url><![CDATA[https://www.dogdrip.net/140712518]]></url>
  <domain><![CDATA[www.dogdrip.net]]></domain>
- <ip>104.16.214.8</ip>
- <ip>104.16.42.77</ip>
+ <ip>104.18.112.39</ip>
+ <ip>104.18.113.39</ip>
 </content>
 <content id="3448460" includeTime="2021-07-18T08:02:59" entryType="1" hash="B92C117C26A2B814CC203186EAADD6F5" ts="2023-09-27T13:00:02">
  <decision date="2021-07-14" number="130835" org="Роспотребнадзор"/>
@@ -2001,11 +2001,14 @@
  <domain><![CDATA[porncomix69.com]]></domain>
  <ip>5.11.82.229</ip>
 </content>
-<content id="3448574" includeTime="2021-07-19T14:13:14" entryType="1" hash="8C2F7FC686D17A5D4194C1C103C8D5B3" ts="2021-07-19T14:13:14">
+<content id="3448574" includeTime="2021-07-19T14:13:14" entryType="1" hash="C15EE4D366054B06E500DF1C83DB7003" ts="2024-02-21T16:40:04">
  <decision date="2021-07-14" number="130822" org="Роспотребнадзор"/>
  <url><![CDATA[https://cdn3.cdnme.se/cdn/6-1/805490/images/2009/rakblad_48152018.jpg]]></url>
  <domain><![CDATA[cdn3.cdnme.se]]></domain>
- <ip>82.96.60.43</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3448576" includeTime="2021-07-19T19:28:19" entryType="1" hash="72A24BF896B3300AB8A27862603791E8" ts="2021-07-19T19:28:19">
  <decision date="2021-07-14" number="130836" org="Роспотребнадзор"/>
@@ -2882,11 +2885,14 @@
  <ip>185.26.156.68</ip>
  <ipv6>2a00:d0c0:0200:0000:00b9:001a:009c:0043</ipv6>
 </content>
-<content id="3451487" includeTime="2021-07-19T14:13:07" entryType="1" hash="18EFB7921CC141DFB530E0B83567E5FA" ts="2021-07-19T14:13:07">
+<content id="3451487" includeTime="2021-07-19T14:13:07" entryType="1" hash="60A607AEBBCC078FF83B2C4135C5ABA3" ts="2024-02-21T16:40:04">
  <decision date="2021-07-15" number="130818" org="Роспотребнадзор"/>
  <url><![CDATA[https://cdn1.cdnme.se/cdn/7-2/1391932/images/2009/mndaa_61228651.jpg]]></url>
  <domain><![CDATA[cdn1.cdnme.se]]></domain>
- <ip>82.96.60.41</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3451495" includeTime="2021-07-19T14:13:10" entryType="1" hash="872441A25D280386094DB5B81D974FD5" blockType="domain" ts="2023-08-23T15:00:03">
  <decision date="2020-02-11" number="2020-02-11-1202" org="МВД"/>
@@ -2931,11 +2937,14 @@
  <domain><![CDATA[img2.doubanio.com]]></domain>
  <ip>121.22.238.249</ip>
 </content>
-<content id="3451541" includeTime="2021-07-19T14:13:09" entryType="1" hash="182C7C69DC1EA91C7058A04DA8EE60BE" ts="2021-07-19T14:13:09">
+<content id="3451541" includeTime="2021-07-19T14:13:09" entryType="1" hash="CFDDFE815942F98A9544AFC6797E3189" ts="2024-02-21T16:40:04">
  <decision date="2021-07-14" number="130806" org="Роспотребнадзор"/>
  <url><![CDATA[https://cdn2.cdnme.se/cdn/8-2/180113/images/2007/emo_kids_do_this_1195154733_3780166.jpg]]></url>
  <domain><![CDATA[cdn2.cdnme.se]]></domain>
- <ip>82.96.60.42</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3451547" includeTime="2021-07-19T19:28:19" entryType="1" hash="6F91B3E46CC7C7BBB693E2C1418DBE30" ts="2021-07-19T19:28:19">
  <decision date="2021-07-16" number="1359667-URL-on" org="Роскомнадзор"/>
@@ -3086,12 +3095,14 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:a319</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:0f9d</ipv6>
 </content>
-<content id="3451836" includeTime="2021-07-19T14:13:09" entryType="1" hash="4A501641A0DB3B20B34EA5C934FCF77C" ts="2021-07-19T14:13:09">
+<content id="3451836" includeTime="2021-07-19T14:13:09" entryType="1" hash="8362551FE978F7212F4D46771EB9C32B" ts="2024-02-21T16:40:04">
  <decision date="2021-07-14" number="130786" org="Роспотребнадзор"/>
  <url><![CDATA[https://assets.podomatic.net/ts/20/79/c7/nerdboy/3000x3000_8524731.jpg]]></url>
  <domain><![CDATA[assets.podomatic.net]]></domain>
- <ip>188.114.96.160</ip>
- <ipv6>2a06:98c1:3123:a000:0000:0000:0000:0000</ipv6>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="3451845" includeTime="2021-07-19T14:13:09" entryType="1" hash="28DB906DCB87867D9799B72B33BE607D" blockType="domain-mask" ts="2021-07-19T14:13:09">
  <decision date="2017-03-02" number="2-6-20/ 2017-02-27-30-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -5052,14 +5063,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:9bc9</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2248</ipv6>
 </content>
-<content id="3456293" includeTime="2021-07-23T14:32:51" entryType="1" hash="7D2EB3644F75C3226C11B1555635E83A" ts="2021-07-23T14:32:51">
+<content id="3456293" includeTime="2021-07-23T14:32:51" entryType="1" hash="2DD0785774788A4EF262BF2D0B38C11B" ts="2024-02-21T16:40:04">
  <decision date="2021-07-15" number="131041" org="Роспотребнадзор"/>
  <url><![CDATA[https://ru.baku.ws/obschestvo/132785]]></url>
  <domain><![CDATA[ru.baku.ws]]></domain>
- <ip>188.114.98.160</ip>
- <ip>188.114.99.160</ip>
- <ipv6>2a06:98c1:3122:a000:0000:0000:0000:0000</ipv6>
- <ipv6>2a06:98c1:3123:a000:0000:0000:0000:0000</ipv6>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="3456295" includeTime="2021-07-21T13:55:06" entryType="1" hash="A1511C747DBDEC6F55701E85D06645D1" blockType="domain" ts="2021-07-21T13:55:06">
  <decision date="2021-06-23" number="2а-84/2021" org="Александрово-Заводский районный суд - Забайкальский край"/>
