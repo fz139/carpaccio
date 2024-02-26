@@ -3850,10 +3850,12 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6236944" includeTime="2023-07-31T22:45:02" entryType="1" hash="0E9A044D6AF286BFB9220555333A0FA5" ts="2024-02-09T13:55:03">
+<content id="6236944" includeTime="2023-07-31T22:45:02" entryType="1" hash="4E6B2AD880947AD7F94A8B651008DA60" ts="2024-02-26T12:55:03">
  <decision date="2023-07-28" number="2178758-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://static13.hentai-img.com/upload/20210918/789/807326/30.jpg]]></url>
  <domain><![CDATA[static13.hentai-img.com]]></domain>
+ <ip>104.21.235.193</ip>
+ <ip>104.21.235.194</ip>
  <ip>172.64.128.18</ip>
  <ip>172.64.129.18</ip>
  <ip>172.64.136.35</ip>
@@ -3878,6 +3880,8 @@
  <ipv6>2606:4700:00e4:0000:0000:0000:ac40:ad18</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c224</ipv6>
  <ipv6>2606:4700:00e6:0000:0000:0000:ac40:c324</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ebc1</ipv6>
+ <ipv6>2606:4700:3038:0000:0000:0000:6815:ebc2</ipv6>
 </content>
 <content id="6236945" includeTime="2023-07-28T22:00:02" entryType="1" hash="7DD00FDAD8EB2A3DF29F974F86BFF7E6" blockType="domain-mask" ts="2023-07-28T22:00:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
