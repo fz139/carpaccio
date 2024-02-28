@@ -3709,15 +3709,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6757367" includeTime="2024-02-21T09:50:02" entryType="1" hash="990D7E1DF320D54764870FC958C4D6DB" ts="2024-02-21T09:50:02">
- <decision date="2024-02-20" number="2414582-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://karliki.com/videos/%D0%BB%D0%B5%D1%81%D0%B1%D0%B8/]]></url>
- <domain><![CDATA[karliki.com]]></domain>
- <ip>104.21.61.86</ip>
- <ip>172.67.207.248</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:3d56</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:cff8</ipv6>
-</content>
 <content id="6757368" includeTime="2024-02-20T22:30:03" entryType="1" hash="8F599F2BA0690579EAB9A9388CD8CD6B" blockType="domain-mask" ts="2024-02-20T22:30:03">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vlkgame.cfd]]></domain>
@@ -13002,13 +12993,6 @@
  <ip>162.19.253.188</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:73e3</ipv6>
 </content>
-<content id="6761142" includeTime="2024-02-26T23:00:03" entryType="1" hash="97BD089C0829D33E4CAE56B267460CC5" ts="2024-02-26T23:00:03">
- <decision date="2024-02-20" number="2024-02-14-892-ВН" org="Росмолодежь"/>
- <url><![CDATA[https://pumpzone.ru/praktika/kak-stat-blatnym.html?utm_referrer=https%3A%2F%2Fyandex.ru%2F]]></url>
- <domain><![CDATA[pumpzone.ru]]></domain>
- <ip>104.21.16.173</ip>
- <ip>172.67.214.227</ip>
-</content>
 <content id="6761145" includeTime="2024-02-21T22:55:03" entryType="1" hash="A0CE24E34158FE2F323AA046117987C7" blockType="domain-mask" ts="2024-02-21T22:55:03">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdom-jos14.fun]]></domain>
@@ -13518,6 +13502,14 @@
  <decision date="2024-02-21" number="2415932-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[www.kinoglobe.ru]]></domain>
  <ip>116.202.196.92</ip>
+</content>
+<content id="6761265" includeTime="2024-02-28T15:40:02" entryType="1" hash="69B87239BE3172463702A75F6F562EEC" blockType="domain" ts="2024-02-28T15:40:02">
+ <decision date="2024-02-21" number="2416522-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[m1.moonhub.live]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6761266" includeTime="2024-02-21T22:55:03" entryType="1" hash="FD2045C0830794230170F41CEE2914C2" blockType="domain-mask" ts="2024-02-21T22:55:03">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
