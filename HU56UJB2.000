@@ -2238,14 +2238,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:0a8a</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:be36</ipv6>
 </content>
-<content id="5042060" includeTime="2022-11-07T21:43:45" entryType="1" hash="418E6067109CDB9536877F52E1D70B52" blockType="domain" ts="2022-11-07T21:43:45">
- <decision date="2022-11-02" number="1870085-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[bestcomixx.com]]></domain>
- <ip>104.21.65.15</ip>
- <ip>172.67.157.65</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:9d41</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:410f</ipv6>
-</content>
 <content id="5042065" includeTime="2022-11-02T21:24:14" entryType="1" hash="C3CAEFBC0F543085B0E9912E5AABED93" blockType="domain" ts="2022-11-02T21:24:14">
  <decision date="2022-11-02" number="2-6-18/2022-10-28-1838-АИ" org="ФНС"/>
  <domain><![CDATA[joycasino-registracija.ru]]></domain>
@@ -12149,14 +12141,6 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3731</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a71c</ipv6>
 </content>
-<content id="5060999" includeTime="2022-11-10T22:16:49" entryType="1" hash="E05B4BD8F8208CC1E48F198C4A4D7FF1" blockType="domain" ts="2022-11-10T22:16:49">
- <decision date="2022-11-07" number="2022-11-01-1553" org="МВД"/>
- <domain><![CDATA[omgomgomg24.top]]></domain>
- <ip>104.21.7.181</ip>
- <ip>172.67.137.39</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:8927</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:07b5</ipv6>
-</content>
 <content id="5061004" includeTime="2022-11-10T22:16:58" entryType="1" hash="C78C203CBC0D8D8FEB63A9B353C60D77" blockType="domain" ts="2022-11-10T22:16:58">
  <decision date="2022-11-07" number="2022-11-04-2172" org="МВД"/>
  <domain><![CDATA[www.kalugadev.ru]]></domain>
@@ -16193,6 +16177,11 @@
  <url><![CDATA[https://cjdebtreform.org/node/374878]]></url>
  <domain><![CDATA[cjdebtreform.org]]></domain>
  <ip>128.103.64.94</ip>
+</content>
+<content id="5068277" includeTime="2024-03-04T10:20:03" entryType="1" hash="886DC0F11ED079F4E59E4CAD76D09159" blockType="domain" ts="2024-03-04T10:20:03">
+ <decision date="2021-05-19" number="2а-488/2021" org="Великолукский городской суд - Псковская область"/>
+ <domain><![CDATA[pskov.dlyavkontakte.ru]]></domain>
+ <ip>178.62.212.129</ip>
 </content>
 <content id="5068319" includeTime="2022-11-09T21:05:00" entryType="1" hash="1EEEC1569F979B89F7E0A73C785950BC" blockType="domain-mask" ts="2022-11-09T21:05:00">
  <decision date="2017-07-04" number="2-6-20/ 2017-07-03-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
