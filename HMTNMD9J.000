@@ -612,13 +612,17 @@
  <ip>104.21.22.98</ip>
  <ip>172.67.204.42</ip>
 </content>
-<content id="6357646" includeTime="2023-09-18T13:55:03" entryType="1" hash="F5FF040D6A624460AD035BCB74F84FA5" blockType="domain" ts="2023-09-18T13:55:03">
+<content id="6357646" includeTime="2023-09-18T13:55:03" entryType="1" hash="6082236FF0FF7EF01316ED83086FC102" blockType="domain-mask" ts="2024-03-06T22:00:03">
  <decision date="2023-09-14" number="2023-09-13-2082" org="МВД"/>
- <domain><![CDATA[semyanich-forum-11.fun]]></domain>
+ <domain><![CDATA[*.semyanich-forum-11.fun]]></domain>
  <ip>104.21.27.126</ip>
  <ip>172.67.142.152</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8e98</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1b7e</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6357647" includeTime="2023-09-14T22:15:02" entryType="1" hash="AE2FB770DD2CFF4184410AD081953DD5" blockType="domain-mask" ts="2023-09-14T22:15:02">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1758,15 +1762,6 @@
  <ip>172.67.128.19</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:8013</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:008f</ipv6>
-</content>
-<content id="6357968" includeTime="2023-09-18T13:55:03" entryType="1" hash="A5244D6BB6BF9B28E39D504D0D26E026" ts="2023-09-18T13:55:03">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://uncut-market.com/ru/]]></url>
- <domain><![CDATA[uncut-market.com]]></domain>
- <ip>104.21.68.60</ip>
- <ip>172.67.187.194</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:443c</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:bbc2</ipv6>
 </content>
 <content id="6357970" includeTime="2023-09-14T22:15:02" entryType="1" hash="8A303E5735F1BC44239293D5224F7B22" blockType="domain-mask" ts="2023-09-14T22:15:02">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4059,14 +4054,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6358828" includeTime="2023-09-15T15:50:03" entryType="2" hash="B8D743ECB5261ECEA522B250714B8DC8" ts="2023-09-15T15:50:03">
+<content id="6358828" includeTime="2023-09-15T15:50:03" entryType="2" hash="CC9A02A6F63DB353E0C8A0C7F8E8D8FA" ts="2024-03-14T18:25:03">
  <decision date="2023-08-24" number="определение о предварительном обеспечении по заявлению № 2И-10029/2023" org="Мосгорсуд"/>
  <url><![CDATA[https://ru3.zagonka.click/film/19215206~%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0+%D0%BC%D0%B0%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85+%D0%B7%D0%B2%D0%B5%D1%80%D0%B5%D0%B9+2]]></url>
  <domain><![CDATA[ru3.zagonka.click]]></domain>
- <ip>104.21.20.157</ip>
- <ip>172.67.193.45</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c12d</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:149d</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6358829" includeTime="2023-09-15T15:50:03" entryType="2" hash="065C7DB443167CD5A74ABD32A46D83D2" ts="2023-12-13T16:05:04">
  <decision date="2023-06-23" number="определение о предварительном обеспечении по заявлению № 2И-7513/2023" org="Мосгорсуд"/>
@@ -4179,14 +4174,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6358844" includeTime="2023-09-15T15:50:03" entryType="2" hash="76965BE9348A7A327561175831F73B81" ts="2023-09-15T15:50:03">
+<content id="6358844" includeTime="2023-09-15T15:50:03" entryType="2" hash="D125601FBD127ED534EACB1BE6FC16EB" ts="2024-03-14T18:25:03">
  <decision date="2023-06-30" number="определение о предварительном обеспечении по заявлению № 2И-7789/2023" org="Мосгорсуд"/>
  <url><![CDATA[https://ru3.zagonka.click/film/16599735~%D0%A8%D0%B5%D0%BF%D0%BE%D1%82%D1%8B+%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BE%D0%BC%D0%B0]]></url>
  <domain><![CDATA[ru3.zagonka.click]]></domain>
- <ip>104.21.20.157</ip>
- <ip>172.67.193.45</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c12d</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:149d</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6358845" includeTime="2023-09-15T15:50:03" entryType="2" hash="267564F5F3B51DE9646D0E91C0264703" ts="2023-11-08T15:50:07">
  <decision date="2023-06-06" number="определение о предварительном обеспечении по заявлению № 2И-6873/2023" org="Мосгорсуд"/>
@@ -4979,14 +4974,14 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:10b7</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d749</ipv6>
 </content>
-<content id="6360137" includeTime="2023-09-15T15:50:03" entryType="2" hash="9A913EE56A35F1516FDFAA84F7B49AFA" ts="2023-09-15T15:50:03">
+<content id="6360137" includeTime="2023-09-15T15:50:03" entryType="2" hash="D4C4DC08341F210725AF74ACE3C3DCDA" ts="2024-03-13T18:25:03">
  <decision date="2021-12-01" number="определение о предварительном обеспечении по заявлению № 2И-14570/2021" org="Мосгорсуд"/>
  <url><![CDATA[https://1.seriez.pro/komedija/31685-univer-10-let-spustja.html]]></url>
  <domain><![CDATA[1.seriez.pro]]></domain>
- <ip>104.21.44.76</ip>
- <ip>172.67.197.75</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2c4c</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c54b</ipv6>
+ <ip>104.21.18.175</ip>
+ <ip>172.67.182.208</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b6d0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:12af</ipv6>
 </content>
 <content id="6360138" includeTime="2023-09-15T15:50:03" entryType="2" hash="08656FD5FF8D56FB8273782FC9B46FA9" ts="2023-09-15T15:50:03">
  <decision date="2021-12-01" number="определение о предварительном обеспечении по заявлению № 2И-14570/2021" org="Мосгорсуд"/>
@@ -5214,14 +5209,14 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:10b7</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d749</ipv6>
 </content>
-<content id="6360166" includeTime="2023-09-15T15:50:03" entryType="2" hash="AECD5F79415172B0638375E909A5AD26" ts="2023-09-15T15:50:03">
+<content id="6360166" includeTime="2023-09-15T15:50:03" entryType="2" hash="120DCE6098948F10275317E8137A86ED" ts="2024-03-13T18:25:03">
  <decision date="2021-05-31" number="определение о предварительном обеспечении по заявлению № 2И-4994/2021" org="Мосгорсуд"/>
  <url><![CDATA[https://1.seriez.pro/komedija/31602-legenda.html]]></url>
  <domain><![CDATA[1.seriez.pro]]></domain>
- <ip>104.21.44.76</ip>
- <ip>172.67.197.75</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2c4c</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c54b</ipv6>
+ <ip>104.21.18.175</ip>
+ <ip>172.67.182.208</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b6d0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:12af</ipv6>
 </content>
 <content id="6360167" includeTime="2023-09-15T15:50:03" entryType="2" hash="728FB4A80ED471A5842DC22282E7C844" ts="2023-09-15T15:50:03">
  <decision date="2021-12-29" number="определение о предварительном обеспечении по заявлению № 2И-16793/2021" org="Мосгорсуд"/>
@@ -5250,42 +5245,42 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:269b</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a826</ipv6>
 </content>
-<content id="6360171" includeTime="2023-09-15T15:50:03" entryType="2" hash="59885A01A91ADB555162208C0931DA3C" ts="2023-09-15T15:50:03">
+<content id="6360171" includeTime="2023-09-15T15:50:03" entryType="2" hash="989C6D1CCC44977199B1993153354384" ts="2024-03-13T18:25:03">
  <decision date="2021-12-08" number="определение о предварительном обеспечении по заявлению № 2И-15033/2021" org="Мосгорсуд"/>
  <url><![CDATA[https://1.seriez.pro/dramy/31688-soldaut.html]]></url>
  <domain><![CDATA[1.seriez.pro]]></domain>
- <ip>104.21.44.76</ip>
- <ip>172.67.197.75</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2c4c</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c54b</ipv6>
+ <ip>104.21.18.175</ip>
+ <ip>172.67.182.208</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b6d0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:12af</ipv6>
 </content>
-<content id="6360173" includeTime="2023-09-15T15:50:03" entryType="2" hash="FCAEEA3B4FC15EEA96E23C5945B6B429" ts="2023-09-15T15:50:03">
+<content id="6360173" includeTime="2023-09-15T15:50:03" entryType="2" hash="536D5D454A03C84310C83B5821EA6928" ts="2024-03-13T18:25:03">
  <decision date="2021-04-09" number="определение о предварительном обеспечении по заявлению № 2И-3010/2021" org="Мосгорсуд"/>
  <url><![CDATA[https://1.seriez.pro/komedija/31561-milicioner-s-rublevki.html]]></url>
  <url><![CDATA[https://1.seriez.pro/komedija/32228-milicioner-s-rublevki-2-sezon.html]]></url>
  <domain><![CDATA[1.seriez.pro]]></domain>
- <ip>104.21.44.76</ip>
- <ip>172.67.197.75</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2c4c</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c54b</ipv6>
+ <ip>104.21.18.175</ip>
+ <ip>172.67.182.208</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b6d0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:12af</ipv6>
 </content>
-<content id="6360174" includeTime="2023-09-15T15:50:03" entryType="2" hash="6B379856E31818CB7174588BF32A064E" ts="2023-09-15T15:50:03">
+<content id="6360174" includeTime="2023-09-15T15:50:03" entryType="2" hash="B7E80FA079C1D0E1972F4819274EEA26" ts="2024-03-13T18:25:03">
  <decision date="2021-10-28" number="определение о предварительном обеспечении по заявлению № 2И-12092/2021" org="Мосгорсуд"/>
  <url><![CDATA[https://1.seriez.pro/komedija/30740-poljarnyj-2-sezon.html]]></url>
  <domain><![CDATA[1.seriez.pro]]></domain>
- <ip>104.21.44.76</ip>
- <ip>172.67.197.75</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2c4c</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c54b</ipv6>
+ <ip>104.21.18.175</ip>
+ <ip>172.67.182.208</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b6d0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:12af</ipv6>
 </content>
-<content id="6360175" includeTime="2023-09-15T15:50:03" entryType="2" hash="FBE11778BDF3E122B76A27F42B1E9BA4" ts="2023-09-15T15:50:03">
+<content id="6360175" includeTime="2023-09-15T15:50:03" entryType="2" hash="C7F1C9FDD3AFB0804344BCBC0B201892" ts="2024-03-13T18:25:03">
  <decision date="2021-11-26" number="определение о предварительном обеспечении по заявлению № 2И-14121/2021" org="Мосгорсуд"/>
  <url><![CDATA[https://1.seriez.pro/komedija/31526-muzykalnaja-intuicija.html]]></url>
  <domain><![CDATA[1.seriez.pro]]></domain>
- <ip>104.21.44.76</ip>
- <ip>172.67.197.75</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2c4c</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c54b</ipv6>
+ <ip>104.21.18.175</ip>
+ <ip>172.67.182.208</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b6d0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:12af</ipv6>
 </content>
 <content id="6360176" includeTime="2023-09-15T15:50:03" entryType="2" hash="21ACE62FD49B4976E496E669861566AF" ts="2023-09-15T15:50:03">
  <decision date="2021-01-19" number="определение о предварительном обеспечении по заявлению № 2И-0256/2021" org="Мосгорсуд"/>

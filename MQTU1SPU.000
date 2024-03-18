@@ -615,11 +615,11 @@
  <ip>104.21.16.15</ip>
  <ip>172.67.209.196</ip>
 </content>
-<content id="3858601" includeTime="2021-12-13T13:23:51" entryType="1" hash="9464A567AA1F66BD0C790D04704E0C48" ts="2021-12-13T13:23:51">
+<content id="3858601" includeTime="2021-12-13T13:23:51" entryType="1" hash="797A48B3FC2517B57789B568D12EADB2" ts="2024-03-07T14:15:01">
  <decision date="2021-10-13" number="2а-3845/2021" org="Рыбинский городской суд - Ярославская область"/>
  <url><![CDATA[http://tut-diploms.com/goroda/diplomy-v-rybinske]]></url>
  <domain><![CDATA[tut-diploms.com]]></domain>
- <ip>138.68.103.83</ip>
+ <ip>164.90.238.182</ip>
 </content>
 <content id="3858617" includeTime="2021-12-13T13:23:42" entryType="1" hash="FA1EF3DE3C25DF62FFCF92DDD25F94C7" blockType="domain" ts="2021-12-13T13:23:42">
  <decision date="2021-12-02" number="2а-318/2021" org="Краснознаменский районный суд - Калининградская область"/>
@@ -3641,6 +3641,14 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:cdca</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3d27</ipv6>
 </content>
+<content id="3861966" includeTime="2024-03-12T22:35:03" entryType="1" hash="BEED144B0A6FB46974BB8590D77E0F80" blockType="domain-mask" ts="2024-03-12T22:35:03">
+ <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.vavadae.com]]></domain>
+ <ip>104.21.31.53</ip>
+ <ip>172.67.174.254</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:1f35</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:aefe</ipv6>
+</content>
 <content id="3861968" includeTime="2021-12-10T19:17:17" entryType="1" hash="25EE3C969F66653F52AD77E1EFC6820A" blockType="domain" ts="2021-12-10T19:17:17">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[graham-bell.com]]></domain>
@@ -3884,13 +3892,17 @@
  <domain><![CDATA[sslkn.tv]]></domain>
  <ip>54.38.58.101</ip>
 </content>
-<content id="3862616" includeTime="2021-12-13T19:10:33" entryType="1" hash="6231B97C680F0CA2381EE4C630CCD5AA" blockType="domain" ts="2021-12-13T19:10:33">
+<content id="3862616" includeTime="2021-12-13T19:10:33" entryType="1" hash="FE4A85FFA0E6304458A598ACB31F1A84" blockType="domain" ts="2024-03-15T15:40:04">
  <decision date="2021-10-19" number="2а-2180/2021" org="Невинномысский городской суд - Ставропольский край"/>
  <domain><![CDATA[diplomas-best.com]]></domain>
  <ip>104.21.8.174</ip>
  <ip>172.67.157.202</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:9dca</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:08ae</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3862663" includeTime="2021-12-13T19:10:32" entryType="1" hash="A33943E3A924DEE41ED562F7E4F0E5EA" blockType="domain" ts="2021-12-13T19:10:32">
  <decision date="2021-12-06" number="2а-5489/2021" org="Кировский районный суд г. Астрахани - Астраханская область"/>

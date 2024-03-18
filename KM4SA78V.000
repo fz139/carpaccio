@@ -1229,10 +1229,10 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:1495</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:c125</ipv6>
 </content>
-<content id="6634685" includeTime="2024-01-12T22:50:05" entryType="1" hash="BC2CFA58B8A2D50C068864F783E4FADF" blockType="domain-mask" ts="2024-01-12T22:50:05">
+<content id="6634685" includeTime="2024-01-12T22:50:05" entryType="1" hash="647EDF23604CF1665FBDAB43113F9D67" blockType="domain-mask" ts="2024-03-14T16:40:03">
  <decision date="2024-01-12" number="2357440-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lost-serial.click]]></domain>
- <ip>188.114.97.3</ip>
+ <ip>104.18.46.121</ip>
 </content>
 <content id="6634689" includeTime="2024-01-12T22:50:05" entryType="1" hash="BBA833EDCD0EB33E3BE31D725521BFDD" blockType="domain" ts="2024-01-12T22:50:05">
  <decision date="2024-01-12" number="2-6-14/2023-09-20-2287-АИ" org="ФНС"/>
@@ -2898,10 +2898,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6635471" includeTime="2024-01-12T22:50:05" entryType="1" hash="E62B272512537269A21743819E4D8F36" blockType="domain-mask" ts="2024-01-12T22:50:05">
+<content id="6635471" includeTime="2024-01-12T22:50:05" entryType="1" hash="F8F4AC4CE775F13C9112E60B1FF8A678" blockType="domain-mask" ts="2024-03-14T16:40:03">
  <decision date="2024-01-12" number="2358392-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.gudfilm2.org]]></domain>
- <ip>188.114.97.3</ip>
+ <ip>104.18.46.121</ip>
 </content>
 <content id="6635473" includeTime="2024-01-12T22:50:05" entryType="1" hash="86399DCB0579674601C071A6FF2F12BC" blockType="domain-mask" ts="2024-01-12T22:50:05">
  <decision date="2024-01-12" number="2-6-14/2024-01-01-5391-АИ" org="ФНС"/>
@@ -5729,14 +5729,11 @@
  <domain><![CDATA[kinokrad.pm]]></domain>
  <ip>78.108.180.98</ip>
 </content>
-<content id="6638910" includeTime="2024-01-12T17:05:04" entryType="2" hash="D6CE73BBEDB1C7C9F26731BE25B0CADE" ts="2024-01-12T17:05:04">
+<content id="6638910" includeTime="2024-01-12T17:05:04" entryType="2" hash="7AA97C12393A9B775864A0A22B3582A5" ts="2024-03-18T16:45:03">
  <decision date="2023-07-06" number="определение о предварительном обеспечении по заявлению № 2И-8081/2023" org="Мосгорсуд"/>
  <url><![CDATA[https://ag.hdrezka.by/films/5075549-lada-gold]]></url>
  <domain><![CDATA[ag.hdrezka.by]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+ <ip>213.166.68.60</ip>
 </content>
 <content id="6638911" includeTime="2024-01-12T17:05:04" entryType="2" hash="611DAA3CFADA04A817791187C3A478C3" ts="2024-01-12T17:05:04">
  <decision date="2023-07-06" number="определение о предварительном обеспечении по заявлению № 2И-8081/2023" org="Мосгорсуд"/>

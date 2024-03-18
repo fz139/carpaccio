@@ -986,10 +986,13 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5110</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:897c</ipv6>
 </content>
-<content id="6458973" includeTime="2023-10-27T13:50:04" entryType="1" hash="149B936D3B08CDE12F92F383C29FB29B" blockType="domain-mask" ts="2023-10-27T13:50:04">
+<content id="6458973" includeTime="2023-10-27T13:50:04" entryType="1" hash="8B06E5F292F07171E7CD76152A04C060" blockType="domain-mask" ts="2024-03-12T15:15:02">
  <decision date="2023-10-26" number="2278681-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lordfilm1.zone]]></domain>
  <ip>104.21.68.247</ip>
+ <ip>172.67.200.131</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:44f7</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:c883</ipv6>
 </content>
 <content id="6458974" includeTime="2023-10-27T11:20:04" entryType="1" hash="2FEC07F8B46EE3A682283FAD8EB59A95" blockType="domain-mask" ts="2023-10-27T13:45:04">
  <decision date="2023-10-26" number="2278690-URL-on" org="Роскомнадзор"/>
@@ -1325,10 +1328,13 @@
  <domain><![CDATA[*.lordfilm.bio]]></domain>
  <ip>104.21.65.242</ip>
 </content>
-<content id="6459110" includeTime="2023-10-31T14:55:02" entryType="1" hash="0EBDCB76FAA64071FDB336221EF4DAE9" blockType="domain-mask" ts="2023-10-31T14:55:02">
+<content id="6459110" includeTime="2023-10-31T14:55:02" entryType="1" hash="AA8DA8A8A79DE574AD42574A439DCF66" blockType="domain-mask" ts="2024-03-12T15:15:02">
  <decision date="2023-10-26" number="2278685-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lordfilm1.org]]></domain>
  <ip>104.21.1.33</ip>
+ <ip>172.67.186.119</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:0121</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:ba77</ipv6>
 </content>
 <content id="6459111" includeTime="2023-10-27T13:50:04" entryType="1" hash="188DE6D900009643E42E084ECADFD6D5" blockType="domain-mask" ts="2023-10-27T13:50:04">
  <decision date="2023-10-26" number="2278693-URL-on" org="Роскомнадзор"/>
@@ -1549,21 +1555,29 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:2619</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:da0b</ipv6>
 </content>
-<content id="6459201" includeTime="2023-10-27T11:20:04" entryType="1" hash="3FD2FD0E85360B4F7100225442D54AD3" blockType="domain-mask" ts="2023-10-27T13:45:04">
+<content id="6459201" includeTime="2023-10-27T11:20:04" entryType="1" hash="8CBF13416259ABC249E7B3F336061938" blockType="domain-mask" ts="2024-03-12T15:15:02">
  <decision date="2023-10-26" number="2278678-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lordfilm0.net]]></domain>
  <ip>104.21.15.122</ip>
  <ip>172.67.162.153</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a299</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:0f7a</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6459202" includeTime="2023-10-27T11:20:04" entryType="1" hash="E17B6C7B62542CA780F23BED4A65AD46" blockType="domain-mask" ts="2023-10-27T13:45:04">
+<content id="6459202" includeTime="2023-10-27T11:20:04" entryType="1" hash="939C7EBAE45CBCA3EC85D8CD74138ED1" blockType="domain-mask" ts="2024-03-12T15:15:02">
  <decision date="2023-10-26" number="2278687-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.nukino.club]]></domain>
  <ip>104.21.7.184</ip>
  <ip>172.67.137.42</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:07b8</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:892a</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6459203" includeTime="2023-10-27T11:20:04" entryType="1" hash="6453AA84ADC1C802D2EFA7D2F7600128" blockType="domain-mask" ts="2023-10-27T13:45:04">
  <decision date="2023-10-26" number="2278695-URL-on" org="Роскомнадзор"/>
@@ -1818,13 +1832,17 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:111f</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:dbe4</ipv6>
 </content>
-<content id="6459289" includeTime="2023-10-27T11:20:04" entryType="1" hash="548803ED21CEB57AC0AF15E6BE1FBE30" blockType="domain-mask" ts="2023-10-27T13:45:04">
+<content id="6459289" includeTime="2023-10-27T11:20:04" entryType="1" hash="57E80FEE317F3D14C6D43A26ED985F90" blockType="domain-mask" ts="2024-03-12T15:15:02">
  <decision date="2023-10-26" number="2278664-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.kinokryt.online]]></domain>
  <ip>104.21.16.166</ip>
  <ip>172.67.214.220</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:d6dc</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:10a6</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6459290" includeTime="2023-10-30T13:35:03" entryType="1" hash="5FADA4559C83981849862E68FB95EAF1" ts="2023-10-30T13:35:03">
  <decision date="2014-02-12" number="2-499/2014" org="Кстовский городской суд - Нижегородская область"/>
@@ -1832,13 +1850,17 @@
  <domain><![CDATA[ipleer.pro]]></domain>
  <ip>93.190.143.130</ip>
 </content>
-<content id="6459291" includeTime="2023-10-27T13:50:04" entryType="1" hash="3A872923D7948DCD1BE7E15BBB118F34" blockType="domain-mask" ts="2023-10-27T13:50:04">
+<content id="6459291" includeTime="2023-10-27T13:50:04" entryType="1" hash="A4FD4FE7431B2BA2016EAF7E9BB15105" blockType="domain-mask" ts="2024-03-12T15:15:02">
  <decision date="2023-10-26" number="2278672-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.rpltm.online]]></domain>
  <ip>104.21.9.234</ip>
  <ip>172.67.131.15</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:830f</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:09ea</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6459293" includeTime="2023-10-27T13:50:04" entryType="1" hash="267969F710C5E367622A531C3BD58C8A" blockType="domain-mask" ts="2023-10-27T13:50:04">
  <decision date="2023-10-26" number="2278680-URL-on" org="Роскомнадзор"/>
@@ -7097,13 +7119,17 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:9453</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:1d25</ipv6>
 </content>
-<content id="6460321" includeTime="2023-10-27T11:20:04" entryType="1" hash="C268F6C7F7C8107ED5560B53E5A1F546" blockType="domain-mask" ts="2023-10-27T13:45:04">
+<content id="6460321" includeTime="2023-10-27T11:20:04" entryType="1" hash="53EDB80377A575A5875BF586A7249DE0" blockType="domain-mask" ts="2024-03-12T15:15:02">
  <decision date="2023-10-27" number="2279284-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.5lordserials.xyz]]></domain>
  <ip>104.21.49.216</ip>
  <ip>172.67.194.158</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:31d8</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c29e</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6460329" includeTime="2023-10-29T11:25:03" urgencyType="1" entryType="3" hash="25129152A2ACF80248E9C200A06C2A48" blockType="domain" ts="2023-10-29T11:25:03">
  <decision date="2022-02-24" number="" org=""/>
@@ -10351,13 +10377,17 @@
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:def0</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2681</ipv6>
 </content>
-<content id="6462228" includeTime="2023-10-30T13:35:03" entryType="1" hash="C3C10B06DB1D2B24824A196366EA7220" blockType="domain-mask" ts="2023-10-30T13:35:03">
+<content id="6462228" includeTime="2023-10-30T13:35:03" entryType="1" hash="D18079FFF157B0E7F8334170B22948DA" blockType="domain-mask" ts="2024-03-12T15:15:02">
  <decision date="2023-10-27" number="2279687-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.kinofree.net]]></domain>
  <ip>104.21.12.76</ip>
  <ip>172.67.131.243</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:83f3</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0c4c</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6462229" includeTime="2023-10-27T22:10:02" entryType="1" hash="268A9273486DCDBBF11F11EE6FF4C9AF" blockType="domain-mask" ts="2023-10-27T22:40:04">
  <decision date="2017-10-11" number="2-6-20/2017-10-10-84-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -10644,13 +10674,17 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:9614</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:1df8</ipv6>
 </content>
-<content id="6462325" includeTime="2023-10-30T13:35:03" entryType="1" hash="145E135CC4009D1E8E197536AFCB5A50" blockType="domain-mask" ts="2023-10-30T13:35:03">
+<content id="6462325" includeTime="2023-10-30T13:35:03" entryType="1" hash="D1D17FDB5E47DFC6625E4E29F50BCE18" blockType="domain-mask" ts="2024-03-12T15:15:02">
  <decision date="2023-10-27" number="2279688-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lordseries.tv]]></domain>
  <ip>104.21.26.231</ip>
  <ip>172.67.168.147</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a893</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1ae7</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6462326" includeTime="2023-10-27T22:10:02" entryType="1" hash="6F8AA01D13FD582C936C21BE680FFEFF" blockType="domain-mask" ts="2023-10-27T22:40:04">
  <decision date="2017-10-11" number="2-6-20/2017-10-10-84-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -16201,18 +16235,22 @@
  <domain><![CDATA[apparaty777-s-vyvodom.org.ru]]></domain>
  <ip>45.88.105.134</ip>
 </content>
-<content id="6463690" includeTime="2023-10-30T15:20:04" entryType="1" hash="4821FD515D34EC88C7A23C283EE1D15E" blockType="domain-mask" ts="2023-10-30T15:20:04">
+<content id="6463690" includeTime="2023-10-30T15:20:04" entryType="1" hash="CDC7724FAEFEF0D112C93BD9831DFCE8" blockType="domain-mask" ts="2024-03-14T16:10:03">
  <decision date="2023-10-30" number="2280623-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.izifilm.info]]></domain>
- <ip>188.114.97.3</ip>
+ <ip>104.28.6.67</ip>
 </content>
-<content id="6463692" includeTime="2023-10-30T15:20:04" entryType="1" hash="67B427C3BDD05FA15666F6B58829BC42" blockType="domain-mask" ts="2023-10-30T15:20:04">
+<content id="6463692" includeTime="2023-10-30T15:20:04" entryType="1" hash="21597788D921F8CA4FBAD3DAB32C1C4A" blockType="domain-mask" ts="2024-03-12T15:15:02">
  <decision date="2023-10-30" number="2280629-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lordseerial.net]]></domain>
  <ip>104.21.23.185</ip>
  <ip>172.67.212.189</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:17b9</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d4bd</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6463710" includeTime="2023-10-31T14:55:02" entryType="1" hash="1DBEAEC01AA23EEDB8E168F06A51243E" blockType="domain" ts="2023-10-31T14:55:02">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -16939,13 +16977,17 @@
  <ip>203.30.191.173</ip>
  <ipv6>2a05:7880:0425:b592:96fc:e1ed:9b6c:c8b0</ipv6>
 </content>
-<content id="6464154" includeTime="2023-10-30T15:20:04" entryType="1" hash="772D08A3CA9E0D7DD9593D116CF1602D" blockType="domain-mask" ts="2023-10-30T15:20:04">
+<content id="6464154" includeTime="2023-10-30T15:20:04" entryType="1" hash="2F57B31C7CAF80058143BA8CA7C39EAB" blockType="domain-mask" ts="2024-03-12T15:15:02">
  <decision date="2023-10-30" number="2280628-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lordseriales.online]]></domain>
  <ip>104.21.78.156</ip>
  <ip>172.67.223.126</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4e9c</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:df7e</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6464184" includeTime="2023-10-30T19:50:02" urgencyType="1" entryType="3" hash="FE857266487D43E9239829B37FC533D7" blockType="domain-mask" ts="2023-10-30T19:50:02">
  <decision date="2022-02-24" number="" org=""/>

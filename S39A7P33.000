@@ -1326,14 +1326,6 @@
  <domain><![CDATA[*.fairspin-online2.ru]]></domain>
  <ip>157.90.34.133</ip>
 </content>
-<content id="5906432" includeTime="2023-05-16T06:46:18" entryType="1" hash="CF32F94EE87FA1380EC37DF223FA9CAE" blockType="domain-mask" ts="2023-05-16T06:46:18">
- <decision date="2023-05-10" number="2-6-14/2023-04-08-60-АИ" org="ФНС"/>
- <domain><![CDATA[*.1jet-lucky.ru]]></domain>
- <ip>104.21.79.203</ip>
- <ip>172.67.147.213</ip>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:4fcb</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:93d5</ipv6>
-</content>
 <content id="5906433" includeTime="2023-05-16T06:46:20" entryType="1" hash="3A5F138884EEE2D162A6848800D28489" blockType="domain-mask" ts="2023-05-16T06:46:20">
  <decision date="2023-05-10" number="2-6-14/2023-04-21-156-АИ" org="ФНС"/>
  <domain><![CDATA[*.club-vulkan-official.biz]]></domain>
@@ -4201,11 +4193,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="5911297" includeTime="2023-05-17T13:20:56" entryType="1" hash="04DE0579A319222EABB5FE1F007A507A" blockType="domain" ts="2023-05-17T13:20:56">
- <decision date="2023-05-15" number="2023-04-10-152-ВЛ" org="Россельхознадзор"/>
- <domain><![CDATA[ipakitine-kupit.ru]]></domain>
- <ip>96.125.174.94</ip>
 </content>
 <content id="5911298" includeTime="2023-05-17T13:21:00" entryType="1" hash="F64DD8EA4302D76E2C4DA11000A7B2F0" blockType="domain" ts="2023-05-17T13:21:00">
  <decision date="2023-05-04" number="2а-2431/2023" org="Центральный районный суд г. Кемерово - Кемеровская область"/>
@@ -8818,10 +8805,13 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1949</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:dff4</ipv6>
 </content>
-<content id="5919113" includeTime="2023-05-18T14:54:23" entryType="1" hash="1172904894390584E093155B94B1C059" blockType="domain" ts="2023-05-18T14:54:23">
+<content id="5919113" includeTime="2023-05-18T14:54:23" entryType="1" hash="A7651EF402DF4B73FA39FA9DEB1E1E1E" blockType="domain" ts="2024-03-12T10:00:03">
  <decision date="2023-05-03" number="2а-1385/2023" org="Заводской районный суд г. Орла - Орловская область"/>
  <domain><![CDATA[msk21.dosoogle.com]]></domain>
- <ip>195.201.178.13</ip>
+ <ip>104.21.81.202</ip>
+ <ip>172.67.164.7</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:51ca</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:a407</ipv6>
 </content>
 <content id="5919116" includeTime="2023-05-18T14:54:21" entryType="1" hash="9C65E602C07801A99566BF7CEB934257" blockType="domain" ts="2023-05-18T14:54:21">
  <decision date="2023-04-24" number="2а-2058/2023" org="Фрунзенский районный суд г. Владивостока - Приморский край"/>
@@ -9570,10 +9560,10 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9e78</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3121</ipv6>
 </content>
-<content id="5919409" includeTime="2023-05-18T14:54:23" entryType="1" hash="C164FEFD2B765D061E38A4FF4100474A" blockType="domain" ts="2023-05-18T14:54:23">
+<content id="5919409" includeTime="2023-05-18T14:54:23" entryType="1" hash="22EDDB239DCDC45931AE5C0B1F270DD4" blockType="domain" ts="2024-03-14T10:55:02">
  <decision date="2023-05-16" number="2023-05-16-323-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[y2.lovetabs.biz]]></domain>
- <ip>46.105.78.191</ip>
+ <ip>94.23.121.204</ip>
 </content>
 <content id="5919427" includeTime="2023-05-16T20:52:45" entryType="1" hash="C421AB5667980E648A190437DCB03E9E" blockType="domain-mask" ts="2023-05-16T20:52:45">
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -9833,11 +9823,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:c8f4</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0db0</ipv6>
 </content>
-<content id="5919498" includeTime="2023-05-18T14:54:21" entryType="1" hash="EA7F816BADDA4382374F36E78D78074B" ts="2023-05-18T14:54:21">
+<content id="5919498" includeTime="2023-05-18T14:54:21" entryType="1" hash="C90C49AED704480BC315E7D4679F5460" ts="2024-03-15T14:05:03">
  <decision date="2023-04-26" number="2а-4341/2023" org="Южно-Сахалинский городской суд - Сахалинская область"/>
  <url><![CDATA[http://restyleprof.ru/category/yuzhno-sakhalinsk/]]></url>
  <domain><![CDATA[restyleprof.ru]]></domain>
- <ip>188.119.112.2</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="5919501" includeTime="2023-05-16T20:52:40" entryType="1" hash="7F921BBB42049B8F7C9227839B854A63" blockType="domain" ts="2023-05-16T20:52:40">
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

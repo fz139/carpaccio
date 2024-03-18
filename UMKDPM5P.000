@@ -49,15 +49,6 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:3d83</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d28a</ipv6>
 </content>
-<content id="4657011" includeTime="2022-07-29T13:49:38" entryType="1" hash="DB9115BA554CB60ED6AE2EB81D619533" ts="2022-07-29T13:49:38">
- <decision date="2022-07-14" number="2а-433/2022" org="Неманский городской суд - Калининградская область"/>
- <url><![CDATA[https://c.svoy-doctor.org/kupit-spravku-o-vaktsinatsii/]]></url>
- <domain><![CDATA[c.svoy-doctor.org]]></domain>
- <ip>104.21.48.175</ip>
- <ip>172.67.187.107</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:30af</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:bb6b</ipv6>
-</content>
 <content id="4657012" includeTime="2022-07-29T13:49:40" entryType="1" hash="DE55D598A40F399EE4AAE2CC8BD5F773" blockType="domain" ts="2022-07-29T13:49:40">
  <decision date="2022-07-27" number="2022-07-27-44-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[n.gerthshop.club]]></domain>
@@ -2905,19 +2896,27 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:4215</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:9b50</ipv6>
 </content>
-<content id="4662033" includeTime="2022-08-01T13:39:27" entryType="1" hash="37D21E6A05221548E60B66E6BBCF6204" ts="2022-08-01T13:39:27">
+<content id="4662033" includeTime="2022-08-01T13:39:27" entryType="1" hash="8A9F9E31372919E938C2778BD53C13C5" ts="2024-03-12T13:05:02">
  <decision date="2022-04-25" number="2а-1199/2022" org="Правобережный районный суд г. Магнитогорска - Челябинская область"/>
  <url><![CDATA[http://magnitogorsk.intim-znakomstva.com/prostitutki/40-45-let/]]></url>
  <domain><![CDATA[magnitogorsk.intim-znakomstva.com]]></domain>
- <ip>104.21.27.95</ip>
- <ip>172.67.142.35</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:1b5f</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:8e23</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4662043" includeTime="2022-08-01T13:39:23" entryType="1" hash="4FC8A79C1ED39EB47F686CAB924516AF" blockType="domain" ts="2022-08-01T13:39:23">
  <decision date="2022-07-28" number="2022-07-21-80" org="МВД"/>
  <domain><![CDATA[greenhouseseeds.info]]></domain>
  <ip>91.200.48.221</ip>
+</content>
+<content id="4662044" includeTime="2024-03-13T14:15:03" entryType="1" hash="0EC2810681B769086E39A7D39516FA55" blockType="domain" ts="2024-03-13T14:15:03">
+ <decision date="2022-07-28" number="2022-07-20-559" org="МВД"/>
+ <domain><![CDATA[ganjaseeds.store]]></domain>
+ <ip>104.21.24.141</ip>
+ <ip>172.67.218.250</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:dafa</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:188d</ipv6>
 </content>
 <content id="4662049" includeTime="2022-08-01T08:55:27" entryType="1" hash="52980AF5420E9D7820C0EA2D4809A35B" blockType="domain" ts="2022-08-01T08:55:27">
  <decision date="2022-07-28" number="2022-07-21-82" org="МВД"/>
@@ -4743,6 +4742,14 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2305</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d272</ipv6>
 </content>
+<content id="4664239" includeTime="2024-03-18T16:30:03" entryType="1" hash="F587255E649E74385C280D39F1842E09" blockType="domain-mask" ts="2024-03-18T16:30:03">
+ <decision date="2022-06-30" number="2а-772/2022" org="Балтачевский межрайонный суд - Республика Башкортостан"/>
+ <domain><![CDATA[*.odensrf.com]]></domain>
+ <ip>104.21.3.183</ip>
+ <ip>172.67.131.21</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:03b7</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:8315</ipv6>
+</content>
 <content id="4664244" includeTime="2022-07-29T18:35:42" entryType="1" hash="2EB27985E793F06A4A0766AF7ADBFE78" ts="2022-07-29T18:35:42">
  <decision date="2022-07-28" number="2-6-18/2022-06-09-155-АИ" org="ФНС"/>
  <url><![CDATA[https://top5-casino.com/onlayn-kazino/vulkan-maximum/]]></url>
@@ -5733,10 +5740,13 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:469f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8991</ipv6>
 </content>
-<content id="4665391" includeTime="2022-08-01T13:39:24" entryType="1" hash="26F340DC28363EC194DC8A8F18D68714" blockType="domain" ts="2022-08-01T13:39:24">
+<content id="4665391" includeTime="2022-08-01T13:39:24" entryType="1" hash="D32B6BB6D041189851619C1F265C0A76" blockType="domain" ts="2024-03-15T14:05:03">
  <decision date="2022-05-30" number="2а-4428/2022" org="Центральный районный суд г. Челябинска - Челябинская область"/>
  <domain><![CDATA[sex2.sexvl.club]]></domain>
- <ip>185.14.186.151</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4665395" includeTime="2022-07-29T19:39:54" entryType="5" hash="AD7DAB822D8235C0A6C90F946F90A5AB" blockType="domain" ts="2022-07-29T19:39:54">
  <decision date="2022-07-28" number="1з-50534/2022" org="Минцифры"/>
@@ -6534,10 +6544,10 @@
  <domain><![CDATA[sex4.sexoklgd.love]]></domain>
  <ip>198.211.124.237</ip>
 </content>
-<content id="4666421" includeTime="2022-08-01T22:16:27" entryType="1" hash="B9535E1EC7562B5C2C1F3BEB731075B2" blockType="domain" ts="2022-08-01T22:16:27">
+<content id="4666421" includeTime="2022-08-01T22:16:27" entryType="1" hash="BC87E41A1EC9585AE38E13585DCB8E28" blockType="domain" ts="2024-03-11T13:15:04">
  <decision date="2021-05-14" number="2а-3103/2021" org="Стерлитамакский городской суд - Республика Башкортостан"/>
  <domain><![CDATA[sterlitamak.arena-diplomex.com]]></domain>
- <ip>104.248.204.101</ip>
+ <ip>206.189.4.155</ip>
 </content>
 <content id="4666423" includeTime="2022-08-01T22:16:30" entryType="1" hash="B39BF68480A69B17B848122849B9431D" blockType="domain" ts="2023-11-08T13:35:03">
  <decision date="2022-07-20" number="2а-373/2022" org="Хангаласский районный суд - Республика Саха (Якутия)"/>
@@ -7957,14 +7967,18 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a652</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:22eb</ipv6>
 </content>
-<content id="4670223" includeTime="2022-08-03T00:06:38" entryType="1" hash="FE0F5E5AF46DB603F6C3A22CE5F01189" ts="2022-08-03T00:06:38">
+<content id="4670223" includeTime="2022-08-03T00:06:38" entryType="1" hash="BDDFE871984A96A67E022F2CBAC6FABE" ts="2024-03-05T18:00:05">
  <decision date="2022-07-18" number="2а-417/2022" org="Шумихинский районный суд"/>
  <url><![CDATA[https://perm.snus-mag-moskva.ru/shop/]]></url>
  <domain><![CDATA[perm.snus-mag-moskva.ru]]></domain>
  <ip>104.21.66.21</ip>
  <ip>172.67.155.80</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:4215</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:9b50</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4670257" includeTime="2022-08-03T00:06:35" entryType="1" hash="55A0E5582734C36B3B79EDF73F6332DD" blockType="domain" ts="2022-08-03T00:06:35">
  <decision date="2022-07-20" number="2а-4236/2022" org="Октябрьский районный суд г. Белгорода - Белгородская область"/>

@@ -1653,10 +1653,10 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1527</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c45f</ipv6>
 </content>
-<content id="3713398" includeTime="2021-10-18T22:23:19" entryType="1" hash="D4944A6637F7EA16B6BB5998C3B8E6B1" blockType="domain" ts="2021-10-18T22:23:19">
+<content id="3713398" includeTime="2021-10-18T22:23:19" entryType="1" hash="C297E6194D026EBF5FE576811E1F826F" blockType="domain" ts="2024-03-13T12:20:04">
  <decision date="2021-09-07" number="2а-7391/2021" org="Вологодский городской суд - Вологодская область"/>
  <domain><![CDATA[edu-diploms.com]]></domain>
- <ip>188.166.103.90</ip>
+ <ip>185.43.222.112</ip>
 </content>
 <content id="3713436" includeTime="2021-10-19T14:43:31" entryType="1" hash="7C03D79C3696D3E162DE44288B811FA6" ts="2023-09-26T15:45:02">
  <decision date="2021-10-14" number="1471867-URL-on" org="Роскомнадзор"/>
@@ -1756,10 +1756,10 @@
  <domain><![CDATA[forum.sportmashina.com]]></domain>
  <ip>51.195.106.61</ip>
 </content>
-<content id="3713597" includeTime="2021-10-18T22:23:13" entryType="1" hash="D91ACFC12A8E9A2FB60A49830605E87C" blockType="domain" ts="2021-10-18T22:23:13">
+<content id="3713597" includeTime="2021-10-18T22:23:13" entryType="1" hash="3E08D80CEACC5B4228EE5D1D79B149A9" blockType="domain" ts="2024-03-14T10:55:02">
  <decision date="2021-10-14" number="2021-10-14-956-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[new2.misterjoi.ru]]></domain>
- <ip>89.248.168.179</ip>
+ <ip>94.102.63.202</ip>
 </content>
 <content id="3713599" includeTime="2021-10-19T14:43:30" entryType="1" hash="F6E4BA433CDE1370961FD9F004758890" ts="2023-10-02T16:30:03">
  <decision date="2021-10-14" number="1471773-URL-on" org="Роскомнадзор"/>
@@ -2024,6 +2024,11 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
+</content>
+<content id="3713962" includeTime="2024-03-18T16:30:03" entryType="1" hash="D0A6EE0C9BF46CBB34E581DF8D2C8B7C" blockType="domain-mask" ts="2024-03-18T16:30:03">
+ <decision date="2021-09-07" number="2а-7391/2021" org="Вологодский городской суд - Вологодская область"/>
+ <domain><![CDATA[*.arena-diplomas.com]]></domain>
+ <ip>206.189.4.155</ip>
 </content>
 <content id="3713981" includeTime="2021-10-18T13:33:16" entryType="1" hash="618157A2D9B824887263BD6C24281B9D" ts="2021-10-18T13:33:16">
  <decision date="2021-09-15" number="2а-4449/2021" org="Канавинский районный суд г. Нижний Новгород - Нижегородская область"/>
@@ -5679,14 +5684,14 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:b4ae</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:2847</ipv6>
 </content>
-<content id="3718971" includeTime="2021-10-19T22:19:38" entryType="1" hash="12D0E93868402AB98483AAA52B68053F" ts="2021-10-19T22:19:38">
+<content id="3718971" includeTime="2021-10-19T22:19:38" entryType="1" hash="29A1AFD9CAE1FEFCC58600B8C42A83A6" ts="2024-03-12T13:00:03">
  <decision date="2021-08-12" number="2а-3153/2021" org="Ленинский районный суд г. Уфы - Республика Башкортостан"/>
  <url><![CDATA[http://klin.intim-znakomstva.com/prostitutki/]]></url>
  <domain><![CDATA[klin.intim-znakomstva.com]]></domain>
- <ip>104.21.27.95</ip>
- <ip>172.67.142.35</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:1b5f</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:8e23</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3718999" includeTime="2021-10-18T22:23:24" entryType="1" hash="BFBCDC78A9F55EA9CF65A3C556662522" blockType="domain-mask" ts="2021-10-18T22:23:24">
  <decision date="2017-08-25" number="2-6-20/2017-08-24-197-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -6612,10 +6617,13 @@
  <domain><![CDATA[klin.eccemoda.ru]]></domain>
  <ip>178.62.212.129</ip>
 </content>
-<content id="3719947" includeTime="2021-10-20T13:53:34" entryType="1" hash="6F69AF06FDACD1E2424F6D8F4DBFAEB9" blockType="domain" ts="2021-10-20T13:53:34">
+<content id="3719947" includeTime="2021-10-20T13:53:34" entryType="1" hash="B0B8866930D193E2A710F892CCCAE75A" blockType="domain" ts="2024-03-14T15:10:03">
  <decision date="2021-09-23" number="2а-3981/2021" org="Ленинский районный суд г. Омска - Омская область"/>
  <domain><![CDATA[msk5.main.xxx]]></domain>
- <ip>185.238.168.21</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3719957" includeTime="2021-10-20T13:53:34" entryType="1" hash="5A4DA90CAB863840DEB481321ECE0805" blockType="domain" ts="2021-10-20T13:53:34">
  <decision date="2021-10-13" number="2а-6593/2021" org="Октябрьский районный суд г. Белгорода - Белгородская область"/>
@@ -6698,15 +6706,15 @@
  <domain><![CDATA[kbr.hostmed.ru]]></domain>
  <ip>185.74.255.186</ip>
 </content>
-<content id="3720150" includeTime="2021-10-20T22:17:00" entryType="1" hash="8A322FE315CD63398BA0FF07F8C9B3D4" blockType="domain" ts="2021-10-20T22:17:00">
+<content id="3720150" includeTime="2021-10-20T22:17:00" entryType="1" hash="945CDCA88AC0F224F4BC0CC3391FEA59" blockType="domain" ts="2024-03-18T17:15:02">
  <decision date="2021-09-24" number="2а-5253/2021" org="Таганрогский городской суд - Ростовская область"/>
  <domain><![CDATA[diploms-originals.com]]></domain>
- <ip>37.139.0.173</ip>
+ <ip>64.227.78.227</ip>
 </content>
-<content id="3720170" includeTime="2021-10-20T13:53:34" entryType="1" hash="A91BEA95CCF362C8877E2328F0E8CF96" blockType="domain" ts="2021-10-20T13:53:34">
+<content id="3720170" includeTime="2021-10-20T13:53:34" entryType="1" hash="DCDBA9E5204554952B7368E70AEA125F" blockType="domain" ts="2024-03-11T15:55:04">
  <decision date="2021-05-07" number="2а-4709/2021" org="Автозаводский районный суд г. Тольятти - Самарская область"/>
  <domain><![CDATA[tolyatti.arena-diplomovs.com]]></domain>
- <ip>157.245.72.144</ip>
+ <ip>206.189.4.155</ip>
 </content>
 <content id="3720171" includeTime="2021-10-21T13:12:07" entryType="1" hash="F9B0A58675C66194C16E11E21AE1DB65" ts="2023-10-02T16:30:03">
  <decision date="2021-10-18" number="1474639-URL-on" org="Роскомнадзор"/>
@@ -7594,10 +7602,10 @@
  <domain><![CDATA[rostov.ddpills.com]]></domain>
  <ip>81.17.17.234</ip>
 </content>
-<content id="3722268" includeTime="2021-10-20T22:17:05" entryType="1" hash="6CA06CD28D01686DDA9E92F4E04D0F3A" blockType="domain" ts="2023-07-28T13:40:02">
+<content id="3722268" includeTime="2021-10-20T22:17:05" entryType="1" hash="62E2CACB7E31D4EB496A0C8A02954E9E" blockType="domain" ts="2024-03-11T15:55:04">
  <decision date="2021-05-24" number="2а-1169/2021" org="Рудничный районный суд г. Прокопьевска - Кемеровская область"/>
  <domain><![CDATA[prokopevsk.arena-diplomovs.com]]></domain>
- <ip>157.245.72.144</ip>
+ <ip>206.189.4.155</ip>
 </content>
 <content id="3722287" includeTime="2021-10-20T22:17:03" entryType="1" hash="2A6BD8172F3A57D2754ED32A6AC9D8FC" blockType="domain" ts="2021-10-20T22:17:03">
  <decision date="2021-10-18" number="2021-10-14-4162" org="МВД"/>
@@ -12238,10 +12246,10 @@
  <domain><![CDATA[kazan.area-diplom.com]]></domain>
  <ip>167.99.43.219</ip>
 </content>
-<content id="3729823" includeTime="2021-10-25T13:19:04" entryType="1" hash="BE28FCA632A1D7215F8C0C725CA411AD" blockType="domain" ts="2021-10-25T13:19:04">
+<content id="3729823" includeTime="2021-10-25T13:19:04" entryType="1" hash="4A23D482FEDE38B4B811733C3C15D48A" blockType="domain" ts="2024-03-05T18:00:05">
  <decision date="2021-09-30" number="2а-1147/2021" org="Рузаевский районный суд - Республика Мордовия"/>
  <domain><![CDATA[moi-spravki.ru]]></domain>
- <ip>212.80.216.191</ip>
+ <ip>89.105.201.203</ip>
 </content>
 <content id="3729826" includeTime="2021-10-25T13:19:01" entryType="1" hash="5DB7614907F15A22B06FF95195E1A2FE" blockType="domain" ts="2021-10-25T13:19:01">
  <decision date="2021-09-21" number="2а-971/2021" org="Торжокский межрайонный суд Тверской области - Тверская область"/>
@@ -12505,10 +12513,10 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d625</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:109e</ipv6>
 </content>
-<content id="3730086" includeTime="2021-10-25T13:19:04" entryType="1" hash="86F566557D5D1EE359E1276236EEFC3E" blockType="domain" ts="2021-10-25T13:19:04">
+<content id="3730086" includeTime="2021-10-25T13:19:04" entryType="1" hash="B25B85B6A1535B83F77C109EE2FCB272" blockType="domain" ts="2024-03-11T12:35:02">
  <decision date="2021-05-27" number="2а-3036/2021" org="Череповецкий городской суд - Вологодская область"/>
  <domain><![CDATA[cherepovets.arena-diplomex.com]]></domain>
- <ip>157.245.72.144</ip>
+ <ip>206.189.4.155</ip>
 </content>
 <content id="3730106" includeTime="2021-10-31T19:34:19" entryType="1" hash="9159E52448F8CE2993FE9F7170A55920" ts="2023-10-02T16:30:03">
  <decision date="2021-10-21" number="1478913-URL-on" org="Роскомнадзор"/>

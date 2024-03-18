@@ -290,18 +290,18 @@
  <domain><![CDATA[new.torkino.ru]]></domain>
  <ip>188.165.249.9</ip>
 </content>
-<content id="1923767" includeTime="2019-11-18T12:16:10" entryType="1" hash="E5BE41DF6DBA462F0B92041595F92C0A" blockType="domain" ts="2023-09-27T13:00:02">
+<content id="1923767" includeTime="2019-11-18T12:16:10" entryType="1" hash="61588C66CBF655FFBAE6C04032F1F498" blockType="domain" ts="2024-03-12T11:30:04">
  <decision date="2019-09-27" number="2а-2062/2019" org="Московский районный суд г. Рязани - Рязанская область"/>
  <domain><![CDATA[vrn3.prostitutki-red.com]]></domain>
- <ip>104.21.9.186</ip>
- <ip>172.67.143.105</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:8f69</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:09ba</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="1923770" includeTime="2019-11-18T12:16:09" entryType="1" hash="50ECECB5C45BBC42814229EF5207F9C9" blockType="domain" ts="2019-11-18T12:16:09">
+<content id="1923770" includeTime="2019-11-18T12:16:09" entryType="1" hash="1EF76E78B51CF88212575FE990F7E347" blockType="domain-mask" ts="2024-03-12T13:05:02">
  <decision date="2019-07-22" number="2а-7289/2019" org="Центральный районный суд г. Тюмени - Тюменская область"/>
- <domain><![CDATA[tumengirls.net]]></domain>
- <ip>109.206.181.255</ip>
+ <domain><![CDATA[*.tumengirls.net]]></domain>
+ <ip>109.206.181.89</ip>
 </content>
 <content id="1923771" includeTime="2019-11-18T12:16:09" entryType="1" hash="8FBD985FC5E603DBE0FA5FC5ABC6E2B6" blockType="domain" ts="2023-08-09T20:25:02">
  <decision date="2019-09-16" number="2а-7410/2019" org="Вахитовский районный суд г. Казани - Республика Татарстан (Татарстан)"/>
@@ -327,11 +327,14 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:4159</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:a182</ipv6>
 </content>
-<content id="1923797" includeTime="2019-11-18T12:16:07" entryType="1" hash="4446A001EFF9857821377DFD4DC87D71" ts="2019-11-18T12:16:07">
+<content id="1923797" includeTime="2019-11-18T12:16:07" entryType="1" hash="06DBB9FD4FE106AF8A16308DEE93C8B0" ts="2024-03-05T18:00:05">
  <decision date="2019-07-10" number="2а-3576/2019" org="Ленинский районный суд г. Перми - Пермский край"/>
  <url><![CDATA[http://perm.propiska-reg.ru/]]></url>
  <domain><![CDATA[perm.propiska-reg.ru]]></domain>
- <ip>176.31.246.87</ip>
+ <ip>104.21.24.126</ip>
+ <ip>172.67.218.203</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:187e</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:dacb</ipv6>
 </content>
 <content id="1924058" includeTime="2019-11-15T18:21:22" entryType="1" hash="01174D65304CE2183E9167D5F40025E0" blockType="domain" ts="2019-11-15T18:21:22">
  <decision date="2019-02-19" number="2-6-20/2019-02-12-1471-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1143,10 +1146,10 @@
  <domain><![CDATA[video.1.midka.ru]]></domain>
  <ip>81.17.19.227</ip>
 </content>
-<content id="1926775" includeTime="2019-11-16T15:09:43" entryType="5" hash="CDB942256237192E1EAB816E9602B1AE" blockType="domain" ts="2019-11-16T15:09:43">
+<content id="1926775" includeTime="2019-11-16T15:09:43" entryType="5" hash="E827103F87915A4DE7AA10B4D90D5BF7" blockType="domain" ts="2024-03-14T17:25:03">
  <decision date="2019-11-15" number="1з-10430/2019" org="Минцифры"/>
  <domain><![CDATA[kinoflux.us]]></domain>
- <ip>5.45.70.12</ip>
+ <ip>199.59.243.225</ip>
 </content>
 <content id="1926776" includeTime="2019-11-16T15:09:44" entryType="5" hash="F8B23167C57E8EE11F3D317BDD2CBB7B" blockType="domain" ts="2024-02-15T15:25:02">
  <decision date="2019-11-15" number="1з-10405/2019" org="Минцифры"/>
@@ -3129,10 +3132,13 @@
  <domain><![CDATA[lacinox.it]]></domain>
  <ip>64.207.153.85</ip>
 </content>
-<content id="1931151" includeTime="2019-11-20T12:50:19" entryType="1" hash="63DA3D98D2D357A9D294F834827B44D0" blockType="domain" ts="2019-11-20T12:50:19">
+<content id="1931151" includeTime="2019-11-20T12:50:19" entryType="1" hash="4E3036DC78AA63EF178B31FF785E11A3" blockType="domain" ts="2024-03-12T11:30:04">
  <decision date="2019-10-24" number="2а-5070/2019" org="Октябрьский районный суд г. Белгорода - Белгородская область"/>
  <domain><![CDATA[msk4.dosug-gid.net]]></domain>
- <ip>185.238.168.22</ip>
+ <ip>104.21.94.169</ip>
+ <ip>172.67.138.70</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5ea9</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:8a46</ipv6>
 </content>
 <content id="1931152" includeTime="2019-11-20T12:50:19" entryType="1" hash="D2A42256708DFF7432C362CE1FBCAA1D" ts="2023-10-31T14:25:03">
  <decision date="2019-10-02" number="2а-5221/2019" org="Октябрьский районный суд г. Архангельска - Архангельская область"/>
@@ -4308,10 +4314,13 @@
  <domain><![CDATA[*.refpartrhb.top]]></domain>
  <ip>188.124.235.150</ip>
 </content>
-<content id="1933886" includeTime="2019-11-21T12:19:21" entryType="1" hash="59CDAEBA35218504A2444C3F543B6FAC" blockType="domain" ts="2019-11-21T12:19:21">
+<content id="1933886" includeTime="2019-11-21T12:19:21" entryType="1" hash="AE93C3A7F3E31315856BA5AEB9AC60C0" blockType="domain" ts="2024-03-05T18:00:05">
  <decision date="2019-11-08" number="2а-12756/2019" org="Курганский городской суд - Курганская область"/>
  <domain><![CDATA[diplom-mastak.com]]></domain>
- <ip>77.83.172.140</ip>
+ <ip>104.21.7.178</ip>
+ <ip>172.67.130.89</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:07b2</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:8259</ipv6>
 </content>
 <content id="1933909" includeTime="2019-11-20T18:35:30" entryType="5" hash="C0D434030248CCD3096E801E180E784E" blockType="domain" ts="2019-11-20T18:35:30">
  <decision date="2019-11-19" number="1з-10481/2019" org="Минцифры"/>
@@ -4552,18 +4561,14 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:8ba5</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:210f</ipv6>
 </content>
-<content id="1934987" includeTime="2019-11-21T19:25:32" entryType="1" hash="46E4FFA36BF283A030F7AEFE21857368" ts="2019-11-21T19:25:32">
+<content id="1934987" includeTime="2019-11-21T19:25:32" entryType="1" hash="07DD5F3C9868ED18BDF9402F3B5BAC12" ts="2024-03-12T12:00:07">
  <decision date="2019-07-31" number="2а-6224/2019" org="Центральный районный суд г. Хабаровска - Хабаровский край"/>
  <url><![CDATA[http://habarovsk.intim-znakomstva.com/prostitutki]]></url>
  <domain><![CDATA[habarovsk.intim-znakomstva.com]]></domain>
- <ip>104.21.27.95</ip>
- <ip>104.31.92.69</ip>
- <ip>104.31.93.69</ip>
- <ip>172.67.142.35</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:1b5f</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:681f:5d45</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:681f:5c45</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:8e23</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="1934996" includeTime="2019-11-21T19:25:34" entryType="1" hash="AF79D06AB65883559ACBC8133ABA23D3" blockType="domain" ts="2019-11-21T19:25:34">
  <decision date="2019-02-19" number="2-6-20/2019-02-12-1471-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -5109,18 +5114,14 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:5c5b</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:bedf</ipv6>
 </content>
-<content id="1935874" includeTime="2019-11-22T12:31:18" entryType="1" hash="8297A256907518E9D34CDDD4EE436449" ts="2019-11-22T12:31:18">
+<content id="1935874" includeTime="2019-11-22T12:31:18" entryType="1" hash="09CCFC935996C7DA10E2ACCD896B0182" ts="2024-03-12T12:00:07">
  <decision date="2019-10-07" number="2а-5208/2019" org="Октябрьский районный суд г. Архангельска - Архангельская область"/>
  <url><![CDATA[http://mirniy.intim-znakomstva.com/prostitutki/]]></url>
  <domain><![CDATA[mirniy.intim-znakomstva.com]]></domain>
- <ip>104.21.27.95</ip>
- <ip>104.31.92.69</ip>
- <ip>104.31.93.69</ip>
- <ip>172.67.142.35</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:1b5f</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:681f:5d45</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:681f:5c45</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:8e23</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="1935875" includeTime="2019-11-22T12:31:18" entryType="1" hash="3985B00D0978FA8FA50443D7283EC7EA" ts="2019-11-22T12:31:18">
  <decision date="2019-10-07" number="2а-5208/2019" org="Октябрьский районный суд г. Архангельска - Архангельская область"/>
@@ -5525,10 +5526,10 @@
  <domain><![CDATA[labporn.xxx]]></domain>
  <ip>95.211.153.186</ip>
 </content>
-<content id="1936680" includeTime="2019-11-26T19:44:52" entryType="1" hash="FDE3D36BD3D322AEB5323BCB5758E413" blockType="domain" ts="2019-11-26T19:44:52">
+<content id="1936680" includeTime="2019-11-26T19:44:52" entryType="1" hash="B5484AD91E5026B94042BD4405C9DE91" blockType="domain" ts="2024-03-05T18:00:05">
  <decision date="2019-11-13" number="2а-1641/2019" org="Североморский районный суд - Мурманская область"/>
  <domain><![CDATA[diplomann-russians.com]]></domain>
- <ip>178.62.227.132</ip>
+ <ip>167.99.32.240</ip>
 </content>
 <content id="1936699" includeTime="2019-11-22T12:31:24" entryType="1" hash="4F3099D020B7AC3B6ED17649B83FB196" ts="2019-11-22T12:31:24">
  <decision date="2018-06-04" number="2-3610/2018" org="Ленинский районный суд г. Ставрополя - Ставропольский край"/>
@@ -5780,10 +5781,11 @@
  <domain><![CDATA[smotri-vse.ru]]></domain>
  <ip>185.81.129.132</ip>
 </content>
-<content id="1936840" includeTime="2019-11-21T15:12:28" entryType="5" hash="80F90483BCD8A9F1728602DF2D55C241" blockType="domain" ts="2019-11-21T15:12:28">
+<content id="1936840" includeTime="2019-11-21T15:12:28" entryType="5" hash="31A7CA5F7DB9A5B2210BFC2D4D6DDB50" blockType="domain" ts="2024-03-14T17:25:03">
  <decision date="2019-11-20" number="1з-10562/2019" org="Минцифры"/>
  <domain><![CDATA[kinobaza.com]]></domain>
- <ip>3.64.163.50</ip>
+ <ip>13.248.169.48</ip>
+ <ip>76.223.54.146</ip>
 </content>
 <content id="1936841" includeTime="2019-11-21T15:12:29" entryType="5" hash="32563C63DB4070070590EF3AAD486D4B" blockType="domain" ts="2019-11-21T15:12:29">
  <decision date="2019-11-20" number="1з-10527/2019" org="Минцифры"/>
@@ -9880,19 +9882,6 @@
  <domain><![CDATA[www.akordai.org]]></domain>
  <ip>198.143.149.149</ip>
 </content>
-<content id="1947933" includeTime="2019-11-27T20:53:29" entryType="1" hash="F438096AC0F045593ECEEE99E5558385" ts="2023-09-29T16:25:01">
- <decision date="2013-05-22" number="2-1804/2013" org="Гагаринский районный суд г. Москвы"/>
- <url><![CDATA[https://chordex.ru/korroziya-metalla-bej-chertej/]]></url>
- <domain><![CDATA[chordex.ru]]></domain>
- <ip>104.21.27.234</ip>
- <ip>172.67.143.171</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:8fab</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:1bea</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="1947950" includeTime="2019-11-27T20:53:30" entryType="1" hash="3806A1F91ED5D91436070F8650FC7A50" ts="2019-11-27T20:53:30">
  <decision date="2013-05-22" number="2-1804/2013" org="Гагаринский районный суд г. Москвы"/>
  <url><![CDATA[https://re-minor.ru/accords/korroziya-metalla/bey-chertey]]></url>
@@ -10080,15 +10069,18 @@
  <ipv6>2606:4700:0030:0000:0000:0000:681b:8e98</ipv6>
  <ipv6>2606:4700:0030:0000:0000:0000:681b:8f98</ipv6>
 </content>
-<content id="1948681" includeTime="2019-11-28T12:11:56" entryType="1" hash="C773A967BA58B6D710EAA5CDD05D9B42" blockType="domain" ts="2019-11-28T12:11:56">
+<content id="1948681" includeTime="2019-11-28T12:11:56" entryType="1" hash="4EB8E11D9A00A225954DB944B02F60E7" blockType="domain" ts="2024-03-11T12:20:06">
  <decision date="2019-11-11" number="2а-4637/2019" org="Киевский районный суд г. Симферополя - Республика Крым"/>
  <domain><![CDATA[simferopol.putanu.com]]></domain>
- <ip>188.40.254.210</ip>
+ <ip>104.21.43.44</ip>
+ <ip>172.67.219.93</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:2b2c</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:db5d</ipv6>
 </content>
-<content id="1948685" includeTime="2019-11-28T12:11:56" entryType="1" hash="1C5291D083249BD4AD5163BC954F19DB" blockType="domain" ts="2019-11-28T12:11:56">
+<content id="1948685" includeTime="2019-11-28T12:11:56" entryType="1" hash="3C6B0A0785354014D2611B090C1B219D" blockType="domain" ts="2024-03-12T11:30:04">
  <decision date="2019-11-08" number="2а-2301/2019" org="Железнодорожный районный суд г. Рязани - Рязанская область"/>
  <domain><![CDATA[prostitutkitveri.date]]></domain>
- <ip>5.61.52.134</ip>
+ <ip>5.61.54.155</ip>
 </content>
 <content id="1948802" includeTime="2019-11-28T20:35:26" entryType="1" hash="6F85B0BE39B89C6873A3D16833ED1DC9" ts="2023-11-03T13:30:04">
  <decision date="2019-11-25" number="2019-11-14-329" org="МВД"/>
@@ -10170,19 +10162,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:dd6c</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:2b39</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="1948998" includeTime="2019-11-28T12:11:58" entryType="1" hash="5513E64853B81B8FC26354FE28C98B5E" ts="2023-09-29T16:25:01">
- <decision date="2014-12-08" number="2-3992/14" org="Первомайский районный суд г. Ростова-на-Дону"/>
- <url><![CDATA[https://chordex.ru/timur-mucuraev-pokuda-mirom-pravyat-zheny-umma/]]></url>
- <domain><![CDATA[chordex.ru]]></domain>
- <ip>104.21.27.234</ip>
- <ip>172.67.143.171</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:8fab</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:1bea</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -10304,19 +10283,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:17af</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d471</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="1949340" includeTime="2019-11-28T12:11:58" entryType="1" hash="38B8D039BA09AF7C53CECDDE53F720E2" ts="2023-09-29T16:25:01">
- <decision date="2015-05-13" number="2-2357/15" org="Останкинский районный суд г. Москвы"/>
- <url><![CDATA[http://chordex.ru/aleksandr-nepomnyashhij-po-svoej-zemle/]]></url>
- <domain><![CDATA[chordex.ru]]></domain>
- <ip>104.21.27.234</ip>
- <ip>172.67.143.171</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:8fab</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:1bea</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>

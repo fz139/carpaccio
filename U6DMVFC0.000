@@ -1125,12 +1125,6 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:c292</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:549d</ipv6>
 </content>
-<content id="1330136" includeTime="2019-02-01T18:20:08" entryType="1" hash="7C2024B6B9194C1E4A50834685D7B4B4" ts="2019-02-01T18:20:08">
- <decision date="2018-07-17" number="2а-5365/2018" org="Советский районный суд г. Уфы - Республика Башкортостан"/>
- <url><![CDATA[https://ru.proxyservers.pro/anonymizer/]]></url>
- <domain><![CDATA[ru.proxyservers.pro]]></domain>
- <ip>207.180.233.18</ip>
-</content>
 <content id="1330363" includeTime="2019-02-01T18:20:11" entryType="1" hash="AA258B1898AB3392F2E92D1D2406B22F" ts="2019-02-01T18:20:11">
  <decision date="2014-02-27" number="2-55-14" org="Ногайский районный суд Республики Дагестан"/>
  <url><![CDATA[http://www.islamland.com/uploads/books/52ee5905-1290-4601-b8f7-4967cebe88c4-ru_the_right_religion.pdf]]></url>
@@ -1516,10 +1510,10 @@
  <ip>104.27.142.205</ip>
  <ip>104.27.143.205</ip>
 </content>
-<content id="1331731" includeTime="2019-02-01T18:20:11" entryType="1" hash="71A35995E1042B1C464247E8AD2ACE95" blockType="domain" ts="2019-02-01T18:20:11">
+<content id="1331731" includeTime="2019-02-01T18:20:11" entryType="1" hash="5DB0D7013EDF17BF77BA349B532D0B8B" blockType="domain" ts="2024-03-05T18:00:05">
  <decision date="2018-12-19" number="2а-6291/2018" org="Новгородский районный суд - Новгородская область"/>
  <domain><![CDATA[rudiploms.com]]></domain>
- <ip>37.139.0.76</ip>
+ <ip>164.92.191.114</ip>
 </content>
 <content id="1331740" includeTime="2019-01-31T20:47:27" entryType="1" hash="D671BCE92E02404697CFE2E11E7D77D4" blockType="domain" ts="2019-01-31T20:47:27">
  <decision date="2019-01-30" number="2-6-20/2018-12-25-1408-АИ" org="ФНС"/>
@@ -2610,10 +2604,13 @@
  <domain><![CDATA[www.you-books.com]]></domain>
  <ip>91.200.113.60</ip>
 </content>
-<content id="1333831" includeTime="2019-02-04T19:07:10" entryType="1" hash="22B8681EBEAB67F3DF7D6AB61764A20E" blockType="domain" ts="2019-02-04T19:07:10">
+<content id="1333831" includeTime="2019-02-04T19:07:10" entryType="1" hash="A4FA8E4223FFA57D720847902391E344" blockType="domain" ts="2024-03-05T18:00:05">
  <decision date="2018-12-11" number="2а-3793/2018" org="Киевский районный суд г. Симферополя - Республика Крым"/>
  <domain><![CDATA[kerch.diplomix-ua.com]]></domain>
- <ip>37.1.205.212</ip>
+ <ip>104.21.42.233</ip>
+ <ip>172.67.167.174</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:a7ae</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:2ae9</ipv6>
 </content>
 <content id="1333841" includeTime="2019-02-01T09:08:19" entryType="1" hash="FC97467D3B5ED5BB698064A2056C6D01" blockType="domain-mask" ts="2019-02-01T09:08:19">
  <decision date="2016-04-20" number="2-6-27/2016-04-14-13-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

@@ -98,10 +98,10 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="6472086" includeTime="2023-11-03T14:10:04" entryType="1" hash="F3EED7F33FF150D163B73BC1B05853B8" blockType="domain" ts="2023-11-03T14:10:04">
+<content id="6472086" includeTime="2023-11-03T14:10:04" entryType="1" hash="C244A582F6BEFCCA4385A1D5A4D4D3F1" blockType="domain" ts="2024-03-13T14:15:03">
  <decision date="2023-10-31" number="2023-10-31-749-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[g0.lovtab.biz]]></domain>
- <ip>188.165.139.160</ip>
+ <ip>94.23.121.204</ip>
 </content>
 <content id="6472092" includeTime="2023-11-03T14:10:04" entryType="1" hash="7BC45922756CBD313AEAEE6EF946A42C" ts="2023-11-03T14:10:04">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -1404,11 +1404,15 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:590f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9b84</ipv6>
 </content>
-<content id="6472615" includeTime="2023-11-02T13:40:04" entryType="1" hash="F1FFB951DF23448CB6D002C0A85048F4" blockType="domain-mask" ts="2023-11-02T13:40:04">
+<content id="6472615" includeTime="2023-11-02T13:40:04" entryType="1" hash="4A79FF6949DFE1B0C990F725DADDBF36" blockType="domain-mask" ts="2024-03-12T15:50:02">
  <decision date="2023-11-01" number="2283370-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lordserial.how]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ip>188.114.98.234</ip>
  <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
@@ -4597,10 +4601,13 @@
  <domain><![CDATA[*.lord-film.co]]></domain>
  <ip>104.24.24.58</ip>
 </content>
-<content id="6473894" includeTime="2023-11-02T18:45:02" entryType="1" hash="AC1CEE3C8D1D3A02BEB4F14CBC6611A2" blockType="domain-mask" ts="2023-11-02T21:35:04">
+<content id="6473894" includeTime="2023-11-02T18:45:02" entryType="1" hash="60DDD1910178A662A3A3E9EB072FD32F" blockType="domain-mask" ts="2024-03-12T15:50:02">
  <decision date="2023-11-02" number="2285211-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.kinozadrot.cc]]></domain>
  <ip>104.21.18.164</ip>
+ <ip>172.67.182.190</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:12a4</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:b6be</ipv6>
 </content>
 <content id="6473897" includeTime="2023-11-02T22:05:02" entryType="1" hash="A188AE67BE8A3E6652FD5D09CA49D69D" blockType="domain-mask" ts="2023-11-02T22:05:02">
  <decision date="2023-11-01" number="2-6-14/2023-09-29-1276-АИ" org="ФНС"/>
@@ -5615,9 +5622,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6474426" includeTime="2023-11-02T18:45:02" entryType="1" hash="339ADA6EE1A13681DDCA9AFB9084C67A" blockType="domain-mask" ts="2023-11-02T21:35:04">
+<content id="6474426" includeTime="2023-11-02T18:45:02" entryType="1" hash="B68A02955EE6210C68504EB493AEF1D3" blockType="domain-mask" ts="2024-03-12T15:50:02">
  <decision date="2023-11-02" number="2285285-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lordfilm.ws]]></domain>
+ <ip>104.21.31.192</ip>
  <ip>172.67.179.154</ip>
 </content>
 <content id="6474428" includeTime="2023-11-02T22:05:02" entryType="1" hash="1C5A6DB2D98F92E01047A6E14B69FA19" blockType="domain" ts="2023-11-02T22:05:02">
@@ -11044,11 +11052,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6477021" includeTime="2023-11-07T13:30:04" entryType="1" hash="BF74F84DB5D5796C0F87A9C7C0A1C34C" ts="2023-11-07T13:30:04">
+<content id="6477021" includeTime="2023-11-07T13:30:04" entryType="1" hash="A98F8D13999BD79EC081239D05F20480" ts="2024-03-13T12:20:04">
  <decision date="2023-11-02" number="2023-11-02-566-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://b0.lovertab.net/products/super-zhevitra]]></url>
  <domain><![CDATA[b0.lovertab.net]]></domain>
- <ip>178.32.140.112</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6477023" includeTime="2023-11-07T13:30:04" entryType="1" hash="5ED7A268D31CB681885BEF07CD07B6A0" blockType="domain-mask" ts="2023-11-07T13:30:04">
  <decision date="2023-11-03" number="2286942-URL-on" org="Роскомнадзор"/>
@@ -11254,11 +11262,11 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:afea</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4026</ipv6>
 </content>
-<content id="6477120" includeTime="2023-11-07T13:30:04" entryType="1" hash="5DADDE557830BD0B12ACEBDD81625B46" ts="2023-11-07T13:30:04">
+<content id="6477120" includeTime="2023-11-07T13:30:04" entryType="1" hash="C0E8F7757E5D07230753E83FBA162555" ts="2024-03-13T12:20:04">
  <decision date="2023-11-02" number="2023-11-02-546-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://b0.lovertab.net/products/dzhenerik-levitra-60-mg]]></url>
  <domain><![CDATA[b0.lovertab.net]]></domain>
- <ip>178.32.140.112</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6477121" includeTime="2023-11-07T13:30:04" entryType="1" hash="ACAC6B27F2B6579F908BF8EB0C33C551" blockType="domain" ts="2023-11-07T13:30:04">
  <decision date="2023-07-17" number="2а-343/2023" org="Полесский районный суд - Калининградская область"/>
@@ -11364,10 +11372,11 @@
  <domain><![CDATA[alkozakaz16.top]]></domain>
  <ip>91.134.25.29</ip>
 </content>
-<content id="6477157" includeTime="2023-11-03T22:20:04" entryType="1" hash="860635413B97A690048E9A9862D55762" blockType="domain-mask" ts="2023-11-03T22:20:04">
+<content id="6477157" includeTime="2023-11-03T22:20:04" entryType="1" hash="5E5C6317BE37BE5775FFF4701E235FC0" blockType="domain-mask" ts="2024-03-12T15:50:02">
  <decision date="2023-11-03" number="2286750-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lord-films.one]]></domain>
  <ip>104.21.89.65</ip>
+ <ip>172.67.156.228</ip>
 </content>
 <content id="6477161" includeTime="2023-11-07T13:30:04" entryType="1" hash="3960D42C93A825372A1335670349908C" ts="2023-11-07T13:30:04">
  <decision date="2023-11-02" number="2023-11-01-2353-ПЛ" org="Росздравнадзор"/>
@@ -11499,11 +11508,11 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:1737</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d138</ipv6>
 </content>
-<content id="6477223" includeTime="2023-11-07T13:30:04" entryType="1" hash="2E90A7B77E139BCEA2702789FB620B2C" ts="2023-11-07T13:30:04">
+<content id="6477223" includeTime="2023-11-07T13:30:04" entryType="1" hash="445607A72901A09EAC242C3068315B72" ts="2024-03-13T12:20:04">
  <decision date="2023-11-02" number="2023-11-02-520-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://b0.lovertab.net/products/dzhenerik-levitra-40mg]]></url>
  <domain><![CDATA[b0.lovertab.net]]></domain>
- <ip>178.32.140.112</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6477225" includeTime="2023-11-03T22:20:04" entryType="1" hash="59C6AB30F62CB98C97239E4C6861819A" blockType="domain-mask" ts="2023-11-03T22:20:04">
  <decision date="2023-11-03" number="2286944-URL-on" org="Роскомнадзор"/>
@@ -11730,17 +11739,17 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6477325" includeTime="2023-11-07T13:30:04" entryType="1" hash="BFD8C01F3773EEDB54BEB31F5A44BDB3" ts="2023-11-07T13:30:04">
+<content id="6477325" includeTime="2023-11-07T13:30:04" entryType="1" hash="BE529F1B360968967FAFC1FE3E68C795" ts="2024-03-13T12:20:04">
  <decision date="2023-11-02" number="2023-11-02-812-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://b0.lovertab.net/products/dzhenerik-viagra-150-mg]]></url>
  <domain><![CDATA[b0.lovertab.net]]></domain>
- <ip>178.32.140.112</ip>
+ <ip>94.23.146.163</ip>
 </content>
-<content id="6477327" includeTime="2023-11-07T13:30:04" entryType="1" hash="BCABE80A19C0A260E386EC20CFCEBD55" ts="2023-11-07T13:30:04">
+<content id="6477327" includeTime="2023-11-07T13:30:04" entryType="1" hash="6FDA785A587B27A605423FA803505198" ts="2024-03-13T12:20:04">
  <decision date="2023-11-02" number="2023-11-02-492-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://b0.lovertab.net/products/dzhenerik-levitra-20-mg]]></url>
  <domain><![CDATA[b0.lovertab.net]]></domain>
- <ip>178.32.140.112</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6477328" includeTime="2023-11-07T13:30:04" entryType="1" hash="FE1C47807AE63C7EE7A9E29DAC179A9F" blockType="domain" ts="2023-11-07T13:30:04">
  <decision date="2022-07-29" number="2а-492/22" org="Кузьминский районный суд - Москва"/>
@@ -11943,17 +11952,17 @@
  <domain><![CDATA[*.film-tv.club]]></domain>
  <ip>104.24.24.58</ip>
 </content>
-<content id="6477437" includeTime="2023-11-07T13:30:04" entryType="1" hash="9E46D6A491B8FECE3CEEF0937975D13F" ts="2023-11-07T13:30:04">
+<content id="6477437" includeTime="2023-11-07T13:30:04" entryType="1" hash="181B51995870A5C2BC0B29B057DB72EB" ts="2024-03-13T12:20:04">
  <decision date="2023-11-02" number="2023-11-02-617-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://b0.lovertab.net/products/dapoksetin-90]]></url>
  <domain><![CDATA[b0.lovertab.net]]></domain>
- <ip>178.32.140.112</ip>
+ <ip>94.23.146.163</ip>
 </content>
-<content id="6477439" includeTime="2023-11-07T13:30:04" entryType="1" hash="60E50383BBEB5835AACC0396D1F7CE92" ts="2023-11-07T13:30:04">
+<content id="6477439" includeTime="2023-11-07T13:30:04" entryType="1" hash="F53A2429D529DCCF7439B42151E5032F" ts="2024-03-13T12:20:04">
  <decision date="2023-11-02" number="2023-11-02-428-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://b0.lovertab.net/products/dzhenerik-stendra-50-mg]]></url>
  <domain><![CDATA[b0.lovertab.net]]></domain>
- <ip>178.32.140.112</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6477441" includeTime="2023-11-03T22:20:04" entryType="1" hash="663430D4CC63FB8CAAE5B981B40A73C1" blockType="domain" ts="2023-11-03T22:20:04">
  <decision date="2023-11-03" number="2286946-URL-on" org="Роскомнадзор"/>
@@ -12080,10 +12089,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6477508" includeTime="2023-11-07T13:30:04" entryType="1" hash="B1A6A483DF6F68AC601134A7F267E41A" blockType="domain-mask" ts="2023-11-07T13:30:04">
+<content id="6477508" includeTime="2023-11-07T13:30:04" entryType="1" hash="90E119CDED7E2811AB3EDAB2C9898A0B" blockType="domain-mask" ts="2024-03-14T10:05:02">
  <decision date="2023-07-13" number="2а-1521/2023" org="Советский районный суд г. Тулы - Тульская область"/>
  <domain><![CDATA[*.intim-box.com]]></domain>
- <ip>188.114.97.3</ip>
+ <ip>104.28.6.67</ip>
 </content>
 <content id="6477513" includeTime="2023-11-07T13:30:04" entryType="1" hash="C2734EC00E384CBBED2E75C75C4EE680" blockType="domain" ts="2023-11-07T13:30:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -12139,11 +12148,11 @@
  <domain><![CDATA[*.topserialy.online]]></domain>
  <ip>80.66.79.126</ip>
 </content>
-<content id="6477540" includeTime="2023-11-07T13:30:04" entryType="1" hash="A67A53FF0BB0822B9806619FD9CF9D31" ts="2023-11-07T13:30:04">
+<content id="6477540" includeTime="2023-11-07T13:30:04" entryType="1" hash="4CA5F6650EE7560A8D2B6200239321FB" ts="2024-03-13T12:20:04">
  <decision date="2023-11-02" number="2023-11-02-607-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://b0.lovertab.net/products/dapoksetin]]></url>
  <domain><![CDATA[b0.lovertab.net]]></domain>
- <ip>178.32.140.112</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6477542" includeTime="2023-11-07T13:30:04" entryType="1" hash="3BF568AF7DBFBE31E6BC865CA719C234" ts="2023-11-07T13:30:04">
  <decision date="2023-11-02" number="2023-10-30-1447-ПЛ" org="Росздравнадзор"/>
@@ -12351,11 +12360,11 @@
  <domain><![CDATA[velanera.hr]]></domain>
  <ip>89.34.18.137</ip>
 </content>
-<content id="6477643" includeTime="2023-11-07T13:30:04" entryType="1" hash="BED242ABA1985A15E8B5A567CA840C60" ts="2023-11-07T13:30:04">
+<content id="6477643" includeTime="2023-11-07T13:30:04" entryType="1" hash="E74B7AA2B7E621A3E377F754A3081C5B" ts="2024-03-13T12:20:04">
  <decision date="2023-11-02" number="2023-11-02-593-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://b0.lovertab.net/products/dapoksetin-30-mg]]></url>
  <domain><![CDATA[b0.lovertab.net]]></domain>
- <ip>178.32.140.112</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6477644" includeTime="2023-11-07T13:30:04" entryType="1" hash="D452EF66F04DD7D936285E497D3BBEA8" blockType="domain" ts="2023-11-07T13:30:04">
  <decision date="2023-07-17" number="2а-343/2023" org="Полесский районный суд - Калининградская область"/>
@@ -12470,11 +12479,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6477694" includeTime="2023-11-07T13:30:04" entryType="1" hash="023F791F5C53F269116A93B7CE567A69" ts="2023-11-07T13:30:04">
+<content id="6477694" includeTime="2023-11-07T13:30:04" entryType="1" hash="F80C8A2706ABA2EC5D214905E39E452C" ts="2024-03-13T12:20:04">
  <decision date="2023-11-02" number="2023-11-01-417-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://b0.lovertab.net/products/dzhenerik-stendra-100-mg]]></url>
  <domain><![CDATA[b0.lovertab.net]]></domain>
- <ip>178.32.140.112</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6477698" includeTime="2023-11-07T13:30:04" entryType="1" hash="41E18E3E22B7221A4964A07E80260642" ts="2023-11-07T13:30:04">
  <decision date="2023-10-30" number="2а-1377/2023" org="Канашский районный суд - Чувашская  Республика - Чувашия"/>
@@ -12556,11 +12565,11 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6815:4f05</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8b3b</ipv6>
 </content>
-<content id="6477743" includeTime="2023-11-07T13:30:04" entryType="1" hash="92D817C19F9321861EC4F730FE025316" ts="2023-11-07T13:30:04">
+<content id="6477743" includeTime="2023-11-07T13:30:04" entryType="1" hash="88A373F552712D6212D8BD38C5D5AA07" ts="2024-03-13T12:20:04">
  <decision date="2023-11-02" number="2023-11-02-579-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://b0.lovertab.net/products/super-tadarajz]]></url>
  <domain><![CDATA[b0.lovertab.net]]></domain>
- <ip>178.32.140.112</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6477745" includeTime="2023-11-07T13:30:04" entryType="1" hash="317D907B29DE15553A53278D52AADD51" blockType="domain-mask" ts="2023-11-07T13:30:04">
  <decision date="2023-11-03" number="2286941-URL-on" org="Роскомнадзор"/>
@@ -14393,14 +14402,14 @@
  <domain><![CDATA[x.xtorvampyr.ru]]></domain>
  <ip>81.31.197.47</ip>
 </content>
-<content id="6479236" includeTime="2023-11-03T15:20:03" entryType="2" hash="345747A68AA847B7E788406A9A4FDD19" ts="2023-11-03T15:20:03">
+<content id="6479236" includeTime="2023-11-03T15:20:03" entryType="2" hash="4B7961D5F7D47ACBB0B9E11CC84EA629" ts="2024-03-14T18:25:03">
  <decision date="2022-10-21" number="определение о предварительном обеспечении по заявлению № 2И-11960/2022" org="Мосгорсуд"/>
  <url><![CDATA[https://6.seriez.pro/detektivy/10491-kanceljarskaja-krysa-sex-anal--2-sezon.html]]></url>
  <domain><![CDATA[6.seriez.pro]]></domain>
- <ip>104.21.44.76</ip>
- <ip>172.67.197.75</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2c4c</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c54b</ipv6>
+ <ip>104.21.18.175</ip>
+ <ip>172.67.182.208</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b6d0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:12af</ipv6>
 </content>
 <content id="6479237" includeTime="2023-11-03T15:20:03" entryType="2" hash="C7253B19B7DDCDA27FF92EBF3CE86F01" ts="2023-11-03T15:20:03">
  <decision date="2022-08-04" number="определение о предварительном обеспечении по заявлению № 2И-8818/2022" org="Мосгорсуд"/>
@@ -16284,11 +16293,11 @@
  <domain><![CDATA[russia-vya23g.avis-farma.net]]></domain>
  <ip>207.154.219.29</ip>
 </content>
-<content id="6479841" includeTime="2023-11-07T13:30:04" entryType="1" hash="4753802D8043C005C176BC550FFC1CA2" ts="2023-11-07T13:30:04">
+<content id="6479841" includeTime="2023-11-07T13:30:04" entryType="1" hash="664F6E407566E020F5638784880A340A" ts="2024-03-13T12:20:04">
  <decision date="2023-11-02" number="2023-11-02-622-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://b0.lovertab.net/products/dzhenerik-super-p-force]]></url>
  <domain><![CDATA[b0.lovertab.net]]></domain>
- <ip>178.32.140.112</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6479844" includeTime="2023-11-07T13:30:04" entryType="1" hash="BC60165FE5239DBD6F6DD033CE4E4481" ts="2023-11-07T13:30:04">
  <decision date="2023-11-02" number="2023-10-30-341" org="МВД"/>

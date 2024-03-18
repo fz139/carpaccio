@@ -640,12 +640,6 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:5603</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d54f</ipv6>
 </content>
-<content id="6553025" includeTime="2023-12-12T14:25:03" entryType="1" hash="58FDEE1F21C38293F96FCF2BB88B221E" ts="2023-12-12T14:25:03">
- <decision date="2023-12-04" number="2023-11-10-1566-ВЛ" org="Россельхознадзор"/>
- <url><![CDATA[https://nhytra9w.inter-vet.ru/catalog/leyshmanioz_u_sobak/875/]]></url>
- <domain><![CDATA[nhytra9w.inter-vet.ru]]></domain>
- <ip>192.254.232.165</ip>
-</content>
 <content id="6553028" includeTime="2023-12-06T14:10:04" entryType="1" hash="D194BB4F4AD8A00691F00677FDB04029" blockType="domain" ts="2023-12-06T14:10:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[mega-darknet.shop]]></domain>
@@ -679,15 +673,6 @@
  <domain><![CDATA[weg.yalenkino.org]]></domain>
  <ip>185.73.221.228</ip>
  <ipv6>2a05:44c0:0001:0042:0000:0000:0000:0038</ipv6>
-</content>
-<content id="6553042" includeTime="2023-12-07T14:05:03" entryType="1" hash="2BFCFF7407B5B2F8E38AEA2A7058B764" ts="2023-12-07T14:05:03">
- <decision date="2023-12-05" number="2023-12-04-5385-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://krasnodar5.sofosbuvirrussia.com/catalog/sofosbuvir-i-daklatasvir/hepcinat-lp/]]></url>
- <domain><![CDATA[krasnodar5.sofosbuvirrussia.com]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6553047" includeTime="2023-12-07T14:05:03" entryType="1" hash="15D2F21BA3C449FCB35B9A6A43D99CF8" ts="2023-12-07T14:05:03">
  <decision date="2023-12-05" number="2320460-URL-on" org="Роскомнадзор"/>
@@ -1065,21 +1050,6 @@
  <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="6553161" includeTime="2023-12-12T14:25:03" entryType="1" hash="E6D13F21B456C94E459078FD335B2989" ts="2023-12-12T14:25:03">
- <decision date="2023-12-04" number="2023-11-10-2163-ВЛ" org="Россельхознадзор"/>
- <url><![CDATA[https://nhytra9w.inter-vet.ru/catalog/lechenie_lishaya/879/]]></url>
- <domain><![CDATA[nhytra9w.inter-vet.ru]]></domain>
- <ip>192.254.232.165</ip>
-</content>
-<content id="6553162" includeTime="2023-12-07T14:05:03" entryType="1" hash="04A606401E13C0CF5A71C8C6827BC1DF" ts="2023-12-07T14:05:03">
- <decision date="2023-12-05" number="2023-12-04-5363-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://krasnodar5.sofosbuvirrussia.com/catalog/sofosbuvir-i-daklatasvir/sofocure-v/]]></url>
- <domain><![CDATA[krasnodar5.sofosbuvirrussia.com]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6553166" includeTime="2023-12-07T14:05:03" entryType="1" hash="B0889743850B1EF21E0D8603E4E3F3BC" ts="2023-12-07T14:05:03">
  <decision date="2023-12-05" number="2023-12-04-1730-ПЛ" org="Росздравнадзор"/>
@@ -2801,11 +2771,10 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1d7f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9503</ipv6>
 </content>
-<content id="6553826" includeTime="2023-12-06T23:15:03" entryType="1" hash="541E454A708B875560123E5641413F77" blockType="domain-mask" ts="2023-12-08T11:45:02">
+<content id="6553826" includeTime="2023-12-06T23:15:03" entryType="1" hash="5D1C2105773040B0E30F15BDAB086BC4" blockType="domain-mask" ts="2024-03-14T09:35:05">
  <decision date="2023-12-06" number="2321292-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lords.onl]]></domain>
  <ip>188.114.96.1</ip>
- <ip>188.114.96.3</ip>
  <ip>188.114.97.1</ip>
 </content>
 <content id="6553832" includeTime="2023-12-06T23:15:03" entryType="1" hash="8A92B0C1CA8DAB015DE4C8D303C7A9D7" blockType="domain-mask" ts="2023-12-06T23:15:03">
@@ -3060,10 +3029,10 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0e45</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:9e27</ipv6>
 </content>
-<content id="6553929" includeTime="2023-12-06T23:15:03" entryType="1" hash="31BF8625C83BFAE5BDDF822608FD7685" blockType="domain-mask" ts="2023-12-06T23:15:03">
+<content id="6553929" includeTime="2023-12-06T23:15:03" entryType="1" hash="CF05BCD3A7B32839B75ED559D2911665" blockType="domain-mask" ts="2024-03-14T16:40:03">
  <decision date="2023-12-06" number="2321300-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.filmzone2.top]]></domain>
- <ip>188.114.97.3</ip>
+ <ip>104.18.47.121</ip>
 </content>
 <content id="6553930" includeTime="2023-12-06T23:15:03" entryType="1" hash="9C2561BB67D477F2174E1630B3B00DC2" blockType="domain" ts="2023-12-06T23:15:03">
  <decision date="2023-12-05" number="2-6-14/2023-12-01-3581-АИ" org="ФНС"/>
@@ -3109,10 +3078,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6553945" includeTime="2023-12-06T23:15:03" entryType="1" hash="AA58AD649943528EFAAC819B4BD86D6A" blockType="domain-mask" ts="2023-12-06T23:15:03">
+<content id="6553945" includeTime="2023-12-06T23:15:03" entryType="1" hash="4CBF513E383FDDF53379973EFE73D49F" blockType="domain-mask" ts="2024-03-14T13:10:03">
  <decision date="2023-12-06" number="2321283-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.biofilms.shop]]></domain>
- <ip>188.114.96.3</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="6553946" includeTime="2023-12-06T23:15:03" entryType="1" hash="0FA579563D6A6A1CB8BA74C20828AF81" blockType="domain-mask" ts="2023-12-06T23:15:03">
  <decision date="2023-12-06" number="2321287-URL-on" org="Роскомнадзор"/>
@@ -6275,11 +6244,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6555718" includeTime="2023-12-08T14:00:05" entryType="1" hash="71EFB3C9FC8FA39881A120E40F9C17D2" ts="2023-12-08T14:00:05">
+<content id="6555718" includeTime="2023-12-08T14:00:05" entryType="1" hash="9F7597819E2CD4BCC9A7EA19BE07566F" ts="2024-03-13T12:20:04">
  <decision date="2023-12-06" number="2023-12-06-1757-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://d0.lovertab.net/products/dzhenerik-levitra-60-mg]]></url>
  <domain><![CDATA[d0.lovertab.net]]></domain>
- <ip>94.23.74.120</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6555720" includeTime="2023-12-08T14:00:05" entryType="1" hash="08C8D1BCF53834AF5D27495F29A52362" ts="2023-12-08T14:00:05">
  <decision date="2023-12-06" number="2321947-URL-on" org="Роскомнадзор"/>
@@ -7007,15 +6976,6 @@
  <domain><![CDATA[tumen2.snyatprostitutku.org]]></domain>
  <ip>80.211.54.234</ip>
 </content>
-<content id="6555895" includeTime="2023-12-08T14:00:05" entryType="1" hash="7EA19332C5F10C3CDDD548749173790E" ts="2023-12-08T14:00:05">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://uncut-market.com/ru/skorost/49-amfetamin-iz-niderlandov-1-g.html]]></url>
- <domain><![CDATA[uncut-market.com]]></domain>
- <ip>104.21.68.60</ip>
- <ip>172.67.187.194</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:443c</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:bbc2</ipv6>
-</content>
 <content id="6555896" includeTime="2023-12-08T14:00:05" entryType="1" hash="6B01C3098DCD8B5132D73233027E7FBE" blockType="domain" ts="2023-12-08T14:00:05">
  <decision date="2023-11-08" number="2а-4878/2023" org="Ленинский районный суд г. Перми - Пермский край"/>
  <domain><![CDATA[forceful-ddos.services]]></domain>
@@ -7054,11 +7014,11 @@
  <ip>195.201.160.168</ip>
  <ipv6>2a01:04f8:013a:08ca:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6555905" includeTime="2023-12-08T14:00:05" entryType="1" hash="22147EB4B6605E73EB880E0421CC4D6E" ts="2023-12-08T14:00:05">
+<content id="6555905" includeTime="2023-12-08T14:00:05" entryType="1" hash="CBA91F7FF5D06CE49DE0E662615CFCCD" ts="2024-03-13T12:20:04">
  <decision date="2023-12-06" number="2023-12-06-1746-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://d0.lovertab.net/products/dzhenerik-levitra-20-mg]]></url>
  <domain><![CDATA[d0.lovertab.net]]></domain>
- <ip>94.23.74.120</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6555907" includeTime="2023-12-08T14:00:05" entryType="1" hash="EFC57BC518A8CBFDE7E1B877033F8E7B" ts="2023-12-08T14:00:05">
  <decision date="2023-12-06" number="2023-12-06-1465-ПЛ" org="Росздравнадзор"/>
@@ -7434,11 +7394,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6556001" includeTime="2023-12-08T14:00:05" entryType="1" hash="0742F15CF124E0FA042E5D171AA07407" ts="2023-12-08T14:00:05">
+<content id="6556001" includeTime="2023-12-08T14:00:05" entryType="1" hash="4779B2A2066AC8DC5097FB0C1C77260F" ts="2024-03-13T12:20:04">
  <decision date="2023-12-06" number="2023-12-06-1728-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://d0.lovertab.net/products/dzhenerik-sialis-5-mg]]></url>
  <domain><![CDATA[d0.lovertab.net]]></domain>
- <ip>94.23.74.120</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6556003" includeTime="2023-12-08T14:00:05" entryType="1" hash="1C76B86BEBCB7758C5B388633B71E973" ts="2023-12-08T14:00:05">
  <decision date="2023-12-06" number="2023-12-06-1448-ПЛ" org="Росздравнадзор"/>
@@ -8227,11 +8187,11 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="6556189" includeTime="2023-12-08T14:00:05" entryType="1" hash="275FF61316A868EF11783F03EDDFE43D" ts="2023-12-08T14:00:05">
+<content id="6556189" includeTime="2023-12-08T14:00:05" entryType="1" hash="B4EF59EEF0CF1027E36DDF8C4423F4BF" ts="2024-03-13T12:20:04">
  <decision date="2023-12-06" number="2023-12-06-1713-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://d0.lovertab.net/products/dzhenerik-sialis-10-mg]]></url>
  <domain><![CDATA[d0.lovertab.net]]></domain>
- <ip>94.23.74.120</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6556198" includeTime="2023-12-07T14:05:03" entryType="1" hash="321F1E44CF6FFDD461BBA5D9F0E13A1D" ts="2023-12-07T14:05:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -8631,11 +8591,11 @@
  <domain><![CDATA[www.eva-cosmetics.club]]></domain>
  <ip>185.104.45.199</ip>
 </content>
-<content id="6556284" includeTime="2023-12-08T14:00:05" entryType="1" hash="D0DBF80CDE261691E1F5B7FC56982ED9" ts="2023-12-08T14:00:05">
+<content id="6556284" includeTime="2023-12-08T14:00:05" entryType="1" hash="B24894193DB90352C77F2B9B2E2663F7" ts="2024-03-13T12:20:04">
  <decision date="2023-12-06" number="2023-12-06-1665-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://d0.lovertab.net/products/dzhenerik-viagra-soft]]></url>
  <domain><![CDATA[d0.lovertab.net]]></domain>
- <ip>94.23.74.120</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="6556292" includeTime="2023-12-07T14:05:03" entryType="1" hash="C3488BF2495A066DCB5E1F51BC02A797" blockType="domain" ts="2023-12-07T14:05:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -9331,10 +9291,10 @@
  <domain><![CDATA[*.1wmdto.xyz]]></domain>
  <ip>190.115.24.78</ip>
 </content>
-<content id="6556535" includeTime="2023-12-07T22:20:04" entryType="1" hash="88683AA0936679AAFF0A082DFED701F6" blockType="domain-mask" ts="2023-12-07T22:20:04">
+<content id="6556535" includeTime="2023-12-07T22:20:04" entryType="1" hash="2BF85D1AF02652A2A080D7233FF5C6A9" blockType="domain-mask" ts="2024-03-14T16:40:03">
  <decision date="2023-12-07" number="2322521-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.icufilm.xyz]]></domain>
- <ip>188.114.97.3</ip>
+ <ip>104.18.47.121</ip>
 </content>
 <content id="6556538" includeTime="2023-12-07T22:20:04" entryType="1" hash="BB684EEDFB29DAB3951D866C3B371DCB" blockType="domain-mask" ts="2023-12-07T22:20:04">
  <decision date="2023-12-06" number="2-6-14/2023-11-06-770-АИ" org="ФНС"/>

@@ -3152,14 +3152,14 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2d25</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:d0c4</ipv6>
 </content>
-<content id="6562566" includeTime="2023-12-08T15:40:04" entryType="2" hash="41B4572CE7DC534736B1137216D86C70" ts="2023-12-08T15:40:04">
+<content id="6562566" includeTime="2023-12-08T15:40:04" entryType="2" hash="E0477D420A5695C8AFA0C418A9D02DF3" ts="2024-03-13T18:25:03">
  <decision date="2023-11-10" number="определение о предварительном обеспечении по заявлению № 2И-14736/2023" org="Мосгорсуд"/>
  <url><![CDATA[https://8.seriez.pro/otechestvennye/34792-jarche-zvezd.html]]></url>
  <domain><![CDATA[8.seriez.pro]]></domain>
- <ip>104.21.44.76</ip>
- <ip>172.67.197.75</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2c4c</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c54b</ipv6>
+ <ip>104.21.18.175</ip>
+ <ip>172.67.182.208</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b6d0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:12af</ipv6>
 </content>
 <content id="6562567" includeTime="2023-12-08T15:40:04" entryType="2" hash="84F5D6FB9129CABBBD44B27CB13810BA" ts="2023-12-08T15:40:04">
  <decision date="2023-10-05" number="определение о предварительном обеспечении по заявлению № 2И-12604/2023" org="Мосгорсуд"/>
@@ -5520,9 +5520,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6563193" includeTime="2023-12-13T14:35:04" entryType="1" hash="07A647B20870100F1E07251E73480C1D" blockType="domain-mask" ts="2023-12-13T14:35:04">
+<content id="6563193" includeTime="2023-12-13T14:35:04" entryType="1" hash="9D1A99DC84F83D5688A0EB04ABFD01D2" blockType="domain-mask" ts="2024-03-12T15:50:02">
  <decision date="2023-12-08" number="2324514-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.ssoap2day.to]]></domain>
+ <ip>104.31.16.123</ip>
+ <ip>104.31.16.6</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -5962,6 +5964,11 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6563330" includeTime="2024-03-12T22:35:03" entryType="1" hash="42A0AE6FA04A980BB88FB0B3D37897A4" blockType="domain" ts="2024-03-12T22:35:03">
+ <decision date="2023-12-06" number="2а-5868/2023" org="Центральный районный суд г. Воронежа - Воронежская область"/>
+ <domain><![CDATA[voronezh.lotos-clinica.ru]]></domain>
+ <ip>45.130.41.71</ip>
 </content>
 <content id="6563334" includeTime="2023-12-08T22:45:03" entryType="1" hash="8A45FA6EBE101FFF42ADC21C902F72A1" blockType="domain-mask" ts="2023-12-08T22:45:03">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

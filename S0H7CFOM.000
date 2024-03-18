@@ -429,11 +429,15 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:80f4</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:015a</ipv6>
 </content>
-<content id="6701873" includeTime="2024-02-02T13:45:02" entryType="1" hash="45965FE2534E6BC8DE292B17AA6568CA" blockType="domain-mask" ts="2024-02-02T13:45:02">
+<content id="6701873" includeTime="2024-02-02T13:45:02" entryType="1" hash="4FFE082C365BDE490CB1BAC6E3FAC9E5" blockType="domain-mask" ts="2024-03-12T14:40:04">
  <decision date="2024-02-01" number="2387043-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lordfilm.is]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ip>188.114.98.234</ip>
  <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
@@ -915,15 +919,6 @@
 <content id="6701987" includeTime="2024-02-01T22:25:01" entryType="1" hash="12BC55C885B89483C8F01050A5C41153" blockType="domain-mask" ts="2024-02-01T22:25:01">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.sdcoopergolf.com]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6701988" includeTime="2024-02-05T22:55:02" entryType="1" hash="263BF1B2F31489F6373A4C19D7ED2686" ts="2024-02-05T22:55:02">
- <decision date="2024-01-31" number="2024-01-31-2286-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://moskva5.sofosbuvirrussia.com/catalog/sofosbuvir-i-daklatasvir/velakast/]]></url>
- <domain><![CDATA[moskva5.sofosbuvirrussia.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -5578,10 +5573,10 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:32ee</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:d5db</ipv6>
 </content>
-<content id="6703075" includeTime="2024-02-02T22:50:03" entryType="1" hash="1A11541308EB87A2B9F0A787BDAB7F8A" blockType="domain-mask" ts="2024-02-02T22:50:03">
+<content id="6703075" includeTime="2024-02-02T22:50:03" entryType="1" hash="DC41502800C7F8544413F35953F48746" blockType="domain-mask" ts="2024-03-14T15:10:03">
  <decision date="2024-02-02" number="2388435-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.zorgfilm2.org]]></domain>
- <ip>188.114.96.3</ip>
+ <ip>104.28.6.67</ip>
 </content>
 <content id="6703076" includeTime="2024-02-05T14:25:01" entryType="1" hash="5E27EEDF34BBE33FECA72C15F34608EF" ts="2024-02-05T14:25:01">
  <decision date="2024-01-18" number="2а-660/2024" org="Сарапульский городской суд - Удмуртская Республика"/>
@@ -5707,10 +5702,10 @@
  <domain><![CDATA[*.space-1xbet406.ru]]></domain>
  <ip>185.196.8.72</ip>
 </content>
-<content id="6703108" includeTime="2024-02-02T22:50:03" entryType="1" hash="0023231C109D37BEEF7DD2F14305DC80" blockType="domain-mask" ts="2024-02-02T22:50:03">
+<content id="6703108" includeTime="2024-02-02T22:50:03" entryType="1" hash="349E25BDDAF64A12123244B05A4A7C06" blockType="domain-mask" ts="2024-03-14T17:25:03">
  <decision date="2024-02-02" number="2388401-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.720lostfilm-hd.site]]></domain>
- <ip>188.114.97.3</ip>
+ <ip>104.18.46.121</ip>
 </content>
 <content id="6703109" includeTime="2024-02-02T22:50:03" entryType="1" hash="0BE8B860751283204087A66913287BDD" blockType="domain-mask" ts="2024-02-02T22:50:03">
  <decision date="2024-02-01" number="2-6-14/2024-01-27-4484-АИ" org="ФНС"/>
@@ -5759,15 +5754,6 @@
  <ip>172.67.205.242</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:cdf2</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:16ab</ipv6>
-</content>
-<content id="6703120" includeTime="2024-03-01T17:30:03" entryType="1" hash="3130202C50A337875458C9C6903CFAA5" ts="2024-03-01T17:30:03">
- <decision date="2024-02-01" number="2а-76/2024" org="Устьянский районный суд - Архангельская область"/>
- <url><![CDATA[https://benbestguns.net/]]></url>
- <domain><![CDATA[benbestguns.net]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6703123" includeTime="2024-02-02T22:50:03" entryType="1" hash="1CA3D0D72657F38C8E7B377CFA7F1815" ts="2024-02-02T22:50:03">
  <decision date="2024-02-01" number="2а-106/2024 ~ М-887/2023" org="Чернышевский районный суд - Забайкальский край"/>
@@ -6279,10 +6265,10 @@
  <ip>104.21.59.185</ip>
  <ip>172.67.182.111</ip>
 </content>
-<content id="6703296" includeTime="2024-02-02T22:50:03" entryType="1" hash="BF648E538E9F0ECC4AA77C8907971753" blockType="domain-mask" ts="2024-02-02T22:50:03">
+<content id="6703296" includeTime="2024-02-02T22:50:03" entryType="1" hash="834F6CD40BF8303CA5CBBD0824FA8E12" blockType="domain-mask" ts="2024-03-14T15:10:03">
  <decision date="2024-02-02" number="2388433-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.zetflix-d1.xyz]]></domain>
- <ip>188.114.96.3</ip>
+ <ip>104.28.6.67</ip>
 </content>
 <content id="6703299" includeTime="2024-02-05T10:15:03" entryType="1" hash="E36063DFB96A146D6FC60161707A1024" ts="2024-02-05T10:15:03">
  <decision date="2023-12-12" number="2а-10927/2023" org="Невский районный суд - Санкт-Петербург"/>
@@ -6305,6 +6291,15 @@
  <domain><![CDATA[mamashka.club]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+</content>
+<content id="6703302" includeTime="2024-03-18T16:25:02" entryType="1" hash="E78A838098D41FD2F527C376C482733D" ts="2024-03-18T16:25:02">
+ <decision date="2024-01-18" number="2а-690/2024" org="Сарапульский городской суд - Удмуртская Республика"/>
+ <url><![CDATA[https://legalizm.tech/threads/obuchu-delat-obnal-deneg-s-kart.10975]]></url>
+ <domain><![CDATA[legalizm.tech]]></domain>
+ <ip>104.21.45.202</ip>
+ <ip>172.67.218.187</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:2dca</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:dabb</ipv6>
 </content>
 <content id="6703309" includeTime="2024-02-02T22:50:03" entryType="1" hash="C51F210AC846A7674F866E498032AB0D" blockType="domain-mask" ts="2024-02-02T22:50:03">
  <decision date="2024-02-01" number="2-6-14/2024-01-27-4873-АИ" org="ФНС"/>
@@ -6705,29 +6700,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6703375" includeTime="2024-02-02T16:25:04" entryType="2" hash="80097124D1D05B0586A2CFA5BB7B48BC" ts="2024-02-02T16:25:04">
- <decision date="2024-01-23" number="определение о предварительном обеспечении по заявлению № 2И-1383/2024" org="Мосгорсуд"/>
- <url><![CDATA[https://ru.annas-archive.se/md5/3811d388adabaaaced730eec10d18888]]></url>
- <domain><![CDATA[ru.annas-archive.se]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6704857" includeTime="2024-02-27T16:45:05" entryType="2" hash="8F97640129C1B32264B44E8D4BCABC98" ts="2024-03-01T15:35:02">
  <decision date="2024-01-24" number="определение о предварительном обеспечении по заявлению № 2И-1492/2024" org="Мосгорсуд"/>
  <url><![CDATA[http://ubiniti.serialgo.online/140-ivanko-m-08-01-2024.html]]></url>
  <domain><![CDATA[ubiniti.serialgo.online]]></domain>
  <ip>45.67.229.3</ip>
-</content>
-<content id="6705013" includeTime="2024-02-02T16:25:04" entryType="2" hash="8291BFD820399B0C69391E4528473777" ts="2024-02-02T16:25:04">
- <decision date="2024-01-23" number="определение о предварительном обеспечении по заявлению № 2И-1383/2024" org="Мосгорсуд"/>
- <url><![CDATA[https://ru.annas-archive.gs/md5/3811d388adabaaaced730eec10d18888]]></url>
- <domain><![CDATA[ru.annas-archive.gs]]></domain>
- <ip>104.21.27.97</ip>
- <ip>172.67.169.27</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:a91b</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:1b61</ipv6>
 </content>
 <content id="6705014" includeTime="2024-02-02T16:25:04" entryType="2" hash="1DA93C5D1ACA9A752AD6C62FFDEE5E77" ts="2024-02-02T16:25:04">
  <decision date="2023-12-07" number="определение о предварительном обеспечении по заявлению № 2И-16908/2023" org="Мосгорсуд"/>
@@ -7250,14 +7227,14 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:40bf</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:bb61</ipv6>
 </content>
-<content id="6705083" includeTime="2024-02-02T16:25:04" entryType="2" hash="BF846FEAAF9E98596027AEA76C242607" ts="2024-02-02T16:25:04">
+<content id="6705083" includeTime="2024-02-02T16:25:04" entryType="2" hash="93AD8A76742EB0FF326D4A7C9349953C" ts="2024-03-13T18:25:03">
  <decision date="2023-02-20" number="определение о предварительном обеспечении по заявлению № 2И-1555/2023" org="Мосгорсуд"/>
  <url><![CDATA[https://12.seriez.pro/boeviki/17064-snajper-2-tungus.html]]></url>
  <domain><![CDATA[12.seriez.pro]]></domain>
- <ip>104.21.44.76</ip>
- <ip>172.67.197.75</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2c4c</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c54b</ipv6>
+ <ip>104.21.18.175</ip>
+ <ip>172.67.182.208</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b6d0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:12af</ipv6>
 </content>
 <content id="6705084" includeTime="2024-02-02T16:25:04" entryType="2" hash="FBECE7E3DAC11CCBE05A2463F265AF54" ts="2024-02-02T16:25:04">
  <decision date="2023-02-20" number="определение о предварительном обеспечении по заявлению № 2И-1555/2023" org="Мосгорсуд"/>
@@ -7358,13 +7335,12 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6705095" includeTime="2024-02-02T16:25:04" entryType="2" hash="4F29F28547A2829E87CD5B6CE68B96A7" ts="2024-02-02T16:25:04">
+<content id="6705095" includeTime="2024-02-02T16:25:04" entryType="2" hash="91DBBCB57435ABA9C71DC50B075AAD16" ts="2024-03-14T18:25:03">
  <decision date="2024-01-24" number="определение о предварительном обеспечении по заявлению № 2И-1510/2024" org="Мосгорсуд"/>
  <url><![CDATA[https://tutkino.ac/seriali-2023-online/11744-devushki-s-makarovym.html]]></url>
  <domain><![CDATA[tutkino.ac]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
- <ip>188.114.97.3</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>

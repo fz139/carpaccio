@@ -1198,10 +1198,13 @@
  <domain><![CDATA[torgtabak.ru]]></domain>
  <ip>185.43.222.81</ip>
 </content>
-<content id="5950711" includeTime="2023-05-24T22:15:21" entryType="1" hash="841AE933B8D1DAC65D284D472807ACC3" blockType="domain" ts="2023-05-24T22:15:21">
+<content id="5950711" includeTime="2023-05-24T22:15:21" entryType="1" hash="2A23BD0F658E0B17B36A57074A0BE87B" blockType="domain" ts="2024-03-14T14:40:03">
  <decision date="2023-05-12" number="2а-217/2023" org="Опочецкий районный суд - Псковская область"/>
  <domain><![CDATA[msk21.prostitutki.mobi]]></domain>
- <ip>195.201.178.12</ip>
+ <ip>104.21.6.40</ip>
+ <ip>172.67.154.207</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:0628</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:9acf</ipv6>
 </content>
 <content id="5950751" includeTime="2023-05-23T22:30:48" entryType="1" hash="6127F78F2389CE6F044B77DE128BC8E1" blockType="domain" ts="2023-05-23T22:30:48">
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1333,6 +1336,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="5951187" includeTime="2024-03-18T16:25:02" entryType="1" hash="8B8952C5899FEF9C4555A1263530511A" blockType="domain-mask" ts="2024-03-18T16:25:02">
+ <decision date="2023-05-16" number="2а-1-610/2023" org="Жуковский районный суд - Калужская область"/>
+ <domain><![CDATA[*.mydiplomzstore.com]]></domain>
+ <ip>5.61.58.119</ip>
+</content>
 <content id="5951188" includeTime="2023-05-24T22:15:25" entryType="1" hash="5E480E90C0B02585564AB3E494477132" ts="2024-02-20T14:55:03">
  <decision date="2020-07-21" number="2020-07-21-405" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://pride-tomsk.ru/omg/omg5j4yrr4mjdv3h5c5xfvxtqqs2in7smi65mjps7wvkmqmtqd-onion-oficialnyj-sajt.html]]></url>
@@ -1426,14 +1434,6 @@
  <ip>172.67.166.36</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:0b8a</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a624</ipv6>
-</content>
-<content id="5951369" includeTime="2023-05-24T22:15:19" entryType="1" hash="2C3F2356BB72E81C28961387B1C0F5BA" blockType="domain" ts="2023-05-24T22:15:19">
- <decision date="2023-04-06" number="2А-0521/2023" org="Мещанский районный суд - Москва"/>
- <domain><![CDATA[ru.diplomy-market.org]]></domain>
- <ip>104.21.21.166</ip>
- <ip>172.67.199.160</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c7a0</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:15a6</ipv6>
 </content>
 <content id="5951381" includeTime="2023-05-24T22:15:22" entryType="1" hash="49F09B663116C48C9CD42E430461AEE9" ts="2023-05-24T22:15:22">
  <decision date="2023-05-12" number="2а-219/2023" org="Опочецкий районный суд - Псковская область"/>
