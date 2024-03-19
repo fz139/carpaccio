@@ -3940,14 +3940,6 @@
  <domain><![CDATA[slotscasinos.club]]></domain>
  <ip>203.34.28.140</ip>
 </content>
-<content id="5708711" includeTime="2023-04-10T21:34:51" entryType="1" hash="6134E6F2A1DC1F521DA167F2BD07D183" blockType="domain" ts="2023-04-10T21:34:51">
- <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[vk-5.at]]></domain>
- <ip>104.21.79.176</ip>
- <ip>172.67.146.213</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:92d5</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:4fb0</ipv6>
-</content>
 <content id="5708714" includeTime="2023-04-10T21:34:47" entryType="1" hash="964BC87006DCD3C7377D0EADE45DF64D" blockType="domain-mask" ts="2023-12-25T23:30:05">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.amphetamine-apvp-mef.online]]></domain>
@@ -4285,14 +4277,6 @@
  <ip>172.67.142.123</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5f08</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:8e7b</ipv6>
-</content>
-<content id="5708952" includeTime="2023-04-10T21:34:52" entryType="1" hash="7470B93B039E758A98E8FEE1318DDB69" blockType="domain" ts="2023-04-10T21:34:52">
- <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[vk-4.at]]></domain>
- <ip>104.21.65.36</ip>
- <ip>172.67.188.193</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:bcc1</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:4124</ipv6>
 </content>
 <content id="5708954" includeTime="2023-04-07T21:31:20" entryType="1" hash="DEF770351D46E09032B258586A6C644A" blockType="domain-mask" ts="2023-04-07T21:31:20">
  <decision date="2023-04-03" number="2-6-14/2023-02-21-73-АИ" org="ФНС"/>
@@ -5403,15 +5387,6 @@
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c782</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="5709498" includeTime="2023-04-10T13:47:00" entryType="1" hash="B4D23C228C45647835F34F9FDAC07256" ts="2023-04-10T13:47:00">
- <decision date="2023-04-07" number="2023-04-04-2956-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://cheljabinsk.vipsteroids.net/shop/]]></url>
- <domain><![CDATA[cheljabinsk.vipsteroids.net]]></domain>
- <ip>104.21.84.209</ip>
- <ip>172.67.197.36</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:c524</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:54d1</ipv6>
 </content>
 <content id="5709499" includeTime="2023-04-10T13:46:59" entryType="1" hash="3CE7074320EC4E317CD0EC51D7EEE138" ts="2023-04-10T13:46:59">
  <decision date="2023-04-07" number="2042072-URL-on" org="Роскомнадзор"/>
@@ -7093,6 +7068,12 @@
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c782</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="5710061" includeTime="2024-03-19T11:00:03" entryType="1" hash="21AD4AF9470D7F2332E8D44FD5C39BE0" ts="2024-03-19T11:00:03">
+ <decision date="2023-03-02" number="2а-1195/2023 ~ М-220/2023" org="Советский районный суд г. Астрахани - Астраханская область"/>
+ <url><![CDATA[https://tabachkau-doma.com]]></url>
+ <domain><![CDATA[tabachkau-doma.com]]></domain>
+ <ip>109.71.254.20</ip>
 </content>
 <content id="5710063" includeTime="2023-04-10T13:46:59" entryType="1" hash="BEF91E6B14416E3844718F6BC2DD1654" blockType="domain" ts="2023-04-10T13:46:59">
  <decision date="2023-04-07" number="2а-328/2023 ~ М-155/2023" org="Увельский районный суд - Челябинская область"/>
