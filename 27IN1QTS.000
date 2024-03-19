@@ -1157,14 +1157,14 @@
  <domain><![CDATA[тишинский-бульвар.рф]]></domain>
  <ip>162.19.232.160</ip>
 </content>
-<content id="6858516" includeTime="2024-03-19T13:00:04" urgencyType="1" entryType="3" hash="D84FF8D72A5908530B13847189452966" blockType="domain" ts="2024-03-19T13:00:04">
+<content id="6858516" includeTime="2024-03-19T13:00:04" urgencyType="1" entryType="3" hash="218A20FEB56119DE43273BA6D200C70C" blockType="domain-mask" ts="2024-03-19T18:00:03">
  <decision date="2024-03-12" number="" org=""/>
- <domain><![CDATA[moscow-post.su]]></domain>
+ <domain><![CDATA[*.moscow-post.su]]></domain>
  <ip>185.71.67.60</ip>
 </content>
-<content id="6858520" includeTime="2024-03-19T13:00:04" urgencyType="1" entryType="3" hash="0B6DFA296A051B7986C731F1361DF01C" blockType="domain" ts="2024-03-19T13:00:04">
+<content id="6858520" includeTime="2024-03-19T13:00:04" urgencyType="1" entryType="3" hash="F2FBCDA126F9205A9349027662DA6B14" blockType="domain-mask" ts="2024-03-19T18:00:03">
  <decision date="2024-03-12" number="" org=""/>
- <domain><![CDATA[compromat.group]]></domain>
+ <domain><![CDATA[*.compromat.group]]></domain>
  <ip>185.114.72.143</ip>
 </content>
 <content id="6858527" includeTime="2024-03-19T13:20:04" entryType="1" hash="E9DCD463FB35F348A4BF2C5A47B7FC57" ts="2024-03-19T13:20:04">
@@ -1799,6 +1799,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6859225" includeTime="2024-03-19T18:00:03" urgencyType="1" entryType="3" hash="57F51525BDDA86275BE8A5511CF4A6B5" blockType="domain" ts="2024-03-19T18:00:03">
+ <decision date="2024-03-11" number="" org=""/>
+ <domain><![CDATA[xn--mtodogarima-bbb.online]]></domain>
+ <ip>149.56.20.22</ip>
+</content>
 <content id="6859229" includeTime="2024-03-19T12:35:01" urgencyType="1" entryType="3" hash="3F1825785BDBF5633434FA772EF9580A" ts="2024-03-19T12:35:01">
  <decision date="2024-03-09" number="" org=""/>
  <url><![CDATA[https://battlensk.ru/stati/kupit-prava-na-pogruzchik]]></url>
@@ -2023,20 +2028,25 @@
  <ipv6>2a02:26f0:9500:0580:0000:0000:0000:131b</ipv6>
  <ipv6>2a02:26f0:9500:0582:0000:0000:0000:131b</ipv6>
 </content>
-<content id="6859437" includeTime="2024-03-19T14:25:03" urgencyType="1" entryType="3" hash="B41EE4EC5F3AD515DB87AE911B941D3B" blockType="domain" ts="2024-03-19T14:25:03">
+<content id="6859437" includeTime="2024-03-19T14:25:03" urgencyType="1" entryType="3" hash="D50BAC4ABE991716C9DFE7EF8D990D60" blockType="domain-mask" ts="2024-03-19T18:00:03">
  <decision date="2024-03-12" number="" org=""/>
- <domain><![CDATA[angarsk24.com]]></domain>
+ <domain><![CDATA[*.angarsk24.com]]></domain>
  <ip>5.63.158.160</ip>
 </content>
-<content id="6859449" includeTime="2024-03-19T17:30:03" urgencyType="1" entryType="3" hash="B0F7CDC8EA3B570157C5174984970FF3" blockType="domain" ts="2024-03-19T17:30:03">
+<content id="6859449" includeTime="2024-03-19T17:30:03" urgencyType="1" entryType="3" hash="C77F03D07C3D8CAF7A219F4080448A7A" blockType="domain-mask" ts="2024-03-19T18:00:03">
  <decision date="2024-03-12" number="" org=""/>
- <domain><![CDATA[moscow-post.com]]></domain>
+ <domain><![CDATA[*.moscow-post.com]]></domain>
  <ip>193.233.63.132</ip>
 </content>
-<content id="6859450" includeTime="2024-03-19T17:30:03" urgencyType="1" entryType="3" hash="5BC8E46C0A6C8992D1317F00BA8B0EC1" blockType="domain" ts="2024-03-19T17:30:03">
+<content id="6859450" includeTime="2024-03-19T17:30:03" urgencyType="1" entryType="3" hash="C716BB7C162FB03F3461FA3BF833F084" blockType="domain-mask" ts="2024-03-19T18:00:03">
  <decision date="2024-03-12" number="" org=""/>
- <domain><![CDATA[msk-post.com]]></domain>
+ <domain><![CDATA[*.msk-post.com]]></domain>
  <ip>91.228.225.55</ip>
+</content>
+<content id="6859554" includeTime="2024-03-19T18:00:03" urgencyType="1" entryType="3" hash="B8F44636E2E894733B6AA5F0C886BF31" blockType="domain-mask" ts="2024-03-19T18:00:03">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[*.kinotort.top]]></domain>
+ <ip>172.67.208.177</ip>
 </content>
 <content id="6859564" includeTime="2024-03-19T17:30:03" entryType="2" hash="C67EFCBB8BAD110E5761CC05EB05C4AC" ts="2024-03-19T17:30:03">
  <decision date="2024-01-11" number="определение о предварительном обеспечении по заявлению № 2И-0295/2024" org="Мосгорсуд"/>
