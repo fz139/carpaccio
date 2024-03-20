@@ -3345,9 +3345,9 @@
  <ip>104.21.6.44</ip>
  <ip>172.67.154.232</ip>
 </content>
-<content id="5265114" includeTime="2023-01-09T13:49:41" entryType="1" hash="CB1CAB312F1E0B130BC129C8D6774132" blockType="domain" ts="2024-03-20T15:30:03">
+<content id="5265114" includeTime="2023-01-09T13:49:41" entryType="1" hash="C64386492FDC10B532EC77BFF71DF1CE" blockType="domain-mask" ts="2024-03-20T22:45:02">
  <decision date="2022-12-29" number="2022-12-28-956-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[farmavik24.com]]></domain>
+ <domain><![CDATA[*.farmavik24.com]]></domain>
  <ip>104.21.27.251</ip>
  <ip>172.67.143.209</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:8fd1</ipv6>
