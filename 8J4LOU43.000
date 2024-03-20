@@ -3651,6 +3651,14 @@
  <ip>185.237.218.10</ip>
  <ip>5.45.114.146</ip>
 </content>
+<content id="3308236" includeTime="2024-03-20T14:30:03" entryType="1" hash="6D04438CC9464EDAB5AA45E7A49B22F9" blockType="domain-mask" ts="2024-03-20T14:30:03">
+ <decision date="2021-05-25" number="2021-05-25-3079" org="МВД"/>
+ <domain><![CDATA[*.semyanych.link]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="3308251" includeTime="2021-05-28T22:49:46" entryType="1" hash="B7DF7268A359DC6694C017DAFA48A9D7" ts="2023-07-10T13:28:00">
  <decision date="2021-05-26" number="1314871-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://comixzilla.com/img/2016/09/slappy94.jpg]]></url>
