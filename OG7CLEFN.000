@@ -3833,6 +3833,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6854201" includeTime="2024-03-22T22:20:03" entryType="1" hash="074CA3F578D5DE8BADFC61B18010B4B9" blockType="domain-mask" ts="2024-03-22T22:20:03">
+ <decision date="2024-03-15" number="2024-03-15-1707-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[*.metypred-apteka.ru]]></domain>
+ <ip>104.21.47.12</ip>
+ <ip>172.67.169.176</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:a9b0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:2f0c</ipv6>
+</content>
 <content id="6854205" includeTime="2024-03-18T13:40:02" entryType="1" hash="159A313657E85B1A671E90324F8A52C1" blockType="domain" ts="2024-03-18T13:40:02">
  <decision date="2024-03-15" number="2447633-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[a.gaysmska2.xyz]]></domain>
