@@ -1384,9 +1384,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
 </content>
-<content id="4151189" includeTime="2022-03-16T18:45:02" urgencyType="1" entryType="3" hash="641F4630830D86428A98E8BE0165FDF6" blockType="domain" ts="2022-03-16T18:45:02">
+<content id="4151189" includeTime="2022-03-16T18:45:02" urgencyType="1" entryType="3" hash="49A2DB53404CAA1C7A0565E27EBA1697" blockType="domain-mask" ts="2024-03-22T16:05:02">
  <decision date="2022-02-24" number="" org=""/>
- <domain><![CDATA[boxkino.ru]]></domain>
+ <domain><![CDATA[*.boxkino.ru]]></domain>
  <ip>188.114.96.2</ip>
  <ip>188.114.97.2</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
