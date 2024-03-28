@@ -1272,9 +1272,9 @@
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:8cf4</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1b1e</ipv6>
 </content>
-<content id="3952369" includeTime="2022-01-18T13:59:28" entryType="1" hash="A3C650516F3C67DE17E1CD56606CD2B2" blockType="domain" ts="2024-03-28T19:15:03">
+<content id="3952369" includeTime="2022-01-18T13:59:28" entryType="1" hash="5B6BB72CA8A6A3CC348D6BFEBC24094D" blockType="domain-mask" ts="2024-03-28T22:55:02">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[hdboxy.com]]></domain>
+ <domain><![CDATA[*.hdboxy.com]]></domain>
  <ip>104.21.52.136</ip>
  <ip>172.67.199.180</ip>
 </content>
