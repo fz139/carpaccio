@@ -13427,9 +13427,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:5845</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:ada4</ipv6>
 </content>
-<content id="3664038" includeTime="2021-09-29T14:04:17" entryType="1" hash="F67EE2F64F4770142F3B603CDD26DADF" blockType="domain" ts="2024-03-28T11:55:02">
+<content id="3664038" includeTime="2021-09-29T14:04:17" entryType="1" hash="2DB4AFC250536C8697AF714EC2F03B92" blockType="domain-mask" ts="2024-03-28T13:25:03">
  <decision date="2021-09-23" number="2021-09-22-3967-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[evromed-pro.com]]></domain>
+ <domain><![CDATA[*.evromed-pro.com]]></domain>
  <ip>104.21.63.77</ip>
  <ip>172.67.170.71</ip>
  <ip>188.114.96.1</ip>
