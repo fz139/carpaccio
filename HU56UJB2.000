@@ -12978,13 +12978,17 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:4378</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:dde4</ipv6>
 </content>
-<content id="5062173" includeTime="2022-11-10T22:16:51" entryType="1" hash="46619C844188F6FA017138645A0F9492" blockType="domain" ts="2022-11-10T22:16:51">
+<content id="5062173" includeTime="2022-11-10T22:16:51" entryType="1" hash="38634E3CDEDD1FB830D82155C22F94F5" blockType="domain-mask" ts="2024-03-29T13:20:04">
  <decision date="2022-08-10" number="2а-5985/2022" org="Центральный районный суд г. Челябинска - Челябинская область"/>
- <domain><![CDATA[prostitutkigo.com]]></domain>
+ <domain><![CDATA[*.prostitutkigo.com]]></domain>
  <ip>104.21.85.38</ip>
  <ip>172.67.201.229</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:5526</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c9e5</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="5062180" includeTime="2022-11-10T22:16:56" entryType="1" hash="7FE61E3FBC4EA522E8D38BBF1ECD426F" blockType="domain" ts="2022-11-10T22:16:56">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
