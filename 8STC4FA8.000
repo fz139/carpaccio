@@ -1498,15 +1498,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d664</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:561e</ipv6>
 </content>
-<content id="6856350" includeTime="2024-03-19T22:45:03" entryType="1" hash="90AA752C45F9AF68F733665525D3016C" ts="2024-03-19T22:45:03">
- <decision date="2024-03-18" number="2449036-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://camsnp.st/showthread.php?pid=2097871#pid2097871]]></url>
- <domain><![CDATA[camsnp.st]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6856361" includeTime="2024-03-19T22:45:03" entryType="1" hash="69E9AEC4AC5654E8BAA7F2C4FE094E96" blockType="domain-mask" ts="2024-03-19T22:45:03">
  <decision date="2024-03-13" number="2024-03-12-5350" org="МВД"/>
  <domain><![CDATA[*.sovoc.okinawa]]></domain>
@@ -2593,6 +2584,12 @@
  <domain><![CDATA[abd.agayz.name]]></domain>
  <ip>37.59.80.70</ip>
 </content>
+<content id="6857533" includeTime="2024-04-02T14:25:03" entryType="1" hash="3976CD7B41D58E044EEB581BBEA7F86D" ts="2024-04-02T14:25:03">
+ <decision date="2024-03-07" number="2а-402/2024" org="Измайловский районный суд - Москва"/>
+ <url><![CDATA[https://sim-tarif.ru/?ysclid=lrj127aihl427097252]]></url>
+ <domain><![CDATA[sim-tarif.ru]]></domain>
+ <ip>91.228.152.144</ip>
+</content>
 <content id="6857534" includeTime="2024-03-19T00:05:03" entryType="1" hash="399C37D7C0005660A235240FEA7CE8E0" blockType="domain-mask" ts="2024-03-19T00:05:03">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.joycasinozerkalo1-win.win]]></domain>
@@ -2933,15 +2930,6 @@
  <domain><![CDATA[*.starda-casino-star.com]]></domain>
  <ip>104.21.29.152</ip>
  <ip>172.67.149.106</ip>
-</content>
-<content id="6857643" includeTime="2024-03-20T14:30:03" entryType="1" hash="FA630FF8429050628B9F9C2DD6528BE6" ts="2024-03-20T14:30:03">
- <decision date="2024-03-18" number="2449802-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://camsnp.st/showthread.php?tid=1533&page=54]]></url>
- <domain><![CDATA[camsnp.st]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6857650" includeTime="2024-03-19T00:05:03" entryType="1" hash="A413D781B4CDAC7305D20C025C7EC7A4" blockType="domain-mask" ts="2024-03-19T00:05:03">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
