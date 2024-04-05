@@ -2585,9 +2585,9 @@
  <ip>162.19.252.248</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:0b66</ipv6>
 </content>
-<content id="6913139" includeTime="2024-04-05T09:40:03" entryType="1" hash="1153CEC786BFCA85A6120ED39084F009" blockType="domain" ts="2024-04-05T09:40:03">
+<content id="6913139" includeTime="2024-04-05T09:40:03" entryType="1" hash="A636D8125C6594E190970BA653CBC362" blockType="domain-mask" ts="2024-04-05T13:10:04">
  <decision date="2024-04-04" number="2479618-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[kinotik.bond]]></domain>
+ <domain><![CDATA[*.kinotik.bond]]></domain>
  <ip>87.236.177.209</ip>
 </content>
 <content id="6913142" includeTime="2024-04-04T21:55:02" entryType="1" hash="A73DFDD80BFD22AC168B7AEECC21AB78" blockType="domain-mask" ts="2024-04-04T21:55:02">
@@ -3152,9 +3152,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6913363" includeTime="2024-04-05T09:40:03" entryType="1" hash="A52ED8AEA7FA85A1527C858233C3E418" blockType="domain" ts="2024-04-05T09:40:03">
+<content id="6913363" includeTime="2024-04-05T09:40:03" entryType="1" hash="131A50BA75310CA705745F69A2DAE66C" blockType="domain-mask" ts="2024-04-05T13:10:04">
  <decision date="2024-04-04" number="2479723-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[lordserials.fit]]></domain>
+ <domain><![CDATA[*.lordserials.fit]]></domain>
  <ip>104.24.24.58</ip>
  <ip>172.67.211.206</ip>
 </content>
