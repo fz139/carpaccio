@@ -3092,9 +3092,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6913263" includeTime="2024-04-05T13:25:02" entryType="1" hash="FAA903B0330232B72CBD764496DADD21" blockType="domain" ts="2024-04-05T13:25:02">
+<content id="6913263" includeTime="2024-04-05T13:25:02" entryType="1" hash="98D73A452D610494F2475193F4DF6D11" blockType="domain-mask" ts="2024-04-05T22:05:02">
  <decision date="2024-04-04" number="2479619-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[kinonadzor.digital]]></domain>
+ <domain><![CDATA[*.kinonadzor.digital]]></domain>
  <ip>195.123.219.8</ip>
 </content>
 <content id="6913266" includeTime="2024-04-04T21:55:02" entryType="1" hash="6083339E37D91D2EAC16D3D859EF0F67" blockType="domain-mask" ts="2024-04-04T21:55:02">

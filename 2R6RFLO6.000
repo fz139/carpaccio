@@ -2509,9 +2509,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6753421" includeTime="2024-02-26T13:40:04" entryType="1" hash="59D407D856BE084212E37D0219E46E63" blockType="domain" ts="2024-02-26T13:40:04">
+<content id="6753421" includeTime="2024-02-26T13:40:04" entryType="1" hash="E0B6B16B40649D42236EBD1BCE528F39" blockType="domain-mask" ts="2024-04-05T22:05:02">
  <decision date="2024-02-19" number="2411973-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[govoryashchayakniga.ru]]></domain>
+ <domain><![CDATA[*.govoryashchayakniga.ru]]></domain>
  <ip>104.21.95.30</ip>
  <ip>172.67.142.161</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:8ea1</ipv6>
