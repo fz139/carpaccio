@@ -1252,6 +1252,22 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6918295" includeTime="2024-04-08T22:00:01" urgencyType="1" entryType="3" hash="0389B120495E0C0481B9EFF2BABAF423" blockType="domain" ts="2024-04-08T22:00:01">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[dals0tfvg7kn2.cloudfront.net]]></domain>
+ <ip>18.165.142.140</ip>
+ <ip>18.165.142.163</ip>
+ <ip>18.165.142.65</ip>
+ <ip>18.165.142.75</ip>
+ <ipv6>2600:9000:25f7:0000:0009:de20:0f80:0021</ipv6>
+ <ipv6>2600:9000:25f7:0400:0009:de20:0f80:0021</ipv6>
+ <ipv6>2600:9000:25f7:4600:0009:de20:0f80:0021</ipv6>
+ <ipv6>2600:9000:25f7:6400:0009:de20:0f80:0021</ipv6>
+ <ipv6>2600:9000:25f7:6a00:0009:de20:0f80:0021</ipv6>
+ <ipv6>2600:9000:25f7:7200:0009:de20:0f80:0021</ipv6>
+ <ipv6>2600:9000:25f7:8600:0009:de20:0f80:0021</ipv6>
+ <ipv6>2600:9000:25f7:c800:0009:de20:0f80:0021</ipv6>
+</content>
 <content id="6918296" includeTime="2024-04-08T17:20:03" urgencyType="1" entryType="3" hash="467FB99B14A6DE3C5E27AA689812A5B5" blockType="domain" ts="2024-04-08T17:20:03">
  <decision date="2023-01-26" number="" org=""/>
  <domain><![CDATA[iiicvppg---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
@@ -3567,5 +3583,19 @@
  <ip>172.67.198.2</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c602</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3c9c</ipv6>
+</content>
+<content id="6921911" includeTime="2024-04-08T22:00:01" urgencyType="1" entryType="3" hash="08D61ECF6A422F1779C5508652A9060D" ts="2024-04-08T22:00:01">
+ <decision date="2024-02-29" number="" org=""/>
+ <url><![CDATA[https://media.gab.com/system/media_attachments/files/116/339/311/original/79c7e0d7a4bc97b2.jpeg]]></url>
+ <domain><![CDATA[media.gab.com]]></domain>
+ <ip>45.88.203.3</ip>
+ <ip>45.88.203.4</ip>
+ <ip>45.88.203.5</ip>
+</content>
+<content id="6921912" includeTime="2024-04-08T22:00:01" urgencyType="1" entryType="3" hash="9C179048E505B824A8FF974FB22C34E5" ts="2024-04-08T22:00:01">
+ <decision date="2024-04-03" number="" org=""/>
+ <url><![CDATA[http://ru.3dexport.com/russianwarship.html]]></url>
+ <domain><![CDATA[ru.3dexport.com]]></domain>
+ <ip>172.67.208.177</ip>
 </content>
 </reg:register>
