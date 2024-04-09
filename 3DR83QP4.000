@@ -3525,6 +3525,19 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6918289" includeTime="2024-04-09T23:15:02" urgencyType="1" entryType="3" hash="8BBAFCF54C4C0D0E9C35D1ED9233F318" blockType="domain" ts="2024-04-09T23:15:02">
+ <decision date="2024-04-05" number="" org=""/>
+ <domain><![CDATA[vivencia11.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="6918290" includeTime="2024-04-09T23:15:02" urgencyType="1" entryType="3" hash="7442A9AD5432018C00A4FC4575D1B242" blockType="domain-mask" ts="2024-04-09T23:15:02">
+ <decision date="2024-04-05" number="" org=""/>
+ <domain><![CDATA[*.prometheus.ngo]]></domain>
+ <ip>104.21.65.47</ip>
+ <ip>172.67.140.166</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:8ca6</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:412f</ipv6>
+</content>
 <content id="6918295" includeTime="2024-04-08T22:00:01" urgencyType="1" entryType="3" hash="0389B120495E0C0481B9EFF2BABAF423" blockType="domain" ts="2024-04-08T22:00:01">
  <decision date="2022-02-24" number="" org=""/>
  <domain><![CDATA[dals0tfvg7kn2.cloudfront.net]]></domain>
