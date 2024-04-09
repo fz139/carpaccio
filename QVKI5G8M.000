@@ -5670,10 +5670,13 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:bb2d</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:38a6</ipv6>
 </content>
-<content id="6743101" includeTime="2024-02-15T23:50:03" entryType="1" hash="6E5192634183AABC28C03AB81934C871" blockType="domain-mask" ts="2024-02-15T23:50:03">
+<content id="6743101" includeTime="2024-02-15T23:50:03" entryType="1" hash="D554F55E9ABDBE3448A34965A4C9A7EB" blockType="domain-mask" ts="2024-04-09T09:40:03">
  <decision date="2024-02-14" number="2-6-14/2024-02-11-3666-АИ" org="ФНС"/>
  <domain><![CDATA[*.1win25-zerkalo.ru]]></domain>
- <ip>185.132.132.251</ip>
+ <ip>104.21.0.121</ip>
+ <ip>172.67.150.241</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:0079</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:96f1</ipv6>
 </content>
 <content id="6743102" includeTime="2024-02-16T09:35:02" entryType="1" hash="0F26FE3418962E7CFB324C5689316118" blockType="domain" ts="2024-02-16T13:05:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -6282,15 +6285,6 @@
  <url><![CDATA[http://serials.pro/81-hrustalnyj.html]]></url>
  <domain><![CDATA[serials.pro]]></domain>
  <ip>188.119.112.26</ip>
-</content>
-<content id="6744384" includeTime="2024-04-08T16:55:03" entryType="2" hash="5659EB695EE0E32FF6DC53B85D472044" ts="2024-04-08T16:55:03">
- <decision date="2021-06-04" number="определение о предварительном обеспечении по заявлению № 2И-5141/2021" org="Мосгорсуд"/>
- <url><![CDATA[http://tv1.lordserik.cc/2676-hrustalnyj-am.html]]></url>
- <domain><![CDATA[tv1.lordserik.cc]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6744385" includeTime="2024-02-15T19:35:02" entryType="2" hash="06A4C604EA171D81155F68BC889E65C1" ts="2024-02-15T19:35:02">
  <decision date="2024-01-15" number="определение о предварительном обеспечении по заявлению № 2И-0630/2024" org="Мосгорсуд"/>
