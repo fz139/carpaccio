@@ -4276,6 +4276,22 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="286960" includeTime="2024-04-12T20:50:02" entryType="1" hash="DDFBEDCF64F8E7AD8EE10D21C5CAE786" blockType="domain" ts="2024-04-12T20:50:02">
+ <decision date="2015-07-20" number="2-5270-2015" org="Центральный районный суд г. Читы - Забайкальский край"/>
+ <domain><![CDATA[www.intimcity.in]]></domain>
+ <ip>104.21.54.178</ip>
+ <ip>172.67.168.200</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:36b2</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:a8c8</ipv6>
+</content>
+<content id="286961" includeTime="2024-04-12T20:50:02" entryType="1" hash="BB9D1159B45E4188CB9B7F446B308D01" blockType="domain-mask" ts="2024-04-12T20:50:02">
+ <decision date="2015-07-20" number="2-5270-2015" org="Центральный районный суд г. Читы - Забайкальский край"/>
+ <domain><![CDATA[*.intimcity.in]]></domain>
+ <ip>104.21.54.178</ip>
+ <ip>172.67.168.200</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:36b2</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:a8c8</ipv6>
+</content>
 <content id="287140" includeTime="2016-04-19T08:30:53" entryType="1" hash="EACCFA3835E9D69608A0D33BAD0256DD" blockType="domain" ts="2024-03-01T06:10:03">
  <decision date="2016-01-25" number="2а-419/2016" org="Ковровский городской суд Владимирской области"/>
  <domain><![CDATA[hiwager.com]]></domain>
