@@ -1346,9 +1346,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:bec1</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:1409</ipv6>
 </content>
-<content id="3880039" includeTime="2021-12-16T21:18:13" entryType="1" hash="04C402CC1AC1A082498E2280CED9D6B2" blockType="domain" ts="2021-12-16T21:18:13">
+<content id="3880039" includeTime="2021-12-16T21:18:13" entryType="1" hash="F34689C9E5542DC261E142574B671270" blockType="domain-mask" ts="2024-04-12T20:20:02">
  <decision date="2019-02-19" number="2-6-20/2019-02-12-1471-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[kinogo.vg]]></domain>
+ <domain><![CDATA[*.kinogo.vg]]></domain>
  <ip>104.21.96.28</ip>
  <ip>172.67.150.160</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:96a0</ipv6>

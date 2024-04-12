@@ -3080,10 +3080,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="2780912" includeTime="2020-12-08T09:48:52" entryType="1" hash="DFFB3C15E42D6A534BF34BC3E0CDBD98" ts="2024-04-12T15:50:04">
+<content id="2780912" includeTime="2020-12-08T09:48:52" entryType="1" hash="752AFB9596EA854AEBCE017D2F778EAE" blockType="domain-mask" ts="2024-04-12T20:20:02">
  <decision date="2020-12-01" number="2020-11-30-467-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://via-tab.ru/]]></url>
- <domain><![CDATA[via-tab.ru]]></domain>
+ <domain><![CDATA[*.via-tab.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
