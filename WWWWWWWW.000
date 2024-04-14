@@ -15244,6 +15244,27 @@
  <domain><![CDATA[s62.skladchik.biz]]></domain>
  <ip>193.233.63.2</ip>
 </content>
+<content id="6935987" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="F965B5A8787DCDAF56A9A4EE226059D9" blockType="domain-mask" ts="2024-04-14T11:25:03">
+ <decision date="2024-04-10" number="" org=""/>
+ <domain><![CDATA[*.bereg.io]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6935989" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="EEF609492905A2CC47AE3152A22491BF" blockType="domain" ts="2024-04-14T11:25:03">
+ <decision date="2024-04-10" number="" org=""/>
+ <domain><![CDATA[www.kritika.news]]></domain>
+ <ip>65.21.29.200</ip>
+</content>
+<content id="6935990" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="86F24016FDD1DD9B6D087108A5218696" blockType="domain-mask" ts="2024-04-14T11:25:03">
+ <decision date="2024-04-10" number="" org=""/>
+ <domain><![CDATA[*.yug.today]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6935991" includeTime="2024-04-12T19:00:03" urgencyType="1" entryType="3" hash="27947FF311A85C3C23F2E6A3398E42C1" blockType="domain" ts="2024-04-12T19:00:03">
  <decision date="2024-04-10" number="" org=""/>
  <domain><![CDATA[www.yktimes.ru]]></domain>
@@ -17434,6 +17455,19 @@
  <ip>34.249.200.254</ip>
  <ip>52.17.119.105</ip>
  <ip>63.35.51.142</ip>
+</content>
+<content id="6937948" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="A88AB602419C7B016AE07ABD361007A4" blockType="domain-mask" ts="2024-04-14T11:25:03">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[*.kinopush.xyz]]></domain>
+ <ip>45.88.106.46</ip>
+</content>
+<content id="6937949" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="68172697470AA40E67B999682C5D8CD8" blockType="domain-mask" ts="2024-04-14T11:25:03">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[*.downloadbro.fun]]></domain>
+ <ip>104.21.57.129</ip>
+ <ip>172.67.163.228</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3981</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:a3e4</ipv6>
 </content>
 <content id="6937952" includeTime="2024-04-12T20:50:02" entryType="1" hash="72DBF97566E15C2BACF8F3EBA3FDA782" blockType="domain-mask" ts="2024-04-12T20:50:02">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -20140,6 +20174,22 @@
  <ipv6>2600:9000:2368:e000:0003:2a55:6880:0021</ipv6>
  <ipv6>2600:9000:2368:f200:0003:2a55:6880:0021</ipv6>
 </content>
+<content id="6939187" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="1AECE96C6619F1D494B1CD44D60FB1CF" blockType="domain" ts="2024-04-14T11:25:03">
+ <decision date="2022-03-16" number="" org=""/>
+ <domain><![CDATA[d1a9nnmcvk9pjz.cloudfront.net]]></domain>
+ <ip>52.85.114.111</ip>
+ <ip>52.85.114.144</ip>
+ <ip>52.85.114.184</ip>
+ <ip>52.85.114.70</ip>
+ <ipv6>2600:9000:2038:0600:0006:fca6:67c0:0021</ipv6>
+ <ipv6>2600:9000:2038:3800:0006:fca6:67c0:0021</ipv6>
+ <ipv6>2600:9000:2038:5800:0006:fca6:67c0:0021</ipv6>
+ <ipv6>2600:9000:2038:6400:0006:fca6:67c0:0021</ipv6>
+ <ipv6>2600:9000:2038:8c00:0006:fca6:67c0:0021</ipv6>
+ <ipv6>2600:9000:2038:9e00:0006:fca6:67c0:0021</ipv6>
+ <ipv6>2600:9000:2038:a400:0006:fca6:67c0:0021</ipv6>
+ <ipv6>2600:9000:2038:ac00:0006:fca6:67c0:0021</ipv6>
+</content>
 <content id="6939188" includeTime="2024-04-13T15:40:03" entryType="2" hash="77C6EF430A9AFDFC2E6E3001B819EF75" ts="2024-04-13T15:40:03">
  <decision date="2024-03-11" number="определение о предварительном обеспечении по заявлению № 2И-5486/2024" org="Мосгорсуд"/>
  <url><![CDATA[https://lordfilmi.pics/2023y-goda/25454-master-i-margarita-2023-154.html]]></url>
@@ -20157,6 +20207,12 @@
  <url><![CDATA[https://ww2.hdkinolife.fun/serials/65211/]]></url>
  <domain><![CDATA[ww2.hdkinolife.fun]]></domain>
  <ip>80.89.238.80</ip>
+</content>
+<content id="6939205" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="5AA5E4B03F8E0977E3F2133116CFDDF4" blockType="domain-mask" ts="2024-04-14T11:25:03">
+ <decision date="2024-04-10" number="" org=""/>
+ <domain><![CDATA[*.azfront.press]]></domain>
+ <ip>185.68.16.162</ip>
+ <ipv6>2a00:7a60:0000:10a2:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6939214" includeTime="2024-04-14T10:30:03" entryType="2" hash="C904ADB9429C4353937A6C3B5A929A04" ts="2024-04-14T10:30:03">
  <decision date="2023-08-10" number="определение о предварительном обеспечении по заявлению № 2И-9509/2023" org="Мосгорсуд"/>
@@ -20184,5 +20240,76 @@
  <ip>172.67.145.6</ip>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:51a3</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9106</ipv6>
+</content>
+<content id="6939217" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="E2AA491AE58D453579620B3021150567" blockType="domain-mask" ts="2024-04-14T11:25:03">
+ <decision date="2024-04-10" number="" org=""/>
+ <domain><![CDATA[*.audimas.lt]]></domain>
+ <ip>104.21.68.10</ip>
+ <ip>172.67.184.154</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:b89a</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:440a</ipv6>
+</content>
+<content id="6939218" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="70297E4CCBE1F60961216B1C36DAF16B" ts="2024-04-14T11:25:03">
+ <decision date="2024-04-10" number="" org=""/>
+ <url><![CDATA[https://invidious.adikos.net/channel/UCusHTwON8F-kc3OiWXxUgyA]]></url>
+ <domain><![CDATA[invidious.adikos.net]]></domain>
+ <ip>161.97.98.187</ip>
+ <ipv6>2a02:c207:2043:0527:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6939219" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="8C2B5D052760B0091045FC2E27F7A0D0" ts="2024-04-14T11:25:03">
+ <decision date="2024-04-10" number="" org=""/>
+ <url><![CDATA[https://palyanytsya.info/categories/dopomoha-zakhysnykam]]></url>
+ <domain><![CDATA[palyanytsya.info]]></domain>
+ <ip>108.128.72.146</ip>
+ <ip>54.216.252.255</ip>
+ <ip>54.73.26.109</ip>
+</content>
+<content id="6939220" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="1D26E7A5242974DAC2F2373154DB5F8A" ts="2024-04-14T11:25:03">
+ <decision date="2024-04-10" number="" org=""/>
+ <url><![CDATA[https://cryptobrokers.ru/pomoshh-dlya-ukrainy/]]></url>
+ <domain><![CDATA[cryptobrokers.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6939221" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="033C6C66E75FF2E5C74959F9419D3E04" ts="2024-04-14T11:25:03">
+ <decision date="2024-04-10" number="" org=""/>
+ <url><![CDATA[https://anywellmag.com/kak-pryamo-sejchas-pomoch-ukrainskoj-armii-spisokvolonterskih-initsiativ-177059/]]></url>
+ <domain><![CDATA[anywellmag.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="6939222" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="5701741FA421D9B2D5E7A4F1B51BD50E" ts="2024-04-14T11:25:03">
+ <decision date="2024-04-10" number="" org=""/>
+ <url><![CDATA[https://afisha.london/2022/02/28/kak-okazat-ukraine-gumanitarnuyu-pomoshh/]]></url>
+ <domain><![CDATA[afisha.london]]></domain>
+ <ip>178.62.74.38</ip>
+</content>
+<content id="6939223" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="5A2EF755308D4687867399CC67DD6B04" ts="2024-04-14T11:25:03">
+ <decision date="2024-04-10" number="" org=""/>
+ <url><![CDATA[https://www.brandaction.org/singapore-benefit-event]]></url>
+ <domain><![CDATA[www.brandaction.org]]></domain>
+ <ip>198.185.159.144</ip>
+ <ip>198.185.159.145</ip>
+ <ip>198.49.23.144</ip>
+ <ip>198.49.23.145</ip>
+</content>
+<content id="6939224" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="8C588C1021AE85676698AE86725485D7" ts="2024-04-14T11:25:03">
+ <decision date="2024-04-10" number="" org=""/>
+ <url><![CDATA[https://www.team4ukraine.eu/content/support-for-defenders-of-ukraine]]></url>
+ <domain><![CDATA[www.team4ukraine.eu]]></domain>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
+</content>
+<content id="6939225" includeTime="2024-04-14T11:25:03" urgencyType="1" entryType="3" hash="02E37A2A099A1032A6700CB2F33A6C02" ts="2024-04-14T11:25:03">
+ <decision date="2024-04-10" number="" org=""/>
+ <url><![CDATA[https://www.futurearmy.sk/2023/05/05/darcek-pre-putina-spusta-prvu-zbierku-na-slovensku-nejde-o-zbran]]></url>
+ <domain><![CDATA[www.futurearmy.sk]]></domain>
+ <ip>37.9.175.179</ip>
 </content>
 </reg:register>
