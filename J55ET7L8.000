@@ -461,6 +461,14 @@
  <ip>203.28.9.228</ip>
  <ipv6>2a07:0180:03f8:3755:3075:5995:2b09:e8d9</ipv6>
 </content>
+<content id="3368806" includeTime="2024-04-18T22:20:03" entryType="1" hash="270FD3368546A7FF6AAF23B95DB0D072" blockType="domain-mask" ts="2024-04-18T22:20:03">
+ <decision date="2021-06-16" number="2-6-18/2021-05-08-1271-АИ" org="ФНС"/>
+ <domain><![CDATA[*.1xbetbonus.org]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="3368814" includeTime="2021-06-16T21:32:24" entryType="1" hash="D01A718C63C60E4D506F74F91A9A8903" blockType="domain-mask" ts="2021-06-16T21:32:24">
  <decision date="2021-06-16" number="2-6-18/2021-05-08-1097-АИ" org="ФНС"/>
  <domain><![CDATA[*.casinogrand.co]]></domain>
@@ -7332,6 +7340,12 @@
  <ip>172.67.194.207</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:2c2b</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c2cf</ipv6>
+</content>
+<content id="3381717" includeTime="2024-04-18T22:20:03" entryType="1" hash="2D4B382396F97C2FFEBD19B58E7EB088" blockType="domain-mask" ts="2024-04-18T22:20:03">
+ <decision date="2017-02-22" number="2-6-20/2017-02-20-38-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.1xbet-cb.xyz]]></domain>
+ <ip>51.38.113.177</ip>
+ <ipv6>2001:41d0:0701:1100:0000:0000:0000:6a9b</ipv6>
 </content>
 <content id="3381738" includeTime="2021-06-22T10:30:15" entryType="1" hash="5F91BB196529E29B5ADC0B4AD580FD60" blockType="domain-mask" ts="2021-06-22T10:30:15">
  <decision date="2017-02-22" number="2-6-20/2017-02-20-38-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
