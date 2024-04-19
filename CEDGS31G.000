@@ -19828,6 +19828,11 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:b2f2</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:1fb4</ipv6>
 </content>
+<content id="6938683" includeTime="2024-04-19T22:50:03" entryType="1" hash="C3C9B5C1E5FB5966BAFFBCE9C25D617F" blockType="domain" ts="2024-04-19T22:50:03">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[tripmaster-krrg.biz78.pro]]></domain>
+ <ip>8.208.47.234</ip>
+</content>
 <content id="6938684" includeTime="2024-04-12T20:50:02" entryType="1" hash="20C5BBD1B7B609B40806507F48CD2C8D" blockType="domain-mask" ts="2024-04-12T20:50:02">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pinup-ink.top]]></domain>
@@ -23865,6 +23870,12 @@
  <ip>172.67.220.75</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:35ef</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:dc4b</ipv6>
+</content>
+<content id="6939657" includeTime="2024-04-19T22:50:03" entryType="1" hash="E9FCCE6276D0E2E4A190FDE71ACFF38E" blockType="domain-mask" ts="2024-04-19T22:50:03">
+ <decision date="2024-04-12" number="2-6-14/2024-04-05-9059-АИ" org="ФНС"/>
+ <domain><![CDATA[*.vulkan24-online.top]]></domain>
+ <ip>203.29.53.177</ip>
+ <ipv6>2a05:7880:0490:076e:c3e9:0cdc:a566:0bc3</ipv6>
 </content>
 <content id="6939658" includeTime="2024-04-15T14:25:02" entryType="1" hash="00067A6C4A484153C0A92336F898A1A6" blockType="domain-mask" ts="2024-04-15T14:25:02">
  <decision date="2024-04-12" number="2-6-14/2024-04-12-635-АИ" org="ФНС"/>
