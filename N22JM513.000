@@ -57,12 +57,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6946544" includeTime="2024-04-18T22:20:03" entryType="1" hash="0D4E9F98C58F9A1270DE8F8258EC6889" ts="2024-04-18T22:20:03">
- <decision date="2024-04-11" number="166935" org="Роспотребнадзор"/>
- <url><![CDATA[https://xmusyd.ru/moon/radys/artem-tatishevskij_proshaj-2011]]></url>
- <domain><![CDATA[xmusyd.ru]]></domain>
- <ip>193.9.62.144</ip>
-</content>
 <content id="6946546" includeTime="2024-04-18T09:35:02" entryType="1" hash="3E30693CBDB2B7AF652BD86CC78058E9" ts="2024-04-18T09:35:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[http://storefaberlik.ru]]></url>
@@ -271,6 +265,11 @@
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdompnn.top]]></domain>
  <ip>91.215.43.12</ip>
+</content>
+<content id="6946593" includeTime="2024-04-19T13:40:03" entryType="1" hash="46775BEE4EE67360B630432EEC4C8D8E" blockType="domain" ts="2024-04-19T13:40:03">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[vpnly.com]]></domain>
+ <ip>198.54.116.114</ip>
 </content>
 <content id="6946598" includeTime="2024-04-16T22:35:01" entryType="1" hash="7D48F32008099B0F02D1B71225796492" blockType="domain" ts="2024-04-16T22:35:01">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -770,15 +769,6 @@
  <decision date="2024-03-07" number="2а-955/2024" org="Заводской районный суд г. Орла - Орловская область"/>
  <domain><![CDATA[prostitutkiadleraafter.com]]></domain>
  <ip>5.61.55.76</ip>
-</content>
-<content id="6946749" includeTime="2024-04-18T22:20:03" entryType="1" hash="178B6449C9F01C370081D51E00D8D39B" ts="2024-04-18T22:20:03">
- <decision date="2024-04-15" number="2024-04-09-7817-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://farmacy.su/miropristn/]]></url>
- <domain><![CDATA[farmacy.su]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6946750" includeTime="2024-04-17T14:00:04" entryType="1" hash="920A92FF26985B6DC0637BED3B68C698" blockType="domain" ts="2024-04-17T14:00:04">
  <decision date="2020-07-24" number="2а-516/2020" org="Алейский городской суд - Алтайский край"/>
