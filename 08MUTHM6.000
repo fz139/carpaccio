@@ -340,14 +340,6 @@
  <domain><![CDATA[klubnikabc-nethouse.online]]></domain>
  <ip>185.51.247.30</ip>
 </content>
-<content id="6089091" includeTime="2023-06-22T19:36:15" entryType="1" hash="6E10FC40E4344700760650F9C9FAB1F6" blockType="domain" ts="2023-06-22T19:36:15">
- <decision date="2023-05-29" number="2а-179/2023" org="Стругокрасненский районный суд - Псковская область"/>
- <domain><![CDATA[lady.intim74.net]]></domain>
- <ip>104.21.88.58</ip>
- <ip>172.67.173.78</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:583a</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:ad4e</ipv6>
-</content>
 <content id="6089092" includeTime="2023-06-21T19:17:42" entryType="1" hash="3BA8B4E2049386A6C34E8B1F3F3408A5" blockType="domain" ts="2023-06-21T19:17:42">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[bksprut-24.com]]></domain>
@@ -2011,15 +2003,19 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:119d</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:b112</ipv6>
 </content>
-<content id="6090134" includeTime="2023-06-23T13:26:29" entryType="1" hash="E6D649805852115DC99E400475604ECB" ts="2023-10-03T17:45:02">
+<content id="6090134" includeTime="2023-06-23T13:26:29" entryType="1" hash="8762D3420C7A2936C37AA138E7BFA8DC" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133914-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/6c8709551c715b3d566ded8c0ee7cac1/8fe1f2e455ff223c81a6441733982773/b91f16c56a9f4dadf3c10866a73cdafd5.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090136" includeTime="2023-06-23T13:26:34" entryType="1" hash="DD9D636DF1B6FBF7AAB2508F1AA35506" ts="2023-08-22T15:55:01">
  <decision date="2023-06-21" number="2023-06-19-3812-ПЛ" org="Росздравнадзор"/>
@@ -2027,15 +2023,19 @@
  <domain><![CDATA[kazan.rekrea.ru]]></domain>
  <ip>185.4.67.171</ip>
 </content>
-<content id="6090138" includeTime="2023-06-23T13:26:35" entryType="1" hash="3F046E81F23581F949B589793245E5C7" ts="2023-10-03T17:45:02">
+<content id="6090138" includeTime="2023-06-23T13:26:35" entryType="1" hash="BDB6CEB3825CC62A4E5FDB2178F6AC46" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133922-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c67695499.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090156" includeTime="2023-06-22T08:29:36" entryType="1" hash="BC06C5AC39B8AA6FE952171D00E345B1" blockType="domain-mask" ts="2023-06-22T08:29:36">
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2220,40 +2220,52 @@
  <ip>104.21.30.89</ip>
  <ip>172.67.172.176</ip>
 </content>
-<content id="6090204" includeTime="2023-06-23T13:26:31" entryType="1" hash="14A119BC9FFB0225E7C895B96C7E17E6" ts="2023-10-03T17:45:02">
+<content id="6090204" includeTime="2023-06-23T13:26:31" entryType="1" hash="FCD70905473D9E7E15300F4C2CC04E90" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2134195-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c676954118.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
-<content id="6090206" includeTime="2023-06-23T13:26:34" entryType="1" hash="6F77B98C686BECA21858D4B3D2C63631" ts="2023-10-03T17:45:02">
+<content id="6090206" includeTime="2023-06-23T13:26:34" entryType="1" hash="2803A5BDC0EFAD9F2CCF4833CCD26BA8" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133971-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c67695493.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090213" includeTime="2023-06-23T21:12:19" entryType="1" hash="CADE7CE26A4516AE6B137FA39E9CAE28" blockType="domain" ts="2023-06-23T21:12:19">
  <decision date="2022-03-18" number="2a-1514/2022" org="Тракторозаводский районный суд г. Челябинска - Челябинская область"/>
  <domain><![CDATA[nn.gozsnakdlplomsu.com]]></domain>
  <ip>185.74.252.198</ip>
 </content>
-<content id="6090217" includeTime="2023-06-23T13:26:35" entryType="1" hash="7EF711B1AD2A6DF1738E64D97A970CDF" ts="2023-10-03T17:45:02">
+<content id="6090217" includeTime="2023-06-23T13:26:35" entryType="1" hash="107A33C0EBF12F3361A1E7849FC07865" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133995-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/fe1f203045d0a2eb6c07a459f7b74149/82d5b3ef3270ad4fba14ed35a0c58a6d8.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090232" includeTime="2023-06-23T21:12:16" entryType="1" hash="AA9F42ED5DE90FEBA1F98098A7D948AC" ts="2023-09-26T15:15:03">
  <decision date="2023-06-21" number="2134027-URL-on" org="Роскомнадзор"/>
@@ -2310,15 +2322,19 @@
  <domain><![CDATA[ufa.ddpills.com]]></domain>
  <ip>81.17.17.234</ip>
 </content>
-<content id="6090288" includeTime="2023-06-23T13:26:29" entryType="1" hash="D16FD1258147C5B01DE6384D1D13BE63" ts="2023-10-03T17:45:02">
+<content id="6090288" includeTime="2023-06-23T13:26:29" entryType="1" hash="8ECF1DDA31CF931278547FD2B8E0FC05" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133915-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c67695491.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090290" includeTime="2023-06-23T13:26:35" entryType="1" hash="2D80A0D89A5F43295DD5B53CEDCB8204" blockType="domain" ts="2023-06-23T13:26:35">
  <decision date="2023-06-21" number="2023-06-21-477-ПЛ" org="Росздравнадзор"/>
@@ -2328,15 +2344,19 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:3c1a</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:bef5</ipv6>
 </content>
-<content id="6090292" includeTime="2023-06-23T13:26:29" entryType="1" hash="4431E4BE6D32DD3EC4B3A605E17A3A70" ts="2023-10-03T17:45:02">
+<content id="6090292" includeTime="2023-06-23T13:26:29" entryType="1" hash="6F46AD2BEBF5CC084942006CD549E58F" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133923-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c676954100.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090294" includeTime="2023-06-23T13:26:35" entryType="1" hash="A6868C9EB07861B6BEE42FF5A76F90BE" blockType="domain" ts="2023-06-23T13:26:35">
  <decision date="2023-06-21" number="2023-06-19-4349-ПЛ" org="Росздравнадзор"/>
@@ -2587,15 +2607,19 @@
  <domain><![CDATA[burnbutt.com]]></domain>
  <ip>79.137.52.116</ip>
 </content>
-<content id="6090359" includeTime="2023-06-23T13:26:32" entryType="1" hash="FE170EEAD6934F60821FA73E717F4570" ts="2023-10-03T17:45:02">
+<content id="6090359" includeTime="2023-06-23T13:26:32" entryType="1" hash="A811AB40046414C8099A63EBF3800B5C" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2134196-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/2497df6832e4b73a3d60be0ae51d0335/7f54026700d0f6c5acdf4abdf8219ec3184.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090360" includeTime="2023-06-22T13:28:59" entryType="1" hash="F05E8744A9DB5DF20F8C466D6F88A1E0" blockType="domain" ts="2023-06-22T13:28:59">
  <decision date="2023-06-16" number="2а-1-814/2023" org="Жуковский районный суд - Калужская область"/>
@@ -2685,25 +2709,33 @@
  <domain><![CDATA[belgorod-intim.ru]]></domain>
  <ip>188.165.137.58</ip>
 </content>
-<content id="6090443" includeTime="2023-06-23T13:26:31" entryType="1" hash="108766CF1036ED3C44C2A9E205D9FF22" ts="2023-10-03T17:45:02">
+<content id="6090443" includeTime="2023-06-23T13:26:31" entryType="1" hash="FC5A4752224156207079F11A87463B8E" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133916-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c67695492.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
-<content id="6090447" includeTime="2023-06-23T13:26:29" entryType="1" hash="D36DD236C49407A9CC5AC1ED73FAE3CF" ts="2023-10-03T17:45:02">
+<content id="6090447" includeTime="2023-06-23T13:26:29" entryType="1" hash="AD87F6053BEF2D71C45D3B2AB6ECDB9C" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133924-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c676954101.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090457" includeTime="2023-06-23T13:26:35" entryType="1" hash="8058E3F2EE01F6429CD9CFF110567463" blockType="domain" ts="2023-08-22T15:55:01">
  <decision date="2023-06-21" number="2023-06-19-4315-ПЛ" org="Росздравнадзор"/>
@@ -2936,15 +2968,19 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6090513" includeTime="2023-06-23T13:26:33" entryType="1" hash="FC8C3D306ACD63D4557562E2A96010EF" ts="2023-10-03T17:45:02">
+<content id="6090513" includeTime="2023-06-23T13:26:33" entryType="1" hash="C2592D8E21A1BCA99CFEC264E5A21D95" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2134197-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c676954117.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090515" includeTime="2023-06-23T13:26:29" entryType="1" hash="1E4CEBEA8EB8A84F8C2228D76D218FD3" ts="2023-06-23T13:26:29">
  <decision date="2023-06-21" number="2133973-URL-on" org="Роскомнадзор"/>
@@ -3017,23 +3053,19 @@
  <domain><![CDATA[rostov-na-donu.men-aptekar.ru]]></domain>
  <ip>185.4.67.171</ip>
 </content>
-<content id="6090596" includeTime="2023-06-22T13:29:02" entryType="1" hash="075D942DEAD3A32E221B30CB55DC4704" blockType="domain" ts="2023-06-22T13:29:02">
- <decision date="2023-06-19" number="2а-5521/2023" org="Якутский городской суд - Республика Саха (Якутия)"/>
- <domain><![CDATA[14dosug.ru]]></domain>
- <ip>104.21.50.4</ip>
- <ip>172.67.198.176</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:3204</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c6b0</ipv6>
-</content>
-<content id="6090601" includeTime="2023-06-23T13:26:31" entryType="1" hash="A02D29CE82D9DDEC7512461794E0263F" ts="2023-10-03T17:45:02">
+<content id="6090601" includeTime="2023-06-23T13:26:31" entryType="1" hash="8228DD651697F5F2F2340D04511D16A9" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133925-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c676954102.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090607" includeTime="2023-06-23T13:26:32" entryType="1" hash="FC864A55A3E4A4A92DC634F1F404CDE8" blockType="domain" ts="2023-08-22T15:55:01">
  <decision date="2023-06-21" number="2023-06-19-3844-ПЛ" org="Росздравнадзор"/>
@@ -3134,15 +3166,19 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6090640" includeTime="2023-06-23T13:26:35" entryType="1" hash="3136518EB734AE8544FF156F69A501D3" ts="2023-10-03T17:45:02">
+<content id="6090640" includeTime="2023-06-23T13:26:35" entryType="1" hash="1A62BA9D4950B943F34F2E2C014CC82A" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2134316-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c676954111.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090643" includeTime="2023-06-22T08:29:39" entryType="1" hash="00E4552683B07240F70CD1FF4107D147" blockType="domain-mask" ts="2023-06-22T08:29:39">
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -3236,15 +3272,19 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
-<content id="6090664" includeTime="2023-06-23T13:26:35" entryType="1" hash="1174390779C9A94FDD33FF8E12EE066E" ts="2023-10-03T17:45:02">
+<content id="6090664" includeTime="2023-06-23T13:26:35" entryType="1" hash="57BE96C0C14F0D5CDACB73E9ADD0E12E" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2134190-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c676954120.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090666" includeTime="2023-06-23T13:26:34" entryType="1" hash="197C18BA424A5AEB5FC4B842D918B05B" ts="2023-06-23T13:26:34">
  <decision date="2023-06-21" number="2133966-URL-on" org="Роскомнадзор"/>
@@ -3252,15 +3292,19 @@
  <domain><![CDATA[burnbutt.com]]></domain>
  <ip>79.137.52.116</ip>
 </content>
-<content id="6090668" includeTime="2023-06-23T13:26:34" entryType="1" hash="BD07D2DEC7DF61D1BCA3EF5967B8E025" ts="2023-10-03T17:45:02">
+<content id="6090668" includeTime="2023-06-23T13:26:34" entryType="1" hash="60C5A2835C331942E5B9112C274ABBC7" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2134198-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c676954116.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090670" includeTime="2023-06-23T21:12:17" entryType="1" hash="B4A300BEC365DA61B64EF168683C9947" ts="2023-06-23T21:12:17">
  <decision date="2023-06-15" number="160996" org="Роспотребнадзор"/>
@@ -3363,25 +3407,33 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:9d4b</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0869</ipv6>
 </content>
-<content id="6090752" includeTime="2023-06-23T13:26:32" entryType="1" hash="6F30401C78D3EEB7689D6C3673427063" ts="2023-10-03T17:45:02">
+<content id="6090752" includeTime="2023-06-23T13:26:32" entryType="1" hash="D5D2C606649DBFE6496B407CCD51050F" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133918-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c67695494.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
-<content id="6090756" includeTime="2023-06-23T13:26:32" entryType="1" hash="922A64C6BC807A40324DB44F5B1B0CC3" ts="2023-10-03T17:45:02">
+<content id="6090756" includeTime="2023-06-23T13:26:32" entryType="1" hash="53B7D964BCE04C7C65972EA8F1D404F8" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133926-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c676954104.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090758" includeTime="2023-06-23T13:26:35" entryType="1" hash="91068EF169F7535BF48E2F6256D1AAD6" blockType="domain" ts="2023-06-23T13:26:35">
  <decision date="2023-06-21" number="2023-06-19-4347-ПЛ" org="Росздравнадзор"/>
@@ -3614,15 +3666,19 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
-<content id="6090818" includeTime="2023-06-23T13:26:29" entryType="1" hash="4DE32136C37DE4CB73C740C255315FC7" ts="2023-10-03T17:45:02">
+<content id="6090818" includeTime="2023-06-23T13:26:29" entryType="1" hash="63DD15D6F48199FC7AC986C48BD06B6E" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2134191-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/8fe1f2e455ff223c81a6441733982773/95629c881f1b8302013a8d78713ed27d188.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090819" includeTime="2023-06-23T13:26:36" entryType="1" hash="79898E7540D09CD005853511A6573CA0" ts="2023-06-23T13:26:36">
  <decision date="2023-06-20" number="2а-2473/2023" org="Октябрьский районный суд г. Тамбова - Тамбовская область"/>
@@ -3735,40 +3791,52 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6090906" includeTime="2023-06-23T13:26:33" entryType="1" hash="C71556601956CE817F16AAE574828D33" ts="2023-10-03T17:45:02">
+<content id="6090906" includeTime="2023-06-23T13:26:33" entryType="1" hash="7D849D44795B075237D6F81462C7991A" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133919-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c67695495.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090912" includeTime="2023-06-23T13:26:29" entryType="1" hash="6FB6FDE729E2D2E654096382C5313EB6" blockType="domain" ts="2023-06-23T13:26:29">
  <decision date="2023-06-21" number="2023-06-19-3839-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[krasnoyarsk13.hostmed.ru]]></domain>
  <ip>185.74.255.186</ip>
 </content>
-<content id="6090918" includeTime="2023-06-23T13:26:34" entryType="1" hash="9A7A4D3B227AB5D38280A52B4A49CA5D" ts="2023-10-03T17:45:02">
+<content id="6090918" includeTime="2023-06-23T13:26:34" entryType="1" hash="31070264DB85F36A181795E8291759D8" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133943-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/fe1f203045d0a2eb6c07a459f7b74149/82d5b3ef3270ad4fba14ed35a0c58a6d7.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
-<content id="6090922" includeTime="2023-06-23T13:26:35" entryType="1" hash="D3EA3BD6B7440D2A8CDBBC948595BB7F" ts="2023-10-03T17:45:02">
+<content id="6090922" includeTime="2023-06-23T13:26:35" entryType="1" hash="8911F53FCE4994E6D86568CD4D9FD5B3" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133951-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c676954103.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090926" includeTime="2023-06-22T08:29:41" entryType="1" hash="EFD37415238E4C9FDC42F3F87ED46546" blockType="domain-mask" ts="2023-06-22T08:29:41">
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -3975,15 +4043,19 @@
  <ip>104.21.12.49</ip>
  <ip>172.67.193.171</ip>
 </content>
-<content id="6090973" includeTime="2023-06-23T13:26:30" entryType="1" hash="DDE2775763B5B44E1D2D6FA19C2372F8" ts="2023-10-03T17:45:02">
+<content id="6090973" includeTime="2023-06-23T13:26:30" entryType="1" hash="BE71B0C0A2D772F5BFD71281697E3415" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2134192-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c676954119.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6090975" includeTime="2023-06-23T13:26:34" entryType="1" hash="385CBFA509AE0788B65B609ACDFFF4EF" ts="2023-06-23T13:26:34">
  <decision date="2023-06-21" number="2133968-URL-on" org="Роскомнадзор"/>
@@ -4080,30 +4152,38 @@
  <domain><![CDATA[smotretporno.net]]></domain>
  <ip>95.211.170.136</ip>
 </content>
-<content id="6091062" includeTime="2023-06-23T13:26:34" entryType="1" hash="AAA9EFA5AC33A72E907EEBBE512991D9" ts="2023-10-03T17:45:02">
+<content id="6091062" includeTime="2023-06-23T13:26:34" entryType="1" hash="9D9CC90FD044A5F199709143FC04759D" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133920-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c67695497.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6091064" includeTime="2023-06-23T13:26:32" entryType="1" hash="67F88A76A46B541542C2EC7B7D271ED3" blockType="domain" ts="2023-06-23T13:26:32">
  <decision date="2023-06-21" number="2023-06-21-490-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[e10.silamag.com]]></domain>
  <ip>94.23.170.46</ip>
 </content>
-<content id="6091074" includeTime="2023-06-23T13:26:34" entryType="1" hash="290D8D3A71B0C96C2027516A19D0244B" ts="2023-10-03T17:45:02">
+<content id="6091074" includeTime="2023-06-23T13:26:34" entryType="1" hash="A76C250BF70DEB1E77A5D19571ED3F10" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133944-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c67695496.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6091081" includeTime="2023-06-22T08:29:42" entryType="1" hash="FFFA67D59B78FC761C6C8BF6461A3C52" blockType="domain-mask" ts="2023-06-22T08:29:42">
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4478,15 +4558,19 @@
  <domain><![CDATA[smotretporno.net]]></domain>
  <ip>95.211.170.136</ip>
 </content>
-<content id="6091217" includeTime="2023-06-23T13:26:34" entryType="1" hash="F708669BE25B24CDC3D0E6BAAF57A3EC" ts="2023-10-03T17:45:02">
+<content id="6091217" includeTime="2023-06-23T13:26:34" entryType="1" hash="5180BC903661C6915854B56D4017D375" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133921-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c67695498.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6091223" includeTime="2023-06-23T13:26:30" entryType="1" hash="07A19B34946FA7D0DF8331E96117FE0A" blockType="domain" ts="2024-04-08T14:55:02">
  <decision date="2023-06-21" number="2023-06-19-4331-ПЛ" org="Росздравнадзор"/>
@@ -4499,15 +4583,19 @@
  <domain><![CDATA[akuma.moe]]></domain>
  <ip>185.178.208.187</ip>
 </content>
-<content id="6091233" includeTime="2023-06-23T13:26:29" entryType="1" hash="31DE2682AB78CD6243BBA0C066A845BF" ts="2023-10-03T17:45:02">
+<content id="6091233" includeTime="2023-06-23T13:26:29" entryType="1" hash="098B3FAF9C9508D4A05FE91570D1662B" ts="2024-04-24T11:00:04">
  <decision date="2023-06-21" number="2133953-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://images.adultcomic.uk/manga1/5ac1d3ba337a339c5cd668e808270a3b/dc29cd575ae1028693b3105fabb6f680/7f80771083db153eb5b472ce9c676954105.jpg]]></url>
  <domain><![CDATA[images.adultcomic.uk]]></domain>
+ <ip>104.21.34.168</ip>
  <ip>104.21.46.6</ip>
+ <ip>172.67.163.74</ip>
  <ip>172.67.221.245</ip>
  <ip>195.230.23.180</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ddf5</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2e06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a34a</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:22a8</ipv6>
 </content>
 <content id="6091236" includeTime="2023-06-22T08:29:43" entryType="1" hash="723C58A054972D7938798AD7FB73BF98" blockType="domain-mask" ts="2023-06-22T08:29:43">
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
