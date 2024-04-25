@@ -2396,17 +2396,21 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:c77d</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3a24</ipv6>
 </content>
-<content id="4882295" includeTime="2022-10-06T13:19:49" entryType="1" hash="ADE490515BE2A78C55ED47DD55CDE0CA" ts="2024-02-06T11:45:02">
+<content id="4882295" includeTime="2022-10-06T13:19:49" entryType="1" hash="5DA1C77023D6E1810FFBEB50EBF631BD" ts="2024-04-25T13:15:02">
  <decision date="2022-09-28" number="1824482-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://as106.online-star.org/8933-limonnye-devochki-shoujo-ramune.html]]></url>
  <domain><![CDATA[as106.online-star.org]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.233</ip>
  <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.233</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="4882297" includeTime="2022-09-30T14:31:05" entryType="1" hash="8ED545E37896B5F7883A5C721FCE108B" ts="2022-09-30T14:31:05">
@@ -7472,22 +7476,14 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ebc1</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ebc2</ipv6>
 </content>
-<content id="4888109" includeTime="2022-10-03T23:04:28" entryType="1" hash="7FF5A109D8A3FD1DD0807C61BC216AF0" ts="2024-02-06T11:45:02">
+<content id="4888109" includeTime="2022-10-03T23:04:28" entryType="1" hash="0A5F3F2C88D336DA11830DA0DD95383F" ts="2024-04-25T13:15:02">
  <decision date="2022-09-29" number="1825905-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://www.bluegartr.com/bucket/gallery/viewimage/72207]]></url>
  <domain><![CDATA[www.bluegartr.com]]></domain>
- <ip>188.114.98.192</ip>
- <ip>188.114.98.224</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.192</ip>
- <ip>188.114.99.224</ip>
- <ip>188.114.99.234</ip>
- <ipv6>2a06:98c1:3122:c000:0000:0000:0000:0000</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:c000:0000:0000:0000:0000</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="4888117" includeTime="2022-09-30T00:31:58" entryType="1" hash="EE669244F4D3B04E557DE8DF0F431C3E" blockType="domain" ts="2022-09-30T00:31:58">
  <decision date="2022-09-29" number="2-6-18/2022-08-22-2165-АИ" org="ФНС"/>
