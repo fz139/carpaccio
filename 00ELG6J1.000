@@ -3105,9 +3105,9 @@
  <ipv6>2606:4700:0030:0000:0000:0000:681f:5c7f</ipv6>
  <ipv6>2606:4700:0030:0000:0000:0000:681f:5d7f</ipv6>
 </content>
-<content id="1979054" includeTime="2019-12-10T20:37:44" entryType="1" hash="2C4F695981D6990D5A40BF9EF358F8F8" blockType="domain" ts="2024-04-25T19:25:03">
+<content id="1979054" includeTime="2019-12-10T20:37:44" entryType="1" hash="836A575FA3B371CAAC024F9703713C26" blockType="domain-mask" ts="2024-04-25T22:30:02">
  <decision date="2019-02-19" number="2-6-20/2019-02-12-1471-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[kinotut.me]]></domain>
+ <domain><![CDATA[*.kinotut.me]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
