@@ -1467,6 +1467,28 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:858e</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:0df9</ipv6>
 </content>
+<content id="6966828" includeTime="2024-04-27T10:00:03" urgencyType="1" entryType="3" hash="164AFD4ED3ECA7E35025A82FBC647B00" blockType="domain-mask" ts="2024-04-27T10:00:03">
+ <decision date="2024-04-23" number="" org=""/>
+ <domain><![CDATA[*.newscentral.top]]></domain>
+ <ip>168.119.113.123</ip>
+ <ipv6>2a01:04f8:1c0c:6f60:0000:0000:0000:0002</ipv6>
+</content>
+<content id="6966829" includeTime="2024-04-27T10:00:03" urgencyType="1" entryType="3" hash="0A25C8610A3499E08C6362EA298B7496" blockType="domain-mask" ts="2024-04-27T10:00:03">
+ <decision date="2024-04-23" number="" org=""/>
+ <domain><![CDATA[*.russiangate.site]]></domain>
+ <ip>104.21.29.205</ip>
+ <ip>172.67.149.202</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:1dcd</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:95ca</ipv6>
+</content>
+<content id="6966831" includeTime="2024-04-27T10:00:03" urgencyType="1" entryType="3" hash="528D42781198DBB415496A900E0FC4D5" blockType="domain-mask" ts="2024-04-27T10:00:03">
+ <decision date="2024-04-23" number="" org=""/>
+ <domain><![CDATA[*.newsmaker.md]]></domain>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
+</content>
 <content id="6966912" includeTime="2024-04-25T16:45:02" entryType="1" hash="5F41BCE3D3F4C3E7A882F1460A504C50" blockType="domain-mask" ts="2024-04-25T16:45:02">
  <decision date="2024-04-24" number="2508322-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.som.ovh]]></domain>
