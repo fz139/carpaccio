@@ -5626,6 +5626,11 @@
  <ip>188.114.98.234</ip>
  <ip>188.114.99.234</ip>
 </content>
+<content id="6840896" includeTime="2024-04-27T22:15:02" entryType="1" hash="63273B7EAE00031E3D0F02903622D4D9" blockType="domain" ts="2024-04-27T22:15:02">
+ <decision date="2024-03-12" number="2024-03-01-3520-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[www.croxyproxy.rocks]]></domain>
+ <ip>167.71.43.43</ip>
+</content>
 <content id="6840900" includeTime="2024-03-14T17:55:03" entryType="1" hash="6FBE2DE6D1C950D7CB7BD259D86A63E3" blockType="domain" ts="2024-03-14T17:55:03">
  <decision date="2024-03-12" number="2024-03-01-3515-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[vpn.rent]]></domain>
@@ -5649,6 +5654,14 @@
  <ip>130.255.77.28</ip>
  <ipv6>2a02:0e00:ffec:04b8:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6840903" includeTime="2024-04-27T22:15:02" entryType="1" hash="6C10BEC34A4725B1E9B36CFBCF811E06" blockType="domain" ts="2024-04-27T22:15:02">
+ <decision date="2024-03-12" number="2024-03-01-1639-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[www.croxyproxy.com]]></domain>
+ <ip>104.21.90.167</ip>
+ <ip>172.67.158.52</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5aa7</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:9e34</ipv6>
+</content>
 <content id="6840907" includeTime="2024-03-14T17:55:03" entryType="1" hash="1EA49F560107A48CE9D680726DF0B447" blockType="domain" ts="2024-03-14T17:55:03">
  <decision date="2024-03-12" number="2024-03-01-3606-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[adultproxy.men]]></domain>
@@ -5656,6 +5669,19 @@
  <ip>104.21.234.149</ip>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea94</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea95</ipv6>
+</content>
+<content id="6840909" includeTime="2024-04-27T22:15:02" entryType="1" hash="E922CF68A90B9ABA3F19643FAE6BF447" ts="2024-04-27T22:15:02">
+ <decision date="2024-03-12" number="2024-03-01-2749-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://freevpnplanet.com/ru]]></url>
+ <domain><![CDATA[freevpnplanet.com]]></domain>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.98.234</ip>
+ <ip>188.114.99.233</ip>
+ <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="6840911" includeTime="2024-03-14T17:55:03" entryType="1" hash="02BEE5D7F13B10627BD39486F852D3C8" ts="2024-03-14T17:55:03">
  <decision date="2024-03-12" number="2024-03-05-2812-СОБ" org="Роскомнадзор"/>
