@@ -3383,6 +3383,35 @@
  <ip>154.56.62.193</ip>
  <ipv6>2a02:4780:0009:1483:0000:1dd9:9515:0002</ipv6>
 </content>
+<content id="6961823" includeTime="2024-04-30T10:30:02" urgencyType="1" entryType="3" hash="F9C48D4E3748BBED3C058F2631723B55" blockType="domain-mask" ts="2024-04-30T10:30:02">
+ <decision date="2024-04-20" number="" org=""/>
+ <domain><![CDATA[*.cxid.info]]></domain>
+ <ip>104.21.37.131</ip>
+ <ip>172.67.208.61</ip>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:2583</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:d03d</ipv6>
+</content>
+<content id="6961824" includeTime="2024-04-30T10:30:02" urgencyType="1" entryType="3" hash="7798E0339E07B0B55697F1B182161B81" blockType="domain-mask" ts="2024-04-30T10:30:02">
+ <decision date="2024-04-20" number="" org=""/>
+ <domain><![CDATA[*.rospres.wiki]]></domain>
+ <ip>104.21.42.16</ip>
+ <ip>172.67.155.26</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2a10</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9b1a</ipv6>
+</content>
+<content id="6961825" includeTime="2024-04-30T10:30:02" urgencyType="1" entryType="3" hash="DB84029BD54DEAAEA7AD0ED88A88D17F" blockType="domain-mask" ts="2024-04-30T10:30:02">
+ <decision date="2024-04-20" number="" org=""/>
+ <domain><![CDATA[*.gprus.org]]></domain>
+ <ip>104.21.24.137</ip>
+ <ip>172.67.218.246</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:daf6</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:1889</ipv6>
+</content>
+<content id="6961826" includeTime="2024-04-30T10:30:02" urgencyType="1" entryType="3" hash="F565BFB191352C7AEB79726503BBE3B7" blockType="domain-mask" ts="2024-04-30T10:30:02">
+ <decision date="2024-04-20" number="" org=""/>
+ <domain><![CDATA[*.memopzk.org]]></domain>
+ <ip>95.216.137.177</ip>
+</content>
 <content id="6961828" includeTime="2024-04-23T14:10:03" entryType="1" hash="2DCB535C860DC64302382A964C815B48" blockType="domain" ts="2024-04-23T14:10:03">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[www.spst-journal.org]]></domain>
