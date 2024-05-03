@@ -4666,15 +4666,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5964233" includeTime="2023-05-29T15:26:23" entryType="1" hash="2605AFA38FFC7223AB16C03B4B8F730D" ts="2023-05-29T15:26:23">
- <decision date="2023-05-24" number="2023-05-04-93" org="МВД"/>
- <url><![CDATA[https://territorylady.ru/mdma-kristally-kak-upotreblyat-tabletki-ekstazi-yarkaya-primanka/]]></url>
- <domain><![CDATA[territorylady.ru]]></domain>
- <ip>104.21.28.167</ip>
- <ip>172.67.146.231</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:92e7</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:1ca7</ipv6>
-</content>
 <content id="5964238" includeTime="2023-05-29T15:26:20" entryType="1" hash="1AEEF0CD546F063B14C191857AA97A8A" blockType="domain" ts="2023-05-29T15:26:20">
  <decision date="2023-05-24" number="2023-05-16-1497" org="МВД"/>
  <domain><![CDATA[wwwmegasb.com]]></domain>
@@ -4935,11 +4926,6 @@
  <ip>172.67.195.131</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:3c61</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c383</ipv6>
-</content>
-<content id="5964383" includeTime="2023-05-29T15:26:26" entryType="1" hash="62ED87972F73967720DB552061B655EC" blockType="domain" ts="2023-05-29T15:26:26">
- <decision date="2023-04-25" number="2а-2059/2023" org="Фрунзенский районный суд г. Владивостока - Приморский край"/>
- <domain><![CDATA[x2.escort-vladivostok.com]]></domain>
- <ip>209.38.241.108</ip>
 </content>
 <content id="5964389" includeTime="2023-05-25T22:13:24" entryType="1" hash="CB146AB414B3E948A5E2C8611434FA55" blockType="domain-mask" ts="2023-05-25T22:13:24">
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -5553,9 +5539,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a112</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:5ac7</ipv6>
 </content>
-<content id="5964772" includeTime="2023-05-30T00:53:45" entryType="1" hash="6E4434811A9A31DFBE92B97C1EFFAAB7" blockType="domain" ts="2023-05-30T00:53:45">
+<content id="5964772" includeTime="2023-05-30T00:53:45" entryType="1" hash="A0CE7F05C40CA9648F0CDA2AD8F78B8B" blockType="domain-mask" ts="2024-05-03T13:20:01">
  <decision date="2023-05-11" number="2а-151/2023" org="Улетовский районный суд - Забайкальский край"/>
- <domain><![CDATA[mydiplomizstore.com]]></domain>
+ <domain><![CDATA[*.mydiplomizstore.com]]></domain>
  <ip>5.61.58.119</ip>
 </content>
 <content id="5964774" includeTime="2023-05-25T22:13:26" entryType="1" hash="CCEC7AF912EE51101525D81D8F8E9754" blockType="domain-mask" ts="2023-05-25T22:13:26">

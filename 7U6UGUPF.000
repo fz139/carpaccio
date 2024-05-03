@@ -291,11 +291,6 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:15f5</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c972</ipv6>
 </content>
-<content id="4731943" includeTime="2022-08-19T15:18:38" entryType="1" hash="955E0771708DE80E88309B2B75B366EC" blockType="domain" ts="2022-08-19T15:18:38">
- <decision date="2022-08-04" number="2а-839/2022" org="Еманжелинский городской суд - Челябинская область"/>
- <domain><![CDATA[emanzhelinsk.specpravapiter.com]]></domain>
- <ip>5.61.48.87</ip>
-</content>
 <content id="4731949" includeTime="2022-08-22T09:14:01" entryType="1" hash="18D9E7E7F3614A374C6D2C3B1C58258D" ts="2022-08-22T09:14:01">
  <decision date="2022-08-02" number="2а-2736/22" org="Первомайский районный суд города Мурманска"/>
  <url><![CDATA[https://alejsk.praspec.com/products/b]]></url>
@@ -3196,9 +3191,9 @@
  <domain><![CDATA[shop4.tovarfin.com]]></domain>
  <ip>45.82.68.136</ip>
 </content>
-<content id="4735682" includeTime="2022-08-22T13:07:44" entryType="1" hash="D7A9EFC20E008D255C86DDE44272198D" blockType="domain" ts="2022-08-22T13:07:44">
+<content id="4735682" includeTime="2022-08-22T13:07:44" entryType="1" hash="7DFB3653381D3339EF2277B0577F8A0C" blockType="domain-mask" ts="2024-05-03T13:20:01">
  <decision date="2022-08-12" number="2а-5223/2022" org="Центральный районный суд г. Сочи - Краснодарский край"/>
- <domain><![CDATA[sexosochi.guru]]></domain>
+ <domain><![CDATA[*.sexosochi.guru]]></domain>
  <ip>104.21.27.112</ip>
  <ip>172.67.169.35</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:1b70</ipv6>

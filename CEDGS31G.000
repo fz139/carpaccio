@@ -15767,10 +15767,10 @@
  <ip>104.21.33.206</ip>
  <ip>104.24.24.58</ip>
 </content>
-<content id="6936232" includeTime="2024-04-12T20:50:02" entryType="1" hash="E8CFCD0E90306037A03E80DA5797ED3A" blockType="domain-mask" ts="2024-04-12T20:50:02">
+<content id="6936232" includeTime="2024-04-12T20:50:02" entryType="1" hash="12F697440EFB70E0C296A41C993D34DE" blockType="domain-mask" ts="2024-05-03T13:20:01">
  <decision date="2024-04-12" number="2492847-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.filmhd1080.run]]></domain>
- <ip>188.114.97.3</ip>
+ <ip>104.24.24.58</ip>
 </content>
 <content id="6936246" includeTime="2024-04-12T20:50:02" entryType="1" hash="572B0EAF488E99AD1BC0B975D4B43F12" blockType="domain" ts="2024-04-12T20:50:02">
  <decision date="2024-04-11" number="2-6-14/2024-04-11-9236-АИ" org="ФНС"/>
@@ -16151,10 +16151,10 @@
  <ip>203.30.188.215</ip>
  <ipv6>2a05:7880:017c:8095:9cf9:782f:5816:75a8</ipv6>
 </content>
-<content id="6936680" includeTime="2024-04-12T20:50:02" entryType="1" hash="0262DD55A8EC62B5545AD12626860359" blockType="domain-mask" ts="2024-04-12T20:50:02">
+<content id="6936680" includeTime="2024-04-12T20:50:02" entryType="1" hash="DBF1F3A0304C27F32DB729F35A1381B8" blockType="domain-mask" ts="2024-05-03T13:20:01">
  <decision date="2024-04-12" number="2492846-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.filmhd1080.best]]></domain>
- <ip>188.114.97.3</ip>
+ <ip>104.24.24.58</ip>
 </content>
 <content id="6936693" includeTime="2024-04-12T20:50:02" entryType="1" hash="10DAE938036F24D7819D520C84DE39D6" blockType="domain-mask" ts="2024-04-12T20:50:02">
  <decision date="2024-04-11" number="2-6-14/2024-04-11-4053-АИ" org="ФНС"/>
@@ -18238,15 +18238,6 @@
  <ip>172.67.220.239</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:535b</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:dcef</ipv6>
-</content>
-<content id="6938146" includeTime="2024-04-15T14:25:02" entryType="1" hash="AACC9CC67BFE863905F32A9FD879A69F" ts="2024-04-15T14:25:02">
- <decision date="2024-04-12" number="2024-04-11-6564-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://www.hypolife-russia.ru/sofosbuvir-i-velpatasvir?refD=88b70ee5961e8fd97a501535d1a8ebd1]]></url>
- <domain><![CDATA[www.hypolife-russia.ru]]></domain>
- <ip>104.21.14.64</ip>
- <ip>172.67.158.34</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:0e40</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:9e22</ipv6>
 </content>
 <content id="6938147" includeTime="2024-04-15T14:25:02" entryType="1" hash="E9AD89E238E2E3F7FFCC9B27E1E4019E" blockType="domain" ts="2024-04-15T14:25:02">
  <decision date="2024-04-12" number="2493883-URL-on" org="Роскомнадзор"/>
@@ -20500,15 +20491,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6938932" includeTime="2024-04-15T14:25:02" entryType="1" hash="E40C25203A8F67DC58BBA0215A6531FF" ts="2024-04-15T14:25:02">
- <decision date="2024-04-12" number="2024-04-11-10128-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://www.hypolife-russia.ru/sofosbuvir-i-daklatasvir?refD=88b70ee5961e8fd97a501535d1a8ebd1]]></url>
- <domain><![CDATA[www.hypolife-russia.ru]]></domain>
- <ip>104.21.14.64</ip>
- <ip>172.67.158.34</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:0e40</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:9e22</ipv6>
 </content>
 <content id="6938936" includeTime="2024-04-15T14:25:02" entryType="1" hash="35A6CC6D8A9BD3F6D113F2E3B1B19155" ts="2024-04-15T14:25:02">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
