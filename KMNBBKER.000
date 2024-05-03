@@ -2865,9 +2865,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6850708" includeTime="2024-03-15T14:05:03" entryType="1" hash="7A3D32FCEB659C48BDDD3DE5B8B9290B" blockType="domain" ts="2024-05-03T09:05:03">
+<content id="6850708" includeTime="2024-03-15T14:05:03" entryType="1" hash="323577584627D9D3059CE1738945EB52" blockType="domain-mask" ts="2024-05-03T09:35:02">
  <decision date="2023-04-18" number="2а-184/2023" org="Юрьев-Польский районный суд - Владимирская область"/>
- <domain><![CDATA[x-radar.pro]]></domain>
+ <domain><![CDATA[*.x-radar.pro]]></domain>
  <ip>188.114.98.233</ip>
  <ip>188.114.98.234</ip>
  <ip>188.114.99.233</ip>
