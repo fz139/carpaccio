@@ -7221,6 +7221,19 @@
  <domain><![CDATA[*.izvestia.co.il]]></domain>
  <ip>92.204.168.15</ip>
 </content>
+<content id="6980851" includeTime="2024-05-08T19:55:02" urgencyType="1" entryType="3" hash="807AAA4E5E04922300D37342EF5BFEEA" blockType="domain-mask" ts="2024-05-08T19:55:02">
+ <decision date="2024-04-26" number="" org=""/>
+ <domain><![CDATA[*.myrussianrights.ru]]></domain>
+ <ip>104.21.47.186</ip>
+ <ip>172.67.171.208</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:abd0</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:2fba</ipv6>
+</content>
+<content id="6980853" includeTime="2024-05-08T19:55:02" urgencyType="1" entryType="3" hash="2D1D6B02A5686FEC7857AFDD82AD1335" blockType="domain" ts="2024-05-08T19:55:02">
+ <decision date="2024-04-26" number="" org=""/>
+ <domain><![CDATA[putin.jofo.me]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
 <content id="6980854" includeTime="2024-05-02T13:50:04" entryType="1" hash="B553415CB7D0C0D874FA2DFB48744BB6" blockType="domain" ts="2024-05-02T13:50:04">
  <decision date="2024-04-27" number="2515751-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[hd-lordfilm2.net]]></domain>
