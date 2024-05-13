@@ -30733,6 +30733,13 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="6976460" includeTime="2024-05-13T14:05:02" entryType="1" hash="43A96B81597D2804E14966617E3CF7C5" ts="2024-05-13T14:05:02">
+ <decision date="2024-04-24" number="2024-03-25-2124-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://pcprogs.net/podborki/obhod-blokirovok]]></url>
+ <domain><![CDATA[pcprogs.net]]></domain>
+ <ip>104.21.41.113</ip>
+ <ip>172.67.164.115</ip>
+</content>
 <content id="6976471" includeTime="2024-04-26T22:55:03" entryType="1" hash="86EB05E58CD1069DF0F724B1C03F5CFB" blockType="domain-mask" ts="2024-04-26T22:55:03">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pin-up12o.com]]></domain>
@@ -32464,6 +32471,14 @@
  <decision date="2023-02-09" number="2а-970/2023" org="Индустриальный районный суд г. Ижевска - Удмуртская Республика"/>
  <domain><![CDATA[sex.prostitutkigelendzhikahappy.com]]></domain>
  <ip>5.61.54.128</ip>
+</content>
+<content id="6976979" includeTime="2024-05-13T14:05:02" entryType="1" hash="2509D4DE116D8AAE43C08C4578A9B7C3" blockType="domain" ts="2024-05-13T14:05:02">
+ <decision date="2024-04-24" number="2024-03-21-3544-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[veepn.com]]></domain>
+ <ip>104.21.8.3</ip>
+ <ip>172.67.156.148</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:0803</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:9c94</ipv6>
 </content>
 <content id="6976982" includeTime="2024-05-02T13:50:04" entryType="1" hash="C257C65A528813AB6C05B12F76A45B69" ts="2024-05-02T13:50:04">
  <decision date="2024-04-24" number="2024-04-23-9497-ПЛ" org="Росздравнадзор"/>
