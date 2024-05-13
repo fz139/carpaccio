@@ -3656,9 +3656,9 @@
  <ip>104.21.32.228</ip>
  <ip>172.67.156.82</ip>
 </content>
-<content id="7003357" includeTime="2024-05-12T08:20:03" entryType="1" hash="00B21BB81A91A2EEC6901026371E6FA6" blockType="domain" ts="2024-05-12T08:20:03">
+<content id="7003357" includeTime="2024-05-12T08:20:03" entryType="1" hash="0478D089523895F9BF68F7F1D5F1C114" blockType="domain-mask" ts="2024-05-13T13:30:03">
  <decision date="2024-05-08" number="2528196-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[sumerki-lordfilm.net]]></domain>
+ <domain><![CDATA[*.sumerki-lordfilm.net]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -3814,9 +3814,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7003412" includeTime="2024-05-12T08:20:03" entryType="1" hash="020858C582541444C3B8EA7CE0F49DDF" blockType="domain" ts="2024-05-12T08:20:03">
+<content id="7003412" includeTime="2024-05-12T08:20:03" entryType="1" hash="564BA441FCF11EC7BA0B30AAA014057B" blockType="domain-mask" ts="2024-05-13T13:30:03">
  <decision date="2024-05-08" number="2528116-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[lordfilm11.buzz]]></domain>
+ <domain><![CDATA[*.lordfilm11.buzz]]></domain>
  <ip>172.67.194.152</ip>
 </content>
 <content id="7003422" includeTime="2024-05-09T08:55:02" entryType="1" hash="41EA5779005939052A01787D902BA958" blockType="domain-mask" ts="2024-05-09T08:55:02">
@@ -4050,9 +4050,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7003501" includeTime="2024-05-12T08:20:03" entryType="1" hash="F5190F4D0D710248B6F00025C775CBA9" blockType="domain" ts="2024-05-12T08:20:03">
+<content id="7003501" includeTime="2024-05-12T08:20:03" entryType="1" hash="C663C0066D828B6904F13C21AD1B28C5" blockType="domain-mask" ts="2024-05-13T13:30:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[kranken13.at]]></domain>
+ <domain><![CDATA[*.kranken13.at]]></domain>
  <ip>104.21.80.84</ip>
  <ip>172.67.176.87</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b057</ipv6>
@@ -4420,9 +4420,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7003641" includeTime="2024-05-12T08:20:03" entryType="1" hash="F7D03EC9E0EF00F604C91C92DFC08568" blockType="domain" ts="2024-05-12T08:20:03">
+<content id="7003641" includeTime="2024-05-12T08:20:03" entryType="1" hash="CA1170A1754DE5059B6BEF22A6C4E146" blockType="domain-mask" ts="2024-05-13T13:30:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[kranken10.at]]></domain>
+ <domain><![CDATA[*.kranken10.at]]></domain>
  <ip>104.21.76.23</ip>
  <ip>172.67.185.101</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4c17</ipv6>
@@ -5398,9 +5398,9 @@
  <ip>203.29.54.67</ip>
  <ipv6>2a07:0180:079a:6a09:73bb:d95b:0a6f:01c1</ipv6>
 </content>
-<content id="7003996" includeTime="2024-05-12T08:20:03" entryType="1" hash="7B032B6EE75E577DD6D4DC214CB45F55" blockType="domain" ts="2024-05-12T08:20:03">
+<content id="7003996" includeTime="2024-05-12T08:20:03" entryType="1" hash="59F8A7F46360FC8B4A7E3FD726A0A4F0" blockType="domain-mask" ts="2024-05-13T13:30:03">
  <decision date="2023-01-24" number="2а-22/2023 (2а-290/2022)" org="Кыринский районный суд - Забайкальский край"/>
- <domain><![CDATA[krd-dd.com]]></domain>
+ <domain><![CDATA[*.krd-dd.com]]></domain>
  <ip>5.61.55.116</ip>
 </content>
 <content id="7003998" includeTime="2024-05-12T08:20:03" entryType="1" hash="58E2B7A8AFDAD9F4D01B90B2E3CA539F" ts="2024-05-12T08:20:03">
@@ -5917,6 +5917,14 @@
  <ip>104.21.23.33</ip>
  <ip>172.67.208.163</ip>
 </content>
+<content id="7004177" includeTime="2024-05-13T13:30:03" entryType="1" hash="C828F38A11ECF65F40D7E70678EE9BFF" blockType="domain-mask" ts="2024-05-13T13:30:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.blacksprut2web.at]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="7004178" includeTime="2024-05-09T08:55:02" entryType="1" hash="197DAD228FC085F5332EE79732F3F1A8" blockType="domain-mask" ts="2024-05-09T08:55:02">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.joycasino-zkf2.top]]></domain>
@@ -6174,9 +6182,9 @@
  <domain><![CDATA[www.dg.de]]></domain>
  <ip>85.13.151.219</ip>
 </content>
-<content id="7004272" includeTime="2024-05-12T08:20:03" entryType="1" hash="9FCB7F4B16BBF25E44A741F70809B1A7" blockType="domain" ts="2024-05-12T08:20:03">
+<content id="7004272" includeTime="2024-05-12T08:20:03" entryType="1" hash="4A2B7E8FCFC7AFC07E8868DEE8F94ED6" blockType="domain-mask" ts="2024-05-13T13:30:03">
  <decision date="2021-04-26" number="2a-4109/2021" org="Якутский городской суд - Республика Саха (Якутия)"/>
- <domain><![CDATA[prostitutki.cx]]></domain>
+ <domain><![CDATA[*.prostitutki.cx]]></domain>
  <ip>104.21.50.106</ip>
  <ip>172.67.204.240</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ccf0</ipv6>
@@ -6450,6 +6458,11 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7004358" includeTime="2024-05-13T13:30:03" entryType="1" hash="E7F3C5F81978DB9FD73EFFF9276CEBD0" blockType="domain-mask" ts="2024-05-13T13:30:03">
+ <decision date="2024-05-08" number="2024-05-03-6220" org="МВД"/>
+ <domain><![CDATA[*.meqa.bi]]></domain>
+ <ip>89.187.188.213</ip>
 </content>
 <content id="7004365" includeTime="2024-05-12T08:20:03" entryType="1" hash="3F308067DF15C4799244E6F28007C749" ts="2024-05-12T08:20:03">
  <decision date="2024-05-03" number="168414" org="Роспотребнадзор"/>
