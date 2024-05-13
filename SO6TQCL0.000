@@ -1864,6 +1864,15 @@
  <domain><![CDATA[redshieldvpn.com]]></domain>
  <ip>46.22.212.138</ip>
 </content>
+<content id="6995111" includeTime="2024-05-13T09:25:03" entryType="1" hash="DAB83D4545182BD3036DFCEBF3F2038F" ts="2024-05-13T09:25:03">
+ <decision date="2024-05-03" number="2024-04-15-12071-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://proxyium.com/ru/blog/how-to-get-around-geo-blocking-using-a-vpn]]></url>
+ <domain><![CDATA[proxyium.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6995112" includeTime="2024-05-07T07:40:02" entryType="1" hash="E6689E314B5A65FDB49D21DDEDACC380" blockType="domain-mask" ts="2024-05-07T07:40:02">
  <decision date="2024-05-02" number="2-6-14/2024-04-27-4260-АИ" org="ФНС"/>
  <domain><![CDATA[*.monro-casino2024.ru]]></domain>
@@ -4577,6 +4586,14 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:8a34</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:366d</ipv6>
 </content>
+<content id="6995817" includeTime="2024-05-13T09:25:03" entryType="1" hash="AD3D94D3525A5D455BFA9FA6367AFC68" blockType="domain" ts="2024-05-13T09:25:03">
+ <decision date="2024-05-06" number="2523801-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[i.ebalka.nl]]></domain>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
+</content>
 <content id="6995819" includeTime="2024-05-07T13:40:03" entryType="1" hash="E6941E929F53028438C1A436B3DBA89E" blockType="domain" ts="2024-05-07T13:40:03">
  <decision date="2020-12-29" number="2а-421/2020" org="Чкаловский районный суд - Нижегородская область"/>
  <domain><![CDATA[prostitutki-sochi1.ru]]></domain>
@@ -4642,6 +4659,12 @@
  <decision date="2022-06-02" number="2а-2298/2022" org="Куйбышевский районный суд г. Омска - Омская область"/>
  <domain><![CDATA[krasnodaro4ki.net]]></domain>
  <ip>62.122.172.158</ip>
+</content>
+<content id="6995836" includeTime="2024-05-13T09:25:03" entryType="1" hash="4A8F88704D8079EDFDF46AA289DA1A28" ts="2024-05-13T09:25:03">
+ <decision date="2024-05-03" number="2024-04-15-5822-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://hide.me/ru/unblock/twitter-vpn]]></url>
+ <domain><![CDATA[hide.me]]></domain>
+ <ip>51.195.100.161</ip>
 </content>
 <content id="6995837" includeTime="2024-05-07T07:40:02" entryType="1" hash="725904E8BB74E2C21E84E0512976EB16" blockType="domain" ts="2024-05-07T07:40:02">
  <decision date="2024-05-02" number="2-6-14/2024-04-27-4232-АИ" org="ФНС"/>
