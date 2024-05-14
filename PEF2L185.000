@@ -6306,9 +6306,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6593318" includeTime="2023-12-22T15:00:04" entryType="1" hash="B4334703C71A9C35DFB130490ADA9026" blockType="domain" ts="2023-12-22T22:55:03">
+<content id="6593318" includeTime="2023-12-22T15:00:04" entryType="1" hash="C27F0A8D3BAFD442920FA0B59CD6FFFE" blockType="domain-mask" ts="2024-05-14T13:20:03">
  <decision date="2023-12-20" number="2337820-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[golos.plus]]></domain>
+ <domain><![CDATA[*.golos.plus]]></domain>
  <ip>18.185.222.215</ip>
 </content>
 <content id="6593322" includeTime="2023-12-22T14:00:05" entryType="1" hash="5737731156DAD04300F94FB45F441F9B" blockType="domain-mask" ts="2023-12-22T14:00:05">
