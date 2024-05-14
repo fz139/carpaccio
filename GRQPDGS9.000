@@ -8912,9 +8912,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:09ac</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a120</ipv6>
 </content>
-<content id="5389215" includeTime="2023-02-02T23:52:11" entryType="1" hash="E8D393298CB14BF0CDF922124FE1DD11" blockType="domain" ts="2023-02-02T23:52:11">
+<content id="5389215" includeTime="2023-02-02T23:52:11" entryType="1" hash="7759539409D446DCD1A0F56FEC6D07EA" blockType="domain-mask" ts="2024-05-14T22:05:02">
  <decision date="2023-01-31" number="2023-01-31-109-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[2generics.com]]></domain>
+ <domain><![CDATA[*.2generics.com]]></domain>
  <ip>104.21.21.238</ip>
  <ip>172.67.201.107</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:15ee</ipv6>
