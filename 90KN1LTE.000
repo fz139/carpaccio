@@ -3136,12 +3136,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:532e</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d608</ipv6>
 </content>
-<content id="249745" includeTime="2015-12-15T16:33:13" entryType="1" hash="5A68DD7A9D13C324C6B486768D453B94" blockType="domain" ts="2015-12-15T16:33:13">
- <decision date="2013-06-10" number="2-946/13" org="Октябрьский районный суд г. Ставрополя - Ставропольский край"/>
- <domain><![CDATA[www.parimatch.com]]></domain>
- <ip>188.114.98.224</ip>
- <ip>188.114.99.224</ip>
-</content>
 <content id="249780" includeTime="2015-11-30T19:58:11" entryType="1" hash="FE4CB6CE35F4F5E1AB0D982E04CD38EF" ts="2015-11-30T19:58:11">
  <decision date="2015-11-23" number="2-6-27/142" org="ФНС"/>
  <url><![CDATA[http://noblecasino.com/]]></url>
@@ -3348,6 +3342,14 @@
  <decision date="2015-08-10" number="2-4102/15" org="Петроградский районный суд Санкт-Петербурга"/>
  <domain><![CDATA[pornoflv.net]]></domain>
  <ip>145.239.19.62</ip>
+</content>
+<content id="249862" includeTime="2024-05-20T12:55:02" entryType="1" hash="8BCCA3393E20056D7E716EB4BDAC75D5" blockType="domain" ts="2024-05-20T12:55:02">
+ <decision date="2015-11-23" number="2-6-27/111" org="ФНС"/>
+ <domain><![CDATA[www.parimatch.com]]></domain>
+ <ip>104.18.8.74</ip>
+ <ip>104.18.9.74</ip>
+ <ip>104.18.96.26</ip>
+ <ip>104.18.97.26</ip>
 </content>
 <content id="250001" includeTime="2015-11-26T19:49:33" urgencyType="1" entryType="3" hash="54BCA02403D1CE366A7B32AEE8F48BF2" blockType="domain-mask" ts="2015-11-26T19:49:33">
  <decision date="2015-04-03" number="" org=""/>
