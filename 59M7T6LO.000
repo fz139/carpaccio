@@ -13810,6 +13810,11 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:34a9</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:c98f</ipv6>
 </content>
+<content id="6715935" includeTime="2024-05-20T09:40:03" entryType="1" hash="D9FE4B1E0C9A628CE94CBD327FA4ECB9" blockType="domain-mask" ts="2024-05-20T09:40:03">
+ <decision date="2024-02-06" number="2-6-14/2024-01-27-4682-АИ" org="ФНС"/>
+ <domain><![CDATA[*.cat-casino-registraciya.ru]]></domain>
+ <ip>188.114.96.3</ip>
+</content>
 <content id="6715936" includeTime="2024-02-07T22:50:04" entryType="1" hash="79DB6E0D56516542031A12F3EF426CA3" blockType="domain-mask" ts="2024-02-07T22:50:04">
  <decision date="2024-02-06" number="2-6-14/2024-01-27-4713-АИ" org="ФНС"/>
  <domain><![CDATA[*.freshcasino-ulib4.ru]]></domain>
@@ -33339,14 +33344,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6723387" includeTime="2024-02-09T13:25:04" entryType="1" hash="4D49F183B290EC91B763592C63AF4F08" blockType="domain" ts="2024-02-09T13:25:04">
- <decision date="2024-02-08" number="2024-02-07-3957" org="МВД"/>
- <domain><![CDATA[ru-tor24.org]]></domain>
- <ip>104.21.56.188</ip>
- <ip>172.67.155.138</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:9b8a</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:38bc</ipv6>
 </content>
 <content id="6723391" includeTime="2024-02-09T11:50:05" entryType="1" hash="B5A7EFA2A535E45040DC289D15D03E38" blockType="domain" ts="2024-02-09T11:50:05">
  <decision date="2024-02-08" number="2024-01-29-1925-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
