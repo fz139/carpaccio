@@ -21617,9 +21617,9 @@
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:951b</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:21c6</ipv6>
 </content>
-<content id="6373744" includeTime="2023-09-22T19:20:02" entryType="1" hash="1965372B28F267C122FCC151480309E9" blockType="domain" ts="2023-09-22T19:20:02">
+<content id="6373744" includeTime="2023-09-22T19:20:02" entryType="1" hash="22051484911335E610381C9566CA6499" blockType="domain-mask" ts="2024-05-20T23:30:02">
  <decision date="2017-04-14" number="2-6-20/ 2017-04-14-19-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[we18.ru]]></domain>
+ <domain><![CDATA[*.we18.ru]]></domain>
  <ip>104.21.59.251</ip>
  <ip>172.67.186.78</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:ba4e</ipv6>
