@@ -3458,6 +3458,11 @@
  <ip>162.19.253.10</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:48de</ipv6>
 </content>
+<content id="7008795" includeTime="2024-05-21T00:00:03" entryType="1" hash="12FF591BDA8F745C77E3864896230CEF" blockType="domain" ts="2024-05-21T00:00:03">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[wireguard.pro]]></domain>
+ <ip>176.123.0.55</ip>
+</content>
 <content id="7008798" includeTime="2024-05-13T23:05:03" entryType="1" hash="2FF26D48824CC2B1EAE4A6163B2D2FDD" blockType="domain-mask" ts="2024-05-13T23:05:03">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.stardacasino-55.top]]></domain>
@@ -4137,6 +4142,15 @@
  <ip>172.67.165.230</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:31bd</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a5e6</ipv6>
+</content>
+<content id="7008972" includeTime="2024-05-21T00:00:03" entryType="1" hash="098D91CB25A96B296DA4864F656281E2" ts="2024-05-21T00:00:03">
+ <decision date="2024-05-07" number="2024-04-18-8421-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://www.purevpn.com/ru/how-to-access/twitter-vpn]]></url>
+ <domain><![CDATA[www.purevpn.com]]></domain>
+ <ip>104.18.24.105</ip>
+ <ip>104.18.25.105</ip>
+ <ipv6>2606:4700:0000:0000:0000:0000:6812:1869</ipv6>
+ <ipv6>2606:4700:0000:0000:0000:0000:6812:1969</ipv6>
 </content>
 <content id="7008973" includeTime="2024-05-13T23:05:03" entryType="1" hash="7A9580EFD78073AA80A6F66D2A8B4567" blockType="domain-mask" ts="2024-05-13T23:05:03">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
