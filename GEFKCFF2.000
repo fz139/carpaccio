@@ -4166,6 +4166,11 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:0ab3</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:83ae</ipv6>
 </content>
+<content id="7003516" includeTime="2024-05-21T13:50:03" entryType="1" hash="2EE7F0F681DEC508825B7076FF8815C1" blockType="domain" ts="2024-05-21T13:50:03">
+ <decision date="2024-05-08" number="2024-04-24-9274-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[med.suxilepcom.ru]]></domain>
+ <ip>85.159.230.187</ip>
+</content>
 <content id="7003519" includeTime="2024-05-12T08:20:03" entryType="1" hash="F17258E9B84BF1C60898678527A0EC4C" ts="2024-05-12T08:20:03">
  <decision date="2024-05-08" number="2024-05-06-2113-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://ru-h594l0.prolecar.net/products/brulamicin-40mgml-80mg-ampuly-2ml-10]]></url>
@@ -6273,6 +6278,14 @@
 <content id="7004249" includeTime="2024-05-12T08:20:03" entryType="1" hash="769F085B6B796B6A278147915DE9851F" blockType="domain" ts="2024-05-12T08:20:03">
  <decision date="2024-05-08" number="2024-04-18-1599" org="МВД"/>
  <domain><![CDATA[zmir.top]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7004250" includeTime="2024-05-21T13:50:03" entryType="1" hash="BA401AD346E33B637F699FE4B3E1118B" blockType="domain-mask" ts="2024-05-21T13:50:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kraken2trfqodidvlh4aa337cpzfrhdlfldhve5nf7njhumwr7-onion.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
