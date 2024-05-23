@@ -9941,10 +9941,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7034010" includeTime="2024-05-22T23:25:02" entryType="1" hash="7765BE8775E8DDA6959DD56B6DC1DD1B" ts="2024-05-22T23:25:02">
+<content id="7034010" includeTime="2024-05-22T23:25:02" entryType="1" hash="988D3A3F1882AD5AD74499E6C1795F01" blockType="domain-mask" ts="2024-05-23T14:00:03">
  <decision date="2024-05-20" number="2024-05-20-7082-СОБ" org="Роскомнадзор"/>
- <url><![CDATA[https://vpngen.org]]></url>
- <domain><![CDATA[vpngen.org]]></domain>
+ <domain><![CDATA[*.vpngen.org]]></domain>
  <ip>167.235.137.95</ip>
 </content>
 <content id="7034011" includeTime="2024-05-21T13:50:03" entryType="1" hash="C0AE162ABF8667836BF54DCA255FA07D" blockType="domain" ts="2024-05-21T13:50:03">
