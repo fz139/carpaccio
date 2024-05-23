@@ -7083,6 +7083,14 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:03f5</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:835e</ipv6>
 </content>
+<content id="6360775" includeTime="2024-05-23T23:55:03" entryType="1" hash="B9A7824AD72A0A1951E800AD28CB1169" blockType="domain-mask" ts="2024-05-23T23:55:03">
+ <decision date="2023-09-15" number="2023-09-14-2184-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[*.frisium.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="6360777" includeTime="2023-09-18T13:55:03" entryType="1" hash="95AEB7DF9440FFAFC10E289C313CDF62" blockType="domain" ts="2023-09-18T13:55:03">
  <decision date="2023-09-14" number="2023-09-13-2617" org="МВД"/>
  <domain><![CDATA[xianjcs.com]]></domain>
