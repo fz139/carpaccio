@@ -9440,6 +9440,14 @@
  <ip>46.101.98.62</ip>
  <ipv6>2a03:b0c0:0003:00d0:0000:0000:0276:e001</ipv6>
 </content>
+<content id="2723345" includeTime="2024-05-24T22:35:03" entryType="1" hash="19F925F38C33EB5086A2057AFD0D51A3" blockType="domain-mask" ts="2024-05-24T22:35:03">
+ <decision date="2020-11-11" number="2020-11-11-1343" org="МВД"/>
+ <domain><![CDATA[*.semyanich-shop.org]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="2723360" includeTime="2020-11-12T21:13:33" entryType="1" hash="A076AE1F34981955CF37BFD9F4B86AB7" blockType="domain-mask" ts="2020-11-12T21:13:33">
  <decision date="2017-02-22" number="2-6-20/2017-02-20-38-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vulkanrussia1.ru]]></domain>
