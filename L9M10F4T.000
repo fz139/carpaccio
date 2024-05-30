@@ -2493,9 +2493,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6912934" includeTime="2024-04-08T13:25:06" entryType="1" hash="D353486C3EB0D32EAC583229114A8324" blockType="domain" ts="2024-04-08T13:25:06">
+<content id="6912934" includeTime="2024-04-08T13:25:06" entryType="1" hash="360119EA3B04A9BCD16C356C9D29AF29" blockType="domain-mask" ts="2024-05-30T13:20:03">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[vpnscanner.com]]></domain>
+ <domain><![CDATA[*.vpnscanner.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
