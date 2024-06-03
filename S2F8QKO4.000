@@ -857,9 +857,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:83cc</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:044f</ipv6>
 </content>
-<content id="3369055" includeTime="2021-07-26T11:33:20" urgencyType="1" entryType="3" hash="4B96DBEF458E765C01C57EF6AD2A69C4" blockType="domain" ts="2021-07-26T11:33:20">
+<content id="3369055" includeTime="2021-07-26T11:33:20" urgencyType="1" entryType="3" hash="C15EFFEC73B2D9B6BD1C7F9D4E67D44C" blockType="domain-mask" ts="2024-06-03T20:15:02">
  <decision date="2021-06-15" number="" org=""/>
- <domain><![CDATA[www.leonidvolkov.ru]]></domain>
+ <domain><![CDATA[*.www.leonidvolkov.ru]]></domain>
  <ip>104.21.16.200</ip>
  <ip>172.67.215.152</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:10c8</ipv6>

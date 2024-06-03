@@ -9151,9 +9151,9 @@
  <ipv6>2600:9000:2395:ba00:0014:242c:2400:0021</ipv6>
  <ipv6>2600:9000:2395:f600:0014:242c:2400:0021</ipv6>
 </content>
-<content id="6014770" includeTime="2023-06-06T20:04:05" urgencyType="1" entryType="3" hash="9DE026B73B2B99B16EAF3489E00CB83B" blockType="domain" ts="2023-06-06T20:04:05">
+<content id="6014770" includeTime="2023-06-06T20:04:05" urgencyType="1" entryType="3" hash="E9C9DA935F49F8D5C94FA0D9B128E4BC" blockType="domain-mask" ts="2024-06-03T20:15:02">
  <decision date="2023-03-21" number="" org=""/>
- <domain><![CDATA[kolsarinfo.club]]></domain>
+ <domain><![CDATA[*.kolsarinfo.club]]></domain>
  <ip>104.21.17.134</ip>
  <ip>172.67.176.203</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:b0cb</ipv6>

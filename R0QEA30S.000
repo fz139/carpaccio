@@ -3159,9 +3159,9 @@
  <ip>151.101.193.91</ip>
  <ip>151.101.65.91</ip>
 </content>
-<content id="6769932" includeTime="2024-02-27T18:50:03" urgencyType="1" entryType="3" hash="F18BD1AFD884AA9DDEC3CB0A2A8C11D5" blockType="domain" ts="2024-02-27T18:50:03">
+<content id="6769932" includeTime="2024-02-27T18:50:03" urgencyType="1" entryType="3" hash="B6B6A832D25E116437A39BA4F90BEC55" blockType="domain-mask" ts="2024-06-03T20:15:02">
  <decision date="2023-01-26" number="" org=""/>
- <domain><![CDATA[vpnovaya.media]]></domain>
+ <domain><![CDATA[*.vpnovaya.media]]></domain>
  <ip>104.21.27.110</ip>
  <ip>172.67.169.33</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a921</ipv6>

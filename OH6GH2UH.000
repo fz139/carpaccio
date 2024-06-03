@@ -3146,9 +3146,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:040c</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:dff0</ipv6>
 </content>
-<content id="5768907" includeTime="2023-04-19T20:16:38" urgencyType="1" entryType="3" hash="B3CD913B1B639B2E275E7FC7CC62F8AE" blockType="domain" ts="2023-04-19T20:16:38">
+<content id="5768907" includeTime="2023-04-19T20:16:38" urgencyType="1" entryType="3" hash="286FBAE123FE58B550D5157AE325A61B" blockType="domain-mask" ts="2024-06-03T20:15:02">
  <decision date="2022-10-05" number="" org=""/>
- <domain><![CDATA[echo01.online]]></domain>
+ <domain><![CDATA[*.echo01.online]]></domain>
  <ip>3.64.41.233</ip>
 </content>
 <content id="5768969" includeTime="2023-04-19T21:54:11" entryType="1" hash="152F8F9398CDF5CE7F3A4C48467D032E" blockType="domain-mask" ts="2023-04-19T21:54:11">

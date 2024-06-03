@@ -3445,9 +3445,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7003283" includeTime="2024-05-08T19:10:02" urgencyType="1" entryType="3" hash="D96E594CBDC2BBFDA10873ED1293AC1A" blockType="domain" ts="2024-05-08T19:10:02">
+<content id="7003283" includeTime="2024-05-08T19:10:02" urgencyType="1" entryType="3" hash="529CFF1C47C7BD18BE3F85DB4C3C51D8" blockType="domain-mask" ts="2024-06-03T20:15:02">
  <decision date="2024-03-12" number="" org=""/>
- <domain><![CDATA[compromat01.group]]></domain>
+ <domain><![CDATA[*.compromat01.group]]></domain>
  <ip>188.166.114.132</ip>
 </content>
 <content id="7003286" includeTime="2024-05-09T11:00:02" urgencyType="1" entryType="3" hash="BBF71386E7D57EF73ACC2CAD58BBD999" blockType="domain-mask" ts="2024-05-09T11:00:02">

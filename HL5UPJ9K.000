@@ -20012,9 +20012,9 @@
  <ipv6>2600:9000:2375:d600:0018:a4f7:b440:0021</ipv6>
  <ipv6>2600:9000:2375:ea00:0018:a4f7:b440:0021</ipv6>
 </content>
-<content id="6172230" includeTime="2023-07-06T19:18:32" urgencyType="1" entryType="3" hash="E54369B5033DD7EDC08F272C93BDD1F9" blockType="domain" ts="2023-07-06T21:04:00">
+<content id="6172230" includeTime="2023-07-06T19:18:32" urgencyType="1" entryType="3" hash="537B149AF15946D067C1BB852E13632D" blockType="domain-mask" ts="2024-06-03T20:15:02">
  <decision date="2023-01-26" number="" org=""/>
- <domain><![CDATA[theinsider.digital]]></domain>
+ <domain><![CDATA[*.theinsider.digital]]></domain>
  <ip>104.21.95.132</ip>
  <ip>172.67.144.250</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:90fa</ipv6>

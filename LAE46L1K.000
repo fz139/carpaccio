@@ -3287,9 +3287,9 @@
  <ipv6>2600:9000:236e:d600:000b:32f2:f840:0021</ipv6>
  <ipv6>2600:9000:236e:f000:000b:32f2:f840:0021</ipv6>
 </content>
-<content id="5653140" includeTime="2023-03-28T19:15:44" urgencyType="1" entryType="3" hash="2054422F0B028EEADF30DFB3E541B3A4" blockType="domain" ts="2023-03-28T19:15:44">
+<content id="5653140" includeTime="2023-03-28T19:15:44" urgencyType="1" entryType="3" hash="FC53A469201F5AAD2720270851B82AAB" blockType="domain-mask" ts="2024-06-03T20:15:02">
  <decision date="2023-03-24" number="" org=""/>
- <domain><![CDATA[rnbee.net]]></domain>
+ <domain><![CDATA[*.rnbee.net]]></domain>
  <ip>104.21.67.218</ip>
  <ip>172.67.181.102</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b566</ipv6>
