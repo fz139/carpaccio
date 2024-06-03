@@ -2157,11 +2157,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7077584" includeTime="2024-06-01T07:55:02" entryType="1" hash="96FEAFD4AD22702C9D0212AC12EE64AC" blockType="domain" ts="2024-06-01T07:55:02">
- <decision date="2024-05-28" number="2559303-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[www.swinglife.ru]]></domain>
- <ip>5.63.158.160</ip>
-</content>
 <content id="7077587" includeTime="2024-05-28T22:50:03" entryType="1" hash="D008A07AC326C96E4F0DCA84AEEC4151" blockType="domain-mask" ts="2024-05-29T09:20:03">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.volna114.casino]]></domain>
@@ -10733,6 +10728,12 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7080887" includeTime="2024-06-03T20:45:02" entryType="1" hash="0AFA7B897627EFBFE4DA26B85FED0498" ts="2024-06-03T20:45:02">
+ <decision date="2024-05-20" number="2а-559/2024" org="Лискинский районный суд - Воронежская область"/>
+ <url><![CDATA[https://worldmarketing.asia/]]></url>
+ <domain><![CDATA[worldmarketing.asia]]></domain>
+ <ip>135.181.144.251</ip>
 </content>
 <content id="7080890" includeTime="2024-05-30T07:05:02" entryType="1" hash="5E7EE73EC7892EA291133A5EB526091F" blockType="domain-mask" ts="2024-05-30T07:05:02">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
