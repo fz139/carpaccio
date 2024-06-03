@@ -7005,9 +7005,9 @@
  <ipv6>2600:9000:2118:a400:001d:2f4b:ea80:0021</ipv6>
  <ipv6>2600:9000:2118:e400:001d:2f4b:ea80:0021</ipv6>
 </content>
-<content id="6765708" includeTime="2024-02-26T18:35:04" urgencyType="1" entryType="3" hash="EB0B95DEEF15D180040803220E4BFB36" blockType="domain" ts="2024-02-26T18:35:04">
+<content id="6765708" includeTime="2024-02-26T18:35:04" urgencyType="1" entryType="3" hash="5B51BC626123B24B73357C3AC4751849" blockType="domain-mask" ts="2024-06-03T15:35:03">
  <decision date="2023-01-26" number="" org=""/>
- <domain><![CDATA[moscowtimes.xyz]]></domain>
+ <domain><![CDATA[*.moscowtimes.xyz]]></domain>
  <ip>95.215.189.30</ip>
  <ipv6>2a00:51c0:0000:0000:0000:0000:5fd7:bd1e</ipv6>
 </content>
