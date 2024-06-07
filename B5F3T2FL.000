@@ -3656,15 +3656,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7090142" includeTime="2024-06-04T00:25:02" entryType="1" hash="3058A5E76398795561CDD1F71329D7FD" ts="2024-06-04T00:25:02">
- <decision date="2024-05-31" number="2565700-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://onlix.online/322-serial-budet-bolno_2022.html]]></url>
- <domain><![CDATA[onlix.online]]></domain>
- <ip>104.21.95.211</ip>
- <ip>172.67.148.158</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:5fd3</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:949e</ipv6>
-</content>
 <content id="7090147" includeTime="2024-06-01T07:55:02" entryType="1" hash="8D5A74419403844D593AE95D6FF52CCC" blockType="domain-mask" ts="2024-06-01T07:55:02">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.admiralx-hch.top]]></domain>
@@ -4849,12 +4840,6 @@
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:90be</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="7090420" includeTime="2024-06-03T13:45:03" entryType="1" hash="D09EAD81DE49A86BEFB20E9AF192440C" ts="2024-06-03T13:45:03">
- <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
- <url><![CDATA[https://cpamonstro.com/smm/besplatnie-vpn-dlya-iphone]]></url>
- <domain><![CDATA[cpamonstro.com]]></domain>
- <ip>78.47.199.87</ip>
 </content>
 <content id="7090424" includeTime="2024-06-04T00:25:02" entryType="1" hash="23AB3A53483E6D6490B7F046316940B4" ts="2024-06-04T00:25:02">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -7647,6 +7632,12 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7091087" includeTime="2024-06-07T15:15:02" entryType="1" hash="28BD362B150E6BEC88F3B15582252E44" blockType="domain" ts="2024-06-07T15:15:02">
+ <decision date="2024-05-30" number="2024-05-28-6072-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[beermania-adler.shop]]></domain>
+ <ip>92.53.96.121</ip>
+ <ipv6>2a03:6f00:0001:0000:0000:0000:5c35:6079</ipv6>
 </content>
 <content id="7091088" includeTime="2024-06-03T13:45:03" entryType="1" hash="A82F6B21DFD3F5CFEE672BE8D706393B" blockType="domain-mask" ts="2024-06-03T13:45:03">
  <decision date="2024-05-31" number="2565594-URL-on" org="Роскомнадзор"/>
