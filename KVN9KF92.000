@@ -4162,10 +4162,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:8511</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:0dbe</ipv6>
 </content>
-<content id="3750863" includeTime="2021-10-30T20:38:15" entryType="1" hash="851CE8DB5662D098057F7CAC696519AD" ts="2021-10-30T20:38:15">
+<content id="3750863" includeTime="2021-10-30T20:38:15" entryType="1" hash="1FA3A05803A4AF8441D789FA14FBAE74" blockType="domain-mask" ts="2024-06-07T14:15:02">
  <decision date="2021-10-29" number="2-6-18/2021-10-26-3435-АИ" org="ФНС"/>
- <url><![CDATA[https://betonmobile.by/bk-leon]]></url>
- <domain><![CDATA[betonmobile.by]]></domain>
+ <domain><![CDATA[*.betonmobile.by]]></domain>
  <ip>104.21.40.74</ip>
  <ip>172.67.181.55</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:284a</ipv6>
@@ -13295,6 +13294,14 @@
  <ip>38.180.123.39</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:0628</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:9acf</ipv6>
+</content>
+<content id="3767755" includeTime="2024-06-07T14:15:02" entryType="1" hash="2BF04A804D6E62CBB1ABBC04C6B6999F" blockType="domain" ts="2024-06-07T14:15:02">
+ <decision date="2021-11-08" number="2021-10-29-214-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[gepatitofs.ru]]></domain>
+ <ip>104.21.66.115</ip>
+ <ip>172.67.159.150</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:9f96</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:4273</ipv6>
 </content>
 <content id="3767756" includeTime="2021-11-10T20:28:03" entryType="1" hash="3CC2324D310AEC118D2386115D5EC12B" ts="2023-07-12T17:35:40">
  <decision date="2021-11-09" number="1493992-URL-on" org="Роскомнадзор"/>
