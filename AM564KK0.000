@@ -1664,9 +1664,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5575</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:cd95</ipv6>
 </content>
-<content id="7103848" includeTime="2024-06-07T15:15:02" entryType="1" hash="B748AB227B9040FDBCEA0677308DA7B4" blockType="domain" ts="2024-06-07T15:15:02">
+<content id="7103848" includeTime="2024-06-07T15:15:02" entryType="1" hash="58C12C450AB0DB39134F32FB96D98CA4" blockType="domain-mask" ts="2024-06-10T13:40:03">
  <decision date="2024-04-24" number="2024-03-27-7859-ÑÎÁ" org="Ðîñêîìíàäçîð"/>
- <domain><![CDATA[croxyproxy.net]]></domain>
+ <domain><![CDATA[*.croxyproxy.net]]></domain>
  <ip>143.244.204.138</ip>
 </content>
 <content id="7103850" includeTime="2024-06-07T15:15:02" entryType="1" hash="EE24F38BCBDD2C14F713E24B16087D4E" ts="2024-06-07T15:15:02">
@@ -5600,10 +5600,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:2cef</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:cd43</ipv6>
 </content>
-<content id="7104999" includeTime="2024-06-07T14:15:02" entryType="1" hash="EE7A43D0BE71402A5B99FED7CE0B6C80" ts="2024-06-07T14:15:02">
+<content id="7104999" includeTime="2024-06-07T14:15:02" entryType="1" hash="6EF535A0E62E82472CCCFE8393124DFF" blockType="domain-mask" ts="2024-06-10T13:40:03">
  <decision date="2024-05-30" number="2-6-14/2024-05-28-9443-ÀÈ" org="ÔÍÑ"/>
- <url><![CDATA[https://7k48.casino/ru]]></url>
- <domain><![CDATA[7k48.casino]]></domain>
+ <domain><![CDATA[*.7k48.casino]]></domain>
  <ip>203.24.103.76</ip>
  <ipv6>2a07:0180:05fb:fa27:9d4b:b4a6:ba92:a417</ipv6>
 </content>
