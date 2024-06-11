@@ -7282,13 +7282,17 @@
  <domain><![CDATA[*.vavadaf.fun]]></domain>
  <ip>185.132.132.251</ip>
 </content>
-<content id="6980952" includeTime="2024-05-13T14:05:02" entryType="1" hash="1A0531AE56FECE5F99B0021087D51557" blockType="domain" ts="2024-05-13T14:05:02">
+<content id="6980952" includeTime="2024-05-13T14:05:02" entryType="1" hash="D0B317E1D4837F64C695FF2EF6CE8866" blockType="domain" ts="2024-06-11T15:30:03">
  <decision date="2024-04-24" number="2024-03-21-3572-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[www.expressvpn.com]]></domain>
  <ip>18.165.122.116</ip>
  <ip>18.165.122.123</ip>
  <ip>18.165.122.58</ip>
  <ip>18.165.122.87</ip>
+ <ip>52.85.49.122</ip>
+ <ip>52.85.49.126</ip>
+ <ip>52.85.49.45</ip>
+ <ip>52.85.49.97</ip>
 </content>
 <content id="6980954" includeTime="2024-04-27T22:15:02" entryType="1" hash="9731DC7904784B4564933E72A72880FE" blockType="domain" ts="2024-04-27T22:15:02">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -8307,12 +8311,16 @@
  <ip>104.21.57.122</ip>
  <ip>172.67.190.94</ip>
 </content>
-<content id="6981235" includeTime="2024-05-02T09:40:03" entryType="1" hash="AF44D0DF2B3D1A380056680E3742F0CC" blockType="domain" ts="2024-05-02T09:40:03">
+<content id="6981235" includeTime="2024-05-02T09:40:03" entryType="1" hash="FCF71E4B9C337052B84ADC5295A899A7" blockType="domain" ts="2024-06-11T15:30:03">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[amnezia.org]]></domain>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.233</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.233</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="6981236" includeTime="2024-04-27T22:15:02" entryType="1" hash="CC41B566D50054358BE88F91650382AC" blockType="domain-mask" ts="2024-04-27T22:15:02">
@@ -9012,10 +9020,12 @@
  <ip>104.21.88.115</ip>
  <ip>172.67.177.216</ip>
 </content>
-<content id="6981428" includeTime="2024-05-02T13:50:04" entryType="1" hash="C60FE81ED856CCB2EFB601A68D702D4E" ts="2024-05-02T13:50:04">
+<content id="6981428" includeTime="2024-05-02T13:50:04" entryType="1" hash="AF119B471957C95D3D414254FC94931B" ts="2024-06-11T15:30:03">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <url><![CDATA[https://www.electromoto.net/interesnoe/kak-podklyuchit-instagram-cherez-vpn-na-ajfone.html]]></url>
  <domain><![CDATA[www.electromoto.net]]></domain>
+ <ip>104.21.54.166</ip>
+ <ip>172.67.168.194</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
@@ -9707,10 +9717,13 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6981623" includeTime="2024-05-02T13:50:04" entryType="1" hash="01C75054023532F079737F1026AB1C54" blockType="domain" ts="2024-05-02T13:50:04">
+<content id="6981623" includeTime="2024-05-02T13:50:04" entryType="1" hash="A1B28D2F903DA7F4874F4D18194E710A" blockType="domain" ts="2024-06-11T15:30:03">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[vpn.freecityvpn.com]]></domain>
- <ip>5.75.245.115</ip>
+ <ip>104.21.95.134</ip>
+ <ip>172.67.144.252</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:90fc</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5f86</ipv6>
 </content>
 <content id="6981647" includeTime="2024-04-28T16:15:02" urgencyType="1" entryType="3" hash="7190B2670477672AB24AAD833AA67CDD" blockType="domain" ts="2024-04-28T16:15:02">
  <decision date="2023-01-26" number="" org=""/>
