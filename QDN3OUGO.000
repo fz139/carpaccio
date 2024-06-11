@@ -680,13 +680,14 @@
  <domain><![CDATA[wulcan24-zerkalo.pp.ru]]></domain>
  <ip>193.163.7.142</ip>
 </content>
-<content id="6900240" includeTime="2024-04-03T11:30:03" entryType="1" hash="E8F189F7B1F3EFE535D8E078DC36520B" blockType="domain-mask" ts="2024-05-07T16:15:02">
+<content id="6900240" includeTime="2024-04-03T11:30:03" entryType="1" hash="3A85CA38617C98E59F82450C20D1B98C" blockType="domain-mask" ts="2024-06-11T15:00:03">
  <decision date="2024-04-01" number="2024-04-01-2444-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.censorship.no]]></domain>
  <ip>135.181.131.152</ip>
  <ip>145.239.67.120</ip>
  <ip>172.104.232.45</ip>
  <ip>51.77.117.40</ip>
+ <ip>65.108.205.203</ip>
 </content>
 <content id="6900243" includeTime="2024-04-01T23:05:03" entryType="1" hash="1F19C982A3274E1A0FF6D897A96C49C4" blockType="domain-mask" ts="2024-04-01T23:05:03">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -11692,12 +11693,16 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6904927" includeTime="2024-04-04T21:55:02" entryType="1" hash="D2CC7E68DEE7E715598DCB2B5C9C7AC2" ts="2024-04-04T21:55:02">
+<content id="6904927" includeTime="2024-04-04T21:55:02" entryType="1" hash="B5D40D66F4A4F042D43A80867CCAFB54" ts="2024-06-11T15:00:03">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <url><![CDATA[https://vpn.inform.click/kak-razblokirovat-veb-sajty-i-prilozhenija-iz-ljubogo-mesta-s-pomoshhju-vpn/]]></url>
  <domain><![CDATA[vpn.inform.click]]></domain>
+ <ip>104.21.60.233</ip>
+ <ip>172.67.202.31</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:ca1f</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:3ce9</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -20593,16 +20598,20 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6908865" includeTime="2024-04-05T13:25:02" entryType="1" hash="6CF525B59CD253EC677F900CCC7ABABD" ts="2024-04-17T13:20:03">
+<content id="6908865" includeTime="2024-04-05T13:25:02" entryType="1" hash="0888C6B4392AE7FC5D34A9D027E5E395" ts="2024-06-11T15:00:03">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <url><![CDATA[https://fastestvpn.com/ru/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C/twitter]]></url>
  <domain><![CDATA[fastestvpn.com]]></domain>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.233</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.233</ip>
  <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
