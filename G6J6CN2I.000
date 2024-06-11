@@ -3208,11 +3208,15 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7042664" includeTime="2024-05-24T10:00:04" entryType="1" hash="4F133779AD4BD87E2A03B0AAADCCD88C" blockType="domain" ts="2024-05-24T10:00:04">
+<content id="7042664" includeTime="2024-05-24T10:00:04" entryType="1" hash="4BB07FF5F442CB3050E877EADADFD4D1" blockType="domain" ts="2024-06-11T16:00:01">
  <decision date="2024-05-21" number="2024-05-20-5034-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[vanyavpn.ru]]></domain>
+ <ip>104.21.43.39</ip>
+ <ip>172.67.218.224</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:dae0</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:2b27</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -3271,12 +3275,16 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:19a5</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:8663</ipv6>
 </content>
-<content id="7042677" includeTime="2024-05-24T16:55:02" entryType="1" hash="6A30BD69748EEAB9FC1E38D4F3DD6AED" blockType="domain-mask" ts="2024-05-24T16:55:02">
+<content id="7042677" includeTime="2024-05-24T16:55:02" entryType="1" hash="E7056A25CC3DEB3B03611F8BC923F60A" blockType="domain-mask" ts="2024-06-11T16:00:01">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.proxy-seller.io]]></domain>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.233</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.233</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="7042678" includeTime="2024-05-22T23:25:02" entryType="1" hash="60121F4DF0D0CF77CAC799C596090A99" blockType="domain" ts="2024-05-22T23:25:02">
