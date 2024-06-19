@@ -720,6 +720,21 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
+<content id="7128825" includeTime="2024-06-19T19:20:02" urgencyType="1" entryType="3" hash="4809EA25EF272C0F01F3517CC21CCE5F" blockType="domain-mask" ts="2024-06-19T19:20:02">
+ <decision date="2024-06-13" number="" org=""/>
+ <domain><![CDATA[*.holod.help]]></domain>
+ <ip>135.181.131.152</ip>
+ <ip>145.239.67.120</ip>
+ <ip>51.77.117.40</ip>
+</content>
+<content id="7128826" includeTime="2024-06-19T19:20:02" urgencyType="1" entryType="3" hash="2D7F12DE21F1423AA4B217F753F7DECA" blockType="domain-mask" ts="2024-06-19T19:20:02">
+ <decision date="2024-06-13" number="" org=""/>
+ <domain><![CDATA[*.hab.media]]></domain>
+ <ip>104.21.85.236</ip>
+ <ip>172.67.212.25</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:d419</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:55ec</ipv6>
+</content>
 <content id="7128827" includeTime="2024-06-18T19:25:02" urgencyType="1" entryType="3" hash="2A11C91B0998CA6324B3118664403D72" blockType="domain-mask" ts="2024-06-18T19:25:02">
  <decision date="2024-06-13" number="" org=""/>
  <domain><![CDATA[*.june12.io]]></domain>
