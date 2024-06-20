@@ -452,12 +452,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6280198" includeTime="2023-08-18T13:15:01" entryType="1" hash="588B209E90B3290E5030CA2746F2E23A" ts="2024-01-29T15:15:03">
- <decision date="2023-08-16" number="2201064-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[http://lpbbs.al/viewtopic.php?f=20&t=638&sid=04add3a686fd1eba0cd2d62fb3e80bc4]]></url>
- <domain><![CDATA[lpbbs.al]]></domain>
- <ip>93.123.72.47</ip>
-</content>
 <content id="6280202" includeTime="2023-08-17T18:20:02" entryType="1" hash="33895F6F90D9D80D480AB9E0789F7B8C" blockType="domain" ts="2023-08-17T18:20:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[cashwars.pw]]></domain>
@@ -12937,18 +12931,22 @@
  <ip>104.21.30.102</ip>
  <ip>172.67.172.189</ip>
 </content>
-<content id="6292486" includeTime="2023-08-22T08:20:02" entryType="1" hash="78EF41E1090844C7240C3986FE226C06" ts="2023-09-27T18:30:03">
+<content id="6292486" includeTime="2023-08-22T08:20:02" entryType="1" hash="B10B1D2C3EAB50CB53174FC0D15572C9" ts="2024-06-20T15:10:03">
  <decision date="2023-08-18" number="2204477-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://nijiero-ch.com/anime-game/idolmaster/108015.html]]></url>
  <domain><![CDATA[nijiero-ch.com]]></domain>
+ <ip>104.21.54.23</ip>
  <ip>104.26.2.61</ip>
  <ip>104.26.3.61</ip>
+ <ip>172.67.222.223</ip>
  <ip>172.67.68.69</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:023d</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:033d</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:4445</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3617</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:dedf</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
