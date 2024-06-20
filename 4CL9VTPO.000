@@ -941,6 +941,33 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:42d0</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a45d</ipv6>
 </content>
+<content id="7136492" includeTime="2024-06-20T19:50:02" urgencyType="1" entryType="3" hash="0EAFCA44C54C6531FD6E8F967E3ED32B" blockType="domain" ts="2024-06-20T19:50:02">
+ <decision date="2024-06-17" number="" org=""/>
+ <domain><![CDATA[invidious.privacydev.net]]></domain>
+ <ip>91.134.161.76</ip>
+</content>
+<content id="7136493" includeTime="2024-06-20T19:50:02" urgencyType="1" entryType="3" hash="675221FA9224175705DC0AA87855A73D" blockType="domain-mask" ts="2024-06-20T19:50:02">
+ <decision date="2024-06-17" number="" org=""/>
+ <domain><![CDATA[*.varta1.xyz]]></domain>
+ <ip>104.21.65.209</ip>
+ <ip>172.67.167.16</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:41d1</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:a710</ipv6>
+</content>
+<content id="7136494" includeTime="2024-06-20T19:50:02" urgencyType="1" entryType="3" hash="6CD55176761D49E75527792CF6A0EBAF" blockType="domain-mask" ts="2024-06-20T19:50:02">
+ <decision date="2024-06-17" number="" org=""/>
+ <domain><![CDATA[*.mykrym.net]]></domain>
+ <ip>46.17.175.39</ip>
+ <ipv6>2a02:4780:0009:1111:0000:0662:a821:0007</ipv6>
+</content>
+<content id="7136495" includeTime="2024-06-20T19:50:02" urgencyType="1" entryType="3" hash="DB596EFA3A44342BCF9E9C346D4921B9" blockType="domain" ts="2024-06-20T19:50:02">
+ <decision date="2024-06-17" number="" org=""/>
+ <domain><![CDATA[invidious.darkness.services]]></domain>
+ <ip>104.21.78.247</ip>
+ <ip>172.67.138.225</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4ef7</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:8ae1</ipv6>
+</content>
 <content id="7136496" includeTime="2024-06-19T09:50:03" entryType="1" hash="7F6200A9E62415CB5DAD1C1CD169CFAE" blockType="domain-mask" ts="2024-06-19T09:50:03">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.casinoonline-r7-o.buzz]]></domain>
