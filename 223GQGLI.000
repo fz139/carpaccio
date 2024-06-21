@@ -3005,15 +3005,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6701459" includeTime="2024-02-05T22:55:02" entryType="1" hash="7224C03DDEEB2225DB318BF453AFFCBC" ts="2024-02-05T22:55:02">
- <decision date="2024-02-01" number="2024-02-01-2081-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <url><![CDATA[https://alfaspirtkl.ru/]]></url>
- <domain><![CDATA[alfaspirtkl.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6701460" includeTime="2024-02-01T22:25:01" entryType="1" hash="05752248D0DA47129FAAC00F66A1C745" blockType="domain-mask" ts="2024-02-01T22:25:01">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.xbet-zerkala.ru]]></domain>
@@ -3124,12 +3115,16 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0ad0</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:83bb</ipv6>
 </content>
-<content id="6701505" includeTime="2024-02-05T14:25:01" entryType="1" hash="C7E6478940D698160FC6EE73D5870226" ts="2024-02-05T14:25:01">
+<content id="6701505" includeTime="2024-02-05T14:25:01" entryType="1" hash="10C37AC3DCE274A8008EF82F9D0AF6DD" ts="2024-06-21T14:30:02">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[http://antostar.ru/geroin-naryan-mar.html]]></url>
  <domain><![CDATA[antostar.ru]]></domain>
+ <ip>104.21.5.170</ip>
+ <ip>172.67.133.167</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:85a7</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:05aa</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
