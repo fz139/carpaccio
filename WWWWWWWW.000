@@ -301,9 +301,9 @@
  <ipv6>2600:9000:2334:c800:000b:77f8:b4c0:0021</ipv6>
  <ipv6>2600:9000:2334:f400:000b:77f8:b4c0:0021</ipv6>
 </content>
-<content id="7147242" includeTime="2024-06-22T17:40:03" urgencyType="1" entryType="3" hash="DE18C1AF67CA173ADB0495535E8B238D" blockType="domain" ts="2024-06-22T17:40:03">
+<content id="7147242" includeTime="2024-06-22T17:40:03" urgencyType="1" entryType="3" hash="4C28DE55816C7FC05D004B35D03E1FA1" blockType="domain-mask" ts="2024-06-22T17:45:02">
  <decision date="2022-10-05" number="" org=""/>
- <domain><![CDATA[echohello.site]]></domain>
+ <domain><![CDATA[*.echohello.site]]></domain>
  <ip>3.64.41.233</ip>
 </content>
 <content id="7147243" includeTime="2024-06-22T17:40:03" urgencyType="1" entryType="3" hash="132F68D3D5F916C16B7EC48D6114B895" blockType="domain" ts="2024-06-22T17:40:03">
