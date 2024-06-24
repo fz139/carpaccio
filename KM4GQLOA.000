@@ -8636,9 +8636,9 @@
  <domain><![CDATA[www.allmostbeer2.online]]></domain>
  <ip>45.140.19.249</ip>
 </content>
-<content id="6970033" includeTime="2024-04-25T09:05:01" entryType="1" hash="1A4C1C356182C91A0961FDBE1BD19E07" blockType="domain" ts="2024-04-25T09:05:01">
+<content id="6970033" includeTime="2024-04-25T09:05:01" entryType="1" hash="9A7BB06099CAE9E1EF7E180240B1181B" blockType="domain-mask" ts="2024-06-24T13:25:02">
  <decision date="2024-04-23" number="2024-03-13-4098-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[alkohub.com]]></domain>
+ <domain><![CDATA[*.alkohub.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
