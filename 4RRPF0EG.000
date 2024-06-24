@@ -666,9 +666,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:460e</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d9b3</ipv6>
 </content>
-<content id="4858049" includeTime="2022-10-10T22:22:19" urgencyType="1" entryType="3" hash="4C20ACFA52DF7B01D7DBE653006CF031" blockType="domain" ts="2022-10-10T22:22:19">
+<content id="4858049" includeTime="2022-10-10T22:22:19" urgencyType="1" entryType="3" hash="BCF2BAFFE38C1438CCCF0B4079D93944" blockType="domain-mask" ts="2024-06-24T19:25:03">
  <decision date="2022-09-22" number="" org=""/>
- <domain><![CDATA[www.15min.lt]]></domain>
+ <domain><![CDATA[*.15min.lt]]></domain>
  <ip>185.11.24.12</ip>
  <ip>185.11.24.36</ip>
  <ip>185.11.24.37</ip>
