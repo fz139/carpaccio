@@ -740,14 +740,6 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:d681</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:562a</ipv6>
 </content>
-<content id="7134832" includeTime="2024-06-20T15:40:03" entryType="1" hash="DFEE15813762934E7211A5C4080D1D16" blockType="domain" ts="2024-06-20T15:40:03">
- <decision date="2024-06-18" number="2592733-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[pornixy.com]]></domain>
- <ip>104.21.53.192</ip>
- <ip>172.67.217.242</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:35c0</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:d9f2</ipv6>
-</content>
 <content id="7134833" includeTime="2024-06-19T09:50:03" entryType="1" hash="8FC5FD4A96E48EE024018C568E704A8F" blockType="domain-mask" ts="2024-06-19T09:50:03">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vavada-xx1.com]]></domain>
@@ -2728,12 +2720,6 @@
  <ip>172.67.179.68</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:506a</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:b344</ipv6>
-</content>
-<content id="7135247" includeTime="2024-06-21T15:00:03" entryType="1" hash="76CC3E1C201F8869409DFC8C4BA3ED7F" ts="2024-06-21T15:00:03">
- <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
- <url><![CDATA[https://knotes.ru/kak-zajti-na-zablokirovannyj-sajt]]></url>
- <domain><![CDATA[knotes.ru]]></domain>
- <ip>77.246.151.105</ip>
 </content>
 <content id="7135252" includeTime="2024-06-19T13:35:03" entryType="1" hash="62695652E1E7DDE0EA285FEC0183CAA0" ts="2024-06-19T13:35:03">
  <decision date="2024-06-18" number="2592865-URL-on" org="Роскомнадзор"/>
