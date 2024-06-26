@@ -350,6 +350,11 @@
  <ip>135.125.161.39</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:7047</ipv6>
 </content>
+<content id="7154654" includeTime="2024-06-26T13:20:04" entryType="1" hash="DAFFB1A45E993BB330561408E6EFDD84" blockType="domain" ts="2024-06-26T13:20:04">
+ <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[intisi.ru]]></domain>
+ <ip>38.180.14.185</ip>
+</content>
 <content id="7154656" includeTime="2024-06-26T00:10:03" entryType="1" hash="9CFB3D87AA1D01DF5739BAC5DFE1A814" blockType="domain-mask" ts="2024-06-26T00:10:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.joycasino-ll.xyz]]></domain>
@@ -819,6 +824,11 @@
  <domain><![CDATA[*.pin-up-casino-aef7.top]]></domain>
  <ip>162.19.253.38</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:0ffe</ipv6>
+</content>
+<content id="7154813" includeTime="2024-06-26T13:20:04" entryType="1" hash="6B7877BA12995F1F5522C9A80FDE181E" blockType="domain" ts="2024-06-26T13:20:04">
+ <decision date="2024-06-25" number="2024-06-24-8882-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[alko-taxi15.ru]]></domain>
+ <ip>92.119.113.137</ip>
 </content>
 <content id="7154821" includeTime="2024-06-26T00:10:03" entryType="1" hash="EC9182B33B19A45B5B92324C1803DC72" blockType="domain-mask" ts="2024-06-26T00:10:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2817,5 +2827,13 @@
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdom-bro32.ru]]></domain>
  <ip>92.119.113.37</ip>
+</content>
+<content id="7156405" includeTime="2024-06-26T13:20:04" entryType="1" hash="E30EB1CFD21E36A32F8CE4CDF963CC4E" blockType="domain-mask" ts="2024-06-26T13:20:04">
+ <decision date="2024-06-26" number="2604459-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.17lordfilm.fun]]></domain>
+ <ip>104.21.88.252</ip>
+ <ip>172.67.155.49</ip>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:58fc</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:9b31</ipv6>
 </content>
 </reg:register>
