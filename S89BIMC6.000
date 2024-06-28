@@ -1877,6 +1877,30 @@
  <ip>104.21.70.176</ip>
  <ip>172.67.138.11</ip>
 </content>
+<content id="7165971" includeTime="2024-06-28T09:40:03" entryType="1" hash="91D4C7723414154646E7F1FF3A89C44C" blockType="domain" ts="2024-06-28T09:40:03">
+ <decision date="2024-06-27" number="2611917-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[see.gaynsk.club]]></domain>
+ <ip>104.21.31.6</ip>
+ <ip>172.67.174.68</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:1f06</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:ae44</ipv6>
+</content>
+<content id="7165975" includeTime="2024-06-28T09:40:03" entryType="1" hash="C5AE9B3094E8C755776027CCD5896BC3" blockType="domain" ts="2024-06-28T09:40:03">
+ <decision date="2024-06-27" number="2611933-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[rs.bbsgayru25.com]]></domain>
+ <ip>104.21.84.175</ip>
+ <ip>172.67.195.113</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:54af</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:c371</ipv6>
+</content>
+<content id="7165977" includeTime="2024-06-28T09:40:03" entryType="1" hash="C1E3572B9583A1C3C593C60B0E0D1E10" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kraken14-att.ru]]></domain>
+ <ip>104.21.41.228</ip>
+ <ip>172.67.195.151</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:c397</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:29e4</ipv6>
+</content>
 <content id="7165978" includeTime="2024-06-27T23:55:03" entryType="1" hash="8EF4F67E9953B39DCB33E12949B8D186" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdom-1kla16.buzz]]></domain>
@@ -1889,6 +1913,14 @@
  <ip>172.67.152.73</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9849</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0c76</ipv6>
+</content>
+<content id="7165981" includeTime="2024-06-28T09:40:03" entryType="1" hash="B7B240B381290C87F3994AE0F5AA72C2" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.zs24.biz]]></domain>
+ <ip>104.21.48.102</ip>
+ <ip>172.67.183.204</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:3066</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:b7cc</ipv6>
 </content>
 <content id="7165982" includeTime="2024-06-27T23:55:03" entryType="1" hash="5C9176486E7EEFC815F28F70B2161438" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1974,6 +2006,14 @@
  <ip>162.19.253.38</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:0ffe</ipv6>
 </content>
+<content id="7166016" includeTime="2024-06-28T09:40:03" entryType="1" hash="7BBC4AD261D5F245C8BC97C07779AEB0" blockType="domain" ts="2024-06-28T09:40:03">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[www.kernbyr.ru]]></domain>
+ <ip>104.21.29.190</ip>
+ <ip>172.67.149.168</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1dbe</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:95a8</ipv6>
+</content>
 <content id="7166033" includeTime="2024-06-27T23:55:03" entryType="1" hash="FD890328C031EAB1E16E918B6D873A7E" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vavada-vip3.com]]></domain>
@@ -2026,6 +2066,14 @@
  <ip>162.19.253.38</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:0ffe</ipv6>
 </content>
+<content id="7166053" includeTime="2024-06-28T09:40:03" entryType="1" hash="F3BA280E25B4D3F915C59EB2A0BEDFA6" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.altfina.ru]]></domain>
+ <ip>104.21.80.47</ip>
+ <ip>172.67.174.86</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:502f</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:ae56</ipv6>
+</content>
 <content id="7166054" includeTime="2024-06-27T23:55:03" entryType="1" hash="7CF53FCE569C1C6A6304B3289C48D8D4" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pinupcasinovsn.ru]]></domain>
@@ -2047,11 +2095,27 @@
  <domain><![CDATA[*.vavadaolp.com]]></domain>
  <ip>185.104.211.35</ip>
 </content>
+<content id="7166059" includeTime="2024-06-28T09:40:03" entryType="1" hash="73C9E47D3F3EAC7EEFC502AAF27BFDB9" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.angor72.ru]]></domain>
+ <ip>104.21.79.85</ip>
+ <ip>172.67.169.105</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:4f55</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:a969</ipv6>
+</content>
 <content id="7166061" includeTime="2024-06-27T23:55:03" entryType="1" hash="E8D5A47E174E563F11678777DF92377D" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.freshcasino-eva2.top]]></domain>
  <ip>104.21.56.167</ip>
  <ip>172.67.187.46</ip>
+</content>
+<content id="7166062" includeTime="2024-06-28T09:40:03" entryType="1" hash="A2C908EEA31338E7556658540E370F51" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.swim-pools.ru]]></domain>
+ <ip>104.21.90.116</ip>
+ <ip>172.67.200.101</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:c865</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:5a74</ipv6>
 </content>
 <content id="7166064" includeTime="2024-06-27T23:55:03" entryType="1" hash="4BCC8064338F854E01A1B78781BCD217" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2355,6 +2419,14 @@
  <ip>162.19.253.10</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:48de</ipv6>
 </content>
+<content id="7166159" includeTime="2024-06-28T09:40:03" entryType="1" hash="D43783B3B936A0B2F26AD2AA76412FFC" blockType="domain" ts="2024-06-28T09:40:03">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[www.music-market-spb.ru]]></domain>
+ <ip>104.21.36.129</ip>
+ <ip>172.67.194.95</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:c25f</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:2481</ipv6>
+</content>
 <content id="7166184" includeTime="2024-06-27T23:55:03" entryType="1" hash="DBD88439943CFEDC6783FCBAE03AADA2" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.gamesgo12y.ru]]></domain>
@@ -2397,6 +2469,14 @@
  <ip>162.19.253.10</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:48de</ipv6>
 </content>
+<content id="7166196" includeTime="2024-06-28T09:40:03" entryType="1" hash="3C6D4A4870AB3FE4614EA61FCC726CE3" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.uno-dos.ru]]></domain>
+ <ip>104.21.31.204</ip>
+ <ip>172.67.179.242</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:b3f2</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:1fcc</ipv6>
+</content>
 <content id="7166197" includeTime="2024-06-27T23:55:03" entryType="1" hash="195817A7F1340A467FDD53A32471BF78" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.joycasino-ebw.buzz]]></domain>
@@ -2427,11 +2507,27 @@
  <ip>162.19.253.10</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:48de</ipv6>
 </content>
+<content id="7166202" includeTime="2024-06-28T09:40:03" entryType="1" hash="4DD2DEC0CF019891D2888229AF34F675" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.smpo-russia.ru]]></domain>
+ <ip>104.21.64.63</ip>
+ <ip>172.67.177.79</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:403f</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:b14f</ipv6>
+</content>
 <content id="7166204" includeTime="2024-06-27T23:55:03" entryType="1" hash="17240C74EE51AD31F55E612DC0CF2F56" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vavada-vo5.top]]></domain>
  <ip>162.19.253.10</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:48de</ipv6>
+</content>
+<content id="7166205" includeTime="2024-06-28T09:40:03" entryType="1" hash="B23AC83C5FF90D5BBB9B429D57017172" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.teplonomov.ru]]></domain>
+ <ip>104.21.69.107</ip>
+ <ip>172.67.207.110</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:456b</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:cf6e</ipv6>
 </content>
 <content id="7166208" includeTime="2024-06-27T23:55:03" entryType="1" hash="A110C7325B97FB2E828C1D99E02BB439" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2621,6 +2717,14 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:2c8e</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c8c4</ipv6>
 </content>
+<content id="7166262" includeTime="2024-06-28T09:40:03" entryType="1" hash="67D13A6B0222D9A2FC671DC795E232AD" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.anarhyshop.vip]]></domain>
+ <ip>104.21.71.48</ip>
+ <ip>172.67.169.122</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:4730</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:a97a</ipv6>
+</content>
 <content id="7166264" includeTime="2024-06-27T23:55:03" entryType="1" hash="87470A7F542576A3EFAD8ABB20113FBF" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.r7casino-lvi.top]]></domain>
@@ -2693,6 +2797,14 @@
  <domain><![CDATA[*.pin-up-casino-siy8.top]]></domain>
  <ip>162.19.253.38</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:0ffe</ipv6>
+</content>
+<content id="7166298" includeTime="2024-06-28T09:40:03" entryType="1" hash="310AE26BC8A8AD87BD3BAD8BF23496A2" blockType="domain" ts="2024-06-28T09:40:03">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[www.detsad118vrn.ru]]></domain>
+ <ip>104.21.78.253</ip>
+ <ip>172.67.138.231</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:4efd</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:8ae7</ipv6>
 </content>
 <content id="7166315" includeTime="2024-06-27T23:55:03" entryType="1" hash="14D01825683FEA4FD74A531C0A943F2E" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2947,6 +3059,14 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0cae</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:98d7</ipv6>
 </content>
+<content id="7166386" includeTime="2024-06-28T09:40:03" entryType="1" hash="027AFFA14C08D033A1BC450ED338890B" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.hleb24.biz]]></domain>
+ <ip>104.21.76.108</ip>
+ <ip>172.67.193.93</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:c15d</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:4c6c</ipv6>
+</content>
 <content id="7166399" includeTime="2024-06-27T23:55:03" entryType="1" hash="E0FBD8EEAEA2C42955B9DBCF1BBD0A00" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdom-por.top]]></domain>
@@ -3029,6 +3149,15 @@
  <ip>162.19.253.10</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:48de</ipv6>
 </content>
+<content id="7166437" includeTime="2024-06-28T09:40:03" entryType="1" hash="E0BC834C7D234DAFC8D86D958FEDDB7D" ts="2024-06-28T09:40:03">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://www.moi-pereezd.ru/]]></url>
+ <domain><![CDATA[www.moi-pereezd.ru]]></domain>
+ <ip>104.21.19.217</ip>
+ <ip>172.67.190.60</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:be3c</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:13d9</ipv6>
+</content>
 <content id="7166458" includeTime="2024-06-27T23:55:03" entryType="1" hash="BF687A43B7E7CEFF3E6C33C1C9F2BDE4" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.7k-casino208.xyz]]></domain>
@@ -3089,6 +3218,14 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:8a27</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3eba</ipv6>
 </content>
+<content id="7166477" includeTime="2024-06-28T09:40:03" entryType="1" hash="3C774CACE0818068ED025173D4ACBBF4" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.gb1-syzran.ru]]></domain>
+ <ip>104.21.76.138</ip>
+ <ip>172.67.195.192</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:c3c0</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:4c8a</ipv6>
+</content>
 <content id="7166479" includeTime="2024-06-27T23:55:03" entryType="1" hash="BBB374900A6A9D60F4C48ECED68FF751" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vox-casin0.xyz]]></domain>
@@ -3097,10 +3234,26 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:aad8</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:1c8a</ipv6>
 </content>
+<content id="7166480" includeTime="2024-06-28T09:40:03" entryType="1" hash="23929EC7FF85745E13D6FF02A60152A4" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.vladco-71.ru]]></domain>
+ <ip>104.21.23.70</ip>
+ <ip>172.67.209.125</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1746</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:d17d</ipv6>
+</content>
 <content id="7166482" includeTime="2024-06-27T23:55:03" entryType="1" hash="681678009D32CA6FA43A3624E7C9682F" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.maxbetslotsawesome.ru]]></domain>
  <ip>185.196.8.72</ip>
+</content>
+<content id="7166483" includeTime="2024-06-28T09:40:03" entryType="1" hash="C71B4962F8B5792A70D4851A07ABC4AE" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.zabotavdome.ru]]></domain>
+ <ip>104.21.31.127</ip>
+ <ip>172.67.176.134</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:1f7f</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:b086</ipv6>
 </content>
 <content id="7166486" includeTime="2024-06-27T23:55:03" entryType="1" hash="87479E3846731D7F59CA0CAAD1BFDFC2" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -3268,6 +3421,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:0c5f</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:83f9</ipv6>
 </content>
+<content id="7166525" includeTime="2024-06-28T09:40:03" entryType="1" hash="9ED3541AAEFF5E23DF17EAB492172066" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.amsterdam24.biz]]></domain>
+ <ip>104.21.17.5</ip>
+ <ip>172.67.218.12</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:da0c</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:1105</ipv6>
+</content>
 <content id="7166538" includeTime="2024-06-27T23:55:03" entryType="1" hash="0EE080CCCD4DF823314820C026DAC365" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.kent-casino-vbk.buzz]]></domain>
@@ -3421,6 +3582,14 @@
  <ip>172.67.168.244</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:3f04</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a8f4</ipv6>
+</content>
+<content id="7166615" includeTime="2024-06-28T09:40:03" entryType="1" hash="744489867387A464ABBC8690E5AB73D0" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.pekokonditer.ru]]></domain>
+ <ip>104.21.52.138</ip>
+ <ip>172.67.199.241</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:c7f1</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:348a</ipv6>
 </content>
 <content id="7166617" includeTime="2024-06-27T23:55:03" entryType="1" hash="8EA5D20C42B998C181108008D251C2B5" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -3635,6 +3804,11 @@
  <ip>162.19.253.38</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:0ffe</ipv6>
 </content>
+<content id="7166679" includeTime="2024-06-28T09:40:03" entryType="1" hash="B281598A407DD1CDAABE874D71C02B93" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.basch.biz]]></domain>
+ <ip>93.113.175.219</ip>
+</content>
 <content id="7166680" includeTime="2024-06-27T23:55:03" entryType="1" hash="7B9E1D0D9643F1F16E91545C358C2ED8" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.7k-casino338.xyz]]></domain>
@@ -3650,6 +3824,14 @@
  <ip>172.67.156.158</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:080d</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:9c9e</ipv6>
+</content>
+<content id="7166684" includeTime="2024-06-28T09:40:03" entryType="1" hash="BA8E1F93DCF3BA299940C715ECEDB0FE" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.rtx24.biz]]></domain>
+ <ip>104.21.49.37</ip>
+ <ip>172.67.141.12</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:8d0c</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:3125</ipv6>
 </content>
 <content id="7166686" includeTime="2024-06-27T23:55:03" entryType="1" hash="716387D4CC421280BBC08D6693CF0865" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -3874,6 +4056,14 @@
  <ip>172.67.165.188</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:59e3</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a5bc</ipv6>
+</content>
+<content id="7166775" includeTime="2024-06-28T09:40:03" entryType="1" hash="15A5C8A63D325D2379E4D186FAF60D2E" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.zhivayaraskraska.ru]]></domain>
+ <ip>104.21.37.34</ip>
+ <ip>172.67.203.112</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:cb70</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:2522</ipv6>
 </content>
 <content id="7166776" includeTime="2024-06-27T19:15:03" entryType="5" hash="72ADFF9331631CEE93B5EC088804845C" blockType="domain" ts="2024-06-27T19:15:03">
  <decision date="2024-06-18" number="1з-88473/2024" org="Минцифры"/>
@@ -4190,6 +4380,14 @@
  <domain><![CDATA[ru4.lordserialc3.pro]]></domain>
  <ip>5.45.65.9</ip>
 </content>
+<content id="7166917" includeTime="2024-06-28T09:40:03" entryType="1" hash="63521B007CA2125F4D1754DA2BE8D7EE" blockType="domain" ts="2024-06-28T09:40:03">
+ <decision date="2024-06-27" number="2611915-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[fkk.gayche1.xyz]]></domain>
+ <ip>104.21.78.36</ip>
+ <ip>172.67.215.186</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:4e24</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:d7ba</ipv6>
+</content>
 <content id="7166933" includeTime="2024-06-27T19:15:03" entryType="5" hash="93A87A3562D1B6EE7462A95C26A70E4B" blockType="domain" ts="2024-06-27T19:15:03">
  <decision date="2024-06-18" number="1з-88452/2024" org="Минцифры"/>
  <domain><![CDATA[tv5.lordfilms4.online]]></domain>
@@ -4197,6 +4395,14 @@
  <ip>172.67.172.167</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2fce</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:aca7</ipv6>
+</content>
+<content id="7166938" includeTime="2024-06-28T09:40:03" entryType="1" hash="0170453A3151D9E928BAC22AA6C8C9B0" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.krakens15.at]]></domain>
+ <ip>104.21.25.20</ip>
+ <ip>172.67.222.5</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:1914</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:de05</ipv6>
 </content>
 <content id="7166939" includeTime="2024-06-27T23:55:03" entryType="1" hash="3BA5207F6880723866379B4ECBE31FFD" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4211,6 +4417,14 @@
  <domain><![CDATA[*.vavada-qag3.top]]></domain>
  <ip>162.19.253.10</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:48de</ipv6>
+</content>
+<content id="7166945" includeTime="2024-06-28T09:40:03" entryType="1" hash="ADECE3B3056D870C85BAF1CD424C9CD3" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.dom67-sml.ru]]></domain>
+ <ip>104.21.75.250</ip>
+ <ip>172.67.184.139</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:b88b</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:4bfa</ipv6>
 </content>
 <content id="7166950" includeTime="2024-06-27T23:55:03" entryType="1" hash="70A40EB59C9796153A490A8D3C0FDACC" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4617,6 +4831,14 @@
  <ip>172.67.155.233</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:48f1</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9be9</ipv6>
+</content>
+<content id="7167161" includeTime="2024-06-28T09:40:03" entryType="1" hash="08E9B091E22CBFE4CCB17932D0E54877" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.reklama-peterburg.ru]]></domain>
+ <ip>104.21.39.94</ip>
+ <ip>172.67.144.7</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:275e</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:9007</ipv6>
 </content>
 <content id="7167172" includeTime="2024-06-27T23:55:03" entryType="1" hash="8E14DA1A14E878408CC6890F8E5CAD23" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -5125,6 +5347,14 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:c37d</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4c83</ipv6>
 </content>
+<content id="7167295" includeTime="2024-06-28T09:40:03" entryType="1" hash="BAE993BAC6032FD4BB554813C8BFF367" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kraken12at.icu]]></domain>
+ <ip>104.21.21.134</ip>
+ <ip>172.67.198.214</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:c6d6</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:1586</ipv6>
+</content>
 <content id="7167298" includeTime="2024-06-27T23:55:03" entryType="1" hash="DAAAE71D7D841F24D718CF8709D50A8E" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.r7-casinoofficial7-win.win]]></domain>
@@ -5163,6 +5393,14 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
 </content>
+<content id="7167305" includeTime="2024-06-28T09:40:03" entryType="1" hash="A2CCA52D08C4784080CD280561DCA559" blockType="domain-mask" ts="2024-06-28T09:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.visa2day.ru]]></domain>
+ <ip>104.21.42.65</ip>
+ <ip>172.67.202.226</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:2a41</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:cae2</ipv6>
+</content>
 <content id="7167306" includeTime="2024-06-27T19:15:03" entryType="5" hash="8D932ACE76EEA04547D97A7E8B3BAC8B" blockType="domain" ts="2024-06-27T19:15:03">
  <decision date="2024-06-17" number="1з-88347/2024" org="Минцифры"/>
  <domain><![CDATA[univer-13-let-spustja-v1.lordfilms.nl]]></domain>
@@ -5175,6 +5413,15 @@
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[game.kasino-vulcan.xyz]]></domain>
  <ip>193.163.7.50</ip>
+</content>
+<content id="7167308" includeTime="2024-06-28T09:40:03" entryType="1" hash="122FA93DFE666F0306E3038536FD0B55" ts="2024-06-28T09:40:03">
+ <decision date="2024-06-27" number="2611964-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://rs.bbsgayru25.com/piter]]></url>
+ <domain><![CDATA[rs.bbsgayru25.com]]></domain>
+ <ip>104.21.84.175</ip>
+ <ip>172.67.195.113</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:54af</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:c371</ipv6>
 </content>
 <content id="7167309" includeTime="2024-06-27T23:55:03" entryType="1" hash="B44D3C0AC5EF74E2094175523C783742" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
