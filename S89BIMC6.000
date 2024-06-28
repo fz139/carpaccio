@@ -145,6 +145,22 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:3aef</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a643</ipv6>
 </content>
+<content id="7163873" includeTime="2024-06-28T20:10:03" urgencyType="1" entryType="3" hash="34695AA5815C74FCFC765A8CA36906BE" blockType="domain-mask" ts="2024-06-28T20:10:03">
+ <decision date="2024-06-26" number="" org=""/>
+ <domain><![CDATA[*.dept.one]]></domain>
+ <ip>104.21.83.127</ip>
+ <ip>172.67.175.221</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:afdd</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:537f</ipv6>
+</content>
+<content id="7163875" includeTime="2024-06-28T20:10:03" urgencyType="1" entryType="3" hash="68CBDF8D49D88E77CBAFBED1B187289B" blockType="domain-mask" ts="2024-06-28T20:10:03">
+ <decision date="2024-06-26" number="" org=""/>
+ <domain><![CDATA[*.kamenckoe.net]]></domain>
+ <ip>104.21.74.234</ip>
+ <ip>172.67.164.159</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:a49f</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:4aea</ipv6>
+</content>
 <content id="7163879" includeTime="2024-06-27T18:45:03" urgencyType="1" entryType="3" hash="9774B8D8C178CB2C7717FE50B1CC47E9" blockType="domain" ts="2024-06-27T18:45:03">
  <decision date="2023-01-26" number="" org=""/>
  <domain><![CDATA[d3f2yk7djk4f9o.cloudfront.net]]></domain>
@@ -7029,6 +7045,33 @@
  <ip>172.67.140.184</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:8cb8</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:2ea7</ipv6>
+</content>
+<content id="7168568" includeTime="2024-06-28T20:10:03" urgencyType="1" entryType="3" hash="A0C6E533FF2FA9E4F2567FC84B9A074A" blockType="domain" ts="2024-06-28T20:10:03">
+ <decision date="2024-06-27" number="" org=""/>
+ <domain><![CDATA[russia.fes.de]]></domain>
+ <ip>195.243.222.65</ip>
+</content>
+<content id="7168569" includeTime="2024-06-28T20:10:03" urgencyType="1" entryType="3" hash="D7FC9E55FB9A13D171226FF476A8550E" blockType="domain" ts="2024-06-28T20:10:03">
+ <decision date="2024-06-27" number="" org=""/>
+ <domain><![CDATA[www.fes.de]]></domain>
+ <ip>195.243.222.30</ip>
+</content>
+<content id="7168570" includeTime="2024-06-28T20:10:03" urgencyType="1" entryType="3" hash="AB7D1181DB6D84F2B8E2792DBAFDC1A6" blockType="domain" ts="2024-06-28T20:10:03">
+ <decision date="2024-06-27" number="" org=""/>
+ <domain><![CDATA[ccl.org.ua]]></domain>
+ <ip>135.181.131.152</ip>
+ <ip>145.239.67.120</ip>
+ <ip>65.108.205.203</ip>
+</content>
+<content id="7168571" includeTime="2024-06-28T20:10:03" urgencyType="1" entryType="3" hash="957B70D5F2A9C055D6BEA4A437A894C0" blockType="domain-mask" ts="2024-06-28T20:10:03">
+ <decision date="2024-06-27" number="" org=""/>
+ <domain><![CDATA[*.freedomhouse.org]]></domain>
+ <ip>104.20.3.128</ip>
+ <ip>104.20.4.128</ip>
+ <ip>172.67.33.58</ip>
+ <ipv6>2606:4700:0010:0000:0000:0000:6814:0380</ipv6>
+ <ipv6>2606:4700:0010:0000:0000:0000:6814:0480</ipv6>
+ <ipv6>2606:4700:0010:0000:0000:0000:ac43:213a</ipv6>
 </content>
 <content id="7168572" includeTime="2024-06-27T21:15:03" entryType="2" hash="BE67F5981717B8E911B0B08C5BD87477" ts="2024-06-27T21:15:03">
  <decision date="2024-05-08" number="определение о предварительном обеспечении по заявлению № 2И-10385/2024" org="Мосгорсуд"/>
