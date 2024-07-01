@@ -930,6 +930,14 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:5a4b</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:99cc</ipv6>
 </content>
+<content id="7103707" includeTime="2024-07-01T13:55:03" entryType="1" hash="E659AEA576F47A9AA1378F44578BF5CD" blockType="domain" ts="2024-07-01T13:55:03">
+ <decision date="2024-06-03" number="2024-05-22-4975-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[insta-vpn-insta-vpn.softonic.ru]]></domain>
+ <ip>151.101.1.91</ip>
+ <ip>151.101.129.91</ip>
+ <ip>151.101.193.91</ip>
+ <ip>151.101.65.91</ip>
+</content>
 <content id="7103708" includeTime="2024-06-06T07:55:03" entryType="1" hash="20F2BB3AE32568FEEB8812D354E40BA8" blockType="domain-mask" ts="2024-06-06T07:55:03">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.admiralx-pdu.buzz]]></domain>
@@ -2063,6 +2071,15 @@
  <ip>162.19.253.10</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:48de</ipv6>
 </content>
+<content id="7103939" includeTime="2024-07-01T13:55:03" entryType="1" hash="F01A939375B57DD6206F245DE7AF94B3" ts="2024-07-01T13:55:03">
+ <decision date="2024-05-31" number="2024-05-23-9695-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://freevpnplanet.com/ru/chrome]]></url>
+ <domain><![CDATA[freevpnplanet.com]]></domain>
+ <ip>188.114.98.224</ip>
+ <ip>188.114.99.224</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+</content>
 <content id="7103940" includeTime="2024-06-06T07:55:03" entryType="1" hash="EF7D484AEA1334ABDEC08455411B3A14" blockType="domain-mask" ts="2024-06-06T07:55:03">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pin-up-win-plays1.top]]></domain>
@@ -2432,6 +2449,14 @@
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdom-2opl5.ru]]></domain>
  <ip>92.119.113.37</ip>
+</content>
+<content id="7104013" includeTime="2024-07-01T13:55:03" entryType="1" hash="5DD9FD2528F34A6AC38949204070A3DA" blockType="domain" ts="2024-07-01T13:55:03">
+ <decision date="2024-06-04" number="2024-05-21-6322-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[veepn.softonic.ru]]></domain>
+ <ip>151.101.1.91</ip>
+ <ip>151.101.129.91</ip>
+ <ip>151.101.193.91</ip>
+ <ip>151.101.65.91</ip>
 </content>
 <content id="7104015" includeTime="2024-06-07T15:15:02" entryType="1" hash="C946906C1C8B0609167D2E4596A81829" ts="2024-06-07T15:15:02">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -12068,6 +12093,11 @@
  <ip>172.67.141.102</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:2911</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:8d66</ipv6>
+</content>
+<content id="7107505" includeTime="2024-07-01T13:55:03" entryType="1" hash="D3C92C9B4B24C2E5E792D7E2D7B253F4" blockType="domain" ts="2024-07-01T13:55:03">
+ <decision date="2024-06-06" number="2576115-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[vladmodels.icu]]></domain>
+ <ip>51.195.190.56</ip>
 </content>
 <content id="7107506" includeTime="2024-06-07T14:15:02" entryType="1" hash="DDC7F70A0F96ED52ECE842794094D621" blockType="domain" ts="2024-06-07T14:15:02">
  <decision date="2024-05-31" number="2-6-14/2024-05-29-8816-АИ" org="ФНС"/>
