@@ -4292,9 +4292,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5576</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:cd96</ipv6>
 </content>
-<content id="7124240" includeTime="2024-06-14T07:05:02" entryType="1" hash="5D34360B47C0FA7D43F45ADB19614EE7" blockType="domain" ts="2024-06-14T07:05:02">
+<content id="7124240" includeTime="2024-06-14T07:05:02" entryType="1" hash="44D84CD7DEB18E5E39978A68C5A2CB77" blockType="domain-mask" ts="2024-07-02T22:00:04">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[kior.kz]]></domain>
+ <domain><![CDATA[*.kior.kz]]></domain>
  <ip>104.21.70.198</ip>
  <ip>172.67.138.238</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:8aee</ipv6>
