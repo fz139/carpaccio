@@ -2546,9 +2546,9 @@
  <ipv6>2a02:0b48:4000:000d:0000:0000:0000:0001</ipv6>
  <ipv6>2a02:0b49:0004:0008:0000:0000:0000:0001</ipv6>
 </content>
-<content id="185402" includeTime="2015-05-14T12:34:11" entryType="1" hash="DCBA75F1F285725795A416595F036A41" blockType="domain" ts="2015-05-14T12:34:11">
+<content id="185402" includeTime="2015-05-14T12:34:11" entryType="1" hash="37F7D4CDA73EDC0AD540F11DC583200E" blockType="domain-mask" ts="2024-07-03T15:50:02">
  <decision date="2015-02-19" number="2-132/15" org="Апастовский районный суд Республики Татарстан"/>
- <domain><![CDATA[xhamster.com]]></domain>
+ <domain><![CDATA[*.xhamster.com]]></domain>
  <ip>88.208.24.33</ip>
  <ip>88.208.24.46</ip>
  <ip>88.208.24.49</ip>
