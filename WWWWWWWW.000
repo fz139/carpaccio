@@ -5588,10 +5588,11 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:91d9</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1c6a</ipv6>
 </content>
-<content id="7178277" includeTime="2024-07-02T23:00:02" entryType="1" hash="31C2AB39C45B0C133A2E1BC3445A7E39" blockType="domain-mask" ts="2024-07-02T23:00:02">
+<content id="7178277" includeTime="2024-07-02T23:00:02" entryType="1" hash="820383A2519F7B1521502107EF20A911" blockType="domain-mask" ts="2024-07-03T11:10:03">
  <decision date="2024-06-25" number="2-6-14/2024-06-24-7490-АИ" org="ФНС"/>
  <domain><![CDATA[*.play-fortuna80xl.com]]></domain>
  <ip>37.1.197.107</ip>
+ <ip>37.1.201.27</ip>
 </content>
 <content id="7178278" includeTime="2024-07-02T23:00:02" entryType="1" hash="69E696F776386AD94A93E5FE7D9E7F46" blockType="domain" ts="2024-07-02T23:00:02">
  <decision date="2024-06-25" number="2-6-14/2024-06-21-5707-АИ" org="ФНС"/>
@@ -6319,10 +6320,11 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3cee</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:ca8a</ipv6>
 </content>
-<content id="7178395" includeTime="2024-07-02T23:00:02" entryType="1" hash="7C6D56E36F29198F311E09A40CE50913" blockType="domain-mask" ts="2024-07-02T23:00:02">
+<content id="7178395" includeTime="2024-07-02T23:00:02" entryType="1" hash="E050DB2FBB8B6CC5857D07859142C8EB" blockType="domain-mask" ts="2024-07-03T11:10:03">
  <decision date="2024-06-25" number="2-6-14/2024-06-24-5930-АИ" org="ФНС"/>
  <domain><![CDATA[*.play-fortuna5lh1.com]]></domain>
  <ip>37.1.197.107</ip>
+ <ip>37.1.201.27</ip>
 </content>
 <content id="7178396" includeTime="2024-07-02T13:55:01" entryType="1" hash="9D329DA43942F4C1CEB0B72D91ECEB28" blockType="domain" ts="2024-07-02T13:55:01">
  <decision date="2024-06-26" number="2-6-14/2024-06-21-5779-АИ" org="ФНС"/>
@@ -13709,5 +13711,15 @@
  <url><![CDATA[https://text-songs.ru/elektropartizany-volnaya-ingriya]]></url>
  <domain><![CDATA[text-songs.ru]]></domain>
  <ip>38.180.2.41</ip>
+</content>
+<content id="7182334" includeTime="2024-07-03T11:10:03" entryType="5" hash="D4F036C71879BBE889DEA12502ED2545" blockType="domain" ts="2024-07-03T11:10:03">
+ <decision date="2024-02-29" number="решение суда по делу № 3-0224/2024" org="Мосгорсуд"/>
+ <domain><![CDATA[sharlib.com]]></domain>
+ <ip>93.95.98.63</ip>
+</content>
+<content id="7182335" includeTime="2024-07-03T11:10:03" entryType="5" hash="5D237747BC9B7BB7B775E31D1EC135D0" blockType="domain" ts="2024-07-03T11:10:03">
+ <decision date="2024-01-30" number="решение суда по делу № 3-0228/2024" org="Мосгорсуд"/>
+ <domain><![CDATA[audio-books.su]]></domain>
+ <ip>185.231.68.62</ip>
 </content>
 </reg:register>
