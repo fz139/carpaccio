@@ -4415,9 +4415,9 @@
  <ip>198.54.117.199</ip>
  <ip>198.54.117.200</ip>
 </content>
-<content id="687663" includeTime="2017-10-26T14:28:13" entryType="5" hash="9DAE824E6A327BFA32317FD8329A887F" blockType="domain" ts="2017-10-26T14:28:13">
+<content id="687663" includeTime="2017-10-26T14:28:13" entryType="5" hash="D021252419F347F0FFD492E2FB0A32C4" blockType="domain-mask" ts="2024-07-04T15:10:04">
  <decision date="2017-10-25" number="АВ-П17-079-25511" org="Минкомсвязь"/>
- <domain><![CDATA[kinogo.plus]]></domain>
+ <domain><![CDATA[*.kinogo.plus]]></domain>
  <ip>104.21.24.67</ip>
  <ip>172.67.217.88</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:1843</ipv6>

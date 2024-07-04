@@ -3723,9 +3723,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6615043" includeTime="2023-12-28T19:40:02" entryType="5" hash="12E86EE5B413D44F084A7D865548DC1E" blockType="domain" ts="2023-12-28T19:40:02">
+<content id="6615043" includeTime="2023-12-28T19:40:02" entryType="5" hash="732C946002CD715DF3404DA3FD009E9F" blockType="domain-mask" ts="2024-07-04T15:10:04">
  <decision date="2023-12-27" number="1з-77537/2023" org="Минцифры"/>
- <domain><![CDATA[kinogo.bot]]></domain>
+ <domain><![CDATA[*.kinogo.bot]]></domain>
  <ip>104.21.8.154</ip>
  <ip>172.67.188.140</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:089a</ipv6>
