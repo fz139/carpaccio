@@ -5525,15 +5525,6 @@
  <ip>162.19.253.10</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:48de</ipv6>
 </content>
-<content id="7171404" includeTime="2024-07-01T13:55:03" entryType="1" hash="602FB41FBB5641F21FCAB991C1C15906" ts="2024-07-01T13:55:03">
- <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
- <url><![CDATA[https://freebrowsers.ru/news/2337]]></url>
- <domain><![CDATA[freebrowsers.ru]]></domain>
- <ip>104.21.5.139</ip>
- <ip>172.67.154.163</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:9aa3</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:058b</ipv6>
-</content>
 <content id="7171405" includeTime="2024-07-01T09:50:04" entryType="1" hash="EF65E499A351A8250FC481A99DB275C3" blockType="domain-mask" ts="2024-07-01T09:50:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.zavodmetakon.ru]]></domain>
@@ -5607,6 +5598,14 @@
  <ip>172.67.218.55</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:5e0e</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:da37</ipv6>
+</content>
+<content id="7171417" includeTime="2024-07-04T14:10:02" entryType="1" hash="03C9B993E3F440CCE81E449C32A6A9DE" blockType="domain-mask" ts="2024-07-04T14:10:02">
+ <decision date="2024-06-28" number="2613986-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lordsfilm.space]]></domain>
+ <ip>104.21.22.81</ip>
+ <ip>172.67.203.120</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:cb78</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:1651</ipv6>
 </content>
 <content id="7171418" includeTime="2024-06-29T00:15:03" entryType="1" hash="C199323E3A550DA03CDCB527D85751E9" blockType="domain-mask" ts="2024-06-29T00:15:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -7549,12 +7548,6 @@
  <ip>172.67.148.161</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:94a1</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1d53</ipv6>
-</content>
-<content id="7171828" includeTime="2024-07-02T00:15:02" entryType="1" hash="C70AB34DE3538C5140F6A9B86ED38D22" ts="2024-07-02T00:15:02">
- <decision date="2024-06-28" number="2614291-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[http://xtext.ru/xtext10926.html]]></url>
- <domain><![CDATA[xtext.ru]]></domain>
- <ip>213.174.158.132</ip>
 </content>
 <content id="7171830" includeTime="2024-06-29T00:15:03" entryType="1" hash="5C1F85B36B5C5B0C7BF5B5C6496D52D8" blockType="domain-mask" ts="2024-06-29T00:15:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
