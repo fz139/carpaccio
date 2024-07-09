@@ -39372,6 +39372,15 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
+<content id="7192896" includeTime="2024-07-09T22:20:02" entryType="1" hash="DAB9E41C7592515D0F7A0FD0709B27A0" ts="2024-07-09T22:20:02">
+ <decision date="2024-06-26" number="2024-05-30-9114-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://downradar.ru/ne-rabotaet/vpn.net]]></url>
+ <domain><![CDATA[downradar.ru]]></domain>
+ <ip>104.21.64.112</ip>
+ <ip>172.67.183.130</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:b782</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:4070</ipv6>
+</content>
 <content id="7192897" includeTime="2024-07-04T23:25:02" entryType="1" hash="7EBC0A9EA6F210068AE3BA8C238BB005" blockType="domain-mask" ts="2024-07-04T23:25:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.gogamex1i.ru]]></domain>
@@ -45619,6 +45628,12 @@
  <domain><![CDATA[*.jetcasino-ecot2.top]]></domain>
  <ip>104.21.20.101</ip>
  <ip>172.67.192.19</ip>
+</content>
+<content id="7195901" includeTime="2024-07-09T22:20:02" entryType="1" hash="EDF29C90AA8014219A79B790AC5BC98B" ts="2024-07-09T22:20:02">
+ <decision date="2024-07-05" number="2627230-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://ru2.cam4.com/male]]></url>
+ <domain><![CDATA[ru2.cam4.com]]></domain>
+ <ip>185.94.239.81</ip>
 </content>
 <content id="7195902" includeTime="2024-07-05T23:50:03" entryType="1" hash="01D8E56C1E0C89948A203728A9296C40" blockType="domain-mask" ts="2024-07-05T23:50:03">
  <decision date="2024-07-03" number="2-6-14/2024-07-01-11632-АИ" org="ФНС"/>
