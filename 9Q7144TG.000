@@ -727,11 +727,15 @@
  <ip>162.19.252.248</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:0b66</ipv6>
 </content>
-<content id="6984618" includeTime="2024-05-03T13:20:01" entryType="1" hash="7F006FBECDCA7825577D9327BF4BD8D5" blockType="domain-mask" ts="2024-05-03T13:20:01">
+<content id="6984618" includeTime="2024-05-03T13:20:01" entryType="1" hash="25DB7BECDE99A911D968EDD681DCD3DA" blockType="domain-mask" ts="2024-07-09T12:40:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.psb-marketplace.ru]]></domain>
+ <ip>104.21.40.232</ip>
+ <ip>172.67.157.148</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:28e8</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:9d94</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -1704,12 +1708,16 @@
  <ip>104.21.24.248</ip>
  <ip>172.67.221.61</ip>
 </content>
-<content id="6984840" includeTime="2024-05-06T13:45:01" entryType="1" hash="424AB4F91C92CC1D398365A8EA399C9B" ts="2024-05-06T13:45:01">
+<content id="6984840" includeTime="2024-05-06T13:45:01" entryType="1" hash="75BAE705F705FE078DF24F65C5F36399" ts="2024-07-09T12:40:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://wiederkraft-82.ru/index.html]]></url>
  <domain><![CDATA[wiederkraft-82.ru]]></domain>
+ <ip>104.21.10.195</ip>
+ <ip>172.67.190.210</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:bed2</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:0ac3</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
