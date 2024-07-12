@@ -7022,11 +7022,6 @@
  <domain><![CDATA[a.gayvl.xyz]]></domain>
  <ip>185.155.96.140</ip>
 </content>
-<content id="6593580" includeTime="2023-12-21T14:15:05" entryType="1" hash="54CAE2314437F18AB5E4CD8ADEB496DB" blockType="domain" ts="2023-12-21T14:15:05">
- <decision date="2023-12-20" number="2338253-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[traphubya.cc]]></domain>
- <ip>51.83.231.216</ip>
-</content>
 <content id="6593583" includeTime="2023-12-20T22:40:03" entryType="1" hash="1FB9438F17FFF934CB3AD5277B5521B3" blockType="domain-mask" ts="2023-12-20T22:40:03">
  <decision date="2017-06-20" number="2-6-20/2017-06-20-319-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.maxbett-oficiale.click]]></domain>
@@ -7274,12 +7269,16 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:31e8</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c35e</ipv6>
 </content>
-<content id="6593650" includeTime="2023-12-22T14:00:05" entryType="1" hash="FA9E1098939375914C26DEB9B5BAE8D9" ts="2023-12-22T14:00:05">
+<content id="6593650" includeTime="2023-12-22T14:00:05" entryType="1" hash="091A0E44DA02F1A5B2EBA5E3D587685B" ts="2024-07-12T13:15:04">
  <decision date="2023-12-04" number="2а-852/2023" org="Нижнесергинский районный суд - Свердловская область"/>
  <url><![CDATA[https://allbankcards.net/debit]]></url>
  <domain><![CDATA[allbankcards.net]]></domain>
+ <ip>104.21.94.109</ip>
+ <ip>172.67.222.185</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:5e6d</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:deb9</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>

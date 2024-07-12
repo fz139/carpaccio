@@ -3475,14 +3475,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6677515" includeTime="2024-01-26T14:10:02" entryType="1" hash="F16AA88BD308696A728704E967686D3E" blockType="domain" ts="2024-01-26T14:10:02">
- <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[kraken3y.net]]></domain>
- <ip>104.21.45.104</ip>
- <ip>172.67.213.37</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:d525</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:2d68</ipv6>
-</content>
 <content id="6677517" includeTime="2024-01-29T13:35:03" entryType="1" hash="00CCFDF17D25CBD399CD7FDD72E6CA84" ts="2024-03-04T12:00:02">
  <decision date="2024-01-25" number="2376789-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://girlhuub.al/showthread.php?tid=419&pid=1365612]]></url>
@@ -10110,12 +10102,14 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:298a</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:a506</ipv6>
 </content>
-<content id="6679928" includeTime="2024-01-30T21:50:02" entryType="1" hash="D80A7F8596EE069F3BC79243F9A41D8A" ts="2024-01-30T21:50:02">
+<content id="6679928" includeTime="2024-01-30T21:50:02" entryType="1" hash="7113864F229FDE7F2A9B94683C8BB609" ts="2024-07-12T13:15:04">
  <decision date="2024-01-23" number="2а-114/2024 (2а-1597/2023)" org="Медведевский районный суд - Республика Марий Эл"/>
  <url><![CDATA[https://www.booksamillion.com/p/Mein-Kampf/Adolf-Hitler/9780984536139?id=8984101713933]]></url>
  <domain><![CDATA[www.booksamillion.com]]></domain>
  <ip>104.17.212.4</ip>
  <ip>104.17.213.4</ip>
+ <ip>104.18.240.150</ip>
+ <ip>104.19.239.217</ip>
 </content>
 <content id="6679929" includeTime="2024-01-27T04:50:01" entryType="1" hash="56BD1E5EF4CAB56D1700E99717FCFA4F" blockType="domain-mask" ts="2024-01-29T13:05:03">
  <decision date="2024-01-25" number="2-6-14/2024-01-22-8269-АИ" org="ФНС"/>
