@@ -1745,6 +1745,14 @@
  <ip>54.38.138.252</ip>
  <ipv6>2001:41d0:0601:2000:0000:0000:0000:0f77</ipv6>
 </content>
+<content id="7226544" includeTime="2024-07-17T23:45:02" entryType="1" hash="39E91CCBB069E7A5D83DF094BB8A33C7" blockType="domain-mask" ts="2024-07-17T23:45:02">
+ <decision date="2024-07-16" number="2644911-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.ficbook.com]]></domain>
+ <ip>188.114.98.224</ip>
+ <ip>188.114.99.224</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+</content>
 <content id="7226546" includeTime="2024-07-16T23:05:02" entryType="1" hash="A39489F3A2B952611E1520590975F4C3" blockType="domain-mask" ts="2024-07-16T23:05:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.kcson-pyshchug.ru]]></domain>
