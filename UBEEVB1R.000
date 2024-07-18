@@ -7020,9 +7020,9 @@
  <ip>104.21.81.240</ip>
  <ip>172.67.192.29</ip>
 </content>
-<content id="7207868" includeTime="2024-07-10T23:35:02" entryType="1" hash="CA5458DD0FEECC6DCEC52603F9F64ED4" blockType="domain" ts="2024-07-10T23:35:02">
+<content id="7207868" includeTime="2024-07-10T23:35:02" entryType="1" hash="F9128D22FC844D31BFDF13371B62E5A2" blockType="domain-mask" ts="2024-07-18T23:15:03">
  <decision date="2024-07-09" number="2-6-14/2024-07-08-7568-АИ" org="ФНС"/>
- <domain><![CDATA[beecooks.fr]]></domain>
+ <domain><![CDATA[*.beecooks.fr]]></domain>
  <ip>104.21.38.139</ip>
  <ip>172.67.223.45</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:268b</ipv6>
@@ -10288,6 +10288,14 @@
  <ip>104.21.51.17</ip>
  <ip>172.67.217.246</ip>
 </content>
+<content id="7209693" includeTime="2024-07-18T23:45:03" entryType="1" hash="0BACBF0AE262033D15E3A6D21DF8602D" blockType="domain" ts="2024-07-18T23:45:03">
+ <decision date="2023-07-17" number="2а-343/2023" org="Полесский районный суд - Калининградская область"/>
+ <domain><![CDATA[go.pimp36.info]]></domain>
+ <ip>104.21.77.91</ip>
+ <ip>172.67.205.252</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:4d5b</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:cdfc</ipv6>
+</content>
 <content id="7209694" includeTime="2024-07-10T23:35:02" entryType="1" hash="2450257DD2D16F5E4C02CC991BFD9093" blockType="domain-mask" ts="2024-07-10T23:35:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.selector-777-casino.fun]]></domain>
@@ -10880,6 +10888,14 @@
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vavadasvd.com]]></domain>
  <ip>5.61.54.107</ip>
+</content>
+<content id="7209844" includeTime="2024-07-18T23:45:03" entryType="1" hash="4A5B2609CD7CAC7736B1CC54ACE637EF" blockType="domain" ts="2024-07-18T23:45:03">
+ <decision date="2023-07-17" number="2а-343/2023" org="Полесский районный суд - Калининградская область"/>
+ <domain><![CDATA[dosug.pimp36.info]]></domain>
+ <ip>104.21.77.91</ip>
+ <ip>172.67.205.252</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:4d5b</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:cdfc</ipv6>
 </content>
 <content id="7209845" includeTime="2024-07-10T23:35:02" entryType="1" hash="096F0D0F0D6D60E1E9549F1F3E27BCF3" blockType="domain" ts="2024-07-10T23:35:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

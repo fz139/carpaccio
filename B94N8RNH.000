@@ -32001,10 +32001,9 @@
  <ip>181.214.1.140</ip>
  <ip>181.214.1.150</ip>
 </content>
-<content id="7188547" includeTime="2024-07-04T23:25:02" entryType="1" hash="F942199CA51557E3865CEE004F3549DC" ts="2024-07-04T23:25:02">
+<content id="7188547" includeTime="2024-07-04T23:25:02" entryType="1" hash="3FDD5034667247377D36497B91741416" blockType="domain-mask" ts="2024-07-18T23:15:03">
  <decision date="2024-07-02" number="2-6-14/2024-06-28-12621-АИ" org="ФНС"/>
- <url><![CDATA[https://rfrk.ru/aktualnyj-keshbek-rox-kazino/]]></url>
- <domain><![CDATA[rfrk.ru]]></domain>
+ <domain><![CDATA[*.rfrk.ru]]></domain>
  <ip>104.21.26.248</ip>
  <ip>172.67.139.175</ip>
 </content>
@@ -32580,6 +32579,11 @@
  <ip>172.67.182.211</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:5bf7</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:b6d3</ipv6>
+</content>
+<content id="7188952" includeTime="2024-07-18T23:45:03" entryType="1" hash="6D6133DEB503AFCBE40DBED3A7E7BD31" blockType="domain" ts="2024-07-18T23:45:03">
+ <decision date="2024-05-31" number="2а-863/2024" org="Черемушкинский районный суд - Москва"/>
+ <domain><![CDATA[citysimka24.ru]]></domain>
+ <ip>91.228.152.144</ip>
 </content>
 <content id="7188953" includeTime="2024-07-04T23:25:02" entryType="1" hash="BC0123D3A189437CAEE24613C68785F6" blockType="domain-mask" ts="2024-07-04T23:25:02">
  <decision date="2024-07-02" number="2-6-14/2024-07-01-1321-АИ" org="ФНС"/>
