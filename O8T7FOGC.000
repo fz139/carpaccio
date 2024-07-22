@@ -4177,12 +4177,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:17b5</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d478</ipv6>
 </content>
-<content id="7231139" includeTime="2024-07-19T14:55:03" entryType="1" hash="C443BEEA685690428FA128C4F5E21474" ts="2024-07-19T14:55:03">
- <decision date="2024-07-17" number="2647563-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[http://51.38.147.105/index.htm]]></url>
- <domain><![CDATA[51.38.147.105]]></domain>
- <ip>51.38.147.105</ip>
-</content>
 <content id="7231140" includeTime="2024-07-17T23:45:02" entryType="1" hash="F2F71075363EE7E32A047B2070B9C80D" blockType="domain-mask" ts="2024-07-17T23:45:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vulkan24-fv1.top]]></domain>
@@ -7089,15 +7083,6 @@
  <domain><![CDATA[prizma-med.ru]]></domain>
  <ip>104.21.19.134</ip>
  <ip>172.67.186.106</ip>
-</content>
-<content id="7231937" includeTime="2024-07-20T09:45:02" entryType="1" hash="8BCED8D3FD5C251829177C3815E43E68" ts="2024-07-20T09:45:02">
- <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
- <url><![CDATA[https://jsk-oren.ru/internet/kak-razblokirovat-zablokirovannye-sajty.html]]></url>
- <domain><![CDATA[jsk-oren.ru]]></domain>
- <ip>104.21.2.35</ip>
- <ip>172.67.128.170</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:80aa</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:0223</ipv6>
 </content>
 <content id="7231938" includeTime="2024-07-17T23:45:02" entryType="1" hash="8756DBF2B0331E17649CAB30063F7058" blockType="domain-mask" ts="2024-07-17T23:45:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -10340,6 +10325,11 @@
  <domain><![CDATA[*.platinumcasino187.com]]></domain>
  <ip>203.29.54.29</ip>
  <ipv6>2a05:7880:019a:fd65:5dfa:3a9b:cffd:6e19</ipv6>
+</content>
+<content id="7233066" includeTime="2024-07-22T16:05:01" entryType="1" hash="2085FAB54F423DD6A5B3D61DBF0132EE" blockType="domain" ts="2024-07-22T16:05:01">
+ <decision date="2024-07-18" number="2648369-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[swing-kiska.ru]]></domain>
+ <ip>87.249.37.22</ip>
 </content>
 <content id="7233067" includeTime="2024-07-18T23:45:03" entryType="1" hash="5C2B77EE1B84612864BED58AAD2D627E" blockType="domain" ts="2024-07-18T23:45:03">
  <decision date="2024-07-17" number="2-6-14/2024-07-16-8072-АИ" org="ФНС"/>
