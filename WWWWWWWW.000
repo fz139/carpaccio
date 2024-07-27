@@ -2611,6 +2611,14 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
 </content>
+<content id="7263614" includeTime="2024-07-27T12:00:03" urgencyType="1" entryType="3" hash="952F3731EC0152E928E1FFFD610761A9" blockType="domain-mask" ts="2024-07-27T12:00:03">
+ <decision date="2024-07-26" number="" org=""/>
+ <domain><![CDATA[*.kriis.ee]]></domain>
+ <ip>141.101.90.16</ip>
+ <ip>141.101.90.17</ip>
+ <ipv6>2a06:98c1:3200:0000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3200:0000:0000:0000:0000:0007</ipv6>
+</content>
 <content id="7263616" includeTime="2024-07-27T07:10:02" entryType="1" hash="6D575C8B45296E255706D930FDFCA09A" blockType="domain-mask" ts="2024-07-27T07:10:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.gamacasino1543.xyz]]></domain>
@@ -5717,5 +5725,47 @@
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vavadaj8.site]]></domain>
  <ip>190.115.24.47</ip>
+</content>
+<content id="7264821" includeTime="2024-07-27T12:00:03" urgencyType="1" entryType="3" hash="3FD03F4F06F3C5B12427AD85D7E289BF" ts="2024-07-27T12:00:03">
+ <decision date="2023-08-11" number="" org=""/>
+ <url><![CDATA[https://nitter.privacydev.net/fnl_org]]></url>
+ <domain><![CDATA[nitter.privacydev.net]]></domain>
+ <ip>91.134.161.76</ip>
+</content>
+<content id="7264822" includeTime="2024-07-27T12:00:03" urgencyType="1" entryType="3" hash="B75204FA0B85EA86A820469BCC019481" ts="2024-07-27T12:00:03">
+ <decision date="2023-08-11" number="" org=""/>
+ <url><![CDATA[https://nitter.freedit.eu/fnl_org]]></url>
+ <domain><![CDATA[nitter.freedit.eu]]></domain>
+ <ip>104.21.86.145</ip>
+ <ip>172.67.220.149</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5691</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:dc95</ipv6>
+</content>
+<content id="7264823" includeTime="2024-07-27T12:00:03" urgencyType="1" entryType="3" hash="6BC9716EC883CB2ACC63C4823F9DACFF" ts="2024-07-27T12:00:03">
+ <decision date="2023-08-11" number="" org=""/>
+ <url><![CDATA[https://no-logs.com/channel/UC4Jp8GzjZ7cmwQ9fiHzkeOA]]></url>
+ <domain><![CDATA[no-logs.com]]></domain>
+ <ip>70.34.209.93</ip>
+</content>
+<content id="7264824" includeTime="2024-07-27T12:00:03" urgencyType="1" entryType="3" hash="A3D325A3D2F10224B88E8DFF1C586D09" ts="2024-07-27T12:00:03">
+ <decision date="2023-08-11" number="" org=""/>
+ <url><![CDATA[https://nitter.freedit.eu/freenationsrf]]></url>
+ <domain><![CDATA[nitter.freedit.eu]]></domain>
+ <ip>104.21.86.145</ip>
+ <ip>172.67.220.149</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5691</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:dc95</ipv6>
+</content>
+<content id="7264825" includeTime="2024-07-27T12:00:03" urgencyType="1" entryType="3" hash="58BDBAF9BE52D6E36F29538B9B03495B" ts="2024-07-27T12:00:03">
+ <decision date="2023-08-11" number="" org=""/>
+ <url><![CDATA[https://nitter.privacydev.net/freenationsrf]]></url>
+ <domain><![CDATA[nitter.privacydev.net]]></domain>
+ <ip>91.134.161.76</ip>
+</content>
+<content id="7264826" includeTime="2024-07-27T12:00:03" urgencyType="1" entryType="3" hash="9C8987F329272EE292760EB6C669E9B7" ts="2024-07-27T12:00:03">
+ <decision date="2023-08-11" number="" org=""/>
+ <url><![CDATA[https://no-logs.com/channel/UC9GX7E1o69jz1QvO5QvbkZQ]]></url>
+ <domain><![CDATA[no-logs.com]]></domain>
+ <ip>70.34.209.93</ip>
 </content>
 </reg:register>
