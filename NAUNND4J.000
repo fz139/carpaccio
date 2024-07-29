@@ -536,9 +536,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7081675" includeTime="2024-05-31T14:05:03" entryType="1" hash="C42B56D7F3B281307FC84EE449E08932" blockType="domain" ts="2024-07-29T11:20:02">
+<content id="7081675" includeTime="2024-05-31T14:05:03" entryType="1" hash="C76F30126871BB697CE67169F4F77305" blockType="domain-mask" ts="2024-07-29T13:25:02">
  <decision date="2024-05-29" number="2024-05-28-7870-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[suxilepcom.ru]]></domain>
+ <domain><![CDATA[*.suxilepcom.ru]]></domain>
  <ip>104.21.15.26</ip>
  <ip>172.67.161.15</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0f1a</ipv6>
