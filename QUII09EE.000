@@ -4863,6 +4863,14 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:d169</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:2d29</ipv6>
 </content>
+<content id="7201550" includeTime="2024-08-02T23:35:02" entryType="1" hash="CEDB07D5485A8986CA58B7FFBD7BC8D6" blockType="domain" ts="2024-08-02T23:35:02">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[trip111-biz.snil.city]]></domain>
+ <ip>104.21.17.231</ip>
+ <ip>172.67.178.166</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:11e7</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:b2a6</ipv6>
+</content>
 <content id="7201551" includeTime="2024-07-09T14:10:03" entryType="1" hash="C87F18A5C2BF864344DA0BE0063ED341" blockType="domain-mask" ts="2024-07-09T14:10:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.5188555.ru]]></domain>
@@ -6013,6 +6021,11 @@
  <ip>172.67.197.238</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:1564</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c5ee</ipv6>
+</content>
+<content id="7201833" includeTime="2024-08-02T23:35:02" entryType="1" hash="1FC8718DABEA5E77D3ED22EF6A30842C" blockType="domain" ts="2024-08-02T23:35:02">
+ <decision date="2024-07-03" number="2а-3584/2024" org="Октябрьский районный суд г. Улан-Удэ - Республика Бурятия"/>
+ <domain><![CDATA[kupit.voennikrus2.top]]></domain>
+ <ip>5.61.48.87</ip>
 </content>
 <content id="7201834" includeTime="2024-07-10T15:10:02" entryType="1" hash="D59448A4583982A6F855E19B9F8655C1" ts="2024-07-10T15:10:02">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
