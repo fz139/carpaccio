@@ -1666,6 +1666,14 @@
  <ip>162.19.253.10</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:48de</ipv6>
 </content>
+<content id="7277360" includeTime="2024-08-07T00:00:03" entryType="1" hash="0EE8117CA7CE3CDD08EB1706AB34559B" blockType="domain-mask" ts="2024-08-07T00:00:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kraken--14-at.ru]]></domain>
+ <ip>104.21.47.29</ip>
+ <ip>172.67.144.41</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:2f1d</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:9029</ipv6>
+</content>
 <content id="7277361" includeTime="2024-07-31T23:50:02" entryType="1" hash="4A07C2F3DBDBF8F354D56390DB695737" blockType="domain-mask" ts="2024-07-31T23:50:02">
  <decision date="2017-06-22" number="2-6-20/2017-06-21-86-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pinup-casinomainit.top]]></domain>
