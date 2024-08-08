@@ -11,18 +11,6 @@
  <ipv6>2406:da00:ff00:0000:0000:0000:3414:6492</ipv6>
  <ipv6>2406:da00:ff00:0000:0000:0000:3437:b4cb</ipv6>
 </content>
-<content id="3857507" includeTime="2021-12-12T21:49:56" entryType="1" hash="265122B9D5BD4387D29E294653FD88BA" ts="2021-12-12T21:49:56">
- <decision date="2021-12-09" number="1525149-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/145778554700.png]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="3857510" includeTime="2021-12-12T21:49:57" entryType="1" hash="0A8DC4890AF8A81E16AC4C438FBF0299" ts="2021-12-12T21:49:57">
- <decision date="2021-12-09" number="1525157-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/145652354700.png]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
 <content id="3857523" includeTime="2021-12-09T19:00:13" entryType="1" hash="C32322961C3678C152BEDCDCE6A26C18" blockType="domain" ts="2021-12-09T19:00:13">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[www.asiandream.ru]]></domain>
@@ -73,12 +61,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b88d</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4bfc</ipv6>
 </content>
-<content id="3857598" includeTime="2021-12-12T21:49:56" entryType="1" hash="60E6881DB66EF7C26B16D13CA6F0A46A" ts="2021-12-12T21:49:56">
- <decision date="2021-12-09" number="1525150-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/145729515800.png]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
 <content id="3857603" includeTime="2021-12-14T22:23:40" entryType="1" hash="146B3991B0CD112665C22E699443A633" blockType="domain" ts="2021-12-14T22:23:40">
  <decision date="2021-11-25" number="2а-6011/2021" org="Куйбышевский районный суд г. Омска - Омская область"/>
  <domain><![CDATA[booil12t.com]]></domain>
@@ -120,12 +102,6 @@
  <decision date="2021-11-15" number="2а-4606/2021" org="Шахтинский городской суд - Ростовская область"/>
  <domain><![CDATA[shahty.area-diplomy.com]]></domain>
  <ip>157.245.72.144</ip>
-</content>
-<content id="3857708" includeTime="2021-12-12T21:49:57" entryType="1" hash="F2089911D74FB99ED70F5C6864CAE4B9" ts="2021-12-12T21:49:57">
- <decision date="2021-12-09" number="1525151-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/145716728000.jpg]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
 </content>
 <content id="3857711" includeTime="2021-12-09T19:00:09" entryType="1" hash="9CC9CA1CEB94E00887116FDB677A252A" blockType="domain-mask" ts="2021-12-09T19:00:09">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -3681,29 +3657,11 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0257</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:baf0</ipv6>
 </content>
-<content id="3862541" includeTime="2021-12-12T21:49:55" entryType="1" hash="B3838219AB638B1AA011210956260DB3" ts="2021-12-12T21:49:55">
- <decision date="2021-12-10" number="1526950-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/145782791600.jpg]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
-<content id="3862543" includeTime="2021-12-12T21:49:55" entryType="1" hash="5EC88442A291C91B45AF8C9349C757DC" ts="2021-12-12T21:49:55">
- <decision date="2021-12-10" number="1526958-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/145778577900.png]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
-</content>
 <content id="3862550" includeTime="2021-12-13T19:10:29" entryType="1" hash="7BA74B4217AAEA31BC5ABB22A3C3B038" ts="2023-09-06T13:45:02">
  <decision date="2021-12-09" number="2а-2294/2021" org="Грязинский городской суд Липецкой области"/>
  <url><![CDATA[https://lipetsk.area-diploma.com/spravki]]></url>
  <domain><![CDATA[lipetsk.area-diploma.com]]></domain>
  <ip>157.245.72.144</ip>
-</content>
-<content id="3862557" includeTime="2021-12-12T21:49:56" entryType="1" hash="4A5957E3B4E75D37A115A590400F1DFA" ts="2021-12-12T21:49:56">
- <decision date="2021-12-10" number="1527013-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://boards.plus4chan.org/pco/145732502700.png]]></url>
- <domain><![CDATA[boards.plus4chan.org]]></domain>
- <ip>104.244.75.22</ip>
 </content>
 <content id="3862589" includeTime="2021-12-13T13:23:50" entryType="1" hash="A076F86429AE14070FF51B422B997FCB" ts="2021-12-13T13:23:50">
  <decision date="2021-11-29" number="2а-3745/2021" org="Хостинский районный суд г.Сочи"/>
