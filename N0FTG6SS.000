@@ -1205,9 +1205,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7069674" includeTime="2024-05-24T22:35:03" entryType="1" hash="784B2A1769E366BD41BD95CF32B86001" blockType="domain" ts="2024-05-24T22:35:03">
+<content id="7069674" includeTime="2024-05-24T22:35:03" entryType="1" hash="5686CAC19D4CF1F57048C5BA83050C85" blockType="domain-mask" ts="2024-08-10T00:10:02">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[мбдоу6.рф]]></domain>
+ <domain><![CDATA[*.мбдоу6.рф]]></domain>
  <ip>104.21.53.59</ip>
  <ip>172.67.209.96</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:d160</ipv6>
