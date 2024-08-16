@@ -3959,4 +3959,48 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:38fd</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9d3f</ipv6>
 </content>
+<content id="7328600" includeTime="2024-08-16T18:05:02" urgencyType="1" entryType="3" hash="789EEAF01DB2A5A0F76E94D03D4AA070" blockType="domain" ts="2024-08-16T18:05:02">
+ <decision date="2024-08-16" number="" org=""/>
+ <domain><![CDATA[www.radiomarsho.com]]></domain>
+ <ip>2.19.183.18</ip>
+ <ip>2.19.183.34</ip>
+ <ip>2.19.183.38</ip>
+ <ip>2.19.183.58</ip>
+ <ip>2.19.183.61</ip>
+ <ip>2.19.183.67</ip>
+ <ipv6>2a02:26f0:b700:0003:0000:0000:0210:cc93</ipv6>
+ <ipv6>2a02:26f0:b700:0003:0000:0000:0210:cc9e</ipv6>
+</content>
+<content id="7328601" includeTime="2024-08-16T18:05:02" urgencyType="1" entryType="3" hash="60DE909B59DA407EF683EF0A4B7633D7" blockType="domain-mask" ts="2024-08-16T18:15:02">
+ <decision date="2024-08-16" number="" org=""/>
+ <domain><![CDATA[*.baikal-journal.ru]]></domain>
+ <ip>51.15.27.51</ip>
+ <ip>51.15.27.55</ip>
+ <ip>65.109.52.31</ip>
+</content>
+<content id="7328602" includeTime="2024-08-16T18:05:02" urgencyType="1" entryType="3" hash="21B5CBFC991DC286C9DF371BE45C5609" blockType="domain-mask" ts="2024-08-16T18:15:02">
+ <decision date="2024-08-16" number="" org=""/>
+ <domain><![CDATA[*.discours.io]]></domain>
+ <ip>13.57.148.141</ip>
+ <ip>50.18.142.31</ip>
+ <ip>50.18.215.94</ip>
+ <ipv6>2600:1f1c:0446:4900:0000:0000:0000:0064</ipv6>
+ <ipv6>2600:1f1c:0446:4901:0000:0000:0000:0064</ipv6>
+ <ipv6>2600:1f1c:0471:9d01:0000:0000:0000:00c8</ipv6>
+</content>
+<content id="7328606" includeTime="2024-08-16T18:05:02" urgencyType="1" entryType="3" hash="A6B42D0023210ED8C028C2CCE04E5D2B" blockType="domain" ts="2024-08-16T18:05:02">
+ <decision date="2024-08-16" number="" org=""/>
+ <domain><![CDATA[www.groza.media]]></domain>
+ <ip>34.249.200.254</ip>
+ <ip>52.17.119.105</ip>
+ <ip>63.35.51.142</ip>
+</content>
+<content id="7328607" includeTime="2024-08-16T18:05:02" urgencyType="1" entryType="3" hash="BDD8B885495C59FEE2E5C136F304288A" blockType="domain-mask" ts="2024-08-16T18:15:02">
+ <decision date="2024-08-16" number="" org=""/>
+ <domain><![CDATA[*.verstka.media]]></domain>
+ <ip>188.114.98.224</ip>
+ <ip>188.114.99.224</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+</content>
 </reg:register>
