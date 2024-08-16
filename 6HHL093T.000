@@ -413,9 +413,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:4903</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9c05</ipv6>
 </content>
-<content id="7294274" includeTime="2024-08-07T00:00:03" entryType="1" hash="9F9D83A0D3E108964F2174206A9F9030" blockType="domain" ts="2024-08-07T00:00:03">
+<content id="7294274" includeTime="2024-08-07T00:00:03" entryType="1" hash="77A5BC59189DA59FF082F4EC15DB3D04" blockType="domain-mask" ts="2024-08-16T22:45:02">
  <decision date="2024-07-30" number="2-6-14/2024-07-30-786-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[магияритма.рф]]></domain>
+ <domain><![CDATA[*.магияритма.рф]]></domain>
  <ip>104.21.27.128</ip>
  <ip>172.67.142.154</ip>
 </content>

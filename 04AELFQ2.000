@@ -1042,9 +1042,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d45d</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:17ac</ipv6>
 </content>
-<content id="7293224" includeTime="2024-08-07T00:00:03" entryType="1" hash="4C218A64F350BDD7FB125C779937CFA8" blockType="domain" ts="2024-08-07T00:00:03">
+<content id="7293224" includeTime="2024-08-07T00:00:03" entryType="1" hash="66A6C66DEA1CA7697F12EB1D1E3351BF" blockType="domain-mask" ts="2024-08-16T22:45:02">
  <decision date="2024-07-30" number="2-6-14/2024-07-30-786-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[малоугреневский.рф]]></domain>
+ <domain><![CDATA[*.малоугреневский.рф]]></domain>
  <ip>104.21.79.71</ip>
  <ip>172.67.169.55</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:4f47</ipv6>

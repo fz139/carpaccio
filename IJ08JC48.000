@@ -3583,9 +3583,9 @@
  <ip>162.19.253.38</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:0ffe</ipv6>
 </content>
-<content id="7288562" includeTime="2024-08-06T09:10:03" entryType="1" hash="81FD65409540B05873E89D26674C7F2F" blockType="domain" ts="2024-08-06T09:10:03">
+<content id="7288562" includeTime="2024-08-06T09:10:03" entryType="1" hash="BE0D291E6BBEA734FF04513B4FDC5471" blockType="domain-mask" ts="2024-08-16T22:45:02">
  <decision date="2024-07-30" number="2-6-14/2024-07-30-786-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[автошколаджим.рф]]></domain>
+ <domain><![CDATA[*.автошколаджим.рф]]></domain>
  <ip>104.21.40.87</ip>
  <ip>172.67.183.67</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:b743</ipv6>
