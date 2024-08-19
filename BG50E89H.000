@@ -1965,6 +1965,14 @@
  <ip>62.233.53.201</ip>
  <ipv6>2a13:4ac0:0010:0000:f816:3eff:fe55:8600</ipv6>
 </content>
+<content id="7320027" includeTime="2024-08-19T14:00:04" entryType="1" hash="64CFCDF6BE8ADD50F24BEB9B3010E761" blockType="domain" ts="2024-08-19T14:00:04">
+ <decision date="2024-08-14" number="2695459-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[av.tube2.top]]></domain>
+ <ip>104.21.61.121</ip>
+ <ip>172.67.210.71</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:3d79</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:d247</ipv6>
+</content>
 <content id="7320029" includeTime="2024-08-14T22:40:02" entryType="1" hash="71499A321F6D53875469D442E8FACBEC" blockType="domain-mask" ts="2024-08-14T22:40:02">
  <decision date="2024-07-30" number="2-6-14/2024-07-30-786-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vavada-qrw0.top]]></domain>
@@ -4271,6 +4279,12 @@
  <ip>172.67.151.170</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:97aa</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2880</ipv6>
+</content>
+<content id="7320667" includeTime="2024-08-19T14:00:04" entryType="1" hash="06457542C6885FB3D1323020B52CD8C0" blockType="domain" ts="2024-08-19T14:00:04">
+ <decision date="2024-08-13" number="2024-08-12-8337" org="МВД"/>
+ <domain><![CDATA[lsd-legal.de]]></domain>
+ <ip>217.160.0.99</ip>
+ <ipv6>2001:08d8:100f:f000:0000:0000:0000:0200</ipv6>
 </content>
 <content id="7320669" includeTime="2024-08-15T14:55:02" entryType="1" hash="2C064B1042630C89270E040239A1D294" blockType="domain" ts="2024-08-15T14:55:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
