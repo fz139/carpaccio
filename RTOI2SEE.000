@@ -819,9 +819,9 @@
  <domain><![CDATA[*.exler.ru]]></domain>
  <ip>5.9.141.28</ip>
 </content>
-<content id="7335825" includeTime="2024-08-20T17:55:02" urgencyType="1" entryType="3" hash="C3D0E667F83597C831FD0B54B80DB6EE" blockType="domain" ts="2024-08-20T17:55:02">
+<content id="7335825" includeTime="2024-08-20T17:55:02" urgencyType="1" entryType="3" hash="615B871E3FC9B369298D31509DF1DA2D" blockType="domain-mask" ts="2024-08-20T18:45:02">
  <decision date="2022-10-05" number="" org=""/>
- <domain><![CDATA[echowithyou.site]]></domain>
+ <domain><![CDATA[*.echowithyou.site]]></domain>
  <ip>3.64.41.233</ip>
 </content>
 <content id="7335826" includeTime="2024-08-20T17:55:02" urgencyType="1" entryType="3" hash="3028A837A0D397D5B4BF12DC0BACA0A1" blockType="domain" ts="2024-08-20T17:55:02">
@@ -834,9 +834,9 @@
  <domain><![CDATA[yzbkupas---woukmvqn-bsccljbcrq-ez.a.run.app]]></domain>
  <ip>74.125.196.132</ip>
 </content>
-<content id="7335829" includeTime="2024-08-20T17:55:02" urgencyType="1" entryType="3" hash="41BBBA0E4AADFD54EBB2AA05A519C383" blockType="domain" ts="2024-08-20T17:55:02">
+<content id="7335829" includeTime="2024-08-20T17:55:02" urgencyType="1" entryType="3" hash="4F5B79AF3CC38D102BCF82C0EE72A986" blockType="domain-mask" ts="2024-08-20T18:45:02">
  <decision date="2024-05-29" number="" org=""/>
- <domain><![CDATA[compromat-ru.com]]></domain>
+ <domain><![CDATA[*.compromat-ru.com]]></domain>
  <ip>104.21.18.187</ip>
  <ip>172.67.183.33</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:b721</ipv6>
@@ -1011,6 +1011,13 @@
  <ipv6>2600:9000:25f7:dc00:000f:4430:b240:0021</ipv6>
  <ipv6>2600:9000:25f7:e200:000f:4430:b240:0021</ipv6>
  <ipv6>2600:9000:25f7:e600:000f:4430:b240:0021</ipv6>
+</content>
+<content id="7335847" includeTime="2024-08-20T18:45:02" urgencyType="1" entryType="3" hash="D310FB915228BF5FC07DCB6507E2B489" blockType="domain-mask" ts="2024-08-20T18:45:02">
+ <decision date="2023-11-30" number="" org=""/>
+ <domain><![CDATA[*.azov.one]]></domain>
+ <ip>185.230.63.107</ip>
+ <ip>185.230.63.171</ip>
+ <ip>185.230.63.186</ip>
 </content>
 <content id="7335848" includeTime="2024-08-20T17:00:04" entryType="2" hash="24B9600BFC2EA51D08F4E5E1C23F06BC" ts="2024-08-20T17:00:04">
  <decision date="2024-08-07" number="определение о предварительном обеспечении по заявлению № 2И-16733/2024" org="Мосгорсуд"/>
