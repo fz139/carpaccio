@@ -12930,14 +12930,6 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:266b</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:de01</ipv6>
 </content>
-<content id="3663956" includeTime="2021-09-29T14:04:16" entryType="1" hash="E3139EFF6954E197494C2171A0E9CB97" blockType="domain" ts="2021-09-29T14:04:16">
- <decision date="2021-09-23" number="2021-09-22-3965-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[rus.evromed-pro.com]]></domain>
- <ip>104.21.63.77</ip>
- <ip>172.67.170.71</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:aa47</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:3f4d</ipv6>
-</content>
 <content id="3664003" includeTime="2021-09-27T22:10:45" entryType="1" hash="E93A60B36FD875F622CE2BD7E198E95D" blockType="domain-mask" ts="2021-09-27T22:10:45">
  <decision date="2017-08-25" number="2-6-20/2017-08-24-197-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pinupbet301.com]]></domain>
@@ -12985,9 +12977,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:2738</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:8f8e</ipv6>
 </content>
-<content id="3664120" includeTime="2021-11-29T13:47:02" entryType="1" hash="54F6D8C1226380866F34F0BFF1207F81" blockType="domain" ts="2021-11-29T13:47:02">
+<content id="3664120" includeTime="2021-11-29T13:47:02" entryType="1" hash="A5EAA19FCC6DF57EFF3191F739F445CF" blockType="domain-mask" ts="2024-08-21T09:30:04">
  <decision date="2021-09-23" number="2021-09-22-3984-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[kolhitsin.com]]></domain>
+ <domain><![CDATA[*.kolhitsin.com]]></domain>
  <ip>104.21.45.106</ip>
  <ip>172.67.213.39</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d527</ipv6>
