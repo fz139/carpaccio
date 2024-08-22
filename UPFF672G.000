@@ -10127,6 +10127,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:dd15</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:4645</ipv6>
 </content>
+<content id="7328813" includeTime="2024-08-22T14:25:02" entryType="1" hash="ACEEEEFB5BB462A399B56FC29B68E3A2" blockType="domain-mask" ts="2024-08-22T14:25:02">
+ <decision date="2024-08-16" number="2024-08-14-6609-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[*.mifston.com]]></domain>
+ <ip>104.21.71.72</ip>
+ <ip>172.67.143.227</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:4748</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:8fe3</ipv6>
+</content>
 <content id="7328814" includeTime="2024-08-16T23:45:02" entryType="1" hash="0659B5DBF10D6ABF6C40E2D8219B1C0A" blockType="domain-mask" ts="2024-08-16T23:45:02">
  <decision date="2024-07-30" number="2-6-14/2024-07-30-786-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.makereadythefeastblog.com]]></domain>
@@ -10273,6 +10281,11 @@
  <domain><![CDATA[*.freshcasino-ad43.top]]></domain>
  <ip>104.21.62.20</ip>
  <ip>172.67.217.233</ip>
+</content>
+<content id="7328858" includeTime="2024-08-22T14:25:02" entryType="1" hash="146BFD8287B9B337B4ECED3C690FC095" blockType="domain" ts="2024-08-22T14:25:02">
+ <decision date="2024-07-24" number="2а-757/2024" org="Куйбышевский районный суд - Новосибирская область"/>
+ <domain><![CDATA[ilfumo.ru]]></domain>
+ <ip>38.180.26.60</ip>
 </content>
 <content id="7328860" includeTime="2024-08-16T23:45:02" entryType="1" hash="758D2E21431511A450073FB27EC40C9E" blockType="domain-mask" ts="2024-08-16T23:45:02">
  <decision date="2024-07-30" number="2-6-14/2024-07-30-786-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
