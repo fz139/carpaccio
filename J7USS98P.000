@@ -9111,9 +9111,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9ff3</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:292b</ipv6>
 </content>
-<content id="7344888" includeTime="2024-08-23T19:50:01" urgencyType="1" entryType="3" hash="9F3EFDF62EFB93ED7B8E7D6AA1CE816D" blockType="domain" ts="2024-08-23T19:50:01">
+<content id="7344888" includeTime="2024-08-23T19:50:01" urgencyType="1" entryType="3" hash="90B6EDE7A90EC9D7F38659FFF228469F" blockType="domain-mask" ts="2024-08-23T21:35:02">
  <decision date="2024-05-29" number="" org=""/>
- <domain><![CDATA[rucompromat.eu]]></domain>
+ <domain><![CDATA[*.rucompromat.eu]]></domain>
  <ip>104.21.20.198</ip>
  <ip>172.67.194.30</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:14c6</ipv6>
@@ -23804,6 +23804,14 @@
  <decision date="2024-08-20" number="2-6-14/2024-08-19-5512-ÀÈ" org="ÔÍÑ"/>
  <domain><![CDATA[*.crypto-boss.xyz]]></domain>
  <ip>176.57.70.69</ip>
+</content>
+<content id="7350033" includeTime="2024-08-23T21:35:02" urgencyType="1" entryType="3" hash="B9B26DB13E11771D9E2484149FBD005E" blockType="domain-mask" ts="2024-08-23T21:35:02">
+ <decision date="2023-11-30" number="" org=""/>
+ <domain><![CDATA[*.sovajewels.com]]></domain>
+ <ip>188.114.98.224</ip>
+ <ip>188.114.99.224</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
 <content id="7350034" includeTime="2024-08-23T19:50:01" urgencyType="1" entryType="3" hash="9A3ABB87E652D4ADDC4AE0A0D98E16B0" blockType="domain" ts="2024-08-23T19:50:01">
  <decision date="2023-01-26" number="" org=""/>
