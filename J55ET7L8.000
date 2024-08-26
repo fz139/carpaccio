@@ -5298,14 +5298,6 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
-<content id="3394211" includeTime="2021-06-29T13:04:22" entryType="1" hash="162A342ABEA9B2E0186DBE73AB0D5FB6" blockType="domain" ts="2021-06-29T13:04:22">
- <decision date="2021-06-11" number="2а-643/2021" org="Партизанский районный суд - Приморский край"/>
- <domain><![CDATA[r.prostitutki-rostova.vip]]></domain>
- <ip>104.21.45.134</ip>
- <ip>172.67.214.166</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:2d86</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:d6a6</ipv6>
-</content>
 <content id="3394216" includeTime="2021-06-28T19:16:14" entryType="1" hash="EA2754F86643F421109F6B7E1128B510" ts="2021-06-28T19:16:14">
  <decision date="2021-06-11" number="2а-646/2021" org="Партизанский районный суд - Приморский край"/>
  <url><![CDATA[https://a.minetki.net/metro/10]]></url>
@@ -6189,9 +6181,9 @@
  <domain><![CDATA[medgenerics.ru]]></domain>
  <ip>185.67.3.97</ip>
 </content>
-<content id="3395230" includeTime="2021-06-28T19:16:23" entryType="1" hash="E622D99234427AEDA54FA1BE469FEAAA" blockType="domain" ts="2023-08-29T15:15:02">
+<content id="3395230" includeTime="2021-06-28T19:16:23" entryType="1" hash="64DB85C24CCA91291C9B99C1F75C4FD2" blockType="domain-mask" ts="2024-08-26T13:35:02">
  <decision date="2021-06-23" number="2021-06-12-17740-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[allsteroid1.com]]></domain>
+ <domain><![CDATA[*.allsteroid1.com]]></domain>
  <ip>104.21.12.77</ip>
  <ip>172.67.151.231</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:0c4d</ipv6>
