@@ -9918,14 +9918,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6500515" includeTime="2023-11-16T22:10:05" entryType="1" hash="07E6B881122FA2BC3CC60CB3FD1643BC" blockType="domain" ts="2023-11-16T22:10:05">
- <decision date="2023-11-03" number="2а-854/23" org="Кузьминский районный суд - Москва"/>
- <domain><![CDATA[xho.bz]]></domain>
- <ip>104.21.1.77</ip>
- <ip>172.67.128.200</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:80c8</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:014d</ipv6>
-</content>
 <content id="6500519" includeTime="2023-11-15T21:45:03" entryType="1" hash="4D47DDF5BFAC9137CF5B801CEF6CDB01" blockType="domain-mask" ts="2023-11-15T21:45:03">
  <decision date="2023-11-14" number="2-6-14/2023-11-14-2689-АИ" org="ФНС"/>
  <domain><![CDATA[*.fresh355.casino]]></domain>
@@ -9975,10 +9967,13 @@
  <domain><![CDATA[www.gargtells.com]]></domain>
  <ip>74.125.29.132</ip>
 </content>
-<content id="6500551" includeTime="2023-11-16T22:10:05" entryType="1" hash="51DB0F63B2AD30381BF613C8D722A913" blockType="domain" ts="2023-11-16T22:10:05">
+<content id="6500551" includeTime="2023-11-16T22:10:05" entryType="1" hash="514B9CC8C1CAD665A91875244CD23B38" blockType="domain" ts="2024-08-27T11:50:03">
  <decision date="2023-11-03" number="2а-852/23" org="Кузьминский районный суд - Москва"/>
  <domain><![CDATA[sip-pro.com]]></domain>
- <ip>185.105.110.4</ip>
+ <ip>104.21.3.133</ip>
+ <ip>172.67.130.187</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:0385</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:82bb</ipv6>
 </content>
 <content id="6500552" includeTime="2023-11-15T21:45:03" entryType="1" hash="91F6B97A25A5DD8EBC9270AEFCE07731" blockType="domain-mask" ts="2023-11-15T21:45:03">
  <decision date="2023-11-14" number="2-6-14/2023-11-08-1459-АИ" org="ФНС"/>
