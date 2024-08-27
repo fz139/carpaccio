@@ -4179,10 +4179,9 @@
  <ip>45.159.216.2</ip>
  <ip>45.159.219.254</ip>
 </content>
-<content id="7304467" includeTime="2024-08-10T00:10:02" entryType="1" hash="F282375B09104C02089D7BA7A8E650F9" ts="2024-08-10T00:10:02">
+<content id="7304467" includeTime="2024-08-10T00:10:02" entryType="1" hash="2B915B62E50C6BA368BD148DBDD994A0" blockType="domain-mask" ts="2024-08-27T13:35:02">
  <decision date="2024-08-07" number="2-6-14/2024-08-06-4594-ÀÈ" org="ÔÍÑ"/>
- <url><![CDATA[https://21spinamba.club/ru]]></url>
- <domain><![CDATA[21spinamba.club]]></domain>
+ <domain><![CDATA[*.21spinamba.club]]></domain>
  <ip>181.214.1.140</ip>
  <ip>181.214.1.150</ip>
 </content>
@@ -4917,6 +4916,11 @@
  <ip>172.67.174.51</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1ef2</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:ae33</ipv6>
+</content>
+<content id="7304602" includeTime="2024-08-27T13:40:03" entryType="1" hash="ACFE339D9DA5183550F57D77735C5D40" blockType="domain-mask" ts="2024-08-27T13:40:03">
+ <decision date="2024-08-09" number="2687245-URL-on" org="Ðîñêîìíàäçîð"/>
+ <domain><![CDATA[*.holtfilm5.me]]></domain>
+ <ip>104.24.24.58</ip>
 </content>
 <content id="7304603" includeTime="2024-08-10T00:10:02" entryType="1" hash="FC4E6C6765DAB6A52E200AA67D57FB04" blockType="domain-mask" ts="2024-08-10T00:10:02">
  <decision date="2024-08-07" number="2-6-14/2024-08-06-7888-ÀÈ" org="ÔÍÑ"/>

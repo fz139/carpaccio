@@ -4081,10 +4081,13 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:254c</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:cde3</ipv6>
 </content>
-<content id="5845417" includeTime="2023-05-03T06:51:55" entryType="1" hash="7F642BDCCDA61F9F410366BC8BB92080" blockType="domain" ts="2023-05-03T06:51:55">
+<content id="5845417" includeTime="2023-05-03T06:51:55" entryType="1" hash="6A15B96EC6C132B1834A610D1A74A73A" blockType="domain-mask" ts="2024-08-27T13:35:02">
  <decision date="2023-04-19" number="2а-1-2207/2023" org="Энгельсский районный суд - Саратовская область"/>
- <domain><![CDATA[vzlomvk.social]]></domain>
- <ip>91.240.21.4</ip>
+ <domain><![CDATA[*.vzlomvk.social]]></domain>
+ <ip>104.21.50.15</ip>
+ <ip>172.67.199.58</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:320f</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:c73a</ipv6>
 </content>
 <content id="5845418" includeTime="2023-05-01T08:37:58" entryType="1" hash="8F149851E8389C3C8EF4664EE35C80F3" blockType="domain-mask" ts="2023-05-01T08:37:58">
  <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
