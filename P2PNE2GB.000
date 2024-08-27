@@ -7025,9 +7025,9 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
-<content id="6611316" includeTime="2023-12-29T14:15:04" entryType="1" hash="33D2BDFE5EB70F265B1B4CA2DE371E2B" blockType="domain" ts="2024-08-27T13:35:02">
+<content id="6611316" includeTime="2023-12-29T14:15:04" entryType="1" hash="E069645A7C79CAE84CA19ABADC32C2CD" blockType="domain-mask" ts="2024-08-27T22:15:03">
  <decision date="2023-08-14" number="2a-646/23" org="Кузьминский районный суд - Москва"/>
- <domain><![CDATA[egrn.net]]></domain>
+ <domain><![CDATA[*.egrn.net]]></domain>
  <ip>104.21.60.25</ip>
  <ip>172.67.188.181</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:3c19</ipv6>
