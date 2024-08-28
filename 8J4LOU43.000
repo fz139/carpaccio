@@ -7118,15 +7118,6 @@
  <domain><![CDATA[omsk.vremennaya-registratsia.ru]]></domain>
  <ip>176.31.246.87</ip>
 </content>
-<content id="3307610" includeTime="2021-05-28T13:47:46" entryType="1" hash="881D81A40D8C9DC5F1D4D3F91D38CC53" ts="2021-05-28T13:47:46">
- <decision date="2021-04-30" number="2а-455/2021" org="Кировский районный суд - Приморский край"/>
- <url><![CDATA[https://a.nbkrasnoyarsk.info/]]></url>
- <domain><![CDATA[a.nbkrasnoyarsk.info]]></domain>
- <ip>104.21.74.254</ip>
- <ip>172.67.209.78</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:4afe</ipv6>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:d14e</ipv6>
-</content>
 <content id="3307614" includeTime="2021-05-26T21:19:53" entryType="1" hash="C0A1EA64D2890EAE2E170D36DB3EE81E" blockType="domain-mask" ts="2021-05-26T21:19:53">
  <decision date="2017-03-02" number="2-6-20/ 2017-02-27-30-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.money-active.xyz]]></domain>
@@ -8360,9 +8351,9 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:24e2</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c808</ipv6>
 </content>
-<content id="3311610" includeTime="2021-06-16T21:32:15" entryType="1" hash="256AA99EF740B1E7C52789813EEC5FDC" blockType="domain" ts="2024-08-28T17:00:06">
+<content id="3311610" includeTime="2021-06-16T21:32:15" entryType="1" hash="488FDBA95C4B5A4B6C0403D8E2039D99" blockType="domain-mask" ts="2024-08-28T23:15:03">
  <decision date="2021-05-18" number="13а-83/2021" org="Пестовский районный суд - Новгородская область"/>
- <domain><![CDATA[sexrach.com]]></domain>
+ <domain><![CDATA[*.sexrach.com]]></domain>
  <ip>104.21.21.85</ip>
  <ip>104.21.39.82</ip>
  <ip>172.67.143.203</ip>
