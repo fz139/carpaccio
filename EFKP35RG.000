@@ -6042,6 +6042,18 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="2801143" includeTime="2024-08-28T12:55:02" entryType="1" hash="310D85CAFA2D28A2FE7D5AE0C5080955" blockType="domain-mask" ts="2024-08-28T12:55:02">
+ <decision date="2020-09-08" number="2а-597/2020" org="Тбилисский районный суд - Краснодарский край"/>
+ <domain><![CDATA[*.intimmm.info]]></domain>
+ <ip>104.21.66.231</ip>
+ <ip>172.67.209.27</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:42e7</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:d11b</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="2801146" includeTime="2020-12-11T12:11:10" entryType="1" hash="C5AF2B3CE2CCCE1D3E341511E6DC4B41" blockType="domain" ts="2023-08-31T13:35:03">
  <decision date="2020-11-19" number="2а-3954/2020" org="Октябрьский районный суд г. Мурманска - Мурманская область"/>
  <domain><![CDATA[bataysk.avtostroypro.ru]]></domain>
@@ -14991,9 +15003,8 @@
  <domain><![CDATA[ekaterinburg.arena-diplomer.com]]></domain>
  <ip>206.189.4.155</ip>
 </content>
-<content id="2825866" includeTime="2023-11-22T22:25:03" entryType="1" hash="EAA8FD521E8724AA36A41F771197DF68" ts="2024-08-28T12:00:02">
+<content id="2825866" includeTime="2023-11-22T22:25:03" entryType="1" hash="7BE466FDD540FAD279DAF692B4DD5F84" blockType="domain" ts="2024-08-28T12:55:02">
  <decision date="2020-12-08" number="2а-2445/2020" org="Ленинский районный суд г. Нижний Тагил - Свердловская область"/>
- <url><![CDATA[http://fssprus.net]]></url>
  <domain><![CDATA[fssprus.net]]></domain>
  <ip>195.245.239.122</ip>
 </content>

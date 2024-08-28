@@ -5820,9 +5820,9 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
-<content id="6056051" includeTime="2023-06-15T22:18:49" entryType="1" hash="BFDD20C47846E71F110DB44CA9C8E0A7" blockType="domain" ts="2024-08-28T10:00:03">
+<content id="6056051" includeTime="2023-06-15T22:18:49" entryType="1" hash="998D69931EC180D5676CF20C0AFE4E30" blockType="domain-mask" ts="2024-08-28T12:55:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[jwh-methamphetamin-ck.ru]]></domain>
+ <domain><![CDATA[*.jwh-methamphetamin-ck.ru]]></domain>
  <ip>104.21.36.175</ip>
  <ip>172.67.197.232</ip>
  <ip>188.114.96.1</ip>

@@ -1687,11 +1687,15 @@
  <ip>109.202.100.238</ip>
  <ip>5.183.209.191</ip>
 </content>
-<content id="2554099" includeTime="2020-09-15T15:13:14" entryType="1" hash="176C378B5208D1B0402179D673A3C6FE" ts="2024-08-28T11:30:03">
+<content id="2554099" includeTime="2020-09-15T15:13:14" entryType="1" hash="D79A72FBACC33B85142D98F61C0FD7FA" blockType="domain" ts="2024-08-28T12:55:02">
  <decision date="2020-09-01" number="М-273/2020" org="Кировский районный суд - Приморский край"/>
- <url><![CDATA[http://dosug-spb.org]]></url>
  <domain><![CDATA[dosug-spb.org]]></domain>
  <ip>109.206.187.13</ip>
+</content>
+<content id="2554101" includeTime="2024-08-28T12:55:02" entryType="1" hash="9A030078D07FA4A2C77FF78B84049CC4" blockType="domain" ts="2024-08-28T12:55:02">
+ <decision date="2020-09-01" number="М-278/2020" org="Кировский районный суд - Приморский край"/>
+ <domain><![CDATA[dosug-spb.com]]></domain>
+ <ip>109.206.180.89</ip>
 </content>
 <content id="2554245" includeTime="2020-09-15T16:39:19" entryType="1" hash="F54A7E34DEFE0A3816DEA5302AD6622F" blockType="domain" ts="2024-04-03T12:00:04">
  <decision date="2020-07-09" number="2а-2939/2020" org="Пушкинский районный суд - Санкт-Петербург"/>
@@ -5325,9 +5329,9 @@
  <domain><![CDATA[piter4.dosug-gid.net]]></domain>
  <ip>185.238.168.22</ip>
 </content>
-<content id="2562181" includeTime="2020-09-17T18:52:45" entryType="1" hash="66978035CD090E6BA220A43F314EE383" blockType="domain" ts="2024-08-28T11:30:03">
+<content id="2562181" includeTime="2020-09-17T18:52:45" entryType="1" hash="D7A9E1CA7016B2513C5E9894BB5AA1C1" blockType="domain-mask" ts="2024-08-28T12:55:02">
  <decision date="2020-07-30" number="2а-231/2020" org="Навашинский районный суд - Нижегородская область"/>
- <domain><![CDATA[dosug-spb.org]]></domain>
+ <domain><![CDATA[*.dosug-spb.org]]></domain>
  <ip>109.206.187.13</ip>
 </content>
 <content id="2562204" includeTime="2020-09-18T12:44:59" entryType="1" hash="17BBD98EB1F2D64A64AB50124F160757" ts="2023-08-08T14:45:02">
