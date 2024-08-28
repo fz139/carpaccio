@@ -7720,9 +7720,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:87b5</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:0727</ipv6>
 </content>
-<content id="6460571" includeTime="2023-10-27T22:10:02" entryType="1" hash="8DE546B60C85BEC39CAF1F41C49AEA83" blockType="domain" ts="2023-10-27T22:40:04">
+<content id="6460571" includeTime="2023-10-27T22:10:02" entryType="1" hash="49E9AA98838642329C2C31DE1D75B6A6" blockType="domain-mask" ts="2024-08-28T10:00:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[privat-drugs.ru]]></domain>
+ <domain><![CDATA[*.privat-drugs.ru]]></domain>
  <ip>104.21.66.176</ip>
  <ip>172.67.206.69</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:42b0</ipv6>
@@ -15755,15 +15755,6 @@
  <ip>172.67.184.141</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b88d</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4bfc</ipv6>
-</content>
-<content id="6463872" includeTime="2023-10-30T22:55:02" entryType="1" hash="B23AA5E0CB9D5688DBB5A1FB6E2F93B2" ts="2023-10-30T22:55:02">
- <decision date="2023-10-27" number="2а-739/2023" org="Зареченский городской суд - Пензенская область"/>
- <url><![CDATA[https://penza-girls.com/pref-seks/?ysclid=lmw7en0du6854838085]]></url>
- <domain><![CDATA[penza-girls.com]]></domain>
- <ip>104.21.82.182</ip>
- <ip>172.67.161.113</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:52b6</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:a171</ipv6>
 </content>
 <content id="6463873" includeTime="2023-10-30T22:55:02" entryType="1" hash="E4F90297F8E1DEF27815EB7F6086C01E" blockType="domain-mask" ts="2023-10-30T22:55:02">
  <decision date="2023-10-27" number="2-6-14/2023-07-18-903-АИ" org="ФНС"/>

@@ -11783,9 +11783,9 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3e5e</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:de75</ipv6>
 </content>
-<content id="5718323" includeTime="2023-04-12T14:16:14" entryType="1" hash="E8BE5C193B357CE2D8A733D1AB0931EA" blockType="domain" ts="2023-04-12T14:16:14">
+<content id="5718323" includeTime="2023-04-12T14:16:14" entryType="1" hash="7E0818A1D3B9F260FCEDC104AFF0BA24" blockType="domain-mask" ts="2024-08-28T10:00:03">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[lsd25-mdma-shop.ru]]></domain>
+ <domain><![CDATA[*.lsd25-mdma-shop.ru]]></domain>
  <ip>104.21.13.207</ip>
  <ip>172.67.133.26</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:851a</ipv6>
