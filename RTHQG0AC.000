@@ -540,6 +540,11 @@
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:d79d</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:5b68</ipv6>
 </content>
+<content id="7380081" includeTime="2024-09-05T13:35:03" entryType="1" hash="F2FBF9C9B4131567F0775780209D50ED" blockType="domain-mask" ts="2024-09-05T13:35:03">
+ <decision date="2024-09-02" number="2724534-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.serial-novinka.com]]></domain>
+ <ip>92.119.113.225</ip>
+</content>
 <content id="7380082" includeTime="2024-09-03T07:00:03" entryType="1" hash="C93D3E7539DB459041705621C99D714A" blockType="domain-mask" ts="2024-09-03T07:00:03">
  <decision date="2024-08-27" number="2-6-14/2024-08-26-3514-АИ" org="ФНС"/>
  <domain><![CDATA[*.lev-casino-hzy.buzz]]></domain>
@@ -1159,6 +1164,11 @@
  <ip>172.67.188.70</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:bc46</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:28c4</ipv6>
+</content>
+<content id="7380210" includeTime="2024-09-05T13:35:03" entryType="1" hash="8517B8DEC80308547F1DE273F64B10DE" blockType="domain" ts="2024-09-05T13:35:03">
+ <decision date="2024-09-02" number="2724631-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[m1.henchan.pro]]></domain>
+ <ip>62.210.205.6</ip>
 </content>
 <content id="7380222" includeTime="2024-09-03T07:00:03" entryType="1" hash="DEF96CB3A07FE327B09BA7FD37B7BA0B" ts="2024-09-03T07:00:03">
  <decision date="2024-08-27" number="2-6-14/2024-08-25-3893-АИ" org="ФНС"/>
