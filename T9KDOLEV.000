@@ -6824,12 +6824,6 @@
  <domain><![CDATA[rostov-dd.com]]></domain>
  <ip>5.61.55.116</ip>
 </content>
-<content id="7399739" includeTime="2024-09-09T15:05:02" entryType="1" hash="7AD1014620AEC32295E1A778406FCA1B" ts="2024-09-09T15:05:02">
- <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
- <url><![CDATA[https://pitcat.ru/provajder-zapreshhaet-dostup-k-sajtu-kak-ispravit]]></url>
- <domain><![CDATA[pitcat.ru]]></domain>
- <ip>81.177.136.204</ip>
-</content>
 <content id="7399740" includeTime="2024-09-09T15:05:02" entryType="1" hash="50AB47D4C8161E9768602BAE38A95BC6" blockType="domain" ts="2024-09-09T15:05:02">
  <decision date="2022-09-14" number="2а-2501/2022" org="Сакский районный суд - Республика Крым"/>
  <domain><![CDATA[yalta-podrugi.com]]></domain>
@@ -16462,6 +16456,48 @@
  <domain><![CDATA[bf-dsn.com]]></domain>
  <ip>116.203.28.166</ip>
 </content>
+<content id="7404319" includeTime="2024-09-10T13:25:04" entryType="1" hash="CB2A7C61D38D79EB656AE9D2AE623E95" ts="2024-09-10T13:25:04">
+ <decision date="2024-09-09" number="2736027-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://ekb.bbsgayru25.com/piter/znakomstva]]></url>
+ <domain><![CDATA[ekb.bbsgayru25.com]]></domain>
+ <ip>104.21.84.175</ip>
+ <ip>172.67.195.113</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:54af</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:c371</ipv6>
+</content>
+<content id="7404321" includeTime="2024-09-10T13:25:04" entryType="1" hash="5F66C1F8E2D345F1B70DBC16B418A50A" ts="2024-09-10T13:25:04">
+ <decision date="2024-09-09" number="2736035-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://raks.pitergay2.xyz/ads/znakomstva]]></url>
+ <domain><![CDATA[raks.pitergay2.xyz]]></domain>
+ <ip>104.21.8.70</ip>
+ <ip>172.67.156.232</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:9ce8</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:0846</ipv6>
+</content>
+<content id="7404324" includeTime="2024-09-10T13:25:04" entryType="1" hash="B139455C36EF135E7E7D01E3D76B66AD" blockType="domain-mask" ts="2024-09-10T13:25:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kraaken-20-at.ru]]></domain>
+ <ip>104.21.68.197</ip>
+ <ip>172.67.198.39</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:c627</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:44c5</ipv6>
+</content>
+<content id="7404330" includeTime="2024-09-10T13:25:04" entryType="1" hash="2B0719868007D30E38646557940DC1D1" blockType="domain-mask" ts="2024-09-10T13:25:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.boborganik.biz]]></domain>
+ <ip>104.21.38.49</ip>
+ <ip>172.67.219.55</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2631</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:db37</ipv6>
+</content>
+<content id="7404358" includeTime="2024-09-10T13:25:04" entryType="1" hash="06BBCC02E1EE4CA5241139ACCEB5F14C" blockType="domain-mask" ts="2024-09-10T13:25:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.omg4.vip]]></domain>
+ <ip>104.21.7.69</ip>
+ <ip>172.67.187.140</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:bb8c</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:0745</ipv6>
+</content>
 <content id="7404368" includeTime="2024-09-09T23:40:02" entryType="1" hash="24715F54F200FBD759684085AF268C0D" blockType="domain-mask" ts="2024-09-09T23:40:02">
  <decision date="2024-08-28" number="2-6-14/2024-08-24-7276-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.joycasino-517.top]]></domain>
@@ -16634,6 +16670,14 @@
  <ip>172.67.182.76</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2018</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:b64c</ipv6>
+</content>
+<content id="7404409" includeTime="2024-09-10T13:25:04" entryType="1" hash="B57418D8FDF5DB15C568C089938894E3" blockType="domain-mask" ts="2024-09-10T13:25:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.bskorea.ru]]></domain>
+ <ip>104.21.89.237</ip>
+ <ip>172.67.191.236</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:59ed</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:bfec</ipv6>
 </content>
 <content id="7404410" includeTime="2024-09-09T23:40:02" entryType="1" hash="9C794DCE9D194EB4ACF54D4C54FCDA90" blockType="domain-mask" ts="2024-09-09T23:40:02">
  <decision date="2024-08-28" number="2-6-14/2024-08-24-7276-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
