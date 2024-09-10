@@ -5778,6 +5778,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="2919293" includeTime="2024-09-11T00:20:03" entryType="1" hash="661A855A82A8404D13575E157D74306C" blockType="domain-mask" ts="2024-09-11T00:20:03">
+ <decision date="2021-01-25" number="2021-01-19-323" org="МВД"/>
+ <domain><![CDATA[*.semyanich-semena.world]]></domain>
+ <ip>104.21.50.241</ip>
+ <ip>172.67.215.1</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:32f1</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:d701</ipv6>
+</content>
 <content id="2919334" includeTime="2021-01-27T14:12:36" entryType="1" hash="6FBAC67D2228C9598DF6DCB11B4D2C1D" blockType="domain" ts="2024-04-02T14:45:03">
  <decision date="2020-12-25" number="2а-872/2020" org="Снежинский городской суд - Челябинская область"/>
  <domain><![CDATA[www.x-chel.org]]></domain>
