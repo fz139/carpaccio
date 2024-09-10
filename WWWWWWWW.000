@@ -2888,9 +2888,9 @@
  <domain><![CDATA[pg-queo1iedig.global.e-cloud.ch]]></domain>
  <ip>135.181.252.25</ip>
 </content>
-<content id="7405624" includeTime="2024-09-10T15:20:03" urgencyType="1" entryType="3" hash="BA2F16373094A3911FC49225AB1C41C3" blockType="domain" ts="2024-09-10T15:20:03">
+<content id="7405624" includeTime="2024-09-10T15:20:03" urgencyType="1" entryType="3" hash="D5F2BD4D3323D577D72665C0318DF9D3" blockType="domain-mask" ts="2024-09-10T15:25:02">
  <decision date="2022-10-05" number="" org=""/>
- <domain><![CDATA[chitaiecho.live]]></domain>
+ <domain><![CDATA[*.chitaiecho.live]]></domain>
  <ip>3.64.41.233</ip>
 </content>
 <content id="7405625" includeTime="2024-09-10T15:20:03" urgencyType="1" entryType="3" hash="291C150C94CEE5C9E878ADCE0D1F77BE" blockType="domain" ts="2024-09-10T15:20:03">
@@ -3840,5 +3840,17 @@
  <ip>172.67.136.166</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
+</content>
+<content id="7406671" includeTime="2024-09-10T15:25:02" urgencyType="1" entryType="3" hash="77B95410F0687EAD86A4B59807E6B41D" ts="2024-09-10T15:25:02">
+ <decision date="2024-09-05" number="" org=""/>
+ <url><![CDATA[https://play.chessking.com/user/1130360]]></url>
+ <domain><![CDATA[play.chessking.com]]></domain>
+ <ip>92.205.57.188</ip>
+</content>
+<content id="7406672" includeTime="2024-09-10T15:25:02" urgencyType="1" entryType="3" hash="7E72ED2C7673383DF2665780D16645CD" ts="2024-09-10T15:25:02">
+ <decision date="2024-09-05" number="" org=""/>
+ <url><![CDATA[https://play.chessking.com/user/1174906]]></url>
+ <domain><![CDATA[play.chessking.com]]></domain>
+ <ip>92.205.57.188</ip>
 </content>
 </reg:register>
