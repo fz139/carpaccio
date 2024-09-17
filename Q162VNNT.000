@@ -5039,9 +5039,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:243f</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:bac1</ipv6>
 </content>
-<content id="7414310" includeTime="2024-09-16T13:50:02" entryType="1" hash="794F3CA7B1A2E8DF853E8C377DA1C1E8" blockType="domain" ts="2024-09-16T13:50:02">
+<content id="7414310" includeTime="2024-09-16T13:50:02" entryType="1" hash="C848F9C4F1722235ABB055317803D763" blockType="domain-mask" ts="2024-09-17T22:10:03">
  <decision date="2024-09-07" number="2024-08-21-4905-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[astrill.com]]></domain>
+ <domain><![CDATA[*.astrill.com]]></domain>
  <ip>139.162.181.243</ip>
  <ip>139.162.224.175</ip>
  <ip>172.104.145.86</ip>
