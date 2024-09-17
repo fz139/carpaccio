@@ -392,15 +392,6 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:13a5</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:baf9</ipv6>
 </content>
-<content id="7422345" includeTime="2024-09-17T00:10:02" entryType="1" hash="799A4CEF4C97A7B33538E6A37AA8224E" ts="2024-09-17T00:10:02">
- <decision date="2024-09-11" number="2024-09-08-4398-ВН" org="Росмолодежь"/>
- <url><![CDATA[https://muzgold.net/98822-zamay-slava-kpss-kolumbayn]]></url>
- <domain><![CDATA[muzgold.net]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="7422346" includeTime="2024-09-14T00:50:03" entryType="1" hash="5559C83AFD68A3C09376B85711D142AC" blockType="domain-mask" ts="2024-09-14T00:50:03">
  <decision date="2024-08-28" number="2-6-14/2024-08-24-7276-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.casino-r7official.top]]></domain>
@@ -2099,15 +2090,6 @@
  <domain><![CDATA[uromed-kostanay.kz]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
-</content>
-<content id="7422721" includeTime="2024-09-17T00:10:02" entryType="1" hash="5647D3259AC434EDCAEF850CE62F65CE" ts="2024-09-17T00:10:02">
- <decision date="2024-09-13" number="2744702-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://itexts.net/avtor-neizvesten/84598-dalekaya-rodstvennica-avtor-neizvesten/read/page-1.html]]></url>
- <domain><![CDATA[itexts.net]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7422722" includeTime="2024-09-16T14:20:03" entryType="1" hash="EDFC71026E41315BDBD053FFCFAC49A8" blockType="domain" ts="2024-09-16T14:20:03">
  <decision date="2024-09-13" number="2024-09-11-7676" org="МВД"/>
@@ -4150,6 +4132,14 @@
  <domain><![CDATA[*.adandeinc.com]]></domain>
  <ip>172.67.208.177</ip>
 </content>
+<content id="7423140" includeTime="2024-09-17T19:35:02" urgencyType="1" entryType="3" hash="E55173BCA740ABFD80E71C1DE91BDFCE" blockType="domain" ts="2024-09-17T19:35:02">
+ <decision date="2024-08-22" number="" org=""/>
+ <domain><![CDATA[adande-inc.co]]></domain>
+ <ip>104.21.29.11</ip>
+ <ip>172.67.148.69</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:1d0b</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9445</ipv6>
+</content>
 <content id="7423141" includeTime="2024-09-15T11:25:02" urgencyType="1" entryType="3" hash="8C78B3F606FE88891FA799A0810CDD7C" blockType="domain-mask" ts="2024-09-15T11:25:02">
  <decision date="2024-08-22" number="" org=""/>
  <domain><![CDATA[*.smartfxoptiontrade.com]]></domain>
@@ -4184,6 +4174,16 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="7423146" includeTime="2024-09-17T19:35:02" urgencyType="1" entryType="3" hash="631A53DD3121E90B22F59C990AFF039D" blockType="domain" ts="2024-09-17T19:35:02">
+ <decision date="2024-08-22" number="" org=""/>
+ <domain><![CDATA[lorexfinancialgroup.com]]></domain>
+ <ip>185.38.149.148</ip>
+</content>
+<content id="7423147" includeTime="2024-09-17T19:35:02" urgencyType="1" entryType="3" hash="550C87974F7092FA785918F0792CBC80" blockType="domain" ts="2024-09-17T19:35:02">
+ <decision date="2024-08-22" number="" org=""/>
+ <domain><![CDATA[lorexfinancialgroup.live]]></domain>
+ <ip>185.38.149.148</ip>
+</content>
 <content id="7423148" includeTime="2024-09-15T11:25:02" urgencyType="1" entryType="3" hash="67D457B4641ABD8F5736EBB2FE489421" blockType="domain-mask" ts="2024-09-15T11:25:02">
  <decision date="2024-08-22" number="" org=""/>
  <domain><![CDATA[*.zentrictex.com]]></domain>
@@ -4196,6 +4196,19 @@
  <ip>172.67.152.109</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:986d</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:5a25</ipv6>
+</content>
+<content id="7423150" includeTime="2024-09-17T19:35:02" urgencyType="1" entryType="3" hash="9FAC0F9A5D3FA4D3E466AC02E8A5F2AA" blockType="domain" ts="2024-09-17T19:35:02">
+ <decision date="2024-08-22" number="" org=""/>
+ <domain><![CDATA[zobxebac.pro]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7423151" includeTime="2024-09-17T19:35:02" urgencyType="1" entryType="3" hash="DBC769D90DA5A627EFB11752D706B2F3" blockType="domain" ts="2024-09-17T19:35:02">
+ <decision date="2024-08-22" number="" org=""/>
+ <domain><![CDATA[zoe-ac.world]]></domain>
+ <ip>5.255.120.148</ip>
 </content>
 <content id="7423152" includeTime="2024-09-15T11:25:02" urgencyType="1" entryType="3" hash="CBFB4AC2443C74F555DC6F1D46969335" blockType="domain-mask" ts="2024-09-15T11:25:02">
  <decision date="2024-08-22" number="" org=""/>
@@ -4256,6 +4269,19 @@
  <domain><![CDATA[*.assetaccrue.com]]></domain>
  <ip>78.46.40.242</ip>
 </content>
+<content id="7423161" includeTime="2024-09-17T19:35:02" urgencyType="1" entryType="3" hash="AFFCE40909782BFC76E1063082AD15E9" blockType="domain" ts="2024-09-17T19:35:02">
+ <decision date="2024-08-22" number="" org=""/>
+ <domain><![CDATA[advear.fun]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="7423162" includeTime="2024-09-17T19:35:02" urgencyType="1" entryType="3" hash="63D4FD8D77BE4C6FB26EA0E5E3FE8124" blockType="domain" ts="2024-09-17T19:35:02">
+ <decision date="2024-08-22" number="" org=""/>
+ <domain><![CDATA[s1.goldbirds.xyz]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="7423163" includeTime="2024-09-15T11:25:02" urgencyType="1" entryType="3" hash="630920FEFA117C4614CEB5E54E2E721C" blockType="domain-mask" ts="2024-09-15T11:25:02">
  <decision date="2024-08-22" number="" org=""/>
  <domain><![CDATA[*.moneyplane.org]]></domain>
@@ -4263,6 +4289,14 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7423164" includeTime="2024-09-17T19:35:02" urgencyType="1" entryType="3" hash="DBBC17882511B36CC7D1436DD63C5A05" blockType="domain" ts="2024-09-17T19:35:02">
+ <decision date="2024-08-22" number="" org=""/>
+ <domain><![CDATA[www.taxi-polis.mom]]></domain>
+ <ip>104.21.62.214</ip>
+ <ip>172.67.139.146</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:8b92</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:3ed6</ipv6>
 </content>
 <content id="7423165" includeTime="2024-09-15T11:25:02" urgencyType="1" entryType="3" hash="EED4B5DD3E0C02C9C9E63A042893C81F" blockType="domain-mask" ts="2024-09-15T11:25:02">
  <decision date="2024-08-22" number="" org=""/>
@@ -4318,6 +4352,21 @@
  <ip>82.197.83.113</ip>
  <ipv6>2a02:4780:002b:1556:0000:0b6d:9460:0010</ipv6>
 </content>
+<content id="7423174" includeTime="2024-09-17T19:35:02" urgencyType="1" entryType="3" hash="F4A795FFD0465A08E3EC8C8EF1F4790D" blockType="domain" ts="2024-09-17T19:35:02">
+ <decision date="2024-08-22" number="" org=""/>
+ <domain><![CDATA[drgnf1.casino]]></domain>
+ <ip>31.12.75.174</ip>
+</content>
+<content id="7423175" includeTime="2024-09-17T19:35:02" urgencyType="1" entryType="3" hash="FEA163C58B6C89538C7592B286980969" blockType="domain" ts="2024-09-17T19:35:02">
+ <decision date="2024-08-22" number="" org=""/>
+ <domain><![CDATA[drgne1.casino]]></domain>
+ <ip>31.12.75.173</ip>
+</content>
+<content id="7423176" includeTime="2024-09-17T19:35:02" urgencyType="1" entryType="3" hash="2EB85071365B22A2E548C3DE6358C3A0" blockType="domain" ts="2024-09-17T19:35:02">
+ <decision date="2024-08-22" number="" org=""/>
+ <domain><![CDATA[drgnll.casino]]></domain>
+ <ip>31.12.75.140</ip>
+</content>
 <content id="7423177" includeTime="2024-09-15T11:25:02" urgencyType="1" entryType="3" hash="E823BA5A8B0C762D0FD0D0E02D88A5ED" blockType="domain-mask" ts="2024-09-15T11:25:02">
  <decision date="2024-08-22" number="" org=""/>
  <domain><![CDATA[*.buxclik.xyz]]></domain>
@@ -4349,6 +4398,14 @@
  <domain><![CDATA[*.intronixs.net]]></domain>
  <ip>66.29.148.78</ip>
 </content>
+<content id="7423183" includeTime="2024-09-17T19:35:02" urgencyType="1" entryType="3" hash="3A3A41CD732903037DBB397EA7F01339" blockType="domain" ts="2024-09-17T19:35:02">
+ <decision date="2024-08-22" number="" org=""/>
+ <domain><![CDATA[s1.lucky-jets.xyz]]></domain>
+ <ip>104.21.6.183</ip>
+ <ip>172.67.155.43</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:06b7</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:9b2b</ipv6>
+</content>
 <content id="7423184" includeTime="2024-09-15T11:25:02" urgencyType="1" entryType="3" hash="98C0F7B24AF583301D089E2ABA236A41" blockType="domain-mask" ts="2024-09-15T11:25:02">
  <decision date="2024-08-22" number="" org=""/>
  <domain><![CDATA[*.smarttradingfinancegroup.com]]></domain>
@@ -4358,6 +4415,11 @@
  <decision date="2024-08-22" number="" org=""/>
  <domain><![CDATA[*.kalymka.site]]></domain>
  <ip>92.119.113.22</ip>
+</content>
+<content id="7423186" includeTime="2024-09-17T19:35:02" urgencyType="1" entryType="3" hash="E868770FCDBA24E70208A240B8CDE839" blockType="domain" ts="2024-09-17T19:35:02">
+ <decision date="2024-08-22" number="" org=""/>
+ <domain><![CDATA[financefox.lol]]></domain>
+ <ip>172.67.208.177</ip>
 </content>
 <content id="7423187" includeTime="2024-09-15T11:25:02" urgencyType="1" entryType="3" hash="E7193356E48EEB69E190C551AF573076" blockType="domain-mask" ts="2024-09-15T11:25:02">
  <decision date="2024-08-22" number="" org=""/>
@@ -7399,6 +7461,15 @@
  <domain><![CDATA[*.angelzsu.com]]></domain>
  <ip>76.76.21.61</ip>
  <ip>76.76.21.93</ip>
+</content>
+<content id="7423669" includeTime="2024-09-17T18:50:02" entryType="2" hash="DA9023B85B09CDBA5F41F1DA92F91694" ts="2024-09-17T18:50:02">
+ <decision date="2021-08-20" number="определение о предварительном обеспечении по заявлению № 2И-8075/2021" org="Мосгорсуд"/>
+ <url><![CDATA[https://dzhetlag.lordfilms-1.ru/]]></url>
+ <domain><![CDATA[dzhetlag.lordfilms-1.ru]]></domain>
+ <ip>104.21.62.7</ip>
+ <ip>172.67.217.125</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:d97d</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e07</ipv6>
 </content>
 <content id="7423670" includeTime="2024-09-17T00:10:02" entryType="1" hash="30AA7A0160824E93D2B7C52EA19018D7" blockType="domain-mask" ts="2024-09-17T00:10:02">
  <decision date="2024-09-06" number="2-6-14/2024-09-05-7391-АИ" org="ФНС"/>
