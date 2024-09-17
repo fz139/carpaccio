@@ -294,6 +294,14 @@
  <ip>62.233.53.128</ip>
  <ipv6>2a13:4ac0:0010:0000:f816:3eff:fe9b:2223</ipv6>
 </content>
+<content id="7417634" includeTime="2024-09-17T18:10:01" entryType="1" hash="FA85D5CAE0B0341F898A50273A6FCE73" blockType="domain" ts="2024-09-17T18:10:01">
+ <decision date="2024-09-12" number="2742905-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[xlecx.one]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="7417636" includeTime="2024-09-13T00:25:02" entryType="1" hash="96CA90174B07ECCDA5E8B9AEF46FF97A" blockType="domain" ts="2024-09-13T00:25:02">
  <decision date="2024-09-04" number="2-6-14/2024-09-03-7276-АИ" org="ФНС"/>
  <domain><![CDATA[event2online.ru]]></domain>
@@ -3151,6 +3159,15 @@
  <decision date="2024-08-28" number="2-6-14/2024-08-24-7276-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.r7casino91.com]]></domain>
  <ip>38.180.69.43</ip>
+</content>
+<content id="7418255" includeTime="2024-09-17T18:10:01" entryType="1" hash="D81D45A1F874BCE02FA4477056F5FFAC" ts="2024-09-17T18:10:01">
+ <decision date="2024-09-12" number="2024-09-10-6339" org="МВД"/>
+ <url><![CDATA[https://about.me/danejumixu60]]></url>
+ <domain><![CDATA[about.me]]></domain>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="7418256" includeTime="2024-09-14T00:50:03" entryType="1" hash="763EB531FFB4CB57594ACB45CF4806EC" blockType="domain-mask" ts="2024-09-14T00:50:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>

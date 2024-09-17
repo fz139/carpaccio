@@ -598,6 +598,14 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:94a6</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:5fd6</ipv6>
 </content>
+<content id="7268767" includeTime="2024-09-17T18:10:01" entryType="1" hash="DC8739BF0A677164D1882C7715A65998" blockType="domain" ts="2024-09-17T18:10:01">
+ <decision date="2024-07-29" number="2024-07-26-6108-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[2generic-hep.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="7268769" includeTime="2024-07-31T08:20:03" entryType="1" hash="8ED303284A158141E208F628C62A992B" blockType="domain-mask" ts="2024-07-31T08:20:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.sad-79-skazka.ru]]></domain>
@@ -4075,14 +4083,18 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:5645</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d88c</ipv6>
 </content>
-<content id="7269744" includeTime="2024-07-31T14:25:03" entryType="1" hash="87E5FAB311BC1F2CA9B237BBC7EF57E0" ts="2024-07-31T14:25:03">
+<content id="7269744" includeTime="2024-07-31T14:25:03" entryType="1" hash="EB823D252DD1BA265EAD867B0477BB5C" ts="2024-09-17T18:10:01">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://favorit-byt.ru/mega-sajt-moriarti-kak-zajti.html]]></url>
  <domain><![CDATA[favorit-byt.ru]]></domain>
  <ip>104.21.57.113</ip>
  <ip>172.67.163.110</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a36e</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3971</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7269750" includeTime="2024-07-31T14:25:03" entryType="1" hash="3E78EE196F3DCED231CF0EED000CE0E7" ts="2024-07-31T14:25:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -8102,12 +8114,6 @@
  <domain><![CDATA[*.gullywin.com]]></domain>
  <ip>217.21.84.36</ip>
  <ipv6>2a02:4780:0011:0772:0000:379b:cd20:0005</ipv6>
-</content>
-<content id="7272209" includeTime="2024-08-02T00:10:02" entryType="1" hash="94BDCF43A73E473CC7D762DE0299207F" ts="2024-08-02T00:10:02">
- <decision date="2013-10-29" number="2-729/2013" org="Центральный районный суд г. Омска - Омская область"/>
- <url><![CDATA[https://peternor999.blogspot.com/2013/11/blog-post_3739.html]]></url>
- <domain><![CDATA[peternor999.blogspot.com]]></domain>
- <ip>74.125.29.132</ip>
 </content>
 <content id="7272210" includeTime="2024-07-31T08:20:03" entryType="1" hash="6F1101A2D6D9648CE2E1FA97ADB7D0C4" blockType="domain-mask" ts="2024-07-31T08:20:03">
  <decision date="2017-06-22" number="2-6-20/2017-06-21-86-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

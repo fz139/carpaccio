@@ -4882,13 +4882,17 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a7d2</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:29f6</ipv6>
 </content>
-<content id="7214275" includeTime="2024-07-12T13:45:03" entryType="1" hash="909A7C82F5496882224F8EB440B1533E" blockType="domain-mask" ts="2024-07-12T13:45:03">
+<content id="7214275" includeTime="2024-07-12T13:45:03" entryType="1" hash="F392974D87B1DD5A02162FFE6F8CD08B" blockType="domain-mask" ts="2024-09-17T18:10:01">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.lityshops.ru]]></domain>
  <ip>104.21.2.63</ip>
  <ip>172.67.128.214</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:023f</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:80d6</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7214278" includeTime="2024-07-16T07:25:03" entryType="1" hash="7173B48ECA93D61178FD927BBFE0CC79" ts="2024-07-16T07:25:03">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
@@ -5614,14 +5618,18 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0326</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:822d</ipv6>
 </content>
-<content id="7214456" includeTime="2024-07-15T09:50:03" entryType="1" hash="2D082FCEB4E7D00BDA2965CF9EB668A3" ts="2024-07-15T09:50:03">
+<content id="7214456" includeTime="2024-07-15T09:50:03" entryType="1" hash="AA61E312A8648981C23A41859C0AB165" ts="2024-09-17T18:10:01">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://defnomer.ru/ssylka-na-bleksprut-v-tor-brauzer.html]]></url>
  <domain><![CDATA[defnomer.ru]]></domain>
  <ip>104.21.78.56</ip>
  <ip>172.67.217.52</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4e38</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:d934</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7214457" includeTime="2024-07-12T00:00:03" entryType="1" hash="56A31108E6EFA76610BEEAE60F20E913" blockType="domain" ts="2024-07-12T00:00:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
