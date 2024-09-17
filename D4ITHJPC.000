@@ -622,6 +622,14 @@
  <ip>104.21.9.100</ip>
  <ip>172.67.189.56</ip>
 </content>
+<content id="7420987" includeTime="2024-09-17T22:40:03" entryType="1" hash="9D4884320C7EE06C2551842E00A5FDA0" blockType="domain-mask" ts="2024-09-17T22:40:03">
+ <decision date="2024-09-13" number="2743678-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lordfilm-0.run]]></domain>
+ <ip>104.21.0.134</ip>
+ <ip>172.67.150.253</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:96fd</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:0086</ipv6>
+</content>
 <content id="7420988" includeTime="2024-09-14T00:50:03" entryType="1" hash="8A965AA1BE25E244557B6BA42AF9D74B" blockType="domain" ts="2024-09-14T00:50:03">
  <decision date="2024-09-05" number="2-6-14/2024-09-01-3997-АИ" org="ФНС"/>
  <domain><![CDATA[bravoonline.ru]]></domain>
