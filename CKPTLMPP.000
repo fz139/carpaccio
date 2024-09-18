@@ -2532,15 +2532,6 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6815:2aa8</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:a3b1</ipv6>
 </content>
-<content id="7226801" includeTime="2024-07-17T09:40:01" entryType="1" hash="82B78EF3C62F98E965270C49B5238DC5" ts="2024-07-17T09:40:01">
- <decision date="2024-07-16" number="2644573-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://pee.pitergay2.xyz/ads/znakomstva]]></url>
- <domain><![CDATA[pee.pitergay2.xyz]]></domain>
- <ip>104.21.8.70</ip>
- <ip>172.67.156.232</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:9ce8</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:0846</ipv6>
-</content>
 <content id="7226803" includeTime="2024-07-16T23:05:02" entryType="1" hash="6C5D3DCCF86538322A75655BE252DC14" blockType="domain-mask" ts="2024-07-16T23:05:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vavadag25.fun]]></domain>
@@ -2767,13 +2758,17 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1252</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:b53f</ipv6>
 </content>
-<content id="7226856" includeTime="2024-07-18T13:25:03" entryType="1" hash="77B80B5F89C2075EAB68EF389BD4E892" blockType="domain-mask" ts="2024-07-18T13:25:03">
+<content id="7226856" includeTime="2024-07-18T13:25:03" entryType="1" hash="35B734231C9DB5DEE750398DB6AA7090" blockType="domain-mask" ts="2024-09-18T14:25:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.car-sales-expert.ru]]></domain>
  <ip>104.21.33.26</ip>
  <ip>172.67.158.16</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:211a</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:9e10</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7226857" includeTime="2024-07-18T13:25:03" entryType="1" hash="D1BF27E4922DA1404D4E5560C3582D74" ts="2024-07-18T13:25:03">
  <decision date="2024-07-16" number="2644270-URL-on" org="Роскомнадзор"/>
