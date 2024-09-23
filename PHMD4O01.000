@@ -11497,9 +11497,9 @@
  <domain><![CDATA[perm36.rostvsego.su]]></domain>
  <ip>212.86.102.15</ip>
 </content>
-<content id="6340126" includeTime="2023-09-11T14:40:03" entryType="1" hash="1120B7C159EAFA9FC801467441B83077" blockType="domain" ts="2023-09-11T14:40:03">
+<content id="6340126" includeTime="2023-09-11T14:40:03" entryType="1" hash="C7A4FD6D1E2A5C314CCEADDCC734FB75" blockType="domain-mask" ts="2024-09-23T13:20:04">
  <decision date="2023-09-07" number="2023-09-07-84-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[otkatanet.pro]]></domain>
+ <domain><![CDATA[*.otkatanet.pro]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>

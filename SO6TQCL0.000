@@ -13347,9 +13347,9 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:0a68</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8350</ipv6>
 </content>
-<content id="6995225" includeTime="2024-05-08T13:40:03" entryType="1" hash="AE46DD3731E8C3C9CD706E6A2A650411" blockType="domain" ts="2024-05-08T13:40:03">
+<content id="6995225" includeTime="2024-05-08T13:40:03" entryType="1" hash="7C9EB434F07927D82810F28EBEF9A847" blockType="domain-mask" ts="2024-09-23T13:20:04">
  <decision date="2024-05-06" number="2523702-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[multi-manga.com]]></domain>
+ <domain><![CDATA[*.multi-manga.com]]></domain>
  <ip>104.21.54.106</ip>
  <ip>172.67.138.49</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:8a31</ipv6>
