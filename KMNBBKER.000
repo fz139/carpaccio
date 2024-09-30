@@ -428,14 +428,6 @@
  <domain><![CDATA[*.krimsex.ru]]></domain>
  <ip>5.2.70.50</ip>
 </content>
-<content id="6845674" includeTime="2024-03-15T21:55:03" entryType="1" hash="3D47E2BA4B07FFF7AB472AE5E6288863" blockType="domain" ts="2024-03-15T21:55:03">
- <decision date="2024-03-12" number="2024-03-12-1922" org="МВД"/>
- <domain><![CDATA[psrms.cx]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6845675" includeTime="2024-03-13T23:30:05" entryType="1" hash="90FF90B1A12A93713A4932326B456352" blockType="domain-mask" ts="2024-03-13T23:30:05">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.eldorado-casino-qch.top]]></domain>
@@ -2763,6 +2755,15 @@
  <domain><![CDATA[*.starda96.casino]]></domain>
  <ip>104.21.44.175</ip>
  <ip>172.67.202.93</ip>
+</content>
+<content id="6846284" includeTime="2024-09-30T16:50:03" entryType="2" hash="A9A30DF2D5E98D96BEE9C210535ABB0A" ts="2024-09-30T16:50:03">
+ <decision date="2022-08-19" number="определение о предварительном обеспечении по заявлению № 2И-9370/2022" org="Мосгорсуд"/>
+ <url><![CDATA[http://kinogo.dirddl.com/11764-zhizn-po-vyzovu-2022.html]]></url>
+ <domain><![CDATA[kinogo.dirddl.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6846286" includeTime="2024-03-13T23:30:05" entryType="1" hash="ACA96979E5EEA25EBA59E2CF9A87A7CC" blockType="domain-mask" ts="2024-03-13T23:30:05">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
