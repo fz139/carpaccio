@@ -12150,13 +12150,17 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4122</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:bcbf</ipv6>
 </content>
-<content id="7176646" includeTime="2024-07-02T23:00:02" entryType="1" hash="B42B786532B1D55093A9DD33CA787830" blockType="domain-mask" ts="2024-07-02T23:00:02">
+<content id="7176646" includeTime="2024-07-02T23:00:02" entryType="1" hash="F9F940C336C82D79378E0A231AE568CD" blockType="domain-mask" ts="2024-10-02T09:25:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.mega-top3.xyz]]></domain>
  <ip>104.21.34.36</ip>
  <ip>172.67.167.219</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:2224</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a7db</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7176648" includeTime="2024-07-02T23:00:02" entryType="1" hash="2096DFADD78FA46BB5A3B7972BE4EAB6" blockType="domain-mask" ts="2024-07-02T23:00:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -12190,11 +12194,6 @@
  <ip>172.67.215.81</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d751</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:5dda</ipv6>
-</content>
-<content id="7176658" includeTime="2024-08-22T14:25:02" entryType="1" hash="F863B36CEC1E2F07ACF3228B198D1635" blockType="domain" ts="2024-08-22T14:25:02">
- <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
- <domain><![CDATA[okobogabot.ru]]></domain>
- <ip>31.28.24.244</ip>
 </content>
 <content id="7176664" includeTime="2024-07-03T22:25:02" entryType="1" hash="6FB8DE7C380E1576D3D3982845AB3A46" ts="2024-07-03T22:25:02">
  <decision date="2015-06-25" number="2-1505/15" org="Промышленный районный суд г. Оренбурга - Оренбургская область"/>
@@ -12464,14 +12463,18 @@
  <domain><![CDATA[bioticrc-fwwp.kld24.xyz]]></domain>
  <ip>8.208.14.20</ip>
 </content>
-<content id="7176787" includeTime="2024-07-02T23:00:02" entryType="1" hash="6662FECD9D17EE9B5CE0D50230241CA3" ts="2024-07-02T23:00:02">
+<content id="7176787" includeTime="2024-07-02T23:00:02" entryType="1" hash="D4DBA603C4750964525EE9E946EC76E9" ts="2024-10-02T09:25:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://mega-onion.icu/kupit-zakladki-mega/]]></url>
  <domain><![CDATA[mega-onion.icu]]></domain>
  <ip>104.21.6.44</ip>
  <ip>172.67.154.232</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:9ae8</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:062c</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7176789" includeTime="2024-07-03T15:50:02" entryType="1" hash="6C370A73A16124B4D815F16ADCD992F3" ts="2024-07-03T15:50:02">
  <decision date="2024-07-01" number="2616598-URL-on" org="Роскомнадзор"/>
@@ -22844,14 +22847,6 @@
  <decision date="2024-06-18" number="2а-290/2024" org="Улетовский районный суд - Забайкальский край"/>
  <domain><![CDATA[sex6.prostitutkichitykiss.net]]></domain>
  <ip>5.61.53.114</ip>
-</content>
-<content id="7181105" includeTime="2024-07-04T09:35:02" entryType="1" hash="74A83064DF939361ACC11C63C9CA61B3" blockType="domain" ts="2024-07-04T09:35:02">
- <decision date="2024-06-25" number="2а-3249/2024" org="Центральный районный суд г. Комсомольска-на-Амуре - Хабаровский край"/>
- <domain><![CDATA[market.meduzanet.com]]></domain>
- <ip>104.21.15.58</ip>
- <ip>172.67.161.188</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:0f3a</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:a1bc</ipv6>
 </content>
 <content id="7181109" includeTime="2024-07-02T23:00:02" entryType="1" hash="584BF814591140AE0135479F0FAAAB0B" blockType="domain-mask" ts="2024-07-02T23:00:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
