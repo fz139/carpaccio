@@ -238,13 +238,17 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:3e3e</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:dca6</ipv6>
 </content>
-<content id="7366554" includeTime="2024-08-29T15:20:04" entryType="1" hash="1945390BB922EEFF5D0FEC5087A1B6C6" blockType="domain-mask" ts="2024-08-29T15:20:04">
+<content id="7366554" includeTime="2024-08-29T15:20:04" entryType="1" hash="072AA8397AD8C2B8E849DB4052BC7CF6" blockType="domain-mask" ts="2024-10-07T16:30:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.volokczn.ru]]></domain>
  <ip>104.21.50.178</ip>
  <ip>172.67.164.185</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a4b9</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:32b2</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7366555" includeTime="2024-08-30T14:00:03" entryType="1" hash="6E2BCDA72A1D64AB9C0868F23530CF45" blockType="domain" ts="2024-08-30T14:00:03">
  <decision date="2024-08-28" number="2718213-URL-on" org="Роскомнадзор"/>

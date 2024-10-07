@@ -1630,6 +1630,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="1093190" includeTime="2024-10-07T16:30:04" entryType="1" hash="72D4F70AD5F56A22BB3C569C1AE27065" blockType="domain-mask" ts="2024-10-07T16:30:04">
+ <decision date="2018-09-07" number="2018-09-05-1204" org="МВД"/>
+ <domain><![CDATA[*.semyanich-semena.me]]></domain>
+ <ip>104.21.66.254</ip>
+ <ip>172.67.210.172</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:d2ac</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:42fe</ipv6>
+</content>
 <content id="1093201" includeTime="2019-03-07T20:23:28" entryType="1" hash="E757C4BA946744A3B00CB841E7B74A93" blockType="domain" ts="2019-03-07T20:23:28">
  <decision date="2018-06-05" number="2а-2485/18" org="Ленинский районный суд г. Ульяновска - Ульяновская область"/>
  <domain><![CDATA[spb-dosug.pro]]></domain>
