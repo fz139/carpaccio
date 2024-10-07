@@ -1738,13 +1738,17 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:5786</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8f62</ipv6>
 </content>
-<content id="7381153" includeTime="2024-09-03T14:10:02" entryType="1" hash="9E41E12FD60530C57990A05BB803CBA5" blockType="domain-mask" ts="2024-09-03T14:10:02">
+<content id="7381153" includeTime="2024-09-03T14:10:02" entryType="1" hash="E8E4BE948A135579DAF2F98EA9FFBBA7" blockType="domain-mask" ts="2024-10-07T13:05:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.sarstroyniiproekt.ru]]></domain>
  <ip>104.21.34.123</ip>
  <ip>172.67.205.3</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:227b</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:cd03</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7381154" includeTime="2024-09-03T07:00:03" entryType="1" hash="959D74B05730D21FA3FA5058C69BBDA9" blockType="domain-mask" ts="2024-09-03T07:00:03">
  <decision date="2024-08-27" number="2-6-14/2024-08-26-3621-АИ" org="ФНС"/>
@@ -15164,14 +15168,18 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:bb1f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:543d</ipv6>
 </content>
-<content id="7385885" includeTime="2024-09-05T13:35:03" entryType="1" hash="6C219CFCD117ED09BA68587002C99C89" ts="2024-09-05T13:35:03">
+<content id="7385885" includeTime="2024-09-05T13:35:03" entryType="1" hash="B4C5BF87AED73C1EC6601EC33F853FC7" ts="2024-10-07T13:05:02">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://uralpromtrak.ru/mega-aktualnaja-ssylka-na-sajt.html]]></url>
  <domain><![CDATA[uralpromtrak.ru]]></domain>
  <ip>104.21.42.155</ip>
  <ip>172.67.206.148</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:ce94</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2a9b</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7385886" includeTime="2024-09-03T22:45:02" entryType="1" hash="127EB2B1502D783E61D9E112DB46177D" blockType="domain-mask" ts="2024-09-03T22:45:02">
  <decision date="2024-08-28" number="2-6-14/2024-08-24-7276-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -17041,15 +17049,6 @@
  <ip>172.67.198.58</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:c63a</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:2c5a</ipv6>
-</content>
-<content id="7386307" includeTime="2024-09-05T23:25:01" entryType="1" hash="99CF41C13E1B9CBF1E54798709225E9B" ts="2024-09-05T23:25:01">
- <decision date="2015-08-05" number="2-8555/15" org="Курганский городской суд - Курганская область"/>
- <url><![CDATA[https://akkordus.ru/guitarkar/5619]]></url>
- <domain><![CDATA[akkordus.ru]]></domain>
- <ip>104.21.34.237</ip>
- <ip>172.67.166.84</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:a654</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:22ed</ipv6>
 </content>
 <content id="7386308" includeTime="2024-09-03T22:45:02" entryType="1" hash="E1DFEA546DC14B134A60116AEA41235B" blockType="domain-mask" ts="2024-09-03T22:45:02">
  <decision date="2024-08-28" number="2-6-14/2024-08-24-7276-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
