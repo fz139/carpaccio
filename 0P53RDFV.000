@@ -1114,11 +1114,15 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a812</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4249</ipv6>
 </content>
-<content id="6459053" includeTime="2023-10-30T13:35:03" entryType="1" hash="37C2298D5430757C7B90EC6396BC23CA" blockType="domain" ts="2023-10-30T13:35:03">
+<content id="6459053" includeTime="2023-10-30T13:35:03" entryType="1" hash="E9665DC38F6ED9C77542DD396D66C69F" blockType="domain" ts="2024-10-09T14:25:03">
  <decision date="2023-08-14" number="2а-642/23" org="Кузьминский районный суд - Москва"/>
  <domain><![CDATA[egrnreeestr.ru]]></domain>
+ <ip>104.21.85.87</ip>
+ <ip>172.67.203.252</ip>
  <ip>188.114.98.224</ip>
  <ip>188.114.99.224</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:cbfc</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:5557</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
@@ -15863,6 +15867,14 @@
  <decision date="2023-10-27" number="2-6-14/2023-09-19-1704-АИ" org="ФНС"/>
  <domain><![CDATA[gurovdigital.ru]]></domain>
  <ip>45.147.197.234</ip>
+</content>
+<content id="6464012" includeTime="2024-10-09T14:25:03" entryType="1" hash="C69BE16B67504357084123EC835E1B28" blockType="domain-mask" ts="2024-10-09T14:25:03">
+ <decision date="2023-10-27" number="2-6-14/2023-10-16-3984-АИ" org="ФНС"/>
+ <domain><![CDATA[*.bestonlinecasinos.ru]]></domain>
+ <ip>104.21.28.178</ip>
+ <ip>172.67.147.13</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:930d</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:1cb2</ipv6>
 </content>
 <content id="6464022" includeTime="2023-10-30T15:20:04" entryType="1" hash="0921235D3A6144564399588A19766A69" blockType="domain-mask" ts="2023-10-30T15:20:04">
  <decision date="2023-10-30" number="2280627-URL-on" org="Роскомнадзор"/>

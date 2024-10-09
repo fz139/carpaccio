@@ -4396,14 +4396,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a299</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:0f7a</ipv6>
 </content>
-<content id="4660024" includeTime="2022-07-29T18:35:45" entryType="1" hash="304869276261893691E5986A6A13F288" blockType="domain" ts="2022-07-29T18:35:45">
- <decision date="2022-07-15" number="2а-2161/2022" org="Ленинский районный суд г.Владимира"/>
- <domain><![CDATA[accmarket.cc]]></domain>
- <ip>104.21.15.213</ip>
- <ip>172.67.164.125</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:a47d</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:0fd5</ipv6>
-</content>
 <content id="4660046" includeTime="2022-07-29T18:35:44" entryType="1" hash="CF3A4376F86A23A8CB1389F7039DEBF5" ts="2023-07-07T21:20:00">
  <decision date="2022-07-26" number="2а-479/2022" org="Городищенский районный суд Пензенской области"/>
  <url><![CDATA[https://ry.intimstory.com]]></url>
@@ -13604,9 +13596,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="4676886" includeTime="2022-08-04T13:47:25" entryType="1" hash="3491C7138BCB7C0184763939D7F0726B" blockType="domain" ts="2022-08-04T13:47:25">
+<content id="4676886" includeTime="2022-08-04T13:47:25" entryType="1" hash="407EE06ED28E032BC6357E022F3664C8" blockType="domain-mask" ts="2024-10-09T13:55:02">
  <decision date="2022-07-21" number="2а-292/2022" org="Чердынский районный суд - Пермский край"/>
- <domain><![CDATA[dark2web.one]]></domain>
+ <domain><![CDATA[*.dark2web.one]]></domain>
  <ip>104.21.26.107</ip>
  <ip>172.67.135.224</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:87e0</ipv6>
