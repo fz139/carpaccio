@@ -9598,6 +9598,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="7501060" includeTime="2024-10-11T13:55:03" entryType="1" hash="95F09660E51FA460B1E4921B97414759" blockType="domain" ts="2024-10-11T13:55:03">
+ <decision date="2024-10-09" number="2783910-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[role-me.ru]]></domain>
+ <ip>37.1.223.225</ip>
+</content>
 <content id="7501061" includeTime="2024-10-09T23:40:03" entryType="1" hash="A47CF5A4980A7DC6EEA01D8D94C0B866" blockType="domain-mask" ts="2024-10-09T23:40:03">
  <decision date="2024-10-01" number="2-6-14/2024-10-01-10202-АИ" org="ФНС"/>
  <domain><![CDATA[*.1gocasino-disc1.top]]></domain>
@@ -10894,6 +10899,15 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
+<content id="7501369" includeTime="2024-10-11T13:55:03" entryType="1" hash="8090EAD6FC40B79577CB99B583FE1476" ts="2024-10-11T13:55:03">
+ <decision date="2024-10-09" number="2784697-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://7tv.app/emotes/6616956f09df9c7f5eb66af1]]></url>
+ <domain><![CDATA[7tv.app]]></domain>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
+</content>
 <content id="7501371" includeTime="2024-10-09T14:25:03" entryType="1" hash="9A62AC9C338BAF5C28BF1B222BF81AB5" blockType="domain" ts="2024-10-09T14:25:03">
  <decision date="2024-09-26" number="2-6-14/2024-09-24-12503-АИ" org="ФНС"/>
  <domain><![CDATA[220-100.ru]]></domain>
@@ -10949,15 +10963,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="7501387" includeTime="2024-10-11T00:00:03" entryType="1" hash="98451DB4868A509088CD6FEE2DB77D76" ts="2024-10-11T00:00:03">
- <decision date="2024-10-09" number="2784721-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://lord-g.lrdfilm12.me/6784-dlia-vasego-blaga-210.html]]></url>
- <domain><![CDATA[lord-g.lrdfilm12.me]]></domain>
- <ip>104.21.91.185</ip>
- <ip>172.67.177.211</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:b1d3</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:5bb9</ipv6>
 </content>
 <content id="7501389" includeTime="2024-10-09T14:25:03" entryType="1" hash="0A4A5103243EE61F4052C9BB3E4B73D3" blockType="domain-mask" ts="2024-10-09T14:25:03">
  <decision date="2024-09-26" number="2-6-14/2024-09-24-13128-АИ" org="ФНС"/>
