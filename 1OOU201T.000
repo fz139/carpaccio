@@ -1077,9 +1077,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:0dbc</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c9aa</ipv6>
 </content>
-<content id="7142349" includeTime="2024-06-24T14:10:03" entryType="1" hash="5C96795CB01484CBA58F8AEA746B4A56" blockType="domain" ts="2024-09-26T14:55:03">
+<content id="7142349" includeTime="2024-06-24T14:10:03" entryType="1" hash="012B9CFBF451A4EA1E213E69AF39601D" blockType="domain-mask" ts="2024-10-14T15:00:03">
  <decision date="2024-06-21" number="2598085-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[tubebay.net]]></domain>
+ <domain><![CDATA[*.tubebay.net]]></domain>
  <ip>104.21.85.172</ip>
  <ip>172.67.208.135</ip>
  <ip>188.114.96.1</ip>

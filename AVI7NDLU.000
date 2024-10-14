@@ -1132,14 +1132,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:96cc</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:005d</ipv6>
 </content>
-<content id="7488013" includeTime="2024-10-04T14:05:03" entryType="1" hash="E41F2B8B9F51EFC9256A90A29C6A9FA8" blockType="domain" ts="2024-10-04T14:05:03">
- <decision date="2024-10-03" number="2777686-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[debs.pitergay2.xyz]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="7488014" includeTime="2024-10-04T07:40:03" entryType="1" hash="2BFB87DA49F95F09B7080126A63A4E2D" blockType="domain-mask" ts="2024-10-04T07:40:03">
  <decision date="2024-08-28" number="2-6-14/2024-08-24-7277-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1xslots-slu.top]]></domain>
@@ -2685,6 +2677,16 @@
  <domain><![CDATA[*.vavada-qbu8.top]]></domain>
  <ip>135.125.233.147</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:78b6</ipv6>
+</content>
+<content id="7488401" includeTime="2024-10-14T15:00:03" entryType="1" hash="436C29C4B8F7E7A5BBBC04C7ED9D951D" ts="2024-10-14T15:00:03">
+ <decision date="2024-09-25" number="2а-179/2024" org="Курильский районный суд - Сахалинская область"/>
+ <url><![CDATA[https://gunspuli.net]]></url>
+ <domain><![CDATA[gunspuli.net]]></domain>
+ <ip>101.99.90.201</ip>
+ <ip>104.21.22.119</ip>
+ <ip>172.67.204.203</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1677</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:cccb</ipv6>
 </content>
 <content id="7488402" includeTime="2024-10-04T07:40:03" entryType="1" hash="D25675F80FB4344017017861DB568B0F" blockType="domain-mask" ts="2024-10-04T07:40:03">
  <decision date="2024-08-28" number="2-6-14/2024-08-24-7277-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -6599,15 +6601,6 @@
  <url><![CDATA[https://six.porno51.pro/tags/Милфы/]]></url>
  <domain><![CDATA[six.porno51.pro]]></domain>
  <ip>87.236.177.166</ip>
-</content>
-<content id="7489116" includeTime="2024-10-08T07:45:02" entryType="1" hash="489A2AA03D341B16112AC590B64D45EC" ts="2024-10-08T07:45:02">
- <decision date="2024-08-28" number="2а-3216/2024" org="Фрунзенский районный суд г. Владивостока - Приморский край"/>
- <url><![CDATA[https://i-store.youbagsese.com/catalog/prada]]></url>
- <domain><![CDATA[i-store.youbagsese.com]]></domain>
- <ip>104.21.53.198</ip>
- <ip>172.67.218.116</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:da74</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:35c6</ipv6>
 </content>
 <content id="7489117" includeTime="2024-10-07T16:30:04" entryType="1" hash="51E81513BEFF3D68D071E9C8EC43A102" blockType="domain" ts="2024-10-07T16:30:04">
  <decision date="2024-08-20" number="2а-11745/2024" org="Одинцовский городской суд - Московская область"/>

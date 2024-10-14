@@ -65,6 +65,19 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:433c</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d6fb</ipv6>
 </content>
+<content id="7206384" includeTime="2024-10-14T16:20:04" entryType="1" hash="C86A0AE7023C55F9FE3CB3D70BE89B35" ts="2024-10-14T16:20:04">
+ <decision date="2024-07-09" number="2024-06-27-14682-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://torproject.github.io/manual/ru/]]></url>
+ <domain><![CDATA[torproject.github.io]]></domain>
+ <ip>185.199.108.153</ip>
+ <ip>185.199.109.153</ip>
+ <ip>185.199.110.153</ip>
+ <ip>185.199.111.153</ip>
+ <ipv6>2606:50c0:8000:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8001:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8002:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8003:0000:0000:0000:0000:0153</ipv6>
+</content>
 <content id="7206385" includeTime="2024-07-10T15:10:02" entryType="1" hash="534AEA0B8C338809B4E09DB0523237CD" blockType="domain-mask" ts="2024-07-10T15:10:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.krakenl3.com]]></domain>
@@ -1098,9 +1111,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:bc5a</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:30eb</ipv6>
 </content>
-<content id="7206570" includeTime="2024-07-11T14:25:02" entryType="1" hash="D9273ED4D155D19E0A373EEF244FBD52" blockType="domain" ts="2024-10-14T10:10:03">
+<content id="7206570" includeTime="2024-07-11T14:25:02" entryType="1" hash="323B3055F2F140B8F03963A6BBE51ED8" blockType="domain-mask" ts="2024-10-14T15:00:03">
  <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
- <domain><![CDATA[glazboga.vip]]></domain>
+ <domain><![CDATA[*.glazboga.vip]]></domain>
  <ip>104.21.69.135</ip>
  <ip>172.67.208.246</ip>
  <ip>188.114.96.1</ip>
@@ -18199,14 +18212,18 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:d463</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3dad</ipv6>
 </content>
-<content id="7211732" includeTime="2024-07-13T07:35:02" entryType="1" hash="D2EC96840DC5D6780B40A260BD9B81C4" ts="2024-07-13T07:35:02">
+<content id="7211732" includeTime="2024-07-13T07:35:02" entryType="1" hash="DB4B965B1E01295A6D6ED4BCD725212D" ts="2024-10-14T16:20:04">
  <decision date="2024-07-10" number="2а-586/2024" org="Осинский районный суд - Пермский край"/>
  <url><![CDATA[https://perm.propiski-net.ru/propiskasng.php]]></url>
  <domain><![CDATA[perm.propiski-net.ru]]></domain>
  <ip>104.21.61.101</ip>
  <ip>172.67.208.239</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:3d65</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d0ef</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7211735" includeTime="2024-07-12T00:00:03" entryType="1" hash="931A48EF0911F4D1CCA3E8EE93312862" blockType="domain" ts="2024-07-12T00:00:03">
  <decision date="2024-07-10" number="2-6-14/2024-07-09-631-АИ" org="ФНС"/>
