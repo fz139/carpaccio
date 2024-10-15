@@ -1505,6 +1505,11 @@
  <ip>52.85.47.57</ip>
  <ip>52.85.47.70</ip>
 </content>
+<content id="3929611" includeTime="2024-10-15T04:50:02" entryType="1" hash="22662335DBD5B269A1D85698A6F756D5" blockType="domain-mask" ts="2024-10-15T04:50:02">
+ <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.jackpot-finlands.top]]></domain>
+ <ip>89.105.223.74</ip>
+</content>
 <content id="3929621" includeTime="2022-01-10T19:32:43" entryType="1" hash="F7BBD52B9838D46198B992E15D1BF9E1" blockType="domain-mask" ts="2022-01-10T19:32:43">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1xbet-club.ru]]></domain>
@@ -1738,9 +1743,8 @@
  <domain><![CDATA[msk2.dosug-time.com]]></domain>
  <ip>5.61.55.171</ip>
 </content>
-<content id="3929976" includeTime="2022-01-12T13:46:42" entryType="1" hash="E86B852CA1DF8BAB1309E72196C52B7C" ts="2024-10-14T15:50:02">
+<content id="3929976" includeTime="2022-01-12T13:46:42" entryType="1" hash="FAF422ABADA47485373728D691C9682A" blockType="domain" ts="2024-10-15T04:20:02">
  <decision date="2021-12-20" number="2а-8672/2021" org="Железнодорожный районный суд г. Екатеринбурга - Свердловская область - Свердловская область"/>
- <url><![CDATA[http://ekaterinburg.reg-rus.ru]]></url>
  <domain><![CDATA[ekaterinburg.reg-rus.ru]]></domain>
  <ip>104.21.87.142</ip>
  <ip>172.67.169.226</ip>
