@@ -4833,9 +4833,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:21e3</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:973d</ipv6>
 </content>
-<content id="7523360" includeTime="2024-10-15T20:15:03" urgencyType="1" entryType="3" hash="253E63CFD5FDE9AFF7C9ABD0E35DAC20" blockType="domain" ts="2024-10-15T20:15:03">
+<content id="7523360" includeTime="2024-10-15T20:15:03" urgencyType="1" entryType="3" hash="F566BD22598B5C8B6C8257D783B7712E" blockType="domain-mask" ts="2024-10-15T20:30:04">
  <decision date="2024-10-14" number="" org=""/>
- <domain><![CDATA[october29.ru]]></domain>
+ <domain><![CDATA[*.october29.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -4849,5 +4849,29 @@
  <ip>151.101.129.91</ip>
  <ip>151.101.193.91</ip>
  <ip>151.101.65.91</ip>
+</content>
+<content id="7524724" includeTime="2024-10-15T20:30:04" urgencyType="1" entryType="3" hash="34E5643D58299F1197D52511FAFBB91E" ts="2024-10-15T20:30:04">
+ <decision date="2024-10-04" number="" org=""/>
+ <url><![CDATA[https://datawebglobal.com/en/StandWithUkraine]]></url>
+ <domain><![CDATA[datawebglobal.com]]></domain>
+ <ip>185.56.233.108</ip>
+</content>
+<content id="7524725" includeTime="2024-10-15T20:30:04" urgencyType="1" entryType="3" hash="8FC98673CE26EBA51D9626F2E690C732" ts="2024-10-15T20:30:04">
+ <decision date="2024-10-09" number="" org=""/>
+ <url><![CDATA[https://villaoceanhotels.com/stati/prosto-i-legko-kupit-prava-dlya-lishennyx-cherez-on-prava-1com.html]]></url>
+ <domain><![CDATA[villaoceanhotels.com]]></domain>
+ <ip>104.21.72.252</ip>
+ <ip>172.67.156.1</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:48fc</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:9c01</ipv6>
+</content>
+<content id="7524726" includeTime="2024-10-15T20:30:04" urgencyType="1" entryType="3" hash="0E61B28C62EC022142E871EE654553CC" ts="2024-10-15T20:30:04">
+ <decision date="2024-10-09" number="" org=""/>
+ <url><![CDATA[https://blizko.pro/ru/moskva/firm/on-prava]]></url>
+ <domain><![CDATA[blizko.pro]]></domain>
+ <ip>104.21.59.140</ip>
+ <ip>172.67.179.71</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:3b8c</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:b347</ipv6>
 </content>
 </reg:register>
