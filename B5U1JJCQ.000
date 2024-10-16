@@ -4689,14 +4689,18 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:3b23</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:d3f2</ipv6>
 </content>
-<content id="3587302" includeTime="2021-09-03T15:05:04" entryType="1" hash="73827D7841B9457822140B5A12B79777" ts="2021-09-03T15:05:04">
+<content id="3587302" includeTime="2021-09-03T15:05:04" entryType="1" hash="1CE86FACC4655FC4AF287133CCEEE813" ts="2024-10-16T14:10:03">
  <decision date="2021-08-09" number="77053/21/992617" org="ОСП по Центральному АО №1 ГУФССП России по Москве - Москва"/>
  <url><![CDATA[http://stophish.ru/news/get/2275]]></url>
  <domain><![CDATA[stophish.ru]]></domain>
  <ip>104.21.58.221</ip>
  <ip>172.67.209.18</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d112</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3add</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3587305" includeTime="2021-09-01T22:53:12" entryType="1" hash="20B0D313D4D5FFEF9EE20CA066D53C08" blockType="domain-mask" ts="2021-09-01T22:53:12">
  <decision date="2017-08-25" number="2-6-20/2017-08-24-197-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4813,14 +4817,18 @@
  <domain><![CDATA[compromat.ws]]></domain>
  <ip>5.61.50.55</ip>
 </content>
-<content id="3588029" includeTime="2021-09-13T19:30:15" entryType="1" hash="EDDAB22CB416812339269FE6B6B1F55D" ts="2021-09-13T19:30:15">
+<content id="3588029" includeTime="2021-09-13T19:30:15" entryType="1" hash="C882466D0FCE0DA41825A7FE64237DD8" ts="2024-10-16T14:10:03">
  <decision date="2021-08-09" number="77053/21/992617" org="ОСП по Центральному АО №1 ГУФССП России по Москве - Москва"/>
  <url><![CDATA[https://www.listennotes.com/fi/podcasts/neradio-россия/скандалы-петербурга-в-aqUHS-zxR5Z/]]></url>
  <domain><![CDATA[www.listennotes.com]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.233</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="3588046" includeTime="2021-09-01T22:53:18" entryType="1" hash="651137C005B9D0FC5CA46019064E52FF" blockType="domain" ts="2021-09-01T22:53:18">
  <decision date="2017-08-25" number="2-6-20/2017-08-24-197-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
