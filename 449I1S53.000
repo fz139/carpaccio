@@ -1856,12 +1856,16 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5893097" includeTime="2023-05-12T21:56:46" entryType="1" hash="2F044C421CAAC139A4B8C64C0042C5D5" blockType="domain" ts="2023-05-12T21:56:46">
+<content id="5893097" includeTime="2023-05-12T21:56:46" entryType="1" hash="D24723C409503016D761CC00CB0F3598" blockType="domain" ts="2024-10-24T12:55:02">
  <decision date="2023-04-25" number="2а-3-131/2023" org="Энгельсский районный суд - Саратовская область"/>
  <domain><![CDATA[d6.profarm4.top]]></domain>
+ <ip>188.114.98.233</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.233</ip>
  <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="5893098" includeTime="2023-05-11T21:39:24" entryType="1" hash="7167CB807694558E761F87542CC6A059" blockType="domain-mask" ts="2023-05-11T21:39:24">
@@ -4440,14 +4444,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5895950" includeTime="2023-05-11T21:39:22" entryType="1" hash="1EADEE28E94D3DE3C19A246F914FA223" blockType="domain-mask" ts="2023-05-11T21:39:22">
- <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.pinup-cazino-slots.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="5895951" includeTime="2023-05-11T21:39:26" entryType="1" hash="923FF76DC6F475FB338C5097D1B9575A" blockType="domain-mask" ts="2023-05-11T21:39:26">
  <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.maxbetcasino.buzz]]></domain>
@@ -4539,13 +4535,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5895990" includeTime="2023-05-16T06:46:23" entryType="1" hash="ABABD2C761034A9AFE6E4F2D2BDFE007" blockType="domain" ts="2023-05-16T06:46:23">
+<content id="5895990" includeTime="2023-05-16T06:46:23" entryType="1" hash="5965137F0E20F9C51F52F59C98F6089F" blockType="domain" ts="2024-10-22T09:35:02">
  <decision date="2023-05-10" number="2023-05-06-100-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[ru36.homosteron.vip]]></domain>
- <ip>104.21.45.205</ip>
- <ip>172.67.218.190</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:dabe</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:2dcd</ipv6>
+ <ip>45.10.243.81</ip>
 </content>
 <content id="5896043" includeTime="2023-05-16T06:46:24" entryType="1" hash="47F5A66EF73F1B1FC4D8CFB503886C0E" blockType="domain" ts="2023-10-17T13:40:04">
  <decision date="2023-05-10" number="2023-05-05-4128-ПЛ" org="Росздравнадзор"/>
@@ -4556,14 +4549,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:dd63</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:436e</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="5896072" includeTime="2023-06-05T21:27:35" entryType="1" hash="48F9F33DBF6745D912CD5E91414EC4F5" blockType="domain" ts="2023-06-05T21:27:35">
- <decision date="2023-05-11" number="2023-05-03-732-АЛК" org="Росалкогольрегулирование"/>
- <domain><![CDATA[ekaterinburg.alkomig.top]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -4613,10 +4598,10 @@
  <domain><![CDATA[pills317.viamagaz.ru]]></domain>
  <ip>5.45.81.153</ip>
 </content>
-<content id="5896265" includeTime="2023-05-16T06:46:24" entryType="1" hash="B0325032336AD1CBAB6482E042DA1916" blockType="domain" ts="2023-05-16T06:46:24">
+<content id="5896265" includeTime="2023-05-16T06:46:24" entryType="1" hash="C4A47D8BE0A4CE844B54E9A31EAAD458" blockType="domain" ts="2024-10-22T09:25:02">
  <decision date="2023-05-10" number="2023-05-06-101-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[ru37.homosteron.vip]]></domain>
- <ip>190.115.18.131</ip>
+ <ip>45.10.243.81</ip>
 </content>
 <content id="5896269" includeTime="2023-05-15T13:09:57" entryType="1" hash="CAB0BE563F1E2F54E9D30EBB624BD591" blockType="domain" ts="2023-05-15T13:09:57">
  <decision date="2023-05-10" number="2023-05-06-1022-ПЛ" org="Росздравнадзор"/>
@@ -7098,18 +7083,6 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0dea</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:856c</ipv6>
 </content>
-<content id="5901840" includeTime="2023-05-15T13:09:56" entryType="1" hash="DA57AB274F44124DD7AD034527FEC548" blockType="domain" ts="2023-10-26T16:35:04">
- <decision date="2022-10-24" number="2а-819/2022" org="Люблинский районный суд - Москва"/>
- <domain><![CDATA[k.prostitutki.ltd]]></domain>
- <ip>104.21.1.21</ip>
- <ip>172.67.151.221</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:0115</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:97dd</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="5901841" includeTime="2023-05-16T06:46:22" entryType="1" hash="A32C9594B923AFD68A5163ACEE6C0767" blockType="domain" ts="2023-05-16T06:46:22">
  <decision date="2023-03-06" number="2а-231/2023" org="Перовский районный суд - Москва"/>
  <domain><![CDATA[spravkyy-srochno.com]]></domain>
@@ -8647,11 +8620,6 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:076c</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8220</ipv6>
 </content>
-<content id="5902996" includeTime="2023-05-16T06:46:23" entryType="1" hash="DF41FC2F4B7B3C343813AC58C468080B" blockType="domain-mask" ts="2023-10-16T09:50:05">
- <decision date="2023-05-12" number="2023-05-11-2064-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[*.mentabletki24.ru]]></domain>
- <ip>185.4.67.171</ip>
-</content>
 <content id="5902997" includeTime="2023-05-12T21:56:49" entryType="1" hash="CD3B47C69BFC8BF566EF78132ED3FEF8" blockType="domain-mask" ts="2023-05-12T21:56:49">
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vavada-casino-ohf.buzz]]></domain>
@@ -8678,14 +8646,6 @@
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.riobet139.com]]></domain>
  <ip>62.84.103.118</ip>
-</content>
-<content id="5903006" includeTime="2023-05-16T06:46:19" entryType="1" hash="CE4FAC8B55FEA695F99F9FF414581B0E" blockType="domain" ts="2023-05-16T06:46:19">
- <decision date="2023-05-12" number="2023-05-12-122-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[aqua.pharmlabs.store]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="5903007" includeTime="2023-05-16T06:46:19" entryType="1" hash="5C43153C2ED7AD19DA70F63ADD64008D" blockType="domain" ts="2023-05-16T06:46:19">
  <decision date="2023-05-12" number="2023-05-12-185-ПЛ" org="Росздравнадзор"/>
@@ -8764,14 +8724,6 @@
  <ip>52.85.49.15</ip>
  <ip>52.85.49.33</ip>
  <ip>52.85.49.99</ip>
-</content>
-<content id="5903047" includeTime="2023-05-15T13:09:57" entryType="1" hash="A252090E3C3CF75AEEB39BB0CC1BB328" blockType="domain" ts="2023-05-15T13:09:57">
- <decision date="2023-05-11" number="2023-05-05-705-АЛК" org="Росалкогольрегулирование"/>
- <domain><![CDATA[alcolavca007.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="5903056" includeTime="2023-05-12T21:56:49" entryType="1" hash="27BEA2AB81FEF88AA806F0E3309E501E" blockType="domain-mask" ts="2023-05-12T21:56:49">
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

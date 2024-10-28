@@ -662,22 +662,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:57e5</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:93cd</ipv6>
 </content>
-<content id="4067713" includeTime="2022-02-21T14:12:40" entryType="1" hash="C8D2FE8CD9AF94347B88B9671F0781FD" blockType="domain" ts="2022-02-21T14:12:40">
- <decision date="2022-02-16" number="2а-172/2022" org="Котельничский районный суд Кировской области"/>
- <domain><![CDATA[med-cprawki.co]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4067719" includeTime="2022-02-21T14:12:38" entryType="1" hash="97352BF780CF4BBB64907E958083F840" blockType="domain-mask" ts="2023-11-29T13:15:04">
- <decision date="2022-02-17" number="2022-02-17-1525-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[*.ruanaboliki.net]]></domain>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
 <content id="4067723" includeTime="2022-02-22T18:43:36" entryType="1" hash="6F600FD9A2865F48CB8546215C734E1E" ts="2024-04-24T10:30:02">
  <decision date="2022-02-17" number="1594675-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://imhentai.xxx/view/607685/55/]]></url>
@@ -1339,18 +1323,6 @@
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="4068318" includeTime="2022-02-21T14:12:43" entryType="1" hash="696B53947FABC4F436DA1EAAD941D3B1" blockType="domain" ts="2023-10-17T17:35:03">
- <decision date="2022-02-17" number="2022-02-17-1529-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[ru9.otkata-net.site]]></domain>
- <ip>104.21.74.246</ip>
- <ip>172.67.207.243</ip>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:4af6</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:cff3</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
 <content id="4068338" includeTime="2022-02-18T13:28:19" entryType="1" hash="05D20021719903E3C3DA9CD0E82A65EB" ts="2022-02-18T13:28:19">
  <decision date="2022-02-17" number="2-6-18/2021-12-16-1482-АИ" org="ФНС"/>
  <url><![CDATA[https://cosmicslot2.com/ru/]]></url>
@@ -1382,13 +1354,17 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a050</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:52ae</ipv6>
 </content>
-<content id="4068387" includeTime="2022-02-21T14:12:45" entryType="1" hash="047F495AC86D597D367FAF3B086F47B5" blockType="domain" ts="2022-02-21T14:12:45">
+<content id="4068387" includeTime="2022-02-21T14:12:45" entryType="1" hash="6C762E7720DBC052A2B3D5C695B035EF" blockType="domain" ts="2024-10-24T12:55:02">
  <decision date="2022-02-17" number="2022-02-17-1567-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[s.profarm4.top]]></domain>
  <ip>188.114.96.2</ip>
  <ip>188.114.97.2</ip>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="4068391" includeTime="2022-02-18T13:28:21" entryType="1" hash="4F01586B39CFD8F24FDC119AE0C8B5F3" ts="2022-02-18T13:28:21">
  <decision date="2022-02-17" number="2-6-18/2021-12-16-1323-АИ" org="ФНС"/>

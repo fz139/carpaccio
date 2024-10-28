@@ -963,11 +963,6 @@
  <ip>204.44.192.63</ip>
  <ip>67.210.98.5</ip>
 </content>
-<content id="1090947" includeTime="2018-09-12T20:02:12" entryType="1" hash="EF430CB3C01766515EAB747BAE48E3B9" blockType="domain" ts="2018-09-12T20:02:12">
- <decision date="2018-09-05" number="2018-09-03-715-АЛК" org="Росалкогольрегулирование"/>
- <domain><![CDATA[www.bigbottle.ru]]></domain>
- <ip>91.232.134.192</ip>
-</content>
 <content id="1091063" includeTime="2018-09-11T08:15:28" entryType="1" hash="944B1C368240792E9C41D0488CF5657C" blockType="domain" ts="2018-09-11T08:15:28">
  <decision date="2018-09-06" number="2-6-20/2018-06-20-1116-АИ" org="ФНС"/>
  <domain><![CDATA[www.riobet.com.br]]></domain>
@@ -1637,6 +1632,14 @@
  <ip>172.67.210.172</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d2ac</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:42fe</ipv6>
+</content>
+<content id="1093192" includeTime="2024-10-28T13:45:02" entryType="1" hash="B16ABF2F00EC3567B67FF8B0FA0F359B" blockType="domain-mask" ts="2024-10-28T13:45:02">
+ <decision date="2018-09-07" number="2018-09-05-1118" org="МВД"/>
+ <domain><![CDATA[*.shishkin-semena.site]]></domain>
+ <ip>104.21.83.93</ip>
+ <ip>172.67.220.241</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:535d</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:dcf1</ipv6>
 </content>
 <content id="1093201" includeTime="2019-03-07T20:23:28" entryType="1" hash="E757C4BA946744A3B00CB841E7B74A93" blockType="domain" ts="2019-03-07T20:23:28">
  <decision date="2018-06-05" number="2а-2485/18" org="Ленинский районный суд г. Ульяновска - Ульяновская область"/>

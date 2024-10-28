@@ -7719,9 +7719,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:c646</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:156c</ipv6>
 </content>
-<content id="7244578" includeTime="2024-07-24T14:00:04" entryType="1" hash="BE7FA7B2928B7FED6D46B130ADEC3FF7" blockType="domain" ts="2024-07-24T14:00:04">
+<content id="7244578" includeTime="2024-07-24T14:00:04" entryType="1" hash="AB0E32BF5123700F7EAEF45AF82CEF8A" blockType="domain-mask" ts="2024-10-28T13:30:03">
  <decision date="2024-07-19" number="2024-07-19-5952-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[4men-magaz.ru]]></domain>
+ <domain><![CDATA[*.4men-magaz.ru]]></domain>
  <ip>185.238.170.15</ip>
 </content>
 <content id="7244592" includeTime="2024-07-24T14:00:04" entryType="1" hash="1649FE80B530B5A9E5809B9C6A7C8E3F" blockType="domain-mask" ts="2024-07-24T14:00:04">
@@ -7785,14 +7785,18 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1d4f</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:ab6b</ipv6>
 </content>
-<content id="7244608" includeTime="2024-07-24T14:00:04" entryType="1" hash="9E24049C1EF4337D0727B2C0C7F79C9A" ts="2024-07-24T14:00:04">
+<content id="7244608" includeTime="2024-07-24T14:00:04" entryType="1" hash="6A262C512ACCD27BD3161BF0A6F44196" ts="2024-10-24T11:30:03">
  <decision date="2024-07-22" number="2024-07-22-7637-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://l6.profarm4.top/category/oralnye_preparaty/turinabol/?ysclid=lywvjgqtfo737329621]]></url>
  <domain><![CDATA[l6.profarm4.top]]></domain>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.233</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="7244609" includeTime="2024-07-23T13:30:04" entryType="1" hash="D2FA61A8FE322ED5173710A4E982A698" blockType="domain" ts="2024-07-23T13:30:04">
  <decision date="2024-07-19" number="2а-1570/2024" org="Хасынский районный суд - Магаданская область"/>

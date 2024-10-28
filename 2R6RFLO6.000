@@ -88,12 +88,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6752772" includeTime="2024-02-21T22:55:03" entryType="1" hash="B78F7AC76E6F62CB871EA8A589D6CD5D" ts="2024-02-21T22:55:03">
- <decision date="2024-02-19" number="2412217-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[http://codebin.org/view/9aafbff2]]></url>
- <domain><![CDATA[codebin.org]]></domain>
- <ip>51.81.209.73</ip>
-</content>
 <content id="6752778" includeTime="2024-02-21T09:50:02" entryType="1" hash="CDFC99D172BC010FE92A9CB27966602F" blockType="domain-mask" ts="2024-02-21T09:50:02">
  <decision date="2024-02-19" number="2412241-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lordserial7.top]]></domain>
@@ -616,13 +610,10 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:dd11</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3e47</ipv6>
 </content>
-<content id="6752930" includeTime="2024-02-21T22:55:03" entryType="1" hash="06B5BE8B799BEA943454390A85D14DFC" blockType="domain" ts="2024-02-21T22:55:03">
+<content id="6752930" includeTime="2024-02-21T22:55:03" entryType="1" hash="B33A13B6B62DBDE8E1CAD0DE022704AA" blockType="domain" ts="2024-10-22T09:35:02">
  <decision date="2024-02-16" number="2024-02-05-2301-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[ru64.homosteron.vip]]></domain>
- <ip>104.21.45.205</ip>
- <ip>172.67.218.190</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:dabe</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:2dcd</ipv6>
+ <ip>45.10.243.81</ip>
 </content>
 <content id="6752931" includeTime="2024-02-20T13:55:04" entryType="1" hash="68E5A40A1D7863C25D14F15788086528" blockType="domain" ts="2024-02-20T13:55:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -3322,14 +3313,6 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="6753743" includeTime="2024-02-21T22:55:03" entryType="1" hash="5D905DB97E94F6D2CC5FA32894CB7518" blockType="domain" ts="2024-02-21T22:55:03">
- <decision date="2024-02-16" number="2024-02-07-2224-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[phenazepam.pro]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6753745" includeTime="2024-02-20T13:55:04" entryType="1" hash="3596D87F6CA7B9CD20F87DF2AFA1BA03" blockType="domain" ts="2024-02-20T13:55:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>

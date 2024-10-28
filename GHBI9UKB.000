@@ -73,13 +73,17 @@
  <domain><![CDATA[aif.ua]]></domain>
  <ip>94.198.52.44</ip>
 </content>
-<content id="4099708" includeTime="2022-03-03T00:06:43" entryType="1" hash="3FFACD2E46D9C044169B1F510BC0FA0D" blockType="domain" ts="2022-03-03T00:06:43">
+<content id="4099708" includeTime="2022-03-03T00:06:43" entryType="1" hash="62C6028BF04EBDEB983E0B82E1CEAC85" blockType="domain" ts="2024-10-24T12:55:02">
  <decision date="2022-02-28" number="2022-02-26-278-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[v.profarm4.top]]></domain>
  <ip>104.21.25.237</ip>
  <ip>172.67.168.47</ip>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="4099710" includeTime="2022-03-03T00:06:31" entryType="1" hash="AEBB8D11C2CBC47A76C32B8DFB01C855" blockType="domain" ts="2022-03-03T00:06:31">
  <decision date="2022-02-28" number="2022-02-26-419-ПЛ" org="Росздравнадзор"/>
@@ -372,16 +376,6 @@
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4099965" includeTime="2022-03-03T00:06:28" entryType="1" hash="E6CBA35031D4C8FF414BBA6B074E3DA8" blockType="domain" ts="2023-10-17T17:35:03">
- <decision date="2022-02-28" number="2022-02-26-283-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[ru11.otkata-net.site]]></domain>
- <ip>104.21.74.246</ip>
- <ip>172.67.207.243</ip>
- <ip>188.114.96.2</ip>
- <ip>188.114.97.2</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:4af6</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:cff3</ipv6>
 </content>
 <content id="4100008" includeTime="2022-03-03T00:06:38" entryType="1" hash="B052352BACF9D3151E38AD8FBF8CB4D0" blockType="domain" ts="2024-10-16T09:05:02">
  <decision date="2022-02-28" number="2022-02-25-1775-ПЛ" org="Росздравнадзор"/>
@@ -1601,27 +1595,6 @@
  <decision date="2022-02-01" number="2а-695/2022" org="Ленинский районный суд г. Костромы - Костромская область"/>
  <domain><![CDATA[sex0.sexbalashiha.club]]></domain>
  <ip>198.199.125.69</ip>
-</content>
-<content id="4104551" includeTime="2022-03-03T00:06:45" entryType="1" hash="E447EBF5B51072981AC1B7513839CAE6" blockType="domain" ts="2022-03-03T00:06:45">
- <decision date="2022-02-14" number="2а-1844/2022" org="Северодвинский городской суд - Архангельская область"/>
- <domain><![CDATA[msk.spravki.group]]></domain>
- <ip>104.21.12.218</ip>
- <ip>172.67.167.188</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:a7bc</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:0cda</ipv6>
-</content>
-<content id="4104555" includeTime="2022-03-03T00:06:35" entryType="1" hash="5A1214300D5388B2CC5F1643A5DD6502" ts="2024-07-10T15:40:03">
- <decision date="2022-02-18" number="2а-72/2022" org="Катайский районный суд"/>
- <url><![CDATA[https://irkutsk.snus-mag-moskva.ru/product-category/акции-на-снюс/]]></url>
- <domain><![CDATA[irkutsk.snus-mag-moskva.ru]]></domain>
- <ip>104.21.66.21</ip>
- <ip>172.67.155.80</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:4215</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:9b50</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4104566" includeTime="2022-03-01T22:11:00" entryType="1" hash="AF94051A136F5F3881BE397E8C27CCA6" blockType="domain" ts="2022-03-01T22:11:00">
  <decision date="2017-08-30" number="2-6-20/ 2017-08-30-535-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -3468,19 +3441,6 @@
  <ip>172.67.217.236</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:d9ec</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4611</ipv6>
-</content>
-<content id="4105901" includeTime="2022-03-03T14:28:37" entryType="1" hash="DC266B3DBBCFCC36FD5D150296D2CA3E" ts="2024-07-10T15:40:03">
- <decision date="2022-02-21" number="2а-96/2022" org="Сафакулевский районный суд Курганской области"/>
- <url><![CDATA[https://ulianovsk.snus-mag-moskva.ru]]></url>
- <domain><![CDATA[ulianovsk.snus-mag-moskva.ru]]></domain>
- <ip>104.21.66.21</ip>
- <ip>172.67.155.80</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:4215</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:9b50</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4105913" includeTime="2022-03-05T14:22:35" entryType="1" hash="78BB772D015E690FAABFCE9ED10AF7D4" ts="2024-04-24T10:30:02">
  <decision date="2022-03-01" number="1604119-URL-on" org="Роскомнадзор"/>
@@ -5741,13 +5701,17 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8c13</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:571c</ipv6>
 </content>
-<content id="4110797" includeTime="2022-03-04T20:32:31" entryType="1" hash="45981D2BC896E647D8AC3B9D7A850598" blockType="domain" ts="2022-03-04T20:32:31">
+<content id="4110797" includeTime="2022-03-04T20:32:31" entryType="1" hash="3717B27A466ADA55C50A277D8AA63BE3" blockType="domain" ts="2024-10-24T13:00:02">
  <decision date="2022-03-02" number="2022-03-02-1744-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[w.profarm4.top]]></domain>
  <ip>188.114.96.2</ip>
  <ip>188.114.97.2</ip>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="4110818" includeTime="2022-03-03T00:06:29" entryType="1" hash="871FC368ED646C1172AD482B0A383198" ts="2022-03-03T00:06:29">
  <decision date="2022-03-02" number="2-6-18/2021-12-17-3143-АИ" org="ФНС"/>
@@ -5945,19 +5909,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a652</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:22eb</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3891</ipv6>
-</content>
-<content id="4111832" includeTime="2022-03-05T14:22:34" entryType="1" hash="3D7EA3D3954AD963781084155181230A" ts="2023-10-23T16:50:04">
- <decision date="2022-02-07" number="2а-484/2022" org="Ленинский районный суд г.Мурманска"/>
- <url><![CDATA[http://a.spravkainfo.club/kupit-spravku-o-privivke-ot-kovida-ne-vyxodya-iz-doma/]]></url>
- <domain><![CDATA[a.spravkainfo.club]]></domain>
- <ip>104.21.92.230</ip>
- <ip>172.67.199.100</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:5ce6</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:c764</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4111836" includeTime="2022-03-05T14:22:38" entryType="1" hash="CEDD9DE2613E61D45D229C5038096480" ts="2022-03-05T14:22:38">
  <decision date="2022-02-22" number="2а-1078/2022" org="Железнодорожный районный суд г.Хабаровска"/>
@@ -6448,12 +6399,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
 </content>
-<content id="4117364" includeTime="2022-03-17T13:23:09" entryType="1" hash="1A8FF8A495D6A9A18CDFF221246AC15D" ts="2022-03-17T13:23:09">
- <decision date="2022-02-28" number="2а-36/2022 ~ М-15/2022" org="Тонкинский районный суд"/>
- <url><![CDATA[https://udo.praspec.com/products/b]]></url>
- <domain><![CDATA[udo.praspec.com]]></domain>
- <ip>5.61.48.87</ip>
-</content>
 <content id="4117388" includeTime="2022-03-05T14:22:37" entryType="1" hash="8F96C1F3C51C4D92DB40AD336FBB017D" blockType="domain" ts="2022-03-05T14:22:37">
  <decision date="2022-03-01" number="2а-55/2022" org="Сернурский районный суд Республики Марий Эл"/>
  <domain><![CDATA[joshkar-ola.area-diploman.com]]></domain>
@@ -6478,18 +6423,6 @@
  <ip>172.67.146.148</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:4fa0</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:9294</ipv6>
-</content>
-<content id="4117441" includeTime="2022-03-05T14:22:55" entryType="1" hash="6680EDEBF5B4581E0D713CFCA27059E8" blockType="domain" ts="2023-11-09T18:40:04">
- <decision date="2022-02-24" number="2а-31/2022" org="Кологривский районный суд - Костромская область"/>
- <domain><![CDATA[spravkishop.24med.space]]></domain>
- <ip>104.21.36.200</ip>
- <ip>172.67.199.71</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:24c8</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c747</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4117475" includeTime="2022-03-17T13:23:09" entryType="1" hash="F24145F0D3809EF80E17E58EB148055D" ts="2024-10-01T22:20:03">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>

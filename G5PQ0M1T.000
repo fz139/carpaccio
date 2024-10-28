@@ -3161,14 +3161,18 @@
  <ip>104.21.55.83</ip>
  <ip>172.67.146.88</ip>
 </content>
-<content id="7308852" includeTime="2024-08-13T23:55:02" entryType="1" hash="266A95A0FCD42B368C59D94D9AB87FFA" ts="2024-08-13T23:55:02">
+<content id="7308852" includeTime="2024-08-13T23:55:02" entryType="1" hash="B12BE7959A3E8D9866D6C6828DF91288" ts="2024-10-23T10:35:03">
  <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
  <url><![CDATA[https://a.vpn.how/ru/pages/vpn-rabotaushhii-v-rossii.html]]></url>
  <domain><![CDATA[a.vpn.how]]></domain>
  <ip>104.21.24.93</ip>
  <ip>172.67.218.36</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:185d</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:da24</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7308861" includeTime="2024-08-13T00:00:02" entryType="1" hash="B81A6FE586E58FFDE64209D193CB0C24" blockType="domain" ts="2024-08-13T00:00:02">
  <decision date="2024-08-08" number="2-6-14/2024-08-05-11172-АИ" org="ФНС"/>
@@ -5902,15 +5906,6 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:3129</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:8d4a</ipv6>
 </content>
-<content id="7309905" includeTime="2024-08-14T14:55:02" entryType="1" hash="E5AC1A498FFF7310737C206751DCBF9F" ts="2024-08-14T14:55:02">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://sh4man.biz/?op=product&id=13]]></url>
- <domain><![CDATA[sh4man.biz]]></domain>
- <ip>104.21.12.89</ip>
- <ip>172.67.131.247</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:0c59</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:83f7</ipv6>
-</content>
 <content id="7309906" includeTime="2024-08-13T00:00:02" entryType="1" hash="757CCB65A017136B6AECD197399AB02E" blockType="domain-mask" ts="2024-08-13T00:00:02">
  <decision date="2024-07-30" number="2-6-14/2024-07-30-786-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.bkleon-599i.buzz]]></domain>
@@ -8172,15 +8167,6 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:9da8</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0e1b</ipv6>
 </content>
-<content id="7310610" includeTime="2024-08-14T14:55:02" entryType="1" hash="BAC459959DBACE900EB583E62FD491A6" ts="2024-08-14T14:55:02">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://sh4man.biz/?op=product&id=1]]></url>
- <domain><![CDATA[sh4man.biz]]></domain>
- <ip>104.21.12.89</ip>
- <ip>172.67.131.247</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:0c59</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:83f7</ipv6>
-</content>
 <content id="7310611" includeTime="2024-08-13T00:00:02" entryType="1" hash="4682CA53FE75A5B98ECA939FF8DD91EC" blockType="domain-mask" ts="2024-08-13T00:00:02">
  <decision date="2024-07-30" number="2-6-14/2024-07-30-786-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.7kcasino-upc.top]]></domain>
@@ -8204,14 +8190,6 @@
  <ip>172.67.169.13</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a90d</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1b4a</ipv6>
-</content>
-<content id="7310620" includeTime="2024-08-14T14:55:02" entryType="1" hash="F6F510AEE169B1D58C93029B9A10E0C3" blockType="domain" ts="2024-08-14T14:55:02">
- <decision date="2024-08-12" number="2690357-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[a3.pitertyt.xyz]]></domain>
- <ip>104.21.48.29</ip>
- <ip>172.67.176.37</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:301d</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:b025</ipv6>
 </content>
 <content id="7310621" includeTime="2024-08-13T00:00:02" entryType="1" hash="71FF4DDAB1B813C4812121D9D895D69D" blockType="domain-mask" ts="2024-08-13T00:00:02">
  <decision date="2024-07-30" number="2-6-14/2024-07-30-786-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -8714,15 +8692,6 @@
  <ip>172.67.188.232</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:bce8</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4943</ipv6>
-</content>
-<content id="7310788" includeTime="2024-08-14T14:55:02" entryType="1" hash="EBD4AEAC9A1A146DE5FA116E7FD44D66" ts="2024-08-14T14:55:02">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://sh4man.biz/?op=product&id=5]]></url>
- <domain><![CDATA[sh4man.biz]]></domain>
- <ip>104.21.12.89</ip>
- <ip>172.67.131.247</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:0c59</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:83f7</ipv6>
 </content>
 <content id="7310789" includeTime="2024-08-13T00:00:02" entryType="1" hash="37BAC42B976EF8F6F0DEAB69781BD73E" blockType="domain-mask" ts="2024-08-13T00:00:02">
  <decision date="2024-07-30" number="2-6-14/2024-07-30-786-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

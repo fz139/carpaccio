@@ -3209,12 +3209,16 @@
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:b32d</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1fbb</ipv6>
 </content>
-<content id="6868936" includeTime="2024-03-25T09:55:02" entryType="1" hash="7EC92B909E0AD50347F346257B5C77B7" blockType="domain" ts="2024-03-25T09:55:02">
+<content id="6868936" includeTime="2024-03-25T09:55:02" entryType="1" hash="B50BA5850120DB14BFA0D7D32402F3FF" blockType="domain" ts="2024-10-24T11:30:03">
  <decision date="2024-03-21" number="2024-03-20-5834-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[k1.profarm4.top]]></domain>
+ <ip>188.114.98.233</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.233</ip>
  <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="6868937" includeTime="2024-03-21T22:40:04" entryType="1" hash="93548E016023B4760430A69C333E648D" blockType="domain-mask" ts="2024-03-21T22:40:04">
@@ -3851,11 +3855,6 @@
  <ip>172.67.136.231</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4907</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:88e7</ipv6>
-</content>
-<content id="6869147" includeTime="2024-03-25T22:50:03" entryType="1" hash="5727D2C56F5CA87052BF46899AECBC2F" blockType="domain" ts="2024-03-25T22:50:03">
- <decision date="2024-03-21" number="2024-03-12-8928-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[100gr-sochi.store]]></domain>
- <ip>178.32.248.248</ip>
 </content>
 <content id="6869148" includeTime="2024-03-21T22:40:04" entryType="1" hash="DBF04F13A106A3C0961164B9FCDB1348" blockType="domain-mask" ts="2024-03-21T22:40:04">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4525,11 +4524,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6869382" includeTime="2024-03-25T22:50:03" entryType="1" hash="399C794AF966258341C5131ABDB1FF2D" blockType="domain" ts="2024-03-25T22:50:03">
- <decision date="2024-03-21" number="2024-03-12-9016-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[3alcoexpress24-sochi.ru]]></domain>
- <ip>178.32.248.248</ip>
-</content>
 <content id="6869383" includeTime="2024-03-21T22:40:04" entryType="1" hash="A9072C7658454CC967C51A446B94F399" blockType="domain-mask" ts="2024-03-21T22:40:04">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdom-cool.pics]]></domain>
@@ -4867,14 +4861,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6869474" includeTime="2024-03-22T10:15:03" entryType="1" hash="98934E1C9257243E3A00BF347A9E5528" blockType="domain" ts="2024-03-22T10:15:03">
- <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[ru8.conglomerate.site]]></domain>
- <ip>104.21.13.204</ip>
- <ip>172.67.133.23</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:8517</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:0dcc</ipv6>
 </content>
 <content id="6869475" includeTime="2024-03-25T09:55:02" entryType="1" hash="02854D4508296E3238BB2144113E3C19" ts="2024-04-25T14:15:03">
  <decision date="2024-03-21" number="2455953-URL-on" org="Роскомнадзор"/>

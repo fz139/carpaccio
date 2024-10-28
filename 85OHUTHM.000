@@ -448,13 +448,17 @@
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:da9c</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:4e52</ipv6>
 </content>
-<content id="7264066" includeTime="2024-07-29T13:55:02" entryType="1" hash="6263DAFE2078E93590FF9E8F47554C06" blockType="domain" ts="2024-07-29T13:55:02">
+<content id="7264066" includeTime="2024-07-29T13:55:02" entryType="1" hash="F1FFE69C87078A549FEFA1348727ED80" blockType="domain" ts="2024-10-21T15:50:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[www.slavyankarest.ru]]></domain>
  <ip>104.21.58.192</ip>
  <ip>172.67.163.113</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a371</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:3ac0</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7264068" includeTime="2024-07-27T07:10:02" entryType="1" hash="0EA6C01B64EDD53D5289AB829988FD7F" blockType="domain-mask" ts="2024-07-27T07:10:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -808,23 +812,6 @@
  <ip>104.21.6.211</ip>
  <ip>172.67.135.72</ip>
 </content>
-<content id="7264270" includeTime="2024-07-29T13:55:02" entryType="1" hash="C08F731110B56DFCF34D1AC52C36CA05" ts="2024-07-29T13:55:02">
- <decision date="2024-07-24" number="2024-07-15-6702-СОБ" org="Роскомнадзор"/>
- <url><![CDATA[https://d11ubar7molh6r.cloudfront.net/ru/vpn/vpn-for-windows]]></url>
- <domain><![CDATA[d11ubar7molh6r.cloudfront.net]]></domain>
- <ip>18.165.122.20</ip>
- <ip>18.165.122.23</ip>
- <ip>18.165.122.38</ip>
- <ip>18.165.122.63</ip>
- <ipv6>2600:9000:2375:1c00:001d:e82a:90c0:93a1</ipv6>
- <ipv6>2600:9000:2375:2400:001d:e82a:90c0:93a1</ipv6>
- <ipv6>2600:9000:2375:4400:001d:e82a:90c0:93a1</ipv6>
- <ipv6>2600:9000:2375:5000:001d:e82a:90c0:93a1</ipv6>
- <ipv6>2600:9000:2375:7a00:001d:e82a:90c0:93a1</ipv6>
- <ipv6>2600:9000:2375:8600:001d:e82a:90c0:93a1</ipv6>
- <ipv6>2600:9000:2375:8a00:001d:e82a:90c0:93a1</ipv6>
- <ipv6>2600:9000:2375:ee00:001d:e82a:90c0:93a1</ipv6>
-</content>
 <content id="7264271" includeTime="2024-07-29T13:55:02" entryType="1" hash="8E57AFE12413C6BBB943115602BB241F" blockType="domain-mask" ts="2024-07-29T13:55:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.classicaltheater.ru]]></domain>
@@ -1144,14 +1131,18 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:c2bd</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:14e5</ipv6>
 </content>
-<content id="7264422" includeTime="2024-07-29T13:55:02" entryType="1" hash="5CD110A7EBADC7DA22930E7777FBAA4C" ts="2024-07-29T13:55:02">
+<content id="7264422" includeTime="2024-07-29T13:55:02" entryType="1" hash="58837C0A5957D196DDEF2D74C789CFC9" ts="2024-10-25T14:10:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://vrpvk.ru/googleearthvr]]></url>
  <domain><![CDATA[vrpvk.ru]]></domain>
  <ip>104.21.12.212</ip>
  <ip>172.67.196.100</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c464</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0cd4</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7264426" includeTime="2024-07-27T07:10:02" entryType="1" hash="AC9672C4E309099487C826FEFEBB364A" blockType="domain-mask" ts="2024-07-27T07:10:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

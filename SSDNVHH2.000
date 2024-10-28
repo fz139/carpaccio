@@ -566,13 +566,17 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:b8ec</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:131f</ipv6>
 </content>
-<content id="4460094" includeTime="2022-06-03T14:04:41" entryType="1" hash="91C17EB40F9049FD9399050445346C43" blockType="domain" ts="2022-06-03T14:04:41">
+<content id="4460094" includeTime="2022-06-03T14:04:41" entryType="1" hash="8BE0EB471DF5E4C3D572ABA029275784" blockType="domain" ts="2024-10-24T13:00:02">
  <decision date="2022-06-01" number="2022-05-31-5157-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[b9.profarm4.top]]></domain>
  <ip>104.21.25.237</ip>
  <ip>172.67.168.47</ip>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:19ed</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:a82f</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="4460104" includeTime="2022-06-03T14:04:38" entryType="1" hash="3183703DE2515508CFDBBC606FAE9BDC" blockType="domain" ts="2023-07-05T18:04:00">
  <decision date="2022-05-13" number="2а-4770/2022" org="Центральный районный суд г. Челябинска - Челябинская область"/>
@@ -1027,14 +1031,6 @@
  <url><![CDATA[https://rusmafiozi.blogspot.com/2021/10/blog-post_6.html]]></url>
  <domain><![CDATA[rusmafiozi.blogspot.com]]></domain>
  <ip>74.125.29.132</ip>
-</content>
-<content id="4460762" includeTime="2022-06-03T14:04:37" entryType="1" hash="E905248863ADE898EE73A2199098EFCD" blockType="domain" ts="2022-06-03T14:04:37">
- <decision date="2022-06-01" number="2022-05-31-5170-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[ru24.otkata-net.site]]></domain>
- <ip>104.21.74.246</ip>
- <ip>172.67.207.243</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:4af6</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:cff3</ipv6>
 </content>
 <content id="4460800" includeTime="2022-06-03T14:04:36" entryType="1" hash="6D230B55F45E65DC2B0B189FF61B2C04" blockType="domain" ts="2022-06-03T14:04:36">
  <decision date="2022-05-31" number="2а-521/2022" org="Валуйский районный суд - Белгородская область"/>
@@ -3011,9 +3007,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:d172</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:173c</ipv6>
 </content>
-<content id="4465812" includeTime="2022-06-06T13:09:18" entryType="1" hash="83ABA32795676D6534F94656B87DA256" blockType="domain" ts="2024-03-13T12:20:04">
+<content id="4465812" includeTime="2022-06-06T13:09:18" entryType="1" hash="8C802F274D9068CE4C2125719CFB9776" blockType="domain-mask" ts="2024-10-23T13:30:02">
  <decision date="2022-03-18" number="2а-1031/2022" org="Железнодорожный районный суд г. Екатеринбурга"/>
- <domain><![CDATA[sexekat.red]]></domain>
+ <domain><![CDATA[*.sexekat.red]]></domain>
  <ip>174.138.5.8</ip>
 </content>
 <content id="4465825" includeTime="2022-06-06T13:09:16" entryType="1" hash="063E986419A0535A18174883E04CEDDD" blockType="domain" ts="2022-06-06T13:09:16">
@@ -5303,18 +5299,6 @@
  <ip>104.21.7.199</ip>
  <ip>172.67.156.69</ip>
 </content>
-<content id="4472305" includeTime="2022-06-06T13:09:19" entryType="1" hash="66DBEACAB07ADA5077D10C2F889834DB" blockType="domain" ts="2023-11-03T14:30:02">
- <decision date="2022-06-01" number="2а-251/2022 ~ М-207/2022" org="Далматовский районный суд Курганской области"/>
- <domain><![CDATA[bryansk.snus-mag-moskva.ru]]></domain>
- <ip>104.21.66.21</ip>
- <ip>172.67.155.80</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:4215</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:9b50</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="4472316" includeTime="2022-06-06T13:09:17" entryType="1" hash="2C4370BA283A65829F5723D02F5B4196" blockType="domain" ts="2022-06-06T13:09:17">
  <decision date="2022-06-03" number="2022-06-02-4131" org="МВД"/>
  <domain><![CDATA[blacksunmagic.ru]]></domain>
@@ -6553,34 +6537,10 @@
  <ip>206.189.148.148</ip>
  <ip>92.118.63.217</ip>
 </content>
-<content id="4477608" includeTime="2022-06-07T20:56:28" entryType="1" hash="D8ADC67E21CFAD67C2E0F4A91AD6B799" blockType="domain" ts="2024-08-29T08:55:01">
- <decision date="2022-06-01" number="2а-254/2022" org="Далматовский районный суд Курганской области"/>
- <domain><![CDATA[vladivostok.snus-mag-moskva.ru]]></domain>
- <ip>104.21.66.21</ip>
- <ip>172.67.155.80</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:4215</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:9b50</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="4477634" includeTime="2022-06-07T20:56:28" entryType="1" hash="05DA86CCF26C2BA38319070FA8D03DD6" blockType="domain" ts="2022-06-07T20:56:28">
  <decision date="2022-05-17" number="2а-2470/2022" org="Кировский районный суд г. Астрахани - Астраханская область"/>
  <domain><![CDATA[voronezh3.hotxxx.name]]></domain>
  <ip>37.1.205.41</ip>
-</content>
-<content id="4477646" includeTime="2022-06-07T20:56:28" entryType="1" hash="A400E2B1159E700EF0BE3103EC722ED3" blockType="domain" ts="2023-11-03T14:30:02">
- <decision date="2022-06-01" number="2а-254/2022" org="Далматовский районный суд Курганской области"/>
- <domain><![CDATA[vladikavkaz.snus-mag-moskva.ru]]></domain>
- <ip>104.21.66.21</ip>
- <ip>172.67.155.80</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:4215</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:9b50</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4477701" includeTime="2022-06-20T13:27:41" entryType="1" hash="8E8732DD4C684A808546BC5756A4309B" blockType="domain" ts="2022-06-20T13:27:41">
  <decision date="2022-03-21" number="2а-96/2022" org="Макушинский районный суд"/>
@@ -6589,18 +6549,6 @@
  <ip>172.67.185.146</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:2430</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:b992</ipv6>
-</content>
-<content id="4477729" includeTime="2022-06-07T20:56:28" entryType="1" hash="5DDF8179FE449225C6A00E3293F2D72A" blockType="domain" ts="2023-11-03T14:30:02">
- <decision date="2022-06-01" number="2а-253/2022 ~ М-212/2022" org="Далматовский районный суд Курганской области"/>
- <domain><![CDATA[volgograd.snus-mag-moskva.ru]]></domain>
- <ip>104.21.66.21</ip>
- <ip>172.67.155.80</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:4215</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:9b50</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4477730" includeTime="2022-06-07T20:56:28" entryType="1" hash="16FBD4300EB82373872296627161826A" ts="2022-06-07T20:56:28">
  <decision date="2022-01-13" number="2а-1032/2022" org="Гатчинский городской суд - Ленинградская область"/>

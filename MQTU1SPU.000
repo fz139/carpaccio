@@ -964,13 +964,17 @@
  <ipv6>2a06:98c1:3123:a000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="3835604" includeTime="2021-12-03T23:15:08" entryType="1" hash="6B61397A814B97A32D8A9976870663E7" blockType="domain" ts="2021-12-03T23:15:08">
+<content id="3835604" includeTime="2021-12-03T23:15:08" entryType="1" hash="7A9DBFD648416947F4A6B54CDC6935F6" blockType="domain" ts="2024-10-24T11:30:03">
  <decision date="2021-12-02" number="2021-12-02-587-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[e.profarm4.top]]></domain>
  <ip>104.21.25.237</ip>
  <ip>172.67.168.47</ip>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:19ed</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:a82f</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="3835605" includeTime="2021-12-03T23:15:04" entryType="1" hash="9A28B415B3AD3CF9C866206E21AC53E2" blockType="domain" ts="2021-12-03T23:15:04">
  <decision date="2021-12-02" number="2021-12-02-328-ПЛ" org="Росздравнадзор"/>
@@ -1182,11 +1186,6 @@
  <ip>172.67.202.25</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:3ce4</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:ca19</ipv6>
-</content>
-<content id="3835880" includeTime="2021-12-03T23:15:04" entryType="1" hash="4031D3C30CD94DC199E144C8966DC5B5" blockType="domain" ts="2021-12-03T23:15:04">
- <decision date="2021-07-02" number="2а-2-128/2021" org="Дзержинский районный суд - Калужская область"/>
- <domain><![CDATA[year.rusdocuments.com]]></domain>
- <ip>5.61.48.87</ip>
 </content>
 <content id="3835938" includeTime="2021-12-03T23:15:05" entryType="1" hash="F85B389F448EA0632DD21D6523A75F7D" ts="2024-06-10T13:40:03">
  <decision date="2021-12-02" number="1517993-URL-on" org="Роскомнадзор"/>
@@ -1667,11 +1666,6 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9623</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:51fc</ipv6>
 </content>
-<content id="3836827" includeTime="2021-12-06T14:02:54" entryType="1" hash="8E2AB91D1E5CA1EF7252BA9B4D9FAEA1" blockType="domain" ts="2021-12-06T14:02:54">
- <decision date="2021-11-23" number="2а-5281/2021" org="Кировский районный суд г. Астрахани - Астраханская область"/>
- <domain><![CDATA[sexoastr.mobi]]></domain>
- <ip>82.196.4.13</ip>
-</content>
 <content id="3836828" includeTime="2021-12-02T23:21:27" entryType="1" hash="949CB912CE43E5F63D4CD8B68A7FE4EB" blockType="domain-mask" ts="2021-12-02T23:21:27">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.casinox-050.top]]></domain>
@@ -1733,14 +1727,6 @@
  <domain><![CDATA[levss-fly.xyz]]></domain>
  <ip>167.71.8.191</ip>
  <ipv6>2a03:b0c0:0002:00d0:0000:0000:11c0:7001</ipv6>
-</content>
-<content id="3836902" includeTime="2023-10-19T14:05:03" entryType="1" hash="E3F354A1F1D1680CAF9200807773E2AC" blockType="domain-mask" ts="2023-10-19T14:05:03">
- <decision date="2021-12-02" number="2021-12-01-1415-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[*.vip-farma.net]]></domain>
- <ip>104.21.61.57</ip>
- <ip>172.67.206.183</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:ceb7</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:3d39</ipv6>
 </content>
 <content id="3836954" includeTime="2021-12-02T23:21:28" entryType="1" hash="64C9CA4D302B67A5FA52D3331863B3A5" blockType="domain-mask" ts="2021-12-02T23:21:28">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -5334,14 +5320,6 @@
  <domain><![CDATA[*.vavadaaf.com]]></domain>
  <ip>185.104.211.35</ip>
 </content>
-<content id="3845408" includeTime="2021-12-08T13:28:41" entryType="1" hash="932FB69841A6D89F04AD18F3D7EFC497" blockType="domain" ts="2021-12-08T13:28:41">
- <decision date="2021-12-06" number="2021-12-03-2567-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[lab.pharmlabs.store]]></domain>
- <ip>104.21.76.244</ip>
- <ip>172.67.202.82</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:4cf4</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:ca52</ipv6>
-</content>
 <content id="3845409" includeTime="2021-12-08T13:28:41" entryType="1" hash="78EE05709382AC4649A1203116F26572" blockType="domain" ts="2021-12-08T13:28:41">
  <decision date="2021-10-26" number="2а-3801/2021" org="Октябрьский районный суд г. Омска - Омская область"/>
  <domain><![CDATA[omsk5.prostitutki.sex]]></domain>
@@ -5531,14 +5509,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d1b7</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:2d33</ipv6>
 </content>
-<content id="3845634" includeTime="2021-12-08T13:28:41" entryType="1" hash="2682723429934E4E64ABE9C8A3DE78EE" blockType="domain" ts="2021-12-08T13:28:41">
- <decision date="2021-12-06" number="2021-12-03-2611-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[www5.otkata-net.site]]></domain>
- <ip>104.21.74.246</ip>
- <ip>172.67.207.243</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:4af6</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:cff3</ipv6>
-</content>
 <content id="3845636" includeTime="2021-12-08T13:28:36" entryType="1" hash="7AC778795DB37C109A8BAA9F713526DD" blockType="domain" ts="2021-12-08T13:28:36">
  <decision date="2021-11-23" number="2а-1358/2021" org="Краснокамский межрайонный суд - Республика Башкортостан"/>
  <domain><![CDATA[xx.putany-ufa.club]]></domain>
@@ -5558,20 +5528,24 @@
  <ip>203.23.104.37</ip>
  <ipv6>2a07:0180:05eb:e038:a636:c55d:910b:ec6b</ipv6>
 </content>
-<content id="3845648" includeTime="2021-12-08T13:28:38" entryType="1" hash="517A5904FE7C8E30519E84DC78981301" blockType="domain" ts="2023-11-02T18:20:03">
+<content id="3845648" includeTime="2021-12-08T13:28:38" entryType="1" hash="0AD684F61DB22009F1ADD7578A0E5889" blockType="domain" ts="2024-10-24T11:30:03">
  <decision date="2021-12-06" number="2021-12-06-720-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[f.profarm4.top]]></domain>
  <ip>104.21.25.237</ip>
  <ip>172.67.168.47</ip>
  <ip>188.114.98.224</ip>
+ <ip>188.114.98.233</ip>
  <ip>188.114.98.234</ip>
  <ip>188.114.99.224</ip>
+ <ip>188.114.99.233</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:19ed</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:a82f</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="3845667" includeTime="2021-12-06T22:19:36" entryType="1" hash="AF35408EABB3BCA4B8B1C1F4EADA972E" blockType="domain" ts="2021-12-06T22:19:36">
@@ -6607,11 +6581,11 @@
  <domain><![CDATA[content.kinoprofi.club]]></domain>
  <ip>72.52.178.23</ip>
 </content>
-<content id="3847207" includeTime="2021-12-14T17:47:28" entryType="2" hash="D04D871C9D962B3B910D5A3A9C0A4710" ts="2024-08-29T19:20:03">
+<content id="3847207" includeTime="2021-12-14T17:47:28" entryType="2" hash="B2331F422E8E0A88267DDAAA25643DA1" ts="2024-10-24T16:00:02">
  <decision date="2021-11-19" number="определение о предварительном обеспечении по заявлению № 2И-13616/2021" org="Мосгорсуд"/>
  <url><![CDATA[https://hd4.kinoprofi.club/80417-kupe-nomer-6.html]]></url>
  <domain><![CDATA[hd4.kinoprofi.club]]></domain>
- <ip>199.59.243.226</ip>
+ <ip>72.52.178.23</ip>
 </content>
 <content id="3847212" includeTime="2021-12-14T17:47:28" entryType="2" hash="20628F21A1B62A43D9B52CD1251F0733" ts="2021-12-14T17:47:28">
  <decision date="2021-11-19" number="определение о предварительном обеспечении по заявлению № 2И-13616/2021" org="Мосгорсуд"/>
@@ -8456,18 +8430,6 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:1572</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:b115</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8740</ipv6>
-</content>
-<content id="3853789" includeTime="2021-12-10T13:36:39" entryType="1" hash="2938685452EF2C0026073A4246135784" blockType="domain" ts="2023-10-25T13:35:02">
- <decision date="2021-11-26" number="2а-4717/2021" org="Центральный районный суд г. Омска - Омская область"/>
- <domain><![CDATA[mosspravka.24med.space]]></domain>
- <ip>104.21.36.200</ip>
- <ip>172.67.199.71</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:24c8</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c747</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="3853805" includeTime="2021-12-10T13:36:36" entryType="1" hash="58AB35E4E30AFE8C04B38D2C3572425D" ts="2024-02-20T16:25:03">
  <decision date="2020-12-21" number="2a-676/2020" org="Цивильский районный суд - Чувашская  Республика - Чувашия"/>

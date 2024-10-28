@@ -818,13 +818,17 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:bf8b</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:5c66</ipv6>
 </content>
-<content id="4359517" includeTime="2022-05-11T14:04:40" entryType="1" hash="60BEB19F1449C0A1EC8ED921CDBA56FA" blockType="domain" ts="2022-05-11T14:04:40">
+<content id="4359517" includeTime="2022-05-11T14:04:40" entryType="1" hash="66FC8D5A78F81068D7E2034CAA77B8CE" blockType="domain" ts="2024-10-24T13:00:02">
  <decision date="2022-05-05" number="2022-05-05-1162-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[s3.profarm4.top]]></domain>
  <ip>104.21.25.237</ip>
  <ip>172.67.168.47</ip>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:19ed</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:a82f</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="4359531" includeTime="2022-05-05T22:31:15" entryType="1" hash="E5D1DF63204FCBE011C9395AB28EA8E3" blockType="domain-mask" ts="2022-05-05T22:31:15">
  <decision date="2017-08-30" number="2-6-20/ 2017-08-30-535-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -881,13 +885,17 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:30d3</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8977</ipv6>
 </content>
-<content id="4359623" includeTime="2022-05-11T14:04:43" entryType="1" hash="29AC9A2626F70FFF6A6F27EFB528A4BD" blockType="domain" ts="2022-05-11T14:04:43">
+<content id="4359623" includeTime="2022-05-11T14:04:43" entryType="1" hash="FCDCC0933E75373B5FE6DCDC8212C2E7" blockType="domain" ts="2024-10-24T13:00:02">
  <decision date="2022-05-05" number="2022-05-05-1074-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[b3.profarm4.top]]></domain>
  <ip>104.21.25.237</ip>
  <ip>172.67.168.47</ip>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:19ed</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:a82f</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="4359645" includeTime="2022-05-05T22:31:18" entryType="1" hash="66CC93571DEB1F59FA9ECE0FB84BCE02" blockType="domain-mask" ts="2022-05-05T22:31:18">
  <decision date="2017-08-30" number="2-6-20/ 2017-08-30-535-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -917,14 +925,6 @@
  <domain><![CDATA[kinodrive.2020-film.org]]></domain>
  <ip>104.21.85.77</ip>
  <ip>172.67.203.135</ip>
-</content>
-<content id="4359675" includeTime="2022-05-11T14:04:39" entryType="1" hash="E1F29F88CD1FB3739BACB56FCE5ED69B" blockType="domain" ts="2022-05-11T14:04:39">
- <decision date="2022-05-05" number="2022-05-05-1116-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[mono.pharmlabs.store]]></domain>
- <ip>104.21.76.244</ip>
- <ip>172.67.202.82</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:4cf4</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:ca52</ipv6>
 </content>
 <content id="4359678" includeTime="2022-05-05T22:31:21" entryType="1" hash="CF4269CB0564F4F2AAE24F5873251CC2" blockType="domain" ts="2022-05-05T22:31:21">
  <decision date="2017-08-30" number="2-6-20/ 2017-08-30-535-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1151,14 +1151,6 @@
  <ip>172.67.212.193</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d4c1</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:1087</ipv6>
-</content>
-<content id="4359938" includeTime="2022-05-11T14:04:44" entryType="1" hash="A43CE2F56BD3CC6ABC983C355A564025" blockType="domain" ts="2022-05-11T14:04:44">
- <decision date="2022-05-05" number="2022-05-05-1115-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[monaco.pharmlabs.store]]></domain>
- <ip>104.21.76.244</ip>
- <ip>172.67.202.82</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:4cf4</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:ca52</ipv6>
 </content>
 <content id="4359950" includeTime="2022-05-11T14:04:42" entryType="1" hash="FF479F0EEC60410BCE0330EC66FF74A4" blockType="domain" ts="2024-10-16T09:05:02">
  <decision date="2022-05-05" number="2022-05-05-1161-ПЛ" org="Росздравнадзор"/>
@@ -1442,11 +1434,6 @@
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[kinogo-net.la]]></domain>
  <ip>5.45.79.58</ip>
-</content>
-<content id="4360283" includeTime="2022-05-11T14:04:36" entryType="1" hash="F36A100A58B38427CD23CC51EB1AD6D1" blockType="domain" ts="2022-05-11T14:04:36">
- <decision date="2020-07-31" number="2а-3152/2020" org="Ленинский районный суд г. Кирова - Кировская область"/>
- <domain><![CDATA[www.pornodvor.com]]></domain>
- <ip>145.239.142.106</ip>
 </content>
 <content id="4360284" includeTime="2022-05-11T14:04:42" entryType="1" hash="8A8B46F786A5B38A43E6324E91CFBAD6" ts="2024-05-07T16:45:02">
  <decision date="2022-04-01" number="2а-346/22" org="Партизанский районный суд - Приморский край"/>
@@ -3729,12 +3716,6 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:54dd</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c564</ipv6>
 </content>
-<content id="4364870" includeTime="2022-05-11T14:04:39" entryType="1" hash="A4D6E708BF1F618330A1BAE20EED064A" ts="2022-05-11T14:04:39">
- <decision date="2022-04-29" number="2а-1656/2022" org="Ленинский районный суд г. Костромы"/>
- <url><![CDATA[https://chita.specialistudo.com/products/prava-na-traktor]]></url>
- <domain><![CDATA[chita.specialistudo.com]]></domain>
- <ip>5.61.48.87</ip>
-</content>
 <content id="4364897" includeTime="2022-05-11T09:22:12" entryType="1" hash="235BA2C3AFE879AAA796527F859417C9" ts="2023-09-27T09:35:02">
  <decision date="2022-05-06" number="1670839-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://comics.1hentai.org/3d-artwork/3101-3dvol.11.html]]></url>
@@ -4151,12 +4132,6 @@
  <decision date="2022-04-15" number="2а-1753/22" org="Ленинский районный суд г. Ижевска"/>
  <domain><![CDATA[sex.prostitutki-noviy-urengoy.top]]></domain>
  <ip>62.171.177.193</ip>
-</content>
-<content id="4365457" includeTime="2022-05-11T14:04:39" entryType="1" hash="9F4048DCAC0D97BD290ACAE6A6E2EB38" ts="2022-05-11T14:04:39">
- <decision date="2022-04-29" number="2а-1656/2022" org="Ленинский районный суд г. Костромы"/>
- <url><![CDATA[https://ivanovo.rusdocuments.com/products/prava-na-traktor]]></url>
- <domain><![CDATA[ivanovo.rusdocuments.com]]></domain>
- <ip>5.61.48.87</ip>
 </content>
 <content id="4365464" includeTime="2022-05-11T21:45:50" entryType="1" hash="E24697C73790E2830990CF3117DB7F6E" ts="2022-05-11T21:45:50">
  <decision date="2022-04-14" number="13а-227/2022" org="Старорусский районный суд - Новгородская область"/>
@@ -5847,14 +5822,6 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6815:22eb</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3891</ipv6>
 </content>
-<content id="4372797" includeTime="2022-05-12T21:47:03" entryType="1" hash="B0F4790BD449974CDC61413400FBC941" blockType="domain" ts="2022-05-12T21:47:03">
- <decision date="2022-05-05" number="2а-111/2022" org="Вохомский районный суд Костромской области"/>
- <domain><![CDATA[www.baobingocanh.com]]></domain>
- <ip>104.21.88.123</ip>
- <ip>172.67.179.58</ip>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:587b</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:b33a</ipv6>
-</content>
 <content id="4372810" includeTime="2022-05-12T21:46:53" entryType="1" hash="EAAA08F3BBC7E6192B4A3B1697A68F03" blockType="domain" ts="2022-05-12T21:46:53">
  <decision date="2022-04-26" number="2а-99/2022 ~ 9-90/2022" org="Вохомский районный суд Костромской области"/>
  <domain><![CDATA[www.buterbrod.net]]></domain>
@@ -6333,12 +6300,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:41f6</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="4373684" includeTime="2022-05-13T13:38:03" entryType="1" hash="13503F620615E91CA66B330C490DEA0F" ts="2022-05-13T13:38:03">
- <decision date="2022-04-26" number="2а-1913/2022" org="Куйбышевский районный суд г. Омска - Омская область"/>
- <url><![CDATA[https://aldan.specialistudo.com/products/c]]></url>
- <domain><![CDATA[aldan.specialistudo.com]]></domain>
- <ip>5.61.48.87</ip>
 </content>
 <content id="4373689" includeTime="2022-05-13T13:38:01" entryType="1" hash="2719D1703B76CF1D9AACBA6EDDD9F850" ts="2024-03-20T10:30:03">
  <decision date="2022-05-11" number="1672927-URL-on" org="Роскомнадзор"/>
@@ -9634,25 +9595,17 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:a77b</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5b3c</ipv6>
 </content>
-<content id="4378351" includeTime="2022-05-16T20:37:44" entryType="1" hash="DF18C89776DA0A4FC0ED54061A0E6789" blockType="domain" ts="2023-11-03T14:30:02">
- <decision date="2022-04-29" number="2а-1684/2022" org="Ленинский районный суд г. Костромы"/>
- <domain><![CDATA[lubertsy.snus-mag-moskva.ru]]></domain>
- <ip>104.21.66.21</ip>
- <ip>172.67.155.80</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:4215</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:9b50</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="4378355" includeTime="2022-05-16T14:51:46" entryType="1" hash="60586A21EE1963F70EE5A434D63A5429" blockType="domain" ts="2022-05-16T14:51:46">
+<content id="4378355" includeTime="2022-05-16T14:51:46" entryType="1" hash="7DB29B07041BA36CAE0E5D0AD97BD3B3" blockType="domain" ts="2024-10-24T13:00:02">
  <decision date="2022-05-11" number="2022-05-10-63-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[b4.profarm4.top]]></domain>
  <ip>104.21.25.237</ip>
  <ip>172.67.168.47</ip>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:19ed</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:a82f</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="4378358" includeTime="2022-05-16T20:37:51" entryType="1" hash="E72267A74C40D83C8E9BFFFB75AA95AC" ts="2022-05-16T20:37:51">
  <decision date="2022-04-13" number="2а-1105/22" org="Петродворцовый районный суд - Санкт-Петербург"/>
@@ -10186,14 +10139,6 @@
  <ip>104.21.44.117</ip>
  <ip>172.67.199.144</ip>
 </content>
-<content id="4378927" includeTime="2022-05-16T14:51:49" entryType="1" hash="F49482D201E2D59F435649CE335F97CC" blockType="domain" ts="2022-05-16T14:51:49">
- <decision date="2022-05-11" number="2022-05-07-75-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[ru21.otkata-net.site]]></domain>
- <ip>104.21.74.246</ip>
- <ip>172.67.207.243</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:4af6</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:cff3</ipv6>
-</content>
 <content id="4378941" includeTime="2022-05-16T14:51:47" entryType="1" hash="524F9E2FF07F2A13F108A7EFEAE0BD56" blockType="domain" ts="2023-10-19T12:35:03">
  <decision date="2022-05-11" number="2022-05-11-956-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[habarovsk4.hostmed.ru]]></domain>
@@ -10715,11 +10660,6 @@
  <ip>172.67.137.145</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:469f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8991</ipv6>
-</content>
-<content id="4379887" includeTime="2022-05-16T20:37:45" entryType="1" hash="BAC93DF4C5825CA22C8C3825AE918DA4" blockType="domain" ts="2022-05-16T20:37:45">
- <decision date="2022-04-18" number="2а-2382/2022" org="Петроградский районный суд - Санкт-Петербург"/>
- <domain><![CDATA[fast.praspec.com]]></domain>
- <ip>5.61.48.87</ip>
 </content>
 <content id="4379889" includeTime="2022-05-16T20:37:41" entryType="1" hash="924DD59D6954C8FF3290AEA0F0552687" ts="2022-05-16T20:37:41">
  <decision date="2022-04-05" number="2а-298/2022" org="Муравленковский городской суд - Ямало-Ненецкий автономный округ"/>
@@ -16960,14 +16900,6 @@
  <decision date="2022-05-13" number="2а-к118/2022" org="Лискинский районный суд"/>
  <domain><![CDATA[voronezh.area-diplomix24.com]]></domain>
  <ip>164.90.187.215</ip>
-</content>
-<content id="4395777" includeTime="2022-05-19T13:53:58" entryType="1" hash="CF25EC4E7D0E92873004F04DF4674D05" blockType="domain" ts="2022-05-19T13:53:58">
- <decision date="2022-05-16" number="2022-05-13-263-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[engine.pharmlabs.store]]></domain>
- <ip>104.21.76.244</ip>
- <ip>172.67.202.82</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:4cf4</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:ca52</ipv6>
 </content>
 <content id="4395793" includeTime="2022-05-18T13:27:54" entryType="1" hash="7528C55A611B65F424F1315CCB0C49FE" blockType="domain" ts="2022-05-18T13:27:54">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

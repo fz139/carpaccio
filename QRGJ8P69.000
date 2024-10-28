@@ -334,14 +334,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:c60f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3463</ipv6>
 </content>
-<content id="5682348" includeTime="2023-04-03T21:33:21" entryType="1" hash="98946174E559624444545789622A1532" blockType="domain-mask" ts="2023-04-03T21:33:21">
- <decision date="2017-08-30" number="2-6-20/2017-08-30-1156-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.pokerdomru.top]]></domain>
- <ip>104.21.10.206</ip>
- <ip>172.67.164.128</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:0ace</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:a480</ipv6>
-</content>
 <content id="5682352" includeTime="2023-04-03T21:33:24" entryType="1" hash="C3507150875DE37DCEAE67BD8AC06D61" blockType="domain" ts="2023-04-03T21:33:24">
  <decision date="2017-08-30" number="2-6-20/2017-08-30-1156-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[грант-на-вуз.рф]]></domain>
@@ -947,14 +939,6 @@
  <ip>172.67.184.245</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1327</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:b8f5</ipv6>
-</content>
-<content id="5682657" includeTime="2023-04-03T21:33:21" entryType="1" hash="95B20238D1ABAD47AEC232CA5118B487" blockType="domain-mask" ts="2023-04-03T21:33:21">
- <decision date="2017-08-30" number="2-6-20/2017-08-30-1156-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.pokerdom-bet.site]]></domain>
- <ip>104.21.43.167</ip>
- <ip>172.67.181.191</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:b5bf</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:2ba7</ipv6>
 </content>
 <content id="5682660" includeTime="2023-04-03T21:33:22" entryType="1" hash="378DBC207F37651239E866D4D410B6B0" blockType="domain-mask" ts="2023-04-03T21:33:22">
  <decision date="2017-08-30" number="2-6-20/2017-08-30-1156-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2119,18 +2103,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d41f</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4ddf</ipv6>
 </content>
-<content id="5683184" includeTime="2023-04-05T14:05:17" entryType="1" hash="1A43A2101DF4B768C6C4608EDB177CA5" blockType="domain" ts="2023-10-24T15:25:03">
- <decision date="2023-03-27" number="2а-1941/2023" org="Калининский районный суд г. Челябинска - Челябинская область"/>
- <domain><![CDATA[moscow24.spravka.website]]></domain>
- <ip>104.21.10.111</ip>
- <ip>172.67.190.33</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:0a6f</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:be21</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="5683190" includeTime="2023-04-03T21:33:24" entryType="1" hash="459651EEB0298C17A94191934F872154" blockType="domain-mask" ts="2023-04-03T21:33:24">
  <decision date="2017-08-30" number="2-6-20/2017-08-30-1156-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.wulcanrussiakasino.xyz]]></domain>
@@ -2159,13 +2131,17 @@
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:8cb7</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2ea6</ipv6>
 </content>
-<content id="5683200" includeTime="2023-04-05T14:05:16" entryType="1" hash="9324A10446559EED9C9E8B0CC6EACEC7" blockType="domain" ts="2023-04-05T14:05:16">
+<content id="5683200" includeTime="2023-04-05T14:05:16" entryType="1" hash="9520CB90D413F14C4BCA5B88C3D4F5B9" blockType="domain" ts="2024-10-24T12:55:02">
  <decision date="2023-03-31" number="2023-03-30-2771-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[d7.profarm4.top]]></domain>
  <ip>104.21.25.237</ip>
  <ip>172.67.168.47</ip>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:19ed</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:a82f</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="5683201" includeTime="2023-04-03T21:33:21" entryType="1" hash="313930BAF794EC9D896903A94EE06069" blockType="domain-mask" ts="2023-04-03T21:33:21">
  <decision date="2017-08-30" number="2-6-20/2017-08-30-1156-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -8754,12 +8730,6 @@
  <url><![CDATA[https://mar29.lordfilmec.online/14431-dzhentlmeny-2020.html]]></url>
  <domain><![CDATA[mar29.lordfilmec.online]]></domain>
  <ip>103.224.212.210</ip>
-</content>
-<content id="5691909" includeTime="2023-04-12T16:42:36" entryType="2" hash="22D2949BD496CAD478AFA36DE24B1483" ts="2023-04-12T16:42:36">
- <decision date="2022-11-30" number="определение о предварительном обеспечении по заявлению № 2И-13260/2022" org="Мосгорсуд"/>
- <url><![CDATA[https://new9.lordfilm-s.club/multfilmy/13264-izumitelnyj-moris.html]]></url>
- <domain><![CDATA[new9.lordfilm-s.club]]></domain>
- <ip>45.140.146.78</ip>
 </content>
 <content id="5691946" includeTime="2023-04-05T16:17:28" entryType="5" hash="9BD158EBDCF765A36EFC827703FFFEDA" blockType="domain" ts="2023-12-14T16:45:04">
  <decision date="2023-04-04" number="1з-61919/2023" org="Минцифры"/>

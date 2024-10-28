@@ -2722,10 +2722,13 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3f84</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:91c5</ipv6>
 </content>
-<content id="7298866" includeTime="2024-08-09T14:10:02" entryType="1" hash="2FD24A72BE94D5F1756C68A233DE8CAE" blockType="domain" ts="2024-08-09T14:10:02">
+<content id="7298866" includeTime="2024-08-09T14:10:02" entryType="1" hash="A710A369B949821157DF8B0ACB6D390A" blockType="domain" ts="2024-10-24T12:25:02">
  <decision date="2024-08-07" number="2683813-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[my.poreo.tv]]></domain>
- <ip>185.162.11.208</ip>
+ <ip>104.21.24.97</ip>
+ <ip>172.67.218.40</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:da28</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:1861</ipv6>
 </content>
 <content id="7298867" includeTime="2024-08-08T09:25:03" entryType="1" hash="68ED81B5113E3C175560BBFA24CCBBA1" blockType="domain-mask" ts="2024-08-08T09:25:03">
  <decision date="2024-07-30" number="2-6-14/2024-07-30-786-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -5719,15 +5722,6 @@
  <decision date="2024-08-07" number="2-6-14/2024-08-02-10784-АИ" org="ФНС"/>
  <domain><![CDATA[*.1x-slots-kasino-site.ru]]></domain>
  <ip>81.91.178.41</ip>
-</content>
-<content id="7299655" includeTime="2024-08-09T00:50:02" entryType="1" hash="D0BC3AA98C8E1E8E742FF245316E4925" ts="2024-08-09T00:50:02">
- <decision date="2021-12-06" number="2а-3658/2021" org="Анапский городской суд - Краснодарский край"/>
- <url><![CDATA[https://sex0.sexonr.club]]></url>
- <domain><![CDATA[sex0.sexonr.club]]></domain>
- <ip>104.21.15.90</ip>
- <ip>172.67.205.169</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:cda9</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:0f5a</ipv6>
 </content>
 <content id="7299656" includeTime="2024-08-09T00:50:02" entryType="1" hash="6881A2BF75E6EA83CEF79C0DBF14681D" blockType="domain-mask" ts="2024-08-09T00:50:02">
  <decision date="2024-08-07" number="2-6-14/2024-08-05-3420-АИ" org="ФНС"/>

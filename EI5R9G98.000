@@ -867,13 +867,17 @@
  <domain><![CDATA[gammalon.com]]></domain>
  <ip>74.125.29.132</ip>
 </content>
-<content id="4400189" includeTime="2022-05-19T22:23:47" entryType="1" hash="05B4482E38E3CD4872FA98C8760DFBA6" blockType="domain" ts="2022-05-19T22:23:47">
+<content id="4400189" includeTime="2022-05-19T22:23:47" entryType="1" hash="382DDB2E0190F99705936350E412D154" blockType="domain" ts="2024-10-24T13:00:02">
  <decision date="2022-05-17" number="2022-05-17-491-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[b5.profarm4.top]]></domain>
  <ip>104.21.25.237</ip>
  <ip>172.67.168.47</ip>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:19ed</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:a82f</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="4400203" includeTime="2022-05-18T22:18:42" entryType="1" hash="6AD13A0161DD958617E0544EA43B463F" blockType="domain-mask" ts="2022-05-18T22:18:42">
  <decision date="2017-06-05" number="2-6-20/2017-06-05-161-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2112,12 +2116,6 @@
  <ip>172.67.201.136</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4240</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c988</ipv6>
-</content>
-<content id="4401862" includeTime="2022-05-20T13:21:57" entryType="1" hash="E77DF18FFF528C58FA8972F9ACCB96BD" ts="2022-05-20T13:21:57">
- <decision date="2022-03-30" number="2а-4006/2022" org="Курганский городской суд - Курганская область"/>
- <url><![CDATA[https://udo.praspec.com/categories/workers]]></url>
- <domain><![CDATA[udo.praspec.com]]></domain>
- <ip>5.61.48.87</ip>
 </content>
 <content id="4401887" includeTime="2022-05-20T13:21:56" entryType="1" hash="ECE4AD673B453313917A2C06D717EDC9" blockType="domain" ts="2022-05-20T13:21:56">
  <decision date="2022-03-09" number="2а-1473/2022" org="Калининский районный суд г. Челябинска - Челябинская область"/>

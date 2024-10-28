@@ -1812,19 +1812,6 @@
  <ip>162.19.253.10</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:48de</ipv6>
 </content>
-<content id="7103915" includeTime="2024-06-08T09:05:03" entryType="1" hash="EEEE047AEE6B145826394F1BF7E29306" ts="2024-06-08T09:05:03">
- <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
- <url><![CDATA[https://ru.node-tricks.com/vpn-blocked-administrator]]></url>
- <domain><![CDATA[ru.node-tricks.com]]></domain>
- <ip>104.21.62.244</ip>
- <ip>172.67.140.250</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:3ef4</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:8cfa</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="7103916" includeTime="2024-06-06T07:55:03" entryType="1" hash="E398D7C6C236C104E99873B2613E9B32" blockType="domain-mask" ts="2024-06-06T07:55:03">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vavada-qjv8.top]]></domain>
@@ -11656,11 +11643,6 @@
  <ip>172.67.200.161</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c8a1</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:0d9a</ipv6>
-</content>
-<content id="7107556" includeTime="2024-06-11T07:35:02" entryType="1" hash="33C4537A070ECC1BF17C7E47DEED81BE" blockType="domain" ts="2024-06-11T07:35:02">
- <decision date="2024-06-06" number="2024-06-05-6408-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[int1.lec05.ru]]></domain>
- <ip>157.90.34.144</ip>
 </content>
 <content id="7107557" includeTime="2024-06-07T14:15:02" entryType="1" hash="B12C0CDA503F1E0AFA52DFB3DA2064BD" blockType="domain-mask" ts="2024-06-07T14:15:02">
  <decision date="2024-05-29" number="2-6-14/2024-05-29-4208-АИ" org="ФНС"/>

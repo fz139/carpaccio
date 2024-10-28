@@ -3136,15 +3136,6 @@
  <ip>104.28.17.65</ip>
  <ip>172.67.132.17</ip>
 </content>
-<content id="422609" includeTime="2017-01-17T19:42:27" entryType="1" hash="1C361E0D1DE54B495E16CEEE97D6A298" ts="2017-01-17T19:42:27">
- <decision date="2017-01-12" number="187371-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[http://hgamecg.com/index/category/1602-_softhouse_seal_grandee_zettai_saikyou_oppai_sensou_kyonyuu_oukoku_vs_hinnyuu_oukoku/start-240]]></url>
- <domain><![CDATA[hgamecg.com]]></domain>
- <ip>104.21.66.71</ip>
- <ip>172.67.168.16</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:a810</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:4247</ipv6>
-</content>
 <content id="422611" includeTime="2017-01-17T19:42:27" entryType="1" hash="E8CBB32F1221F55567C1FE29FB638361" ts="2017-01-17T19:42:27">
  <decision date="2017-01-12" number="187373-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[http://www.solfa.jp/sg05/]]></url>
@@ -9965,11 +9956,6 @@
  <domain><![CDATA[azino777.red]]></domain>
  <ip>45.148.36.76</ip>
 </content>
-<content id="448202" includeTime="2017-02-14T21:56:11" entryType="1" hash="65D29E284A8B122FE7230762C59B7E69" blockType="domain" ts="2017-02-14T21:56:11">
- <decision date="2017-02-09" number="197853-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[faptwinks.com]]></domain>
- <ip>5.45.93.200</ip>
-</content>
 <content id="448203" includeTime="2017-02-14T21:56:16" entryType="1" hash="B43552F588C128974620018D56BF9DEE" blockType="domain" ts="2017-02-14T21:56:16">
  <decision date="2017-02-09" number="197854-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[shytwinks.com]]></domain>
@@ -16510,15 +16496,19 @@
  <domain><![CDATA[batsa.me]]></domain>
  <ip>93.88.75.34</ip>
 </content>
-<content id="473829" includeTime="2023-10-13T13:20:04" entryType="1" hash="3F9BE9D212B489B74CFCC4364318D995" blockType="domain-mask" ts="2023-12-20T14:10:02">
+<content id="473829" includeTime="2023-10-13T13:20:04" entryType="1" hash="451D47F51B6D725E9E82A4AACB71D2F3" blockType="domain-mask" ts="2024-10-24T15:50:03">
  <decision date="2015-10-28" number="2-6593/2015" org="Центральный районный суд г. Новосибирска - Новосибирская область"/>
  <domain><![CDATA[*.prostitutki.ltd]]></domain>
  <ip>104.21.1.21</ip>
+ <ip>104.21.4.75</ip>
+ <ip>172.67.131.197</ip>
  <ip>172.67.151.221</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0115</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:97dd</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:044b</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:83c5</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -18769,12 +18759,10 @@
  <ip>104.18.62.88</ip>
  <ip>104.18.63.88</ip>
 </content>
-<content id="485709" includeTime="2017-12-08T17:58:38" entryType="1" hash="A1B84F17A2DB13F96353CBE6C04E18CC" blockType="domain" ts="2017-12-08T17:58:38">
+<content id="485709" includeTime="2017-12-08T17:58:38" entryType="1" hash="37DAA61F740EBD5248032D146BD02274" blockType="domain" ts="2024-10-21T09:00:03">
  <decision date="2017-02-14" number="2-268/2017" org="Можгинский районный суд - Удмуртская Республика"/>
  <domain><![CDATA[xseeds.net]]></domain>
- <ip>104.27.190.241</ip>
- <ip>104.27.191.241</ip>
- <ip>160.153.128.5</ip>
+ <ip>92.205.175.142</ip>
 </content>
 <content id="485711" includeTime="2017-12-15T18:53:38" entryType="1" hash="C8B0CD8F84A04F39EF0366717742BBA1" blockType="domain" ts="2023-12-21T10:45:03">
  <decision date="2017-02-14" number="2-279/2017" org="Можгинский районный суд - Удмуртская Республика"/>

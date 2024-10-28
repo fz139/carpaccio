@@ -467,9 +467,9 @@
  <ip>104.21.53.82</ip>
  <ip>172.67.210.180</ip>
 </content>
-<content id="7185563" includeTime="2024-07-05T16:30:02" entryType="1" hash="0E7479C194168DA62820D52662FA3FDC" blockType="domain" ts="2024-07-05T16:30:02">
+<content id="7185563" includeTime="2024-07-05T16:30:02" entryType="1" hash="AAD5C9549E096E4D70A99B141647432E" blockType="domain-mask" ts="2024-10-21T13:05:02">
  <decision date="2024-05-03" number="2024-03-18-1701-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[hidemyname.ru]]></domain>
+ <domain><![CDATA[*.hidemyname.ru]]></domain>
  <ip>104.21.30.220</ip>
  <ip>172.67.173.223</ip>
 </content>
@@ -1275,10 +1275,13 @@
  <ip>162.19.253.10</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:48de</ipv6>
 </content>
-<content id="7185861" includeTime="2024-07-05T09:55:02" entryType="1" hash="A73AB178CC7A9DA09E55D14F6B1BC9C3" blockType="domain" ts="2024-07-05T09:55:02">
+<content id="7185861" includeTime="2024-07-05T09:55:02" entryType="1" hash="DE0F2CB009297BE8568145F503D763A0" blockType="domain" ts="2024-10-25T09:40:04">
  <decision date="2024-07-03" number="2621711-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[16.xporno.online]]></domain>
- <ip>146.59.8.151</ip>
+ <ip>104.21.38.165</ip>
+ <ip>172.67.136.119</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:26a5</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:8877</ipv6>
 </content>
 <content id="7185863" includeTime="2024-07-03T22:25:02" entryType="1" hash="ABDAA2B1AC27D2FBA6FDBA23866F47B2" blockType="domain-mask" ts="2024-07-03T22:25:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -3314,13 +3317,17 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:bffa</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0b71</ipv6>
 </content>
-<content id="7186554" includeTime="2024-07-05T09:55:02" entryType="1" hash="B13E9DB2BA0276E521DD185FF50DC466" blockType="domain" ts="2024-07-05T09:55:02">
+<content id="7186554" includeTime="2024-07-05T09:55:02" entryType="1" hash="2AECCAF7862DC474976358608CD14F56" blockType="domain" ts="2024-10-24T11:00:02">
  <decision date="2024-07-03" number="2621763-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[wvvw.gayporno24.pro]]></domain>
  <ip>104.21.39.152</ip>
  <ip>172.67.146.108</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:2798</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:926c</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7186556" includeTime="2024-07-03T22:25:02" entryType="1" hash="BC432735C9E84741CCC9804F9862A59B" blockType="domain-mask" ts="2024-07-03T22:25:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -13959,14 +13966,18 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:485b</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:b375</ipv6>
 </content>
-<content id="7191848" includeTime="2024-07-08T14:35:03" entryType="1" hash="5299A66DE3E86BD219EC929FC6FE4787" ts="2024-07-08T14:35:03">
+<content id="7191848" includeTime="2024-07-08T14:35:03" entryType="1" hash="F511F87142CBA67806FD5520A51C9161" ts="2024-10-23T10:35:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://www.engineeringresurs.ru/sites/default/files/4293785057.pdf]]></url>
  <domain><![CDATA[www.engineeringresurs.ru]]></domain>
  <ip>104.21.67.111</ip>
  <ip>172.67.221.157</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:dd9d</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:436f</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7191851" includeTime="2024-07-04T23:25:02" entryType="1" hash="49A08358753F806F4DE58FFEF6242A7E" blockType="domain-mask" ts="2024-07-04T23:25:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -17416,14 +17427,6 @@
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.2743joycasino.top]]></domain>
  <ip>185.196.9.56</ip>
-</content>
-<content id="7193012" includeTime="2024-07-05T16:30:02" entryType="1" hash="7BE22D304CD620BA7568EF57B6CF1FC9" blockType="domain" ts="2024-07-05T16:30:02">
- <decision date="2024-07-04" number="2625683-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[m4.pitertyt.xyz]]></domain>
- <ip>104.21.48.29</ip>
- <ip>172.67.176.37</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:301d</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:b025</ipv6>
 </content>
 <content id="7193013" includeTime="2024-07-04T23:25:02" entryType="1" hash="D4427D41635C10C342A7E8D97A51B849" blockType="domain-mask" ts="2024-07-04T23:25:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -20919,20 +20922,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:cb0b</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:553e</ipv6>
 </content>
-<content id="7195227" includeTime="2024-07-05T16:15:03" entryType="2" hash="168414DA5B4B867FE0A006526CBA8D56" ts="2024-07-05T16:15:03">
- <decision date="2024-06-24" number="определение о предварительном обеспечении по заявлению № 2И-13392/2024" org="Мосгорсуд"/>
- <url><![CDATA[https://animelord.boo/1355-vozvraschenie-kota-2002-f6.html]]></url>
- <url><![CDATA[https://animelord.boo/1400-rybka-pono-na-utese-2008-k9.html]]></url>
- <url><![CDATA[https://animelord.boo/1404-arijetti-iz-strany-liliputov-2010-a3.html]]></url>
- <url><![CDATA[https://animelord.boo/1404-arijetti-iz-strany-liliputov-2010-a4.html]]></url>
- <url><![CDATA[https://animelord.boo/617-esche-vchera-1991-y8.html]]></url>
- <url><![CDATA[https://animelord.boo/762-shepot-serdca-1995-u7.html]]></url>
- <domain><![CDATA[animelord.boo]]></domain>
- <ip>104.21.27.43</ip>
- <ip>172.67.168.229</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:1b2b</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:a8e5</ipv6>
-</content>
 <content id="7195229" includeTime="2024-07-05T16:15:03" entryType="2" hash="3A95950D1865804FD2C08FC0C0DA328A" ts="2024-07-05T16:15:03">
  <decision date="2024-06-24" number="определение о предварительном обеспечении по заявлению № 2И-13392/2024" org="Мосгорсуд"/>
  <url><![CDATA[https://dorami.tv/anime/5668-rybka-pono-na-utese.html]]></url>
@@ -23309,14 +23298,6 @@
  <ip>172.67.163.29</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0fa1</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a31d</ipv6>
-</content>
-<content id="7196152" includeTime="2024-07-09T07:25:02" entryType="1" hash="AB505D6DC39D839938D02C6DE8B5E300" blockType="domain" ts="2024-07-09T07:25:02">
- <decision date="2024-06-18" number="2а-6977/2024" org="Курганский городской суд - Курганская область"/>
- <domain><![CDATA[tabacnow.online]]></domain>
- <ip>104.21.25.182</ip>
- <ip>172.67.134.116</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:19b6</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:8674</ipv6>
 </content>
 <content id="7196156" includeTime="2024-07-09T07:25:02" entryType="1" hash="4ACC2A7E9E9855FC453F5F010F037E28" blockType="domain" ts="2024-07-09T07:25:02">
  <decision date="2024-06-13" number="2а-2468/2024" org="Колпинский районный суд - Санкт-Петербург"/>

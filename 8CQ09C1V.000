@@ -594,6 +594,12 @@
  <ip>145.239.67.120</ip>
  <ip>171.22.120.2</ip>
 </content>
+<content id="5861186" includeTime="2024-10-27T18:45:02" urgencyType="1" entryType="3" hash="D0D8C8F3948A8A31BB5E5FBC2F504823" ts="2024-10-27T18:45:02">
+ <decision date="2023-02-20" number="" org=""/>
+ <url><![CDATA[http://uc.kr.ua/2023/02/07/vstupajte-do-gvardiyi-nastupu]]></url>
+ <domain><![CDATA[uc.kr.ua]]></domain>
+ <ip>185.65.246.52</ip>
+</content>
 <content id="5861190" includeTime="2023-05-04T10:32:15" urgencyType="1" entryType="3" hash="865E63000F1F31491B50031CD5020133" blockType="domain" ts="2023-05-04T10:32:15">
  <decision date="2022-02-24" number="" org=""/>
  <domain><![CDATA[hdrezkauthqpb.org]]></domain>
@@ -961,10 +967,10 @@
  <ip>104.21.74.174</ip>
  <ip>172.67.160.87</ip>
 </content>
-<content id="5861431" includeTime="2023-05-05T13:38:15" entryType="1" hash="104406D035177644ED279B2151B61EA0" blockType="domain" ts="2023-05-05T13:38:15">
+<content id="5861431" includeTime="2023-05-05T13:38:15" entryType="1" hash="9310984CAF0377E67E69AE71B7173FC0" blockType="domain" ts="2024-10-22T09:25:02">
  <decision date="2023-05-03" number="2023-05-02-3926-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[ru35.homosteron.vip]]></domain>
- <ip>190.115.18.131</ip>
+ <ip>45.10.243.81</ip>
 </content>
 <content id="5861435" includeTime="2023-05-03T22:26:04" entryType="1" hash="1AD38AF2992314D6B948F95215F61D67" blockType="domain-mask" ts="2023-05-03T22:26:04">
  <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1193,13 +1199,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5861564" includeTime="2023-05-05T13:38:15" entryType="1" hash="9C0DE8F461A796CDE492FA2E1C823B98" blockType="domain" ts="2023-05-05T13:38:15">
+<content id="5861564" includeTime="2023-05-05T13:38:15" entryType="1" hash="AA92F98123C2CE464BFA149074CB5032" blockType="domain" ts="2024-10-22T09:35:02">
  <decision date="2023-05-03" number="2023-05-02-3918-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[ru34.homosteron.vip]]></domain>
- <ip>104.21.45.205</ip>
- <ip>172.67.218.190</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:dabe</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:2dcd</ipv6>
+ <ip>45.10.243.81</ip>
 </content>
 <content id="5861575" includeTime="2023-05-03T22:26:01" entryType="1" hash="E0AEABDEE8263877DF6F9305100FD195" blockType="domain-mask" ts="2023-05-03T22:26:01">
  <decision date="2017-06-30" number="2-6-20/2017-06-30-831-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -3941,18 +3944,6 @@
  <ip>172.67.151.8</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:9708</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:5a15</ipv6>
-</content>
-<content id="5866910" includeTime="2023-05-05T21:53:59" entryType="1" hash="95F8A4BDF005953007FC28B618699D11" blockType="domain" ts="2023-10-26T16:35:04">
- <decision date="2023-04-28" number="2а-257/2023 ~ М-231/2023" org="Троицкий районный суд - Челябинская область"/>
- <domain><![CDATA[p.prostitutki.ltd]]></domain>
- <ip>104.21.1.21</ip>
- <ip>172.67.151.221</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:0115</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:97dd</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="5866912" includeTime="2023-05-10T15:43:28" entryType="1" hash="F7AF81B11A6974F8D613811BC6A3A7C0" ts="2023-05-10T15:43:28">
  <decision date="2023-04-27" number="2а-965/2023" org="Биробиджанский районный суд Еврейской автономной области - Еврейская автономная область"/>

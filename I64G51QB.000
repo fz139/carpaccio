@@ -440,14 +440,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6696631" includeTime="2024-02-02T09:50:03" entryType="1" hash="426A22515E7BDB2BA5F2A22D24D8BE12" blockType="domain" ts="2024-02-02T09:50:03">
- <decision date="2024-01-31" number="2024-01-31-2147-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[sofosbuvir-barnaul24.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6696634" includeTime="2024-02-01T13:40:04" entryType="1" hash="59EB659F54BEDE2AF61D95B33B1E421F" blockType="domain-mask" ts="2024-02-01T13:40:04">
  <decision date="2024-01-31" number="2385733-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.kinotik.vip]]></domain>
@@ -1596,13 +1588,17 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:bd55</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:495a</ipv6>
 </content>
-<content id="6696926" includeTime="2024-02-02T22:50:03" entryType="1" hash="E5988E49C2B8764D0B14FB5D4D426546" ts="2024-02-02T22:50:03">
+<content id="6696926" includeTime="2024-02-02T22:50:03" entryType="1" hash="ECAB15AA5C832BACCE20497580C453C7" ts="2024-10-24T11:30:03">
  <decision date="2024-01-30" number="2024-01-29-2160-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://j1.profarm4.top/category/injektsionnye_preparaty/]]></url>
  <domain><![CDATA[j1.profarm4.top]]></domain>
+ <ip>188.114.98.233</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.233</ip>
  <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
 <content id="6696927" includeTime="2024-01-31T21:40:04" entryType="1" hash="47C3DD024BCCE9F60991B72F554FD54B" blockType="domain-mask" ts="2024-01-31T21:40:04">
@@ -2699,14 +2695,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6697253" includeTime="2024-02-02T22:50:03" entryType="1" hash="1A98F904F07D67F8992F08BBBAADAEF0" blockType="domain-mask" ts="2024-02-12T22:55:01">
- <decision date="2024-01-31" number="2024-01-30-1353-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[*.wggepatitof.ru]]></domain>
- <ip>104.21.60.81</ip>
- <ip>172.67.194.60</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:c23c</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:3c51</ipv6>
-</content>
 <content id="6697255" includeTime="2024-01-31T21:40:04" entryType="1" hash="119738503FCE076576ACF48E90AD6F87" blockType="domain-mask" ts="2024-01-31T21:40:04">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.fox-jet.ru]]></domain>
@@ -2753,15 +2741,6 @@
 <content id="6697278" includeTime="2024-02-01T13:40:04" entryType="1" hash="AC1C23E28059F4349DF22420B974FC65" blockType="domain-mask" ts="2024-04-18T21:50:03">
  <decision date="2024-01-31" number="2385737-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.transymoskva.site]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6697280" includeTime="2024-02-02T09:50:03" entryType="1" hash="747F72D01FBE9DF83063D1B197FE6023" ts="2024-02-02T09:50:03">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://hydraclub2d73vqs7kkyy18x7b3u7z4x2tetvey837p32g.hydr.store/login]]></url>
- <domain><![CDATA[hydraclub2d73vqs7kkyy18x7b3u7z4x2tetvey837p32g.hydr.store]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -4463,14 +4442,6 @@
 <content id="6697745" includeTime="2024-02-02T22:50:03" entryType="1" hash="C47D4155C0A36A7E2703953F5B2E656B" blockType="domain" ts="2024-02-02T22:50:03">
  <decision date="2024-01-31" number="2024-01-31-1966-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[b.centr-lechenee.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6697746" includeTime="2024-02-02T09:50:03" entryType="1" hash="921184D66C4615B8F03C2CD15D1109AB" blockType="domain" ts="2024-02-02T09:50:03">
- <decision date="2024-01-31" number="2024-01-31-1960-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[sofosbuvir-v-khabarovske.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
