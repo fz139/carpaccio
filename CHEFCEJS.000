@@ -1204,14 +1204,18 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d3d2</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:3b1d</ipv6>
 </content>
-<content id="7303775" includeTime="2024-08-12T14:15:02" entryType="1" hash="192D0BB2A2696E1FAF86013EB5E31504" ts="2024-08-12T14:15:02">
+<content id="7303775" includeTime="2024-08-12T14:15:02" entryType="1" hash="65417EDFA51C947EA870ED57213DE301" ts="2024-11-02T13:15:02">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://villatykva.ru/geroin-na-zakladkah.html]]></url>
  <domain><![CDATA[villatykva.ru]]></domain>
  <ip>104.21.28.221</ip>
  <ip>172.67.147.185</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:93b9</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1cdd</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7303777" includeTime="2024-08-09T00:50:02" entryType="1" hash="B5D2486AFA43444D6E7E66414EFAE6E9" blockType="domain-mask" ts="2024-08-09T00:50:02">
  <decision date="2024-07-30" number="2-6-14/2024-07-30-786-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1387,13 +1391,6 @@
  <ip>172.67.217.111</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:d96f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:4e40</ipv6>
-</content>
-<content id="7303816" includeTime="2024-08-13T13:45:02" entryType="1" hash="E1284E44A0CCB0522BAE57E38B73A192" ts="2024-08-13T13:45:02">
- <decision date="2024-08-08" number="2686030-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://archive.ph/E351R/ed03e6e095a1e6b6590b91993c56d4e7a1a8ecbd.jpg]]></url>
- <domain><![CDATA[archive.ph]]></domain>
- <ip>160.19.78.209</ip>
- <ipv6>2001:067c:2044:c141:0000:0001:5628:0001</ipv6>
 </content>
 <content id="7303817" includeTime="2024-08-09T00:50:02" entryType="1" hash="5AAC5416C7C9C57FBD4601F7B76EE79C" blockType="domain-mask" ts="2024-08-09T00:50:02">
  <decision date="2024-07-30" number="2-6-14/2024-07-30-786-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -7587,13 +7584,17 @@
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c444</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:4a20</ipv6>
 </content>
-<content id="7305129" includeTime="2024-08-10T00:10:02" entryType="1" hash="CB1543C12C82E27F49FBE573F9272A89" blockType="domain" ts="2024-08-10T00:10:02">
+<content id="7305129" includeTime="2024-08-10T00:10:02" entryType="1" hash="92647CC20FF79D4732CA8A26B54B0E04" blockType="domain" ts="2024-11-06T11:10:03">
  <decision date="2024-03-22" number="2а-158/2024" org="Гагаринский районный суд - Москва"/>
  <domain><![CDATA[sex5.moskva-intim.city]]></domain>
  <ip>104.21.92.203</ip>
  <ip>172.67.197.179</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:c5b3</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:5ccb</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7305130" includeTime="2024-08-10T00:10:02" entryType="1" hash="8D9F570872DBA8C83071052CCE586F54" blockType="domain-mask" ts="2024-08-10T00:10:02">
  <decision date="2024-08-07" number="2-6-14/2024-08-05-3901-АИ" org="ФНС"/>
@@ -9231,14 +9232,11 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:31b5</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a586</ipv6>
 </content>
-<content id="7306901" includeTime="2024-08-09T16:20:03" entryType="2" hash="9700584F235DC95A719C0D0F9B922219" ts="2024-08-09T16:20:03">
+<content id="7306901" includeTime="2024-08-09T16:20:03" entryType="2" hash="54A4CAD5B255972450555615AB401BE3" ts="2024-10-29T16:10:03">
  <decision date="2024-06-21" number="определение о предварительном обеспечении по заявлению № 2И-13388/2024" org="Мосгорсуд"/>
  <url><![CDATA[https://mail.vibeserial.net/1868-vedmina-sluzhba-dostavki-1989.html]]></url>
  <domain><![CDATA[mail.vibeserial.net]]></domain>
- <ip>104.21.87.22</ip>
- <ip>172.67.139.191</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:5716</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:8bbf</ipv6>
+ <ip>199.59.243.227</ip>
 </content>
 <content id="7306902" includeTime="2024-08-09T16:20:03" entryType="2" hash="F8A794BC479F0A18F41CEE3500ED799B" ts="2024-08-12T20:25:01">
  <decision date="2024-06-20" number="определение о предварительном обеспечении по заявлению № 2И-13299/2024" org="Мосгорсуд"/>
@@ -9283,15 +9281,6 @@
  <ip>172.67.222.76</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:112f</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:de4c</ipv6>
-</content>
-<content id="7306913" includeTime="2024-08-09T16:20:03" entryType="2" hash="0938D0D6538FA978380B05A68BE87593" ts="2024-08-09T16:20:03">
- <decision date="2024-06-24" number="определение о предварительном обеспечении по заявлению № 2И-13505/2024" org="Мосгорсуд"/>
- <url><![CDATA[https://kinopay.biz/movie-id5459995-mir-v-moei-golove]]></url>
- <domain><![CDATA[kinopay.biz]]></domain>
- <ip>104.21.41.187</ip>
- <ip>172.67.166.155</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:29bb</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:a69b</ipv6>
 </content>
 <content id="7306914" includeTime="2024-08-09T16:20:03" entryType="2" hash="B5716D648AA4A7E7B456E0C359A55F46" ts="2024-09-18T15:25:02">
  <decision date="2024-06-24" number="определение о предварительном обеспечении по заявлению № 2И-13392/2024" org="Мосгорсуд"/>
@@ -9878,14 +9867,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7306989" includeTime="2024-08-09T16:20:03" entryType="2" hash="E95E31F271B643DC2383F9490BB45C68" ts="2024-08-09T16:20:03">
+<content id="7306989" includeTime="2024-08-09T16:20:03" entryType="2" hash="FB5E76BD7DC161EE8DA9D7CB45716922" ts="2024-10-29T16:10:03">
  <decision date="2023-06-15" number="определение о предварительном обеспечении по заявлению № 2И-7146/2023" org="Мосгорсуд"/>
  <url><![CDATA[https://mail.vibeserial.net/4413-svobodnye-otnoshenija-2021.html]]></url>
  <domain><![CDATA[mail.vibeserial.net]]></domain>
- <ip>104.21.87.22</ip>
- <ip>172.67.139.191</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:5716</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:8bbf</ipv6>
+ <ip>199.59.243.227</ip>
 </content>
 <content id="7306990" includeTime="2024-08-09T16:20:03" entryType="2" hash="AC719E9CC103B70F6D40A100299A5E68" ts="2024-08-09T16:20:03">
  <decision date="2023-06-15" number="определение о предварительном обеспечении по заявлению № 2И-7146/2023" org="Мосгорсуд"/>
@@ -10330,14 +10316,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7307044" includeTime="2024-08-09T16:20:03" entryType="2" hash="446CF90B70E7F6FDCD00C429D9CB0BE9" ts="2024-08-09T16:20:03">
+<content id="7307044" includeTime="2024-08-09T16:20:03" entryType="2" hash="01AEF09D9142BC213FFD26F92ACFB9EA" ts="2024-10-29T16:10:03">
  <decision date="2022-05-12" number="определение о предварительном обеспечении по заявлению № 2И-5963/2022" org="Мосгорсуд"/>
  <url><![CDATA[https://mail.vibeserial.net/3776-offlajn-2022.html]]></url>
  <domain><![CDATA[mail.vibeserial.net]]></domain>
- <ip>104.21.87.22</ip>
- <ip>172.67.139.191</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:5716</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:8bbf</ipv6>
+ <ip>199.59.243.227</ip>
 </content>
 <content id="7307045" includeTime="2024-08-09T16:20:03" entryType="2" hash="471C6509831D83864DC3ADF467C88C01" ts="2024-08-09T16:20:03">
  <decision date="2021-06-15" number="определение о предварительном обеспечении по заявлению № 2И-5502/2021" org="Мосгорсуд"/>
@@ -10377,14 +10360,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7307051" includeTime="2024-08-09T16:20:03" entryType="2" hash="9F5A0D2531DCA0D91B338688F4164354" ts="2024-08-09T16:20:03">
+<content id="7307051" includeTime="2024-08-09T16:20:03" entryType="2" hash="FE69A2EA744541144645288F7AE3D7EA" ts="2024-11-02T15:45:02">
  <decision date="2021-08-20" number="определение о предварительном обеспечении по заявлению № 2И-8075/2021" org="Мосгорсуд"/>
  <url><![CDATA[https://tv52.lordseriy.fun/2796-dzhetlag.html]]></url>
  <domain><![CDATA[tv52.lordseriy.fun]]></domain>
- <ip>104.21.4.132</ip>
- <ip>172.67.132.28</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:0484</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:841c</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7307052" includeTime="2024-08-09T16:20:03" entryType="2" hash="8860FC769E6CF18F97031C3AA5759BEC" ts="2024-08-09T16:20:03">
  <decision date="2021-08-20" number="определение о предварительном обеспечении по заявлению № 2И-8075/2021" org="Мосгорсуд"/>

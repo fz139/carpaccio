@@ -375,11 +375,6 @@
  <ipv6>2606:4700:3038:0000:0000:0000:681f:04b9</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:681f:05b9</ipv6>
 </content>
-<content id="269843" includeTime="2016-02-19T19:55:17" entryType="1" hash="87836E1F2AECB8CEBC69B64380621E16" blockType="domain" ts="2023-07-13T16:12:57">
- <decision date="2016-02-15" number="102860-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[www.exteenporn.com]]></domain>
- <ip>109.206.161.73</ip>
-</content>
 <content id="269923" includeTime="2016-02-19T19:55:19" entryType="1" hash="EF17C2E9C763B49A437A55984148DDC3" ts="2016-02-19T19:55:19">
  <decision date="2016-02-11" number="2-6-27/ 2016-02-09-2-АИ" org="ФНС"/>
  <url><![CDATA[https://vulcan-club-online.com/]]></url>
@@ -973,14 +968,6 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6818:6174</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3752</ipv6>
 </content>
-<content id="271497" includeTime="2016-02-24T20:27:50" entryType="1" hash="679197A5F401CC7C8C2BE7B4F2BF2A28" blockType="domain" ts="2024-10-17T14:25:02">
- <decision date="2016-02-18" number="103721-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[www.ageofpron.com]]></domain>
- <ip>104.21.2.80</ip>
- <ip>172.67.128.233</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:80e9</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:0250</ipv6>
-</content>
 <content id="271745" includeTime="2016-02-19T14:45:51" urgencyType="1" entryType="3" hash="87F406122D5B75EE4BE9F308D852A805" ts="2016-02-19T14:45:51">
  <decision date="2016-02-18" number="" org=""/>
  <url><![CDATA[http://www.youtube.com/watch?v=sXOx03eBATU]]></url>
@@ -1158,15 +1145,19 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="272051" includeTime="2023-12-15T13:20:02" entryType="1" hash="E74532A1CAD611C60DAD6771E3F043C6" blockType="domain-mask" ts="2024-02-08T13:40:04">
+<content id="272051" includeTime="2023-12-15T13:20:02" entryType="1" hash="F13724115B0DA2DC7500EEE147A786ED" blockType="domain-mask" ts="2024-11-06T17:05:02">
  <decision date="2015-12-22" number="2-677/2015" org="Балейский городской суд - Забайкальский край"/>
  <domain><![CDATA[*.intim76.com]]></domain>
  <ip>104.21.28.239</ip>
  <ip>172.67.147.229</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ip>188.114.98.234</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:93e5</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:1cef</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>

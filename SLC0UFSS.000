@@ -332,11 +332,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6230089" includeTime="2023-07-27T14:25:01" entryType="1" hash="AF250B7569383E98ECC5616852C20CBD" blockType="domain" ts="2023-07-27T14:25:01">
- <decision date="2023-07-18" number="2а-4718/2023" org="Калининский районный суд г. Тюмени - Тюменская область"/>
- <domain><![CDATA[zavodoukovsk.dosug-2019.ru]]></domain>
- <ip>109.123.255.18</ip>
-</content>
 <content id="6230096" includeTime="2023-07-28T13:50:02" entryType="1" hash="210155E6CB9198F0DC6B151DF05BDFD4" blockType="domain" ts="2023-07-28T13:50:02">
  <decision date="2023-07-26" number="2023-07-26-12" org="МВД"/>
  <domain><![CDATA[semenarniasemki-4.online]]></domain>
@@ -865,9 +860,9 @@
  <ip>18.165.140.77</ip>
  <ip>18.165.140.88</ip>
 </content>
-<content id="6230313" includeTime="2023-07-27T14:25:01" entryType="1" hash="1775294B45C7032A81D35E7C79C45E61" blockType="domain" ts="2023-07-27T14:25:01">
+<content id="6230313" includeTime="2023-07-27T14:25:01" entryType="1" hash="97F924D05507CEB1921A9F71B7C9D998" blockType="domain-mask" ts="2024-11-06T01:00:02">
  <decision date="2023-07-25" number="2а-158/2023 ~ М-132/2023" org="Покровский районный суд - Орловская область"/>
- <domain><![CDATA[rostov-doxy.com]]></domain>
+ <domain><![CDATA[*.rostov-doxy.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -1168,23 +1163,11 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:02da</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:81ba</ipv6>
 </content>
-<content id="6230435" includeTime="2023-07-28T13:50:02" entryType="1" hash="D638503000869744392621667067D7DE" ts="2023-07-28T13:50:02">
- <decision date="2023-07-25" number="2а-5632/2023" org="Ленинский районный суд г. Оренбурга - Оренбургская область"/>
- <url><![CDATA[https://orenburg.prawaf-4you.com/]]></url>
- <domain><![CDATA[orenburg.prawaf-4you.com]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6230439" includeTime="2023-07-27T14:25:01" entryType="1" hash="FF02B9FB7DEB2532A4E3B9D96A4726C8" ts="2023-07-27T14:25:01">
+<content id="6230439" includeTime="2023-07-27T14:25:01" entryType="1" hash="85ACD55D2DEC0F831D7309D85B5A6568" ts="2024-11-06T11:45:02">
  <decision date="2023-07-17" number="2а-2891/2023" org="Дзержинский районный суд г. Перми - Пермский край"/>
  <url><![CDATA[https://sex0.sexxxprm.com/low-cost/]]></url>
  <domain><![CDATA[sex0.sexxxprm.com]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+ <ip>142.93.136.82</ip>
 </content>
 <content id="6230440" includeTime="2023-07-26T22:05:02" entryType="1" hash="1F0946537259D81537A0CB670AF1C71C" blockType="domain" ts="2023-07-26T22:05:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

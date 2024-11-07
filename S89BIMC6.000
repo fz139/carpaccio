@@ -607,13 +607,17 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:5bb2</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:b11d</ipv6>
 </content>
-<content id="7164236" includeTime="2024-06-27T23:55:03" entryType="1" hash="0D18983538C20F4E2C9A0DE86C534BEE" blockType="domain" ts="2024-06-27T23:55:03">
+<content id="7164236" includeTime="2024-06-27T23:55:03" entryType="1" hash="D9175BF3A5D2FEDFBDFD504348460B3A" blockType="domain" ts="2024-11-05T16:35:03">
  <decision date="2024-02-28" number="2а-360/2024" org="Алданский районный суд - Республика Саха (Якутия)"/>
  <domain><![CDATA[e.nightlady.site]]></domain>
  <ip>104.21.51.105</ip>
  <ip>172.67.179.10</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:3369</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b30a</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7164261" includeTime="2024-06-27T23:55:03" entryType="1" hash="7AF8391DB11AB08494F0962394EC47D0" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2024-06-20" number="2-6-14/2024-06-18-7669-АИ" org="ФНС"/>
@@ -3377,13 +3381,17 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:0619</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:9a97</ipv6>
 </content>
-<content id="7166442" includeTime="2024-06-28T13:55:03" entryType="1" hash="4EBA866DED938099F0D08A6642FD7590" blockType="domain-mask" ts="2024-06-28T13:55:03">
+<content id="7166442" includeTime="2024-06-28T13:55:03" entryType="1" hash="546F29A6AF65C68A1A4A407FF9CC7AA3" blockType="domain-mask" ts="2024-11-05T16:35:03">
  <decision date="2024-02-28" number="2а-360/2024" org="Алданский районный суд - Республика Саха (Якутия)"/>
  <domain><![CDATA[*.nightlady.site]]></domain>
  <ip>104.21.51.105</ip>
  <ip>172.67.179.10</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:3369</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b30a</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7166445" includeTime="2024-07-01T09:50:04" entryType="1" hash="910CBEBA71B4A006E7493E342FEA68B7" blockType="domain" ts="2024-07-01T09:50:04">
  <decision date="2024-06-27" number="2612079-URL-on" org="Роскомнадзор"/>
@@ -4765,15 +4773,6 @@
  <ip>172.67.129.71</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:8147</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:028a</ipv6>
-</content>
-<content id="7166827" includeTime="2024-07-01T13:55:03" entryType="1" hash="3591E7174255379492074C60BB28ECA5" ts="2024-07-01T13:55:03">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://y24.biz/?city_id=31]]></url>
- <domain><![CDATA[y24.biz]]></domain>
- <ip>104.21.68.36</ip>
- <ip>172.67.185.221</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:b9dd</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:4424</ipv6>
 </content>
 <content id="7166829" includeTime="2024-06-27T23:55:03" entryType="1" hash="BBD05C22DFD99A02935116B07D44AF28" blockType="domain-mask" ts="2024-06-27T23:55:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -7966,14 +7965,14 @@
  <ip>104.21.66.204</ip>
  <ip>172.67.207.63</ip>
 </content>
-<content id="7169614" includeTime="2024-06-27T21:15:03" entryType="2" hash="599035EB4C41DE901E4C0EBC6C089250" ts="2024-06-27T21:15:03">
+<content id="7169614" includeTime="2024-06-27T21:15:03" entryType="2" hash="168E8C21FF39BBFC618C8872FECD0A86" ts="2024-10-28T16:00:04">
  <decision date="2022-08-16" number="определение о предварительном обеспечении по заявлению № 2И-9218/2022" org="Мосгорсуд"/>
  <url><![CDATA[https://tv15.lordserial.tel/1304-staja.html]]></url>
  <domain><![CDATA[tv15.lordserial.tel]]></domain>
- <ip>104.21.96.28</ip>
- <ip>172.67.150.160</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:96a0</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:601c</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7169618" includeTime="2024-06-27T21:15:03" entryType="2" hash="39424986914C364D9C0E05BA5E745AB9" ts="2024-09-23T19:15:02">
  <decision date="2024-01-24" number="определение о предварительном обеспечении по заявлению № 2И-1469/2024" org="Мосгорсуд"/>

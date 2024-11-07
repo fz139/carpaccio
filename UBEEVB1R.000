@@ -9495,13 +9495,17 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:104b</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:a6e8</ipv6>
 </content>
-<content id="7209625" includeTime="2024-07-15T13:20:03" entryType="1" hash="AE2F3BD87787600264299446BDEE6EE5" blockType="domain" ts="2024-07-15T13:20:03">
+<content id="7209625" includeTime="2024-07-15T13:20:03" entryType="1" hash="5EDD39C5F406866EE367CDA0E78A0B7B" blockType="domain" ts="2024-10-30T14:55:02">
  <decision date="2024-07-09" number="2024-06-27-6362-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[seasonvar-razblokirovka-serialov.softonic.ru]]></domain>
  <ip>151.101.1.91</ip>
  <ip>151.101.129.91</ip>
  <ip>151.101.193.91</ip>
  <ip>151.101.65.91</ip>
+ <ipv6>2a04:4e42:0000:0000:0000:0000:0000:0347</ipv6>
+ <ipv6>2a04:4e42:0200:0000:0000:0000:0000:0347</ipv6>
+ <ipv6>2a04:4e42:0400:0000:0000:0000:0000:0347</ipv6>
+ <ipv6>2a04:4e42:0600:0000:0000:0000:0000:0347</ipv6>
 </content>
 <content id="7209627" includeTime="2024-07-12T10:45:03" entryType="1" hash="7430E821EFCA2F558A17BBFA701A4CFE" blockType="domain" ts="2024-07-12T10:45:03">
  <decision date="2024-07-10" number="2635176-URL-on" org="Роскомнадзор"/>
@@ -13185,12 +13189,6 @@
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.up3aa9x.life]]></domain>
  <ip>190.115.31.140</ip>
-</content>
-<content id="7210618" includeTime="2024-07-12T13:45:03" entryType="1" hash="CE03BF0368F65C4EDE6AC30D35249B99" ts="2024-07-12T13:45:03">
- <decision date="2024-07-10" number="2024-07-01-5324-СОБ" org="Роскомнадзор"/>
- <url><![CDATA[https://euro-soft.su/windows/12/kak-obojti-blokirovku-sajta-roskomnadzorom]]></url>
- <domain><![CDATA[euro-soft.su]]></domain>
- <ip>45.130.41.110</ip>
 </content>
 <content id="7210619" includeTime="2024-07-10T23:35:02" entryType="1" hash="EF96FBAB824D0069EA1DAA5478195C6A" blockType="domain-mask" ts="2024-07-10T23:35:02">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

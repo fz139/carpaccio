@@ -4187,12 +4187,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6540874" includeTime="2023-12-01T09:40:05" entryType="1" hash="B5F14B581F479360CE2D25C89A540F72" ts="2023-12-01T09:40:05">
- <decision date="2023-11-30" number="2315007-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://likegay.net/?ysclid=losjteigay79966045]]></url>
- <domain><![CDATA[likegay.net]]></domain>
- <ip>185.182.82.238</ip>
-</content>
 <content id="6540877" includeTime="2023-12-04T14:25:03" entryType="1" hash="EE1D68066776FCA75D90283096523AA1" blockType="domain" ts="2023-12-04T14:25:03">
  <decision date="2023-11-29" number="2023-11-28-5790-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[indiavir2.site]]></domain>
@@ -4442,11 +4436,6 @@
  <ip>74.208.236.36</ip>
  <ipv6>2607:f1c0:100f:f000:0000:0000:0000:0200</ipv6>
 </content>
-<content id="6540980" includeTime="2023-12-04T14:25:03" entryType="1" hash="EE3AB1C38D94E0855E63C706F7189BBA" blockType="domain" ts="2023-12-04T14:25:03">
- <decision date="2023-11-10" number="2а-1179/2023" org="Тейковский районный суд - Ивановская область"/>
- <domain><![CDATA[sankt-peterburg.voennuy-bilet.top]]></domain>
- <ip>5.61.48.87</ip>
-</content>
 <content id="6540981" includeTime="2023-11-30T21:50:04" entryType="1" hash="566B013E66C2CBED92E54A44D778AFA8" blockType="domain-mask" ts="2023-11-30T21:50:04">
  <decision date="2023-11-29" number="2-6-14/2023-11-23-3305-АИ" org="ФНС"/>
  <domain><![CDATA[*.starda52.casino]]></domain>
@@ -4633,13 +4622,17 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6541073" includeTime="2023-12-04T14:25:03" entryType="1" hash="52F0A4BB3FCA361FDB303E494F729ED7" blockType="domain" ts="2023-12-04T14:25:03">
+<content id="6541073" includeTime="2023-12-04T14:25:03" entryType="1" hash="923D74FBE0D33C3BFA006E9DAE43AB7E" blockType="domain" ts="2024-11-01T11:30:04">
  <decision date="2023-11-29" number="2023-11-29-331-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[f5.allsteroid6.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="6541076" includeTime="2023-12-04T14:25:03" entryType="1" hash="FEE7C02EE9260022D5364AFCDC4A0146" ts="2023-12-04T14:25:03">
  <decision date="2023-11-30" number="2023-11-29-200-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
@@ -4840,14 +4833,6 @@
 <content id="6541128" includeTime="2023-11-30T21:50:04" entryType="1" hash="EA3630EC76161A4AD0DBA6BA5D264150" blockType="domain-mask" ts="2023-11-30T21:50:04">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vulkan24-rni.top]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6541136" includeTime="2023-12-04T14:25:03" entryType="1" hash="50C8A44F535BC0894994A0956C13C790" blockType="domain" ts="2023-12-04T14:25:03">
- <decision date="2022-08-17" number="2а-1114/2022" org="Ленинский районный суд г. Орска - Оренбургская область"/>
- <domain><![CDATA[msk.expert-diplom.site]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -5734,12 +5719,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6541488" includeTime="2023-12-04T14:25:03" entryType="1" hash="BB903873EE6BD94D2CCB42C8D1F31DD7" ts="2023-12-04T14:25:03">
- <decision date="2023-11-10" number="2а-1181/2023" org="Тейковский районный суд - Ивановская область"/>
- <url><![CDATA[https://sim.voennikrus.top/]]></url>
- <domain><![CDATA[sim.voennikrus.top]]></domain>
- <ip>5.61.48.87</ip>
-</content>
 <content id="6541489" includeTime="2023-11-30T21:50:04" entryType="1" hash="9BD669726F60976D65EB7BBCC62AD9DC" blockType="domain-mask" ts="2023-11-30T21:50:04">
  <decision date="2023-11-29" number="2-6-14/2023-11-28-8515-АИ" org="ФНС"/>
  <domain><![CDATA[*.7448.info]]></domain>
@@ -6192,11 +6171,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6541656" includeTime="2023-12-04T14:25:03" entryType="1" hash="2C95F02A3DB6AC34DF52E856F23E32B2" blockType="domain" ts="2023-12-04T14:25:03">
- <decision date="2023-11-10" number="2а-1181/2023" org="Тейковский районный суд - Ивановская область"/>
- <domain><![CDATA[zhizdra.voen1.top]]></domain>
- <ip>5.61.48.87</ip>
 </content>
 <content id="6541657" includeTime="2023-11-30T21:50:04" entryType="1" hash="B430867334F476DD8B01810DF4E73227" blockType="domain-mask" ts="2023-11-30T21:50:04">
  <decision date="2023-11-29" number="2-6-14/2023-11-28-8788-АИ" org="ФНС"/>

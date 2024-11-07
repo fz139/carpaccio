@@ -1072,13 +1072,17 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7413434" includeTime="2024-09-14T00:50:03" entryType="1" hash="06E512E66522E3ACE0616DE827C4820D" blockType="domain" ts="2024-09-14T00:50:03">
+<content id="7413434" includeTime="2024-09-14T00:50:03" entryType="1" hash="1EAE2DB9324FDC58F390D0EF84F924D9" blockType="domain" ts="2024-10-31T14:50:03">
  <decision date="2024-09-10" number="2024-09-03-7034-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[i2.allsteroid6.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ip>188.114.98.233</ip>
+ <ip>188.114.99.233</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
 </content>
 <content id="7413435" includeTime="2024-09-11T23:15:02" entryType="1" hash="3A22D99ECD2C68CBA3212D6604654020" blockType="domain-mask" ts="2024-09-11T23:15:02">
  <decision date="2024-08-28" number="2-6-14/2024-08-24-7276-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1345,15 +1349,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5f06</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8e77</ipv6>
 </content>
-<content id="7413488" includeTime="2024-09-14T00:50:03" entryType="1" hash="EE5FA3361C1C600058B2A7500E3818D7" ts="2024-09-14T00:50:03">
- <decision date="2024-09-11" number="2024-08-30-5423-ВЛ" org="Россельхознадзор"/>
- <url><![CDATA[https://vetaq.pharmacy-ru.shop/shop/uncategorized2/masivet-masivet-150-mg/]]></url>
- <domain><![CDATA[vetaq.pharmacy-ru.shop]]></domain>
- <ip>104.21.4.48</ip>
- <ip>172.67.131.170</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:0430</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:83aa</ipv6>
-</content>
 <content id="7413489" includeTime="2024-09-11T23:15:02" entryType="1" hash="C71DEE0A32365C431CC93B9F2876DEC0" blockType="domain-mask" ts="2024-09-11T23:15:02">
  <decision date="2024-09-04" number="2-6-14/2024-09-02-4012-АИ" org="ФНС"/>
  <domain><![CDATA[*.solcasino-diag6.top]]></domain>
@@ -1371,15 +1366,6 @@
  <domain><![CDATA[*.pinups-kasino.ru]]></domain>
  <ip>162.19.253.38</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:0ffe</ipv6>
-</content>
-<content id="7413492" includeTime="2024-09-14T00:50:03" entryType="1" hash="C521F1008C7290E71A94B1CB94C33BCA" ts="2024-09-14T00:50:03">
- <decision date="2024-09-11" number="2024-09-03-3819-ВЛ" org="Россельхознадзор"/>
- <url><![CDATA[https://vetaw.pharmacy-ru.shop/shop/uncategorized2/masivet-masivet-150-mg/]]></url>
- <domain><![CDATA[vetaw.pharmacy-ru.shop]]></domain>
- <ip>104.21.4.48</ip>
- <ip>172.67.131.170</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:0430</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:83aa</ipv6>
 </content>
 <content id="7413493" includeTime="2024-09-11T23:15:02" entryType="1" hash="FE9018E8A99BACD92C24164A9E25FF75" blockType="domain-mask" ts="2024-09-11T23:15:02">
  <decision date="2024-08-28" number="2-6-14/2024-08-24-7276-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1856,10 +1842,13 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:b1a9</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:11a2</ipv6>
 </content>
-<content id="7413604" includeTime="2024-09-17T00:10:02" entryType="1" hash="29D47D06EBACD2C9154B2724626EF220" blockType="domain" ts="2024-09-17T00:10:02">
+<content id="7413604" includeTime="2024-09-17T00:10:02" entryType="1" hash="B7828A6AFE5DC2E0934CADDBDE2617BE" blockType="domain" ts="2024-10-29T10:25:02">
  <decision date="2024-09-11" number="2740581-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[fantastikaonline.net]]></domain>
- <ip>193.109.247.20</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7413605" includeTime="2024-09-11T23:15:02" entryType="1" hash="BA448791A2AE7398A5ED96CA22866FD6" blockType="domain-mask" ts="2024-09-11T23:15:02">
  <decision date="2024-08-28" number="2-6-14/2024-08-24-7276-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2566,15 +2555,6 @@
  <domain><![CDATA[*.pin-up248.com]]></domain>
  <ip>162.19.241.105</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:38cb</ipv6>
-</content>
-<content id="7413751" includeTime="2024-09-14T00:50:03" entryType="1" hash="00C204BE288574ACEF41F3FEA62168BE" ts="2024-09-14T00:50:03">
- <decision date="2024-09-10" number="2024-09-09-2982-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://sabar.pharmacy-ru.shop/shop/uncategorized1/sabril-vigabatrin-tabletki-500mg-100-100-tabletok/]]></url>
- <domain><![CDATA[sabar.pharmacy-ru.shop]]></domain>
- <ip>104.21.4.48</ip>
- <ip>172.67.131.170</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:0430</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:83aa</ipv6>
 </content>
 <content id="7413752" includeTime="2024-09-11T23:15:02" entryType="1" hash="AC9691C9A8269CA50AFCA6A1255113F6" blockType="domain-mask" ts="2024-09-11T23:15:02">
  <decision date="2024-08-28" number="2-6-14/2024-08-24-7276-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -3338,14 +3318,6 @@
  <domain><![CDATA[*.monrocasinoboss5.top]]></domain>
  <ip>104.21.67.77</ip>
  <ip>172.67.218.110</ip>
-</content>
-<content id="7413917" includeTime="2024-09-14T00:50:03" entryType="1" hash="603AD6E89080D643E9AE5C0FB0151B0A" blockType="domain" ts="2024-09-14T00:50:03">
- <decision date="2024-09-10" number="2024-06-28-11105-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[ozempic-apteka.ru]]></domain>
- <ip>104.21.57.41</ip>
- <ip>172.67.189.30</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:bd1e</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:3929</ipv6>
 </content>
 <content id="7413918" includeTime="2024-09-11T23:15:02" entryType="1" hash="2DB7B522631D7BC10717E48DCE1F18D7" blockType="domain" ts="2024-09-11T23:15:02">
  <decision date="2024-09-04" number="2-6-14/2024-09-02-4473-АИ" org="ФНС"/>
@@ -6543,14 +6515,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:40e4</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:9c40</ipv6>
 </content>
-<content id="7416202" includeTime="2024-09-12T18:40:02" entryType="2" hash="CF6526FA0B248FF7F495F4A53E843963" ts="2024-09-12T18:40:02">
+<content id="7416202" includeTime="2024-09-12T18:40:02" entryType="2" hash="90CC64BB6A7E4B7C342C082FA36870DD" ts="2024-11-02T15:45:02">
  <decision date="2024-08-23" number="определение о предварительном обеспечении по заявлению № 2И-17609/2024" org="Мосгорсуд"/>
  <url><![CDATA[https://tv61.lordseriy.fun/15991-poka-ne-rodila-sen.html]]></url>
  <domain><![CDATA[tv61.lordseriy.fun]]></domain>
- <ip>104.21.4.132</ip>
- <ip>172.67.132.28</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:0484</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:841c</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7416203" includeTime="2024-09-12T18:40:02" entryType="2" hash="174AF3B41DB9A91F012EFD6E1D390B11" ts="2024-09-12T18:40:02">
  <decision date="2024-08-23" number="определение о предварительном обеспечении по заявлению № 2И-17609/2024" org="Мосгорсуд"/>

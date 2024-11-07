@@ -890,9 +890,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6330189" includeTime="2023-09-06T13:45:02" entryType="1" hash="9A4F34B86FFF3A6C2EF511E5F30DC7DC" blockType="domain" ts="2023-09-06T13:45:02">
+<content id="6330189" includeTime="2023-09-06T13:45:02" entryType="1" hash="D07CF6250E335CF02DE62288A26E6690" blockType="domain-mask" ts="2024-11-07T00:45:02">
  <decision date="2023-07-17" number="2а-914/2023" org="Щербинский районный суд - Москва"/>
- <domain><![CDATA[prostoporno24.com]]></domain>
+ <domain><![CDATA[*.prostoporno24.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -2343,14 +2343,6 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6815:325d</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9feb</ipv6>
 </content>
-<content id="6331138" includeTime="2023-09-05T23:00:03" entryType="1" hash="B8FF7DDC07D255DC9F8E2501CC994E1C" blockType="domain" ts="2023-09-05T23:00:03">
- <decision date="2023-09-04" number="2023-09-04-2279" org="МВД"/>
- <domain><![CDATA[hospital-info.ru]]></domain>
- <ip>104.21.1.179</ip>
- <ip>172.67.129.175</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:01b3</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:81af</ipv6>
-</content>
 <content id="6331164" includeTime="2023-09-06T22:40:02" entryType="1" hash="66A01D8A2217151156FCFE6D3ED24174" blockType="domain" ts="2023-09-06T22:40:02">
  <decision date="2023-08-04" number="2а-3698/2023" org="Советский районный суд г. Челябинска - Челябинская область"/>
  <domain><![CDATA[xhamster19.com]]></domain>
@@ -2427,15 +2419,6 @@
  <ip>172.67.149.98</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:27e2</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9562</ipv6>
-</content>
-<content id="6331305" includeTime="2023-09-06T22:40:02" entryType="1" hash="483A524AC123536F15A3672D5F52A862" ts="2023-09-06T22:40:02">
- <decision date="2023-07-11" number="2а-2338/2023" org="Новочеркасский городской суд - Ростовская область"/>
- <url><![CDATA[https://f.cheki-rf.club/novochierkassk]]></url>
- <domain><![CDATA[f.cheki-rf.club]]></domain>
- <ip>104.21.26.123</ip>
- <ip>172.67.136.64</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:1a7b</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:8840</ipv6>
 </content>
 <content id="6331318" includeTime="2023-09-05T18:15:02" urgencyType="1" entryType="3" hash="1A0FB41A6D2D02B82F6A4FE12ADA75EC" blockType="domain-mask" ts="2023-09-05T19:45:03">
  <decision date="2023-03-21" number="" org=""/>

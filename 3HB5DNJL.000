@@ -645,9 +645,9 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:304f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:b5bd</ipv6>
 </content>
-<content id="7148893" includeTime="2024-06-25T07:35:03" entryType="1" hash="51679A32DAF2A93F1960B717440A859B" blockType="domain" ts="2024-06-25T07:35:03">
+<content id="7148893" includeTime="2024-06-25T07:35:03" entryType="1" hash="523CD8EEABCC039DB2BF8566EBACA11B" blockType="domain-mask" ts="2024-10-29T03:50:02">
  <decision date="2024-06-17" number="2-6-14/2024-06-14-4101-АИ" org="ФНС"/>
- <domain><![CDATA[pccs.life]]></domain>
+ <domain><![CDATA[*.pccs.life]]></domain>
  <ip>104.21.47.9</ip>
  <ip>172.67.169.173</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:2f09</ipv6>
@@ -2579,14 +2579,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7150280" includeTime="2024-06-24T17:20:02" entryType="2" hash="69B53F9362B18EDD6A9218DCFF212FFF" ts="2024-06-24T17:20:02">
+<content id="7150280" includeTime="2024-06-24T17:20:02" entryType="2" hash="F50059B913080E0311AE871C3CA6F02C" ts="2024-10-28T16:00:04">
  <decision date="2021-11-19" number="определение о предварительном обеспечении по заявлению № 2И-13612/2021" org="Мосгорсуд"/>
  <url><![CDATA[http://hd6hd.lordfilm2024.com/multfilmy/36682-priklyucheniya-pili/]]></url>
  <domain><![CDATA[hd6hd.lordfilm2024.com]]></domain>
- <ip>104.21.25.107</ip>
- <ip>172.67.134.6</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:196b</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:8606</ipv6>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7150281" includeTime="2024-06-24T17:20:02" entryType="2" hash="1B352192D762264878FFEEAA044B1DD2" ts="2024-06-24T17:20:02">
  <decision date="2021-11-19" number="определение о предварительном обеспечении по заявлению № 2И-13612/2021" org="Мосгорсуд"/>
@@ -5259,13 +5259,17 @@
  <ip>162.19.252.248</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:0b66</ipv6>
 </content>
-<content id="7150932" includeTime="2024-06-27T00:50:03" entryType="1" hash="EF2F0C1D3998CF77D3D67A8560BACB20" ts="2024-06-27T00:50:03">
+<content id="7150932" includeTime="2024-06-27T00:50:03" entryType="1" hash="4FDF1327A669D261CFFDE53F806EF556" ts="2024-10-29T14:40:03">
  <decision date="2023-02-13" number="2а-984/2023" org="Центральный районный суд г. Хабаровска - Хабаровский край"/>
  <url><![CDATA[https://murzik.net/ru/artist/1441375]]></url>
  <domain><![CDATA[murzik.net]]></domain>
+ <ip>104.21.20.118</ip>
  <ip>104.21.41.219</ip>
+ <ip>172.67.192.157</ip>
  <ip>172.67.194.88</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:1476</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:29db</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:c09d</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c258</ipv6>
 </content>
 <content id="7150935" includeTime="2024-06-25T07:35:03" entryType="1" hash="2BE3C38BF88F235AF6A24537EB3DBB70" blockType="domain-mask" ts="2024-06-25T07:35:03">
@@ -6134,14 +6138,18 @@
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:8ae0</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:4ef6</ipv6>
 </content>
-<content id="7151138" includeTime="2024-06-26T13:20:04" entryType="1" hash="E5B66FDE0CDBECE285BFF9BBE16669C6" ts="2024-06-26T13:20:04">
+<content id="7151138" includeTime="2024-06-26T13:20:04" entryType="1" hash="35E77585A931D1ABEDB32D18002C1C99" ts="2024-11-02T10:25:02">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://sfoot.ru/kupit-mef-v-vladivostok.html]]></url>
  <domain><![CDATA[sfoot.ru]]></domain>
  <ip>104.21.45.97</ip>
  <ip>172.67.212.221</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:d4dd</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2d61</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7151140" includeTime="2024-06-25T07:35:03" entryType="1" hash="649DE8396DDB0A6B61D9D140E40BBA64" blockType="domain-mask" ts="2024-06-25T07:35:03">
  <decision date="2017-05-19" number="2-6-20/ 2017-05-17-77-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

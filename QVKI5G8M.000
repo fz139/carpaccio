@@ -4906,9 +4906,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:448c</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c3ef</ipv6>
 </content>
-<content id="6743000" includeTime="2024-02-16T14:10:03" entryType="1" hash="653E9C41F1843E70BB5FA1B99432321E" blockType="domain" ts="2024-02-16T14:10:03">
+<content id="6743000" includeTime="2024-02-16T14:10:03" entryType="1" hash="30BBC69F5FDC61C3DC610C268F47B586" blockType="domain-mask" ts="2024-11-06T01:00:02">
  <decision date="2020-01-15" number="2а-459/2020" org="Октябрьский районный суд г. Екатеринбурга - Свердловская область"/>
- <domain><![CDATA[stavropolnb.com]]></domain>
+ <domain><![CDATA[*.stavropolnb.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -5871,16 +5871,13 @@
  <domain><![CDATA[www.kinonadzor.net]]></domain>
  <ip>185.162.8.54</ip>
 </content>
-<content id="6744383" includeTime="2024-02-15T19:35:02" entryType="2" hash="5A78A5EC3C07D8C6340AEF0686424B93" ts="2024-10-24T16:00:02">
+<content id="6744383" includeTime="2024-02-15T19:35:02" entryType="2" hash="4ACFBA5E4FF3193E1034FFE79DBD164E" ts="2024-11-05T15:35:02">
  <decision date="2021-06-04" number="определение о предварительном обеспечении по заявлению № 2И-5141/2021" org="Мосгорсуд"/>
  <url><![CDATA[http://serials.pro/81-hrustalnyj-m-11-03-2024.html]]></url>
  <url><![CDATA[http://serials.pro/81-hrustalnyj-m-15-05-2024.html]]></url>
  <url><![CDATA[http://serials.pro/81-hrustalnyj.html]]></url>
  <domain><![CDATA[serials.pro]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+ <ip>5.45.86.13</ip>
 </content>
 <content id="6744385" includeTime="2024-02-15T19:35:02" entryType="2" hash="06A4C604EA171D81155F68BC889E65C1" ts="2024-02-15T19:35:02">
  <decision date="2024-01-15" number="определение о предварительном обеспечении по заявлению № 2И-0630/2024" org="Мосгорсуд"/>

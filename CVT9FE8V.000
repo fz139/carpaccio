@@ -1702,14 +1702,6 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:b01b</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:381e</ipv6>
 </content>
-<content id="4509626" includeTime="2022-06-17T13:19:22" entryType="1" hash="9B92A95AD80E2D040BBA29531AD56B71" blockType="domain" ts="2022-06-17T13:19:22">
- <decision date="2022-06-14" number="2022-06-11-1678" org="МВД"/>
- <domain><![CDATA[mega.mk]]></domain>
- <ip>104.21.7.155</ip>
- <ip>172.67.130.84</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:079b</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:8254</ipv6>
-</content>
 <content id="4509648" includeTime="2022-06-17T20:14:12" entryType="1" hash="ECD06F2BA2F1BF4185A15CE08B29F4D1" ts="2023-09-29T16:25:01">
  <decision date="2015-05-20" number="2-7695/2015" org="Мещанский районный суд города Москвы"/>
  <url><![CDATA[http://diasporiana.org.ua/wp-content/uploads/books/948/file.pdf]]></url>
@@ -3538,13 +3530,17 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0e23</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9db0</ipv6>
 </content>
-<content id="4513855" includeTime="2022-06-20T13:27:45" entryType="1" hash="D879D6A37134ECC411CA2120E9E56EB2" blockType="domain" ts="2022-06-20T13:27:45">
+<content id="4513855" includeTime="2022-06-20T13:27:45" entryType="1" hash="368767CFA0D53962D8BB864D430EC028" blockType="domain" ts="2024-11-05T17:05:02">
  <decision date="2021-11-22" number="2а-3793/2021" org="Дмитровский городской суд - Московская область"/>
  <domain><![CDATA[dmitrov.damochki-vce.ru]]></domain>
  <ip>104.21.75.40</ip>
  <ip>172.67.211.203</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:4b28</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d3cb</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4513856" includeTime="2022-06-16T21:56:45" entryType="1" hash="DEE5B7617BFE8A511A73FD1EA9D5A388" blockType="domain-mask" ts="2022-06-16T21:56:45">
  <decision date="2017-06-05" number="2-6-20/2017-06-05-161-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -5091,13 +5087,17 @@
  <domain><![CDATA[electro-fisher.net]]></domain>
  <ip>91.237.52.78</ip>
 </content>
-<content id="4516348" includeTime="2022-06-20T23:03:32" entryType="1" hash="4D3147D4A18084D01FF71BE43E5FFF83" blockType="domain" ts="2022-06-20T23:03:32">
+<content id="4516348" includeTime="2022-06-20T23:03:32" entryType="1" hash="70EE51F18EF349FCF87D71E52ED3CD38" blockType="domain" ts="2024-11-05T14:45:02">
  <decision date="2022-03-16" number="2а-1470/2022" org="Металлургический районный суд г. Челябинска - Челябинская область"/>
  <domain><![CDATA[spb1.prostitutkipitera.org]]></domain>
  <ip>104.21.34.63</ip>
  <ip>172.67.199.17</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:c711</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:223f</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="4516371" includeTime="2022-06-20T23:03:36" entryType="1" hash="A9E4143CCD5F9A3ADB2D8C2984334661" blockType="domain" ts="2022-06-20T23:03:36">
  <decision date="2022-06-06" number="2a-261/2022" org="Хангаласский районный суд - Республика Саха (Якутия)"/>
@@ -5147,11 +5147,6 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:2914</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="4516443" includeTime="2022-06-20T23:03:32" entryType="1" hash="79D7C0E95803E2202264AD79C03180E7" blockType="domain" ts="2023-08-31T14:35:01">
- <decision date="2022-06-06" number="2a-273/2022" org="Хангаласский районный суд - Республика Саха (Якутия)"/>
- <domain><![CDATA[kstovo.dosug-2019.ru]]></domain>
- <ip>109.123.255.18</ip>
 </content>
 <content id="4516444" includeTime="2022-06-20T23:03:33" entryType="1" hash="075ECD2A9F1A29BB84CDAACA43BB7FAB" blockType="domain" ts="2024-08-30T12:20:02">
  <decision date="2022-06-10" number="2а-282/2022" org="Краснобаковский районный суд - Нижегородская область"/>
