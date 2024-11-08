@@ -1030,12 +1030,16 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8b26</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:570f</ipv6>
 </content>
-<content id="4150757" includeTime="2022-03-17T20:56:25" entryType="1" hash="A35FDD8599A4D55E1ACB142BA052FF5A" blockType="domain-mask" ts="2022-03-17T20:56:25">
+<content id="4150757" includeTime="2022-03-17T20:56:25" entryType="1" hash="4CBDA9A7ABA23E08BC5FBC272F04D820" blockType="domain-mask" ts="2024-11-08T13:35:02">
  <decision date="2022-03-15" number="2022-02-25-165" org="ÌÂÄ"/>
  <domain><![CDATA[*.ganjalive.life]]></domain>
  <ip>104.21.8.101</ip>
+ <ip>104.21.89.151</ip>
  <ip>172.67.157.71</ip>
+ <ip>172.67.161.39</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:9d47</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:a127</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:5997</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:0865</ipv6>
 </content>
 <content id="4150759" includeTime="2022-03-17T20:56:23" entryType="1" hash="E94CEAF56EAA0AEC15C2AF57A1CE2463" blockType="domain" ts="2023-12-11T16:30:05">
@@ -3786,9 +3790,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
 </content>
-<content id="4156009" includeTime="2024-02-28T15:40:02" entryType="1" hash="855FE1A867E734A6003634E4814F638F" blockType="domain-mask" ts="2024-02-28T15:40:02">
+<content id="4156009" includeTime="2024-02-28T15:40:02" entryType="1" hash="21E21F33398ACD275C635DDEC3D036EA" blockType="domain-mask" ts="2024-11-08T13:35:02">
  <decision date="2022-03-16" number="2022-03-16-1301" org="ÌÂÄ"/>
  <domain><![CDATA[*.konoply-shop.online]]></domain>
+ <ip>104.21.60.247</ip>
+ <ip>172.67.202.204</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
