@@ -2430,9 +2430,9 @@
  <ipv6>2606:4700:0030:0000:0000:0000:681f:4473</ipv6>
  <ipv6>2606:4700:0030:0000:0000:0000:681f:4573</ipv6>
 </content>
-<content id="1613036" includeTime="2019-07-03T20:39:45" urgencyType="1" entryType="3" hash="D01891D101C6A9F4ABDF42D06145BCF3" blockType="domain" ts="2019-07-03T20:39:45">
+<content id="1613036" includeTime="2019-07-03T20:39:45" urgencyType="1" entryType="3" hash="513019C120C3C56ED416A9B4B1824442" blockType="domain-mask" ts="2024-11-12T10:15:02">
  <decision date="2019-07-01" number="" org=""/>
- <domain><![CDATA[4freerussia.org]]></domain>
+ <domain><![CDATA[*.4freerussia.org]]></domain>
  <ip>208.113.220.3</ip>
  <ip>34.96.95.126</ip>
 </content>
