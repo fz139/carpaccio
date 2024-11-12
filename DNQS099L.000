@@ -263,6 +263,11 @@
  <ip>162.19.241.105</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:38cb</ipv6>
 </content>
+<content id="7564335" includeTime="2024-11-12T23:45:03" entryType="1" hash="688993E262536948519BAC5D9271FCBD" blockType="domain" ts="2024-11-12T23:45:03">
+ <decision date="2024-10-28" number="2816118-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[red.mat6tube.com]]></domain>
+ <ip>185.73.220.204</ip>
+</content>
 <content id="7564337" includeTime="2024-10-29T14:40:03" entryType="1" hash="CC4FA5435F50A77AFE72860F4A001833" blockType="domain-mask" ts="2024-10-29T14:40:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.totblack.biz]]></domain>
@@ -1232,6 +1237,13 @@
  <domain><![CDATA[*.pin-up-casino-sgh9.top]]></domain>
  <ip>162.19.241.105</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:38cb</ipv6>
+</content>
+<content id="7564569" includeTime="2024-11-12T23:45:03" entryType="1" hash="D3C1E9896970B337D595C5F6D0B601D8" ts="2024-11-12T23:45:03">
+ <decision date="2024-10-25" number="2024-10-24-10669" org="МВД"/>
+ <url><![CDATA[https://integraseguridad.com/2024]]></url>
+ <domain><![CDATA[integraseguridad.com]]></domain>
+ <ip>45.56.67.215</ip>
+ <ipv6>2600:3c00:0000:0000:f03c:94ff:fea2:764d</ipv6>
 </content>
 <content id="7564570" includeTime="2024-10-29T04:20:03" entryType="1" hash="67FF2FD07C6E7DD1BBDB6566DFDC9215" blockType="domain-mask" ts="2024-10-29T04:20:03">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
