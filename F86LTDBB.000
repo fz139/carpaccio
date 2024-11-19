@@ -454,6 +454,12 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:5733</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:8d84</ipv6>
 </content>
+<content id="7622263" includeTime="2024-11-19T13:35:03" entryType="1" hash="573A941A18FBBA60F2D7CBE928A1FBAF" blockType="domain" ts="2024-11-19T13:35:03">
+ <decision date="2024-10-25" number="2а-1082/2024" org="Дятьковский городской суд - Брянская область"/>
+ <domain><![CDATA[dyatkovo.medcentr-vosstanovlenie.ru]]></domain>
+ <ip>92.53.96.165</ip>
+ <ipv6>2a03:6f00:0001:0000:0000:0000:5c35:60a5</ipv6>
+</content>
 <content id="7622264" includeTime="2024-11-15T00:00:02" entryType="1" hash="8A5724B9E8A4CE5EBCF0978ED4A19D6F" blockType="domain-mask" ts="2024-11-15T00:00:02">
  <decision date="2024-10-15" number="2-6-14/2024-10-15-5777-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.7k918.online]]></domain>
@@ -878,6 +884,11 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7622351" includeTime="2024-11-19T13:35:03" entryType="1" hash="CA63A7CFBD379B9E3CEF08FFAA95B01F" blockType="domain" ts="2024-11-19T13:35:03">
+ <decision date="2024-11-14" number="2842545-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[jbzz.al]]></domain>
+ <ip>83.222.191.218</ip>
 </content>
 <content id="7622361" includeTime="2024-11-18T14:30:03" entryType="1" hash="BE7D972AA43709CEB633E7ED71C9A623" ts="2024-11-18T14:30:03">
  <decision date="2024-11-13" number="2024-11-12-5845-ПЛ" org="Росздравнадзор"/>
@@ -1409,6 +1420,14 @@
 <content id="7622485" includeTime="2024-11-15T15:00:04" entryType="1" hash="3F6E6C769AD87C7299745BC96261ECCD" blockType="domain-mask" ts="2024-11-15T15:00:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.vershina-penza.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7622486" includeTime="2024-11-19T13:35:03" entryType="1" hash="F1960AE15E3B73DD226F196BB2C666D7" blockType="domain-mask" ts="2024-11-19T13:35:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kra10-at.net]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
