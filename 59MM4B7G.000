@@ -4194,9 +4194,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:badc</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:4432</ipv6>
 </content>
-<content id="7471043" includeTime="2024-09-30T18:45:03" urgencyType="1" entryType="3" hash="7779027B8B0A5CD6CFC7F4C0E5CD4BBA" blockType="domain" ts="2024-09-30T18:45:03">
+<content id="7471043" includeTime="2024-09-30T18:45:03" urgencyType="1" entryType="3" hash="B04D0627E154F9162ADC8F2AB893A659" blockType="domain-mask" ts="2024-11-20T12:05:02">
  <decision date="2024-09-04" number="" org=""/>
- <domain><![CDATA[mosskva-prva.com]]></domain>
+ <domain><![CDATA[*.mosskva-prva.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
