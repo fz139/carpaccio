@@ -899,6 +899,16 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="7622364" includeTime="2024-11-21T07:25:03" entryType="1" hash="53413DF9E4D9BBBE0A2468751F7DC124" blockType="domain" ts="2024-11-21T07:25:03">
+ <decision date="2024-11-12" number="2024-10-31-11460" org="МВД"/>
+ <domain><![CDATA[growerz.skin]]></domain>
+ <ip>104.26.10.125</ip>
+ <ip>104.26.11.125</ip>
+ <ip>172.67.69.212</ip>
+ <ipv6>2606:4700:0020:0000:0000:0000:681a:0a7d</ipv6>
+ <ipv6>2606:4700:0020:0000:0000:0000:681a:0b7d</ipv6>
+ <ipv6>2606:4700:0020:0000:0000:0000:ac43:45d4</ipv6>
+</content>
 <content id="7622370" includeTime="2024-11-16T02:10:02" entryType="1" hash="14AAC5FAB8D7BEBA6FBA37429FA34C55" blockType="domain-mask" ts="2024-11-16T02:10:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.dmz-svb.ru]]></domain>
