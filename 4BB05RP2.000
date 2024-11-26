@@ -17399,6 +17399,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="7519857" includeTime="2024-11-26T16:30:03" entryType="1" hash="B1C84AC6C6652CCFCA3691D071F9C295" blockType="domain" ts="2024-11-26T16:30:03">
+ <decision date="2024-10-14" number="2793918-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[vmeste-wm-tema.ru]]></domain>
+ <ip>91.194.2.84</ip>
+</content>
 <content id="7519858" includeTime="2024-10-15T04:50:02" entryType="1" hash="7D49697E1411583DD7E1798F3A1F1BB2" blockType="domain-mask" ts="2024-10-15T04:50:02">
  <decision date="2024-08-28" number="2-6-14/2024-08-24-7277-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.belizeestateshipping.online]]></domain>
@@ -22441,12 +22446,6 @@
  <domain><![CDATA[*.leebetcasinonew.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
-</content>
-<content id="7522260" includeTime="2024-10-16T23:45:02" entryType="1" hash="9B59E700B92787193583B0D19CAEBF3D" ts="2024-10-16T23:45:02">
- <decision date="2024-08-29" number="02а-1029/2024" org="Преображенский районный суд - Москва"/>
- <url><![CDATA[https://zbroya.ru/kupit-oruzhie-bez-licenzii/]]></url>
- <domain><![CDATA[zbroya.ru]]></domain>
- <ip>78.47.151.144</ip>
 </content>
 <content id="7522261" includeTime="2024-10-15T23:30:03" entryType="1" hash="B279DA72601BC55264E413D35682E7BB" ts="2024-10-15T23:30:03">
  <decision date="2024-10-09" number="2-6-14/2024-10-09-8490-АИ" org="ФНС"/>
