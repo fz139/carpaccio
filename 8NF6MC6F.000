@@ -1010,12 +1010,6 @@
  <domain><![CDATA[xvideos.one]]></domain>
  <ip>45.77.123.20</ip>
 </content>
-<content id="7588344" includeTime="2024-11-05T13:50:03" entryType="1" hash="4DE49BC45B4FB4C3731C910357BAC737" ts="2024-11-05T13:50:03">
- <decision date="2024-11-02" number="2827656-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://www.xvideos-ru1.com/]]></url>
- <domain><![CDATA[www.xvideos-ru1.com]]></domain>
- <ip>88.208.35.215</ip>
-</content>
 <content id="7588346" includeTime="2024-11-05T13:50:03" entryType="1" hash="64BD6F0657C191002FD218552EF44AB1" blockType="domain" ts="2024-11-05T13:50:03">
  <decision date="2024-11-02" number="2827664-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[xnxx53.com]]></domain>
@@ -2481,11 +2475,15 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:58fe</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:9b33</ipv6>
 </content>
-<content id="7588667" includeTime="2024-11-05T13:50:03" entryType="1" hash="5C25F929AAA89173BFD6F199BBFC9CF0" blockType="domain-mask" ts="2024-11-05T13:50:03">
+<content id="7588667" includeTime="2024-11-05T13:50:03" entryType="1" hash="CBF0619C43CC8B221CFD37E31C5E0EDA" blockType="domain-mask" ts="2024-11-26T10:30:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.pred-log.ru]]></domain>
+ <ip>104.21.28.161</ip>
+ <ip>172.67.170.237</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:1ca1</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:aaed</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
