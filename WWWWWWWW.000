@@ -193,4 +193,31 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0d3d</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:c692</ipv6>
 </content>
+<content id="7660691" includeTime="2024-11-28T20:05:02" urgencyType="1" entryType="3" hash="DE33B43B496291F895EEDF342BBE592F" blockType="domain" ts="2024-11-28T20:05:02">
+ <decision date="2024-11-25" number="" org=""/>
+ <domain><![CDATA[www.ef.edu]]></domain>
+ <ip>104.16.77.72</ip>
+ <ip>104.16.78.72</ip>
+ <ipv6>2606:4700:0000:0000:0000:0000:6810:4d48</ipv6>
+ <ipv6>2606:4700:0000:0000:0000:0000:6810:4e48</ipv6>
+</content>
+<content id="7660692" includeTime="2024-11-28T20:05:02" urgencyType="1" entryType="3" hash="54E2274F9647972F88CCCC9F8DD22D74" blockType="domain-mask" ts="2024-11-28T20:05:02">
+ <decision date="2024-11-25" number="" org=""/>
+ <domain><![CDATA[*.johnsmithtrust.org]]></domain>
+ <ip>162.159.134.42</ip>
+</content>
+<content id="7661295" includeTime="2024-11-28T20:05:02" urgencyType="1" entryType="3" hash="777F2924BFFC0149C852542CCFC55955" blockType="domain-mask" ts="2024-11-28T20:05:02">
+ <decision date="2024-11-25" number="" org=""/>
+ <domain><![CDATA[*.csm.org.pl]]></domain>
+ <ip>109.95.158.122</ip>
+</content>
+<content id="7661296" includeTime="2024-11-28T20:05:02" urgencyType="1" entryType="3" hash="7C7231C6E53BFEB4B8DB8B7C641B3DC0" ts="2024-11-28T20:05:02">
+ <decision date="2024-11-25" number="" org=""/>
+ <url><![CDATA[https://www.ef.com/wwru/]]></url>
+ <domain><![CDATA[www.ef.com]]></domain>
+ <ip>104.16.77.72</ip>
+ <ip>104.16.78.72</ip>
+ <ipv6>2606:4700:0000:0000:0000:0000:6810:4d48</ipv6>
+ <ipv6>2606:4700:0000:0000:0000:0000:6810:4e48</ipv6>
+</content>
 </reg:register>
