@@ -7370,9 +7370,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:35ec</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:dbed</ipv6>
 </content>
-<content id="7138528" includeTime="2024-06-21T15:00:03" entryType="1" hash="E55C8239F4C7001F275D0DC9E5E80EB5" blockType="domain" ts="2024-10-23T11:55:01">
+<content id="7138528" includeTime="2024-06-21T15:00:03" entryType="1" hash="511C139C522AD771FCDA1434AFC3B147" blockType="domain-mask" ts="2024-11-29T13:05:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[vpnxd.com]]></domain>
+ <domain><![CDATA[*.vpnxd.com]]></domain>
  <ip>188.114.98.224</ip>
  <ip>188.114.98.233</ip>
  <ip>188.114.99.224</ip>
