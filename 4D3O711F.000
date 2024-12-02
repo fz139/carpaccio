@@ -12808,9 +12808,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6163619" includeTime="2023-07-06T13:38:41" entryType="1" hash="1AC6C20BD48B16CE7A3528F8A9D87C4D" blockType="domain" ts="2024-12-02T10:15:03">
+<content id="6163619" includeTime="2023-07-06T13:38:41" entryType="1" hash="4DAD39BF4A1F29C5F6DBE8F24FB713D7" blockType="domain-mask" ts="2024-12-02T13:15:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[amphetamine-apvp-mef.ru]]></domain>
+ <domain><![CDATA[*.amphetamine-apvp-mef.ru]]></domain>
  <ip>104.21.3.254</ip>
  <ip>172.67.131.103</ip>
  <ip>188.114.96.1</ip>

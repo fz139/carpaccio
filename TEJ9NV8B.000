@@ -3467,9 +3467,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4884</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b920</ipv6>
 </content>
-<content id="7631443" includeTime="2024-11-21T23:45:03" entryType="1" hash="5F118F91D80A56C663209A497CE115C8" blockType="domain" ts="2024-11-21T23:45:03">
+<content id="7631443" includeTime="2024-11-21T23:45:03" entryType="1" hash="C806715A3506846CBF76F87D9AB949D0" blockType="domain-mask" ts="2024-12-02T13:15:02">
  <decision date="2024-11-19" number="2848456-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[lordfilm-top.net]]></domain>
+ <domain><![CDATA[*.lordfilm-top.net]]></domain>
  <ip>104.21.12.94</ip>
  <ip>172.67.131.248</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0c5e</ipv6>
