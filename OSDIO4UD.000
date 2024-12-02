@@ -3410,10 +3410,10 @@
  <ip>162.19.253.10</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:48de</ipv6>
 </content>
-<content id="7018045" includeTime="2024-05-18T03:15:02" entryType="1" hash="3F79A70B7538BC5658C4FD56263D73F8" blockType="domain" ts="2024-05-18T03:15:02">
+<content id="7018045" includeTime="2024-05-18T03:15:02" entryType="1" hash="F04242AB9800CAD60657B878D553A75F" blockType="domain" ts="2024-12-02T12:45:03">
  <decision date="2024-05-15" number="2024-05-15-2092-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[m0.lovertab.net]]></domain>
- <ip>94.23.72.146</ip>
+ <ip>94.23.146.163</ip>
 </content>
 <content id="7018048" includeTime="2024-05-15T23:05:02" entryType="1" hash="9348AF6000F7C3F9E131C06817BC3232" blockType="domain-mask" ts="2024-05-15T23:05:02">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -5737,11 +5737,15 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7018611" includeTime="2024-05-18T03:15:02" entryType="1" hash="E1E1747E5DF928AA6518616340AD8CEB" blockType="domain" ts="2024-05-18T03:15:02">
+<content id="7018611" includeTime="2024-05-18T03:15:02" entryType="1" hash="4DC7E313D936B4DDA4B3C2789DC74F87" blockType="domain" ts="2024-12-02T12:45:03">
  <decision date="2024-05-15" number="2024-05-15-1998-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[nb.indatab.org]]></domain>
+ <ip>104.21.19.11</ip>
+ <ip>172.67.184.110</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:b86e</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:130b</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
