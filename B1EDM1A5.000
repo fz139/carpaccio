@@ -6549,6 +6549,14 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0caa</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:98d3</ipv6>
 </content>
+<content id="7628718" includeTime="2024-12-03T13:50:02" entryType="1" hash="106A9CED9AFB3565862A76514B9AA1F2" blockType="domain-mask" ts="2024-12-03T13:50:02">
+ <decision date="2024-11-15" number="2024-11-14-8517-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[*.rostabletka4.ru]]></domain>
+ <ip>104.21.91.37</ip>
+ <ip>172.67.209.131</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5b25</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:d183</ipv6>
+</content>
 <content id="7628719" includeTime="2024-11-19T13:35:03" entryType="1" hash="9FB95912836276DD2142B6C64EDA2CBB" blockType="domain-mask" ts="2024-11-19T13:35:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.at-kra16.cc]]></domain>
