@@ -12810,10 +12810,13 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6718714" includeTime="2024-02-08T14:10:01" entryType="1" hash="B4F2C77077F597F9FC4B525CEBA83DC9" blockType="domain-mask" ts="2024-02-08T14:10:01">
+<content id="6718714" includeTime="2024-02-08T14:10:01" entryType="1" hash="D2761ED32B3B0012C32964D0FD254B9B" blockType="domain-mask" ts="2024-12-04T15:55:02">
  <decision date="2024-02-07" number="2395103-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.kino-luxe.ru]]></domain>
- <ip>185.87.150.241</ip>
+ <ip>104.21.61.22</ip>
+ <ip>172.67.205.41</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3d16</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:cd29</ipv6>
 </content>
 <content id="6718715" includeTime="2024-02-07T22:50:04" entryType="1" hash="380ED18C96AE4283150452444227FE14" blockType="domain" ts="2024-02-07T22:50:04">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
