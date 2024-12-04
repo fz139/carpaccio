@@ -7412,10 +7412,13 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7091217" includeTime="2024-06-03T13:45:03" entryType="1" hash="E187632DDC1D517BE6C8B4C4B34A3880" blockType="domain-mask" ts="2024-06-03T13:45:03">
+<content id="7091217" includeTime="2024-06-03T13:45:03" entryType="1" hash="6B99F5B7C3735B3E5BED54AD8C496113" blockType="domain-mask" ts="2024-12-04T17:55:03">
  <decision date="2024-05-31" number="2565305-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lordserial.men]]></domain>
+ <ip>104.21.79.247</ip>
  <ip>172.67.150.83</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:4ff7</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:9653</ipv6>
 </content>
 <content id="7091218" includeTime="2024-06-01T07:55:02" entryType="1" hash="872E81F4C09F0664BB15B04836D28876" blockType="domain-mask" ts="2024-06-01T07:55:02">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
