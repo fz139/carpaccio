@@ -2352,12 +2352,16 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7488313" includeTime="2024-10-04T14:05:03" entryType="1" hash="CF0650EB2D4C1BFCC78A681BB675F905" blockType="domain-mask" ts="2024-10-04T14:05:03">
+<content id="7488313" includeTime="2024-10-04T14:05:03" entryType="1" hash="BC964BD673F74AE1D702253EB1B7E191" blockType="domain-mask" ts="2024-12-09T10:55:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.kraken6-gl.com]]></domain>
+ <ip>104.21.48.177</ip>
  <ip>104.21.80.231</ip>
  <ip>172.67.155.18</ip>
+ <ip>172.67.155.20</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:50e7</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:9b14</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:30b1</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:9b12</ipv6>
 </content>
 <content id="7488316" includeTime="2024-10-07T16:30:04" entryType="1" hash="197B6A6929743C8806397CE35CCBB010" blockType="domain-mask" ts="2024-10-07T16:30:04">
