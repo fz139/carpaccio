@@ -1848,6 +1848,14 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:cea2</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:16bd</ipv6>
 </content>
+<content id="7697479" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="C7CEE806894B7CE477612E0041146463" blockType="domain-mask" ts="2024-12-11T19:25:01">
+ <decision date="2024-12-09" number="" org=""/>
+ <domain><![CDATA[*.mediapartisans.info]]></domain>
+ <ip>15.197.148.33</ip>
+ <ip>3.33.130.190</ip>
+ <ip>35.71.142.77</ip>
+ <ip>52.223.52.2</ip>
+</content>
 <content id="7697501" includeTime="2024-12-11T15:55:01" entryType="1" hash="BE2FEB65E25CFBABFE3400A8C6121102" blockType="domain-mask" ts="2024-12-11T15:55:01">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.gllglg.com]]></domain>
@@ -7644,10 +7652,18 @@
  <ipv6>2600:9000:236e:c400:001a:8e51:8140:0021</ipv6>
  <ipv6>2600:9000:236e:ec00:001a:8e51:8140:0021</ipv6>
 </content>
-<content id="7700362" includeTime="2024-12-11T16:20:04" urgencyType="1" entryType="3" hash="723F6E15EBD347058E5B60007EA5D27E" blockType="domain" ts="2024-12-11T16:20:04">
+<content id="7700362" includeTime="2024-12-11T16:20:04" urgencyType="1" entryType="3" hash="4F4D64888DD7E492F6BC46961F8650A2" blockType="domain-mask" ts="2024-12-11T19:25:01">
  <decision date="2022-10-05" number="" org=""/>
- <domain><![CDATA[holasoyecho.website]]></domain>
+ <domain><![CDATA[*.holasoyecho.website]]></domain>
  <ip>3.64.41.233</ip>
+</content>
+<content id="7700363" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="98128E8D8B04E2DDFCAF50ED4A7106F0" blockType="domain-mask" ts="2024-12-11T19:25:01">
+ <decision date="2023-11-30" number="" org=""/>
+ <domain><![CDATA[*.drone-attack.org]]></domain>
+ <ip>104.21.4.245</ip>
+ <ip>172.67.187.63</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:04f5</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:bb3f</ipv6>
 </content>
 <content id="7701836" includeTime="2024-12-11T16:20:04" urgencyType="1" entryType="3" hash="7087428690723C7CAE352CFA611A027F" ts="2024-12-11T16:20:04">
  <decision date="2023-01-26" number="" org=""/>
@@ -10909,5 +10925,134 @@
  <url><![CDATA[https://torrent-films.cc/zhizn-po-vyzovu-serial-2022/]]></url>
  <domain><![CDATA[torrent-films.cc]]></domain>
  <ip>80.85.141.253</ip>
+</content>
+<content id="7703595" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="56420B948A8C8C30CB557657A8257F34" ts="2024-12-11T19:25:01">
+ <decision date="2024-11-28" number="" org=""/>
+ <url><![CDATA[https://magnspu.ru/search_6ae8dc4fead708af6eb4e535ec5016c3.html]]></url>
+ <domain><![CDATA[magnspu.ru]]></domain>
+ <ip>104.21.30.75</ip>
+ <ip>172.67.172.124</ip>
+</content>
+<content id="7703596" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="B75805D81B24923480618B75C7F4C6A6" ts="2024-12-11T19:25:01">
+ <decision date="2024-11-28" number="" org=""/>
+ <url><![CDATA[https://furni-home.ru/diplom-p8/diplom-ptu-sssr]]></url>
+ <domain><![CDATA[furni-home.ru]]></domain>
+ <ip>104.21.23.30</ip>
+ <ip>172.67.208.119</ip>
+</content>
+<content id="7703597" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="F728592DC41797439F7BE8398ACC4CF4" ts="2024-12-11T19:25:01">
+ <decision date="2024-11-28" number="" org=""/>
+ <url><![CDATA[https://ds-novoselki.ru/20-11-24/diplom-ptu-sssr]]></url>
+ <domain><![CDATA[ds-novoselki.ru]]></domain>
+ <ip>104.21.15.11</ip>
+ <ip>172.67.160.253</ip>
+</content>
+<content id="7703598" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="40FC27EA1E42A426890B14181CCFE775" ts="2024-12-11T19:25:01">
+ <decision date="2024-11-28" number="" org=""/>
+ <url><![CDATA[https://sierra-maestra.ru/20112024/diplom-ptu-sssr]]></url>
+ <domain><![CDATA[sierra-maestra.ru]]></domain>
+ <ip>104.21.38.179</ip>
+ <ip>172.67.137.30</ip>
+</content>
+<content id="7703599" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="B4C0D6AA05294768FD1A01F57675778A" ts="2024-12-11T19:25:01">
+ <decision date="2024-11-28" number="" org=""/>
+ <url><![CDATA[https://socpub.ru/201124/diplom-ptu-sssr]]></url>
+ <domain><![CDATA[socpub.ru]]></domain>
+ <ip>104.21.1.115</ip>
+ <ip>172.67.129.50</ip>
+</content>
+<content id="7703600" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="1C6A747B1D0A99D92C251D11EAA8774E" ts="2024-12-11T19:25:01">
+ <decision date="2024-11-28" number="" org=""/>
+ <url><![CDATA[https://jamdom.ru/kupit-diplom-ohrannika-4-razryada-moskva.html]]></url>
+ <domain><![CDATA[jamdom.ru]]></domain>
+ <ip>104.21.35.226</ip>
+ <ip>172.67.180.86</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:23e2</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:b456</ipv6>
+</content>
+<content id="7703601" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="7C16C5AA56600FA121EE676130395965" ts="2024-12-11T19:25:01">
+ <decision date="2024-11-28" number="" org=""/>
+ <url><![CDATA[http://www.vladimir.ru/forum/forum/thread/21196]]></url>
+ <domain><![CDATA[www.vladimir.ru]]></domain>
+ <ip>89.104.84.92</ip>
+</content>
+<content id="7703602" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="F49743C342602392042C3117FB6EB41F" ts="2024-12-11T19:25:01">
+ <decision date="2024-11-28" number="" org=""/>
+ <url><![CDATA[http://www.30characters.com/2024/07/17/купить-лицензию-охранника-и-диплом]]></url>
+ <domain><![CDATA[www.30characters.com]]></domain>
+ <ip>208.113.151.98</ip>
+</content>
+<content id="7703603" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="BFDAA4A46CECF93D0181C7AB74EC0F2A" ts="2024-12-11T19:25:01">
+ <decision date="2024-11-28" number="" org=""/>
+ <url><![CDATA[http://newsinweek.ru/kupit-diplom-ohrannika]]></url>
+ <domain><![CDATA[newsinweek.ru]]></domain>
+ <ip>176.57.70.156</ip>
+</content>
+<content id="7703604" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="6A0E8504E8F9FD5A018C1C739D7DBE94" ts="2024-12-11T19:25:01">
+ <decision date="2024-11-28" number="" org=""/>
+ <url><![CDATA[https://shtampik.com/photo/trudovuyu-knijku-so-stajem]]></url>
+ <domain><![CDATA[shtampik.com]]></domain>
+ <ip>104.21.78.36</ip>
+ <ip>172.67.215.186</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:4e24</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:d7ba</ipv6>
+</content>
+<content id="7703605" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="0C7F9253660BCB92110DB59847D6DC75" ts="2024-12-11T19:25:01">
+ <decision date="2024-11-28" number="" org=""/>
+ <url><![CDATA[https://idbo.ru/view/160681]]></url>
+ <domain><![CDATA[idbo.ru]]></domain>
+ <ip>79.99.50.158</ip>
+</content>
+<content id="7703606" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="08120A0E289EBEB4B7FDFF3BD338D5C4" ts="2024-12-11T19:25:01">
+ <decision date="2024-11-28" number="" org=""/>
+ <url><![CDATA[http://www.topelection.org/kupiv-trudovuyu-knizhku-so-stazhem-vjy-reshite-problemu-svoego-trudoustrojstva.html]]></url>
+ <domain><![CDATA[www.topelection.org]]></domain>
+ <ip>137.74.63.190</ip>
+</content>
+<content id="7703607" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="B2698E8E90FFE858F249DB8111A5D1E4" ts="2024-12-11T19:25:01">
+ <decision date="2024-11-28" number="" org=""/>
+ <url><![CDATA[http://www.gorodnet.com/c11m38m11417576.html]]></url>
+ <domain><![CDATA[www.gorodnet.com]]></domain>
+ <ip>109.74.198.240</ip>
+ <ipv6>2a01:7e00:0000:0000:f03c:91ff:fe89:e872</ipv6>
+</content>
+<content id="7703608" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="BD768741B4F04E995BAADE8D7B64F2F9" ts="2024-12-11T19:25:01">
+ <decision date="2024-12-03" number="" org=""/>
+ <url><![CDATA[https://ww16.hd-kinogo.co/32054-pozyvnoy-banderas-2018.html]]></url>
+ <domain><![CDATA[ww16.hd-kinogo.co]]></domain>
+ <ip>104.21.58.32</ip>
+ <ip>172.67.199.121</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3a20</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:c779</ipv6>
+</content>
+<content id="7703609" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="290B0AF3A94EEEF5B7D92D244BC1F67F" ts="2024-12-11T19:25:01">
+ <decision date="2024-12-03" number="" org=""/>
+ <url><![CDATA[https://ld12.filmlodd3.xyz/films/36219-pozyvnoj-banderas.html?utm_referrer=https%3A%2F%2Fyandex.ru%2Fsearch%2F%3Ftext%3D%25D0%25BF%25D0%25BE%25D0%25B7%25D1%258B%25D0%25B2%25D0%25BD%25D0%25BE%25D0%25B9%2B%25D0%25B1%25D0%25B0%25D0%25BD%25D0%25B4%25D0%25B5%25D1%2580%25D0%25B0%25D1%2581%2B%25D1%2581%25D0%25BC%25D0%25BE%25D1%2582%25D1%2580%25D0%25B5%25D1%2582%25D1%258C%2B%25D0%25BE%25D0%25BD%25D0%25BB%25D0%25B0%25D0%25B9%25D0%25BD%26lr%3D213%26clid%3D2278637%26win%3D668]]></url>
+ <domain><![CDATA[ld12.filmlodd3.xyz]]></domain>
+ <ip>104.21.12.154</ip>
+ <ip>172.67.132.45</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:0c9a</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:842d</ipv6>
+</content>
+<content id="7703610" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="2F303A43F32AC858CC97935D397625EA" ts="2024-12-11T19:25:01">
+ <decision date="2024-12-03" number="" org=""/>
+ <url><![CDATA[https://voenfilmy.ru/106-cherkassy.html]]></url>
+ <domain><![CDATA[voenfilmy.ru]]></domain>
+ <ip>81.91.178.150</ip>
+</content>
+<content id="7703611" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="D646BBF19FC8EC6CC75D4C561D13F641" ts="2024-12-11T19:25:01">
+ <decision date="2024-12-03" number="" org=""/>
+ <url><![CDATA[https://voenfilmy.ru/639-donbass-2018.html]]></url>
+ <domain><![CDATA[voenfilmy.ru]]></domain>
+ <ip>81.91.178.150</ip>
+</content>
+<content id="7703612" includeTime="2024-12-11T19:25:01" urgencyType="1" entryType="3" hash="DD57B0323C8CB398CCE0D064026EB687" ts="2024-12-11T19:25:01">
+ <decision date="2024-12-09" number="" org=""/>
+ <url><![CDATA[https://www.patreon.com/FAR_]]></url>
+ <domain><![CDATA[www.patreon.com]]></domain>
+ <ip>104.16.24.14</ip>
+ <ip>104.16.25.14</ip>
+ <ipv6>2606:4700:0000:0000:0000:0000:6810:180e</ipv6>
+ <ipv6>2606:4700:0000:0000:0000:0000:6810:190e</ipv6>
 </content>
 </reg:register>
