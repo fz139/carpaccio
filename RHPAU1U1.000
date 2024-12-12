@@ -7102,15 +7102,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6783224" includeTime="2024-03-04T15:40:04" entryType="1" hash="E99E471EDAB63D9BC214236399BF0A65" ts="2024-03-04T15:40:04">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://pochki-med.ru/kak-mozhno-kupit-gashish.html]]></url>
- <domain><![CDATA[pochki-med.ru]]></domain>
- <ip>104.21.54.117</ip>
- <ip>172.67.138.121</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:8a79</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:3675</ipv6>
-</content>
 <content id="6783228" includeTime="2024-03-04T15:40:04" entryType="1" hash="83D3135BB526993D6F7133F7A834B6EC" blockType="domain" ts="2024-03-04T15:40:04">
  <decision date="2024-03-01" number="2427932-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[gaykrasnodar.site]]></domain>
@@ -7603,6 +7594,11 @@
  <decision date="2024-03-01" number="2024-02-29-6126-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[виагра54.рф]]></domain>
  <ip>198.50.246.190</ip>
+</content>
+<content id="6783391" includeTime="2024-12-12T13:45:02" entryType="1" hash="C82C3A36E7EB145D23B091C325854E13" blockType="domain" ts="2024-12-12T13:45:02">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[xn--krken4-x0a.com]]></domain>
+ <ip>94.156.105.115</ip>
 </content>
 <content id="6783398" includeTime="2024-03-04T15:40:04" entryType="1" hash="E35DC3A6EE024BFFAD9C81AEF5BF5169" blockType="domain-mask" ts="2024-03-04T15:40:04">
  <decision date="2024-03-01" number="2024-02-29-8256" org="МВД"/>
