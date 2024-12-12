@@ -3392,12 +3392,16 @@
  <ip>104.21.82.216</ip>
  <ip>172.67.164.4</ip>
 </content>
-<content id="7608854" includeTime="2024-11-14T01:10:03" entryType="1" hash="4E8379FD46811293264B32B4C1B4B059" ts="2024-11-14T01:10:03">
+<content id="7608854" includeTime="2024-11-14T01:10:03" entryType="1" hash="E17A7483943EEE8A0BE7FBB49EFCC4A4" ts="2024-12-12T23:55:04">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://moskovskaya-akademiya-predprinimatelstva.ru/kra18-at.html]]></url>
  <domain><![CDATA[moskovskaya-akademiya-predprinimatelstva.ru]]></domain>
+ <ip>104.21.75.108</ip>
+ <ip>172.67.221.90</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:dd5a</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:4b6c</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -4212,6 +4216,14 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7609015" includeTime="2024-12-13T00:25:03" entryType="1" hash="6FC41C4490C2B059457B1BD50EB15F75" blockType="domain" ts="2024-12-13T00:25:03">
+ <decision date="2024-11-11" number="2836104-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[m11.tytgay.xyz]]></domain>
+ <ip>104.21.18.128</ip>
+ <ip>172.67.181.216</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:b5d8</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:1280</ipv6>
 </content>
 <content id="7609016" includeTime="2024-11-12T13:50:02" entryType="1" hash="A53D0B87176300FF6A9D485F0890FF44" blockType="domain-mask" ts="2024-11-28T16:20:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -7664,6 +7676,18 @@
  <ip>172.67.190.72</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:be48</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:5451</ipv6>
+</content>
+<content id="7609702" includeTime="2024-12-13T00:25:03" entryType="1" hash="995F02B8A30F44641CDBB4AA9F8ED5ED" blockType="domain" ts="2024-12-13T00:25:03">
+ <decision date="2024-11-11" number="2836101-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[a9.pitertyt.xyz]]></domain>
+ <ip>104.21.48.29</ip>
+ <ip>172.67.176.37</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:301d</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:b025</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7609703" includeTime="2024-11-12T13:50:02" entryType="1" hash="EB9F6FB208AC0CCFA80256264C2FD198" blockType="domain-mask" ts="2024-11-12T13:50:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
