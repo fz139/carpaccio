@@ -1949,6 +1949,14 @@
  <domain><![CDATA[*.1weuih.top]]></domain>
  <ip>186.2.162.102</ip>
 </content>
+<content id="7683550" includeTime="2024-12-13T23:25:02" entryType="1" hash="BBE360E7F7EC1B68661FBB5D5D50C33C" blockType="domain" ts="2024-12-13T23:25:02">
+ <decision date="2024-12-05" number="2877271-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[hentaimood.me]]></domain>
+ <ip>104.21.34.60</ip>
+ <ip>172.67.155.34</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:9b22</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:223c</ipv6>
+</content>
 <content id="7683551" includeTime="2024-12-06T00:30:02" entryType="1" hash="D0A13399A3851AE29606847F6A97FF53" blockType="domain-mask" ts="2024-12-06T00:30:02">
  <decision date="2024-11-25" number="2-6-14/2024-11-23-2266-АИ" org="ФНС"/>
  <domain><![CDATA[*.1wfamw.top]]></domain>
@@ -2137,6 +2145,11 @@
  <ip>172.67.208.204</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:1726</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d0cc</ipv6>
+</content>
+<content id="7683587" includeTime="2024-12-13T23:25:02" entryType="1" hash="71D921822F34B39E7F1EB2BAA9C56B37" blockType="domain-mask" ts="2024-12-13T23:25:02">
+ <decision date="2024-12-05" number="2876632-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.animemobi.ru]]></domain>
+ <ip>104.28.6.67</ip>
 </content>
 <content id="7683588" includeTime="2024-12-06T00:30:02" entryType="1" hash="F669653870807945E4410E89F2D486F1" blockType="domain-mask" ts="2024-12-06T00:30:02">
  <decision date="2024-11-25" number="2-6-14/2024-11-23-2048-АИ" org="ФНС"/>
