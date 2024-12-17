@@ -3328,9 +3328,9 @@
  <ip>104.21.49.196</ip>
  <ip>172.67.166.200</ip>
 </content>
-<content id="5281300" includeTime="2023-01-12T13:58:25" entryType="1" hash="D21FD8418A4F438EFD615B7848DAC705" blockType="domain" ts="2024-12-17T14:00:03">
+<content id="5281300" includeTime="2023-01-12T13:58:25" entryType="1" hash="B6A4249F267038A24223BDF43D9E4B07" blockType="domain-mask" ts="2024-12-18T00:15:03">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[prom-metallolom.ru]]></domain>
+ <domain><![CDATA[*.prom-metallolom.ru]]></domain>
  <ip>104.21.27.183</ip>
  <ip>104.21.81.192</ip>
  <ip>172.67.169.157</ip>
