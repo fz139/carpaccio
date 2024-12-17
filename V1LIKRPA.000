@@ -8741,6 +8741,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5a0d</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c14e</ipv6>
 </content>
+<content id="7699956" includeTime="2024-12-17T15:10:04" entryType="1" hash="8AD59866A78C3966362E36AF1E4D4186" blockType="domain-mask" ts="2024-12-17T15:10:04">
+ <decision date="2024-12-10" number="2885910-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.freedubstudio.club]]></domain>
+ <ip>104.21.12.115</ip>
+ <ip>172.67.152.70</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:9846</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:0c73</ipv6>
+</content>
 <content id="7699957" includeTime="2024-12-10T23:45:03" entryType="1" hash="65DC62DE580BB71F79AC17CD89E73DB6" blockType="domain-mask" ts="2024-12-10T23:45:03">
  <decision date="2024-11-05" number="2-6-14/2024-06-11-7477-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.cryptobosscasino13.online]]></domain>
@@ -11125,6 +11133,11 @@
  <decision date="2024-11-25" number="2-6-14/2024-11-23-6574-АИ" org="ФНС"/>
  <domain><![CDATA[*.1wiavo.life]]></domain>
  <ip>186.2.162.102</ip>
+</content>
+<content id="7700714" includeTime="2024-12-17T15:10:04" entryType="1" hash="16032E42888BF6ADCBD3AD8C42E9AEDF" blockType="domain" ts="2024-12-17T15:10:04">
+ <decision date="2024-12-09" number="2а-840/2024" org="Палласовский районный суд - Волгоградская область"/>
+ <domain><![CDATA[tobacco82.ru]]></domain>
+ <ip>104.28.6.67</ip>
 </content>
 <content id="7700716" includeTime="2024-12-12T08:00:04" entryType="1" hash="14CAF21A0F451173FA166B0DAD2ECC3C" blockType="domain-mask" ts="2024-12-12T08:00:04">
  <decision date="2024-11-25" number="2-6-14/2024-11-23-9427-АИ" org="ФНС"/>
