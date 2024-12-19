@@ -4574,9 +4574,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:18fb</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:dd40</ipv6>
 </content>
-<content id="7720273" includeTime="2024-12-17T15:10:04" entryType="1" hash="1671D747F42E412C0F827B1E34D42604" blockType="domain" ts="2024-12-17T15:10:04">
+<content id="7720273" includeTime="2024-12-17T15:10:04" entryType="1" hash="28BF56081B7A31A6000E2C65BB3191CC" blockType="domain-mask" ts="2024-12-19T07:10:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[class-bz.ru]]></domain>
+ <domain><![CDATA[*.class-bz.ru]]></domain>
  <ip>104.21.69.211</ip>
  <ip>172.67.213.92</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d55c</ipv6>
