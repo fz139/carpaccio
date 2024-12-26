@@ -769,15 +769,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:41e8</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c241</ipv6>
 </content>
-<content id="6878242" includeTime="2024-03-27T22:50:03" entryType="1" hash="D10BE01A3669F2C45CB5D0ED39E20929" ts="2024-03-27T22:50:03">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://ericomp.ru/gde-mozhno-kupit-geroin.html]]></url>
- <domain><![CDATA[ericomp.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6878243" includeTime="2024-03-25T22:50:03" entryType="1" hash="35E47713145B350DBBA4D3A07ECFD2DA" blockType="domain-mask" ts="2024-03-25T22:50:03">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.exp-russia-2021.ru]]></domain>
@@ -2590,11 +2581,15 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6878903" includeTime="2024-03-26T13:50:03" entryType="1" hash="67A42A8D90E4E2A6143D544D0212B597" blockType="domain" ts="2024-03-26T13:50:03">
+<content id="6878903" includeTime="2024-03-26T13:50:03" entryType="1" hash="F2719CC6BFB55265E66D20E324064210" blockType="domain" ts="2024-12-26T13:20:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[m3ga.kz]]></domain>
+ <ip>104.21.66.209</ip>
+ <ip>172.67.164.94</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a45e</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:42d1</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
