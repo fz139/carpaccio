@@ -2202,9 +2202,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:48f9</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9bed</ipv6>
 </content>
-<content id="4735150" includeTime="2022-08-19T19:43:47" entryType="1" hash="A388907339CF7BA0D3851508A139710B" blockType="domain" ts="2024-02-07T11:20:04">
+<content id="4735150" includeTime="2022-08-19T19:43:47" entryType="1" hash="D166D5D239FB644474CDDD4257C982BA" blockType="domain-mask" ts="2024-12-28T13:00:04">
  <decision date="2022-08-18" number="1778480-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[porno-multiki.com]]></domain>
+ <domain><![CDATA[*.porno-multiki.com]]></domain>
  <ip>104.21.9.110</ip>
  <ip>172.67.159.195</ip>
  <ip>188.114.96.1</ip>
