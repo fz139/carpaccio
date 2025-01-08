@@ -9577,9 +9577,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7449833" includeTime="2024-09-27T18:40:02" urgencyType="1" entryType="3" hash="2CD3A0E505AE9958BB8600232DBB1C10" blockType="domain" ts="2024-09-27T18:40:02">
+<content id="7449833" includeTime="2024-09-27T18:40:02" urgencyType="1" entryType="3" hash="B1427D531355A0C1DA4FAFA76CD8982A" blockType="domain-mask" ts="2025-01-08T16:35:02">
  <decision date="2024-09-14" number="" org=""/>
- <domain><![CDATA[black-trade.sbs]]></domain>
+ <domain><![CDATA[*.black-trade.sbs]]></domain>
  <ip>104.21.43.120</ip>
  <ip>172.67.179.15</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:2b78</ipv6>
