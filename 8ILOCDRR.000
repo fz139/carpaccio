@@ -8223,6 +8223,14 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:dde1</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:4653</ipv6>
 </content>
+<content id="3012187" includeTime="2025-01-08T07:00:03" entryType="1" hash="FD0803190ED7364B6230E5FD19720FF3" blockType="domain-mask" ts="2025-01-08T07:00:03">
+ <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.brb24.biz]]></domain>
+ <ip>104.21.86.250</ip>
+ <ip>172.67.138.103</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:8a67</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:56fa</ipv6>
+</content>
 <content id="3012190" includeTime="2021-02-25T18:16:23" entryType="1" hash="48BB49DBD936EA59AD0BA2C2956814E8" blockType="domain" ts="2021-02-25T18:16:23">
  <decision date="2021-02-19" number="2021-02-08-4878" org="МВД"/>
  <domain><![CDATA[free-the-tree.com]]></domain>
