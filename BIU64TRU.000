@@ -268,9 +268,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:8223</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:031c</ipv6>
 </content>
-<content id="7760498" includeTime="2025-01-03T03:50:03" entryType="1" hash="5D2C7B38ABA20050DA7AB27150FC8069" blockType="domain" ts="2025-01-03T03:50:03">
+<content id="7760498" includeTime="2025-01-03T03:50:03" entryType="1" hash="86D76A2B08AF2E8C869D370CECA3C8B7" blockType="domain-mask" ts="2025-01-09T15:10:02">
  <decision date="2024-12-27" number="2920846-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[babezdoor.com]]></domain>
+ <domain><![CDATA[*.babezdoor.com]]></domain>
  <ip>104.21.39.112</ip>
  <ip>172.67.144.222</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:90de</ipv6>
@@ -8410,8 +8410,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5708</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:8b1e</ipv6>
 </content>
-<content id="7762103" includeTime="2025-01-03T03:50:03" entryType="1" hash="04BFF48C74890DCA0B85B1661CDFC887" blockType="domain" ts="2025-01-03T03:50:03">
+<content id="7762103" includeTime="2025-01-03T03:50:03" entryType="1" hash="CD69B9F8D8E4FD84DB01B6FC5EF66EE9" ts="2025-01-09T15:10:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://www.chemi696.biz/]]></url>
  <domain><![CDATA[www.chemi696.biz]]></domain>
  <ip>204.44.104.176</ip>
 </content>
@@ -12150,9 +12151,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:10f6</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d953</ipv6>
 </content>
-<content id="7763515" includeTime="2025-01-03T03:50:03" entryType="1" hash="05AE8A880D94DAC745CFD4C52ED5E3CB" blockType="domain" ts="2025-01-03T03:50:03">
+<content id="7763515" includeTime="2025-01-03T03:50:03" entryType="1" hash="53A26A627F4E7F1855307578AD3B96A4" blockType="domain-mask" ts="2025-01-09T15:10:02">
  <decision date="2024-12-28" number="2922551-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[rapbits.ru]]></domain>
+ <domain><![CDATA[*.rapbits.ru]]></domain>
  <ip>104.21.41.110</ip>
  <ip>172.67.164.112</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:296e</ipv6>
