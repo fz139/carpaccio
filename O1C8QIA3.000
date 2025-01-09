@@ -20500,6 +20500,11 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a3ab</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3192</ipv6>
 </content>
+<content id="7680183" includeTime="2025-01-09T15:45:02" entryType="1" hash="790284021D6DA9182BE3D27A9B01069F" blockType="domain-mask" ts="2025-01-09T15:45:02">
+ <decision date="2024-12-04" number="2875027-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.muchserial.ru]]></domain>
+ <ip>193.33.171.83</ip>
+</content>
 <content id="7680185" includeTime="2024-12-06T15:40:03" entryType="1" hash="760CA7E316383C05D5E21A844006F9CC" blockType="domain" ts="2024-12-06T15:40:03">
  <decision date="2024-12-04" number="2024-12-03-16491-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[g.igepacenter.ru]]></domain>
