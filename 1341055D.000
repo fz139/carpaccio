@@ -1145,14 +1145,6 @@
  <domain><![CDATA[biblioteka.org.ua]]></domain>
  <ip>88.99.6.25</ip>
 </content>
-<content id="6505546" includeTime="2023-11-20T09:20:05" entryType="1" hash="A7A09AECFD0406A17DA819C07481E3A4" blockType="domain" ts="2023-11-20T09:20:05">
- <decision date="2023-11-15" number="2а-4600/2023" org="Кировский районный суд г. Иркутска - Иркутская область"/>
- <domain><![CDATA[msktab.org]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6505548" includeTime="2023-11-20T13:35:04" entryType="1" hash="4F08AB8CABCB9E617B4348C4492F727C" blockType="domain-mask" ts="2024-11-07T17:40:03">
  <decision date="2023-11-10" number="2а-8169/2023" org="Ленинский районный суд г. Оренбурга - Оренбургская область"/>
  <domain><![CDATA[*.kalyan-4-you.ru]]></domain>
@@ -6582,16 +6574,20 @@
  <domain><![CDATA[*.nit.ovh]]></domain>
  <ip>46.166.185.162</ip>
 </content>
-<content id="6506863" includeTime="2023-11-24T22:15:04" entryType="1" hash="0E263E9CA0773853B66178F303C8936E" ts="2024-05-07T13:40:03">
+<content id="6506863" includeTime="2023-11-24T22:15:04" entryType="1" hash="7AF3002933503D505A64E581D0D92A95" ts="2025-01-14T15:35:01">
  <decision date="2020-08-18" number="2а-414/2020" org="Муравленковский городской суд - Ямало-Ненецкий автономный округ"/>
  <url><![CDATA[https://www.stopfake.org/ru/fotofejk-prazdnovanie-dnya-lvova-so-svastikoj/]]></url>
  <domain><![CDATA[www.stopfake.org]]></domain>
+ <ip>188.114.98.224</ip>
  <ip>188.114.98.233</ip>
  <ip>188.114.98.234</ip>
+ <ip>188.114.99.224</ip>
  <ip>188.114.99.233</ip>
  <ip>188.114.99.234</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
