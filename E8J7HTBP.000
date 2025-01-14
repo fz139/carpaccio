@@ -2835,7 +2835,7 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="1097105" includeTime="2018-09-14T18:19:51" entryType="1" hash="189EB88994F38958E8B9B9B48C9FC9D7" ts="2023-10-12T14:20:04">
+<content id="1097105" includeTime="2018-09-14T18:19:51" entryType="1" hash="B87432ED135CAB679DD6FD21F097579B" ts="2025-01-14T16:50:03">
  <decision date="2018-09-10" number="507407-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[http://tbib.org/samples/776/sample_6ec3dae860d06ec71b839ef6ef665b3a51655e71.jpg?775689]]></url>
  <domain><![CDATA[tbib.org]]></domain>
@@ -2845,10 +2845,14 @@
  <ip>104.21.234.125</ip>
  <ip>104.21.234.4</ip>
  <ip>104.21.234.5</ip>
+ <ip>104.21.88.140</ip>
  <ip>162.159.137.85</ip>
  <ip>162.159.138.85</ip>
+ <ip>172.67.180.124</ip>
  <ipv6>2606:4700:0007:0000:0000:0000:a29f:8955</ipv6>
  <ipv6>2606:4700:0007:0000:0000:0000:a29f:8a55</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:588c</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:b47c</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea04</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea05</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea66</ipv6>
@@ -4634,12 +4638,16 @@
  <domain><![CDATA[startre.cloudns.info]]></domain>
  <ip>163.172.171.83</ip>
 </content>
-<content id="1105673" includeTime="2018-09-21T17:55:56" entryType="1" hash="0512D9F99E3E35EBD001613DE76AF295" ts="2018-09-21T17:55:56">
+<content id="1105673" includeTime="2018-09-21T17:55:56" entryType="1" hash="0F3D53CCEE2B9DDD82617F97B24BE4ED" ts="2025-01-14T16:50:03">
  <decision date="2018-09-14" number="510285-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[http://www.tsumino.com/Book/Info/1392/secret-dog-god-kokoko-chan-]]></url>
  <domain><![CDATA[www.tsumino.com]]></domain>
  <ip>104.21.235.175</ip>
  <ip>104.21.235.176</ip>
+ <ip>104.21.3.171</ip>
+ <ip>172.67.130.248</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:03ab</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:82f8</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ebaf</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ebb0</ipv6>
 </content>
