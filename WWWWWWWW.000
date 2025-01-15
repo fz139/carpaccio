@@ -2039,6 +2039,25 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:197d</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:863b</ipv6>
 </content>
+<content id="7811618" includeTime="2025-01-15T11:50:02" urgencyType="1" entryType="3" hash="C2C5E3C26D014DB9F7FD08DFD831053F" blockType="domain-mask" ts="2025-01-15T11:50:02">
+ <decision date="2025-01-14" number="" org=""/>
+ <domain><![CDATA[*.mariuver.com]]></domain>
+ <ip>192.0.78.173</ip>
+ <ip>192.0.78.244</ip>
+</content>
+<content id="7811619" includeTime="2025-01-15T11:50:02" urgencyType="1" entryType="3" hash="0ED4A73421FCC5015493F5E6F754FB1C" blockType="domain-mask" ts="2025-01-15T11:50:02">
+ <decision date="2025-01-13" number="" org=""/>
+ <domain><![CDATA[*.new-hope.foundation]]></domain>
+ <ip>178.62.211.210</ip>
+</content>
+<content id="7811620" includeTime="2025-01-15T11:50:02" urgencyType="1" entryType="3" hash="B0BD8D116EA4F4D55E82F224D7290583" blockType="domain-mask" ts="2025-01-15T11:50:02">
+ <decision date="2025-01-14" number="" org=""/>
+ <domain><![CDATA[*.russian-volcorps.com]]></domain>
+ <ip>104.21.60.52</ip>
+ <ip>172.67.192.113</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3c34</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:c071</ipv6>
+</content>
 <content id="7811622" includeTime="2025-01-15T00:30:03" entryType="1" hash="88383F4EEA6271FB1E10AB35B29ADF1C" blockType="domain-mask" ts="2025-01-15T00:30:03">
  <decision date="2024-11-18" number="2-6-14/2024-11-17-7396-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.admiral-x-wah.ru]]></domain>
@@ -4952,5 +4971,51 @@
  <ip>172.67.134.233</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0697</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:86e9</ipv6>
+</content>
+<content id="7813020" includeTime="2025-01-15T11:50:02" urgencyType="1" entryType="3" hash="A061B6391DBD9A449BF62C423BCCB4F0" ts="2025-01-15T11:50:02">
+ <decision date="2024-12-26" number="" org=""/>
+ <url><![CDATA[https://forum-b.ru/viewtopic.php?id=27687]]></url>
+ <domain><![CDATA[forum-b.ru]]></domain>
+ <ip>104.21.42.81</ip>
+ <ip>172.67.203.97</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:2a51</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:cb61</ipv6>
+</content>
+<content id="7813021" includeTime="2025-01-15T11:50:02" urgencyType="1" entryType="3" hash="4D1A34474C680B59C1190A123DA5F3BE" ts="2025-01-15T11:50:02">
+ <decision date="2024-12-26" number="" org=""/>
+ <url><![CDATA[https://talk.hyipinvest.net/threads/118614]]></url>
+ <domain><![CDATA[talk.hyipinvest.net]]></domain>
+ <ip>104.21.59.111</ip>
+ <ip>172.67.175.157</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:3b6f</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:af9d</ipv6>
+</content>
+<content id="7813022" includeTime="2025-01-15T11:50:02" urgencyType="1" entryType="3" hash="3AE3F013048129A95796F321AC92A1D0" ts="2025-01-15T11:50:02">
+ <decision date="2024-12-26" number="" org=""/>
+ <url><![CDATA[https://tekhosmotr24.com/tehosmotr-bez-pokaza-transportnogo-sredstva.html]]></url>
+ <domain><![CDATA[tekhosmotr24.com]]></domain>
+ <ip>104.21.18.104</ip>
+ <ip>172.67.181.149</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:1268</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:b595</ipv6>
+</content>
+<content id="7813023" includeTime="2025-01-15T11:50:02" urgencyType="1" entryType="3" hash="5AB6B108A4D0729277D11582026FE551" ts="2025-01-15T11:50:02">
+ <decision date="2024-12-26" number="" org=""/>
+ <url><![CDATA[https://carlaw.su/epts]]></url>
+ <domain><![CDATA[carlaw.su]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="7813024" includeTime="2025-01-15T11:50:02" urgencyType="1" entryType="3" hash="53F6767E05CBDD1ADF9CA5D766B3BA8F" ts="2025-01-15T11:50:02">
+ <decision date="2024-12-26" number="" org=""/>
+ <url><![CDATA[https://kartagto.ru/to]]></url>
+ <domain><![CDATA[kartagto.ru]]></domain>
+ <ip>5.63.158.160</ip>
+</content>
+<content id="7813025" includeTime="2025-01-15T11:50:02" urgencyType="1" entryType="3" hash="8F61E1D833472683B74FB8075EF4D6D5" ts="2025-01-15T11:50:02">
+ <decision date="2024-12-26" number="" org=""/>
+ <url><![CDATA[https://travelpassportss.com/ru/]]></url>
+ <domain><![CDATA[travelpassportss.com]]></domain>
+ <ip>195.35.15.191</ip>
+ <ipv6>2a02:4780:000b:1320:0000:1021:57b0:0004</ipv6>
 </content>
 </reg:register>
