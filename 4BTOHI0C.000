@@ -14834,9 +14834,9 @@
  <ip>203.23.103.136</ip>
  <ipv6>2a07:0180:0822:1692:e605:4845:7667:367b</ipv6>
 </content>
-<content id="3619127" includeTime="2021-09-28T13:09:52" entryType="1" hash="DC19DD4C67FFE2CA0C94C8C5225EDE82" blockType="domain" ts="2025-01-20T12:10:03">
+<content id="3619127" includeTime="2021-09-28T13:09:52" entryType="1" hash="A9AE3801BDCD1DAC70916738271D35CF" blockType="domain-mask" ts="2025-01-20T13:35:01">
  <decision date="2021-09-09" number="2021-09-08-1533-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[generic-spb.ru]]></domain>
+ <domain><![CDATA[*.generic-spb.ru]]></domain>
  <ip>104.21.84.4</ip>
  <ip>172.67.184.8</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b808</ipv6>

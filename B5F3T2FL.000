@@ -6656,9 +6656,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:978d</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:58af</ipv6>
 </content>
-<content id="7091034" includeTime="2024-06-04T00:25:02" entryType="1" hash="6483212E4E55067133678B2755826E51" blockType="domain" ts="2025-01-20T11:40:02">
+<content id="7091034" includeTime="2024-06-04T00:25:02" entryType="1" hash="2D296AE3E895025E36487221704B1142" blockType="domain-mask" ts="2025-01-20T13:35:01">
  <decision date="2024-05-31" number="2565846-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[777.porn]]></domain>
+ <domain><![CDATA[*.777.porn]]></domain>
  <ip>104.21.28.75</ip>
  <ip>172.67.144.187</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1c4b</ipv6>

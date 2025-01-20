@@ -7432,9 +7432,9 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
-<content id="7344302" includeTime="2024-08-23T15:05:03" entryType="1" hash="CC89E6D866FEF0517E65488A6004118E" blockType="domain" ts="2024-08-23T15:05:03">
+<content id="7344302" includeTime="2024-08-23T15:05:03" entryType="1" hash="234D2DA1439C8F9EA1CEB79CD9808161" blockType="domain-mask" ts="2025-01-20T13:35:01">
  <decision date="2024-08-21" number="2707224-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[on-printer.ru]]></domain>
+ <domain><![CDATA[*.on-printer.ru]]></domain>
  <ip>104.21.84.122</ip>
  <ip>172.67.192.108</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:c06c</ipv6>

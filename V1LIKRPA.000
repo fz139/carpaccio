@@ -6548,9 +6548,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:0eee</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:a0c7</ipv6>
 </content>
-<content id="7699555" includeTime="2024-12-13T00:25:03" entryType="1" hash="9828B0A5150C0569DCC775465E60F745" blockType="domain" ts="2024-12-13T00:25:03">
+<content id="7699555" includeTime="2024-12-13T00:25:03" entryType="1" hash="0A4A3976C9BF33083BA84EDCA64F1AAA" blockType="domain-mask" ts="2025-01-20T13:35:01">
  <decision date="2024-12-10" number="2885363-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[avklips.ru]]></domain>
+ <domain><![CDATA[*.avklips.ru]]></domain>
  <ip>104.21.63.42</ip>
  <ip>172.67.143.17</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3f2a</ipv6>
@@ -8337,9 +8337,9 @@
  <ip>18.165.140.74</ip>
  <ip>18.165.140.96</ip>
 </content>
-<content id="7699884" includeTime="2024-12-12T13:45:02" entryType="1" hash="0216231256C6ABD7A12ED1251CC789E5" blockType="domain" ts="2025-01-20T11:10:02">
+<content id="7699884" includeTime="2024-12-12T13:45:02" entryType="1" hash="1C86457895733877AB6F6F6EE0FBA46C" blockType="domain-mask" ts="2025-01-20T13:35:01">
  <decision date="2024-12-10" number="2886178-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[twatis.com]]></domain>
+ <domain><![CDATA[*.twatis.com]]></domain>
  <ip>104.21.14.146</ip>
  <ip>104.21.235.55</ip>
  <ip>104.21.235.56</ip>
