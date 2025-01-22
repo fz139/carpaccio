@@ -1644,14 +1644,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7547299" includeTime="2024-10-23T14:10:03" entryType="1" hash="2CB45F208F05D126F7E4C4961224870B" blockType="domain" ts="2024-10-23T14:10:03">
- <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[bronnitsy.gashish-gashish.online]]></domain>
- <ip>104.21.19.82</ip>
- <ip>172.67.185.171</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:1352</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:b9ab</ipv6>
-</content>
 <content id="7547300" includeTime="2024-10-22T23:00:02" entryType="1" hash="C42061444C1587C9E16052EABE90EB83" blockType="domain-mask" ts="2024-10-22T23:00:02">
  <decision date="2024-10-15" number="2-6-14/2024-10-15-5777-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vavada-casino-pxy.top]]></domain>
@@ -14948,11 +14940,15 @@
  <ip>104.21.8.75</ip>
  <ip>172.67.156.237</ip>
 </content>
-<content id="7551772" includeTime="2024-10-25T14:40:02" entryType="1" hash="5177849CE585BA2939167551FB421CA8" blockType="domain" ts="2024-10-25T14:40:02">
+<content id="7551772" includeTime="2024-10-25T14:40:02" entryType="1" hash="AA88BF5BDE59D29E5982833397BEC7E3" blockType="domain" ts="2025-01-22T15:45:03">
  <decision date="2024-10-23" number="2809916-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[fsicomics.com]]></domain>
+ <ip>104.21.85.49</ip>
+ <ip>172.67.202.118</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:5531</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:ca76</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>

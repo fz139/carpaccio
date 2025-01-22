@@ -494,6 +494,14 @@
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:ab4e</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2f8b</ipv6>
 </content>
+<content id="7808451" includeTime="2025-01-22T15:15:02" entryType="1" hash="69FBCAD328D0C71ECDF00341B3FE2625" blockType="domain-mask" ts="2025-01-22T15:15:02">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.ural19.ru]]></domain>
+ <ip>104.21.21.155</ip>
+ <ip>172.67.199.84</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:c754</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:159b</ipv6>
+</content>
 <content id="7808455" includeTime="2025-01-14T07:10:03" entryType="1" hash="23D3AE976C613BC386A436060C5ED44A" blockType="domain-mask" ts="2025-01-14T07:10:03">
  <decision date="2024-11-29" number="2-6-14/2024-11-28-11608-АИ" org="ФНС"/>
  <domain><![CDATA[*.1wqtyh.top]]></domain>
