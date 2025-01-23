@@ -10964,9 +10964,9 @@
  <domain><![CDATA[novosibirsk.viagraclub.ru]]></domain>
  <ip>145.239.23.7</ip>
 </content>
-<content id="3101108" includeTime="2021-03-26T13:14:30" entryType="1" hash="2A7F6DC55A9763D732B067156C0CC132" blockType="domain" ts="2021-03-26T13:14:30">
+<content id="3101108" includeTime="2021-03-26T13:14:30" entryType="1" hash="C65287C957A8ED4ADA0C6A81D66FC0F1" blockType="domain-mask" ts="2025-01-23T13:10:03">
  <decision date="2021-03-22" number="2021-03-20-370-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[ruanabol.org]]></domain>
+ <domain><![CDATA[*.ruanabol.org]]></domain>
  <ip>193.233.63.210</ip>
 </content>
 <content id="3101157" includeTime="2021-03-26T13:14:30" entryType="1" hash="373D21DB0B1B03BA22AF24DFB1BD328A" blockType="domain" ts="2024-04-25T12:25:03">
@@ -19049,15 +19049,19 @@
  <domain><![CDATA[pacap-diffusion.com]]></domain>
  <ip>146.88.234.116</ip>
 </content>
-<content id="3125115" includeTime="2021-04-02T13:32:45" entryType="1" hash="3A136C9C4F0F320C5A129FE7D05DE823" blockType="domain" ts="2021-04-02T13:32:45">
+<content id="3125115" includeTime="2021-04-02T13:32:45" entryType="1" hash="E8A7A36A709ECCD23BE6232E46672C68" blockType="domain" ts="2025-01-23T13:10:03">
  <decision date="2021-03-29" number="2021-03-29-175-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[a.ruanabol.org]]></domain>
+ <ip>104.21.66.176</ip>
  <ip>104.26.6.8</ip>
  <ip>104.26.7.8</ip>
+ <ip>172.67.206.69</ip>
  <ip>172.67.70.159</ip>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0608</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:681a:0708</ipv6>
  <ipv6>2606:4700:0020:0000:0000:0000:ac43:469f</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:42b0</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:ce45</ipv6>
 </content>
 <content id="3125145" includeTime="2021-04-02T13:32:46" entryType="1" hash="793EDCA922D538E175A06BA6A1CD6FBC" blockType="domain" ts="2021-04-02T13:32:46">
  <decision date="2021-03-29" number="2021-03-29-571" org="МВД"/>
