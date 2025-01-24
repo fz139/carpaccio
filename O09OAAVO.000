@@ -18287,11 +18287,15 @@
  <ip>104.21.91.85</ip>
  <ip>172.67.214.48</ip>
 </content>
-<content id="7022780" includeTime="2024-05-20T13:55:03" entryType="1" hash="BB26D8B947A671F70CDA8911E3E8143E" blockType="domain" ts="2024-05-20T13:55:03">
+<content id="7022780" includeTime="2024-05-20T13:55:03" entryType="1" hash="CC8FB141393C9A587823FBC5BEAB8E7E" blockType="domain-mask" ts="2025-01-24T13:40:03">
  <decision date="2024-05-16" number="2024-05-15-8489-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[johnny-shop.info]]></domain>
+ <domain><![CDATA[*.johnny-shop.info]]></domain>
+ <ip>104.21.62.67</ip>
+ <ip>172.67.221.13</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:dd0d</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:3e43</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>

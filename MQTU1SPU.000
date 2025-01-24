@@ -5506,11 +5506,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d1b7</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:2d33</ipv6>
 </content>
-<content id="3845636" includeTime="2021-12-08T13:28:36" entryType="1" hash="7AC778795DB37C109A8BAA9F713526DD" blockType="domain" ts="2021-12-08T13:28:36">
- <decision date="2021-11-23" number="2а-1358/2021" org="Краснокамский межрайонный суд - Республика Башкортостан"/>
- <domain><![CDATA[xx.putany-ufa.club]]></domain>
- <ip>167.71.3.80</ip>
-</content>
 <content id="3845639" includeTime="2021-12-06T22:19:50" entryType="1" hash="8D194CADA5055EA5C398CB19563BE7B2" blockType="domain-mask" ts="2021-12-06T22:19:50">
  <decision date="2021-12-06" number="2-6-18/2021-08-16-2698-АИ" org="ФНС"/>
  <domain><![CDATA[*.igrovyeavtomaty2021.com]]></domain>
@@ -6845,6 +6840,11 @@
  <ip>172.67.210.145</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:45ab</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d291</ipv6>
+</content>
+<content id="3848139" includeTime="2025-01-24T14:40:03" entryType="1" hash="ADD9E972086B55A2FCBE81B465538442" blockType="domain" ts="2025-01-24T14:40:03">
+ <decision date="2021-12-07" number="2021-12-04-577-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[mentab.ru]]></domain>
+ <ip>45.83.122.210</ip>
 </content>
 <content id="3848146" includeTime="2021-12-07T19:01:51" entryType="1" hash="63FE79476E9BBA16523396744639390A" blockType="domain-mask" ts="2021-12-07T19:01:51">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
