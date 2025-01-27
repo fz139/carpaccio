@@ -4865,6 +4865,27 @@
  <domain><![CDATA[www.vartv.online]]></domain>
  <ip>117.55.203.103</ip>
 </content>
+<content id="7842796" includeTime="2025-01-27T10:45:02" entryType="1" hash="43FF5BAF82CD1A18FD3EAACA030EE400" blockType="domain" ts="2025-01-27T10:45:02">
+ <decision date="2025-01-24" number="2955167-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[hd1.lordfilm-1.pics]]></domain>
+ <ip>104.21.2.104</ip>
+ <ip>172.67.129.21</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:8115</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:0268</ipv6>
+</content>
+<content id="7842797" includeTime="2025-01-27T10:45:02" entryType="1" hash="AE84FCE74B1AF24314C995D95D04A1E6" blockType="domain" ts="2025-01-27T10:45:02">
+ <decision date="2025-01-24" number="2955157-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[z15.seriez.pro]]></domain>
+ <ip>104.21.18.175</ip>
+ <ip>172.67.182.208</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b6d0</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:12af</ipv6>
+</content>
+<content id="7842798" includeTime="2025-01-27T10:45:02" entryType="1" hash="49B8C4A233087596BDD1341881ADDCAE" blockType="domain-mask" ts="2025-01-27T10:45:02">
+ <decision date="2025-01-24" number="2955156-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.kiberserial.org]]></domain>
+ <ip>45.147.197.190</ip>
+</content>
 <content id="7842799" includeTime="2025-01-24T19:20:02" urgencyType="1" entryType="3" hash="66F310CA32048FF9881724C1BC6CFA89" ts="2025-01-24T19:20:02">
  <decision date="2025-01-09" number="" org=""/>
  <url><![CDATA[https://domashniy-recepti.ru/book/pochemu-prava-kupit-vygodnee-chem-sdavat-ekzamen]]></url>
