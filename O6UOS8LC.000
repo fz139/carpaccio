@@ -624,6 +624,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:b889</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:540c</ipv6>
 </content>
+<content id="5724844" includeTime="2025-01-30T16:15:03" entryType="1" hash="F02BA82537B32189B1CC848FB534FDB5" blockType="domain-mask" ts="2025-01-30T16:15:03">
+ <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.gripmen.ru]]></domain>
+ <ip>104.21.23.34</ip>
+ <ip>172.67.208.200</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:d0c8</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:1722</ipv6>
+</content>
 <content id="5724847" includeTime="2023-04-26T13:46:37" entryType="1" hash="2B69C0581BCFDA75BD93C2D06EF7B8B3" blockType="domain" ts="2023-04-26T13:46:37">
  <decision date="2023-04-04" number="2а-119/2023 ~ М-70/2023" org="Нестеровский районный суд - Калининградская область"/>
  <domain><![CDATA[spravka-003.moscow]]></domain>
