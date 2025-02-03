@@ -2099,19 +2099,6 @@
  <domain><![CDATA[cannabits.net]]></domain>
  <ip>82.221.141.31</ip>
 </content>
-<content id="180015" includeTime="2015-04-29T16:48:29" entryType="1" hash="5F0A3C50627F7607D934561B68C1FDCB" blockType="domain" ts="2024-04-17T13:20:03">
- <decision date="2015-04-21" number="2/1/11-36458" org="ФСКН"/>
- <domain><![CDATA[klad2.biz]]></domain>
- <ip>188.114.98.224</ip>
- <ip>188.114.98.234</ip>
- <ip>188.114.99.224</ip>
- <ip>188.114.99.234</ip>
- <ip>93.113.175.15</ip>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
 <content id="180105" includeTime="2015-04-29T16:48:29" entryType="1" hash="DCE90DD6DBD15C39D26A795F78B9D93A" ts="2025-01-14T16:20:04">
  <decision date="2015-04-22" number="58642-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[http://gelbooru.com/index.php?page=post&s=view&id=691881]]></url>
@@ -4247,6 +4234,11 @@
  <url><![CDATA[http://www.youtube.com/watch?v=Jd5q_fN0Ph8]]></url>
  <domain><![CDATA[www.youtube.com]]></domain>
  <ip>74.125.196.132</ip>
+</content>
+<content id="219505" includeTime="2025-02-03T15:00:03" entryType="1" hash="AC705915AE6A07BC0109C3A2EE687332" blockType="domain-mask" ts="2025-02-03T15:00:03">
+ <decision date="2015-03-12" number="2-1462/15" org="Ленинский районный суд г. Самары - Самарская область"/>
+ <domain><![CDATA[*.sexkompas.net]]></domain>
+ <ip>178.16.125.87</ip>
 </content>
 <content id="219629" includeTime="2015-08-04T17:32:24" entryType="1" hash="D8769498D03DEBFC0C5D938CFE00258B" ts="2015-08-04T17:32:24">
  <decision date="2014-09-15" number="2-690/2014" org="Урайский городской суд Ханты-Мансийского автономного округа - Югры"/>
