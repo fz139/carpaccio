@@ -143,6 +143,25 @@
  <domain><![CDATA[r_1.kino-ok3.sbs]]></domain>
  <ip>104.21.35.144</ip>
 </content>
+<content id="7732037" includeTime="2025-02-04T17:25:02" entryType="1" hash="012210E96212990E993CBCC3ECD2CE41" ts="2025-02-04T17:25:02">
+ <decision date="2024-12-17" number="2024-12-16-8986-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://p.wpharmamixx.ru/]]></url>
+ <domain><![CDATA[p.wpharmamixx.ru]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
 <content id="7732040" includeTime="2024-12-20T13:45:03" entryType="1" hash="500C3861E30C2197626ABB470FE69109" blockType="domain" ts="2024-12-20T13:45:03">
  <decision date="2024-12-16" number="2024-12-10-2589" org="МВД"/>
  <domain><![CDATA[helpex24.ru.atlaq.com]]></domain>
@@ -240,12 +259,6 @@
  <ip>172.67.206.202</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3506</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:ceca</ipv6>
-</content>
-<content id="7732059" includeTime="2024-12-20T13:45:03" entryType="1" hash="F3AEF6893CCA89458E0E3C8728EBD337" blockType="domain" ts="2024-12-20T13:45:03">
- <decision date="2024-12-11" number="2а-2135/2024" org="Савеловский районный суд - Москва"/>
- <domain><![CDATA[pkk365.net]]></domain>
- <ip>104.21.43.213</ip>
- <ip>172.67.185.231</ip>
 </content>
 <content id="7732060" includeTime="2024-12-20T13:45:03" entryType="1" hash="26DEDCD68F04DF6D5D36A364323A7637" ts="2024-12-20T13:45:03">
  <decision date="2024-12-18" number="2902848-URL-on" org="Роскомнадзор"/>
@@ -802,14 +815,6 @@
  <ip>172.67.161.28</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:a11c</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:517c</ipv6>
-</content>
-<content id="7732224" includeTime="2024-12-20T13:45:03" entryType="1" hash="8F52B829D213330215E71538B97A1E49" blockType="domain" ts="2024-12-20T13:45:03">
- <decision date="2024-12-11" number="2а-2135/2024" org="Савеловский районный суд - Москва"/>
- <domain><![CDATA[ru.kartagos.com]]></domain>
- <ip>104.21.39.234</ip>
- <ip>172.67.171.213</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:abd5</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:27ea</ipv6>
 </content>
 <content id="7732225" includeTime="2024-12-20T13:45:03" entryType="1" hash="C3E2C82D86D9763FCD4668AAEC72915A" blockType="domain" ts="2024-12-20T13:45:03">
  <decision date="2024-12-18" number="2902849-URL-on" org="Роскомнадзор"/>
@@ -1410,11 +1415,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:144c</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:bfe3</ipv6>
 </content>
-<content id="7732385" includeTime="2024-12-20T13:45:03" entryType="1" hash="DDFEDCF9C14B70587E699854A1E47EA9" blockType="domain" ts="2024-12-20T13:45:03">
- <decision date="2024-12-11" number="2а-2135/2024" org="Савеловский районный суд - Москва"/>
- <domain><![CDATA[roskodastr.net]]></domain>
- <ip>3.71.20.119</ip>
-</content>
 <content id="7732386" includeTime="2024-12-20T08:00:04" entryType="1" hash="27D9820C4C0CBFFB720A446ACA2D3A5A" blockType="domain" ts="2024-12-20T08:00:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[gornozavodsk.souvenir-korolev.online]]></domain>
@@ -1422,14 +1422,6 @@
  <ip>172.67.138.236</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:46c4</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:8aec</ipv6>
-</content>
-<content id="7732387" includeTime="2024-12-20T13:45:03" entryType="1" hash="5A1FF656A3B0948F574187B344F6A8E9" blockType="domain" ts="2024-12-20T13:45:03">
- <decision date="2024-12-11" number="2а-2135/2024" org="Савеловский районный суд - Москва"/>
- <domain><![CDATA[rosreestr.center]]></domain>
- <ip>104.21.10.162</ip>
- <ip>172.67.146.1</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:0aa2</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:9201</ipv6>
 </content>
 <content id="7732388" includeTime="2024-12-20T13:45:03" entryType="1" hash="A106ED7FC781A9C907E31F26DA5098C3" blockType="domain-mask" ts="2024-12-20T13:45:03">
  <decision date="2024-12-17" number="2024-12-16-8914-ПЛ" org="Росздравнадзор"/>
