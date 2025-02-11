@@ -11,6 +11,14 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:520c</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:96a7</ipv6>
 </content>
+<content id="7740215" includeTime="2025-02-11T14:10:03" entryType="1" hash="A3D018AA5ADD83B19216A426ABF3E0FA" blockType="domain-mask" ts="2025-02-11T14:10:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.xenolaboratory.ru]]></domain>
+ <ip>104.21.45.7</ip>
+ <ip>172.67.207.68</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:cf44</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:2d07</ipv6>
+</content>
 <content id="7740217" includeTime="2024-12-24T00:25:02" entryType="1" hash="EECAD6626290DDF28F4D1AB10F557E50" ts="2024-12-24T00:25:02">
  <decision date="2024-12-20" number="2907802-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://lordsfilm-k.lrdfilm16.me/162-eiforiia-416.html]]></url>
@@ -245,11 +253,6 @@
  <domain><![CDATA[*.stardacasino-play.ru]]></domain>
  <ip>104.21.2.61</ip>
  <ip>172.67.128.211</ip>
-</content>
-<content id="7740273" includeTime="2024-12-23T14:50:03" entryType="1" hash="2D3B434F2D8F2C56E3861BE7A908C539" blockType="domain" ts="2024-12-23T14:50:03">
- <decision date="2024-12-19" number="2024-12-13-7496-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[q1.gradus24-moskva1.ru]]></domain>
- <ip>178.32.248.248</ip>
 </content>
 <content id="7740275" includeTime="2024-12-20T23:15:02" entryType="1" hash="00B0B3F74335CEAF1AE5D70566E6986C" blockType="domain-mask" ts="2024-12-20T23:15:02">
  <decision date="2024-11-05" number="2-6-14/2024-06-11-7477-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
