@@ -530,6 +530,12 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6055</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:af85</ipv6>
 </content>
+<content id="7883997" includeTime="2025-02-13T14:50:03" entryType="1" hash="47193233E4527927C8922D1BF4F864D6" ts="2025-02-13T14:50:03">
+ <decision date="2025-02-06" number="178310" org="Роспотребнадзор"/>
+ <url><![CDATA[https://www.newsru.com/russia/08apr2011/avtoru4ka.html]]></url>
+ <domain><![CDATA[www.newsru.com]]></domain>
+ <ip>212.227.190.190</ip>
+</content>
 <content id="7883998" includeTime="2025-02-10T13:25:02" entryType="1" hash="AE8DCF403AB1A104BF5F9E14A0DD5E06" ts="2025-02-10T13:25:02">
  <decision date="2025-02-06" number="2025-02-04-6829-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <url><![CDATA[https://q2.gradus24-7-krasnodar.ru/contact/]]></url>
@@ -1013,6 +1019,11 @@
  <decision date="2024-11-29" number="2-6-14/2024-11-28-10994-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.r7i21.casino]]></domain>
  <ip>162.255.119.207</ip>
+</content>
+<content id="7884118" includeTime="2025-02-13T14:50:03" entryType="1" hash="CFB628A3E2EB07D1552FBA7DCD8D7482" blockType="domain-mask" ts="2025-02-13T14:50:03">
+ <decision date="2025-01-05" number="2024-12-23-4151-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.wrtvpn.ru]]></domain>
+ <ip>104.28.6.67</ip>
 </content>
 <content id="7884119" includeTime="2025-02-10T13:25:02" entryType="1" hash="025B4D7A5EE7204B4B6C3A9836DA612F" ts="2025-02-10T13:25:02">
  <decision date="2025-02-04" number="2025-02-03-4271-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
