@@ -5141,6 +5141,11 @@
  <ip>51.75.79.162</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:a032</ipv6>
 </content>
+<content id="7892032" includeTime="2025-02-14T14:00:02" entryType="1" hash="532A50D247AF405A02844782FCFAA084" blockType="domain" ts="2025-02-14T14:00:02">
+ <decision date="2025-02-11" number="2984367-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[hdtube.porn]]></domain>
+ <ip>185.240.30.88</ip>
+</content>
 <content id="7892033" includeTime="2025-02-12T07:05:02" entryType="1" hash="298E9C61E7E1361C7C06998248ED2023" blockType="domain-mask" ts="2025-02-12T07:05:02">
  <decision date="2024-11-29" number="2-6-14/2024-11-28-10994-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.leonbet-casino-play1.ru]]></domain>
@@ -8430,6 +8435,12 @@
  <ip>172.67.150.143</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:968f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2fbc</ipv6>
+</content>
+<content id="7892761" includeTime="2025-02-14T14:00:02" entryType="1" hash="2DE6A55EBE5A35C662C83A94778FB165" ts="2025-02-14T14:00:02">
+ <decision date="2024-12-24" number="2а-2208/2024" org="Мещанский районный суд - Москва"/>
+ <url><![CDATA[https://www.uiscom.ru/academiya/spravochnyj-centr/kolltreking-i-analitika/nastroyka_podmeny_nomera/]]></url>
+ <domain><![CDATA[www.uiscom.ru]]></domain>
+ <ip>185.178.208.37</ip>
 </content>
 <content id="7892762" includeTime="2025-02-13T00:30:03" entryType="1" hash="D74E0A331ED6A32D3617A9A37239A5D3" blockType="domain-mask" ts="2025-02-13T00:30:03">
  <decision date="2024-12-10" number="2-6-14/2024-12-09-19495-АИ" org="ФНС"/>
