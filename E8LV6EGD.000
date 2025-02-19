@@ -13723,9 +13723,9 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6815:2c4f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c593</ipv6>
 </content>
-<content id="7808038" includeTime="2025-01-16T07:10:03" entryType="1" hash="4ABE212934A5FF36AA23783D63F7AC3F" blockType="domain" ts="2025-01-16T07:10:03">
+<content id="7808038" includeTime="2025-01-16T07:10:03" entryType="1" hash="4B15C6150375E1FDBCC176592DF51696" blockType="domain-mask" ts="2025-02-19T13:35:04">
  <decision date="2025-01-13" number="2931019-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[prophotovideo.ru]]></domain>
+ <domain><![CDATA[*.prophotovideo.ru]]></domain>
  <ip>104.21.22.71</ip>
  <ip>172.67.203.85</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:cb55</ipv6>

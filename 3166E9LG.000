@@ -6437,9 +6437,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5c97</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c348</ipv6>
 </content>
-<content id="7527914" includeTime="2024-10-18T17:35:02" entryType="1" hash="F703E4CA612339002A0AA05CA278AB61" blockType="domain" ts="2024-10-18T17:35:02">
+<content id="7527914" includeTime="2024-10-18T17:35:02" entryType="1" hash="21CD9309BDD6C931925A51C21EF181C6" blockType="domain-mask" ts="2025-02-19T13:35:04">
  <decision date="2024-10-16" number="2798212-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[godzipics.com]]></domain>
+ <domain><![CDATA[*.godzipics.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
