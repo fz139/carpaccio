@@ -1237,9 +1237,10 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:80b8</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0233</ipv6>
 </content>
-<content id="7896233" includeTime="2025-02-14T14:00:02" entryType="1" hash="85C3FFF030B5EE2D2E4E55F7B3731436" blockType="domain-mask" ts="2025-02-14T14:00:02">
+<content id="7896233" includeTime="2025-02-14T14:00:02" entryType="1" hash="7BAD3D225B57A58EC02621F2A448BB63" ts="2025-02-19T06:35:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[*.www.opg66.biz]]></domain>
+ <url><![CDATA[https://www.opg66.biz/]]></url>
+ <domain><![CDATA[www.opg66.biz]]></domain>
  <ip>204.44.104.15</ip>
 </content>
 <content id="7896234" includeTime="2025-02-13T00:30:03" entryType="1" hash="DD13DD7AF078BE7F84733CC58D84115E" blockType="domain-mask" ts="2025-02-13T00:30:03">
@@ -1704,6 +1705,15 @@
  <url><![CDATA[http://ltcdn.b-cdn.net/ru/yuriy-nesterenko-russkim-okkupantam-lyrics.html]]></url>
  <domain><![CDATA[ltcdn.b-cdn.net]]></domain>
  <ip>185.102.217.65</ip>
+</content>
+<content id="7896334" includeTime="2025-02-19T07:05:04" entryType="1" hash="93C52320277F07B989F06BBC75502D11" ts="2025-02-19T07:05:04">
+ <decision date="2025-02-12" number="2987087-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://hd.menak.ru]]></url>
+ <domain><![CDATA[hd.menak.ru]]></domain>
+ <ip>104.21.69.241</ip>
+ <ip>172.67.215.203</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:d7cb</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:45f1</ipv6>
 </content>
 <content id="7896336" includeTime="2025-02-13T14:50:03" entryType="1" hash="6C4458D10FCE065DE18E5688A0E4F4F1" blockType="domain-mask" ts="2025-02-13T14:50:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>

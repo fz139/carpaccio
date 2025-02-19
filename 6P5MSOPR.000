@@ -937,9 +937,10 @@
  <domain><![CDATA[lucky.vulcan-fan.com]]></domain>
  <ip>23.108.219.3</ip>
 </content>
-<content id="7894686" includeTime="2025-02-14T14:00:02" entryType="1" hash="B6F5757CCE9EF2BDEF8CA9711D53C405" blockType="domain-mask" ts="2025-02-14T14:00:02">
+<content id="7894686" includeTime="2025-02-14T14:00:02" entryType="1" hash="47627A67CA7293674080E5E693E4CE5B" ts="2025-02-19T06:35:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[*.www.shop1.biz]]></domain>
+ <url><![CDATA[https://www.shop1.biz/]]></url>
+ <domain><![CDATA[www.shop1.biz]]></domain>
  <ip>204.44.104.82</ip>
 </content>
 <content id="7894688" includeTime="2025-02-14T14:00:02" entryType="1" hash="A54678236A203F741F312BD13E26DE71" blockType="domain" ts="2025-02-14T14:00:02">
@@ -2050,9 +2051,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:dae1</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2b28</ipv6>
 </content>
-<content id="7894904" includeTime="2025-02-14T07:55:02" entryType="1" hash="D4AC79275B8E49B902A700862B61C41E" blockType="domain-mask" ts="2025-02-14T07:55:02">
+<content id="7894904" includeTime="2025-02-14T07:55:02" entryType="1" hash="84600B6E24E4480A6D53FECA671BD3AB" blockType="domain" ts="2025-02-19T06:35:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[*.www.kra19.ec]]></domain>
+ <domain><![CDATA[www.kra19.ec]]></domain>
  <ip>104.21.85.113</ip>
  <ip>172.67.204.212</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:ccd4</ipv6>
@@ -3266,9 +3267,10 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:329c</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:a420</ipv6>
 </content>
-<content id="7895128" includeTime="2025-02-14T14:00:02" entryType="1" hash="95B5812AA19A76E6B8D0A3FB8ED5A0CB" blockType="domain-mask" ts="2025-02-14T14:00:02">
+<content id="7895128" includeTime="2025-02-14T14:00:02" entryType="1" hash="4329155D0E548DC2CB4B28D4D8530B30" ts="2025-02-19T06:35:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[*.www.ls25.biz]]></domain>
+ <url><![CDATA[https://www.ls25.biz/]]></url>
+ <domain><![CDATA[www.ls25.biz]]></domain>
  <ip>204.44.104.176</ip>
 </content>
 <content id="7895129" includeTime="2025-02-13T00:30:03" entryType="1" hash="EAAC57C2802B67310172CA86F552C11D" blockType="domain-mask" ts="2025-02-13T00:30:03">
@@ -5079,9 +5081,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="7895469" includeTime="2025-02-14T07:55:02" entryType="1" hash="1E3353D5928C2F0BEA608DBE5906D31C" blockType="domain-mask" ts="2025-02-14T07:55:02">
+<content id="7895469" includeTime="2025-02-14T07:55:02" entryType="1" hash="433B42F28B8C4E795330DF10FEB9F398" blockType="domain" ts="2025-02-19T06:35:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[*.www.mehanik123.ru]]></domain>
+ <domain><![CDATA[www.mehanik123.ru]]></domain>
  <ip>104.21.22.100</ip>
  <ip>172.67.204.44</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1664</ipv6>
@@ -5211,6 +5213,15 @@
  <ip>172.67.189.158</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:bd9e</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:518a</ipv6>
+</content>
+<content id="7895497" includeTime="2025-02-19T07:05:04" entryType="1" hash="802D06C6FF5A999FE45CC7B53B9803BB" ts="2025-02-19T07:05:04">
+ <decision date="2025-02-12" number="2987163-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://photo.menak.ru]]></url>
+ <domain><![CDATA[photo.menak.ru]]></domain>
+ <ip>104.21.69.241</ip>
+ <ip>172.67.215.203</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:d7cb</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:45f1</ipv6>
 </content>
 <content id="7895499" includeTime="2025-02-13T14:50:03" entryType="1" hash="3BED7C4220D441781B078E0BE83EAC70" blockType="domain-mask" ts="2025-02-13T14:50:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -6331,6 +6342,19 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a0a1</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:428b</ipv6>
 </content>
+<content id="7895709" includeTime="2025-02-19T07:05:04" entryType="1" hash="1B51CC2B94FC26AE7BA478B4B7965BAC" ts="2025-02-19T07:05:04">
+ <decision date="2025-01-30" number="2а-1492/2025" org="Центральный районный суд г. Читы - Забайкальский край"/>
+ <url><![CDATA[https://topcargo200.com/972/]]></url>
+ <domain><![CDATA[topcargo200.com]]></domain>
+ <ip>151.101.131.7</ip>
+ <ip>151.101.195.7</ip>
+ <ip>151.101.3.7</ip>
+ <ip>151.101.67.7</ip>
+ <ipv6>2a04:4e42:0000:0000:0000:0000:0000:0775</ipv6>
+ <ipv6>2a04:4e42:0200:0000:0000:0000:0000:0775</ipv6>
+ <ipv6>2a04:4e42:0400:0000:0000:0000:0000:0775</ipv6>
+ <ipv6>2a04:4e42:0600:0000:0000:0000:0000:0775</ipv6>
+</content>
 <content id="7895711" includeTime="2025-02-14T07:55:02" entryType="1" hash="25BEE75CC1DC7D87D591398A8DF23CDE" blockType="domain-mask" ts="2025-02-14T07:55:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.ruslitfak.ru]]></domain>
@@ -7368,9 +7392,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:85c1</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:0e11</ipv6>
 </content>
-<content id="7895911" includeTime="2025-02-14T14:00:02" entryType="1" hash="B5947EC1E21A4095265C97BD979CDF11" blockType="domain-mask" ts="2025-02-14T14:00:02">
+<content id="7895911" includeTime="2025-02-14T14:00:02" entryType="1" hash="F2C807227C911F70560492F247FDF51B" blockType="domain" ts="2025-02-19T06:35:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[*.www.studiobe.ru]]></domain>
+ <domain><![CDATA[www.studiobe.ru]]></domain>
  <ip>104.21.94.226</ip>
  <ip>172.67.140.221</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:8cdd</ipv6>

@@ -656,9 +656,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6962735" includeTime="2024-04-24T11:00:04" entryType="1" hash="C0A56A907D2B2A2EC9ED8A8BB407BA56" blockType="domain" ts="2024-04-24T11:00:04">
+<content id="6962735" includeTime="2024-04-24T11:00:04" entryType="1" hash="699B4E4A3B2CC973DDDE7B7180DC6911" blockType="domain-mask" ts="2025-02-19T06:35:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[brandivanovo.ru]]></domain>
+ <domain><![CDATA[*.brandivanovo.ru]]></domain>
  <ip>104.21.69.107</ip>
  <ip>172.67.207.110</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:456b</ipv6>
