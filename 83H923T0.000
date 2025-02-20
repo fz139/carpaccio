@@ -2132,6 +2132,24 @@
  <domain><![CDATA[www.foru.ru]]></domain>
  <ip>178.63.217.170</ip>
 </content>
+<content id="5584677" includeTime="2025-02-20T13:45:04" entryType="1" hash="3D65D525F785C4A8F210AC30CE602731" blockType="domain-mask" ts="2025-02-20T13:45:04">
+ <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.my-yamal.ru]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
 <content id="5584685" includeTime="2023-03-17T13:31:19" entryType="1" hash="2E90A167A9092AE4985D4AECCB4C4BA2" blockType="domain" ts="2023-03-17T13:31:19">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[vinokurnya73.ru]]></domain>
@@ -16323,8 +16341,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:5233</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:998f</ipv6>
 </content>
-<content id="5607856" includeTime="2023-03-22T13:37:50" entryType="1" hash="11D4F9F189F768DD2D388E8293A3FBEA" blockType="domain" ts="2024-08-27T15:20:02">
+<content id="5607856" includeTime="2023-03-22T13:37:50" entryType="1" hash="40913335D11A4030DB5A874CAD53FB16" ts="2025-02-20T13:10:05">
  <decision date="2023-03-10" number="2а-2128/2023" org="Ангарский городской суд - Иркутская область"/>
+ <url><![CDATA[https://sex2.sexorb.red]]></url>
  <domain><![CDATA[sex2.sexorb.red]]></domain>
  <ip>95.85.4.5</ip>
 </content>
