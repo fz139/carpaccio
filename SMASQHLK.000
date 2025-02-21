@@ -7344,6 +7344,11 @@
  <ip>176.31.176.75</ip>
  <ip>37.187.202.101</ip>
 </content>
+<content id="7906664" includeTime="2025-02-21T07:05:03" entryType="1" hash="EBC039AA0591662FCA0BC9B4FFD9BC62" blockType="domain" ts="2025-02-21T07:05:03">
+ <decision date="2025-02-10" number="2025-02-06-6816-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[home-wine.shop]]></domain>
+ <ip>104.28.6.67</ip>
+</content>
 <content id="7906665" includeTime="2025-02-18T07:20:04" entryType="1" hash="48F1665252BA1022F807BDEFB4A608E2" blockType="domain-mask" ts="2025-02-18T07:20:04">
  <decision date="2024-11-29" number="2-6-14/2024-11-28-10994-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.kometacasinowa.buzz]]></domain>
@@ -7952,6 +7957,12 @@
  <ip>172.67.150.210</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:0061</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:96d2</ipv6>
+</content>
+<content id="7906820" includeTime="2025-02-21T07:05:03" entryType="1" hash="A11DE653796126B30F8483D1D7976A30" ts="2025-02-21T07:05:03">
+ <decision date="2025-02-17" number="2993537-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://www.xgif.cc]]></url>
+ <domain><![CDATA[www.xgif.cc]]></domain>
+ <ip>162.244.32.72</ip>
 </content>
 <content id="7906822" includeTime="2025-02-18T14:15:04" entryType="1" hash="86F34C449F887EBCB96D696CD2F49A6F" blockType="domain-mask" ts="2025-02-18T14:15:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -9504,6 +9515,11 @@
  <decision date="2025-02-17" number="2992883-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.kekfilm.one]]></domain>
  <ip>45.147.197.50</ip>
+</content>
+<content id="7907178" includeTime="2025-02-21T07:05:03" entryType="1" hash="FE9B6D7B1AD79F32B514539E24179AA0" blockType="domain-mask" ts="2025-02-21T07:05:03">
+ <decision date="2025-02-17" number="2993571-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.xgif.cc]]></domain>
+ <ip>162.244.32.72</ip>
 </content>
 <content id="7907179" includeTime="2025-02-18T14:15:04" entryType="1" hash="711F53464C9F98787E767EE7F23BE7E5" blockType="domain" ts="2025-02-18T14:15:04">
  <decision date="2025-02-17" number="2993347-URL-on" org="Роскомнадзор"/>
