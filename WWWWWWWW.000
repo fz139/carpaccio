@@ -5345,6 +5345,11 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:17e7</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d621</ipv6>
 </content>
+<content id="7922616" includeTime="2025-02-21T14:30:05" urgencyType="1" entryType="3" hash="611C58B5514B84A2A3738024186CF62C" blockType="domain-mask" ts="2025-02-21T14:30:05">
+ <decision date="2025-02-20" number="" org=""/>
+ <domain><![CDATA[*.py-fsb.com]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
 <content id="7922621" includeTime="2025-02-21T11:55:04" urgencyType="1" entryType="3" hash="106415EF597BE911B2BC1D05110606D5" blockType="domain-mask" ts="2025-02-21T11:55:04">
  <decision date="2025-02-12" number="" org=""/>
  <domain><![CDATA[*.vodi-s-nami.online]]></domain>
@@ -5503,6 +5508,16 @@
  <decision date="2024-10-31" number="" org=""/>
  <domain><![CDATA[npfdvwaz---adabncwb-bsccljbcrq-ez.a.run.app]]></domain>
  <ip>74.125.196.132</ip>
+</content>
+<content id="7922648" includeTime="2025-02-21T14:30:05" urgencyType="1" entryType="3" hash="7C98E7BC0C272E1F2BEB3B73C505EE6D" blockType="domain-mask" ts="2025-02-21T14:30:05">
+ <decision date="2023-11-30" number="" org=""/>
+ <domain><![CDATA[*.aid-for-ukraine.io]]></domain>
+ <ip>104.26.2.128</ip>
+ <ip>104.26.3.128</ip>
+ <ip>172.67.69.48</ip>
+ <ipv6>2606:4700:0020:0000:0000:0000:681a:0280</ipv6>
+ <ipv6>2606:4700:0020:0000:0000:0000:681a:0380</ipv6>
+ <ipv6>2606:4700:0020:0000:0000:0000:ac43:4530</ipv6>
 </content>
 <content id="7922649" includeTime="2025-02-21T14:20:05" urgencyType="1" entryType="3" hash="89A373A093506CA752058F42887A0A30" blockType="domain" ts="2025-02-21T14:20:05">
  <decision date="2023-06-15" number="" org=""/>
