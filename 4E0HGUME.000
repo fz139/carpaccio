@@ -227,12 +227,6 @@
  <ip>104.21.5.56</ip>
  <ip>172.67.133.3</ip>
 </content>
-<content id="7907288" includeTime="2025-02-20T08:05:03" entryType="1" hash="80811FDAA91A03B5FA6FE45F1AAB7F29" ts="2025-02-20T08:05:03">
- <decision date="2025-02-12" number="2025-02-10-1908-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://barnaul11.sof-rus.com/catalog/sofosbuvir-i-daklatasvir/hepcinat-lp/]]></url>
- <domain><![CDATA[barnaul11.sof-rus.com]]></domain>
- <ip>89.105.223.202</ip>
-</content>
 <content id="7907289" includeTime="2025-02-18T07:20:04" entryType="1" hash="45EF5B13037E33F8C85DBA39CBA512A4" blockType="domain-mask" ts="2025-02-18T07:20:04">
  <decision date="2024-11-29" number="2-6-14/2024-11-28-10994-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1xslots4376.top]]></domain>
@@ -1112,12 +1106,6 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:5c22</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:ba0c</ipv6>
 </content>
-<content id="7907489" includeTime="2025-02-20T08:05:03" entryType="1" hash="11C562A081D9F931AC4B602C9D600EC5" ts="2025-02-20T08:05:03">
- <decision date="2025-02-12" number="2025-02-10-1897-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://barnaul11.sof-rus.com/catalog/sofosbuvir-i-daklatasvir/ledviclear/]]></url>
- <domain><![CDATA[barnaul11.sof-rus.com]]></domain>
- <ip>89.105.223.202</ip>
-</content>
 <content id="7907490" includeTime="2025-02-18T07:20:04" entryType="1" hash="BED38445F82283D35AD67836601C0930" blockType="domain-mask" ts="2025-02-18T07:20:04">
  <decision date="2024-11-29" number="2-6-14/2024-11-28-10994-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.riobet.promo]]></domain>
@@ -1313,6 +1301,24 @@
  <url><![CDATA[https://malchiki-po-vyzovu.contact/category/severodvinsk/]]></url>
  <domain><![CDATA[malchiki-po-vyzovu.contact]]></domain>
  <ip>45.128.206.174</ip>
+</content>
+<content id="7907528" includeTime="2025-02-25T13:10:03" entryType="1" hash="EFEB7086442FA5A2B61F80278B8FAE28" blockType="domain-mask" ts="2025-02-25T13:10:03">
+ <decision date="2025-02-17" number="2992397-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.kino-chub.online]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
 <content id="7907529" includeTime="2025-02-18T07:20:04" entryType="1" hash="C701D952E49F3C93D109769CA24A5CCC" blockType="domain-mask" ts="2025-02-18T07:20:04">
  <decision date="2024-11-29" number="2-6-14/2024-11-28-10994-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -1621,6 +1627,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="7907601" includeTime="2025-02-25T13:10:03" entryType="1" hash="610604FC4D3AD6EEC89A1857FBB6B3E6" blockType="domain" ts="2025-02-25T13:10:03">
+ <decision date="2025-02-17" number="2993653-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[voisona.ru]]></domain>
+ <ip>104.21.28.55</ip>
+ <ip>172.67.144.69</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:9045</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:1c37</ipv6>
 </content>
 <content id="7907608" includeTime="2025-02-19T13:55:04" entryType="1" hash="835A446DEBA72AFFDF6D588592A21EE3" ts="2025-02-19T13:55:04">
  <decision date="2025-02-12" number="2025-02-11-3073-ПЛ" org="Росздравнадзор"/>
@@ -2022,12 +2036,6 @@
  <ip>172.67.148.105</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:9469</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:57e8</ipv6>
-</content>
-<content id="7907693" includeTime="2025-02-20T08:05:03" entryType="1" hash="E96FA44C2BB1B2F4935448E4E083F6D4" ts="2025-02-20T08:05:03">
- <decision date="2025-02-12" number="2025-02-10-1880-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://barnaul11.sof-rus.com/catalog/sofosbuvir-i-daklatasvir/ledikast/]]></url>
- <domain><![CDATA[barnaul11.sof-rus.com]]></domain>
- <ip>89.105.223.202</ip>
 </content>
 <content id="7907694" includeTime="2025-02-18T07:20:04" entryType="1" hash="2A58829FE3FD1D33B203E290994400B4" blockType="domain-mask" ts="2025-02-18T07:20:04">
  <decision date="2024-11-29" number="2-6-14/2024-11-28-10994-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -2821,12 +2829,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
-</content>
-<content id="7907897" includeTime="2025-02-20T08:05:03" entryType="1" hash="6E3C41AE5BE8EDBF9F155513468F8AAB" ts="2025-02-20T08:05:03">
- <decision date="2025-02-12" number="2025-02-10-1871-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://barnaul11.sof-rus.com/catalog/sofosbuvir-i-daklatasvir/velakast/]]></url>
- <domain><![CDATA[barnaul11.sof-rus.com]]></domain>
- <ip>89.105.223.202</ip>
 </content>
 <content id="7907898" includeTime="2025-02-18T07:20:04" entryType="1" hash="59E84C8BAB682616F7DFCD5ACFF04200" blockType="domain-mask" ts="2025-02-18T07:20:04">
  <decision date="2024-11-29" number="2-6-14/2024-11-28-10994-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -3637,12 +3639,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1973</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8631</ipv6>
 </content>
-<content id="7908100" includeTime="2025-02-20T08:05:03" entryType="1" hash="8CDF5E44C9B925FCF93A508E2589B07A" ts="2025-02-20T08:05:03">
- <decision date="2025-02-12" number="2025-02-10-1856-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://barnaul11.sof-rus.com/catalog/sofosbuvir-i-daklatasvir/hepcinat-plus/]]></url>
- <domain><![CDATA[barnaul11.sof-rus.com]]></domain>
- <ip>89.105.223.202</ip>
-</content>
 <content id="7908101" includeTime="2025-02-18T07:20:04" entryType="1" hash="6478536B68EC8607291EE1C807798350" blockType="domain-mask" ts="2025-02-18T07:20:04">
  <decision date="2024-11-29" number="2-6-14/2024-11-28-10994-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pin-up-casino-sgu8.top]]></domain>
@@ -3836,12 +3832,6 @@
  <decision date="2024-11-29" number="2-6-14/2024-11-28-10994-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vulcanplatinumkazino.com]]></domain>
  <ip>193.163.7.157</ip>
-</content>
-<content id="7908143" includeTime="2025-02-19T13:55:04" entryType="1" hash="02B431BB7B5C31408FF73574A90C5747" ts="2025-02-19T13:55:04">
- <decision date="2025-02-14" number="2025-02-13-2118-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://krasnodar11.sof-rus.com/catalog/sofosbuvir-i-daklatasvir/sofocure-v/]]></url>
- <domain><![CDATA[krasnodar11.sof-rus.com]]></domain>
- <ip>89.105.223.202</ip>
 </content>
 <content id="7908144" includeTime="2025-02-18T07:20:04" entryType="1" hash="C9BAA588926383FB7798C40CA50D5BB9" blockType="domain-mask" ts="2025-02-18T07:20:04">
  <decision date="2024-12-12" number="2-6-14/2024-12-11-10787-АИ" org="ФНС"/>
@@ -7161,6 +7151,12 @@
  <domain><![CDATA[*.bandakazzino.info]]></domain>
  <ip>104.21.19.214</ip>
  <ip>172.67.190.57</ip>
+</content>
+<content id="7909211" includeTime="2025-02-25T13:10:03" entryType="1" hash="560D2DBFFD464149308A6FC5E2B4BF0C" ts="2025-02-25T13:10:03">
+ <decision date="2025-02-18" number="2994486-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://kinokong.sk/87717-uchenik-voshozhdenie-trampa-2024.html]]></url>
+ <domain><![CDATA[kinokong.sk]]></domain>
+ <ip>80.66.79.77</ip>
 </content>
 <content id="7909235" includeTime="2025-02-20T08:05:03" entryType="1" hash="4F104EBEC211D782FB7041D5E6BBFDDA" ts="2025-02-20T08:05:03">
  <decision date="2025-01-17" number="2а-1005/2025" org="Октябрьский районный суд г. Самары - Самарская область"/>

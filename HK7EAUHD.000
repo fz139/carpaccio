@@ -1149,6 +1149,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:49e2</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:a75d</ipv6>
 </content>
+<content id="6529699" includeTime="2025-02-25T13:10:03" entryType="1" hash="DDB69963DEF8759F3324DE7B22041831" blockType="domain-mask" ts="2025-02-25T13:10:03">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.servise-tefal.ru]]></domain>
+ <ip>104.21.28.63</ip>
+ <ip>172.67.170.104</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:aa68</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:1c3f</ipv6>
+</content>
 <content id="6529700" includeTime="2023-11-27T23:10:04" entryType="1" hash="23ECABD6BF927C7F560C96202138D3F9" blockType="domain-mask" ts="2023-11-27T23:10:04">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.playfortune.pw]]></domain>
@@ -3552,15 +3560,6 @@
  <ip>172.67.198.73</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c649</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:156f</ipv6>
-</content>
-<content id="6530589" includeTime="2023-11-29T15:30:05" entryType="1" hash="26061F69D82741C02AFA2F0CA6E022BC" ts="2023-11-29T15:30:05">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://bsbotnet.cfd/stores/2326]]></url>
- <domain><![CDATA[bsbotnet.cfd]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6530590" includeTime="2023-11-27T23:10:04" entryType="1" hash="82BF398E11CD593D701BF3E3822080CE" blockType="domain-mask" ts="2023-11-27T23:10:04">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
