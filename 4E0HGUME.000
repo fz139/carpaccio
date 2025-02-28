@@ -1571,9 +1571,9 @@
  <ip>141.193.213.10</ip>
  <ip>141.193.213.11</ip>
 </content>
-<content id="7907593" includeTime="2025-02-19T13:55:04" entryType="1" hash="46BEF1EDE8C656730790BD08DE0DCE86" blockType="domain" ts="2025-02-19T13:55:04">
+<content id="7907593" includeTime="2025-02-19T13:55:04" entryType="1" hash="81EC9A4163ECC3870120DEB02E5965A0" blockType="domain-mask" ts="2025-02-28T07:35:02">
  <decision date="2025-02-17" number="2993621-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[yaoi-poisk.ru]]></domain>
+ <domain><![CDATA[*.yaoi-poisk.ru]]></domain>
  <ip>104.21.89.125</ip>
  <ip>172.67.159.85</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9f55</ipv6>
