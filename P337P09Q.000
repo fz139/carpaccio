@@ -954,9 +954,9 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:98d8</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:288e</ipv6>
 </content>
-<content id="7948188" includeTime="2025-03-01T07:10:03" entryType="1" hash="806521C1E7007E717B6022C49E897C15" blockType="domain" ts="2025-03-01T07:10:03">
+<content id="7948188" includeTime="2025-03-01T07:10:03" entryType="1" hash="54654DB137AB46B0676BB2BE16867203" blockType="domain-mask" ts="2025-03-03T14:05:02">
  <decision date="2025-02-27" number="3015491-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[hd720-lordsway.run]]></domain>
+ <domain><![CDATA[*.hd720-lordsway.run]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
