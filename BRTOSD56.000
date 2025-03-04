@@ -4243,6 +4243,14 @@
  <ip>104.21.11.112</ip>
  <ip>172.67.191.249</ip>
 </content>
+<content id="7926161" includeTime="2025-03-05T00:05:02" entryType="1" hash="E936CE1FE0CE115DB1E84867159A36FA" blockType="domain-mask" ts="2025-03-05T00:05:02">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.totplace.ru]]></domain>
+ <ip>104.21.94.146</ip>
+ <ip>172.67.137.54</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:5e92</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:8936</ipv6>
+</content>
 <content id="7926162" includeTime="2025-02-25T13:10:03" entryType="1" hash="830754090D1CD2677A796FCD80912C1F" blockType="domain-mask" ts="2025-02-25T13:10:03">
  <decision date="2025-02-21" number="3004176-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.porno-kazashki.ru]]></domain>
@@ -5066,6 +5074,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
+<content id="7926280" includeTime="2025-03-05T00:05:02" entryType="1" hash="412E81BED79797F313663B29EA2511BB" blockType="domain-mask" ts="2025-03-05T00:05:02">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.caramada.ru]]></domain>
+ <ip>104.21.43.247</ip>
+ <ip>172.67.190.168</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:2bf7</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:bea8</ipv6>
+</content>
 <content id="7926281" includeTime="2025-02-24T14:05:03" entryType="1" hash="BDD4C253CD49F4E1A3AA5668AAF278F9" blockType="domain" ts="2025-02-24T14:05:03">
  <decision date="2025-02-21" number="3004137-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[av.4freedom.click]]></domain>
@@ -5707,6 +5723,11 @@
  <ip>172.67.211.23</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:177e</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:d317</ipv6>
+</content>
+<content id="7926368" includeTime="2025-03-05T00:05:02" entryType="1" hash="5B488A8D28C87B645477BD573DAFA6AE" blockType="domain" ts="2025-03-05T00:05:02">
+ <decision date="2025-02-20" number="М-178/2025" org="Борзинский городской суд - Забайкальский край"/>
+ <domain><![CDATA[menswear.pw]]></domain>
+ <ip>217.114.11.51</ip>
 </content>
 <content id="7926369" includeTime="2025-02-22T09:00:05" entryType="1" hash="35BDC079FC6441AF85B7B6B1A5FB6CD5" blockType="domain-mask" ts="2025-02-22T09:00:05">
  <decision date="2025-01-30" number="2-6-14/2025-01-27-10363-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -6613,6 +6634,24 @@
  <ip>172.67.162.116</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4169</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:a274</ipv6>
+</content>
+<content id="7926499" includeTime="2025-03-05T00:05:02" entryType="1" hash="2552FD0291998D6F69C67A8E86AD02E5" blockType="domain-mask" ts="2025-03-05T00:05:02">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.newsteller.ru]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
 <content id="7926501" includeTime="2025-02-22T09:00:05" entryType="1" hash="9AD8849B7B501499844BFCF65ECE49E4" blockType="domain-mask" ts="2025-02-22T09:00:05">
  <decision date="2025-01-30" number="2-6-14/2025-01-27-10363-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
