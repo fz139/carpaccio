@@ -13222,9 +13222,9 @@
  <ip>135.125.233.147</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:78b6</ipv6>
 </content>
-<content id="7744641" includeTime="2024-12-26T07:05:02" entryType="1" hash="E6C2798B500E04E83137A7972CD3B503" blockType="domain" ts="2024-12-26T07:05:02">
+<content id="7744641" includeTime="2024-12-26T07:05:02" entryType="1" hash="242FB70D3E1C32250FD5D2A38130DE48" blockType="domain-mask" ts="2025-03-05T13:05:02">
  <decision date="2024-12-23" number="2910197-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[kak-brosit-kyrit.ru]]></domain>
+ <domain><![CDATA[*.kak-brosit-kyrit.ru]]></domain>
  <ip>104.21.18.251</ip>
  <ip>172.67.184.71</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:12fb</ipv6>

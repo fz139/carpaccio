@@ -6484,9 +6484,9 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:099e</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:a045</ipv6>
 </content>
-<content id="7902842" includeTime="2025-02-18T07:20:04" entryType="1" hash="DCD9EA432CFED781B9FAE0B32CEF3F2B" blockType="domain" ts="2025-02-18T07:20:04">
+<content id="7902842" includeTime="2025-02-18T07:20:04" entryType="1" hash="17F0B9A2434A5F78D8ED96AF3BB49474" blockType="domain-mask" ts="2025-03-05T13:05:02">
  <decision date="2025-02-14" number="2991300-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[beztovk.ru]]></domain>
+ <domain><![CDATA[*.beztovk.ru]]></domain>
  <ip>104.21.45.253</ip>
  <ip>172.67.221.176</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:ddb0</ipv6>

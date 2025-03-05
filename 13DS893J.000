@@ -1464,9 +1464,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:258c</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:d128</ipv6>
 </content>
-<content id="7812434" includeTime="2025-01-16T15:35:03" entryType="1" hash="60BAFDD4622137C304F868193F1496FC" blockType="domain" ts="2025-01-16T15:35:03">
+<content id="7812434" includeTime="2025-01-16T15:35:03" entryType="1" hash="54950634613884CACA8A66BA75C9C6BA" blockType="domain-mask" ts="2025-03-05T13:05:02">
  <decision date="2025-01-14" number="2933929-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[julesjordan.com]]></domain>
+ <domain><![CDATA[*.julesjordan.com]]></domain>
  <ip>216.18.168.47</ip>
 </content>
 <content id="7812436" includeTime="2025-01-15T00:30:03" entryType="1" hash="EB2AA22C830236F3E4BBAE0A695E88E1" blockType="domain-mask" ts="2025-01-15T00:30:03">
@@ -6518,9 +6518,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:324f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9f79</ipv6>
 </content>
-<content id="7813954" includeTime="2025-01-17T14:05:02" entryType="1" hash="41D3370B44B750D3C4A31E732D776751" blockType="domain" ts="2025-01-17T14:05:02">
+<content id="7813954" includeTime="2025-01-17T14:05:02" entryType="1" hash="CFF2BE9EBB867745C6550288E062F353" blockType="domain-mask" ts="2025-03-05T13:05:02">
  <decision date="2025-01-15" number="2936275-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[skyrimvr.ru]]></domain>
+ <domain><![CDATA[*.skyrimvr.ru]]></domain>
  <ip>104.21.16.39</ip>
  <ip>172.67.166.22</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a616</ipv6>
