@@ -2357,9 +2357,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6812:2803</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8816</ipv6>
 </content>
-<content id="1198603" includeTime="2018-11-23T20:03:16" urgencyType="1" entryType="3" hash="EAD7BD93CA05AF923D4CDE6535D36732" blockType="domain" ts="2018-11-23T20:03:16">
+<content id="1198603" includeTime="2018-11-23T20:03:16" urgencyType="1" entryType="3" hash="159E94CE782ECAF571CE5A2D1C007C07" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-12-04" number="" org=""/>
- <domain><![CDATA[muhajeer.com]]></domain>
+ <domain><![CDATA[*.muhajeer.com]]></domain>
  <ip>145.239.1.71</ip>
 </content>
 <content id="1198636" includeTime="2018-11-10T19:41:11" entryType="5" hash="F338F5D6EED10D3D6C23632C49E8EA9F" blockType="domain" ts="2023-10-12T14:55:04">
@@ -2517,6 +2517,11 @@
  <url><![CDATA[https://o.top4top.net/m_1017s7ffa1.mp4]]></url>
  <domain><![CDATA[o.top4top.net]]></domain>
  <ip>51.15.7.125</ip>
+</content>
+<content id="1198934" includeTime="2025-03-06T15:10:01" urgencyType="1" entryType="3" hash="CCE331C01E2526016D46B4E3AC4E380E" blockType="domain-mask" ts="2025-03-06T15:10:01">
+ <decision date="2015-12-04" number="" org=""/>
+ <domain><![CDATA[*.muhajeer.com]]></domain>
+ <ip>145.239.1.71</ip>
 </content>
 <content id="1199014" includeTime="2019-08-15T16:07:43" urgencyType="1" entryType="3" hash="AEEFC59FA80372507BDF10E39AF9A3C7" ts="2019-08-15T16:07:43">
  <decision date="2015-03-12" number="" org=""/>

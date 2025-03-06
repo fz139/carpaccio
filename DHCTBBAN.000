@@ -1016,9 +1016,9 @@
  <ipv6>2606:4700:0030:0000:0000:0000:681b:9656</ipv6>
  <ipv6>2606:4700:0030:0000:0000:0000:681b:9756</ipv6>
 </content>
-<content id="412019" includeTime="2016-12-29T11:01:47" urgencyType="1" entryType="3" hash="3AB0CE2B474FDAFB25E3FEB0C1840911" blockType="domain" ts="2016-12-29T11:01:47">
+<content id="412019" includeTime="2016-12-29T11:01:47" urgencyType="1" entryType="3" hash="23EA4D7D1FA304BFE3F2FB000940CD2D" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-04-03" number="" org=""/>
- <domain><![CDATA[hizb-turkiston.net]]></domain>
+ <domain><![CDATA[*.hizb-turkiston.net]]></domain>
  <ip>104.18.62.116</ip>
  <ip>104.18.63.116</ip>
  <ip>162.144.118.38</ip>

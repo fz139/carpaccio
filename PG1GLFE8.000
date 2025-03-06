@@ -2708,9 +2708,9 @@
  <domain><![CDATA[www.kavkazpress.ru]]></domain>
  <ip>137.74.149.220</ip>
 </content>
-<content id="316467" includeTime="2016-07-03T21:12:52" urgencyType="1" entryType="3" hash="CE5BD63435C782D8A0FD998F2F750E03" blockType="domain" ts="2016-07-03T21:12:52">
+<content id="316467" includeTime="2016-07-03T21:12:52" urgencyType="1" entryType="3" hash="DC764C606CF94BA457935544C44880F8" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-04-03" number="" org=""/>
- <domain><![CDATA[tahrir-syria.info]]></domain>
+ <domain><![CDATA[*.tahrir-syria.info]]></domain>
  <ip>104.25.161.103</ip>
  <ip>104.25.162.103</ip>
  <ip>104.27.114.114</ip>
@@ -3716,6 +3716,14 @@
  <decision date="2015-04-03" number="" org=""/>
  <domain><![CDATA[www.hizb-jordan.org]]></domain>
  <ip>23.229.169.67</ip>
+</content>
+<content id="320596" includeTime="2025-03-06T15:10:01" urgencyType="1" entryType="3" hash="6DCFD29F127C04FDC521046A06592D11" blockType="domain-mask" ts="2025-03-06T15:10:01">
+ <decision date="2015-04-03" number="" org=""/>
+ <domain><![CDATA[*.tahrir-syria.info]]></domain>
+ <ip>104.25.161.103</ip>
+ <ip>104.25.162.103</ip>
+ <ip>104.27.114.114</ip>
+ <ip>104.27.115.114</ip>
 </content>
 <content id="320623" includeTime="2016-07-12T12:38:18" urgencyType="1" entryType="3" hash="0BB85A9607523D1465DE7D089DAE90A9" ts="2016-07-12T12:38:18">
  <decision date="2015-12-04" number="" org=""/>
@@ -7864,10 +7872,9 @@
  <domain><![CDATA[mirror689.graniru.info]]></domain>
  <ip>104.239.226.231</ip>
 </content>
-<content id="333682" includeTime="2016-08-16T16:53:39" urgencyType="1" entryType="3" hash="4EF4F29A93F6A7C5650A8F66E76204F5" ts="2016-08-16T16:53:39">
+<content id="333682" includeTime="2016-08-16T16:53:39" urgencyType="1" entryType="3" hash="AEB30884D3E7925898594D3B33B9E801" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-03-12" number="" org=""/>
- <url><![CDATA[http://botsman-katsman.com/]]></url>
- <domain><![CDATA[botsman-katsman.com]]></domain>
+ <domain><![CDATA[*.botsman-katsman.com]]></domain>
  <ip>160.153.16.16</ip>
 </content>
 <content id="333730" includeTime="2016-08-14T19:23:12" entryType="1" hash="088DF17805CF9A9CECD6B2906128817E" ts="2016-08-14T19:23:12">

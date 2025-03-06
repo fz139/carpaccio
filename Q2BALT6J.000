@@ -4205,9 +4205,9 @@
  <ipv6>2606:4700:0030:0000:0000:0000:6812:2064</ipv6>
  <ipv6>2606:4700:0030:0000:0000:0000:6812:2164</ipv6>
 </content>
-<content id="408860" includeTime="2016-12-26T13:46:41" urgencyType="1" entryType="3" hash="FECFDE19A34198EA352C7CB813FF8026" blockType="domain" ts="2016-12-26T13:46:41">
+<content id="408860" includeTime="2016-12-26T13:46:41" urgencyType="1" entryType="3" hash="64F7492BEB18ADF39F0C269FDF814819" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-04-03" number="" org=""/>
- <domain><![CDATA[al-wayi.org]]></domain>
+ <domain><![CDATA[*.al-wayi.org]]></domain>
  <ip>104.24.108.248</ip>
  <ip>104.24.109.248</ip>
  <ip>159.89.0.72</ip>

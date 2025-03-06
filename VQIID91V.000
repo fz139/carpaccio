@@ -656,9 +656,9 @@
  <ip>2.238.145.99</ip>
  <ipv6>2001:0b07:02ee:9163:024e:01ff:fec3:d990</ipv6>
 </content>
-<content id="3074007" includeTime="2021-03-17T13:41:20" urgencyType="1" entryType="3" hash="6E272C0AF0735C8922039DF4C04522AC" blockType="domain" ts="2021-03-17T13:41:20">
+<content id="3074007" includeTime="2021-03-17T13:41:20" urgencyType="1" entryType="3" hash="709B1ADE71EDED72CA6AD666C29E2B42" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2021-03-16" number="" org=""/>
- <domain><![CDATA[blackhost.xyz]]></domain>
+ <domain><![CDATA[*.blackhost.xyz]]></domain>
  <ip>2.238.145.99</ip>
  <ipv6>2001:0b07:02ee:9163:024e:01ff:fec3:d990</ipv6>
 </content>

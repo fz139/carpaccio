@@ -865,9 +865,9 @@
  <domain><![CDATA[una-unso.in.ua]]></domain>
  <ip>5.39.10.93</ip>
 </content>
-<content id="161236" includeTime="2015-03-13T22:48:43" urgencyType="1" entryType="3" hash="4E3C7514CE7AEA567D9295879E5DE151" blockType="domain" ts="2015-03-13T22:48:43">
+<content id="161236" includeTime="2015-03-13T22:48:43" urgencyType="1" entryType="3" hash="A190DE6F27D6CBB2BBCBDDCB98FEF932" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-03-12" number="" org=""/>
- <domain><![CDATA[unaunso.org]]></domain>
+ <domain><![CDATA[*.unaunso.org]]></domain>
  <ip>91.218.89.77</ip>
 </content>
 <content id="161239" includeTime="2015-03-13T22:51:29" urgencyType="1" entryType="3" hash="A61C385AB06988001A7D1BCBE3DA6965" blockType="domain" ts="2015-03-13T22:51:29">
@@ -886,9 +886,9 @@
  <domain><![CDATA[www.unaunso.org]]></domain>
  <ip>91.218.89.77</ip>
 </content>
-<content id="161414" includeTime="2015-03-14T23:41:11" urgencyType="1" entryType="3" hash="1185C6AD7070C72033501F2F65146271" blockType="domain" ts="2015-03-14T23:41:11">
+<content id="161414" includeTime="2015-03-14T23:41:11" urgencyType="1" entryType="3" hash="F5824BB9E6005D1C602A356E2D493B7F" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-03-12" number="" org=""/>
- <domain><![CDATA[bratstvo.info]]></domain>
+ <domain><![CDATA[*.bratstvo.info]]></domain>
  <ip>195.64.185.10</ip>
 </content>
 <content id="161431" includeTime="2015-03-14T17:18:28" urgencyType="1" entryType="3" hash="E2203393ECC68F13D8BD694DA060155B" ts="2015-03-14T17:18:28">
@@ -1452,9 +1452,9 @@
  <ip>159.89.0.72</ip>
  <ip>192.185.101.235</ip>
 </content>
-<content id="168477" includeTime="2015-04-04T12:36:02" urgencyType="1" entryType="3" hash="2DB9A9DF3B0A1E3638BC5B79D06B8CF4" blockType="domain" ts="2015-04-04T12:36:02">
+<content id="168477" includeTime="2015-04-04T12:36:02" urgencyType="1" entryType="3" hash="8BDB58B10BEAE78F2F0CFE82E34415B1" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-04-03" number="" org=""/>
- <domain><![CDATA[hizb-ut-tahrir.info]]></domain>
+ <domain><![CDATA[*.hizb-ut-tahrir.info]]></domain>
  <ip>104.20.24.80</ip>
  <ip>104.20.25.80</ip>
  <ip>104.20.26.80</ip>
@@ -1471,14 +1471,14 @@
  <ip>54.172.203.125</ip>
  <ip>74.50.60.29</ip>
 </content>
-<content id="168479" includeTime="2015-04-04T12:46:08" urgencyType="1" entryType="3" hash="E6CB70CE8E09D931AA305D661B2E3588" blockType="domain" ts="2015-04-04T12:46:08">
+<content id="168479" includeTime="2015-04-04T12:46:08" urgencyType="1" entryType="3" hash="B56B386C6850E78D5641ADD71FC96482" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-04-03" number="" org=""/>
- <domain><![CDATA[turkiyevilayeti.org]]></domain>
+ <domain><![CDATA[*.turkiyevilayeti.org]]></domain>
  <ip>184.168.221.2</ip>
 </content>
-<content id="168497" includeTime="2015-04-04T12:43:53" urgencyType="1" entryType="3" hash="59AEBE90B95C338D668648ADF08AF0FD" blockType="domain" ts="2015-04-04T12:43:53">
+<content id="168497" includeTime="2015-04-04T12:43:53" urgencyType="1" entryType="3" hash="A9B8FDF11E615DFDE50770FE2133F817" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-04-03" number="" org=""/>
- <domain><![CDATA[hizb-turkiye.org]]></domain>
+ <domain><![CDATA[*.hizb-turkiye.org]]></domain>
  <ip>104.24.20.55</ip>
  <ip>104.24.21.55</ip>
  <ip>104.25.158.31</ip>
@@ -1559,9 +1559,9 @@
  <ip>184.168.221.12</ip>
  <ip>50.63.202.28</ip>
 </content>
-<content id="168734" includeTime="2015-04-04T12:55:12" urgencyType="1" entryType="3" hash="5FC75511E6DF5B7C11D89C2B6B6086E1" blockType="domain" ts="2015-04-04T12:55:12">
+<content id="168734" includeTime="2015-04-04T12:55:12" urgencyType="1" entryType="3" hash="AFBD84A53A6FE0B244604A583AD9AF6B" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-04-03" number="" org=""/>
- <domain><![CDATA[hizb-ut-tahrir.org]]></domain>
+ <domain><![CDATA[*.hizb-ut-tahrir.org]]></domain>
  <ip>104.24.24.58</ip>
  <ip>104.24.25.58</ip>
  <ip>104.25.161.103</ip>
@@ -2755,6 +2755,12 @@
  <domain><![CDATA[www.drugs.ie]]></domain>
  <ip>46.22.130.47</ip>
 </content>
+<content id="191523" includeTime="2025-03-06T15:10:01" urgencyType="1" entryType="3" hash="A7A95BC9F8B8694BA30E9ECE84587A0C" blockType="domain-mask" ts="2025-03-06T15:10:01">
+ <decision date="2015-03-12" number="" org=""/>
+ <domain><![CDATA[*.sectorpravdy.com]]></domain>
+ <ip>91.229.78.121</ip>
+ <ip>91.229.78.57</ip>
+</content>
 <content id="191542" includeTime="2015-05-28T17:46:56" entryType="1" hash="2F75BBEB3C75C744634443C962AD8E8E" ts="2015-05-28T17:46:56">
  <decision date="2015-05-21" number="62294-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[http://a-hentai.com/comicsporn/hentaijap/287-aru-koga-tachiirikinshi-no-ecchi-kichi-jav-lolicon.html]]></url>
@@ -3679,9 +3685,9 @@
  <domain><![CDATA[mirror522.graniru.info]]></domain>
  <ip>104.130.42.74</ip>
 </content>
-<content id="209219" includeTime="2015-07-07T08:27:38" urgencyType="1" entryType="3" hash="7BCA7016DBE008D3DC085530A6558FCB" blockType="domain" ts="2015-07-07T08:27:38">
+<content id="209219" includeTime="2015-07-07T08:27:38" urgencyType="1" entryType="3" hash="A7A95BC9F8B8694BA30E9ECE84587A0C" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-07-06" number="" org=""/>
- <domain><![CDATA[sectorpravdy.com]]></domain>
+ <domain><![CDATA[*.sectorpravdy.com]]></domain>
  <ip>91.229.78.121</ip>
  <ip>91.229.78.57</ip>
 </content>
@@ -4118,9 +4124,9 @@
  <domain><![CDATA[www.rang.com.ua]]></domain>
  <ip>169.48.226.120</ip>
 </content>
-<content id="219888" includeTime="2015-08-05T12:59:56" urgencyType="1" entryType="3" hash="2DF4247DE74138CF3BF18A1E7D99144F" blockType="domain" ts="2015-08-05T12:59:56">
+<content id="219888" includeTime="2015-08-05T12:59:56" urgencyType="1" entryType="3" hash="3716FAA4E335AC1905395FBD6F2D98E4" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-03-12" number="" org=""/>
- <domain><![CDATA[una-unso.com]]></domain>
+ <domain><![CDATA[*.una-unso.com]]></domain>
  <ip>91.234.32.16</ip>
 </content>
 <content id="219901" includeTime="2015-08-17T19:26:48" entryType="1" hash="FFAB0C2CCFF26693E65FD36CA4F9DE23" blockType="domain" ts="2015-08-17T19:26:48">

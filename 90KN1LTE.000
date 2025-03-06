@@ -3288,9 +3288,9 @@
  <ip>104.27.166.5</ip>
  <ip>104.27.167.5</ip>
 </content>
-<content id="250003" includeTime="2015-11-26T19:49:54" urgencyType="1" entryType="3" hash="3869A676596CBCED92B546F1F42D2F0B" blockType="domain" ts="2015-11-26T19:49:54">
+<content id="250003" includeTime="2015-11-26T19:49:54" urgencyType="1" entryType="3" hash="FD9817BE2047F6563886D423E5B0428C" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-04-03" number="" org=""/>
- <domain><![CDATA[ht-bangladesh.info]]></domain>
+ <domain><![CDATA[*.ht-bangladesh.info]]></domain>
  <ip>23.229.154.166</ip>
 </content>
 <content id="250004" includeTime="2015-11-26T19:49:44" urgencyType="1" entryType="3" hash="4CB172C93BC609BA5D4A75426E665CC7" blockType="domain" ts="2015-11-26T19:49:44">
@@ -4706,9 +4706,9 @@
  <ipv6>2606:4700:0030:0000:0000:0000:681c:0059</ipv6>
  <ipv6>2606:4700:0030:0000:0000:0000:681c:0159</ipv6>
 </content>
-<content id="252833" includeTime="2015-12-09T18:10:39" urgencyType="1" entryType="3" hash="C877A3FDADE927D47D33FF5D24202EC2" blockType="domain" ts="2015-12-09T18:10:39">
+<content id="252833" includeTime="2015-12-09T18:10:39" urgencyType="1" entryType="3" hash="09F84E557F8075014D32E5B6A0DCFC44" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-12-04" number="" org=""/>
- <domain><![CDATA[jihadology.net]]></domain>
+ <domain><![CDATA[*.jihadology.net]]></domain>
  <ip>104.16.158.6</ip>
  <ip>104.16.159.6</ip>
  <ip>76.74.255.39</ip>
@@ -4927,10 +4927,9 @@
  <ip>162.159.248.114</ip>
  <ip>162.159.249.114</ip>
 </content>
-<content id="253151" includeTime="2015-12-11T11:38:46" urgencyType="1" entryType="3" hash="419E1D1AF354CFC91CA0051AC2D2B435" ts="2015-12-11T11:38:46">
+<content id="253151" includeTime="2015-12-11T11:38:46" urgencyType="1" entryType="3" hash="E27F3F7A32C625142E1439A6F1FA22AF" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2015-11-19" number="" org=""/>
- <url><![CDATA[http://azov.press/]]></url>
- <domain><![CDATA[azov.press]]></domain>
+ <domain><![CDATA[*.azov.press]]></domain>
  <ip>104.27.164.141</ip>
  <ip>104.27.165.141</ip>
  <ip>104.27.172.236</ip>
@@ -6286,6 +6285,18 @@
  <ip>141.101.118.153</ip>
  <ip>141.101.121.213</ip>
  <ip>141.101.121.214</ip>
+</content>
+<content id="254141" includeTime="2025-03-06T15:10:01" urgencyType="1" entryType="3" hash="421430A285643C48D3BE2A2E6E3CF760" blockType="domain-mask" ts="2025-03-06T15:10:01">
+ <decision date="2015-12-09" number="" org=""/>
+ <domain><![CDATA[*.kavkazcenter.com]]></domain>
+ <ip>104.31.4.178</ip>
+ <ip>104.31.5.178</ip>
+ <ip>141.101.118.152</ip>
+ <ip>141.101.118.153</ip>
+ <ip>141.101.121.213</ip>
+ <ip>141.101.121.214</ip>
+ <ipv6>2606:4700:0031:0000:0000:0000:681f:04b2</ipv6>
+ <ipv6>2606:4700:0031:0000:0000:0000:681f:05b2</ipv6>
 </content>
 <content id="254142" includeTime="2015-12-15T09:59:17" urgencyType="1" entryType="3" hash="9985687683499DE3CC037B3B9F524771" blockType="domain" ts="2015-12-15T09:59:17">
  <decision date="2015-12-09" number="" org=""/>

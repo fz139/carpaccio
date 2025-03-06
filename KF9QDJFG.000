@@ -7363,9 +7363,9 @@
  <ip>104.21.13.88</ip>
  <ip>172.67.199.88</ip>
 </content>
-<content id="4313335" includeTime="2022-04-23T19:45:40" urgencyType="1" entryType="3" hash="B9E4A85CE8E9B04D405599295978AA19" blockType="domain" ts="2022-04-23T19:45:40">
+<content id="4313335" includeTime="2022-04-23T19:45:40" urgencyType="1" entryType="3" hash="6CEF53F68AC334B10C3351F4274C7B71" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2022-04-22" number="" org=""/>
- <domain><![CDATA[riseup.net]]></domain>
+ <domain><![CDATA[*.riseup.net]]></domain>
  <ip>198.252.153.106</ip>
  <ip>198.252.153.67</ip>
 </content>
@@ -10416,15 +10416,20 @@
  <domain><![CDATA[www.emkei.cz]]></domain>
  <ip>101.99.94.116</ip>
 </content>
-<content id="4323390" includeTime="2022-04-26T13:37:36" urgencyType="1" entryType="3" hash="5F91C915B3273A798D9A8FD5FF234372" blockType="domain" ts="2022-04-26T13:37:36">
+<content id="4323390" includeTime="2022-04-26T13:37:36" urgencyType="1" entryType="3" hash="611C7AD9A4E064CA4CA176D28C144630" blockType="domain-mask" ts="2025-03-06T15:10:01">
  <decision date="2022-04-23" number="" org=""/>
- <domain><![CDATA[emkei.cz]]></domain>
+ <domain><![CDATA[*.emkei.cz]]></domain>
  <ip>101.99.94.116</ip>
 </content>
 <content id="4323391" includeTime="2022-04-26T13:37:36" urgencyType="1" entryType="3" hash="4E0D39367902832CDFAEC9BEB1303EFB" ts="2022-04-26T13:37:36">
  <decision date="2022-04-23" number="" org=""/>
  <url><![CDATA[https://www.emkei.cz]]></url>
  <domain><![CDATA[www.emkei.cz]]></domain>
+ <ip>101.99.94.116</ip>
+</content>
+<content id="4323392" includeTime="2025-03-06T15:10:01" urgencyType="1" entryType="3" hash="08A9C505E2ED1E21F1D0F8DF532428C1" blockType="domain-mask" ts="2025-03-06T15:10:01">
+ <decision date="2022-04-23" number="" org=""/>
+ <domain><![CDATA[*.emkei.cz]]></domain>
  <ip>101.99.94.116</ip>
 </content>
 <content id="4323446" includeTime="2022-04-26T16:02:54" entryType="5" hash="BB81A6631DDE1AC092D820E7C6BFBF24" blockType="domain" ts="2022-04-26T16:02:54">
