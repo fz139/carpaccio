@@ -5894,9 +5894,9 @@
  <ipv6>2606:4700:0021:0000:0000:0000:681b:c258</ipv6>
  <ipv6>2606:4700:0021:0000:0000:0000:681b:c358</ipv6>
 </content>
-<content id="6336912" includeTime="2023-09-07T13:50:01" entryType="1" hash="9FFE857E05F5D8A4224E0C6E3213BC77" blockType="domain" ts="2023-09-28T15:05:02">
+<content id="6336912" includeTime="2023-09-07T13:50:01" entryType="1" hash="8619B8874D881B545CA3D384EFF03AEF" blockType="domain-mask" ts="2025-03-07T13:00:03">
  <decision date="2023-09-06" number="2226509-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[kinodrive.me]]></domain>
+ <domain><![CDATA[*.kinodrive.me]]></domain>
  <ip>104.21.54.8</ip>
  <ip>172.67.221.239</ip>
  <ip>188.114.96.1</ip>
