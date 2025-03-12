@@ -1414,9 +1414,9 @@
  <domain><![CDATA[android-monitor.ru]]></domain>
  <ip>164.132.181.133</ip>
 </content>
-<content id="511111" includeTime="2017-05-10T23:53:39" entryType="1" hash="736B5BC06626B675DE136F5E2C25825C" blockType="domain" ts="2025-03-11T14:50:03">
+<content id="511111" includeTime="2017-05-10T23:53:39" entryType="1" hash="E220AE7F791D1D9C95981DFBFABDA6A5" blockType="domain-mask" ts="2025-03-12T06:35:03">
  <decision date="2017-04-24" number="8/7/10-5655" org="МВД"/>
- <domain><![CDATA[doctor24.biz]]></domain>
+ <domain><![CDATA[*.doctor24.biz]]></domain>
  <ip>204.44.104.98</ip>
 </content>
 <content id="511118" includeTime="2017-05-10T23:53:40" entryType="1" hash="1E306E86A3C86190D16436D6E2D51D5C" blockType="domain" ts="2017-05-10T23:53:40">
@@ -1764,9 +1764,8 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6818:617d</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:c2cb</ipv6>
 </content>
-<content id="512536" includeTime="2017-12-28T18:58:09" entryType="1" hash="94EFE13CF41ADA68B265BAC43CCE89D2" ts="2025-03-11T13:35:03">
+<content id="512536" includeTime="2017-12-28T18:58:09" entryType="1" hash="483D610DAA3053CF954B99B44E14F6A4" blockType="domain" ts="2025-03-12T06:35:03">
  <decision date="2017-02-16" number="2-365/2017" org="Североморский районный суд - Мурманская область"/>
- <url><![CDATA[http://smokingirl.org]]></url>
  <domain><![CDATA[smokingirl.org]]></domain>
  <ip>104.21.40.251</ip>
  <ip>172.67.158.146</ip>
