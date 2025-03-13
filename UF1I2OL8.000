@@ -921,17 +921,17 @@
  <domain><![CDATA[vrn.dosug-gid.com]]></domain>
  <ip>185.238.168.22</ip>
 </content>
-<content id="589256" includeTime="2017-09-22T21:55:03" entryType="1" hash="8F4E772953F90889C28A21F2A9F32B60" blockType="domain" ts="2024-03-20T11:35:03">
+<content id="589256" includeTime="2017-09-22T21:55:03" entryType="1" hash="5E5D7519998DFE160FDAA988025A6EEB" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-22" number="8/7/10-12274" org="ÌÂÄ"/>
- <domain><![CDATA[cannaweed.com]]></domain>
+ <domain><![CDATA[*.cannaweed.com]]></domain>
  <ip>104.21.17.25</ip>
  <ip>104.27.201.89</ip>
  <ip>104.27.202.89</ip>
  <ip>172.67.219.157</ip>
 </content>
-<content id="589258" includeTime="2017-08-10T21:02:48" entryType="1" hash="D4A09C2D7A063A95AE00FD2CE1EA1341" blockType="domain" ts="2023-10-31T14:25:03">
+<content id="589258" includeTime="2017-08-10T21:02:48" entryType="1" hash="EF8EB1A5F8476AE206E9F7C5E2ECE8C2" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-08" number="8/7/10-11171" org="ÌÂÄ"/>
- <domain><![CDATA[rcgoto.ru]]></domain>
+ <domain><![CDATA[*.rcgoto.ru]]></domain>
  <ip>104.21.62.68</ip>
  <ip>104.27.136.16</ip>
  <ip>104.27.137.16</ip>
@@ -958,22 +958,27 @@
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="589271" includeTime="2017-09-22T21:55:03" entryType="1" hash="367AF94CE72DDA1E8CC63BEBFD3A5B28" blockType="domain" ts="2025-03-12T14:25:02">
+<content id="589271" includeTime="2017-09-22T21:55:03" entryType="1" hash="2570F565D0A2EBD1CEC840F129618FB6" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-22" number="8/7/10-12344" org="ÌÂÄ"/>
- <domain><![CDATA[cannabis-seeds.co.uk]]></domain>
+ <domain><![CDATA[*.cannabis-seeds.co.uk]]></domain>
  <ip>104.21.6.240</ip>
  <ip>172.67.135.121</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:06f0</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:8779</ipv6>
 </content>
-<content id="589306" includeTime="2017-11-15T17:49:52" entryType="1" hash="4E7F7F35C2D83328591124B6F489A0DC" blockType="domain" ts="2025-03-12T14:25:02">
+<content id="589298" includeTime="2025-03-13T12:50:01" entryType="1" hash="EB3EED30DBECB0D8B277B92B4BB0E71E" blockType="domain-mask" ts="2025-03-13T12:50:01">
+ <decision date="2017-07-01" number="8/7/10-10532" org="ÌÂÄ"/>
+ <domain><![CDATA[*.greenyline.com]]></domain>
+ <ip>92.204.211.86</ip>
+</content>
+<content id="589306" includeTime="2017-11-15T17:49:52" entryType="1" hash="000C0ED67AC73A2A78D2DB6F347ABB78" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-22" number="8/7/10-12342" org="ÌÂÄ"/>
- <domain><![CDATA[11il.com]]></domain>
+ <domain><![CDATA[*.11il.com]]></domain>
  <ip>194.110.243.196</ip>
 </content>
-<content id="589307" includeTime="2017-11-15T17:49:52" entryType="1" hash="BD43F02E1C66EB153DF94DE76570E440" blockType="domain" ts="2023-12-06T15:25:03">
+<content id="589307" includeTime="2017-11-15T17:49:52" entryType="1" hash="6ADBE857A4ABED6066962B795C78EBBB" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-22" number="8/7/10-12343" org="ÌÂÄ"/>
- <domain><![CDATA[bcbuddepot.com]]></domain>
+ <domain><![CDATA[*.bcbuddepot.com]]></domain>
  <ip>104.21.96.96</ip>
  <ip>172.67.176.143</ip>
  <ip>188.114.98.234</ip>
@@ -983,14 +988,14 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="589309" includeTime="2017-10-04T21:21:10" entryType="1" hash="1200CC76DB8743D2B70D07F77DEF84EA" blockType="domain" ts="2017-10-04T21:21:10">
+<content id="589309" includeTime="2017-10-04T21:21:10" entryType="1" hash="F005FB132866DF2F75E992030A9B01E9" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-15" number="8/7/10-11539" org="ÌÂÄ"/>
- <domain><![CDATA[growkind.com]]></domain>
+ <domain><![CDATA[*.growkind.com]]></domain>
  <ip>107.170.213.7</ip>
 </content>
-<content id="589310" includeTime="2017-10-04T21:21:10" entryType="1" hash="A8C1CF34D110FE333C6D83C3D2E470BE" blockType="domain" ts="2025-03-12T15:25:03">
+<content id="589310" includeTime="2017-10-04T21:21:10" entryType="1" hash="EC675505580555B3433F523F8B5101BA" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-15" number="8/7/10-11540" org="ÌÂÄ"/>
- <domain><![CDATA[paradise-seeds.com]]></domain>
+ <domain><![CDATA[*.paradise-seeds.com]]></domain>
  <ip>141.193.213.10</ip>
  <ip>141.193.213.11</ip>
 </content>
@@ -1429,17 +1434,17 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea2e</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea2f</ipv6>
 </content>
-<content id="590386" includeTime="2017-08-10T21:02:48" entryType="1" hash="010C4A614C8F1358F06A6ED2ECC9328F" blockType="domain" ts="2025-03-12T14:25:02">
+<content id="590386" includeTime="2017-08-10T21:02:48" entryType="1" hash="EA489370A6E0BB32B0143AB9235D8887" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-22" number="8/7/10-12026" org="ÌÂÄ"/>
- <domain><![CDATA[legalrc.ws]]></domain>
+ <domain><![CDATA[*.legalrc.ws]]></domain>
  <ip>104.21.76.47</ip>
  <ip>172.67.187.175</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4c2f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:bbaf</ipv6>
 </content>
-<content id="590387" includeTime="2017-10-06T20:27:35" entryType="1" hash="2DDCCAD805EE88B9BD9000ABB082C0AC" blockType="domain" ts="2024-02-07T17:05:03">
+<content id="590387" includeTime="2017-10-06T20:27:35" entryType="1" hash="E81AB7E60ED17E421E567E1DAA51C141" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-22" number="8/7/10-12296" org="ÌÂÄ"/>
- <domain><![CDATA[drgreenstore.com]]></domain>
+ <domain><![CDATA[*.drgreenstore.com]]></domain>
  <ip>104.21.41.226</ip>
  <ip>172.67.195.100</ip>
  <ip>188.114.96.1</ip>
@@ -1449,9 +1454,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="590392" includeTime="2017-08-02T19:33:43" entryType="1" hash="508B1B9A90C12690E106A8C22A626CDA" blockType="domain" ts="2024-02-13T13:55:02">
+<content id="590392" includeTime="2017-08-02T19:33:43" entryType="1" hash="F05ECB58B00B7B011B3988F555688D4A" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-22" number="8/7/10-12216" org="ÌÂÄ"/>
- <domain><![CDATA[sovoc.org]]></domain>
+ <domain><![CDATA[*.sovoc.org]]></domain>
  <ip>94.131.99.28</ip>
 </content>
 <content id="590398" includeTime="2018-02-01T18:16:50" entryType="1" hash="6B5786B9DACC42B218967780B7DBBC2E" ts="2018-02-01T18:16:50">
@@ -1463,9 +1468,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:147c</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:c0db</ipv6>
 </content>
-<content id="590424" includeTime="2017-10-04T21:21:10" entryType="1" hash="5A96E80327284FAFA3520E1E521F5767" blockType="domain" ts="2017-10-04T21:21:10">
+<content id="590424" includeTime="2017-10-04T21:21:10" entryType="1" hash="FC31461F81027709D41E5990F63E921C" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-22" number="8/7/10-12179" org="ÌÂÄ"/>
- <domain><![CDATA[oldschoolba.com]]></domain>
+ <domain><![CDATA[*.oldschoolba.com]]></domain>
  <ip>184.95.38.147</ip>
 </content>
 <content id="590451" includeTime="2018-01-29T20:20:15" entryType="1" hash="80BD7ADC2C07C033E68865135752AC9A" ts="2024-02-14T12:00:04">
@@ -1475,15 +1480,15 @@
  <ip>18.235.59.207</ip>
  <ip>52.71.194.248</ip>
 </content>
-<content id="590486" includeTime="2017-08-17T22:02:45" entryType="1" hash="0FFEC28771B989B26DB8ED106CF7D5B9" blockType="domain" ts="2025-03-12T17:10:03">
+<content id="590486" includeTime="2017-08-17T22:02:45" entryType="1" hash="F711AFAC682431CCFE87824AACA8FF99" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-15" number="8/7/10-11597" org="ÌÂÄ"/>
- <domain><![CDATA[growfair.org]]></domain>
+ <domain><![CDATA[*.growfair.org]]></domain>
  <ip>15.197.225.128</ip>
  <ip>3.33.251.168</ip>
 </content>
-<content id="590488" includeTime="2017-10-04T21:21:10" entryType="1" hash="8FCB0995CEE29B19CB64730FE320087B" blockType="domain" ts="2023-12-06T14:10:04">
+<content id="590488" includeTime="2017-10-04T21:21:10" entryType="1" hash="D23D3CB41D42687AFDB12F9461AF4268" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-01" number="8/7/10-10534" org="ÌÂÄ"/>
- <domain><![CDATA[marijuana-seeds.nl]]></domain>
+ <domain><![CDATA[*.marijuana-seeds.nl]]></domain>
  <ip>104.26.12.75</ip>
  <ip>104.26.13.75</ip>
  <ip>172.67.71.1</ip>
@@ -2201,9 +2206,9 @@
  <domain><![CDATA[www.pyramidseeds.com]]></domain>
  <ip>5.196.239.48</ip>
 </content>
-<content id="592461" includeTime="2018-01-08T11:41:34" entryType="1" hash="F88EEC39ECFF256BDDE49087B783CF9C" blockType="domain" ts="2023-12-06T14:10:04">
+<content id="592461" includeTime="2018-01-08T11:41:34" entryType="1" hash="B4985876E022B5E96F0CE28D249B3553" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-22" number="8/7/10-12180" org="ÌÂÄ"/>
- <domain><![CDATA[weedseedshop.com]]></domain>
+ <domain><![CDATA[*.weedseedshop.com]]></domain>
  <ip>104.22.52.184</ip>
  <ip>104.22.53.184</ip>
  <ip>172.67.8.193</ip>
@@ -2215,14 +2220,14 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="592491" includeTime="2017-10-04T21:21:10" entryType="1" hash="9C82F5025279F505C24339563D271E56" blockType="domain" ts="2025-03-12T14:25:02">
+<content id="592491" includeTime="2017-10-04T21:21:10" entryType="1" hash="9AA9A517E67798C774E498788ED27502" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-22" number="8/7/10-12295" org="ÌÂÄ"/>
- <domain><![CDATA[knabis.com]]></domain>
+ <domain><![CDATA[*.knabis.com]]></domain>
  <ip>95.142.100.124</ip>
 </content>
-<content id="592492" includeTime="2017-08-24T20:27:42" entryType="1" hash="488E849D3EEE9192A604EBAA3CADC3CB" blockType="domain" ts="2024-11-28T15:55:01">
+<content id="592492" includeTime="2017-08-24T20:27:42" entryType="1" hash="C4F35949F0EC7944F3A07050DEAEDF0A" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-22" number="8/7/10-12359" org="ÌÂÄ"/>
- <domain><![CDATA[greenhouseseeds.nl]]></domain>
+ <domain><![CDATA[*.greenhouseseeds.nl]]></domain>
  <ip>145.131.30.58</ip>
 </content>
 <content id="592540" includeTime="2017-08-04T12:10:36" entryType="1" hash="69116E8E89A5E8FE9FD12FF3C9696562" blockType="domain" ts="2017-08-04T12:10:36">
@@ -7343,22 +7348,22 @@
  <domain><![CDATA[hidefromyou.com]]></domain>
  <ip>192.3.86.131</ip>
 </content>
-<content id="603533" includeTime="2017-10-06T20:27:35" entryType="1" hash="B9D686081BB70C64998F06D7274DD2B3" blockType="domain" ts="2024-02-13T15:05:04">
+<content id="603533" includeTime="2017-10-06T20:27:35" entryType="1" hash="4BAD93490EB2ADB4FAF048C6846A64FB" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-30" number="8/7/10-12526" org="ÌÂÄ"/>
- <domain><![CDATA[justfeminized.com]]></domain>
+ <domain><![CDATA[*.justfeminized.com]]></domain>
  <ip>188.114.98.234</ip>
  <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="603544" includeTime="2017-10-06T20:27:35" entryType="1" hash="6993E8A6FD3348A2A7E89E697FEB5480" blockType="domain" ts="2017-10-06T20:27:35">
+<content id="603544" includeTime="2017-10-06T20:27:35" entryType="1" hash="AA085ED0FFA08750B77D32F9E757CA04" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-30" number="8/7/10-12444" org="ÌÂÄ"/>
- <domain><![CDATA[wietzaadjes.nl]]></domain>
+ <domain><![CDATA[*.wietzaadjes.nl]]></domain>
  <ip>83.217.95.26</ip>
 </content>
-<content id="603575" includeTime="2017-09-21T20:49:39" entryType="1" hash="A903AEABDBE728723EE2867A588C95B5" blockType="domain" ts="2023-12-21T10:45:03">
+<content id="603575" includeTime="2017-09-21T20:49:39" entryType="1" hash="C89534C42A8A533B86C7975630943BCC" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-30" number="8/7/10-11438" org="ÌÂÄ"/>
- <domain><![CDATA[chemical-mix.com]]></domain>
+ <domain><![CDATA[*.chemical-mix.com]]></domain>
  <ip>104.21.2.170</ip>
  <ip>172.67.129.122</ip>
  <ip>188.114.96.1</ip>
@@ -7368,9 +7373,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="603621" includeTime="2017-08-17T22:02:32" entryType="1" hash="86B362693A207130A5CE18452BECE2EF" blockType="domain" ts="2025-03-12T14:25:02">
+<content id="603621" includeTime="2017-08-17T22:02:32" entryType="1" hash="2FA6D6E03C09FC45B34CF37C744B1CC6" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-07-31" number="8/7/10-12145" org="ÌÂÄ"/>
- <domain><![CDATA[legalrc.ws]]></domain>
+ <domain><![CDATA[*.legalrc.ws]]></domain>
  <ip>104.21.76.47</ip>
  <ip>172.67.187.175</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4c2f</ipv6>

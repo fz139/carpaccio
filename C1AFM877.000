@@ -1483,10 +1483,9 @@
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="617279" includeTime="2017-09-22T21:55:00" entryType="1" hash="21FCAD8348D4F62C5112EB796469C330" ts="2024-10-18T14:30:04">
+<content id="617279" includeTime="2017-09-22T21:55:00" entryType="1" hash="612DF7DCF9D0FC0E91108F8E5FBED3AC" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-08-17" number="8/7/10-13151" org="ÌÂÄ"/>
- <url><![CDATA[https://torogrow.com/]]></url>
- <domain><![CDATA[torogrow.com]]></domain>
+ <domain><![CDATA[*.torogrow.com]]></domain>
  <ip>104.25.104.27</ip>
  <ip>104.25.105.27</ip>
  <ip>104.26.2.144</ip>
@@ -1514,9 +1513,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="617393" includeTime="2017-10-25T21:47:07" entryType="1" hash="F541CB9850B376806E0584540C017FB3" blockType="domain" ts="2017-10-25T21:47:07">
+<content id="617393" includeTime="2017-10-25T21:47:07" entryType="1" hash="F48F79903E96D749ECD2D444FE626E05" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-08-17" number="8/7/10-12800" org="ÌÂÄ"/>
- <domain><![CDATA[lamota.org]]></domain>
+ <domain><![CDATA[*.lamota.org]]></domain>
  <ip>54.37.149.55</ip>
 </content>
 <content id="617448" includeTime="2017-09-11T19:02:14" entryType="1" hash="DBE1BD9047ABA85B4288BE15F1D44D5E" ts="2017-09-11T19:02:14">
@@ -11728,9 +11727,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="636943" includeTime="2017-09-21T20:49:41" entryType="1" hash="7663D555ED69A131BFFE7BD3A3D8ACEA" blockType="domain" ts="2024-02-13T16:05:02">
+<content id="636943" includeTime="2017-09-21T20:49:41" entryType="1" hash="412A585DECFE7CA9ADA832F5316EBAFA" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-08-28" number="8/7/10-13591" org="ÌÂÄ"/>
- <domain><![CDATA[rc-chems.org]]></domain>
+ <domain><![CDATA[*.rc-chems.org]]></domain>
  <ip>185.11.145.254</ip>
 </content>
 <content id="637023" includeTime="2017-11-20T18:43:06" entryType="1" hash="4AF359134FF3A2F63C5DE320BACD55F9" blockType="domain" ts="2025-02-28T11:50:03">

@@ -736,9 +736,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="736191" includeTime="2017-12-12T11:56:47" entryType="1" hash="574A020CE59D63DA04C04C5559C121B2" blockType="domain" ts="2017-12-12T11:56:47">
+<content id="736191" includeTime="2017-12-12T11:56:47" entryType="1" hash="428E74F77900E84066BEB4D7D332DE73" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-12-06" number="8/7/10-18932" org="ÌÂÄ"/>
- <domain><![CDATA[ecolav24.biz]]></domain>
+ <domain><![CDATA[*.ecolav24.biz]]></domain>
  <ip>104.21.35.207</ip>
  <ip>104.27.150.56</ip>
  <ip>104.27.151.56</ip>
@@ -750,9 +750,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:681b:9738</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:23cf</ipv6>
 </content>
-<content id="736193" includeTime="2017-12-11T11:50:25" entryType="1" hash="89F01850DEA5154648BEED27A424C7A3" blockType="domain" ts="2023-08-24T15:50:02">
+<content id="736193" includeTime="2017-12-11T11:50:25" entryType="1" hash="55A8F59A6A6513D5621FF566126AA9E3" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-12-06" number="8/7/10-18920" org="ÌÂÄ"/>
- <domain><![CDATA[kaktus24.biz]]></domain>
+ <domain><![CDATA[*.kaktus24.biz]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -770,9 +770,9 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:8655</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:681c:1165</ipv6>
 </content>
-<content id="736199" includeTime="2017-12-11T17:49:06" entryType="1" hash="307D64A0A0A33A8CC419EDF30B2179E7" blockType="domain" ts="2024-02-14T12:00:04">
+<content id="736199" includeTime="2017-12-11T17:49:06" entryType="1" hash="0283182D61C65C3601B9C1910FD97118" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-12-05" number="8/7/10-18832" org="ÌÂÄ"/>
- <domain><![CDATA[hitpoint.biz]]></domain>
+ <domain><![CDATA[*.hitpoint.biz]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -866,9 +866,9 @@
  <domain><![CDATA[tainster.com]]></domain>
  <ip>185.99.71.201</ip>
 </content>
-<content id="736312" includeTime="2018-12-20T12:12:57" entryType="1" hash="DC0A2A093B7EF7925907431467F46879" blockType="domain" ts="2024-02-14T12:00:04">
+<content id="736312" includeTime="2018-12-20T12:12:57" entryType="1" hash="FDB709EE2DD177578240BAA9950DE386" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-12-05" number="8/7/10-17647" org="ÌÂÄ"/>
- <domain><![CDATA[amchdenver.com]]></domain>
+ <domain><![CDATA[*.amchdenver.com]]></domain>
  <ip>159.203.188.46</ip>
 </content>
 <content id="736315" includeTime="2018-07-03T18:27:54" entryType="1" hash="B2604AED71F6DFE5E428E98D32ED46A3" blockType="domain" ts="2018-07-03T18:27:54">
@@ -930,8 +930,9 @@
  <domain><![CDATA[www.bigtitsboss.com]]></domain>
  <ip>66.254.114.234</ip>
 </content>
-<content id="736343" includeTime="2017-12-11T17:49:13" entryType="1" hash="C7C7E507EF9CFDD649A849527A66B842" blockType="domain" ts="2017-12-11T17:49:13">
+<content id="736343" includeTime="2017-12-11T17:49:13" entryType="1" hash="37E133A6656A3F567B8B363CDF31593F" ts="2025-03-13T12:50:01">
  <decision date="2017-12-05" number="8/7/10-17558" org="ÌÂÄ"/>
+ <url><![CDATA[https://www.pyramidseeds.com]]></url>
  <domain><![CDATA[www.pyramidseeds.com]]></domain>
  <ip>5.196.239.48</ip>
 </content>
@@ -1872,25 +1873,25 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:eb19</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:eb1a</ipv6>
 </content>
-<content id="738394" includeTime="2017-12-12T11:56:50" entryType="1" hash="64B6451283CEBD7508FC1058BBA2AF90" blockType="domain" ts="2017-12-12T11:56:50">
+<content id="738394" includeTime="2017-12-12T11:56:50" entryType="1" hash="A51FBFBC1B32570B44FFA8592C86ABE0" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-12-07" number="8/7/10-19008" org="ÌÂÄ"/>
- <domain><![CDATA[avs24.biz]]></domain>
+ <domain><![CDATA[*.avs24.biz]]></domain>
  <ip>104.21.51.59</ip>
  <ip>172.67.221.217</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:333b</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:ddd9</ipv6>
 </content>
-<content id="738395" includeTime="2017-12-12T11:56:50" entryType="1" hash="0662697028CD1098D66D3DDD9924ADF3" blockType="domain" ts="2023-08-24T15:50:02">
+<content id="738395" includeTime="2017-12-12T11:56:50" entryType="1" hash="1F12FD18AF81D90E03FC25543D23E6A0" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-12-07" number="8/7/10-19002" org="ÌÂÄ"/>
- <domain><![CDATA[pzh24.biz]]></domain>
+ <domain><![CDATA[*.pzh24.biz]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="738485" includeTime="2017-12-26T01:52:48" entryType="1" hash="CD7EDD36B960EBA35E31FB5233D2275B" blockType="domain" ts="2017-12-26T01:52:48">
+<content id="738485" includeTime="2017-12-26T01:52:48" entryType="1" hash="355A7035D0E65FE39501576B18AEF6C5" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-12-08" number="8/7/10-19122" org="ÌÂÄ"/>
- <domain><![CDATA[nani24rc.biz]]></domain>
+ <domain><![CDATA[*.nani24rc.biz]]></domain>
  <ip>104.21.18.25</ip>
  <ip>104.28.22.176</ip>
  <ip>104.28.23.176</ip>
@@ -3496,9 +3497,9 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:eb0b</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:eb0c</ipv6>
 </content>
-<content id="741429" includeTime="2017-12-15T13:14:15" entryType="1" hash="F57F2A04AE66F8E174F5C178E8ED3FFD" blockType="domain" ts="2025-03-12T14:55:02">
+<content id="741429" includeTime="2017-12-15T13:14:15" entryType="1" hash="3E3F8A63E6FF55EBE7F5E7846E6649E9" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-12-11" number="8/7/10-19240" org="ÌÂÄ"/>
- <domain><![CDATA[mrpa24bot.biz]]></domain>
+ <domain><![CDATA[*.mrpa24bot.biz]]></domain>
  <ip>204.44.104.77</ip>
 </content>
 <content id="741768" includeTime="2017-12-11T21:05:35" urgencyType="1" entryType="3" hash="9AFC1EC36BFB36D3D087F8AA6DD40C77" blockType="domain-mask" ts="2025-03-06T15:10:01">
@@ -4485,14 +4486,14 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1d7f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9503</ipv6>
 </content>
-<content id="744361" includeTime="2017-12-18T12:10:56" entryType="1" hash="996387BB985B250553C71BCACC13BF88" blockType="domain" ts="2025-03-12T14:55:02">
+<content id="744361" includeTime="2017-12-18T12:10:56" entryType="1" hash="F0E5FD54A089794EEC0BEA31CA7A1C36" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-12-12" number="8/7/10-19338" org="ÌÂÄ"/>
- <domain><![CDATA[aquayar.biz]]></domain>
+ <domain><![CDATA[*.aquayar.biz]]></domain>
  <ip>204.44.104.54</ip>
 </content>
-<content id="744365" includeTime="2017-12-18T17:42:06" entryType="1" hash="BE2019756118E9BB6C2D81E11E706A2E" blockType="domain" ts="2025-03-12T14:55:02">
+<content id="744365" includeTime="2017-12-18T17:42:06" entryType="1" hash="967C51A2B1959D56B5FC238E351859BD" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-12-12" number="8/7/10-19362" org="ÌÂÄ"/>
- <domain><![CDATA[bestshop24rc.biz]]></domain>
+ <domain><![CDATA[*.bestshop24rc.biz]]></domain>
  <ip>204.44.104.14</ip>
 </content>
 <content id="744502" includeTime="2017-12-20T20:42:17" entryType="1" hash="2211A911EC9607BA3B1FD4E3D873178D" blockType="domain" ts="2017-12-20T20:42:17">
@@ -6522,9 +6523,9 @@
  <domain><![CDATA[velesova-sloboda.info]]></domain>
  <ip>54.37.116.158</ip>
 </content>
-<content id="751135" includeTime="2017-12-22T12:32:23" entryType="1" hash="3043FBA86AC733470E1EE742DFA59470" blockType="domain" ts="2025-03-12T14:55:02">
+<content id="751135" includeTime="2017-12-22T12:32:23" entryType="1" hash="9565E57245FF3FF388A75870BD7E2363" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-12-18" number="8/7/10-19770" org="ÌÂÄ"/>
- <domain><![CDATA[sherlock24.biz]]></domain>
+ <domain><![CDATA[*.sherlock24.biz]]></domain>
  <ip>204.44.104.93</ip>
 </content>
 <content id="751161" includeTime="2017-12-22T12:32:24" entryType="1" hash="87ABBECA957BFCBF0F8AF7812EA9A22B" blockType="domain" ts="2024-08-20T11:20:02">
@@ -9353,10 +9354,9 @@
  <domain><![CDATA[40.300kbit.pw]]></domain>
  <ip>199.59.243.226</ip>
 </content>
-<content id="759317" includeTime="2018-01-02T21:09:25" entryType="1" hash="0661F9120F4121A78EA2F830CA30C116" ts="2024-02-15T14:25:03">
+<content id="759317" includeTime="2018-01-02T21:09:25" entryType="1" hash="28D33CB47E6CBE61E60EBFDA2CD9605E" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-12-22" number="8/7/10-20140" org="ÌÂÄ"/>
- <url><![CDATA[https://jahgrow.com/]]></url>
- <domain><![CDATA[jahgrow.com]]></domain>
+ <domain><![CDATA[*.jahgrow.com]]></domain>
  <ip>104.21.85.48</ip>
  <ip>104.27.160.96</ip>
  <ip>104.27.161.96</ip>
@@ -9366,9 +9366,9 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:ca4c</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:5530</ipv6>
 </content>
-<content id="759321" includeTime="2018-01-02T21:09:25" entryType="1" hash="099FFC3F9DF25EF18447C109F08B90F7" blockType="domain" ts="2025-03-12T14:55:02">
+<content id="759321" includeTime="2018-01-02T21:09:25" entryType="1" hash="A4EE0BE0B487FEF12C2FEA224391387D" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2017-12-22" number="8/7/10-20119" org="ÌÂÄ"/>
- <domain><![CDATA[gribi24.biz]]></domain>
+ <domain><![CDATA[*.gribi24.biz]]></domain>
  <ip>204.44.104.194</ip>
 </content>
 <content id="759666" includeTime="2018-01-09T21:49:43" entryType="1" hash="6106CB7237597ED9A70FB40D1B1000D3" blockType="domain" ts="2018-01-09T21:49:43">
@@ -15065,9 +15065,9 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea38</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea39</ipv6>
 </content>
-<content id="778615" includeTime="2018-01-23T21:13:23" entryType="1" hash="D2C74CA1906C137756FA06425B6959AB" blockType="domain" ts="2018-01-23T21:13:23">
+<content id="778615" includeTime="2018-01-23T21:13:23" entryType="1" hash="23C10EB950486903C4DD64AA28891B7F" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2018-01-17" number="1300" org="ÌÂÄ"/>
- <domain><![CDATA[saratv.biz]]></domain>
+ <domain><![CDATA[*.saratv.biz]]></domain>
  <ip>104.21.35.53</ip>
  <ip>172.67.214.24</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:d618</ipv6>
@@ -15911,9 +15911,9 @@
  <ip>195.72.134.58</ip>
  <ip>195.72.135.58</ip>
 </content>
-<content id="782014" includeTime="2018-01-26T12:25:35" entryType="1" hash="782E58C57BCE3B5A0B979246B8E9E64A" blockType="domain" ts="2018-01-26T12:25:35">
+<content id="782014" includeTime="2018-01-26T12:25:35" entryType="1" hash="778A116C16DB6CA04818A72CE7AA90C5" blockType="domain-mask" ts="2025-03-13T12:50:01">
  <decision date="2018-01-20" number="1600" org="ÌÂÄ"/>
- <domain><![CDATA[bs24rc.biz]]></domain>
+ <domain><![CDATA[*.bs24rc.biz]]></domain>
  <ip>104.21.71.220</ip>
  <ip>104.24.120.166</ip>
  <ip>104.24.121.166</ip>
