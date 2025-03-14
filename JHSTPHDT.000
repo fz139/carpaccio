@@ -2906,9 +2906,9 @@
  <domain><![CDATA[kungurov-livejournal-com.zproxy.org]]></domain>
  <ip>188.165.25.76</ip>
 </content>
-<content id="8018933" includeTime="2025-03-14T09:00:03" urgencyType="1" entryType="3" hash="4CBCD480B04829093DC9924CB6BB1C4E" blockType="domain" ts="2025-03-14T09:00:03">
+<content id="8018933" includeTime="2025-03-14T09:00:03" urgencyType="1" entryType="3" hash="E39F8D1349F08ABA889F1BD07788A5F3" blockType="domain-mask" ts="2025-03-14T15:20:03">
  <decision date="2025-03-11" number="" org=""/>
- <domain><![CDATA[bash-memorial.space]]></domain>
+ <domain><![CDATA[*.bash-memorial.space]]></domain>
  <ip>145.14.156.198</ip>
 </content>
 <content id="8018934" includeTime="2025-03-14T09:00:03" urgencyType="1" entryType="3" hash="0CEAE751D5E8458397AE1FD80A9FDA56" blockType="domain" ts="2025-03-14T09:00:03">
@@ -2986,6 +2986,333 @@
  <domain><![CDATA[*.gazdlplomasii.ru]]></domain>
  <ip>185.43.220.152</ip>
  <ipv6>2a04:9640:0000:0003:0002:0000:0000:0002</ipv6>
+</content>
+<content id="8018962" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="F719BF60DEB42E7581853ED03C146C7D" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.primsuccessmeg.com]]></domain>
+ <ip>198.54.119.115</ip>
+</content>
+<content id="8018963" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="6556B5C92F19CBF7718C6A6DE05C46DA" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.evgmarkets.net]]></domain>
+ <ip>104.21.61.106</ip>
+ <ip>172.67.209.19</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:d113</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3d6a</ipv6>
+</content>
+<content id="8018964" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="23EFB11F3AED05835DAA5F2E5D27CBCD" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.utlc-investing.info]]></domain>
+ <ip>104.21.12.22</ip>
+ <ip>172.67.151.78</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:0c16</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:974e</ipv6>
+</content>
+<content id="8018965" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="E4CB8118C7C38121506AFFB16804E31A" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.bitrendbroker.com]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8018966" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="115F45BCF9A6AF9B8FC726CB3B8680DF" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.nizedamarketcap.com]]></domain>
+ <ip>92.113.19.120</ip>
+ <ipv6>2a02:4780:003f:1795:0000:0b49:47b9:0007</ipv6>
+</content>
+<content id="8018967" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="AEA82240F6A38BDDC89D1AEAAB516E94" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.mightybullfx25.com]]></domain>
+ <ip>198.54.115.129</ip>
+</content>
+<content id="8018968" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="B323A480608F51A1086278E564FFFC1A" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.liquision.com]]></domain>
+ <ip>104.21.2.28</ip>
+ <ip>172.67.128.163</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:021c</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:80a3</ipv6>
+</content>
+<content id="8018969" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="2CA783D7A93A445F0E4C1E655B1460BB" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.binarium.ceo]]></domain>
+ <ip>198.177.120.151</ip>
+</content>
+<content id="8018970" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="BF422F2F5E7DBF18CAFA31DB5FA1BA5B" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.binariumys.com]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8018971" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="B9C86D0BE4F923D0404F42EA5DFC4179" blockType="domain" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[kbe-noro.cc]]></domain>
+ <ip>5.230.252.169</ip>
+</content>
+<content id="8018972" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="1090CDE26B62B6B6D5E23684821AD294" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.knbenodro.pro]]></domain>
+ <ip>104.21.19.10</ip>
+ <ip>172.67.184.109</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:130a</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:b86d</ipv6>
+</content>
+<content id="8018973" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="808591870AC0F705F6B36C7C1621202C" blockType="domain" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[kn-bnd.world]]></domain>
+ <ip>104.21.67.28</ip>
+ <ip>172.67.211.149</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:431c</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:d395</ipv6>
+</content>
+<content id="8018976" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="08203DAB69BE25721B88A784E94637F9" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.azquestinvestment.com]]></domain>
+ <ip>198.177.123.8</ip>
+</content>
+<content id="8018977" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="19CCED3AEFE69EBA52852F015E62B149" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.miners-signals.com]]></domain>
+ <ip>195.35.38.205</ip>
+ <ipv6>2a02:4780:000b:1061:0000:2bb2:5223:0007</ipv6>
+</content>
+<content id="8018978" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="2F1B64BBDCB273E1D1A2A9290B3D64A5" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.unresiliencecapitals.com]]></domain>
+ <ip>145.223.89.42</ip>
+ <ipv6>2a02:4780:000a:1857:0000:36ae:337b:0003</ipv6>
+</content>
+<content id="8018979" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="2498219DDD3282AA70723C54D723EA01" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.glofxtradinding.com]]></domain>
+ <ip>198.251.89.164</ip>
+</content>
+<content id="8018980" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="C87BE3BE867BD8197495C43323B9534C" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.webtrafff.com]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8018981" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="59520A7C1E3F2DC08B61C801964E82E0" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.stabletradecap.com]]></domain>
+ <ip>45.67.14.57</ip>
+</content>
+<content id="8018982" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="5B7A88801FF46ED7D3A8C869D7115723" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.royal-match.top]]></domain>
+ <ip>194.26.232.129</ip>
+</content>
+<content id="8018983" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="6B9D3906E5D64CF5641CC313FA8EC0EB" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.skillcash.site]]></domain>
+ <ip>185.151.30.224</ip>
+ <ipv6>2a07:7800:0000:0000:0000:0000:0000:0224</ipv6>
+</content>
+<content id="8018984" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="948AB0490C0A4BDE5A60AACD6743C987" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.heelgainers.com]]></domain>
+ <ip>198.251.89.82</ip>
+</content>
+<content id="8018985" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="C296567A70FF2A0F1959982CCFDD0FFF" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.trendglopts.top]]></domain>
+ <ip>192.3.13.154</ip>
+</content>
+<content id="8018986" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="843075F782890328403B3D6E3EEF309E" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.hoxora.com]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8018987" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="8819E6E4E928F99BCDB93DE41B3195CB" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.legalwealthinvest.com]]></domain>
+ <ip>87.98.147.249</ip>
+</content>
+<content id="8018988" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="2C4E7676BEE2909931C37459FBB6B3D1" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.luxvide.org]]></domain>
+ <ip>199.188.200.3</ip>
+</content>
+<content id="8018989" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="E2A673B658578555D7B2D2876DCC9D11" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.finvege.com]]></domain>
+ <ip>195.35.38.205</ip>
+ <ipv6>2a02:4780:000b:1061:0000:2bb2:5223:0006</ipv6>
+</content>
+<content id="8018990" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="A87B42C46511E375033C24561D9D82E3" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.bitspaceinv.com]]></domain>
+ <ip>46.202.156.214</ip>
+ <ipv6>2a02:4780:003f:1903:0000:237f:aed3:0010</ipv6>
+</content>
+<content id="8018991" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="F755D3540ECF8A23DDCECA05E9A8BCA0" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.asgreaxclrenergy.xyz]]></domain>
+ <ip>203.26.151.242</ip>
+</content>
+<content id="8018992" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="E5B390D4865E4F4170B82761AFBAE93D" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.libertytrademart.com]]></domain>
+ <ip>198.12.66.114</ip>
+</content>
+<content id="8018993" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="48693606B440CADA81C45C9AB7EACCC6" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.super-birds.cloud]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8018994" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="DD3D58413C9D17856975B997BD201FF6" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.cribfi.com]]></domain>
+ <ip>198.54.116.102</ip>
+</content>
+<content id="8018995" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="29A6EABF13C809583B29B72683ED33BF" blockType="domain" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[rollercoin.online]]></domain>
+ <ip>5.63.158.160</ip>
+</content>
+<content id="8018996" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="A9CC60353D740B2EBF1BBD5A50C05D6B" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.helixcapitalsltd.com]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8018997" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="394F5A7FE453FA850A002831BB3C8591" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.octarinvest.com]]></domain>
+ <ip>172.93.120.110</ip>
+</content>
+<content id="8018998" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="D08FB97D8952AD1D8A1A86C41670FB2E" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.primebridgeltd.com]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8018999" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="64E303DA773580BF99F4440175E4643C" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.bridgevistacapitalltd.com]]></domain>
+ <ip>192.99.81.101</ip>
+</content>
+<content id="8019000" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="5932FA658CA355516E89F75E6850BB4A" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.alpha-trex.com]]></domain>
+ <ip>172.93.120.110</ip>
+</content>
+<content id="8019001" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="ADB513151CE6A3F1E262FB0DCA7A66F3" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.alny13.site]]></domain>
+ <ip>46.36.221.211</ip>
+</content>
+<content id="8019002" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="C6C039383DC8C7AC5B277A697FAB1F2A" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.excellovest.com]]></domain>
+ <ip>191.101.13.213</ip>
+ <ipv6>2a02:4780:000b:1001:0000:12e8:3205:000f</ipv6>
+</content>
+<content id="8019003" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="68961855E90687BC861072D0AB5BE346" blockType="domain" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[dream-12.store]]></domain>
+ <ip>104.21.69.69</ip>
+ <ip>172.67.206.9</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:4545</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:ce09</ipv6>
+</content>
+<content id="8019004" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="6D79891D91A1FB9FFF1BE164EDED33A9" blockType="domain" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[rublik.net]]></domain>
+ <ip>46.250.231.15</ip>
+</content>
+<content id="8019005" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="283104F06C136426BD2B088A1ADECAA2" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.pepperstone.finance]]></domain>
+ <ip>104.21.49.30</ip>
+ <ip>172.67.140.130</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:311e</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:8c82</ipv6>
+</content>
+<content id="8019006" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="2FC727ACE7D1428298ECF74E26B3B369" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.capy-bara.vip]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8019007" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="4679E189B8BA01E968EFABD8DCA29E22" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.tradetargetoptimum.com]]></domain>
+ <ip>66.29.148.81</ip>
+</content>
+<content id="8019008" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="2295A5D2186615EE4520561AFF73DBE7" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.optimalasset-investment.com]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8019009" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="6B564F129E775663EFF8EC748570731F" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.cruise-x.com]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8019010" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="4F3FB813AFEFDCA179BEDB5B99762675" blockType="domain" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[play2x.sk]]></domain>
+ <ip>154.197.64.9</ip>
+</content>
+<content id="8019011" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="D29FC96D2B2C78AA2F7A3B7CFBBC1E3E" blockType="domain-mask" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[*.xgroaitrade.com]]></domain>
+ <ip>185.246.188.31</ip>
+</content>
+<content id="8019012" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="38CC4032CE74D9AB1B6D162A8B87498F" blockType="domain" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[6704a5.com]]></domain>
+ <ip>5.61.60.106</ip>
+</content>
+<content id="8019013" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="1D138E82987AA2EB463FFA4914ACCDE4" blockType="domain" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[tycweb004.com]]></domain>
+ <ip>5.61.60.106</ip>
+</content>
+<content id="8019014" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="EFA50087828B1AE4FB0F410DBB659FF8" blockType="domain" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[2a.trust-payer.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8019015" includeTime="2025-03-14T15:20:03" urgencyType="1" entryType="3" hash="CCE1F6FBD89DAC51D726C12504A4D755" blockType="domain" ts="2025-03-14T15:20:03">
+ <decision date="2025-03-05" number="" org=""/>
+ <domain><![CDATA[2a.trust-payer.online]]></domain>
+ <ip>172.67.208.177</ip>
 </content>
 <content id="8019016" includeTime="2025-03-13T20:30:04" urgencyType="1" entryType="3" hash="9C36390162E192E113E5F294DB6753C3" blockType="domain-mask" ts="2025-03-13T20:30:04">
  <decision date="2024-07-18" number="" org=""/>
