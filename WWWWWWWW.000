@@ -558,6 +558,11 @@
  <domain><![CDATA[vido-hd.novibox.ru]]></domain>
  <ip>91.198.166.222</ip>
 </content>
+<content id="8023052" includeTime="2025-03-14T21:55:02" urgencyType="1" entryType="3" hash="3850026101CD999FD056A6EEEEAE1318" blockType="domain-mask" ts="2025-03-14T21:55:02">
+ <decision date="2025-03-13" number="" org=""/>
+ <domain><![CDATA[*.chechenunitedforce.com]]></domain>
+ <ip>209.124.66.8</ip>
+</content>
 <content id="8023161" includeTime="2025-03-14T13:30:03" entryType="1" hash="4F8FEF32748C2AE1F0C0AF876571BE7B" blockType="domain-mask" ts="2025-03-14T13:30:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.ds-luchik.online]]></domain>
@@ -6951,5 +6956,54 @@
  <ip>172.67.151.236</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0c52</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:97ec</ipv6>
+</content>
+<content id="8027758" includeTime="2025-03-14T21:55:02" urgencyType="1" entryType="3" hash="14CDEB64FBAB435B52D1E27AB9419182" blockType="domain-mask" ts="2025-03-14T21:55:02">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[*.seemov.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8028908" includeTime="2025-03-14T21:55:02" urgencyType="1" entryType="3" hash="00577059CE7F468DE4AD1FDA81B4E014" ts="2025-03-14T21:55:02">
+ <decision date="2025-03-10" number="" org=""/>
+ <url><![CDATA[https://linkin.bio/dwnews]]></url>
+ <domain><![CDATA[linkin.bio]]></domain>
+ <ip>108.138.7.118</ip>
+ <ip>108.138.7.120</ip>
+ <ip>108.138.7.21</ip>
+ <ip>108.138.7.80</ip>
+</content>
+<content id="8028909" includeTime="2025-03-14T21:55:02" urgencyType="1" entryType="3" hash="4845D5DFF39946139CFB686E4D955D0A" ts="2025-03-14T21:55:02">
+ <decision date="2025-02-20" number="" org=""/>
+ <url><![CDATA[https://pirates-caribbean-lordfillm.ru/bezymyannaya-odna-zhenschina-v-berline/]]></url>
+ <domain><![CDATA[pirates-caribbean-lordfillm.ru]]></domain>
+ <ip>104.21.89.149</ip>
+ <ip>172.67.160.226</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:a0e2</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:5995</ipv6>
+</content>
+<content id="8028910" includeTime="2025-03-14T21:55:02" urgencyType="1" entryType="3" hash="7AC44513693943005D9AA84D9C904B1A" blockType="domain-mask" ts="2025-03-14T21:55:02">
+ <decision date="2025-03-13" number="" org=""/>
+ <domain><![CDATA[*.freemoscow.university]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8028911" includeTime="2025-03-14T21:55:02" urgencyType="1" entryType="3" hash="8AF0AB6FB570E5391D654414DEF0C421" blockType="domain-mask" ts="2025-03-14T21:55:02">
+ <decision date="2025-03-13" number="" org=""/>
+ <domain><![CDATA[*.freeuniversity.pubpub.org]]></domain>
+ <ip>188.114.98.224</ip>
+ <ip>188.114.99.224</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
 </reg:register>
