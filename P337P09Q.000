@@ -2887,6 +2887,11 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:de59</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:5e66</ipv6>
 </content>
+<content id="7944661" includeTime="2025-03-18T14:35:02" entryType="1" hash="926DC1DAA25965B93209472542BEBC81" blockType="domain-mask" ts="2025-03-18T14:35:02">
+ <decision date="2025-02-26" number="3013423-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.cringe-lordfilm.ru]]></domain>
+ <ip>87.236.16.17</ip>
+</content>
 <content id="7944662" includeTime="2025-02-27T07:20:03" entryType="1" hash="28A7B8F913042124F06E85634140F2DE" blockType="domain-mask" ts="2025-02-27T07:20:03">
  <decision date="2025-01-30" number="2-6-14/2025-01-27-10363-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.banda30.top]]></domain>
@@ -3741,12 +3746,6 @@
  <decision date="2025-02-24" number="2а-76/2025" org="Селивановский районный суд - Владимирская область"/>
  <domain><![CDATA[sex2.sexvladimir.club]]></domain>
  <ip>188.166.45.186</ip>
-</content>
-<content id="7945723" includeTime="2025-03-12T07:05:02" entryType="1" hash="A7AEBD8BE10765DE575A4E1483C662A9" ts="2025-03-12T07:05:02">
- <decision date="2025-02-26" number="2а-712/2025" org="Свердловский районный суд г. Белгорода - Белгородская область"/>
- <url><![CDATA[https://bestabak.tech/product/camel-blue-hard-pack/]]></url>
- <domain><![CDATA[bestabak.tech]]></domain>
- <ip>212.164.86.4</ip>
 </content>
 <content id="7945727" includeTime="2025-02-28T08:15:02" entryType="1" hash="6778F675053F377278091E213BE7B13D" blockType="domain-mask" ts="2025-02-28T08:15:02">
  <decision date="2024-12-18" number="2-6-14/2024-12-08-15219-АИ" org="ФНС"/>
