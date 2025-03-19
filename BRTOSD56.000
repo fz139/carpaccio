@@ -6548,6 +6548,18 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:39fe</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c44a</ipv6>
 </content>
+<content id="7926495" includeTime="2025-03-19T07:20:03" entryType="1" hash="70815CE4459A495C89663556F82417AD" blockType="domain-mask" ts="2025-03-19T07:20:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.nekrasovo66.ru]]></domain>
+ <ip>104.21.12.47</ip>
+ <ip>172.67.193.169</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:0c2f</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:c1a9</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="7926496" includeTime="2025-02-22T09:00:05" entryType="1" hash="D27F0A38FA7B57B8CEA1BA3A0D3D8FA9" blockType="domain-mask" ts="2025-02-22T09:00:05">
  <decision date="2025-01-30" number="2-6-14/2025-01-27-10363-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pin-up-games23.top]]></domain>
@@ -8318,6 +8330,14 @@
  <ip>172.67.164.225</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:59cc</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:a4e1</ipv6>
+</content>
+<content id="7926746" includeTime="2025-03-19T07:20:03" entryType="1" hash="FBAA85263F2F8E78403965EC08765E14" blockType="domain" ts="2025-03-19T07:20:03">
+ <decision date="2025-02-21" number="3004180-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[activasport.ar]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7926747" includeTime="2025-02-22T09:00:05" entryType="1" hash="B4635346DF6055BD599354ED839EAFA2" blockType="domain-mask" ts="2025-02-22T09:00:05">
  <decision date="2025-01-30" number="2-6-14/2025-01-27-10363-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
