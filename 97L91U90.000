@@ -1897,6 +1897,15 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:2f42</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:913f</ipv6>
 </content>
+<content id="8023659" includeTime="2025-03-20T07:15:03" entryType="1" hash="C01A8B152C4AC3436C003B46B4B37968" ts="2025-03-20T07:15:03">
+ <decision date="2025-03-13" number="3040961-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://x4.rusoska.org/video/84353]]></url>
+ <domain><![CDATA[x4.rusoska.org]]></domain>
+ <ip>104.21.16.93</ip>
+ <ip>172.67.167.49</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:a731</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:105d</ipv6>
+</content>
 <content id="8023660" includeTime="2025-03-14T00:05:01" entryType="1" hash="2EFD9D4452FFA3B22B1F5ECA0FE90667" blockType="domain-mask" ts="2025-03-14T00:05:01">
  <decision date="2025-02-20" number="2-6-14/2024-10-14-3331-АИ" org="ФНС"/>
  <domain><![CDATA[*.gizbo-casino-tell3.ru]]></domain>
@@ -3306,6 +3315,12 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8024163" includeTime="2025-03-20T07:15:03" entryType="1" hash="CC6D8388AA964E526A32114022A5EDDC" ts="2025-03-20T07:15:03">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://alsalamchampionship.com/hydra-%D0%BE%D0%BD%D0%B8%D0%BE%D0%BD-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0]]></url>
+ <domain><![CDATA[alsalamchampionship.com]]></domain>
+ <ip>104.28.6.67</ip>
 </content>
 <content id="8024164" includeTime="2025-03-14T00:05:01" entryType="1" hash="42832C36EA21A3312AC4486AC9477FCD" blockType="domain-mask" ts="2025-03-14T00:05:01">
  <decision date="2025-03-10" number="2-6-14/2024-10-14-4288-АИ" org="ФНС"/>
