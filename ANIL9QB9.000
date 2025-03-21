@@ -16040,13 +16040,6 @@
  <ip>185.73.221.211</ip>
  <ipv6>2a05:44c0:0001:0074:0000:0000:0000:0103</ipv6>
 </content>
-<content id="472962" includeTime="2017-03-23T21:37:17" entryType="1" hash="967A267B3631F2AADAB6114D3A0023EC" ts="2023-10-10T12:20:03">
- <decision date="2017-03-15" number="210644-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[http://xnxx13.net/ru/]]></url>
- <domain><![CDATA[xnxx13.net]]></domain>
- <ip>185.159.81.167</ip>
- <ipv6>2a07:b400:0001:0194:0000:0000:0000:002a</ipv6>
-</content>
 <content id="473109" includeTime="2017-03-18T15:55:59" entryType="1" hash="7514019F0FD76B5C634786DC1A83B742" ts="2017-03-18T15:55:59">
  <decision date="2016-06-28" number="2-6-27 2016-06-24-96-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <url><![CDATA[http://rofit.co/B695CC7E5A]]></url>
@@ -18474,7 +18467,7 @@
  <domain><![CDATA[*.jw.org]]></domain>
  <ip>54.191.118.141</ip>
 </content>
-<content id="484684" includeTime="2017-04-03T11:38:09" entryType="1" hash="E46530DE6CD25C3556FE050B5098C997" blockType="domain-mask" ts="2025-01-15T11:40:03">
+<content id="484684" includeTime="2017-04-03T11:38:09" entryType="1" hash="E9DBDDBA236CE41626B91B8BECDC0197" blockType="domain-mask" ts="2025-03-21T13:25:03">
  <decision date="2011-09-12" number="2-5413/11" org="Никулинский районный суд г.Москвы"/>
  <domain><![CDATA[*.kavkazcenter.com]]></domain>
  <ip>104.22.2.64</ip>
@@ -18482,11 +18475,15 @@
  <ip>104.23.137.20</ip>
  <ip>104.23.138.20</ip>
  <ip>172.67.6.109</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
  <ipv6>2606:4700:0010:0000:0000:0000:6816:0240</ipv6>
  <ipv6>2606:4700:0010:0000:0000:0000:6816:0340</ipv6>
  <ipv6>2606:4700:0010:0000:0000:0000:ac43:066d</ipv6>
  <ipv6>2606:4700:0011:0000:0000:0000:6817:8914</ipv6>
  <ipv6>2606:4700:0011:0000:0000:0000:6817:8a14</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="484694" includeTime="2017-05-25T22:17:07" entryType="1" hash="7BEBF7A0F05E3F94A6F616F728A42BBD" blockType="domain-mask" ts="2024-12-18T13:25:02">
  <decision date="2017-01-23" number="2-533/2017" org="Московский районный суд г. Калининграда - Калининградская область"/>
