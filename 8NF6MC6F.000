@@ -2974,9 +2974,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7588854" includeTime="2024-11-06T01:30:03" entryType="1" hash="8D75EADD4B42B285A81881EFC8E760D8" blockType="domain" ts="2024-11-06T01:30:03">
+<content id="7588854" includeTime="2024-11-06T01:30:03" entryType="1" hash="9BCECEE8C0807EBE4754249827D6DF5E" blockType="domain-mask" ts="2025-03-24T14:40:02">
  <decision date="2024-11-02" number="2827746-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[xhvid1.com]]></domain>
+ <domain><![CDATA[*.xhvid1.com]]></domain>
  <ip>45.144.149.30</ip>
  <ipv6>2a02:0b48:4000:000d:00c7:0012:811d:0101</ipv6>
  <ipv6>2a02:0b49:0004:0008:00c7:0012:811d:0101</ipv6>
