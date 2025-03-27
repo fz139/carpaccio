@@ -1076,15 +1076,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:c5d9</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3460</ipv6>
 </content>
-<content id="7949558" includeTime="2025-03-03T16:20:03" entryType="1" hash="FC74BD73ADF98A9DD095BF8D19AC3F33" ts="2025-03-03T16:20:03">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://shahty.msh3.ru/mefedron.php]]></url>
- <domain><![CDATA[shahty.msh3.ru]]></domain>
- <ip>104.21.16.142</ip>
- <ip>172.67.212.246</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:108e</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:d4f6</ipv6>
-</content>
 <content id="7949563" includeTime="2025-03-03T16:20:03" entryType="1" hash="2E47974BC39799B43DF978D9308E8A3F" ts="2025-03-03T16:20:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://www.gruzautoshop.ru/arkhangelsk-kupit-mefedron-kokain.html]]></url>
@@ -1504,6 +1495,11 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b990</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:206b</ipv6>
 </content>
+<content id="7949619" includeTime="2025-03-25T15:50:03" entryType="1" hash="23299A398E2CD6A96BD115D6918C3664" blockType="domain-mask" ts="2025-03-25T15:50:03">
+ <decision date="2025-02-27" number="3015903-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lordfilm-vsyo-kek.ru]]></domain>
+ <ip>87.236.16.17</ip>
+</content>
 <content id="7949621" includeTime="2025-03-01T07:10:03" entryType="1" hash="73A2D37350DCA99C55C2C2042E11FA5C" blockType="domain-mask" ts="2025-03-01T07:10:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.at-kra29.cc]]></domain>
@@ -1618,15 +1614,6 @@
  <decision date="2025-01-30" number="2-6-14/2025-01-27-10363-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vavadacs2.com]]></domain>
  <ip>185.104.211.35</ip>
-</content>
-<content id="7949642" includeTime="2025-03-03T16:20:03" entryType="1" hash="148E23487A62CF6CE62AA17F0CC9944A" ts="2025-03-03T16:20:03">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://labinsk.sv-general.ru/mefedron.php]]></url>
- <domain><![CDATA[labinsk.sv-general.ru]]></domain>
- <ip>104.21.19.60</ip>
- <ip>172.67.185.72</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:b948</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:133c</ipv6>
 </content>
 <content id="7949644" includeTime="2025-02-28T08:15:02" entryType="1" hash="145379F515A3E8A67DF3960683C371BD" blockType="domain-mask" ts="2025-02-28T08:15:02">
  <decision date="2025-01-30" number="2-6-14/2025-01-27-10363-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
