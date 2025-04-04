@@ -2446,9 +2446,9 @@
  <ipv6>2600:9000:25f7:f400:0012:adf6:16c0:0021</ipv6>
  <ipv6>2600:9000:25f7:fc00:0012:adf6:16c0:0021</ipv6>
 </content>
-<content id="8120530" includeTime="2025-04-04T16:20:03" urgencyType="1" entryType="3" hash="F64968257948A633B1346C8282370003" blockType="domain" ts="2025-04-04T16:20:03">
+<content id="8120530" includeTime="2025-04-04T16:20:03" urgencyType="1" entryType="3" hash="74D9FB792B936B342946D8CB9FB56394" blockType="domain-mask" ts="2025-04-04T18:30:04">
  <decision date="2024-10-31" number="" org=""/>
- <domain><![CDATA[glasnaya.org]]></domain>
+ <domain><![CDATA[*.glasnaya.org]]></domain>
  <ip>104.21.94.123</ip>
  <ip>172.67.223.111</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5e7b</ipv6>
