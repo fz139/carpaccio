@@ -90,6 +90,25 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:000b</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:000b</ipv6>
 </content>
+<content id="8111003" includeTime="2025-04-08T19:40:02" urgencyType="1" entryType="3" hash="29EF64D7026954F0E8A29252A00142E1" blockType="domain" ts="2025-04-08T19:40:02">
+ <decision date="2025-04-02" number="" org=""/>
+ <domain><![CDATA[skrepecki.web.app]]></domain>
+ <ip>199.36.158.100</ip>
+ <ipv6>2620:0000:0890:0000:0000:0000:0000:0100</ipv6>
+</content>
+<content id="8111004" includeTime="2025-04-08T19:40:02" urgencyType="1" entryType="3" hash="00504A08B2602B2072C8EA8D90DFF05C" blockType="domain-mask" ts="2025-04-08T19:40:02">
+ <decision date="2025-04-02" number="" org=""/>
+ <domain><![CDATA[*.swt.center]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8111005" includeTime="2025-04-08T19:40:02" urgencyType="1" entryType="3" hash="0D470DB306398EBD896CF9FC6E86D7BE" blockType="domain-mask" ts="2025-04-08T19:40:02">
+ <decision date="2025-04-02" number="" org=""/>
+ <domain><![CDATA[*.yktime.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
 <content id="8111007" includeTime="2025-04-02T20:20:01" urgencyType="1" entryType="3" hash="02E8E7EECC79439F3527FBF230012704" blockType="domain-mask" ts="2025-04-02T20:20:01">
  <decision date="2022-02-24" number="" org=""/>
  <domain><![CDATA[*.vseshow.com]]></domain>
