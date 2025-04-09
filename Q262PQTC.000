@@ -2312,6 +2312,17 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:cf0c</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2d06</ipv6>
 </content>
+<content id="8119064" includeTime="2025-04-09T13:05:03" entryType="1" hash="8367B0E3070CD0BE07D679F2E928CB63" blockType="domain-mask" ts="2025-04-09T13:05:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kra-21-cc.com]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+</content>
 <content id="8119067" includeTime="2025-04-04T13:20:03" entryType="1" hash="FEC967BB62B8010A962C2BA843BBA84E" blockType="domain-mask" ts="2025-04-04T13:20:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.izbafamily.ru]]></domain>
@@ -3116,6 +3127,11 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8119238" includeTime="2025-04-09T13:05:03" entryType="1" hash="3DDDF2E342645C9979A6664191165915" blockType="domain-mask" ts="2025-04-09T13:05:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kra-26-cc.com]]></domain>
+ <ip>94.141.102.176</ip>
 </content>
 <content id="8119239" includeTime="2025-04-04T13:20:03" entryType="1" hash="DE7026DDE1225DCB7D088729CF4AEDBF" blockType="domain-mask" ts="2025-04-04T13:20:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -3958,6 +3974,17 @@
  <ip>172.67.132.172</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:84ac</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:04fd</ipv6>
+</content>
+<content id="8119413" includeTime="2025-04-09T13:05:03" entryType="1" hash="89952E30C340C844B37787C85CCF9BF1" blockType="domain-mask" ts="2025-04-09T13:05:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kra-11-cc.com]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
 </content>
 <content id="8119414" includeTime="2025-04-08T00:15:02" entryType="1" hash="6421135538F148978FFFCEB6E5648361" ts="2025-04-08T00:15:02">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
