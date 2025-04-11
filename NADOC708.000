@@ -890,6 +890,23 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0008</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0008</ipv6>
 </content>
+<content id="8143924" includeTime="2025-04-11T20:20:06" urgencyType="1" entryType="3" hash="235AF04C35C9BFE9452E8EB8E97E5FDE" blockType="domain-mask" ts="2025-04-11T20:20:06">
+ <decision date="2025-04-10" number="" org=""/>
+ <domain><![CDATA[*.thesatanictemple.tv]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="8143925" includeTime="2025-04-11T20:20:06" urgencyType="1" entryType="3" hash="F18FE1C02A4AB6207386ACFC6D0B1857" blockType="domain-mask" ts="2025-04-11T20:20:06">
+ <decision date="2025-04-09" number="" org=""/>
+ <domain><![CDATA[*.dgap.org]]></domain>
+ <ip>142.132.228.6</ip>
+ <ipv6>2a01:04f8:c013:6db6:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8143926" includeTime="2025-04-11T20:20:06" urgencyType="1" entryType="3" hash="60DC8869351D1CB72073E4476F08ED49" blockType="domain-mask" ts="2025-04-11T20:20:06">
+ <decision date="2025-04-10" number="" org=""/>
+ <domain><![CDATA[*.www.maii.li]]></domain>
+ <ip>66.33.60.130</ip>
+ <ip>66.33.60.194</ip>
+</content>
 <content id="8143947" includeTime="2025-04-11T07:40:04" entryType="1" hash="714EADD95F52E67290A599FFED4B3554" blockType="domain-mask" ts="2025-04-11T07:40:04">
  <decision date="2025-01-30" number="2-6-14/2025-01-29-2435-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.irwincasinooo2.top]]></domain>
