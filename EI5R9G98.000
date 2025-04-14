@@ -3233,9 +3233,9 @@
  <ip>185.170.165.223</ip>
  <ipv6>2a0f:5680:0001:0007:0000:0000:0000:0186</ipv6>
 </content>
-<content id="4363884" includeTime="2022-05-13T13:37:57" entryType="1" hash="F36185A17C77BA94352D76DCEC1D8BB2" blockType="domain" ts="2025-04-14T11:10:02">
+<content id="4363884" includeTime="2022-05-13T13:37:57" entryType="1" hash="240EEEBA308706C07F5C2D421666F7B4" blockType="domain-mask" ts="2025-04-14T13:10:03">
  <decision date="2022-05-06" number="2022-05-06-173-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[apteka30.ru]]></domain>
+ <domain><![CDATA[*.apteka30.ru]]></domain>
  <ip>104.21.35.7</ip>
  <ip>172.67.167.39</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:2307</ipv6>

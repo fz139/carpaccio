@@ -8153,9 +8153,9 @@
  <ip>198.251.83.219</ip>
  <ip>198.251.83.94</ip>
 </content>
-<content id="4002856" includeTime="2022-02-02T16:14:40" entryType="1" hash="97BA03BB08FAF916C528165D1FCD5B2C" blockType="domain" ts="2025-04-14T11:00:03">
+<content id="4002856" includeTime="2022-02-02T16:14:40" entryType="1" hash="89A67BB22402F074CCA14E520E9D0F35" blockType="domain-mask" ts="2025-04-14T13:10:03">
  <decision date="2022-01-31" number="2022-01-29-93-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[apteka.pp.ru]]></domain>
+ <domain><![CDATA[*.apteka.pp.ru]]></domain>
  <ip>104.21.49.129</ip>
  <ip>172.67.163.63</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a33f</ipv6>

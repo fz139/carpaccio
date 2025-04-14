@@ -1808,9 +1808,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7421655" includeTime="2024-09-16T14:20:03" entryType="1" hash="793C065153DB508134F89B2D66BE808A" blockType="domain" ts="2024-09-16T14:20:03">
+<content id="7421655" includeTime="2024-09-16T14:20:03" entryType="1" hash="AAC3FFD57B68C394EA535F5DE4C2F98C" blockType="domain-mask" ts="2025-04-14T13:10:03">
  <decision date="2024-08-29" number="2а-536/2024" org="Вилючинский городской суд - Камчатский край"/>
- <domain><![CDATA[forums-gunza-pro.ru]]></domain>
+ <domain><![CDATA[*.forums-gunza-pro.ru]]></domain>
  <ip>104.21.68.106</ip>
  <ip>172.67.194.71</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:446a</ipv6>
