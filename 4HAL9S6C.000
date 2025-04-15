@@ -1516,9 +1516,9 @@
  <ip>104.21.73.228</ip>
  <ip>172.67.167.95</ip>
 </content>
-<content id="4923966" includeTime="2022-10-10T23:55:34" entryType="1" hash="9A768068B70E043E45876FB647460F75" blockType="domain" ts="2025-04-15T09:40:03">
+<content id="4923966" includeTime="2022-10-10T23:55:34" entryType="1" hash="0C1B2B968DEBF26053351785DD6B6F94" blockType="domain-mask" ts="2025-04-15T13:30:04">
  <decision date="2022-10-06" number="2022-10-06-1218-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[apteka777.ru]]></domain>
+ <domain><![CDATA[*.apteka777.ru]]></domain>
  <ip>104.21.48.139</ip>
  <ip>172.67.186.175</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:baaf</ipv6>
