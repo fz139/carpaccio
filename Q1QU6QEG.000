@@ -417,6 +417,11 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:dab5</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3316</ipv6>
 </content>
+<content id="8128692" includeTime="2025-04-15T16:00:04" entryType="1" hash="0AD96D5F5971285539A77665AE0BFB86" blockType="domain" ts="2025-04-15T16:00:04">
+ <decision date="2025-04-04" number="2025-04-03-3518-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[vsemdostavimm.ru]]></domain>
+ <ip>45.130.41.132</ip>
+</content>
 <content id="8128694" includeTime="2025-04-09T13:45:02" entryType="1" hash="5E9A21C0AC91FFA40CCFF3BC84C6DCA5" ts="2025-04-09T13:45:02">
  <decision date="2025-04-07" number="3097423-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://i-1.bxfilm13.art/2484-zizn-adel-726.html]]></url>
@@ -1022,6 +1027,12 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:8d08</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:36b7</ipv6>
 </content>
+<content id="8128825" includeTime="2025-04-15T16:00:04" entryType="1" hash="869ECFB3E4C7ABA1E2C09C1357D5B541" blockType="domain-mask" ts="2025-04-15T16:00:04">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.1vpn.pro]]></domain>
+ <ip>46.202.156.130</ip>
+ <ipv6>2a02:4780:003f:1900:0000:099a:a832:0003</ipv6>
+</content>
 <content id="8128826" includeTime="2025-04-08T14:05:03" entryType="1" hash="9758D828B9327127D8126808E8BDA98E" blockType="domain-mask" ts="2025-04-08T14:05:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.hatewait.online]]></domain>
@@ -1117,6 +1128,11 @@
  <domain><![CDATA[*.casinokometa2.info]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+</content>
+<content id="8128855" includeTime="2025-04-15T16:00:04" entryType="1" hash="C2F12F0E54D1FE224B70C5A7A7345DCE" blockType="domain" ts="2025-04-15T16:00:04">
+ <decision date="2025-04-04" number="2025-04-02-2180-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[38.irk2.store]]></domain>
+ <ip>45.130.41.242</ip>
 </content>
 <content id="8128858" includeTime="2025-04-08T00:15:02" entryType="1" hash="E122367D543F81824C7711004E1CE839" blockType="domain" ts="2025-04-08T00:15:02">
  <decision date="2025-01-21" number="2-6-14/2025-01-21-932-АИ" org="ФНС"/>
