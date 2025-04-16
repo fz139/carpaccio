@@ -9952,6 +9952,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="8134781" includeTime="2025-04-16T15:50:02" entryType="1" hash="87F8C4C484FE53096BC8DD46A8C987F8" blockType="domain-mask" ts="2025-04-16T15:50:02">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.liget-bins.ru]]></domain>
+ <ip>81.91.178.50</ip>
+</content>
 <content id="8134782" includeTime="2025-04-09T13:45:02" entryType="1" hash="6D41BCC56B83ACF5BF6493A05AAC2901" blockType="domain-mask" ts="2025-04-09T13:45:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.svaha29.ru]]></domain>
@@ -10948,6 +10953,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8134918" includeTime="2025-04-16T15:50:02" entryType="1" hash="5ED96279AE7CB72AD2F2AAB7D0D09FC0" blockType="domain" ts="2025-04-16T15:50:02">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[aureumlabs.lat]]></domain>
+ <ip>104.21.64.112</ip>
+ <ip>172.67.183.130</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:b782</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:4070</ipv6>
 </content>
 <content id="8134919" includeTime="2025-04-09T13:45:02" entryType="1" hash="A64CF4D482768A92F6BAC4C4FBCA4FFE" blockType="domain-mask" ts="2025-04-09T13:45:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
