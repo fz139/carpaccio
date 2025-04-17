@@ -2233,9 +2233,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1168</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:af76</ipv6>
 </content>
-<content id="7801643" includeTime="2025-01-15T11:50:02" urgencyType="1" entryType="3" hash="218853EC261926EEE0D57E29BACB0E58" blockType="domain" ts="2025-01-15T11:50:02">
+<content id="7801643" includeTime="2025-01-15T11:50:02" urgencyType="1" entryType="3" hash="4F03062826F547CCD911F33CF464AE77" blockType="domain-mask" ts="2025-04-17T20:40:05">
  <decision date="2024-12-26" number="" org=""/>
- <domain><![CDATA[dialog-74.ru]]></domain>
+ <domain><![CDATA[*.dialog-74.ru]]></domain>
  <ip>104.21.82.73</ip>
  <ip>172.67.154.130</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:9a82</ipv6>
