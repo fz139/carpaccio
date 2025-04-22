@@ -1533,6 +1533,11 @@
  <domain><![CDATA[*.kubikvkube2.ru]]></domain>
  <ip>81.91.178.194</ip>
 </content>
+<content id="8107784" includeTime="2025-04-22T13:45:04" entryType="1" hash="F07C126618CFE3ABE5E3CEAF759CF618" blockType="domain" ts="2025-04-22T13:45:04">
+ <decision date="2025-04-01" number="3086565-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[rosseriya.ru]]></domain>
+ <ip>81.91.178.193</ip>
+</content>
 <content id="8107785" includeTime="2025-04-02T22:50:04" entryType="1" hash="816030A0A5A25B2DDE9071FB433BF87F" blockType="domain" ts="2025-04-02T22:50:04">
  <decision date="2025-04-01" number="3086636-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[tv.lost-serials.buzz]]></domain>
@@ -1571,6 +1576,11 @@
  <decision date="2025-04-01" number="3086935-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[4.lordfilm-novinki.org]]></domain>
  <ip>45.147.197.169</ip>
+</content>
+<content id="8107889" includeTime="2025-04-22T13:45:04" entryType="1" hash="E690B6CC090E528B0B4F51CEF35DA2FB" blockType="domain-mask" ts="2025-04-22T13:45:04">
+ <decision date="2025-04-01" number="3087060-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lord-lord-lordfilms.store]]></domain>
+ <ip>87.236.16.17</ip>
 </content>
 <content id="8107910" includeTime="2025-04-08T18:05:02" entryType="6" hash="43251BAA8CC5DF566308EBCD5659D99D" ts="2025-04-08T18:05:02">
  <decision date="2024-12-02" number="2-2982/2024" org="Таганский районный суд - Москва"/>
@@ -3180,15 +3190,6 @@
 <content id="8108217" includeTime="2025-04-03T23:55:03" entryType="1" hash="34C4D65A5046D4197FA7D771968700D3" blockType="domain" ts="2025-04-03T23:55:03">
  <decision date="2025-04-01" number="3087781-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[xvideos-2.com]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="8108220" includeTime="2025-04-03T23:55:03" entryType="1" hash="B4CE7D405D4FA9103C05072E8828F9C5" ts="2025-04-03T23:55:03">
- <decision date="2025-04-01" number="3088013-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://ru.muzcha.net/181605-ne-vinova.html]]></url>
- <domain><![CDATA[ru.muzcha.net]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -4842,15 +4843,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a019</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0ead</ipv6>
 </content>
-<content id="8108567" includeTime="2025-04-03T23:55:03" entryType="1" hash="211987F1C2A8E6799238866B9646CC9B" ts="2025-04-03T23:55:03">
- <decision date="2025-04-01" number="3087999-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://ru.muzcha.net/72005-ti-zipa.html]]></url>
- <domain><![CDATA[ru.muzcha.net]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="8108574" includeTime="2025-04-03T13:45:03" entryType="1" hash="FF53AB072A05529CF3798F74F9F467CE" ts="2025-04-03T13:45:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://talenthubsolutions.com/%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C-%D0%B3%D0%B0%D1%88%D0%B8%D1%88-%D0%B2-%D1%82%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82%D0%B5-%D1%81%D0%B0%D0%B9%D1%82-toshkent-cocaine-vip-%D0%B3%D0%B0%D1%88%D0%B8]]></url>
@@ -5511,15 +5503,6 @@
  <domain><![CDATA[yaroslavl.apteka17.ru]]></domain>
  <ip>45.83.122.210</ip>
 </content>
-<content id="8108737" includeTime="2025-04-03T23:55:03" entryType="1" hash="9E9188E1B38DE8632937C30CA3DD5D03" ts="2025-04-03T23:55:03">
- <decision date="2025-04-01" number="3087760-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://ru.muzcha.net/181623-solaris.html]]></url>
- <domain><![CDATA[ru.muzcha.net]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="8108738" includeTime="2025-04-02T14:15:02" entryType="1" hash="5917FD4A8709BE673BDBA72131BD470E" blockType="domain" ts="2025-04-02T14:15:02">
  <decision date="2025-04-01" number="2025-03-27-4866-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[e2.alcoflot24nsk.online]]></domain>
@@ -5618,15 +5601,6 @@
  <decision date="2025-04-01" number="3087654-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://heavytoon.com/defeated-demon-lord-does-her-best-at-a-shady-brothel-2/]]></url>
  <domain><![CDATA[heavytoon.com]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="8108752" includeTime="2025-04-03T23:55:03" entryType="1" hash="B515284957A53A5782355C4A3E21A6E3" ts="2025-04-03T23:55:03">
- <decision date="2025-04-01" number="3088008-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://ru.muzcha.net/181606-ebalo.html]]></url>
- <domain><![CDATA[ru.muzcha.net]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -8251,15 +8225,6 @@
  <ip>172.67.151.186</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:97ba</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:010a</ipv6>
-</content>
-<content id="8109268" includeTime="2025-04-03T23:55:03" entryType="1" hash="74CB9933270F7DBF217159E079BDF1CE" ts="2025-04-03T23:55:03">
- <decision date="2025-04-01" number="3087747-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://ru.muzcha.net/127040-hoodrichmelo.html]]></url>
- <domain><![CDATA[ru.muzcha.net]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="8109269" includeTime="2025-04-02T14:15:02" entryType="1" hash="06DB06513F2A2EB9019ACD2BC32152F9" blockType="domain-mask" ts="2025-04-02T14:15:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
