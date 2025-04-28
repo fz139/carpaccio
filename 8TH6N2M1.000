@@ -6360,9 +6360,9 @@
  <ip>51.83.164.191</ip>
  <ip>51.83.191.72</ip>
 </content>
-<content id="6460161" includeTime="2023-10-29T11:25:03" urgencyType="1" entryType="3" hash="FBD3DA598015D11B69FF3B9248E4FB63" blockType="domain" ts="2023-10-29T11:25:03">
+<content id="6460161" includeTime="2023-10-29T11:25:03" urgencyType="1" entryType="3" hash="63F89CD9ACCFFE82FB4FA1AEA37D9933" blockType="domain-mask" ts="2025-04-28T21:35:02">
  <decision date="2023-10-20" number="" org=""/>
- <domain><![CDATA[msk-diplomat.ru]]></domain>
+ <domain><![CDATA[*.msk-diplomat.ru]]></domain>
  <ip>104.21.7.23</ip>
  <ip>172.67.135.165</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:87a5</ipv6>
