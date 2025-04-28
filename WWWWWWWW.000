@@ -2626,14 +2626,14 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6815:32b0</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:a4b7</ipv6>
 </content>
-<content id="8215577" includeTime="2025-04-28T13:15:03" urgencyType="1" entryType="3" hash="3D11A2852ACFED893913EED9997E7A04" blockType="domain" ts="2025-04-28T13:15:03">
+<content id="8215577" includeTime="2025-04-28T13:15:03" urgencyType="1" entryType="3" hash="B976DC88892C94C4FD1E374F79778D1E" blockType="domain-mask" ts="2025-04-28T14:05:02">
  <decision date="2025-04-14" number="" org=""/>
- <domain><![CDATA[bestchange.world]]></domain>
+ <domain><![CDATA[*.bestchange.world]]></domain>
  <ip>94.156.177.6</ip>
 </content>
-<content id="8215578" includeTime="2025-04-28T13:15:03" urgencyType="1" entryType="3" hash="1B3F0A027EF08D98E4187DFCF9461AAD" blockType="domain" ts="2025-04-28T13:15:03">
+<content id="8215578" includeTime="2025-04-28T13:15:03" urgencyType="1" entryType="3" hash="C496B4CB69079776DB9F4709F9956FD6" blockType="domain-mask" ts="2025-04-28T14:05:02">
  <decision date="2025-04-14" number="" org=""/>
- <domain><![CDATA[bestchange.info]]></domain>
+ <domain><![CDATA[*.bestchange.info]]></domain>
  <ip>5.135.168.234</ip>
 </content>
 </reg:register>
