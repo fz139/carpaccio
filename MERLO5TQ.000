@@ -6177,12 +6177,6 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:5bf8</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:b6d9</ipv6>
 </content>
-<content id="8211237" includeTime="2025-04-29T00:10:02" entryType="1" hash="DB186AB577027C88D3EC095B6F4EEB55" ts="2025-04-29T00:10:02">
- <decision date="2016-11-15" number="2-3279/2016" org="Ленинский районный суд - Санкт-Петербург"/>
- <url><![CDATA[https://avtomobileuro.blogspot.com/2015/01/blog-post_242.html]]></url>
- <domain><![CDATA[avtomobileuro.blogspot.com]]></domain>
- <ip>74.125.29.132</ip>
-</content>
 <content id="8211238" includeTime="2025-04-26T07:55:02" entryType="1" hash="0B452413FE455C4DF662866665862EAB" blockType="domain" ts="2025-04-26T07:55:02">
  <decision date="2025-02-05" number="2-6-14/2025-02-05-7419-АИ" org="ФНС"/>
  <domain><![CDATA[slowlifepress.ru]]></domain>
@@ -12728,6 +12722,11 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8213532" includeTime="2025-05-06T14:05:02" entryType="1" hash="1016A9717EFB8734FEB66433260E5669" blockType="domain-mask" ts="2025-05-06T14:05:02">
+ <decision date="2025-04-25" number="3132849-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.porno365love1.com]]></domain>
+ <ip>185.162.11.247</ip>
 </content>
 <content id="8213537" includeTime="2025-04-26T07:55:02" entryType="1" hash="C1C574919D9BFD40B1479D38187F3842" blockType="domain-mask" ts="2025-04-26T07:55:02">
  <decision date="2025-03-13" number="2-6-14/2025-03-06-2191-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
