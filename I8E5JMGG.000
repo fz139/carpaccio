@@ -2345,9 +2345,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:59ea</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:94ec</ipv6>
 </content>
-<content id="7714477" includeTime="2024-12-17T07:15:03" entryType="1" hash="E65465E7950682508484CC4B9342F76A" blockType="domain" ts="2024-12-17T07:15:03">
+<content id="7714477" includeTime="2024-12-17T07:15:03" entryType="1" hash="B2D2162139369744B0DDF9838AFCEB4A" blockType="domain-mask" ts="2025-05-06T13:15:01">
  <decision date="2024-12-13" number="2894257-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[xvideos-rus1.com]]></domain>
+ <domain><![CDATA[*.xvideos-rus1.com]]></domain>
  <ip>88.208.35.215</ip>
 </content>
 <content id="7714478" includeTime="2024-12-13T23:25:02" entryType="1" hash="51CD18CF7F7FE54DF9FAAE190EA5CEAB" blockType="domain-mask" ts="2024-12-13T23:25:02">
@@ -3048,8 +3048,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:8879</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:20d9</ipv6>
 </content>
-<content id="7714668" includeTime="2024-12-17T07:15:03" entryType="1" hash="4D9DB30EDA250ECE2292047AA981FFD7" blockType="domain" ts="2024-12-17T07:15:03">
+<content id="7714668" includeTime="2024-12-17T07:15:03" entryType="1" hash="7C5C361B24EC7B9353BC6F76C1295387" ts="2025-05-06T13:15:01">
  <decision date="2024-12-13" number="2894258-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://www.xvideos-rus1.com/]]></url>
  <domain><![CDATA[www.xvideos-rus1.com]]></domain>
  <ip>88.208.35.215</ip>
 </content>
