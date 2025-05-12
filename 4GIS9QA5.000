@@ -5650,9 +5650,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1bcc</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:8f93</ipv6>
 </content>
-<content id="6883539" includeTime="2024-03-27T14:00:03" entryType="1" hash="4FB2E374D504B66ADBE3B425223BFFDD" blockType="domain" ts="2024-03-27T14:00:03">
+<content id="6883539" includeTime="2024-03-27T14:00:03" entryType="1" hash="1CC7FB7694AA1652B58BC1D37075F475" blockType="domain-mask" ts="2025-05-13T00:20:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[bsprut.org]]></domain>
+ <domain><![CDATA[*.bsprut.org]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
