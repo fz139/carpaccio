@@ -3234,6 +3234,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
+<content id="8156046" includeTime="2025-05-14T00:10:03" entryType="1" hash="33E31386F5B17629A1CB5AE376717ADD" blockType="domain-mask" ts="2025-05-14T00:10:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.moriarty-dark-market.com]]></domain>
+ <ip>104.21.36.20</ip>
+ <ip>172.67.183.213</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2414</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:b7d5</ipv6>
+</content>
 <content id="8156047" includeTime="2025-04-16T00:10:03" entryType="1" hash="29196CEE6E393DE944EB59216FCB814F" blockType="domain-mask" ts="2025-04-16T00:10:03">
  <decision date="2025-01-27" number="2-6-14/2025-01-27-7468-АИ" org="ФНС"/>
  <domain><![CDATA[*.twin-zerkalo-r5uf.xyz]]></domain>
@@ -7578,6 +7586,11 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8157152" includeTime="2025-05-14T00:10:03" entryType="1" hash="A41AF01D9632C8021FDA3D163888B3FE" blockType="domain" ts="2025-05-14T00:10:03">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[pret555-eryl.biz.net.ru]]></domain>
+ <ip>116.202.5.26</ip>
 </content>
 <content id="8157154" includeTime="2025-04-16T23:25:02" entryType="1" hash="620BC858B1DC50E40C677E05E87127F9" blockType="domain-mask" ts="2025-04-16T23:25:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
