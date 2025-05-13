@@ -1504,6 +1504,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="8231105" includeTime="2025-05-13T17:40:04" entryType="1" hash="9B6C41CA729C4F34BA70F495E54A5E77" blockType="domain-mask" ts="2025-05-13T17:40:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.toskovat.online]]></domain>
+ <ip>185.231.205.87</ip>
+</content>
 <content id="8231106" includeTime="2025-05-04T07:50:03" entryType="1" hash="FA1D1EF618AE257D84173B38798779AF" blockType="domain" ts="2025-05-04T07:50:03">
  <decision date="2025-04-30" number="3141106-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[3iks.net]]></domain>
