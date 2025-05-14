@@ -2357,14 +2357,6 @@
  <ipv6>2a06:98c1:3123:a000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="3840753" includeTime="2021-12-06T22:19:46" entryType="1" hash="214C5421E7E4D84BB04015885B5ADD35" blockType="domain" ts="2021-12-06T22:19:46">
- <decision date="2021-12-03" number="2021-12-02-3838-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[code.vitalite.one]]></domain>
- <ip>104.21.3.67</ip>
- <ip>172.67.153.120</ip>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:0343</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:9978</ipv6>
-</content>
 <content id="3840768" includeTime="2021-12-03T23:15:05" entryType="1" hash="B416556BA9F326ED9C8904E68B259A52" blockType="domain-mask" ts="2021-12-03T23:15:05">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.joy-web.ru]]></domain>
@@ -11785,11 +11777,6 @@
  <ip>172.67.138.195</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:8ac3</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:3ec7</ipv6>
-</content>
-<content id="3861513" includeTime="2021-12-13T13:23:48" entryType="1" hash="0F83F762B51746CB418A5A97344489EC" blockType="domain" ts="2021-12-13T13:23:48">
- <decision date="2021-12-03" number="2а-517/2021" org="Духовщинский районный суд - Смоленская область"/>
- <domain><![CDATA[xukru.net]]></domain>
- <ip>5.35.173.9</ip>
 </content>
 <content id="3861516" includeTime="2021-12-13T19:10:31" entryType="1" hash="448C989309C6FF8C02C514760AA9662D" ts="2021-12-13T19:10:31">
  <decision date="2021-12-06" number="2а-1753/2021" org="Канашский районный суд - Чувашская  Республика - Чувашия"/>
