@@ -14574,6 +14574,22 @@
  <ipv6>2606:4700:0000:0000:0000:0000:6811:44d7</ipv6>
  <ipv6>2606:4700:0000:0000:0000:0000:6811:45d7</ipv6>
 </content>
+<content id="8260240" includeTime="2025-05-15T21:05:02" urgencyType="1" entryType="3" hash="6DC40707AB841D53F6BCFB739E9D6054" blockType="domain-mask" ts="2025-05-15T21:05:02">
+ <decision date="2025-05-13" number="" org=""/>
+ <domain><![CDATA[*.osvb.me]]></domain>
+ <ip>104.21.0.208</ip>
+ <ip>172.67.128.72</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:00d0</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:8048</ipv6>
+</content>
+<content id="8260241" includeTime="2025-05-15T21:05:02" urgencyType="1" entryType="3" hash="016704E9813A8F4F2081D559023C38B2" blockType="domain-mask" ts="2025-05-15T21:05:02">
+ <decision date="2025-05-13" number="" org=""/>
+ <domain><![CDATA[*.cmpt-pro.com]]></domain>
+ <ip>104.21.93.6</ip>
+ <ip>172.67.201.218</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:c9da</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:5d06</ipv6>
+</content>
 <content id="8260243" includeTime="2025-05-14T00:10:03" entryType="1" hash="FCCE54F24030A2E3472C4945CEC978F4" blockType="domain-mask" ts="2025-05-14T00:10:03">
  <decision date="2025-03-19" number="2-6-14/2025-03-19-11560-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdom-bus.top]]></domain>
