@@ -12659,9 +12659,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d822</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4342</ipv6>
 </content>
-<content id="8259094" includeTime="2025-05-15T13:30:02" entryType="1" hash="71DC3C2A996048297EB2798AB41F4E58" blockType="domain" ts="2025-05-15T13:30:02">
+<content id="8259094" includeTime="2025-05-15T13:30:02" entryType="1" hash="FC614E799C317DCDEF0B3193F2F3E9D0" blockType="domain-mask" ts="2025-05-19T14:10:05">
  <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[freeplanet-vpn.com]]></domain>
+ <domain><![CDATA[*.freeplanet-vpn.com]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -18450,15 +18450,6 @@
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.kraa31-at.com]]></domain>
  <ip>87.251.88.171</ip>
-</content>
-<content id="8260851" includeTime="2025-05-15T13:30:02" entryType="1" hash="84458B2709B3FAC1B8D91E2405687348" ts="2025-05-15T13:30:02">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://about.me/aundreashreveexuge96]]></url>
- <domain><![CDATA[about.me]]></domain>
- <ip>188.114.98.232</ip>
- <ip>188.114.99.232</ip>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0008</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0008</ipv6>
 </content>
 <content id="8260854" includeTime="2025-05-14T00:10:03" entryType="1" hash="DFDB828D5B2FB5F9AF32062C257C3F58" blockType="domain-mask" ts="2025-05-14T00:10:03">
  <decision date="2025-02-17" number="2-6-14/2025-02-15-7897-АИ" org="ФНС"/>
