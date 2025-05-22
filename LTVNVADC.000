@@ -1789,11 +1789,6 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:404f</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:b34e</ipv6>
 </content>
-<content id="8272388" includeTime="2025-05-16T23:30:03" entryType="1" hash="C87BF2027B9DD05737CF73BCA6038CB6" blockType="domain" ts="2025-05-19T14:10:05">
- <decision date="2025-05-15" number="3160771-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[tv.upserial.ru]]></domain>
- <ip>193.109.246.63</ip>
-</content>
 <content id="8272411" includeTime="2025-05-16T23:30:03" entryType="1" hash="AB6E027BE6F5B23E3880BE3AA525B4EC" blockType="domain" ts="2025-05-19T14:10:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[shopmuur.oldvpn.com]]></domain>
@@ -2530,11 +2525,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
-</content>
-<content id="8273615" includeTime="2025-05-16T23:30:03" entryType="1" hash="D09AC443F8457AE6F7103C67DC21B1F8" blockType="domain-mask" ts="2025-05-19T14:10:05">
- <decision date="2025-05-15" number="3162328-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[*.lordfilm-2025.biz]]></domain>
- <ip>45.147.197.169</ip>
 </content>
 <content id="8273620" includeTime="2025-05-19T14:40:04" entryType="1" hash="F4CA2097BB3CFD9C86C7D468D933D230" blockType="domain" ts="2025-05-19T14:40:04">
  <decision date="2025-05-13" number="2025-05-08-2294-ВН" org="Росмолодежь"/>
@@ -4209,11 +4199,6 @@
  <decision date="2025-05-15" number="3162678-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[rus-xnxx.com]]></domain>
  <ip>88.208.35.215</ip>
-</content>
-<content id="8273965" includeTime="2025-05-16T23:30:03" entryType="1" hash="E948A268D656AF84C193DD972C8CB820" blockType="domain" ts="2025-05-19T14:10:05">
- <decision date="2025-05-15" number="3162679-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[hd.upserial.ru]]></domain>
- <ip>193.109.246.63</ip>
 </content>
 <content id="8273966" includeTime="2025-05-16T23:30:03" entryType="1" hash="5C508104421AEF43E4BFF80E00F9F9CB" blockType="domain-mask" ts="2025-05-19T14:10:05">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -9085,9 +9070,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:5362</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:dd51</ipv6>
 </content>
-<content id="8275690" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="1BA07B560C35933F24821FB417532CAB" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275690" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="F72A2A353E2B546891E973EB9CD93A31" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[goodiplomy.ru]]></domain>
+ <domain><![CDATA[*.goodiplomy.ru]]></domain>
  <ip>104.21.35.137</ip>
  <ip>172.67.175.92</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2389</ipv6>
@@ -9113,9 +9098,9 @@
  <domain><![CDATA[kadroviki-rus.ru]]></domain>
  <ip>172.67.208.177</ip>
 </content>
-<content id="8275695" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="CF8698C3EC8EFB529335799558ED547F" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275695" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="2E1A970989080B46E65AEAAAF606575A" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[docptsstskuplrf.ru]]></domain>
+ <domain><![CDATA[*.docptsstskuplrf.ru]]></domain>
  <ip>172.67.208.177</ip>
 </content>
 <content id="8275696" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="3854E3DE0B6BDC5B870C4E8C0CE8B12D" blockType="domain" ts="2025-05-21T19:20:03">
@@ -9147,6 +9132,11 @@
  <domain><![CDATA[originalsdok.online]]></domain>
  <ip>134.122.48.182</ip>
 </content>
+<content id="8275702" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="D7968A1DF7E5FBDCC19EEBC098FA4869" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.dipheporg.ru]]></domain>
+ <ip>37.252.13.231</ip>
+</content>
 <content id="8275703" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="2CAACBD52E49148EDB80EB4C2DA1E1C4" blockType="domain" ts="2025-05-21T19:20:03">
  <decision date="2025-05-14" number="" org=""/>
  <domain><![CDATA[stady-diplom.ru]]></domain>
@@ -9168,25 +9158,30 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:91b9</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:4f82</ipv6>
 </content>
-<content id="8275708" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="FB110AC3529B2985C37BC0CFC8DD189D" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275708" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="A78B153AAE1AADBF78F9EB356CA08765" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[registratsiya-v-rf.site]]></domain>
+ <domain><![CDATA[*.registratsiya-v-rf.site]]></domain>
  <ip>104.21.18.230</ip>
  <ip>172.67.183.223</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:12e6</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:b7df</ipv6>
 </content>
-<content id="8275709" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="1555774BAC6550C00709D0ECD489C29D" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275709" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="F5A238196B251F8576416F478CE2EE97" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiska-shkola.ru]]></domain>
+ <domain><![CDATA[*.propiska-shkola.ru]]></domain>
  <ip>104.21.30.3</ip>
  <ip>172.67.150.39</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:9627</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1e03</ipv6>
 </content>
-<content id="8275711" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="5251EE9AA5E5D94E0C21397795C93ECB" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275710" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="1222002EA0EFD2F539A4682BEF7B489E" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[vremennaia-propiska.site]]></domain>
+ <domain><![CDATA[*.sobstvenniki-propiska.online]]></domain>
+ <ip>5.63.158.160</ip>
+</content>
+<content id="8275711" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="08FD51414C3C927AF6FBC36858C076BB" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.vremennaia-propiska.site]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -9202,9 +9197,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8275712" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="99F29FE6572015DD512F8DC67C49AA78" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275712" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="C760D178322CAF873E6CBE2020A26C40" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[nk-vd.ru]]></domain>
+ <domain><![CDATA[*.nk-vd.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -9225,9 +9220,9 @@
  <domain><![CDATA[propiska02.orgs.biz]]></domain>
  <ip>172.67.208.177</ip>
 </content>
-<content id="8275714" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="AEE1DDC0678EF181725B3EF62A183D05" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275714" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="58C2DAF4BDB51CD36815016D962FCBAC" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[abvb.online]]></domain>
+ <domain><![CDATA[*.abvb.online]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -9243,25 +9238,33 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8275715" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="7FC3EE7C66F695DD67C49B6F78204010" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275715" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="3FAF51D54220A473648E539E9C3910A6" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propishem-rebenka.online]]></domain>
+ <domain><![CDATA[*.propishem-rebenka.online]]></domain>
  <ip>104.21.70.82</ip>
  <ip>172.67.221.224</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:4652</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:dde0</ipv6>
 </content>
-<content id="8275717" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="4607E87CA917DC3A044E5072D0EFAEAE" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275716" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="F02E766CF830159EB28084C56FEDA847" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiska-garantiruem.ru]]></domain>
+ <domain><![CDATA[*.propiska-schoolchild.ru]]></domain>
+ <ip>104.21.36.233</ip>
+ <ip>172.67.200.205</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:24e9</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:c8cd</ipv6>
+</content>
+<content id="8275717" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="79C47EE94EB3D55037FDDC5161065D0A" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.propiska-garantiruem.ru]]></domain>
  <ip>104.21.87.8</ip>
  <ip>172.67.139.30</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5708</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:8b1e</ipv6>
 </content>
-<content id="8275718" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="5DB4B1A66A57C20BB0A9385E0C92365D" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275718" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="179CED3EA7756898CB110C396C651BE0" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiska-po-mestu.ru]]></domain>
+ <domain><![CDATA[*.propiska-po-mestu.ru]]></domain>
  <ip>104.21.67.47</ip>
  <ip>172.67.213.132</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d584</ipv6>
@@ -9275,25 +9278,25 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3cfc</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:cb91</ipv6>
 </content>
-<content id="8275720" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="2C35793AC1055E4D5D2F56FC356C1038" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275720" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="B38B455DECB73244014FFB8906F17DA9" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[spbpages.ru]]></domain>
+ <domain><![CDATA[*.spbpages.ru]]></domain>
  <ip>104.21.36.252</ip>
  <ip>172.67.201.159</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:24fc</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c99f</ipv6>
 </content>
-<content id="8275721" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="09C8838177F47904180F2EA4F2768397" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275721" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="1716563E959D7CC3E98C8C698900C404" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[diplom-diplomych.ru]]></domain>
+ <domain><![CDATA[*.diplom-diplomych.ru]]></domain>
  <ip>104.21.48.205</ip>
  <ip>172.67.156.47</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:9c2f</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:30cd</ipv6>
 </content>
-<content id="8275722" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="09DEA4777F890D13AACC7367CFF6EA66" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275722" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="C2C3F186308B3B25756E6EC117DEC03D" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[rostipoteka.ru]]></domain>
+ <domain><![CDATA[*.rostipoteka.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -9342,9 +9345,9 @@
  <domain><![CDATA[diplrf.narod.ru]]></domain>
  <ip>193.109.247.20</ip>
 </content>
-<content id="8275727" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="22BAF91ACA8776CBF042F791F8916574" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275727" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="82B17A57F5B02CD721279DCFD09A1427" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[black-book.ru]]></domain>
+ <domain><![CDATA[*.black-book.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -9412,9 +9415,27 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4ee7</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:89f6</ipv6>
 </content>
-<content id="8275734" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="9B2B2DE3D36691B29C34028F6ACB26DC" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275733" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="1E1CACE6C5BEBD46F387A69E6C82A612" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[kubmat.ru]]></domain>
+ <domain><![CDATA[*.diplomt-saratov64.ru]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8275734" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="E3BCEFDF97B79E53EA2BA6BECAAFE202" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.kubmat.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -9458,9 +9479,27 @@
  <domain><![CDATA[*.kudn.kz]]></domain>
  <ip>185.244.49.19</ip>
 </content>
-<content id="8275739" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="C9C28F1F4CFC02B1BEB451CE869D022C" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275738" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="32692D8532718166E032348263202FA4" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[rostsef.ru]]></domain>
+ <domain><![CDATA[*.kzdiplom.kz]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8275739" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="619ED014481F092BCFF73D320A466FF0" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.rostsef.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -9481,6 +9520,14 @@
  <domain><![CDATA[*.diplomasrostovnadonu.ru]]></domain>
  <ip>5.61.59.100</ip>
 </content>
+<content id="8275741" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="A3F4472FF47DE26FD95AE53BF99F720D" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.dip-rf.ru]]></domain>
+ <ip>104.21.72.128</ip>
+ <ip>172.67.184.217</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:b8d9</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:4880</ipv6>
+</content>
 <content id="8275742" includeTime="2025-05-16T20:15:02" urgencyType="1" entryType="3" hash="D1FA676FF0C25AD29FB80CBC041D91D7" blockType="domain-mask" ts="2025-05-17T11:20:03">
  <decision date="2025-05-14" number="" org=""/>
  <domain><![CDATA[*.sezamclub.ru]]></domain>
@@ -9497,49 +9544,55 @@
  <ipv6>2a05:d014:058f:6200:0000:0000:0000:0065</ipv6>
  <ipv6>2a05:d014:058f:6201:0000:0000:0000:0065</ipv6>
 </content>
-<content id="8275744" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="A31284F7083C42319D98290D74772EB6" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275744" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="144E220915C83C5EAA5E1B0284A3809C" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[clubdir.ru]]></domain>
+ <domain><![CDATA[*.clubdir.ru]]></domain>
  <ip>104.21.12.53</ip>
  <ip>172.67.193.174</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0c35</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c1ae</ipv6>
 </content>
-<content id="8275745" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="F2E3A592BCCD71DFE66F5A6B76D12897" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275745" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="5CB946BECC972F8FCEE1012D9FCDCF1F" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[tyumenpages.ru]]></domain>
+ <domain><![CDATA[*.tyumenpages.ru]]></domain>
  <ip>104.21.45.187</ip>
  <ip>172.67.218.67</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:da43</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2dbb</ipv6>
 </content>
-<content id="8275746" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="61F37A592D3B9394781D9402A0E89F1B" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275746" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="23B64DCCAE232379179F35793E5E3046" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[kazpages.ru]]></domain>
+ <domain><![CDATA[*.kazpages.ru]]></domain>
  <ip>104.21.30.201</ip>
  <ip>172.67.173.149</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1ec9</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:ad95</ipv6>
 </content>
-<content id="8275747" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="03BEA141648887787C8AE69106A9B9CD" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275747" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="773F65ACB72E520A0F1572F3F75E8458" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[edugate.kz]]></domain>
+ <domain><![CDATA[*.edugate.kz]]></domain>
  <ip>104.21.82.28</ip>
  <ip>172.67.151.116</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:521c</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:9774</ipv6>
 </content>
-<content id="8275748" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="CF2927F78FDC5AC2CF386B4884C37BEF" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275748" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="7AA981C59284D42DDD402C8306086154" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[diplomma.ru]]></domain>
+ <domain><![CDATA[*.diplomma.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:2384</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:de92</ipv6>
 </content>
-<content id="8275750" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="C6A4BF2E80D3CC5988C37F0CB1F25F90" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275749" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="209E32E55D26536DEC2724A99CD2E764" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[kdbpx.com]]></domain>
+ <domain><![CDATA[*.narodmedic.ru]]></domain>
+ <ip>5.104.110.222</ip>
+ <ip>5.104.110.224</ip>
+</content>
+<content id="8275750" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="17F53DC007AB954B208BA0F97489595C" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.kdbpx.com]]></domain>
  <ip>172.236.206.94</ip>
  <ipv6>2600:3c17:0000:0000:f03c:95ff:feca:d380</ipv6>
 </content>
@@ -9548,9 +9601,9 @@
  <domain><![CDATA[dipomsk.narod.ru]]></domain>
  <ip>193.109.247.20</ip>
 </content>
-<content id="8275752" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="626000998670F354CC46FB1F6C92121C" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275752" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="66A03B26E2EB17F7C863D5358E085B68" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[007tur.ru]]></domain>
+ <domain><![CDATA[*.007tur.ru]]></domain>
  <ip>104.21.48.109</ip>
  <ip>172.67.184.45</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:306d</ipv6>
@@ -9564,9 +9617,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:3629</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:df8f</ipv6>
 </content>
-<content id="8275754" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="F19C533B7D00B01FE98330EDD998CB2F" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275754" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="3431F6BAADADE4482C08C44EED5376CF" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[obrazovaierf.ru]]></domain>
+ <domain><![CDATA[*.obrazovaierf.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -9582,9 +9635,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8275755" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="B53499A6E18604BD22A2DFBF0EF8A5D1" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275755" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="0A927D79922B995F9BB40FFD31C2AC38" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[guruguard.ru]]></domain>
+ <domain><![CDATA[*.guruguard.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -9600,9 +9653,25 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8275758" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="7ACF91D6558B578801AD4546CAEE901B" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275756" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="9F5E9EA78CEBDF7E93395BB4B3AD07A3" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[diplomy.site]]></domain>
+ <domain><![CDATA[*.diplomm-174.ru]]></domain>
+ <ip>104.21.7.246</ip>
+ <ip>172.67.188.29</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:07f6</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:bc1d</ipv6>
+</content>
+<content id="8275757" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="1CFC477BEED7D9A172F5F7596815E70D" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.diplomk-vladivostok.ru]]></domain>
+ <ip>104.21.36.253</ip>
+ <ip>172.67.201.161</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:24fd</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:c9a1</ipv6>
+</content>
+<content id="8275758" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="47174B337FD9C348C7ADA5C39136F87C" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.diplomy.site]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -9623,17 +9692,17 @@
  <domain><![CDATA[club226850267.orgs.biz]]></domain>
  <ip>172.67.208.177</ip>
 </content>
-<content id="8275760" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="920CFB68FB28DE03FB7501622927E963" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275760" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="52F93C02C5A46316E883233E60294946" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[diplomafia.ru]]></domain>
+ <domain><![CDATA[*.diplomafia.ru]]></domain>
  <ip>104.21.77.159</ip>
  <ip>172.67.209.151</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:d197</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:4d9f</ipv6>
 </content>
-<content id="8275761" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="604E85B3C25BCF5989B68771E358830A" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275761" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="7B65C3A73D8391025B4BF1CA525F0ADC" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[diplomk-magnitogorsk.ru]]></domain>
+ <domain><![CDATA[*.diplomk-magnitogorsk.ru]]></domain>
  <ip>104.21.91.161</ip>
  <ip>172.67.175.90</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:af5a</ipv6>
@@ -9644,9 +9713,9 @@
  <domain><![CDATA[diplom-spb.ru]]></domain>
  <ip>87.98.133.70</ip>
 </content>
-<content id="8275763" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="58E86103FE7F194232387D5E0C71D84B" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275763" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="77AF4C0C0399865F9B95783C48063FFA" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[study-link.ru]]></domain>
+ <domain><![CDATA[*.study-link.ru]]></domain>
  <ip>104.21.45.139</ip>
  <ip>172.67.215.46</ip>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2d8b</ipv6>
@@ -9676,9 +9745,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d111</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3adc</ipv6>
 </content>
-<content id="8275767" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="CC53642668D59E146468138A4FD6B68D" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275767" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="D5221B979FCF65B271D61EFA1CE2D22B" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[diploms24.ru]]></domain>
+ <domain><![CDATA[*.diploms24.ru]]></domain>
  <ip>104.21.83.155</ip>
  <ip>172.67.177.221</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:b1dd</ipv6>
@@ -9689,9 +9758,9 @@
  <domain><![CDATA[*.diplomas-ukr.com]]></domain>
  <ip>5.61.59.100</ip>
 </content>
-<content id="8275769" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="E8A81769D80872775200EC8E60BF9C5E" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275769" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="3428B642089E0C84FBB83AD50F4318C4" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[univernovosib.ru]]></domain>
+ <domain><![CDATA[*.univernovosib.ru]]></domain>
  <ip>104.21.84.146</ip>
  <ip>172.67.194.42</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c22a</ipv6>
@@ -9723,20 +9792,20 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:313a</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9f37</ipv6>
 </content>
-<content id="8275772" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="EDC7803AE03C6736A51DFE9721BFA473" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275772" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="74E7E6669C3AB66EB22EEC063ECD8BBA" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[ekb-diploms.ru]]></domain>
+ <domain><![CDATA[*.ekb-diploms.ru]]></domain>
  <ip>209.38.45.28</ip>
 </content>
-<content id="8275773" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="899CA095EEF4599ECDF5351B4E40EAB0" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275773" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="D5E4C545FCA594434B7ED429C385E5BB" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[diplomchiki.com]]></domain>
+ <domain><![CDATA[*.diplomchiki.com]]></domain>
  <ip>172.236.206.97</ip>
  <ipv6>2600:3c17:0000:0000:f03c:95ff:feca:d3a4</ipv6>
 </content>
-<content id="8275774" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="FAD1B16FB1A6C2EE5A0428756A8F79AB" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275774" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="7B662C18A99661A5E333F71BF353FFF2" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[diplom-1.com]]></domain>
+ <domain><![CDATA[*.diplom-1.com]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -9752,17 +9821,17 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8275775" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="43F6018C1C1A246898D866D501DF3473" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275775" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="69A357CAD9EA85F5833A11F84E6B98D6" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[arki01.ru]]></domain>
+ <domain><![CDATA[*.arki01.ru]]></domain>
  <ip>104.21.22.170</ip>
  <ip>172.67.205.241</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:16aa</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:cdf1</ipv6>
 </content>
-<content id="8275776" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="0D540ECB63199E69D11175B45F2FA60B" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275776" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="586B221A108636A61C7C4DFDD33DAE93" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[1000diplomov.ru]]></domain>
+ <domain><![CDATA[*.1000diplomov.ru]]></domain>
  <ip>51.77.51.205</ip>
  <ip>51.83.191.97</ip>
 </content>
@@ -9774,9 +9843,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:4504</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:ca23</ipv6>
 </content>
-<content id="8275779" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="CE8BB7E93DEEC45F5D0144BCB6F3EBF6" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275779" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="330065F86C3711D58A41158AFF75E77C" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[diplomdom.ru]]></domain>
+ <domain><![CDATA[*.diplomdom.ru]]></domain>
  <ip>104.21.37.156</ip>
  <ip>172.67.210.82</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:d252</ipv6>
@@ -9788,9 +9857,9 @@
  <ip>192.0.78.12</ip>
  <ip>192.0.78.13</ip>
 </content>
-<content id="8275781" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="18376F0AD25AE46380B91F511429CB17" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275781" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="0CFE84AB057D0E17A5DC9C619F045EE0" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[homedir.ru]]></domain>
+ <domain><![CDATA[*.homedir.ru]]></domain>
  <ip>104.21.71.148</ip>
  <ip>172.67.170.180</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:aab4</ipv6>
@@ -9801,9 +9870,9 @@
  <domain><![CDATA[diplom-korochka.narod.ru]]></domain>
  <ip>193.109.247.20</ip>
 </content>
-<content id="8275783" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="F3B9CAED5075012BC6FCC0B687436ADB" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275783" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="692F534E1ACD6428EB30CF21419CCFA2" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[dipvik.com]]></domain>
+ <domain><![CDATA[*.dipvik.com]]></domain>
  <ip>37.252.13.231</ip>
 </content>
 <content id="8275784" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="F5800FA5408A3281EA9C927A641D03E5" blockType="domain" ts="2025-05-21T19:20:03">
@@ -9824,15 +9893,15 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8275785" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="64E664017A93B3B6C468191231BDA714" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275785" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="60625B46FFFF95D320145683B1D818B0" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[kupit-diplom77.ru]]></domain>
+ <domain><![CDATA[*.kupit-diplom77.ru]]></domain>
  <ip>51.77.51.205</ip>
  <ip>51.83.191.97</ip>
 </content>
-<content id="8275786" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="DB41BED2428DBE35AC55BCCA00264C9A" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275786" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="388AC819107C6117E762A53321B57AA8" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[education24.online]]></domain>
+ <domain><![CDATA[*.education24.online]]></domain>
  <ip>45.66.11.221</ip>
 </content>
 <content id="8275787" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="B1DBF1D514AB368C74BDBDB54469C6B0" blockType="domain" ts="2025-05-21T19:20:03">
@@ -9853,14 +9922,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8275788" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="A3D8631C366E8F7307233FE7B430BC8E" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275788" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="CCA938ACC454F62CDA54215AE57D6247" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[buyprava999.store]]></domain>
+ <domain><![CDATA[*.buyprava999.store]]></domain>
  <ip>162.255.119.54</ip>
 </content>
-<content id="8275789" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="D7CEC79C7E40BA8C75124D0ACFDB872C" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275789" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="519163F162BE43DC47ADE03D4E3F0273" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[gimsudno.top]]></domain>
+ <domain><![CDATA[*.gimsudno.top]]></domain>
  <ip>104.21.30.124</ip>
  <ip>172.67.172.233</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:1e7c</ipv6>
@@ -9892,49 +9961,49 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:4744</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:8fba</ipv6>
 </content>
-<content id="8275794" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="05B4C657B86F52C5B72BB21E6B455013" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275794" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="2A6F2E68D477D7698892A1D83C72B0C4" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[cheki1.site]]></domain>
+ <domain><![CDATA[*.cheki1.site]]></domain>
  <ip>104.21.0.164</ip>
  <ip>172.67.151.85</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:00a4</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9755</ipv6>
 </content>
-<content id="8275795" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="87A92DF1E92BDD3ADC74EC40277A0632" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275795" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="F8CF9D5751F24ED207EA29D8A7BBBE4F" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[cheki11.site]]></domain>
+ <domain><![CDATA[*.cheki11.site]]></domain>
  <ip>104.21.14.226</ip>
  <ip>172.67.204.138</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:cc8a</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0ee2</ipv6>
 </content>
-<content id="8275799" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="59BF9A6B029815EA635F013B3E51E3A4" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275799" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="63001A731554CEC208FA459CA4321BE6" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[faik-check.pro]]></domain>
+ <domain><![CDATA[*.faik-check.pro]]></domain>
  <ip>104.21.65.2</ip>
  <ip>172.67.188.84</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4102</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:bc54</ipv6>
 </content>
-<content id="8275800" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="B08EEA9D4538F2CAEF34EF54C79E3DDD" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275800" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="6DA7B86C2199B40609F26D794CD2A846" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[check-plus.ru]]></domain>
+ <domain><![CDATA[*.check-plus.ru]]></domain>
  <ip>172.67.208.177</ip>
 </content>
-<content id="8275801" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="088934D110AAD2C42567428DD2838612" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275801" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="5ED6B81ACE3DDA01A7FAA0520E914674" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[xn----7sbqrbcripdid4f5e.xn--p1ai]]></domain>
+ <domain><![CDATA[*.xn----7sbqrbcripdid4f5e.xn--p1ai]]></domain>
  <ip>5.63.158.160</ip>
 </content>
-<content id="8275802" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="3498CA08775ACD837486666ACFB413AB" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275802" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="BC57B49B0BF769E26818618D2B611065" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[cheki-moskva.online]]></domain>
+ <domain><![CDATA[*.cheki-moskva.online]]></domain>
  <ip>45.84.205.128</ip>
  <ipv6>2a02:4780:0009:1728:0000:09e5:130c:000e</ipv6>
 </content>
-<content id="8275803" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="466A95AD76374392CF8664CEC0ABDC4B" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275803" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="AC62AC2D06CEC65C9E855EC001F53BDD" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[check-vam.ru]]></domain>
+ <domain><![CDATA[*.check-vam.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -9950,63 +10019,63 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8275804" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="6CC7675E8BD700776120489F55D8703A" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275804" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="AD29620829555C39D13438C1CCDAEF5A" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[cheki.press]]></domain>
+ <domain><![CDATA[*.cheki.press]]></domain>
  <ip>172.67.208.177</ip>
 </content>
-<content id="8275805" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="AC7C77298C463DB2340B336658F87EBF" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275805" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="8BA22FFACC1C70AF3F18D6AE379E7E41" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[xn----itbbsvyb7af.xn--p1ai]]></domain>
+ <domain><![CDATA[*.xn----itbbsvyb7af.xn--p1ai]]></domain>
  <ip>185.169.155.14</ip>
 </content>
-<content id="8275806" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="3B52AA6E4036FFB0DDD71EB07C5C358C" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275806" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="45D3CEBC48EA0B94D26959F0BD4FFC2B" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[check-vsem.ru]]></domain>
+ <domain><![CDATA[*.check-vsem.ru]]></domain>
  <ip>172.67.208.177</ip>
 </content>
-<content id="8275807" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="566BD711C8295FAA4A9B8480045385D0" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275807" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="043ACDA76B9BB8C2A6C815D413863218" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[chekiplus.com]]></domain>
+ <domain><![CDATA[*.chekiplus.com]]></domain>
  <ip>45.91.201.88</ip>
 </content>
-<content id="8275809" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="F14AFF5C22A1A0F9ACDFD24955F20632" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275809" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="241F334C1273900E4BF1D4A95E7270AC" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[check-for-you.ru]]></domain>
+ <domain><![CDATA[*.check-for-you.ru]]></domain>
  <ip>104.21.12.168</ip>
  <ip>172.67.152.209</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:98d1</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0ca8</ipv6>
 </content>
-<content id="8275810" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="F605A6FE1720AE6B4789B964B07FC09E" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275810" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="B74C99192E49BCB146E26ACB6BFA5F9B" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[chekovsite.pro]]></domain>
+ <domain><![CDATA[*.chekovsite.pro]]></domain>
  <ip>164.92.206.226</ip>
 </content>
-<content id="8275811" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="EB4B5D75AD26E9EFCD16BC0011A606E5" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275811" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="44C31EA9A85C6CDB4EC86C6EB6EEE565" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[quiz-site.ru]]></domain>
+ <domain><![CDATA[*.quiz-site.ru]]></domain>
  <ip>172.67.208.177</ip>
 </content>
-<content id="8275812" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="26B428BA83849B1587DE1786ACFC7876" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275812" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="3C6A3B2A86DD3C5D35094FD9E99EF56A" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[kupit-2ndfl-1.site]]></domain>
+ <domain><![CDATA[*.kupit-2ndfl-1.site]]></domain>
  <ip>104.21.43.252</ip>
  <ip>172.67.192.69</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2bfc</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c045</ipv6>
 </content>
-<content id="8275813" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="A3B371A2151A351D7202930C08600511" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275813" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="7589BA9C5B724179FCC0E812D54EDD62" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[checks911.info]]></domain>
+ <domain><![CDATA[*.checks911.info]]></domain>
  <ip>104.21.50.138</ip>
  <ip>172.67.206.199</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:328a</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:cec7</ipv6>
 </content>
-<content id="8275814" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="3E61AC2EA614182B33B9C2805C4C94FD" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275814" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="AFAD880A43AD95FA10137A52A877B43C" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[sprav1.site]]></domain>
+ <domain><![CDATA[*.sprav1.site]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -10022,9 +10091,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8275815" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="0F809032B2F3EC8D25205C3F8924351D" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275815" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="6D7BFFD2501B170EE8DF9739DD8CE02F" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[profi-russia.info]]></domain>
+ <domain><![CDATA[*.profi-russia.info]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -10040,17 +10109,43 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8275817" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="6DB319D027D645A0E32ECCF1BC03308D" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275817" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="62C927931B132011DCD1DC1CE8639289" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[v-c11.site]]></domain>
+ <domain><![CDATA[*.v-c11.site]]></domain>
  <ip>104.21.17.28</ip>
  <ip>172.67.219.200</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:111c</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:dbc8</ipv6>
 </content>
-<content id="8275820" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="FADBDCDB8725524494CF12E2F481A12B" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275818" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="8309DB94A0250B27C908730B8F3074DF" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiskareg.ru]]></domain>
+ <domain><![CDATA[*.ognestrel-market.com]]></domain>
+ <ip>104.21.3.75</ip>
+ <ip>172.67.130.119</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:8277</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:034b</ipv6>
+</content>
+<content id="8275819" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="604E2E0BDDB983F53AE4B83DE706EE67" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.dark-time.life]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8275820" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="D68EE8C1EFA214F1B1E8417081567B91" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.propiskareg.ru]]></domain>
  <ip>172.67.208.177</ip>
 </content>
 <content id="8275821" includeTime="2025-05-16T20:15:02" urgencyType="1" entryType="3" hash="1CF8CE875916D93ACBC9D58178433A4E" blockType="domain-mask" ts="2025-05-17T11:20:03">
@@ -10066,76 +10161,94 @@
  <domain><![CDATA[*.prava-avt-start.ru]]></domain>
  <ip>172.67.208.177</ip>
 </content>
-<content id="8275823" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="64569C2C0D74A2A3000403CE3D41BF4E" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275823" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="40E107123A808AF16367462D883AF871" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[prop-moskva.ru]]></domain>
+ <domain><![CDATA[*.prop-moskva.ru]]></domain>
  <ip>172.67.208.177</ip>
 </content>
-<content id="8275824" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="D1E438D86D2E124C6FE5EE83A61BA66F" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275824" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="D0B86EE34F659E5ACBC8DB91EB5407AB" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[moscow-propiska.ru]]></domain>
+ <domain><![CDATA[*.moscow-propiska.ru]]></domain>
  <ip>57.128.177.174</ip>
 </content>
-<content id="8275826" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="24AA8B361E7AD47E98249FF7DB96852F" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275826" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="5BC4C1A0CBE66D3A647DBE167BEC8149" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiska-moskva577.ru]]></domain>
+ <domain><![CDATA[*.propiska-moskva577.ru]]></domain>
  <ip>185.196.11.66</ip>
 </content>
-<content id="8275827" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="ADB2F6B7192E791573098C919273BE11" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275827" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="0AA9BB2C81F482125D6727E4B8E73072" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiskamsk.com]]></domain>
+ <domain><![CDATA[*.propiskamsk.com]]></domain>
  <ip>172.67.208.177</ip>
 </content>
-<content id="8275828" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="73ADB710EFE260BB37E0C4AD7E044BE1" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275828" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="F96D44DF7BCE4279D9EAA0BC89EE2E7E" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[moscowreg24.ru]]></domain>
+ <domain><![CDATA[*.moscowreg24.ru]]></domain>
  <ip>172.67.208.177</ip>
 </content>
-<content id="8275829" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="8EF7D91801A2DA21135CC67C25354642" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275829" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="DC6A56608030D567E9830040BD5D8A87" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[mskpropiska.ru]]></domain>
+ <domain><![CDATA[*.mskpropiska.ru]]></domain>
  <ip>57.128.177.174</ip>
 </content>
-<content id="8275830" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="7CF29F0B538067AAC6B9BA8A32987B3E" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275830" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="13745D1BE7ED06F535364627CE977020" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[xn----7sbbf6aieksekblij.xn--p1acf]]></domain>
+ <domain><![CDATA[*.xn----7sbbf6aieksekblij.xn--p1acf]]></domain>
  <ip>172.67.208.177</ip>
 </content>
-<content id="8275832" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="EC121CF35EF2F8DCCA7B7B98DB45A455" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275831" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="C4D082379D1074965CBD022A41830ED2" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[yes-propiska.site]]></domain>
+ <domain><![CDATA[*.registraceja-v-moskverus-169.ru]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8275832" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="2C7ADA36F50E13AEA0435B02A022BCEA" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.yes-propiska.site]]></domain>
  <ip>104.21.1.14</ip>
  <ip>172.67.151.215</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:97d7</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:010e</ipv6>
 </content>
-<content id="8275833" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="BEFA0D548CBD8BB636C0D21D0D976AC4" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275833" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="8C70551618EE57E2EA6BE502833E6DE3" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[mosregas24.info]]></domain>
+ <domain><![CDATA[*.mosregas24.info]]></domain>
  <ip>104.21.90.81</ip>
  <ip>172.67.197.106</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:5a51</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c56a</ipv6>
 </content>
-<content id="8275834" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="1F05FC1A6CEF0A719DAA1E023ED4FE03" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275834" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="2A10BCED608ECF327EC55C1D71889CE5" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiski-netu.site]]></domain>
+ <domain><![CDATA[*.propiski-netu.site]]></domain>
  <ip>104.21.94.10</ip>
  <ip>172.67.217.208</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:5e0a</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d9d0</ipv6>
 </content>
-<content id="8275835" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="277BF58296ECD108ADC9D8F27C0473EA" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275835" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="2D675E864EC75EBEDB55D01A6D62CFA7" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[detstvobezgoloda.ru]]></domain>
+ <domain><![CDATA[*.detstvobezgoloda.ru]]></domain>
  <ip>104.21.6.43</ip>
  <ip>172.67.154.231</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:062b</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:9ae7</ipv6>
 </content>
-<content id="8275836" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="22516B3F1ED87BE5EE150801CA6F259C" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275836" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="185E8EE3730AC7C77516864452CCACC6" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiska-school5.ru]]></domain>
+ <domain><![CDATA[*.propiska-school5.ru]]></domain>
  <ip>104.21.73.176</ip>
  <ip>172.67.191.20</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:bf14</ipv6>
@@ -10149,38 +10262,38 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3f54</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:9055</ipv6>
 </content>
-<content id="8275838" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="138A4570CA49E33E0FCE40DF1DEB97E3" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275838" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="D6FCFF2BFF4E65C04C8BF14DE0E78F97" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiska-rus.online]]></domain>
+ <domain><![CDATA[*.propiska-rus.online]]></domain>
  <ip>5.63.158.160</ip>
 </content>
-<content id="8275839" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="3B6A8B303C526179F1EBC8CB73AB7CEA" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275839" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="EBB6403A014F520167A6A7813A71DA46" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[ibrla.online]]></domain>
+ <domain><![CDATA[*.ibrla.online]]></domain>
  <ip>104.21.16.170</ip>
  <ip>172.67.214.224</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:d6e0</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:10aa</ipv6>
 </content>
-<content id="8275840" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="DAD26E0C16936E2DC9C9EF7FEAEBCE83" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275840" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="9908603B82EFD0579F9468C453231F07" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiska-school11.ru]]></domain>
+ <domain><![CDATA[*.propiska-school11.ru]]></domain>
  <ip>104.21.5.6</ip>
  <ip>172.67.132.178</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:84b2</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0506</ipv6>
 </content>
-<content id="8275841" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="4E52F9BE2E74883BEBA6DE7F1B61D180" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275841" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="B88BFDA86A65C09A40B6FD924524EC1A" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiska-school10.ru]]></domain>
+ <domain><![CDATA[*.propiska-school10.ru]]></domain>
  <ip>104.21.22.229</ip>
  <ip>172.67.207.143</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:16e5</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:cf8f</ipv6>
 </content>
-<content id="8275842" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="8D477B10BFE8A1463774DD02662ECD6C" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275842" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="3ADF375556D4E1B1CC104CDADB2547C9" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[registratsya-pozakonu.ru]]></domain>
+ <domain><![CDATA[*.registratsya-pozakonu.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -10196,17 +10309,17 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8275843" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="D51B6CE4C3C58B4A4457C8BE38BB6946" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275843" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="496646C6314E87209B9D34ECCE3E91BC" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[vremennaya-propiska.site]]></domain>
+ <domain><![CDATA[*.vremennaya-propiska.site]]></domain>
  <ip>104.21.62.157</ip>
  <ip>172.67.168.97</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:3e9d</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a861</ipv6>
 </content>
-<content id="8275844" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="4A4347EA6DDA5775A6D53AE6BAAFDA1D" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275844" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="67C781877152E36AA3792E31280F13A5" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiska-proffi.online]]></domain>
+ <domain><![CDATA[*.propiska-proffi.online]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -10222,49 +10335,49 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8275845" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="374F927A87B0B464680EA136C73EC97D" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275845" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="F8410AE05A893B3B62C1726CDC54E7CA" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiska-school3.ru]]></domain>
+ <domain><![CDATA[*.propiska-school3.ru]]></domain>
  <ip>104.21.8.219</ip>
  <ip>172.67.140.72</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:08db</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:8c48</ipv6>
 </content>
-<content id="8275846" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="4F9C0B031AE9DD83D8C18273A42AB3AA" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275846" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="CDB103BF74AB2626F822FDEBA86BD10D" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[propiska-u-nas.ru]]></domain>
+ <domain><![CDATA[*.propiska-u-nas.ru]]></domain>
  <ip>104.21.85.35</ip>
  <ip>172.67.201.226</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:5523</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c9e2</ipv6>
 </content>
-<content id="8275847" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="6797CBC559B34B0AA21A6F3FA24C48F0" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275847" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="2D583065FE947C1E47074CAB867FA4C9" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[ber-co.online]]></domain>
+ <domain><![CDATA[*.ber-co.online]]></domain>
  <ip>104.21.28.240</ip>
  <ip>172.67.147.230</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:93e6</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:1cf0</ipv6>
 </content>
-<content id="8275848" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="2F97FE78E6BDAC7F5C790CDCD32F0CE9" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275848" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="DB39F972E9C33AC28221DC2EE7918F80" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[tehntranslate.ru]]></domain>
+ <domain><![CDATA[*.tehntranslate.ru]]></domain>
  <ip>104.21.34.138</ip>
  <ip>172.67.205.74</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:228a</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:cd4a</ipv6>
 </content>
-<content id="8275849" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="C6AB2E8E7EB8FCA30266CF036F730550" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275849" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="D69A442C42095F1666F1FA9CAD9C52FB" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[registriruem-rebenka.ru]]></domain>
+ <domain><![CDATA[*.registriruem-rebenka.ru]]></domain>
  <ip>104.21.86.159</ip>
  <ip>172.67.221.187</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:ddbb</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:569f</ipv6>
 </content>
-<content id="8275850" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="64B8289CA9ADCA5E5BC00B5F57E77070" blockType="domain" ts="2025-05-21T19:20:03">
+<content id="8275850" includeTime="2025-05-21T19:20:03" urgencyType="1" entryType="3" hash="3CADC96861839F071C2AEA473614AB6E" blockType="domain-mask" ts="2025-05-22T19:40:02">
  <decision date="2025-05-14" number="" org=""/>
- <domain><![CDATA[vniidmash.ru]]></domain>
+ <domain><![CDATA[*.vniidmash.ru]]></domain>
  <ip>104.21.16.7</ip>
  <ip>172.67.165.164</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:1007</ipv6>
@@ -10452,15 +10565,211 @@
  <domain><![CDATA[*.original-diplomc.online]]></domain>
  <ip>207.154.225.142</ip>
 </content>
+<content id="8275874" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="43A89F8A2E307B7745BB17D05C462B5D" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[medknigkii-v-krasnodare-23.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8275875" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="58B2CD7E750048360C360EA0A7A3720A" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[sudimostonline.online]]></domain>
+ <ip>185.43.222.97</ip>
+</content>
+<content id="8275876" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="A10F62F22C44B806CF4D13DFFA08042C" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[buy-diplomus-v-samare-846.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8275877" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="26B85E0616D56E61FC7FC0C09F046F56" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[buy-diplomis-v-novosibirske-383.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8275878" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="A59C96D0774A11D91E6D48BC2C068184" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[buy-diplom-v-ekaterinburge-343.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8275879" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="259928AC7C2228CF9850CEF2D542B69D" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[free-doc.ru]]></domain>
+ <ip>104.21.66.230</ip>
+ <ip>172.67.209.26</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:42e6</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:d11a</ipv6>
+</content>
+<content id="8275880" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="C561D693084CD254D72E6EC7B0280CF0" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[vsediplomivuzov.ru]]></domain>
+ <ip>15.235.75.163</ip>
+</content>
+<content id="8275881" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="BB894FC63C843263D2812D4CEB8F2C35" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[vuzinfo1j.com]]></domain>
+ <ip>172.237.101.30</ip>
+ <ipv6>2600:3c13:0000:0000:f03c:95ff:fefc:807c</ipv6>
+</content>
+<content id="8275882" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="BF144CF84F2C932F0EBF2421A607510F" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.profiru-click.ru]]></domain>
+ <ip>104.21.60.249</ip>
+ <ip>172.67.203.25</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:cb19</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3cf9</ipv6>
+</content>
+<content id="8275883" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="2D87EFAB283BEEC5832D122A7C9FC54A" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.diplom-land-8.org]]></domain>
+ <ip>104.21.87.141</ip>
+ <ip>172.67.169.225</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:a9e1</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:578d</ipv6>
+</content>
+<content id="8275884" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="893FA86006B801CE98C5FF1913C20F66" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[diploma-sx24.online]]></domain>
+ <ip>104.21.29.67</ip>
+ <ip>172.67.148.142</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:948e</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:1d43</ipv6>
+</content>
+<content id="8275885" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="B4BA720D879A2917D6F8AE36C4FFB6E2" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[vlg-medocc1.online]]></domain>
+ <ip>185.43.222.132</ip>
+</content>
+<content id="8275886" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="59C59CB2C83D40841B9110D7A982B123" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[spravka-spb178.ru]]></domain>
+ <ip>31.220.40.22</ip>
+</content>
+<content id="8275887" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="92F4B5CE8060342EA141AA323163C57E" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[rusprawki.info]]></domain>
+ <ip>5.187.7.207</ip>
+</content>
+<content id="8275888" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="DA6EA50F2717C7B2720CE9ED9D88053D" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[spravka-23.ru]]></domain>
+ <ip>185.154.15.173</ip>
+</content>
+<content id="8275889" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="C733BBF97334C80C37D2A8BC81614B3A" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.pravarfr-xxrqroj.top]]></domain>
+ <ip>92.119.114.118</ip>
+</content>
+<content id="8275890" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="08167A7D636CD268532CBFAB28BDBD67" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.kupiprava-xxukzse.top]]></domain>
+ <ip>92.119.114.118</ip>
+</content>
+<content id="8275891" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="FBEB843D5D463309EAA3380204B6D237" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[kyplyu-tk.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8275892" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="B29E50CA36630B43CA7F1C03D61A356D" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.diplomsk.ru]]></domain>
+ <ip>37.252.13.231</ip>
+</content>
+<content id="8275893" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="0D964A83F917B33A955926AFFDE880E1" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.kmiparasat.kz]]></domain>
+ <ip>185.98.5.129</ip>
+</content>
+<content id="8275894" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="8462107267CDA3EB63D5B1C441CF36BB" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.diplom-o-visshem.ru]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8275895" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="94D82F7E28945179B7CFECE221737B28" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[xn--d1ahbfigndd1ai5i.store]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
 <content id="8275897" includeTime="2025-05-16T20:15:02" urgencyType="1" entryType="3" hash="EF09F04724190ECA5DE97961510226F1" blockType="domain-mask" ts="2025-05-17T11:20:03">
  <decision date="2025-05-14" number="" org=""/>
  <domain><![CDATA[*.datim.vipcentr.ru]]></domain>
  <ip>172.67.208.177</ip>
 </content>
+<content id="8275898" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="AF712CE4C08CDC770481755DF5C59B3B" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.xdiplom-1.org]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="8275899" includeTime="2025-05-20T22:55:02" urgencyType="1" entryType="3" hash="28328293C2A1CFA75E13EB276B5B0E61" blockType="domain-mask" ts="2025-05-20T22:55:02">
  <decision date="2025-05-14" number="" org=""/>
  <domain><![CDATA[*.doctop-com.ru]]></domain>
  <ip>95.215.206.156</ip>
+</content>
+<content id="8275900" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="097684CE64D2C93A9A1E12C5F732F011" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.obrazovan-univer.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8275901" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="CCEC301BAFF8D8915B003D9BF0114D79" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.yaroslavldiplomix.ru]]></domain>
+ <ip>5.61.58.119</ip>
+</content>
+<content id="8275902" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="A8A52481E059CC2D98130B0A262F1346" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.docs-trust.com]]></domain>
+ <ip>104.21.18.127</ip>
+ <ip>172.67.181.215</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:b5d7</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:127f</ipv6>
+</content>
+<content id="8275903" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="0570D787125B9CDE844595BF6B96C59C" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.moscownews.xyz]]></domain>
+ <ip>104.21.77.174</ip>
+ <ip>172.67.210.157</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:4dae</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:d29d</ipv6>
+</content>
+<content id="8275904" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="BDDEACF269519A8E8746BDE246666F69" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[evrei.net.ru]]></domain>
+ <ip>164.132.31.224</ip>
+</content>
+<content id="8275905" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="95928BCED7D14373B9B7C91A385229AC" blockType="domain" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[diplomacom-1.org]]></domain>
+ <ip>104.21.18.204</ip>
+ <ip>172.67.183.86</ip>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:12cc</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:b756</ipv6>
 </content>
 <content id="8275906" includeTime="2025-05-16T20:15:02" urgencyType="1" entryType="3" hash="A5AFA62158B93A9DF40DAFF5C9790809" blockType="domain-mask" ts="2025-05-17T11:20:03">
  <decision date="2025-05-14" number="" org=""/>
@@ -10471,6 +10780,36 @@
  <decision date="2025-05-14" number="" org=""/>
  <domain><![CDATA[*.lodka-prava.top]]></domain>
  <ip>193.108.130.21</ip>
+</content>
+<content id="8275908" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="588C259901E0A8D751BB1D79C556FDDB" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.pro360.by]]></domain>
+ <ip>93.125.99.141</ip>
+</content>
+<content id="8275909" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="E4DDBFC3911C66E6632823D462968BAC" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.moschek.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8275910" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="4091F580FFFFE3972C7282C541F6B076" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.cheki01.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8275911" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="DDB62F190E0DB80913D69F0D8DA06DDB" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.vsechecki.ru]]></domain>
+ <ip>212.2.234.150</ip>
+</content>
+<content id="8275912" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="430F5AED447EDFD037F5E080139DD154" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.izgotovlenie-chekov4.site]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="8275913" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="858862480427E82E0B540ED793C03453" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.checkuprussia.ru]]></domain>
+ <ip>172.67.208.177</ip>
 </content>
 <content id="8275915" includeTime="2025-05-16T20:15:02" urgencyType="1" entryType="3" hash="BB8C25804F3367DFE23BEE7E37C45C48" blockType="domain-mask" ts="2025-05-17T11:20:03">
  <decision date="2025-02-27" number="" org=""/>
@@ -10484,6 +10823,11 @@
  <ip>172.67.210.244</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:3b0e</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d2f4</ipv6>
+</content>
+<content id="8275918" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="913DA19CEDBC05DED4D7F21D90DAE15F" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.docfast-com.ru]]></domain>
+ <ip>95.215.206.156</ip>
 </content>
 <content id="8275919" includeTime="2025-05-16T20:15:02" urgencyType="1" entryType="3" hash="353E861EB3643184D51FA22222281DED" blockType="domain-mask" ts="2025-05-17T11:20:03">
  <decision date="2025-05-14" number="" org=""/>
@@ -10518,6 +10862,11 @@
  <ip>172.67.164.32</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:329c</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:a420</ipv6>
+</content>
+<content id="8275924" includeTime="2025-05-22T19:40:02" urgencyType="1" entryType="3" hash="E8493FD54ED7D32AF4AC96C780AB3C47" blockType="domain-mask" ts="2025-05-22T19:40:02">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.diplomregkz.com]]></domain>
+ <ip>198.211.127.60</ip>
 </content>
 <content id="8275925" includeTime="2025-05-16T20:15:02" urgencyType="1" entryType="3" hash="AC8AC0BC909A90B008F4486D4EF926A4" blockType="domain-mask" ts="2025-05-17T11:20:03">
  <decision date="2025-05-14" number="" org=""/>
@@ -12274,48 +12623,6 @@
  <ip>172.67.189.15</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:5160</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:bd0f</ipv6>
-</content>
-<content id="8276555" includeTime="2025-05-19T14:40:04" entryType="1" hash="6329E50874167849BE8731674BAC90D7" blockType="domain-mask" ts="2025-05-19T14:40:04">
- <decision date="2025-05-05" number="2а-1463/2025 (М-1064/2025)" org="Элистинский городской суд - Республика Калмыкия"/>
- <domain><![CDATA[*.prostitutkii-elista.ru]]></domain>
- <ip>46.105.79.224</ip>
-</content>
-<content id="8276556" includeTime="2025-05-19T14:40:04" entryType="1" hash="35BCBFAEEEF51CE321ADEB5DDB560909" blockType="domain" ts="2025-05-19T14:40:04">
- <decision date="2025-05-05" number="2а-1463/2025 (М-1064/2025)" org="Элистинский городской суд - Республика Калмыкия"/>
- <domain><![CDATA[8prostitutki.com]]></domain>
- <ip>188.166.92.32</ip>
-</content>
-<content id="8276557" includeTime="2025-05-19T14:40:04" entryType="1" hash="1F486B716E18E74CDDADE785E7936425" ts="2025-05-19T14:40:04">
- <decision date="2025-05-05" number="2а-1463/2025 (М-1064/2025)" org="Элистинский городской суд - Республика Калмыкия"/>
- <url><![CDATA[https://sex-russia.online/elista/]]></url>
- <domain><![CDATA[sex-russia.online]]></domain>
- <ip>104.21.94.16</ip>
- <ip>172.67.218.97</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:5e10</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:da61</ipv6>
-</content>
-<content id="8276558" includeTime="2025-05-19T14:40:04" entryType="1" hash="FDDF6243C6A3876D02584C2981732D40" ts="2025-05-19T14:40:04">
- <decision date="2025-05-05" number="2а-1463/2025 (М-1064/2025)" org="Элистинский городской суд - Республика Калмыкия"/>
- <url><![CDATA[https://intim-dosugsex.icu/elista]]></url>
- <domain><![CDATA[intim-dosugsex.icu]]></domain>
- <ip>104.21.43.214</ip>
- <ip>172.67.185.232</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2bd6</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:b9e8</ipv6>
-</content>
-<content id="8276559" includeTime="2025-05-19T14:40:04" entryType="1" hash="D616E403529D7779830B808D07B5F0A8" blockType="domain" ts="2025-05-19T14:40:04">
- <decision date="2025-05-05" number="2а-1463/2025 (М-1064/2025)" org="Элистинский городской суд - Республика Калмыкия"/>
- <domain><![CDATA[elista.indi-sex.top]]></domain>
- <ip>104.21.40.176</ip>
- <ip>172.67.155.192</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:28b0</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:9bc0</ipv6>
-</content>
-<content id="8276560" includeTime="2025-05-19T14:40:04" entryType="1" hash="C8B3A595B4A39E914623A0B008AC9488" ts="2025-05-19T14:40:04">
- <decision date="2025-05-05" number="2а-1463/2025 (М-1064/2025)" org="Элистинский городской суд - Республика Калмыкия"/>
- <url><![CDATA[https://elista.vipsexpay.life/]]></url>
- <domain><![CDATA[elista.vipsexpay.life]]></domain>
- <ip>192.81.220.19</ip>
 </content>
 <content id="8276561" includeTime="2025-05-19T14:40:04" entryType="1" hash="089CAF48DBEA36C518D2E756834496BE" blockType="domain" ts="2025-05-19T14:40:04">
  <decision date="2025-05-05" number="2а-1463/2025 (М-1064/2025)" org="Элистинский городской суд - Республика Калмыкия"/>
