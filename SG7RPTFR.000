@@ -1990,6 +1990,26 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a02b</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:0ebf</ipv6>
 </content>
+<content id="8308214" includeTime="2025-05-28T00:00:03" entryType="1" hash="E18BC8BFD11DBE2D8FB0006019295605" blockType="domain" ts="2025-05-28T00:00:03">
+ <decision date="2025-05-26" number="3181541-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[www.projectenso.games]]></domain>
+ <ip>205.196.222.132</ip>
+</content>
+<content id="8308216" includeTime="2025-05-28T00:00:03" entryType="1" hash="6F1A39AC9D421E56D6C6685A033DDB88" blockType="domain" ts="2025-05-28T00:00:03">
+ <decision date="2025-05-26" number="3181543-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[3woo.app]]></domain>
+ <ip>23.229.242.68</ip>
+</content>
+<content id="8308217" includeTime="2025-05-28T00:00:03" entryType="1" hash="78673DE9A290BFD17A5716B7AAE0604E" blockType="domain" ts="2025-05-28T00:00:03">
+ <decision date="2025-05-26" number="3181544-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[3date.app]]></domain>
+ <ip>198.187.31.121</ip>
+</content>
+<content id="8308218" includeTime="2025-05-28T00:00:03" entryType="1" hash="34FE22781DB9E90EC41F59A9A354B194" blockType="domain" ts="2025-05-28T00:00:03">
+ <decision date="2025-05-26" number="3181545-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[www.3dermatch.com]]></domain>
+ <ip>54.218.35.188</ip>
+</content>
 <content id="8308226" includeTime="2025-05-27T03:55:02" entryType="1" hash="FCD82987B4B143E3CF3FBF421BDB3D5D" blockType="domain-mask" ts="2025-05-27T03:55:02">
  <decision date="2025-02-24" number="2-6-14/2025-02-24-7027-АИ" org="ФНС"/>
  <domain><![CDATA[*.rox-casino-potolki4.ru]]></domain>
@@ -2009,6 +2029,12 @@
  <ip>172.67.207.129</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:cf81</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:2569</ipv6>
+</content>
+<content id="8308249" includeTime="2025-05-28T00:00:03" entryType="1" hash="E3A16B763E9EF4DFBC9B04746D1CA9FB" blockType="domain" ts="2025-05-28T00:00:03">
+ <decision date="2025-05-22" number="2а-695/2025" org="Пролетарский районный суд - Ростовская область"/>
+ <domain><![CDATA[voda.n-magniti.ru]]></domain>
+ <ip>104.21.47.53</ip>
+ <ip>172.67.170.95</ip>
 </content>
 <content id="8308252" includeTime="2025-05-27T03:55:02" entryType="1" hash="97C4F2C4E73F39D13059476977C69F43" blockType="domain" ts="2025-05-27T03:55:02">
  <decision date="2025-05-19" number="2а-1189/2025" org="Сафоновский районный суд - Смоленская область"/>
@@ -2032,6 +2058,18 @@
  <decision date="2025-05-19" number="2а-1173/2025" org="Сафоновский районный суд - Смоленская область"/>
  <domain><![CDATA[safonovo.dosug2025.store]]></domain>
  <ip>109.123.255.18</ip>
+</content>
+<content id="8308271" includeTime="2025-05-28T00:00:03" entryType="1" hash="7D1856B1395C793308607575CBB0CB52" ts="2025-05-28T00:00:03">
+ <decision date="2025-05-19" number="2а-117/2025" org="Солнечногорский гарнизонный военный суд - Московская область"/>
+ <url><![CDATA[https://rossdiplomi.ru]]></url>
+ <domain><![CDATA[rossdiplomi.ru]]></domain>
+ <ip>185.74.253.186</ip>
+</content>
+<content id="8308272" includeTime="2025-05-28T00:00:03" entryType="1" hash="8EAE9CB7B83ABF07EF6DE17DA6E6980A" ts="2025-05-28T00:00:03">
+ <decision date="2025-04-25" number="2а-764/2025" org="Савеловский районный суд - Москва"/>
+ <url><![CDATA[https://sim-nomer-bez.ru/]]></url>
+ <domain><![CDATA[sim-nomer-bez.ru]]></domain>
+ <ip>91.228.152.144</ip>
 </content>
 <content id="8308278" includeTime="2025-05-27T03:55:02" entryType="1" hash="6C96D8758471FF87854991C8FABA8EC9" blockType="domain" ts="2025-05-27T03:55:02">
  <decision date="2025-05-26" number="3181605-URL-on" org="Роскомнадзор"/>
