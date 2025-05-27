@@ -1735,9 +1735,9 @@
  <ip>104.21.89.56</ip>
  <ip>172.67.188.37</ip>
 </content>
-<content id="7911263" includeTime="2025-03-18T07:05:02" entryType="1" hash="2E32326654624C8D7A04BACBC8B3B512" blockType="domain" ts="2025-03-18T07:05:02">
+<content id="7911263" includeTime="2025-03-18T07:05:02" entryType="1" hash="B3B7B5626EF00357331FE55AAC989FC3" blockType="domain-mask" ts="2025-05-27T13:40:03">
  <decision date="2025-02-18" number="2996466-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[taki-taki.info]]></domain>
+ <domain><![CDATA[*.taki-taki.info]]></domain>
  <ip>185.149.132.21</ip>
  <ipv6>2a05:44c0:0001:0019:0000:0000:0000:001a</ipv6>
 </content>

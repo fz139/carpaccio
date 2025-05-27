@@ -8458,6 +8458,11 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
+<content id="8294575" includeTime="2025-05-27T14:10:03" entryType="1" hash="AC956C9480F286A0A9F9BFB04078EB6D" blockType="domain" ts="2025-05-27T14:10:03">
+ <decision date="2025-05-20" number="2а-798/2025 ~ М-546/2025" org="Губкинский городской суд - Белгородская область"/>
+ <domain><![CDATA[fun.maglavka.com]]></domain>
+ <ip>185.81.128.70</ip>
+</content>
 <content id="8294576" includeTime="2025-05-23T14:30:04" entryType="1" hash="E2FC03A2D8301F5B92632D0D84EE3917" blockType="domain" ts="2025-05-23T14:30:04">
  <decision date="2025-05-19" number="2а-435/2025" org="Полярный районный суд - Мурманская область"/>
  <domain><![CDATA[ferveet.shop]]></domain>
@@ -9627,6 +9632,14 @@
  <ip>172.67.202.142</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4508</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:ca8e</ipv6>
+</content>
+<content id="8294777" includeTime="2025-05-27T14:10:03" entryType="1" hash="3D25B36F92722EF64550D308EB46F873" blockType="domain-mask" ts="2025-05-27T14:10:03">
+ <decision date="2025-05-21" number="3174329-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.the-boys.cc]]></domain>
+ <ip>104.21.53.48</ip>
+ <ip>172.67.209.2</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:3530</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:d102</ipv6>
 </content>
 <content id="8294782" includeTime="2025-05-22T14:25:03" entryType="1" hash="6D1594B790D2116925195452210B545B" blockType="domain-mask" ts="2025-05-22T14:25:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -14096,6 +14109,11 @@
  <ip>172.67.171.246</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:600f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:abf6</ipv6>
+</content>
+<content id="8296188" includeTime="2025-05-27T14:10:03" entryType="1" hash="363CB0F7464A3035A464160955300E73" blockType="domain" ts="2025-05-27T14:10:03">
+ <decision date="2025-04-30" number="2025-04-03-310-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[alfaspirtaa.ru]]></domain>
+ <ip>5.45.84.142</ip>
 </content>
 <content id="8296189" includeTime="2025-05-23T23:50:03" entryType="1" hash="AB05317262196BBCCD1500A529F2D04C" blockType="domain" ts="2025-05-23T23:50:03">
  <decision date="2025-05-06" number="2025-05-06-5878" org="МВД"/>

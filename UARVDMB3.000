@@ -1669,15 +1669,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="4556347" includeTime="2022-06-29T20:40:25" entryType="1" hash="57D6D5F85F5342FBC0D65117AB64E360" ts="2022-06-29T20:40:25">
- <decision date="2020-07-21" number="2020-07-21-405" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://best24.biz/page/6]]></url>
- <domain><![CDATA[best24.biz]]></domain>
- <ip>104.21.38.91</ip>
- <ip>172.67.220.251</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:dcfb</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:265b</ipv6>
-</content>
 <content id="4556367" includeTime="2022-07-28T13:32:37" entryType="1" hash="8FFE9CD4EDC9AD2509E4F138078C748C" ts="2022-07-28T13:32:37">
  <decision date="2022-06-21" number="2а-306/2022" org="Бардымский районный суд - Пермский край"/>
  <url><![CDATA[https://www.advancedconsulting.ru/blog/kak-vyvesti-dengi-v-ofshor/]]></url>
@@ -1736,11 +1727,6 @@
  <decision date="2022-05-31" number="2а-612/2022" org="Губкинский городской суд - Белгородская область"/>
  <domain><![CDATA[novorossiysk.31putanu.com]]></domain>
  <ip>37.1.205.14</ip>
-</content>
-<content id="4556500" includeTime="2022-07-13T21:09:33" entryType="1" hash="55F4AC649D15D83830D6A3F0D9AA5B25" blockType="domain" ts="2023-07-11T13:37:00">
- <decision date="2022-06-22" number="2а-295/2022" org="Бардымский районный суд - Пермский край"/>
- <domain><![CDATA[www.ebalkino.com]]></domain>
- <ip>193.70.127.185</ip>
 </content>
 <content id="4556541" includeTime="2022-06-29T20:40:34" entryType="1" hash="9EBECD44C51685D09AC039321FFCFA5F" ts="2024-10-09T12:05:02">
  <decision date="2022-05-05" number="2а-1715/2022" org="Волжский районный суд г. Саратова - Саратовская область"/>
@@ -6823,6 +6809,14 @@
  <url><![CDATA[https://pegas21-gtjm3.space/ru/]]></url>
  <domain><![CDATA[pegas21-gtjm3.space]]></domain>
  <ip>45.148.39.53</ip>
+</content>
+<content id="4566693" includeTime="2025-05-27T14:10:03" entryType="1" hash="D1C9BB4C5722497348B2912421D2A626" blockType="domain" ts="2025-05-27T14:10:03">
+ <decision date="2022-06-30" number="2-6-18/2022-01-26-1763-АИ" org="ФНС"/>
+ <domain><![CDATA[casinos-pokerdom.com]]></domain>
+ <ip>104.21.85.2</ip>
+ <ip>172.67.200.105</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5502</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:c869</ipv6>
 </content>
 <content id="4566701" includeTime="2022-06-30T23:02:41" entryType="1" hash="BF5925AE254B2D59A0A796EDFE081BDC" blockType="domain" ts="2022-06-30T23:02:41">
  <decision date="2022-06-30" number="2-6-18/2022-03-31-1642-АИ" org="ФНС"/>
