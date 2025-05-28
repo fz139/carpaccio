@@ -2311,12 +2311,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:b15b</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:4395</ipv6>
 </content>
-<content id="7588691" includeTime="2024-11-05T13:50:03" entryType="1" hash="2A1BDD0410665E0D9445EB1C0A70AA6C" ts="2024-11-05T13:50:03">
- <decision date="2024-11-02" number="2024-11-01-6818-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://www.inifa.ru/dapoksetin.html]]></url>
- <domain><![CDATA[www.inifa.ru]]></domain>
- <ip>130.185.109.2</ip>
-</content>
 <content id="7588692" includeTime="2024-11-02T20:00:03" entryType="1" hash="679A16EC93E4983499C9CF79353250E2" blockType="domain-mask" ts="2024-11-02T20:00:03">
  <decision date="2024-10-15" number="2-6-14/2024-10-15-5777-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.izzicasino-zulechy3.ru]]></domain>
@@ -2634,6 +2628,14 @@
  <ip>172.67.180.184</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:b4b8</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1fe5</ipv6>
+</content>
+<content id="7588773" includeTime="2025-05-28T14:30:03" entryType="1" hash="740CFEC322091155897B3F1AF4990F7C" blockType="domain" ts="2025-05-28T14:30:03">
+ <decision date="2024-11-02" number="2024-10-29-12110" org="МВД"/>
+ <domain><![CDATA[rcway.at]]></domain>
+ <ip>104.21.80.77</ip>
+ <ip>172.67.175.229</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:afe5</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:504d</ipv6>
 </content>
 <content id="7588774" includeTime="2024-11-02T20:00:03" entryType="1" hash="FC2120287BC82B615D870865688BD0B6" blockType="domain-mask" ts="2024-11-02T20:00:03">
  <decision date="2024-10-15" number="2-6-14/2024-10-15-5777-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
