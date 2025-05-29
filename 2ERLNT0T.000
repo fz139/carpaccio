@@ -1589,6 +1589,17 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:0790</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:bb99</ipv6>
 </content>
+<content id="8313899" includeTime="2025-05-29T14:15:02" entryType="1" hash="A1925FEEB5935BB0ECD48501C7193430" ts="2025-05-29T14:15:02">
+ <decision date="2025-05-27" number="3184465-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://sexrasskazy.info/category/gomoseksualy/]]></url>
+ <domain><![CDATA[sexrasskazy.info]]></domain>
+ <ip>213.166.68.50</ip>
+</content>
+<content id="8313905" includeTime="2025-05-29T14:15:02" entryType="1" hash="2B528C547CBB035388A81E64D918DE05" blockType="domain" ts="2025-05-29T14:15:02">
+ <decision date="2025-05-27" number="3184471-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[russ.swing-zone.com]]></domain>
+ <ip>85.17.14.3</ip>
+</content>
 <content id="8313966" includeTime="2025-05-28T00:00:03" entryType="1" hash="98FB52F12DAB9B5A1FDD4421811CE6FD" blockType="domain-mask" ts="2025-05-28T00:00:03">
  <decision date="2025-05-26" number="2025-05-21-6246-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[*.alco-express24-7-saratov.online]]></domain>
@@ -1753,12 +1764,6 @@
  <ip>172.67.156.240</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:5946</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:9cf0</ipv6>
-</content>
-<content id="8314060" includeTime="2025-05-29T07:00:03" entryType="1" hash="014DBB6556C84C15470D8664F0D7C401" blockType="domain" ts="2025-05-29T07:00:03">
- <decision date="2025-05-27" number="2025-05-20-1780-ВВ" org="Федеральная служба войск национальной гвардии РФ"/>
- <domain><![CDATA[kupit-oruzhie-travmat.com]]></domain>
- <ip>185.31.40.25</ip>
- <ipv6>2a00:b6e0:0001:0020:0016:0000:0000:0001</ipv6>
 </content>
 <content id="8314069" includeTime="2025-05-28T00:00:03" entryType="1" hash="1E05E1B730226D11A30B0D3A142B7661" blockType="domain-mask" ts="2025-05-28T00:00:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
