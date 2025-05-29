@@ -1984,9 +1984,9 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:0211</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8094</ipv6>
 </content>
-<content id="6753413" includeTime="2024-02-20T09:15:04" entryType="1" hash="0C4D01D9D3D30B3BE967586EDCC84B18" blockType="domain" ts="2024-02-20T09:15:04">
+<content id="6753413" includeTime="2024-02-20T09:15:04" entryType="1" hash="211E0162A4F1D6663CB96D8B047D7401" blockType="domain-mask" ts="2025-05-29T13:35:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[expert-poligraf.ru]]></domain>
+ <domain><![CDATA[*.expert-poligraf.ru]]></domain>
  <ip>104.21.8.109</ip>
  <ip>172.67.188.111</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:bc6f</ipv6>
