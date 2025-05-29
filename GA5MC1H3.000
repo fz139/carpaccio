@@ -365,10 +365,29 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:017c</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8138</ipv6>
 </content>
-<content id="8312921" includeTime="2025-05-28T20:10:02" urgencyType="1" entryType="3" hash="02E96B11E8BD6DDA32DC82DAC6309671" blockType="domain" ts="2025-05-28T20:10:02">
+<content id="8312921" includeTime="2025-05-28T20:10:02" urgencyType="1" entryType="3" hash="109F7124B53F7230D5214F7D17FEF547" blockType="domain-mask" ts="2025-05-29T22:05:02">
  <decision date="2025-05-26" number="" org=""/>
- <domain><![CDATA[intervision-contest.ru]]></domain>
+ <domain><![CDATA[*.intervision-contest.ru]]></domain>
  <ip>91.236.136.231</ip>
+</content>
+<content id="8312923" includeTime="2025-05-29T22:05:02" urgencyType="1" entryType="3" hash="EB25C5264D9C4AA668AE333AA7F7AD0D" blockType="domain" ts="2025-05-29T22:05:02">
+ <decision date="2025-05-26" number="" org=""/>
+ <domain><![CDATA[found-severia.jimdofree.com]]></domain>
+ <ip>104.18.35.213</ip>
+ <ip>172.64.152.43</ip>
+ <ipv6>2606:4700:4400:0000:0000:0000:6812:23d5</ipv6>
+ <ipv6>2606:4700:4400:0000:0000:0000:ac40:982b</ipv6>
+</content>
+<content id="8312924" includeTime="2025-05-29T22:05:02" urgencyType="1" entryType="3" hash="9A8B97005DEBC1C52746B195F488E994" blockType="domain-mask" ts="2025-05-29T22:05:02">
+ <decision date="2025-05-26" number="" org=""/>
+ <domain><![CDATA[*.wmmsk.com]]></domain>
+ <ip>84.22.98.37</ip>
+ <ipv6>2a02:2770:0013:0000:0000:01a9:0000:0003</ipv6>
+</content>
+<content id="8312925" includeTime="2025-05-29T22:05:02" urgencyType="1" entryType="3" hash="BCCCA1B8063EF4875B36DCC99CDAC350" blockType="domain-mask" ts="2025-05-29T22:05:02">
+ <decision date="2025-05-26" number="" org=""/>
+ <domain><![CDATA[*.byne.ru]]></domain>
+ <ip>168.119.78.158</ip>
 </content>
 <content id="8313107" includeTime="2025-05-27T12:20:03" entryType="5" hash="FE739CBDC98789C9C3026FFB505DB6C1" blockType="domain" ts="2025-05-27T12:20:03">
  <decision date="2025-05-27" number="Ïá/71749" org="Ìèíöèôðû"/>
@@ -582,14 +601,14 @@
  <domain><![CDATA[*.ediplom-spb.ru]]></domain>
  <ip>87.98.133.70</ip>
 </content>
-<content id="8313160" includeTime="2025-05-27T21:35:02" urgencyType="1" entryType="3" hash="E1884DBCB4760549D6AA304B3B3018B6" blockType="domain" ts="2025-05-27T21:35:02">
+<content id="8313160" includeTime="2025-05-27T21:35:02" urgencyType="1" entryType="3" hash="B25A765BE4EA1C4A62E4DADF93E6B1DE" blockType="domain-mask" ts="2025-05-29T22:05:02">
  <decision date="2023-10-10" number="" org=""/>
- <domain><![CDATA[uk24.space]]></domain>
+ <domain><![CDATA[*.uk24.space]]></domain>
  <ip>167.235.153.84</ip>
 </content>
-<content id="8313161" includeTime="2025-05-27T21:35:02" urgencyType="1" entryType="3" hash="53AB4283025BCA6D30B146693B750EF7" blockType="domain" ts="2025-05-27T21:35:02">
+<content id="8313161" includeTime="2025-05-27T21:35:02" urgencyType="1" entryType="3" hash="C977E1FB21756B2FC490DB01E44A1046" blockType="domain-mask" ts="2025-05-29T22:05:02">
  <decision date="2022-10-05" number="" org=""/>
- <domain><![CDATA[wowecho.xyz]]></domain>
+ <domain><![CDATA[*.wowecho.xyz]]></domain>
  <ip>104.21.52.230</ip>
  <ip>172.67.205.58</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:34e6</ipv6>
