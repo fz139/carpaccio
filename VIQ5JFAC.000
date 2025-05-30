@@ -222,11 +222,6 @@
  <domain><![CDATA[master-sandbox.acskey.co]]></domain>
  <ip>18.138.4.53</ip>
 </content>
-<content id="8316865" includeTime="2025-05-29T14:15:02" entryType="1" hash="835B471DAFB1DA0FFF809B6CFF6D3399" blockType="domain-mask" ts="2025-05-29T14:15:02">
- <decision date="2025-05-26" number="2025-05-15-10249-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[*.easyconnectvpn.net]]></domain>
- <ip>109.196.98.98</ip>
-</content>
 <content id="8316867" includeTime="2025-05-29T14:15:02" entryType="1" hash="E34956602896797BC9548AC42CC10B28" blockType="domain-mask" ts="2025-05-29T14:15:02">
  <decision date="2025-05-27" number="3185541-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.kitlv.cc]]></domain>
@@ -650,12 +645,6 @@
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[www.beautybylaws.com]]></domain>
  <ip>74.125.29.132</ip>
-</content>
-<content id="8316960" includeTime="2025-05-30T00:55:02" entryType="1" hash="49C76A53DF36692E0C3BB8AB06C5674D" ts="2025-05-30T00:55:02">
- <decision date="2025-04-30" number="2025-04-21-3721-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <url><![CDATA[https://udm.4geo.ru/catalog/keywords/доставка%20пива%20на%20дом%20ижевск]]></url>
- <domain><![CDATA[udm.4geo.ru]]></domain>
- <ip>130.193.66.76</ip>
 </content>
 <content id="8316961" includeTime="2025-05-30T00:55:02" entryType="1" hash="5E63A39CFF1EB2B7C38731270AA5CE9B" ts="2025-05-30T00:55:02">
  <decision date="2025-05-26" number="2025-05-13-4176" org="МВД"/>
