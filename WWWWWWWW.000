@@ -785,6 +785,18 @@
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:82ce</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:038d</ipv6>
 </content>
+<content id="8335034" includeTime="2025-06-02T12:40:01" urgencyType="1" entryType="3" hash="AF1D27DE8741A943206C866E161970D1" blockType="domain-mask" ts="2025-06-02T12:40:01">
+ <decision date="2025-05-28" number="" org=""/>
+ <domain><![CDATA[*.stop-war-crime.net]]></domain>
+ <ip>192.0.78.24</ip>
+ <ip>192.0.78.25</ip>
+</content>
+<content id="8335035" includeTime="2025-06-02T12:40:01" urgencyType="1" entryType="3" hash="7940CF4B839D85D9627945F4D5DE6BAE" blockType="domain-mask" ts="2025-06-02T12:40:01">
+ <decision date="2025-05-28" number="" org=""/>
+ <domain><![CDATA[*.putinsgulag.net]]></domain>
+ <ip>192.0.78.24</ip>
+ <ip>192.0.78.25</ip>
+</content>
 <content id="8335036" includeTime="2025-05-31T11:55:01" urgencyType="1" entryType="3" hash="AA1259AEA70A92348E506126530C6B99" ts="2025-05-31T11:55:01">
  <decision date="2025-05-23" number="" org=""/>
  <url><![CDATA[https://www.kiwi.com/stories/stand-with-ukraine-donate-to-these-charities]]></url>
@@ -2226,5 +2238,25 @@
  <ip>172.67.133.92</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0de3</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:855c</ipv6>
+</content>
+<content id="8343457" includeTime="2025-06-02T12:40:01" urgencyType="1" entryType="3" hash="330D4C7E2139A50952F49B918C32F9EF" blockType="domain-mask" ts="2025-06-02T12:40:01">
+ <decision date="2025-05-28" number="" org=""/>
+ <domain><![CDATA[*.360ua.news]]></domain>
+ <ip>104.26.2.182</ip>
+ <ip>104.26.3.182</ip>
+ <ip>172.67.74.174</ip>
+ <ipv6>2606:4700:0020:0000:0000:0000:681a:02b6</ipv6>
+ <ipv6>2606:4700:0020:0000:0000:0000:681a:03b6</ipv6>
+ <ipv6>2606:4700:0020:0000:0000:0000:ac43:4aae</ipv6>
+</content>
+<content id="8343458" includeTime="2025-06-02T12:40:01" urgencyType="1" entryType="3" hash="7167BCBD1AE4F71990858E0B2A2F5D32" blockType="domain-mask" ts="2025-06-02T12:40:01">
+ <decision date="2025-05-28" number="" org=""/>
+ <domain><![CDATA[*.360ua.news]]></domain>
+ <ip>104.26.2.182</ip>
+ <ip>104.26.3.182</ip>
+ <ip>172.67.74.174</ip>
+ <ipv6>2606:4700:0020:0000:0000:0000:681a:02b6</ipv6>
+ <ipv6>2606:4700:0020:0000:0000:0000:681a:03b6</ipv6>
+ <ipv6>2606:4700:0020:0000:0000:0000:ac43:4aae</ipv6>
 </content>
 </reg:register>
