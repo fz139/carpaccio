@@ -18625,9 +18625,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5645045" includeTime="2023-03-28T20:31:40" entryType="1" hash="7CBA14825409FE6314547613691D9869" blockType="domain" ts="2023-03-28T20:31:40">
+<content id="5645045" includeTime="2023-03-28T20:31:40" entryType="1" hash="836DA91F8658FC8C1BFAE9FC7BACFE7E" blockType="domain-mask" ts="2025-06-03T13:05:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[bs2.shop]]></domain>
+ <domain><![CDATA[*.bs2.shop]]></domain>
  <ip>104.21.51.155</ip>
  <ip>172.67.182.24</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:339b</ipv6>
