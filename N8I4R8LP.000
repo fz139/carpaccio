@@ -3941,14 +3941,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a33f</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:3181</ipv6>
 </content>
-<content id="8282913" includeTime="2025-05-21T17:25:01" entryType="1" hash="54D43D03BA9174D940F57873F9E4530A" blockType="domain" ts="2025-05-21T17:25:01">
- <decision date="2025-04-24" number="2025-04-23-5091-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[va.parkerlabs6.pro]]></domain>
- <ip>104.21.49.129</ip>
- <ip>172.67.163.63</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:a33f</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:3181</ipv6>
-</content>
 <content id="8282914" includeTime="2025-05-21T17:25:01" entryType="1" hash="135BD43EC696BA66C5FB16C7683E65B4" blockType="domain" ts="2025-05-21T17:25:01">
  <decision date="2025-04-24" number="2025-04-23-5109-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[n1.athleticforum.pw]]></domain>
@@ -20754,6 +20746,14 @@
  <domain><![CDATA[*.wildhornets.com]]></domain>
  <ip>167.235.181.32</ip>
  <ipv6>2a01:04f8:2200:2857:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8287239" includeTime="2025-06-03T14:40:03" entryType="1" hash="31B40AB9D84422C951BF725F4A121BF7" blockType="domain-mask" ts="2025-06-03T14:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.moskvaavtobot.online]]></domain>
+ <ip>104.21.34.175</ip>
+ <ip>172.67.163.141</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:22af</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:a38d</ipv6>
 </content>
 <content id="8287333" includeTime="2025-05-20T23:55:02" entryType="1" hash="FA3E1DDA2031C7E52E32C6C3606920FD" blockType="domain-mask" ts="2025-05-20T23:55:02">
  <decision date="2025-02-20" number="2-6-14/2025-02-19-10903-АИ" org="ФНС"/>

@@ -2090,15 +2090,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:dd6c</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:2b39</ipv6>
 </content>
-<content id="8273127" includeTime="2025-06-02T14:15:02" entryType="1" hash="CBE291FBAE266304CB76C028BA0781BE" ts="2025-06-02T14:15:02">
- <decision date="2017-07-26" number="2-560/2017" org="Успенский районный суд - Краснодарский край"/>
- <url><![CDATA[https://ru-world.net/profile/ivanov-ivan-42894561110]]></url>
- <domain><![CDATA[ru-world.net]]></domain>
- <ip>104.21.73.207</ip>
- <ip>172.67.192.39</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:49cf</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:c027</ipv6>
-</content>
 <content id="8273167" includeTime="2025-05-16T23:30:03" entryType="1" hash="F90B1BF623A45009A4B235F243CF4E49" blockType="domain-mask" ts="2025-05-19T14:10:05">
  <decision date="2025-05-15" number="3161747-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.mylordserial-film.top]]></domain>
@@ -13065,6 +13056,14 @@
  <ip>172.67.168.225</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:1b27</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:a8e1</ipv6>
+</content>
+<content id="8276777" includeTime="2025-06-03T14:40:03" entryType="1" hash="5D6D503695554EEB208F42E37CA0587C" blockType="domain-mask" ts="2025-06-03T14:40:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.office-faq.ru]]></domain>
+ <ip>104.21.3.193</ip>
+ <ip>172.67.131.32</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:03c1</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:8320</ipv6>
 </content>
 <content id="8276778" includeTime="2025-05-19T14:40:04" entryType="1" hash="67ED3A7BD05CACA21DC947A0EDE2DA9D" blockType="domain-mask" ts="2025-05-19T14:40:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
