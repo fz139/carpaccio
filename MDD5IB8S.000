@@ -401,6 +401,11 @@
  <domain><![CDATA[www.lpsg.com]]></domain>
  <ip>66.254.114.59</ip>
 </content>
+<content id="8310872" includeTime="2025-06-04T07:00:02" entryType="1" hash="5E3423D47AC54C457CD815EF22430C7F" blockType="domain-mask" ts="2025-06-04T07:00:02">
+ <decision date="2025-05-26" number="3181694-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.amedia.lol]]></domain>
+ <ip>95.129.232.146</ip>
+</content>
 <content id="8310904" includeTime="2025-06-02T14:15:02" entryType="1" hash="52E892DA5118076041CAED2A0B495589" blockType="domain" ts="2025-06-02T14:15:02">
  <decision date="2025-05-26" number="3181726-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[manga.ovh]]></domain>
@@ -3263,6 +3268,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8311806" includeTime="2025-06-04T07:00:02" entryType="1" hash="BC7A5E9432EB8CD41AC8F67A88E881CA" blockType="domain" ts="2025-06-04T07:00:02">
+ <decision date="2025-05-26" number="3182630-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[ru.novelcool.com]]></domain>
+ <ip>188.114.98.228</ip>
+ <ip>188.114.99.228</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0004</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0004</ipv6>
 </content>
 <content id="8311824" includeTime="2025-05-27T14:10:03" entryType="1" hash="CD4118687D273AB590D9BE699BA17F05" blockType="domain-mask" ts="2025-05-27T14:10:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
