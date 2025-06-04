@@ -3447,13 +3447,10 @@
  <domain><![CDATA[sloti-cazino.net]]></domain>
  <ip>45.136.48.97</ip>
 </content>
-<content id="4893593" includeTime="2022-10-03T23:04:36" entryType="1" hash="94E84132CF3D094DB9208146B288E1BB" blockType="domain" ts="2022-10-03T23:04:36">
+<content id="4893593" includeTime="2022-10-03T23:04:36" entryType="1" hash="09820834BCAB5A5FAB2911A221EF2D91" blockType="domain-mask" ts="2025-06-04T13:40:03">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[aa24.biz]]></domain>
- <ip>104.21.78.22</ip>
- <ip>172.67.215.24</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:d718</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:4e16</ipv6>
+ <domain><![CDATA[*.aa24.biz]]></domain>
+ <ip>91.206.71.211</ip>
 </content>
 <content id="4893605" includeTime="2022-10-03T23:04:29" entryType="1" hash="D4B946C777F87C4B5A4B30FD30B70811" blockType="domain" ts="2022-10-03T23:04:29">
  <decision date="2022-09-29" number="2-6-18/2022-09-01-479-АИ" org="ФНС"/>
