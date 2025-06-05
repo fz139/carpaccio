@@ -10600,10 +10600,13 @@
  <domain><![CDATA[*.tqfp.org]]></domain>
  <ip>217.12.199.61</ip>
 </content>
-<content id="8328344" includeTime="2025-06-03T07:20:03" entryType="1" hash="167B756642E191D7FE57756024D7C467" blockType="domain-mask" ts="2025-06-03T07:20:03">
+<content id="8328344" includeTime="2025-06-03T07:20:03" entryType="1" hash="1E1A76179101DA94938508E348641448" blockType="domain-mask" ts="2025-06-05T15:05:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.alti-web.fr]]></domain>
- <ip>213.183.48.170</ip>
+ <ip>65.108.104.232</ip>
+ <ip>65.109.39.175</ip>
+ <ipv6>2a01:04f9:005a:2505:0000:0000:0000:0002</ipv6>
+ <ipv6>2a01:04f9:006b:1c69:0000:0000:0000:0002</ipv6>
 </content>
 <content id="8328346" includeTime="2025-06-03T07:20:03" entryType="1" hash="0AED2032CBA3EA12C83CBF14FD1AEE8E" ts="2025-06-03T07:20:03">
  <decision date="2025-05-28" number="184707" org="Роспотребнадзор"/>
@@ -20212,6 +20215,14 @@
  <decision date="2025-02-27" number="2-6-14/2025-02-26-6099-АИ" org="ФНС"/>
  <domain><![CDATA[*.banzaicasino.site]]></domain>
  <ip>45.147.197.134</ip>
+</content>
+<content id="8330402" includeTime="2025-06-05T14:35:02" entryType="1" hash="70D2EB48D01A2F6222B69392B83CF508" blockType="domain" ts="2025-06-05T14:35:02">
+ <decision date="2025-05-30" number="3191351-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[fansly.com]]></domain>
+ <ip>3.164.206.101</ip>
+ <ip>3.164.206.128</ip>
+ <ip>3.164.206.26</ip>
+ <ip>3.164.206.79</ip>
 </content>
 <content id="8330403" includeTime="2025-05-31T04:00:03" entryType="1" hash="76BA55E0A4FE53131EDE867BADE76EC3" blockType="domain-mask" ts="2025-05-31T04:00:03">
  <decision date="2025-02-27" number="2-6-14/2025-02-26-6101-АИ" org="ФНС"/>
