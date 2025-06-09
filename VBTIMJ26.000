@@ -4272,24 +4272,6 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:47ae</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:ab16</ipv6>
 </content>
-<content id="8359715" includeTime="2025-06-07T07:10:03" entryType="1" hash="E73F603FAB15BFFCC3CFDA46C39F357B" ts="2025-06-07T07:10:03">
- <decision date="2025-06-04" number="2025-06-01-2233-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://satfarma.com/imunodepressivnye-preparaty/pirfenidon-pirfenex-tablet]]></url>
- <domain><![CDATA[satfarma.com]]></domain>
- <ip>104.26.14.69</ip>
- <ip>104.26.15.69</ip>
- <ip>172.67.72.191</ip>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0e45</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:681a:0f45</ipv6>
- <ipv6>2606:4700:0020:0000:0000:0000:ac43:48bf</ipv6>
-</content>
-<content id="8359716" includeTime="2025-06-07T07:10:03" entryType="1" hash="ECBE78EAC0CF788FD76038D648360F30" ts="2025-06-07T07:10:03">
- <decision date="2025-06-04" number="2025-06-01-2231-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://avis-farm.com/immunodepressanti/pirfenidon-pirfenex-200mg-tablets]]></url>
- <domain><![CDATA[avis-farm.com]]></domain>
- <ip>176.124.214.11</ip>
- <ipv6>2a03:6f01:0001:0002:0000:0000:0000:bc48</ipv6>
-</content>
 <content id="8359719" includeTime="2025-06-05T14:35:02" entryType="1" hash="F98C1A5C716688665A66F010CA15D723" blockType="domain" ts="2025-06-05T14:35:02">
  <decision date="2025-06-04" number="3199794-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[dp-vids.com]]></domain>
@@ -10256,6 +10238,12 @@
  <decision date="2025-05-05" number="2а-454/2025" org="Бикинский городской суд - Хабаровский край"/>
  <domain><![CDATA[printchek.ru]]></domain>
  <ip>104.28.6.67</ip>
+</content>
+<content id="8361341" includeTime="2025-06-09T13:25:02" entryType="1" hash="31FB7A120F6586E57FF218F844E89E20" ts="2025-06-09T13:25:02">
+ <decision date="2025-05-30" number="2а-110/2025" org="Ягоднинский районный суд - Магаданская область"/>
+ <url><![CDATA[https://hot.yadelus.ru/sliv-shkur/magadan/]]></url>
+ <domain><![CDATA[hot.yadelus.ru]]></domain>
+ <ip>62.204.42.143</ip>
 </content>
 <content id="8361342" includeTime="2025-06-06T07:00:03" entryType="1" hash="695E49A4CD76CA483F082DB22711F7E9" blockType="domain" ts="2025-06-06T07:00:03">
  <decision date="2025-05-30" number="2а-110/2025" org="Ягоднинский районный суд - Магаданская область"/>
@@ -16699,6 +16687,24 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:cba3</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:34ca</ipv6>
 </content>
+<content id="8364458" includeTime="2025-06-09T13:25:02" entryType="1" hash="F4E6F0005A105C8035FD540242640934" blockType="domain-mask" ts="2025-06-09T13:25:02">
+ <decision date="2025-06-05" number="3201382-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.anixart.tv]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
 <content id="8364483" includeTime="2025-06-06T07:00:03" entryType="1" hash="79FA5382D0EEBADAECDEE6C6A3F9E8A1" blockType="domain-mask" ts="2025-06-06T07:00:03">
  <decision date="2025-05-07" number="2-6-14/2025-05-06-5888-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1-majskoe.ru]]></domain>
@@ -17316,6 +17322,11 @@
  <ip>172.67.145.18</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:9112</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:498b</ipv6>
+</content>
+<content id="8364605" includeTime="2025-06-09T13:25:02" entryType="1" hash="06B2EAEA8521B5BC8EC9E714044E8957" blockType="domain" ts="2025-06-09T13:25:02">
+ <decision date="2025-04-07" number="2а-2407/2025" org="Октябрьский районный суд г. Иркутска - Иркутская область"/>
+ <domain><![CDATA[irkutskdiplomus.ru]]></domain>
+ <ip>5.61.58.119</ip>
 </content>
 <content id="8364619" includeTime="2025-06-06T07:00:03" entryType="1" hash="CDA98A40FEF13C6452CF8248CC8356DF" blockType="domain-mask" ts="2025-06-06T07:00:03">
  <decision date="2025-05-07" number="2-6-14/2025-05-06-5888-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
