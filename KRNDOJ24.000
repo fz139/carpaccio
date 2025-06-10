@@ -6439,6 +6439,14 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0e77</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:85c3</ipv6>
 </content>
+<content id="8243415" includeTime="2025-06-10T13:25:03" entryType="1" hash="4CE6623DEEC368EE6FCDE1B21ABF576B" blockType="domain" ts="2025-06-10T13:25:03">
+ <decision date="2025-05-06" number="3146609-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[new.bats.fyi]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="8243416" includeTime="2025-05-07T07:00:03" entryType="1" hash="D712C46AFE7ED4096F23A597520BE565" blockType="domain-mask" ts="2025-05-07T07:00:03">
  <decision date="2025-02-12" number="2-6-14/2025-02-12-6521-АИ" org="ФНС"/>
  <domain><![CDATA[*.auf-st1.buzz]]></domain>
