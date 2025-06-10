@@ -3471,6 +3471,14 @@
  <domain><![CDATA[*.planetfree-vpn.com]]></domain>
  <ip>157.180.41.161</ip>
 </content>
+<content id="8349841" includeTime="2025-06-10T10:25:02" entryType="1" hash="8CF76A8242347609E1C008344AD566D2" blockType="domain-mask" ts="2025-06-10T10:25:02">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kraken-in-dark.com]]></domain>
+ <ip>104.21.36.63</ip>
+ <ip>172.67.186.193</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:243f</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:bac1</ipv6>
+</content>
 <content id="8349853" includeTime="2025-06-05T07:15:02" entryType="1" hash="D0486B5E392E4D2C822E52335A054833" ts="2025-06-05T07:15:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://www.bra24.biz/]]></url>
