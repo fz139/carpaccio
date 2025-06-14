@@ -7572,6 +7572,14 @@
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:9608</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:4feb</ipv6>
 </content>
+<content id="5445328" includeTime="2025-06-14T12:10:02" entryType="1" hash="C37DD4BC59C35CA901239EFABF15AC1C" blockType="domain-mask" ts="2025-06-14T12:10:02">
+ <decision date="2023-02-10" number="2023-02-02-501" org="МВД"/>
+ <domain><![CDATA[*.blacksprut.at]]></domain>
+ <ip>104.21.30.140</ip>
+ <ip>172.67.172.249</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:1e8c</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:acf9</ipv6>
+</content>
 <content id="5445331" includeTime="2023-02-10T21:22:06" entryType="1" hash="F55C5389974C9F768D8604F85BDA90D1" blockType="domain-mask" ts="2023-02-10T21:22:06">
  <decision date="2017-10-27" number="2-6-20/ 2017-10-26-206-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vavada-345.ru]]></domain>
