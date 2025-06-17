@@ -3013,6 +3013,11 @@
  <domain><![CDATA[dlouha-videa.cz]]></domain>
  <ip>185.64.216.12</ip>
 </content>
+<content id="8273758" includeTime="2025-06-18T00:55:02" entryType="1" hash="64F5D3297F876C86A356AEBC6FAAB739" blockType="domain" ts="2025-06-18T00:55:02">
+ <decision date="2025-05-15" number="3162471-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[telega-channel.com]]></domain>
+ <ip>104.24.24.58</ip>
+</content>
 <content id="8273759" includeTime="2025-05-19T14:40:04" entryType="1" hash="854C066EFF44CC4DB519148B967B128D" blockType="domain" ts="2025-05-19T14:40:04">
  <decision date="2025-05-15" number="3162472-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[m.sexogollc.info]]></domain>
@@ -12643,6 +12648,14 @@
  <ip>172.67.130.189</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:82bd</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0387</ipv6>
+</content>
+<content id="8276725" includeTime="2025-06-18T00:55:02" entryType="1" hash="C5764206BFC71DF8F8823B23A4758453" blockType="domain-mask" ts="2025-06-18T00:55:02">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.migrant-rnd.ru]]></domain>
+ <ip>104.21.60.199</ip>
+ <ip>172.67.201.21</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3cc7</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:c915</ipv6>
 </content>
 <content id="8276726" includeTime="2025-05-19T14:40:04" entryType="1" hash="55211ECA2C2A4081A3BF69014685EDE7" blockType="domain-mask" ts="2025-05-19T14:40:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
