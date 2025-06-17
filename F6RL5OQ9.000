@@ -7113,11 +7113,6 @@
  <domain><![CDATA[fin-fin31.ru]]></domain>
  <ip>45.82.69.246</ip>
 </content>
-<content id="8327746" includeTime="2025-06-02T14:15:02" entryType="1" hash="4F3DB9A56192464167E3FBB2A5B77F41" blockType="domain" ts="2025-06-02T14:15:02">
- <decision date="2025-04-07" number="2а-2115/2025" org="Псковский городской суд - Псковская область"/>
- <domain><![CDATA[finnish-shop.ru]]></domain>
- <ip>104.28.6.67</ip>
-</content>
 <content id="8327752" includeTime="2025-06-02T14:15:02" entryType="1" hash="FCB0C137C0DDD724ED094AD2584EE048" blockType="domain" ts="2025-06-02T14:15:02">
  <decision date="2025-03-11" number="2а-1846/2025" org="Кировский районный суд г. Екатеринбурга - Свердловская область"/>
  <domain><![CDATA[broadvape.ru]]></domain>
@@ -12801,10 +12796,9 @@
  <ip>54.37.204.38</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:6818</ipv6>
 </content>
-<content id="8328747" includeTime="2025-06-04T17:45:02" entryType="6" hash="58C44B06196D27330E47527AE8494048" ts="2025-06-04T17:45:02">
+<content id="8328747" includeTime="2025-06-04T17:45:02" entryType="6" hash="074A8D4CBD782D6B9C7DED261221DD92" blockType="domain-mask" ts="2025-06-17T13:40:03">
  <decision date="2025-05-16" number="б/н" org="Советский районный суд г. Астрахани - Астраханская область"/>
- <url><![CDATA[http://declarator.org]]></url>
- <domain><![CDATA[declarator.org]]></domain>
+ <domain><![CDATA[*.declarator.org]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
