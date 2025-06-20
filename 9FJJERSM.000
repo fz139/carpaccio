@@ -1736,24 +1736,6 @@
  <domain><![CDATA[*.mircalemi.net]]></domain>
  <ip>185.9.38.139</ip>
 </content>
-<content id="8391924" includeTime="2025-06-18T00:55:02" entryType="1" hash="B892A2C24DD74FC14926E9D39D6E8693" ts="2025-06-18T00:55:02">
- <decision date="2025-06-16" number="3213059-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://hchan.net/?tag_page=true&with_tags=153]]></url>
- <domain><![CDATA[hchan.net]]></domain>
- <ip>91.211.251.93</ip>
-</content>
-<content id="8391925" includeTime="2025-06-18T00:55:02" entryType="1" hash="6CAAAE81B73D9AC8ED9997210E53D293" ts="2025-06-18T00:55:02">
- <decision date="2025-06-16" number="3213060-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://hchan.net/?with_tags=84%2C106]]></url>
- <domain><![CDATA[hchan.net]]></domain>
- <ip>91.211.251.93</ip>
-</content>
-<content id="8391926" includeTime="2025-06-18T00:55:02" entryType="1" hash="8009AA56C45EDD9BE9DCF54AFD36977B" ts="2025-06-18T00:55:02">
- <decision date="2025-06-16" number="3213061-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://hchan.net/?with_tags=32%2C86%2C167&without_tags=41%2C62%2C70%2C99%2C106%2C132%2C148%2C158%2C168]]></url>
- <domain><![CDATA[hchan.net]]></domain>
- <ip>91.211.251.93</ip>
-</content>
 <content id="8391927" includeTime="2025-06-17T13:40:03" entryType="1" hash="7A179BED7615579A16E809F37DF2FDC7" blockType="domain-mask" ts="2025-06-17T13:40:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.codexnn.ru]]></domain>
@@ -1761,48 +1743,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="8391929" includeTime="2025-06-18T00:55:02" entryType="1" hash="C2BA29B865B9E754DA287B390CC286AC" ts="2025-06-18T00:55:02">
- <decision date="2025-06-16" number="3213064-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://hchan.net/?without_tags=89%2C1]]></url>
- <domain><![CDATA[hchan.net]]></domain>
- <ip>91.211.251.93</ip>
-</content>
-<content id="8391930" includeTime="2025-06-18T00:55:02" entryType="1" hash="9D3EC10B0876B97E24465B47E65A690F" ts="2025-06-18T00:55:02">
- <decision date="2025-06-16" number="3213065-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://hchan.net/?without_tags=87%2C157%2C169%2C170%2C186%2C188]]></url>
- <domain><![CDATA[hchan.net]]></domain>
- <ip>91.211.251.93</ip>
-</content>
-<content id="8391931" includeTime="2025-06-18T00:55:02" entryType="1" hash="C8CF794164DC423D01DCE1AADCE8CF49" ts="2025-06-18T00:55:02">
- <decision date="2025-06-16" number="3213066-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://hchan.net/?without_tags=87%2C188%2C157%2C169%2C170%2C168]]></url>
- <domain><![CDATA[hchan.net]]></domain>
- <ip>91.211.251.93</ip>
-</content>
-<content id="8391932" includeTime="2025-06-18T00:55:02" entryType="1" hash="B88D55DAEECAFA49D3D015FDCBE406B8" ts="2025-06-18T00:55:02">
- <decision date="2025-06-16" number="3213067-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://hchan.net/?without_tags=15%2C81%2C87]]></url>
- <domain><![CDATA[hchan.net]]></domain>
- <ip>91.211.251.93</ip>
-</content>
-<content id="8391933" includeTime="2025-06-18T00:55:02" entryType="1" hash="05418AE6F78E727EF8AA08D465806546" ts="2025-06-18T00:55:02">
- <decision date="2025-06-16" number="3213068-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://hchan.net/?with_tags=108&without_tags=157]]></url>
- <domain><![CDATA[hchan.net]]></domain>
- <ip>91.211.251.93</ip>
-</content>
-<content id="8391934" includeTime="2025-06-18T00:55:02" entryType="1" hash="BFE9FC7F43997F58B0CE1D2EBD51D9DF" ts="2025-06-18T00:55:02">
- <decision date="2025-06-16" number="3213069-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://hchan.net/?with_tags=13&without_tags=87%2C188]]></url>
- <domain><![CDATA[hchan.net]]></domain>
- <ip>91.211.251.93</ip>
-</content>
-<content id="8391940" includeTime="2025-06-18T00:55:02" entryType="1" hash="CFB3AE9F76837CB12B9CF178BF3A2F2C" ts="2025-06-18T00:55:02">
- <decision date="2025-06-16" number="3213075-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://hchan.net/?with_tags=54%2C157%2C5&without_tags=2%2C1]]></url>
- <domain><![CDATA[hchan.net]]></domain>
- <ip>91.211.251.93</ip>
 </content>
 <content id="8391941" includeTime="2025-06-18T00:55:02" entryType="1" hash="E62DEABA67F202E7E1E41D6758AB667E" blockType="domain" ts="2025-06-18T00:55:02">
  <decision date="2025-06-06" number="2025-03-05-8484-СОБ" org="Роскомнадзор"/>
