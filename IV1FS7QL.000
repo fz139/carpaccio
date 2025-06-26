@@ -375,14 +375,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6727853" includeTime="2024-02-12T13:45:02" entryType="1" hash="9061BC7C344571096C9F2396B861DEB1" blockType="domain" ts="2024-02-12T13:45:02">
- <decision date="2024-02-09" number="2024-02-05-2987" org="МВД"/>
- <domain><![CDATA[semyanich-shop-35.fun]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6727855" includeTime="2024-02-09T22:55:02" entryType="1" hash="55298E683D2268063DA9289C05959FA1" blockType="domain-mask" ts="2024-02-09T22:55:02">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.gamacasino5134.xyz]]></domain>
@@ -13944,6 +13936,12 @@
  <domain><![CDATA[ads.su]]></domain>
  <ip>109.174.24.35</ip>
 </content>
+<content id="6732384" includeTime="2025-06-26T13:50:04" urgencyType="1" entryType="3" hash="3FF1FB02C12CB055D2E116E7A471A929" ts="2025-06-26T13:50:04">
+ <decision date="2024-02-06" number="" org=""/>
+ <url><![CDATA[https://kriminal.cc/topic/55-kupit-pasporta-rf-i-ukrainy]]></url>
+ <domain><![CDATA[kriminal.cc]]></domain>
+ <ip>66.29.141.224</ip>
+</content>
 <content id="6732389" includeTime="2024-02-12T23:25:03" entryType="1" hash="16BB6B4D48BE96AC872F50C65B8B4240" blockType="domain-mask" ts="2024-02-12T23:25:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.joycasino-43s.top]]></domain>
@@ -24602,11 +24600,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:cfb8</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:3ad7</ipv6>
 </content>
-<content id="6736554" includeTime="2024-02-15T16:30:04" entryType="1" hash="29539BAD54B1B4F6DEDFC818F3C5547A" blockType="domain" ts="2024-02-15T16:30:04">
- <decision date="2024-01-23" number="2а-243/2024" org="Среднеахтубинский районный суд - Волгоградская область"/>
- <domain><![CDATA[studspravki.ru]]></domain>
- <ip>185.32.57.42</ip>
-</content>
 <content id="6736564" includeTime="2024-02-13T22:55:03" entryType="1" hash="16A6EA4D6433A6E5BEB9F042EA30D0F2" blockType="domain-mask" ts="2024-02-13T22:55:03">
  <decision date="2021-04-26" number="2-6-18/2021-01-12-1255-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.gamacasino1655.xyz]]></domain>
@@ -24967,14 +24960,6 @@
  <decision date="2024-02-13" number="2403918-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.kinobadi4.icu]]></domain>
  <ip>87.236.177.209</ip>
-</content>
-<content id="6736678" includeTime="2024-02-15T12:55:03" entryType="1" hash="B415502E3CB9DD739BAFE4E6F0F8C896" blockType="domain" ts="2024-02-15T12:55:03">
- <decision date="2024-02-12" number="2024-02-07-2750-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[farmadeapteka.com]]></domain>
- <ip>104.21.86.116</ip>
- <ip>172.67.219.6</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:db06</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:5674</ipv6>
 </content>
 <content id="6736679" includeTime="2024-02-14T10:10:04" entryType="1" hash="2FFD3A50503542EBB497BF8BFC6E2EEA" blockType="domain" ts="2024-07-09T12:40:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
