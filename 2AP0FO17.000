@@ -6491,6 +6491,12 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5cba</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c51d</ipv6>
 </content>
+<content id="8425361" includeTime="2025-06-26T07:15:03" entryType="1" hash="91572D33BA59EB9C0A536165F5B6CF16" ts="2025-06-26T07:15:03">
+ <decision date="2025-06-24" number="3227185-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://grafitspb.com/catalog/439737]]></url>
+ <domain><![CDATA[grafitspb.com]]></domain>
+ <ip>83.69.243.123</ip>
+</content>
 <content id="8425362" includeTime="2025-06-25T07:15:03" entryType="1" hash="6AF53F97E0A5F9C552135B585E78F0E5" blockType="domain" ts="2025-06-25T07:15:03">
  <decision date="2025-03-10" number="2-6-14/2025-03-09-2171-АИ" org="ФНС"/>
  <domain><![CDATA[esp-law.ru]]></domain>
@@ -6553,6 +6559,23 @@
  <ip>104.21.64.1</ip>
  <ip>104.21.80.1</ip>
  <ip>104.21.96.1</ip>
+</content>
+<content id="8425384" includeTime="2025-06-26T07:15:03" entryType="1" hash="631934D7FDE101C78940F3D67848B4F6" blockType="domain" ts="2025-06-26T07:15:03">
+ <decision date="2025-06-24" number="3227210-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[t4t.social]]></domain>
+ <ip>74.125.29.132</ip>
+</content>
+<content id="8425386" includeTime="2025-06-26T07:15:03" entryType="1" hash="51929E8BFD1E459803A78CE169CD1A31" blockType="domain" ts="2025-06-26T07:15:03">
+ <decision date="2025-06-24" number="3227213-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[www.gagaoolala.com]]></domain>
+ <ip>13.213.127.86</ip>
+ <ip>13.251.171.199</ip>
+</content>
+<content id="8425392" includeTime="2025-06-26T07:15:03" entryType="1" hash="057761A3F4AB6BE4B046160B08F81C06" ts="2025-06-26T07:15:03">
+ <decision date="2025-06-24" number="3227219-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[http://www.bearbooks.ru/book.asp?id=1716227]]></url>
+ <domain><![CDATA[www.bearbooks.ru]]></domain>
+ <ip>213.247.232.122</ip>
 </content>
 <content id="8425399" includeTime="2025-06-25T07:15:03" entryType="1" hash="F28CE8D6BA50863598101830C2B1C654" blockType="domain-mask" ts="2025-06-25T07:15:03">
  <decision date="2025-03-10" number="2-6-14/2025-03-09-2574-АИ" org="ФНС"/>
