@@ -1002,9 +1002,9 @@
  <domain><![CDATA[m1.msktelki.org]]></domain>
  <ip>5.252.35.133</ip>
 </content>
-<content id="8231012" includeTime="2025-05-05T13:50:03" entryType="1" hash="1479FF5FF2BA49AF29EA8F02E5AE77DE" blockType="domain" ts="2025-05-05T13:50:03">
+<content id="8231012" includeTime="2025-05-05T13:50:03" entryType="1" hash="9A833FB2FEEE52F4FEF93D8D2E99C28E" blockType="domain-mask" ts="2025-06-30T13:40:04">
  <decision date="2025-04-29" number="2а-1730/2025" org="Воркутинский городской суд - Республика Коми"/>
- <domain><![CDATA[aphrodite-agency.ru]]></domain>
+ <domain><![CDATA[*.aphrodite-agency.ru]]></domain>
  <ip>104.21.74.114</ip>
  <ip>172.67.157.239</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:9def</ipv6>
