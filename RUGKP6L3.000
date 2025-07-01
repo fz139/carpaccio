@@ -6507,6 +6507,12 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3979</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:be5d</ipv6>
 </content>
+<content id="8434756" includeTime="2025-07-02T00:05:03" entryType="1" hash="D549EED4620A89694FFAC4E84F6A988B" blockType="domain-mask" ts="2025-07-02T00:05:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.crystalcloud9.cc]]></domain>
+ <ip>141.193.213.10</ip>
+ <ip>141.193.213.11</ip>
+</content>
 <content id="8434757" includeTime="2025-06-28T07:15:02" entryType="1" hash="3369B00EAF2CD86A7357DB4AD1C77E05" blockType="domain-mask" ts="2025-06-28T07:15:02">
  <decision date="2025-06-25" number="3230179-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.feyaufa-smz.com]]></domain>

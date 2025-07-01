@@ -5645,6 +5645,16 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0004</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0004</ipv6>
 </content>
+<content id="8312214" includeTime="2025-07-02T00:05:03" entryType="1" hash="13ECCC2709FA58CE29B210E872B8E43D" blockType="domain" ts="2025-07-02T00:05:03">
+ <decision date="2025-04-30" number="2025-04-21-8083-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[spirtalfastore.ru]]></domain>
+ <ip>5.45.84.142</ip>
+</content>
+<content id="8312218" includeTime="2025-07-02T00:05:03" entryType="1" hash="2BCADDF67B7BC5780DDBF1D373E2AAA4" blockType="domain-mask" ts="2025-07-02T00:05:03">
+ <decision date="2025-04-30" number="2025-04-21-8093-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[*.spirtalfamarket.ru]]></domain>
+ <ip>5.45.84.142</ip>
+</content>
 <content id="8312220" includeTime="2025-05-27T14:10:03" entryType="1" hash="6036CD6F017024F524005B11BFC5E6A9" blockType="domain-mask" ts="2025-05-27T14:10:03">
  <decision date="2025-05-26" number="2025-05-19-2356-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[*.alcogol-omsk.shop]]></domain>
