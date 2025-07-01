@@ -4263,6 +4263,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="8406751" includeTime="2025-07-01T14:25:03" entryType="1" hash="3D9BF42799BCC3448A0976E607450DC1" blockType="domain-mask" ts="2025-07-01T14:25:03">
+ <decision date="2025-06-18" number="3219283-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.strip2.club]]></domain>
+ <ip>5.61.56.186</ip>
+</content>
 <content id="8406752" includeTime="2025-06-20T13:50:04" entryType="1" hash="D83414C85DC86D061E3387FB2A440E4C" ts="2025-06-20T13:50:04">
  <decision date="2025-06-16" number="2025-04-07-2359" org="МВД"/>
  <url><![CDATA[http://news.shajtanshop.com/index.php?option=com_content&view=article&id=233:managa&catid=12&Itemid=118]]></url>
@@ -11124,12 +11129,6 @@
  <url><![CDATA[https://b.relax-msk.com/ankets/metro]]></url>
  <domain><![CDATA[b.relax-msk.com]]></domain>
  <ip>109.206.180.82</ip>
-</content>
-<content id="8408814" includeTime="2025-06-20T13:50:04" entryType="1" hash="FE293F69573E968EAE4C8D52F8E829FC" ts="2025-06-20T13:50:04">
- <decision date="2025-05-13" number="2а-632/2025" org="Черемушкинский районный суд - Москва"/>
- <url><![CDATA[https://sex.prostitutkimoskvydeep.com/za-1500-rublej]]></url>
- <domain><![CDATA[sex.prostitutkimoskvydeep.com]]></domain>
- <ip>5.61.52.143</ip>
 </content>
 <content id="8408815" includeTime="2025-06-20T13:50:04" entryType="1" hash="91751B34B905DEAC457E04A69F75A24C" blockType="domain" ts="2025-06-20T13:50:04">
  <decision date="2025-05-13" number="2а-632/2025" org="Черемушкинский районный суд - Москва"/>
@@ -21506,6 +21505,14 @@
  <ip>172.67.177.219</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:5399</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:b1db</ipv6>
+</content>
+<content id="8412657" includeTime="2025-07-01T14:25:03" entryType="1" hash="DAFD1F7CD4FFB45B953F5BB92F06DF55" blockType="domain" ts="2025-07-01T14:25:03">
+ <decision date="2025-06-18" number="2025-06-16-821-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[z6.alcoprime24.ru]]></domain>
+ <ip>104.21.66.127</ip>
+ <ip>172.67.204.15</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:cc0f</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:427f</ipv6>
 </content>
 <content id="8412659" includeTime="2025-06-24T07:15:03" entryType="1" hash="32759C80106765268AD6E4F9F684EEC0" blockType="domain" ts="2025-06-24T07:15:03">
  <decision date="2025-06-18" number="2025-06-16-758-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
