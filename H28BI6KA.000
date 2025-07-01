@@ -1276,9 +1276,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="8443205" includeTime="2025-07-01T07:10:02" entryType="1" hash="BB29B3DDD49EC738E3937C61F30DC993" blockType="domain" ts="2025-07-01T07:10:02">
+<content id="8443205" includeTime="2025-07-01T07:10:02" entryType="1" hash="FDB1B921161453B64FB1FDF195005B25" blockType="domain-mask" ts="2025-07-01T13:05:03">
  <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[topvpntype.com]]></domain>
+ <domain><![CDATA[*.topvpntype.com]]></domain>
  <ip>104.21.58.228</ip>
  <ip>172.67.165.215</ip>
  <ip>188.114.96.1</ip>
