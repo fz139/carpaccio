@@ -8150,6 +8150,20 @@
  <ipv6>2600:9000:2395:9200:0013:1554:7c40:0021</ipv6>
  <ipv6>2600:9000:2395:b400:0013:1554:7c40:0021</ipv6>
 </content>
+<content id="8430376" includeTime="2025-07-01T07:10:02" entryType="1" hash="762C6CAF49815D7C678735398ED8545B" blockType="domain-mask" ts="2025-07-01T07:10:02">
+ <decision date="2025-03-07" number="2-6-14/2025-03-06-5928-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.stalcase.me]]></domain>
+ <ip>188.114.98.230</ip>
+ <ip>188.114.99.230</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="8430377" includeTime="2025-07-01T07:10:02" entryType="1" hash="4349F00A292ED159F1E192D664960140" blockType="domain-mask" ts="2025-07-01T07:10:02">
+ <decision date="2025-03-07" number="2-6-14/2025-03-06-5942-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.vacase.in]]></domain>
+ <ip>188.114.98.228</ip>
+ <ip>188.114.99.228</ip>
+</content>
 <content id="8430384" includeTime="2025-06-26T07:15:03" entryType="1" hash="C39C072D06FA25F03E9DD31DFD441C66" blockType="domain" ts="2025-06-26T07:15:03">
  <decision date="2025-03-10" number="2-6-14/2025-03-10-6556-ÀÈ" org="ÔÍÑ"/>
  <domain><![CDATA[uk-flagman63.ru]]></domain>
