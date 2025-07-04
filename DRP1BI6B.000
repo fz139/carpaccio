@@ -17,9 +17,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:a980</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:36ec</ipv6>
 </content>
-<content id="8458001" includeTime="2025-07-03T15:50:02" entryType="1" hash="C002116E8FBAF2A3E714574105B2767C" blockType="domain" ts="2025-07-03T15:50:02">
+<content id="8458001" includeTime="2025-07-03T15:50:02" entryType="1" hash="D8C94D6E39274C7A81E7E8639628E2FD" blockType="domain-mask" ts="2025-07-04T23:30:04">
  <decision date="2024-07-12" number="2024-06-05-6442-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[free-vpnplanet.net]]></domain>
+ <domain><![CDATA[*.free-vpnplanet.net]]></domain>
  <ip>157.180.41.161</ip>
 </content>
 <content id="8458002" includeTime="2025-07-03T07:05:03" entryType="1" hash="5283CDE8EF3DC0D8B62F2CC2D4AF8DCF" blockType="domain-mask" ts="2025-07-03T07:05:03">
@@ -441,8 +441,9 @@
  <domain><![CDATA[ru.files.me]]></domain>
  <ip>87.110.219.224</ip>
 </content>
-<content id="8458126" includeTime="2025-07-03T15:50:02" entryType="1" hash="1679B635465D34FB28848A52215576A2" blockType="domain" ts="2025-07-03T15:50:02">
+<content id="8458126" includeTime="2025-07-03T15:50:02" entryType="1" hash="34BC6F409BBDB16EA981850BA32F16F0" ts="2025-07-04T23:30:04">
  <decision date="2025-07-01" number="3240562-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://c.intimstory.xyz/]]></url>
  <domain><![CDATA[c.intimstory.xyz]]></domain>
  <ip>195.3.221.25</ip>
 </content>
