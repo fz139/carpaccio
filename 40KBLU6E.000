@@ -5828,9 +5828,9 @@
  <ip>135.125.233.147</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:78b6</ipv6>
 </content>
-<content id="8006372" includeTime="2025-03-18T07:05:02" entryType="1" hash="ACF365B14CB82834171BFAF7E792FD10" blockType="domain" ts="2025-03-18T07:05:02">
+<content id="8006372" includeTime="2025-03-18T07:05:02" entryType="1" hash="EE440C9CE2183637B73816AF30F9C862" blockType="domain-mask" ts="2025-07-07T13:05:02">
  <decision date="2025-03-10" number="3033199-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[turboimagehost.com]]></domain>
+ <domain><![CDATA[*.turboimagehost.com]]></domain>
  <ip>67.222.134.149</ip>
 </content>
 <content id="8006375" includeTime="2025-03-11T07:20:03" entryType="1" hash="7D085BA17EC94C2C7606B10D85CE84E2" blockType="domain-mask" ts="2025-03-11T13:05:03">
