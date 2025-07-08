@@ -1479,9 +1479,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5836938" includeTime="2023-05-02T15:52:53" entryType="1" hash="1598372040338EEAFE67633251AE2FC4" blockType="domain" ts="2025-07-08T15:00:04">
+<content id="5836938" includeTime="2023-05-02T15:52:53" entryType="1" hash="B3D121835C4005E2E5951B272470D0AE" blockType="domain-mask" ts="2025-07-08T23:35:03">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[ibs.gl]]></domain>
+ <domain><![CDATA[*.ibs.gl]]></domain>
  <ip>104.21.21.53</ip>
  <ip>172.67.196.124</ip>
  <ip>188.114.96.1</ip>
