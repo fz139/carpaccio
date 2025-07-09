@@ -253,9 +253,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2495</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c31f</ipv6>
 </content>
-<content id="7808792" includeTime="2025-01-15T18:35:01" entryType="1" hash="5FB5D737E0A9F5406028605674B071AB" blockType="domain" ts="2025-01-15T18:35:01">
+<content id="7808792" includeTime="2025-01-15T18:35:01" entryType="1" hash="4166830264223910440E5067742D6670" blockType="domain-mask" ts="2025-07-09T13:40:04">
  <decision date="2025-01-13" number="2931084-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[alrincon.com]]></domain>
+ <domain><![CDATA[*.alrincon.com]]></domain>
  <ip>104.21.11.209</ip>
  <ip>172.67.192.164</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c0a4</ipv6>
