@@ -1563,10 +1563,11 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4517</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:cad6</ipv6>
 </content>
-<content id="4723888" includeTime="2022-08-15T22:28:01" entryType="1" hash="E4F8FD2AA9389FEF040DC664AB6F2621" blockType="domain" ts="2022-08-15T22:28:01">
+<content id="4723888" includeTime="2022-08-15T22:28:01" entryType="1" hash="E2068890673E37EAFB19B7EA03815793" blockType="domain-mask" ts="2025-07-11T07:10:06">
  <decision date="2017-09-18" number="2-6-20/2017-09-18-216-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[pinnup-casino.ru]]></domain>
- <ip>45.82.69.115</ip>
+ <domain><![CDATA[*.pinnup-casino.ru]]></domain>
+ <ip>104.21.93.107</ip>
+ <ip>172.67.208.215</ip>
 </content>
 <content id="4723900" includeTime="2022-08-15T22:27:58" entryType="1" hash="C8C274F79544634A2CE2395535D436F2" blockType="domain" ts="2022-08-15T22:27:58">
  <decision date="2017-09-18" number="2-6-20/2017-09-18-216-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
