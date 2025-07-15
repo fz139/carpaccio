@@ -20515,6 +20515,17 @@
  <domain><![CDATA[*.lutomaks.ru]]></domain>
  <ip>81.91.178.193</ip>
 </content>
+<content id="8487430" includeTime="2025-07-15T13:55:03" entryType="1" hash="5C274194600E65AD526CC761C04FE552" ts="2025-07-15T13:55:03">
+ <decision date="2025-07-08" number="2025-07-04-2809-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://www.prodatllekarstva24.ru/]]></url>
+ <domain><![CDATA[www.prodatllekarstva24.ru]]></domain>
+ <ip>92.255.111.71</ip>
+</content>
+<content id="8487431" includeTime="2025-07-15T13:55:03" entryType="1" hash="4BF942D25F42242019CB8ADC053E033D" blockType="domain-mask" ts="2025-07-15T13:55:03">
+ <decision date="2025-07-08" number="2025-07-04-2804-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[*.prodatllekarstva24.ru]]></domain>
+ <ip>92.255.111.71</ip>
+</content>
 <content id="8487435" includeTime="2025-07-11T15:35:03" entryType="1" hash="D3B75D0F5ADEB70B987EE73F3B3DD60A" ts="2025-07-11T15:35:03">
  <decision date="2025-07-08" number="2025-07-05-1285-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://medtestpro.ru/doska/idv.php?id=502]]></url>
@@ -20566,6 +20577,11 @@
  <ip>104.21.64.1</ip>
  <ip>104.21.80.1</ip>
  <ip>104.21.96.1</ip>
+</content>
+<content id="8487443" includeTime="2025-07-15T13:55:03" entryType="1" hash="32F1072E4E2772F4C6B60162FB0B9F0C" blockType="domain" ts="2025-07-15T13:55:03">
+ <decision date="2025-07-08" number="2025-07-07-3913-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[spirt96-medicom.ru]]></domain>
+ <ip>92.255.111.71</ip>
 </content>
 <content id="8487445" includeTime="2025-07-10T14:15:04" entryType="1" hash="3CC43DCB92C7362B7D7E449C0F5CD644" blockType="domain-mask" ts="2025-07-10T14:15:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
