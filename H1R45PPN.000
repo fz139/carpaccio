@@ -14457,10 +14457,11 @@
  <ip>104.21.80.1</ip>
  <ip>104.21.96.1</ip>
 </content>
-<content id="8485709" includeTime="2025-07-09T00:05:03" entryType="1" hash="52E728864506DF2BAE94EA188739DBC1" blockType="domain" ts="2025-07-09T00:05:03">
+<content id="8485709" includeTime="2025-07-09T00:05:03" entryType="1" hash="B8237CAB0F0951CB27C331A4EA0E0746" blockType="domain-mask" ts="2025-07-15T06:35:03">
  <decision date="2025-05-14" number="2-6-14/2025-05-14-120-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[1win-wao.cam]]></domain>
- <ip>45.131.42.189</ip>
+ <domain><![CDATA[*.1win-wao.cam]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
 </content>
 <content id="8485710" includeTime="2025-07-09T00:05:03" entryType="1" hash="569C901C4CB249F496C103AA15963717" blockType="domain-mask" ts="2025-07-09T00:05:03">
  <decision date="2025-05-14" number="2-6-14/2025-05-14-120-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
