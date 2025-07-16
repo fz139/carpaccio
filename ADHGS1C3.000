@@ -22236,9 +22236,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:c509</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:154d</ipv6>
 </content>
-<content id="6323639" includeTime="2023-09-01T13:30:03" entryType="1" hash="04C83996F4E507876410D3CDA5D80DC6" blockType="domain" ts="2023-09-01T13:30:03">
+<content id="6323639" includeTime="2023-09-01T13:30:03" entryType="1" hash="9814BA24AB8B6A374D58BA526D5C8FDE" blockType="domain-mask" ts="2025-07-16T13:15:05">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[bs-2-web.at]]></domain>
+ <domain><![CDATA[*.bs-2-web.at]]></domain>
  <ip>104.21.72.122</ip>
  <ip>172.67.184.28</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:b81c</ipv6>
@@ -24811,19 +24811,6 @@
  <ip>172.67.153.215</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:99d7</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:48b5</ipv6>
-</content>
-<content id="6324581" includeTime="2023-09-02T16:55:02" entryType="1" hash="0F5313E677F9CDF0350976779A89AFBB" ts="2023-09-27T10:05:02">
- <decision date="2023-09-01" number="2220465-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://good25.lordfilm.codes/12929-staraya-dobraya-orgiya.html]]></url>
- <domain><![CDATA[good25.lordfilm.codes]]></domain>
- <ip>104.21.93.4</ip>
- <ip>172.67.201.216</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:5d04</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:c9d8</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6324584" includeTime="2023-09-01T21:55:03" entryType="1" hash="CB608CE6C35D5A37F397550C02C62F85" ts="2023-09-01T21:55:03">
  <decision date="2023-08-31" number="2-6-14/2023-08-03-1506-АИ" org="ФНС"/>
