@@ -261,9 +261,9 @@
  <ip>51.75.64.157</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:a02f</ipv6>
 </content>
-<content id="8064332" includeTime="2025-03-25T15:50:03" entryType="1" hash="011B42E50B2B7E2510CFB5FAC91657A1" blockType="domain" ts="2025-03-25T15:50:03">
+<content id="8064332" includeTime="2025-03-25T15:50:03" entryType="1" hash="8113B3805D02DB9902C62E7B42FC2C20" blockType="domain-mask" ts="2025-07-30T00:15:02">
  <decision date="2025-03-05" number="2025-03-05-1847-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[alcostarnsk.ru]]></domain>
+ <domain><![CDATA[*.alcostarnsk.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
