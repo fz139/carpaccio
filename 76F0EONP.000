@@ -1930,6 +1930,14 @@
  <domain><![CDATA[www.melissa-lara.com]]></domain>
  <ip>173.254.18.95</ip>
 </content>
+<content id="8552472" includeTime="2025-07-29T14:15:02" entryType="1" hash="077071E4B4BD4263E533B88D4D7D9CA5" blockType="domain-mask" ts="2025-07-29T14:15:02">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.frozen-world.org]]></domain>
+ <ip>104.21.36.84</ip>
+ <ip>172.67.190.173</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:2454</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:bead</ipv6>
+</content>
 <content id="8552473" includeTime="2025-07-25T13:30:04" entryType="1" hash="46A412CF9052D473F6EBE8AB6FCD4110" ts="2025-07-25T13:30:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://m.bs-2-web.at]]></url>
@@ -2034,6 +2042,12 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8552524" includeTime="2025-07-29T14:15:02" entryType="1" hash="F115B8FEC935399B88CFD4005F12F92F" ts="2025-07-29T14:15:02">
+ <decision date="2025-07-06" number="2025-07-02-798" org="МВД"/>
+ <url><![CDATA[https://bbs.heyshell.com/forum.php?mod=viewthread&tid=31899]]></url>
+ <domain><![CDATA[bbs.heyshell.com]]></domain>
+ <ip>119.28.77.126</ip>
 </content>
 <content id="8552525" includeTime="2025-07-25T13:30:04" entryType="1" hash="BCACBB03B45EDB8BE08E3BACC9AC697D" blockType="domain" ts="2025-07-25T13:30:04">
  <decision date="2025-07-06" number="2025-07-02-1206" org="МВД"/>
@@ -2377,6 +2391,15 @@
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.kopchenow.ru]]></domain>
  <ip>45.86.86.34</ip>
+</content>
+<content id="8552605" includeTime="2025-07-29T14:15:02" entryType="1" hash="D66D2F62951CC9E53AA7872BFC79AB6C" ts="2025-07-29T14:15:02">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://about.me/mixajlov77655]]></url>
+ <domain><![CDATA[about.me]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
 </content>
 <content id="8552606" includeTime="2025-07-26T11:40:03" entryType="1" hash="1AF752EFA8B4C8C1B20FDF3136FA7098" ts="2025-07-26T11:40:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -3229,6 +3252,14 @@
  <domain><![CDATA[httpvk--comid3public100056561.orgs.biz]]></domain>
  <ip>179.43.182.56</ip>
 </content>
+<content id="8552806" includeTime="2025-07-29T14:15:02" entryType="1" hash="62F03790214F3C42E7802A091FD195F2" blockType="domain-mask" ts="2025-07-29T14:15:02">
+ <decision date="2025-07-17" number="2025-07-10-2830-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[*.alcoracespb.online]]></domain>
+ <ip>104.21.2.94</ip>
+ <ip>172.67.129.11</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:810b</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:025e</ipv6>
+</content>
 <content id="8552808" includeTime="2025-07-24T07:35:03" entryType="1" hash="E3C7103CEBB79ED75B03F2C3EF9E4BF5" blockType="domain-mask" ts="2025-07-24T07:35:03">
  <decision date="2025-03-25" number="2-6-14/2025-03-25-2583-АИ" org="ФНС"/>
  <domain><![CDATA[*.flagmancasino-sas1.top]]></domain>
@@ -3394,11 +3425,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
-</content>
-<content id="8552846" includeTime="2025-07-25T13:30:04" entryType="1" hash="527765885A76AB5CE36C3F3C3F3501D9" blockType="domain" ts="2025-07-25T13:30:04">
- <decision date="2025-07-11" number="2а-734/2025" org="Советско-Гаванский городской суд - Хабаровский край"/>
- <domain><![CDATA[krasnoyarsk.simkisgood.com]]></domain>
- <ip>185.244.219.95</ip>
 </content>
 <content id="8552847" includeTime="2025-07-25T13:30:04" entryType="1" hash="BC68AF2CF887C958AB2CC956D922145C" blockType="domain" ts="2025-07-25T13:30:04">
  <decision date="2025-07-11" number="2а-734/2025" org="Советско-Гаванский городской суд - Хабаровский край"/>
@@ -3860,6 +3886,11 @@
  <url><![CDATA[https://euhope.com/employer/%D0%BC%D0%B5%D0%B3%D0%B0mega%D0%BC%D0%B5%D0%B3%D0%B0-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8Fmega-%D1%80%D1%84%D0%BC%D0%B5%D0%B3%D0%B0-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%BC%D0%B0%D0%B3-27]]></url>
  <domain><![CDATA[euhope.com]]></domain>
  <ip>31.186.11.115</ip>
+</content>
+<content id="8552963" includeTime="2025-07-29T14:15:02" entryType="1" hash="F72E1643581C7A094012FACCD3BF0AE4" blockType="domain" ts="2025-07-29T14:15:02">
+ <decision date="2025-07-14" number="2025-07-11-2012" org="МВД"/>
+ <domain><![CDATA[l2java-ru.zproxy.org]]></domain>
+ <ip>5.135.106.76</ip>
 </content>
 <content id="8552966" includeTime="2025-07-25T13:30:04" entryType="1" hash="76EDD08C4067C36CAED7869839C81EA6" blockType="domain" ts="2025-07-25T13:30:04">
  <decision date="2025-07-15" number="2025-07-15-2117-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
@@ -4798,6 +4829,15 @@
  <domain><![CDATA[timefor.co.uk]]></domain>
  <ip>151.101.194.159</ip>
 </content>
+<content id="8553149" includeTime="2025-07-29T14:15:02" entryType="1" hash="8F13F0FFD465CF769F5B24557C0D77FB" ts="2025-07-29T14:15:02">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://about.me/brysonwamago59]]></url>
+ <domain><![CDATA[about.me]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
 <content id="8553150" includeTime="2025-07-26T11:40:03" entryType="1" hash="A77DEE524CF524CCA44E131D7A97475A" ts="2025-07-26T11:40:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://mj-go.kr/bbs/board.php?bo_table=free&wr_id=361071]]></url>
@@ -5354,6 +5394,11 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
+<content id="8553257" includeTime="2025-07-29T14:15:02" entryType="1" hash="373AA72B065CA5229D89C92DC14A6400" blockType="domain" ts="2025-07-29T14:15:02">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[www.sparrowjob.com]]></domain>
+ <ip>192.250.235.188</ip>
+</content>
 <content id="8553258" includeTime="2025-07-26T11:40:03" entryType="1" hash="FB8FCDD623CC0644AEBA0F896FF19F67" ts="2025-07-26T11:40:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://advmeds.com/en/2020/10/03/даркнет-tor-площадка-омг-onion-omgomg-ссылка-на-са]]></url>
@@ -5516,6 +5561,11 @@
  <ip>151.101.129.91</ip>
  <ip>151.101.193.91</ip>
  <ip>151.101.65.91</ip>
+</content>
+<content id="8553295" includeTime="2025-07-29T14:15:02" entryType="1" hash="BBFC7DC5211D370BFDBED7E419DD43AA" blockType="domain" ts="2025-07-29T14:15:02">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[storjduco2.ddns.net]]></domain>
+ <ip>47.199.250.52</ip>
 </content>
 <content id="8553296" includeTime="2025-07-24T13:55:03" entryType="1" hash="BA4A5CE6A12DA42F7E2CE4C6F3D49CCA" blockType="domain" ts="2025-07-24T13:55:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>

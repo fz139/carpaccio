@@ -2440,6 +2440,14 @@
  <domain><![CDATA[*.bsme.shop]]></domain>
  <ip>185.112.145.231</ip>
 </content>
+<content id="8497938" includeTime="2025-07-29T14:15:02" entryType="1" hash="08CA2D91A216C14D657D60CA5BB7760F" blockType="domain-mask" ts="2025-07-29T14:15:02">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.bsme.pics]]></domain>
+ <ip>104.21.48.155</ip>
+ <ip>172.67.154.66</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:9a42</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:309b</ipv6>
+</content>
 <content id="8497939" includeTime="2025-07-11T15:35:03" entryType="1" hash="E182B001C16B9CFC60C2183E81B6F8AC" blockType="domain-mask" ts="2025-07-11T15:35:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.kra34.run]]></domain>
@@ -2662,14 +2670,6 @@
  <domain><![CDATA[blacksprut-official.net]]></domain>
  <ip>45.147.197.190</ip>
 </content>
-<content id="8498059" includeTime="2025-07-14T14:05:03" entryType="1" hash="973DAAF7156CE5C080600EC155A1B85C" blockType="domain" ts="2025-07-14T14:05:03">
- <decision date="2025-07-09" number="2025-07-03-2123-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[q12.alcorush24-nkz.ru]]></domain>
- <ip>104.21.86.77</ip>
- <ip>172.67.216.231</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:d8e7</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:564d</ipv6>
-</content>
 <content id="8498060" includeTime="2025-07-14T14:05:03" entryType="1" hash="F474E485D740C4F46B1DF8F3F245ED43" blockType="domain" ts="2025-07-14T14:05:03">
  <decision date="2025-07-09" number="2025-07-03-2432-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[alcobar55omsk.shop]]></domain>
@@ -2677,14 +2677,6 @@
  <ip>172.67.212.20</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d414</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:5da3</ipv6>
-</content>
-<content id="8498062" includeTime="2025-07-14T14:05:03" entryType="1" hash="BA6E964261592B4EA4D02FE759C831AC" blockType="domain" ts="2025-07-14T14:05:03">
- <decision date="2025-07-09" number="2025-07-03-3735-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[q2.rusalco-24-7-tula.online]]></domain>
- <ip>104.21.85.86</ip>
- <ip>172.67.203.251</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:5556</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:cbfb</ipv6>
 </content>
 <content id="8498076" includeTime="2025-07-15T07:05:03" entryType="1" hash="23EC0E51569F8FA8D59970FCF807D53D" blockType="domain" ts="2025-07-15T07:05:03">
  <decision date="2025-07-10" number="3257851-URL-on" org="Роскомнадзор"/>
