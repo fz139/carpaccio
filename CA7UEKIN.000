@@ -3117,9 +3117,9 @@
  <ip>91.184.241.82</ip>
  <ipv6>2a0b:4140:6e57:0000:0000:0000:0000:2400</ipv6>
 </content>
-<content id="8502810" includeTime="2025-07-14T14:05:03" entryType="1" hash="8741FE53DF3D8C08DB4A93223B102879" blockType="domain" ts="2025-07-14T14:05:03">
+<content id="8502810" includeTime="2025-07-14T14:05:03" entryType="1" hash="647B54F46F4450DE0174920D3767A55F" blockType="domain-mask" ts="2025-07-31T00:30:03">
  <decision date="2025-07-10" number="2025-07-06-218-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[zaprett.xyz]]></domain>
+ <domain><![CDATA[*.zaprett.xyz]]></domain>
  <ip>185.199.108.153</ip>
  <ip>185.199.109.153</ip>
  <ip>185.199.110.153</ip>
