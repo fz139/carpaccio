@@ -9765,9 +9765,9 @@
  <ip>191.101.13.62</ip>
  <ipv6>2a02:4780:000b:0972:0000:2d9e:c2fc:0002</ipv6>
 </content>
-<content id="6213719" includeTime="2023-07-19T20:40:03" entryType="1" hash="90286DC5DB6A22902B06C68244B984FE" blockType="domain" ts="2023-07-21T09:05:02">
+<content id="6213719" includeTime="2023-07-19T20:40:03" entryType="1" hash="7CA8A880FFA78DA34AD60763FD61E87B" blockType="domain-mask" ts="2025-08-01T00:35:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[imega.fo]]></domain>
+ <domain><![CDATA[*.imega.fo]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>

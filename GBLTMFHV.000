@@ -19075,9 +19075,9 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:129a</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:b6b3</ipv6>
 </content>
-<content id="6400269" includeTime="2023-10-05T09:30:04" entryType="1" hash="4FD05B13EA079F433FD142DE1B1488B0" blockType="domain" ts="2023-10-05T09:30:04">
+<content id="6400269" includeTime="2023-10-05T09:30:04" entryType="1" hash="B8DB38128D10D0AF56783ADE45311845" blockType="domain-mask" ts="2025-08-01T00:35:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[http-megasb.com]]></domain>
+ <domain><![CDATA[*.http-megasb.com]]></domain>
  <ip>62.72.50.59</ip>
  <ipv6>2a02:4780:000b:1207:0000:36fd:7c79:0007</ipv6>
 </content>

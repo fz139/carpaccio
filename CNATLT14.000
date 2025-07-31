@@ -1266,9 +1266,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0dea</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:856c</ipv6>
 </content>
-<content id="5815196" includeTime="2023-04-26T13:46:38" entryType="1" hash="B46A0676F842863BB10A31DEB9793D93" blockType="domain" ts="2023-04-26T13:46:38">
+<content id="5815196" includeTime="2023-04-26T13:46:38" entryType="1" hash="F59BDB1F0ADB1462CD607FE5A1CCDD60" blockType="domain-mask" ts="2025-08-01T00:35:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[megas.sbs]]></domain>
+ <domain><![CDATA[*.megas.sbs]]></domain>
  <ip>104.21.43.43</ip>
  <ip>172.67.219.48</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:2b2b</ipv6>
