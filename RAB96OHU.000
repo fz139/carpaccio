@@ -184,9 +184,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6916525" includeTime="2024-04-08T13:25:06" entryType="1" hash="506E7F17C808ABECAA1255F6965BDAA9" blockType="domain" ts="2024-04-08T13:25:06">
+<content id="6916525" includeTime="2024-04-08T13:25:06" entryType="1" hash="5BBF4683FE20527973F021C25374EF73" blockType="domain-mask" ts="2025-08-02T06:55:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[pervenec-market.ru]]></domain>
+ <domain><![CDATA[*.pervenec-market.ru]]></domain>
  <ip>104.21.62.84</ip>
  <ip>172.67.222.32</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:de20</ipv6>

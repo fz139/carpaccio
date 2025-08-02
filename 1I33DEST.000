@@ -4227,9 +4227,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:a660</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:0b9a</ipv6>
 </content>
-<content id="6366703" includeTime="2023-09-20T10:15:02" entryType="1" hash="71D638B7C1D06F0E5034C75567B7A180" blockType="domain" ts="2023-09-20T10:15:02">
+<content id="6366703" includeTime="2023-09-20T10:15:02" entryType="1" hash="B94E3B482D6D15D059D8DB96AD22F14B" blockType="domain-mask" ts="2025-08-02T06:55:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[gerkon42.ru]]></domain>
+ <domain><![CDATA[*.gerkon42.ru]]></domain>
  <ip>104.21.36.147</ip>
  <ip>172.67.195.29</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:2493</ipv6>
