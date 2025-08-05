@@ -2519,9 +2519,9 @@
  <domain><![CDATA[*.mintop14.orgs.biz]]></domain>
  <ip>37.221.125.68</ip>
 </content>
-<content id="8108081" includeTime="2025-04-02T14:15:02" entryType="1" hash="24749027F6642BFF03FBA28735574BD9" blockType="domain" ts="2025-04-02T14:15:02">
+<content id="8108081" includeTime="2025-04-02T14:15:02" entryType="1" hash="97E6E4D7ED801F8EFDE7B278F2890DE7" blockType="domain-mask" ts="2025-08-05T23:55:03">
  <decision date="2025-03-25" number="2025-03-20-1096-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[rusalco24-7-ulan-ude.ru]]></domain>
+ <domain><![CDATA[*.rusalco24-7-ulan-ude.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -2890,8 +2890,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8108179" includeTime="2025-04-02T14:15:02" entryType="1" hash="6D38AE9043B5EA211EC937DEBAC3EBD6" blockType="domain" ts="2025-04-02T14:15:02">
+<content id="8108179" includeTime="2025-04-02T14:15:02" entryType="1" hash="E0B012B33E3855DFC9D65BB7804EDB07" ts="2025-08-05T23:55:03">
  <decision date="2025-03-31" number="2025-03-27-9024-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <url><![CDATA[https://q3.rusalco24-7-ulan-ude.ru/]]></url>
  <domain><![CDATA[q3.rusalco24-7-ulan-ude.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
