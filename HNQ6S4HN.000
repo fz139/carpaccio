@@ -1984,9 +1984,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="8239426" includeTime="2025-05-07T07:00:03" entryType="1" hash="F7F5357293487680BC27A8ABA03DAA76" blockType="domain-mask" ts="2025-05-07T07:00:03">
+<content id="8239426" includeTime="2025-05-07T07:00:03" entryType="1" hash="06F54FA51837D2F9DFBE6FC218080011" ts="2025-08-05T13:10:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[*.navashino.kugostr.online]]></domain>
+ <url><![CDATA[https://navashino.kugostr.online]]></url>
+ <domain><![CDATA[navashino.kugostr.online]]></domain>
  <ip>104.21.31.49</ip>
  <ip>172.67.174.250</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1f31</ipv6>

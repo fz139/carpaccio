@@ -1074,9 +1074,10 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8046163" includeTime="2025-03-20T14:05:02" entryType="1" hash="04E7DF1C0112E7DB368CCA55E011D66A" blockType="domain-mask" ts="2025-03-20T14:05:02">
+<content id="8046163" includeTime="2025-03-20T14:05:02" entryType="1" hash="0B4A134729E0AF6E9A5F927B2F4E4160" ts="2025-08-05T13:10:03">
  <decision date="2025-03-19" number="3050289-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[*.bx.1lordfilm.ru]]></domain>
+ <url><![CDATA[https://bx.1lordfilm.ru]]></url>
+ <domain><![CDATA[bx.1lordfilm.ru]]></domain>
  <ip>104.21.42.85</ip>
  <ip>172.67.203.101</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:cb65</ipv6>

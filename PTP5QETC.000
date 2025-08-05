@@ -5600,9 +5600,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6336878" includeTime="2023-09-08T09:35:01" entryType="1" hash="8401E6CF4484BE8EBE1C324518152280" blockType="domain" ts="2023-09-08T09:35:01">
- <decision date="2023-09-06" number="L000-521/23" org="Роскомнадзор"/>
- <domain><![CDATA[gaycity.love]]></domain>
+<content id="6336878" includeTime="2023-09-08T09:35:01" entryType="1" hash="8098BEE841BD82CFC22067938A287F1F" blockType="domain-mask" ts="2025-08-05T13:10:03">
+ <decision date="2023-09-06" number="2226522-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.gaycity.love]]></domain>
  <ip>49.12.42.220</ip>
  <ipv6>2a01:04f8:0c17:8f1a:0000:0000:0000:0001</ipv6>
 </content>
