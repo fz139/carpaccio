@@ -12282,9 +12282,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="8571860" includeTime="2025-07-30T08:25:02" entryType="1" hash="F54511829511E9DB463CB0FA377FC346" blockType="domain-mask" ts="2025-07-30T08:25:02">
+<content id="8571860" includeTime="2025-07-30T08:25:02" entryType="1" hash="9B3C5B8134AB5CE024F5DFF6D7EE553E" ts="2025-08-05T08:10:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[*.ska-ski.ru]]></domain>
+ <url><![CDATA[https://ska-ski.ru/baksan.html]]></url>
+ <domain><![CDATA[ska-ski.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
