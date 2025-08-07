@@ -2159,12 +2159,6 @@
  <domain><![CDATA[www.starfox74.biz]]></domain>
  <ip>204.44.104.70</ip>
 </content>
-<content id="303555" includeTime="2016-05-30T20:26:21" entryType="1" hash="CBC7105154901EBF65E7B6C9C13199B6" ts="2016-05-30T20:26:21">
- <decision date="2016-01-21" number="2-117/2016" org="Шилкинский районный суд Забайкальского края"/>
- <url><![CDATA[http://www.sibirki.ru/]]></url>
- <domain><![CDATA[www.sibirki.ru]]></domain>
- <ip>109.206.162.64</ip>
-</content>
 <content id="303556" includeTime="2016-05-30T20:26:21" entryType="1" hash="2B52036C9C8C3898F84AD8522A6BF0EB" ts="2016-05-30T20:26:21">
  <decision date="2016-01-21" number="2-117/2016" org="Шилкинский районный суд Забайкальского края"/>
  <url><![CDATA[http://www.siblaguna.ru/]]></url>
@@ -2843,9 +2837,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="304603" includeTime="2016-06-03T18:23:32" entryType="1" hash="B50DCC1D9D811920A9F9E0030144407D" blockType="domain" ts="2024-02-29T16:25:02">
+<content id="304603" includeTime="2016-06-03T18:23:32" entryType="1" hash="11BBE9CFEA57099DD09972FFF583549F" blockType="domain-mask" ts="2025-08-07T13:35:03">
  <decision date="2016-02-08" number="2-931/16" org="Ленинский районный суд г. Самары"/>
- <domain><![CDATA[kaotic.com]]></domain>
+ <domain><![CDATA[*.kaotic.com]]></domain>
  <ip>104.21.35.143</ip>
  <ip>172.67.175.187</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:afbb</ipv6>
