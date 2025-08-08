@@ -19246,9 +19246,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6493244" includeTime="2023-11-13T13:10:04" entryType="1" hash="ED3D589849F0A4FE6993B8D043B3875E" blockType="domain" ts="2023-11-13T13:10:04">
+<content id="6493244" includeTime="2023-11-13T13:10:04" entryType="1" hash="5856010A4E2A8232A5B878FD3E135D6A" blockType="domain-mask" ts="2025-08-09T00:50:02">
  <decision date="2023-11-10" number="2293591-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[pro100sex.org]]></domain>
+ <domain><![CDATA[*.pro100sex.org]]></domain>
  <ip>104.21.18.153</ip>
  <ip>172.67.182.161</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:1299</ipv6>
