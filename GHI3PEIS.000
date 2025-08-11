@@ -3366,9 +3366,9 @@
  <domain><![CDATA[fns30.hdvideoboks.ru]]></domain>
  <ip>37.1.200.203</ip>
 </content>
-<content id="4577135" includeTime="2022-07-05T20:50:50" entryType="1" hash="95D8F58E1A608B0D267EBD40BF21A1C3" blockType="domain" ts="2022-07-05T20:50:50">
+<content id="4577135" includeTime="2022-07-05T20:50:50" entryType="1" hash="D942D70760A30794A981383342570C63" blockType="domain-mask" ts="2025-08-11T13:30:04">
  <decision date="2022-06-22" number="2а-2245/2022" org="Октябрьский районный суд г. Омска - Омская область"/>
- <domain><![CDATA[devochki-na-viezd.ru]]></domain>
+ <domain><![CDATA[*.devochki-na-viezd.ru]]></domain>
  <ip>104.21.83.55</ip>
  <ip>172.67.214.209</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:d6d1</ipv6>
@@ -8521,8 +8521,9 @@
  <domain><![CDATA[pravakupia.com]]></domain>
  <ip>185.149.120.117</ip>
 </content>
-<content id="4588587" includeTime="2022-07-07T20:07:04" entryType="1" hash="6E9B3A1DD284B23DC2A5B3200C38F02A" blockType="domain" ts="2024-10-31T14:20:04">
+<content id="4588587" includeTime="2022-07-07T20:07:04" entryType="1" hash="4D9A714F27CC252DBC9CFD374A72A58C" ts="2025-08-11T13:30:04">
  <decision date="2022-05-31" number="2а-115/2022" org="Кадомский районный суд - Рязанская область"/>
+ <url><![CDATA[https://roshal.podruzki.ru/]]></url>
  <domain><![CDATA[roshal.podruzki.ru]]></domain>
  <ip>104.21.7.23</ip>
  <ip>172.67.135.165</ip>
