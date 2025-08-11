@@ -302,9 +302,9 @@
  <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
  <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
 </content>
-<content id="8572496" includeTime="2025-07-29T17:55:02" urgencyType="1" entryType="3" hash="CBEF148C87F988267B60404C189F417B" blockType="domain" ts="2025-07-29T17:55:02">
+<content id="8572496" includeTime="2025-07-29T17:55:02" urgencyType="1" entryType="3" hash="FB1A7E22D3B996236DC9A1C17C26C287" blockType="domain-mask" ts="2025-08-11T18:15:03">
  <decision date="2025-07-23" number="" org=""/>
- <domain><![CDATA[www.yale.edu]]></domain>
+ <domain><![CDATA[*.yale.edu]]></domain>
  <ip>151.101.130.133</ip>
  <ip>151.101.194.133</ip>
  <ip>151.101.2.133</ip>

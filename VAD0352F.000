@@ -4164,9 +4164,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7515482" includeTime="2024-10-18T16:10:02" urgencyType="1" entryType="3" hash="F3F4A332507BE5788A39D1850F81AF26" blockType="domain" ts="2024-10-18T16:10:02">
+<content id="7515482" includeTime="2024-10-18T16:10:02" urgencyType="1" entryType="3" hash="98BBBA2A1644EE93AC1BCAA132F83906" blockType="domain-mask" ts="2025-08-11T18:15:03">
  <decision date="2024-10-11" number="" org=""/>
- <domain><![CDATA[edu-diplom-3.org]]></domain>
+ <domain><![CDATA[*.edu-diplom-3.org]]></domain>
  <ip>104.21.27.77</ip>
  <ip>172.67.169.16</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a910</ipv6>
