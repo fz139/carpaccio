@@ -291,15 +291,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6696561" includeTime="2024-02-01T13:40:04" entryType="1" hash="B7108A24739BF78BFFD715B9FD71E4BC" ts="2024-02-01T13:40:04">
- <decision date="2024-01-31" number="2385805-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://tetka.ru/gorod_sankt-peterburg]]></url>
- <domain><![CDATA[tetka.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6696564" includeTime="2024-02-01T13:40:04" entryType="1" hash="D6E2E4FEB1D5B402B286A86057EFF836" blockType="domain" ts="2024-02-01T13:40:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[www.stolovaya-nomer1.ru]]></domain>
@@ -3144,9 +3135,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6697466" includeTime="2024-02-01T13:40:04" entryType="1" hash="F9E74CD621B441639B062FF642598F65" blockType="domain-mask" ts="2024-02-01T13:40:04">
+<content id="6697466" includeTime="2024-02-01T13:40:04" entryType="1" hash="2D27C175415A3C8B31DD83EBA0933258" ts="2025-08-12T13:20:04">
  <decision date="2024-01-31" number="2384623-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[*.hd.26lordfilm-0.xyz]]></domain>
+ <url><![CDATA[https://hd.26lordfilm-0.xyz/]]></url>
+ <domain><![CDATA[hd.26lordfilm-0.xyz]]></domain>
  <ip>104.21.3.39</ip>
  <ip>172.67.130.46</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0327</ipv6>

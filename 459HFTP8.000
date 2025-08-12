@@ -9452,9 +9452,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="3529002" includeTime="2021-08-16T16:47:16" entryType="1" hash="CAB7926C45BEC216CF6EBB960551F67E" blockType="domain" ts="2021-08-16T16:47:16">
+<content id="3529002" includeTime="2021-08-16T16:47:16" entryType="1" hash="950F3E3296F0FFAA27C3E46B1A912497" blockType="domain-mask" ts="2025-08-12T13:20:04">
  <decision date="2021-08-11" number="2021-08-08-383-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[india-express-24.ru]]></domain>
+ <domain><![CDATA[*.india-express-24.ru]]></domain>
  <ip>104.21.34.163</ip>
  <ip>172.67.163.18</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a312</ipv6>
@@ -15694,9 +15694,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:dced</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:5b89</ipv6>
 </content>
-<content id="3544607" includeTime="2021-08-20T14:12:43" entryType="1" hash="DF401835F64BF56779827C0287AE0F91" blockType="domain" ts="2021-08-20T14:12:43">
+<content id="3544607" includeTime="2021-08-20T14:12:43" entryType="1" hash="5C5EE73347EF35ABD64DFE6D2A34AD21" blockType="domain-mask" ts="2025-08-12T13:20:04">
  <decision date="2021-08-18" number="2021-08-14-1191-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[daclatasvir-sofosbuvir.ru]]></domain>
+ <domain><![CDATA[*.daclatasvir-sofosbuvir.ru]]></domain>
  <ip>104.21.55.11</ip>
  <ip>172.67.143.233</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:370b</ipv6>
