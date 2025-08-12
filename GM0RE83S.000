@@ -2345,9 +2345,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7033323" includeTime="2024-05-25T17:30:01" urgencyType="1" entryType="3" hash="691425809E8AFCE18F86D4153624B095" blockType="domain" ts="2024-05-25T17:30:01">
+<content id="7033323" includeTime="2024-05-25T17:30:01" urgencyType="1" entryType="3" hash="446D1B79B2A3BAF7B90082AF2C953EC9" blockType="domain-mask" ts="2025-08-12T17:20:03">
  <decision date="2024-05-14" number="" org=""/>
- <domain><![CDATA[pssh8.ru]]></domain>
+ <domain><![CDATA[*.pssh8.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
