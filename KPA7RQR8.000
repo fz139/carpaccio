@@ -10285,9 +10285,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:5681</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:dc2f</ipv6>
 </content>
-<content id="5674558" includeTime="2023-04-03T15:16:38" entryType="1" hash="2F13771E0BA010483F118A13EAC6D540" blockType="domain" ts="2023-04-03T15:16:38">
+<content id="5674558" includeTime="2023-04-03T15:16:38" entryType="1" hash="BC8326D829465AF8E31B2698A5F423C9" blockType="domain-mask" ts="2025-08-19T23:45:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[bs-gl.site]]></domain>
+ <domain><![CDATA[*.bs-gl.site]]></domain>
  <ip>104.21.28.149</ip>
  <ip>172.67.170.225</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:aae1</ipv6>
