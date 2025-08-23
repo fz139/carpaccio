@@ -3384,6 +3384,14 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:df08</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3e69</ipv6>
 </content>
+<content id="8664347" includeTime="2025-08-23T06:30:04" entryType="1" hash="98B8533603F6474E44C1AF28B1EA7C79" blockType="domain-mask" ts="2025-08-23T06:30:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.k2mp.cc]]></domain>
+ <ip>104.21.92.27</ip>
+ <ip>172.67.185.87</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:b957</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:5c1b</ipv6>
+</content>
 <content id="8664348" includeTime="2025-08-22T11:40:05" entryType="1" hash="436A5D3BAEAD916E5B7183490081419C" blockType="domain-mask" ts="2025-08-22T11:40:05">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.vashdomufa.ru]]></domain>
@@ -3402,6 +3410,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
+<content id="8664349" includeTime="2025-08-23T06:30:04" entryType="1" hash="F5F19D066D8DD58DF591EC8E4C7D5DEE" blockType="domain-mask" ts="2025-08-23T06:30:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.brand-dizain.ru]]></domain>
+ <ip>104.21.83.107</ip>
+ <ip>172.67.223.118</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:536b</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:df76</ipv6>
+</content>
 <content id="8664350" includeTime="2025-08-22T11:40:05" entryType="1" hash="B8A9B46E3C872FB9D67B4C00A0BC8E89" blockType="domain-mask" ts="2025-08-22T11:40:05">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.igrun-s.ru]]></domain>
@@ -3409,6 +3425,42 @@
  <ip>172.67.150.26</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:961a</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:6004</ipv6>
+</content>
+<content id="8664351" includeTime="2025-08-23T06:30:04" entryType="1" hash="C7A919FAD538C417405EF7AB2F8CDA1C" blockType="domain-mask" ts="2025-08-23T06:30:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.krakforum.cc]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+</content>
+<content id="8664352" includeTime="2025-08-23T06:30:04" entryType="1" hash="113E3875EA49B1F111C93EF94EB03B79" blockType="domain" ts="2025-08-23T06:30:04">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[k.krakforum.cc]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
 <content id="8664353" includeTime="2025-08-22T11:40:05" entryType="1" hash="FD5F13FA61C8D09861F92FD64A0A6491" blockType="domain-mask" ts="2025-08-22T11:40:05">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -3430,6 +3482,16 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8664357" includeTime="2025-08-23T06:30:04" entryType="1" hash="F09496115B6BE616EEB8B75B30D52226" blockType="domain-mask" ts="2025-08-23T06:30:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.1-kra32at.click]]></domain>
+ <ip>185.246.128.44</ip>
+</content>
+<content id="8664358" includeTime="2025-08-23T06:30:04" entryType="1" hash="1FF0430BBCCD7A825A09748A4DB51224" blockType="domain-mask" ts="2025-08-23T06:30:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.1-kra32cc.click]]></domain>
+ <ip>185.246.128.44</ip>
 </content>
 <content id="8664360" includeTime="2025-08-22T11:40:05" entryType="1" hash="5C973C9135DED914F90898B1861400BE" blockType="domain-mask" ts="2025-08-22T11:40:05">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -4423,6 +4485,66 @@
  <domain><![CDATA[*.germesmagazin.ru]]></domain>
  <ip>104.21.43.108</ip>
  <ip>172.67.178.38</ip>
+</content>
+<content id="8665061" includeTime="2025-08-23T06:30:04" entryType="1" hash="8080DC19D6DE117EFBD5CFBBE1BEF2E4" ts="2025-08-23T06:30:04">
+ <decision date="2025-08-21" number="3324240-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://porno-365.net/dvoynoe-proniknovenie/]]></url>
+ <domain><![CDATA[porno-365.net]]></domain>
+ <ip>185.237.185.81</ip>
+</content>
+<content id="8665063" includeTime="2025-08-23T06:30:04" entryType="1" hash="087DF5EB9BDF11744977F009F472C01A" ts="2025-08-23T06:30:04">
+ <decision date="2025-08-21" number="3324242-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://porno-365.net/gruppovoe-porno/5618-eblya-s-proniknoveniem-vo-vse-dyrki-pyanykh-blyadey.html]]></url>
+ <domain><![CDATA[porno-365.net]]></domain>
+ <ip>185.237.185.81</ip>
+</content>
+<content id="8665064" includeTime="2025-08-23T06:30:04" entryType="1" hash="AF19DCD0EEB1B284F41E0B39E4083984" ts="2025-08-23T06:30:04">
+ <decision date="2025-08-21" number="3324243-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://porno-365.net/dvoynoe-proniknovenie/4171-stroynaya-milfochka-otmenno-dolbitsya.html]]></url>
+ <domain><![CDATA[porno-365.net]]></domain>
+ <ip>185.237.185.81</ip>
+</content>
+<content id="8665067" includeTime="2025-08-23T06:30:04" entryType="1" hash="2787027F196C0E9C43D14011E52BE863" ts="2025-08-23T06:30:04">
+ <decision date="2025-08-21" number="3324246-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://new.porno365x.me/movie/16887]]></url>
+ <domain><![CDATA[new.porno365x.me]]></domain>
+ <ip>5.135.30.87</ip>
+</content>
+<content id="8665068" includeTime="2025-08-23T06:30:04" entryType="1" hash="79BDF40816B132B593468FB79379FAFA" ts="2025-08-23T06:30:04">
+ <decision date="2025-08-21" number="3324247-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://new.porno365x.me/movie/16320]]></url>
+ <domain><![CDATA[new.porno365x.me]]></domain>
+ <ip>5.135.30.87</ip>
+</content>
+<content id="8665069" includeTime="2025-08-23T06:30:04" entryType="1" hash="B9AA18FAB66B6E6524D4624D1A50592A" ts="2025-08-23T06:30:04">
+ <decision date="2025-08-21" number="3324248-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://new.porno365x.me/movie/16197]]></url>
+ <domain><![CDATA[new.porno365x.me]]></domain>
+ <ip>5.135.30.87</ip>
+</content>
+<content id="8665072" includeTime="2025-08-23T06:30:04" entryType="1" hash="5454CE2ECB357B73B5BEF62774ED4F28" ts="2025-08-23T06:30:04">
+ <decision date="2025-08-21" number="3324251-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://prostoporno.date/videos/364550/]]></url>
+ <domain><![CDATA[prostoporno.date]]></domain>
+ <ip>109.232.230.198</ip>
+</content>
+<content id="8665073" includeTime="2025-08-23T06:30:04" entryType="1" hash="550B70A0335535860CCC210B805227C9" ts="2025-08-23T06:30:04">
+ <decision date="2025-08-21" number="3324252-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://prostoporno.date/videos/224391/]]></url>
+ <domain><![CDATA[prostoporno.date]]></domain>
+ <ip>109.232.230.198</ip>
+</content>
+<content id="8665074" includeTime="2025-08-23T06:30:04" entryType="1" hash="C2742B4340EB19EEC44B8BD10B16BA39" ts="2025-08-23T06:30:04">
+ <decision date="2025-08-21" number="3324253-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://prostoporno.date/videos/33248/]]></url>
+ <domain><![CDATA[prostoporno.date]]></domain>
+ <ip>109.232.230.198</ip>
+</content>
+<content id="8665075" includeTime="2025-08-23T06:30:04" entryType="1" hash="B136586751F279C06CC9DFE6C3B6CB9F" ts="2025-08-23T06:30:04">
+ <decision date="2025-08-21" number="3324254-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://prostoporno.date/videos/15/]]></url>
+ <domain><![CDATA[prostoporno.date]]></domain>
+ <ip>109.232.230.198</ip>
 </content>
 <content id="8665080" includeTime="2025-08-22T11:40:05" entryType="1" hash="A905BC8E664CCD7047B7AAE63AC40B40" blockType="domain" ts="2025-08-22T11:40:05">
  <decision date="2025-08-21" number="3324259-URL-on" org="Роскомнадзор"/>
@@ -6180,6 +6302,11 @@
  <decision date="2025-08-20" number="2-6-14/2025-08-18-5376-АИ" org="ФНС"/>
  <domain><![CDATA[*.pokerdom-promocode.live]]></domain>
  <ip>5.252.32.98</ip>
+</content>
+<content id="8665621" includeTime="2025-08-23T06:30:04" entryType="1" hash="7223CB8C3B18103A7BE7D1F88B98D2E3" blockType="domain-mask" ts="2025-08-23T06:30:04">
+ <decision date="2025-08-20" number="2-6-14/2025-08-18-5120-АИ" org="ФНС"/>
+ <domain><![CDATA[*.pokerdom-slots.icu]]></domain>
+ <ip>5.45.95.85</ip>
 </content>
 <content id="8665622" includeTime="2025-08-22T11:40:05" entryType="1" hash="07AF2425D8DC0166BEB8E9CF9982539F" blockType="domain-mask" ts="2025-08-22T11:40:05">
  <decision date="2025-08-13" number="2-6-14/2025-08-11-6329-АИ" org="ФНС"/>
