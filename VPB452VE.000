@@ -5417,6 +5417,22 @@
  <ip>185.162.128.72</ip>
  <ipv6>2a07:b400:0001:05f1:0000:0000:0000:0005</ipv6>
 </content>
+<content id="8656765" includeTime="2025-08-26T07:40:04" entryType="1" hash="86BF12CF1CBEA3A2790A83B2580143E9" blockType="domain" ts="2025-08-26T07:40:04">
+ <decision date="2025-08-20" number="3320313-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[likemanga.in]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="8656767" includeTime="2025-08-26T07:40:04" entryType="1" hash="A6672BE7FFDEC0D86266209239A3B314" blockType="domain" ts="2025-08-26T07:40:04">
+ <decision date="2025-08-20" number="3320315-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[kunmanga.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
 <content id="8656769" includeTime="2025-08-21T07:20:04" entryType="1" hash="ACE1E3032F92DCA67D64C4EA64D2417F" blockType="domain-mask" ts="2025-08-21T07:20:04">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.fisherserialtyy.online]]></domain>
@@ -19477,6 +19493,17 @@
  <ip>172.67.156.213</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:9cd5</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:082d</ipv6>
+</content>
+<content id="8661380" includeTime="2025-08-26T07:40:04" entryType="1" hash="503B99D4F5A91AA8258A567DE4DBAEE5" ts="2025-08-26T07:40:04">
+ <decision date="2025-04-23" number="2025-04-01-5106-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://alphavpn.pro/blog/kakoy-vpn-vybrat-v-2025-godu-obzor-luchshikh-servisov-dlya-rossii]]></url>
+ <domain><![CDATA[alphavpn.pro]]></domain>
+ <ip>45.144.52.175</ip>
+</content>
+<content id="8661383" includeTime="2025-08-26T07:40:04" entryType="1" hash="3FE4C01655B302515A8981C007E66D53" blockType="domain" ts="2025-08-26T07:40:04">
+ <decision date="2025-04-30" number="2025-04-24-6343-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[vpn-type.org]]></domain>
+ <ip>62.113.115.180</ip>
 </content>
 <content id="8661385" includeTime="2025-08-22T08:15:03" entryType="1" hash="EF27E6D0DF3BADCF9AAE8546BD8F6E49" blockType="domain" ts="2025-08-22T08:15:03">
  <decision date="2025-04-14" number="2-6-14/2025-04-13-330-АИ" org="ФНС"/>
