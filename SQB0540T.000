@@ -1026,6 +1026,11 @@
  <domain><![CDATA[*.ebahots.top]]></domain>
  <ip>62.122.172.5</ip>
 </content>
+<content id="8742206" includeTime="2025-09-15T16:00:04" entryType="1" hash="BC6E990A4E48910CEF6826DB761B679A" blockType="domain" ts="2025-09-15T16:00:04">
+ <decision date="2025-09-11" number="3358320-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[escortinmoscow.ru]]></domain>
+ <ip>2.58.65.95</ip>
+</content>
 <content id="8742207" includeTime="2025-09-13T00:20:03" entryType="1" hash="2A4BE79340452F342C0DA66C3C3D5E5F" blockType="domain" ts="2025-09-13T00:20:03">
  <decision date="2025-09-11" number="3358321-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[a.voronezhfeya-pvg.com]]></domain>
@@ -3500,6 +3505,11 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:1fbf</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:b399</ipv6>
 </content>
+<content id="8742980" includeTime="2025-09-15T16:00:04" entryType="1" hash="A3B2D0FFB7570F39010292ACDA6F0600" blockType="domain-mask" ts="2025-09-15T16:00:04">
+ <decision date="2025-09-08" number="2025-09-04-3957-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[*.100gramm247-samara.ru]]></domain>
+ <ip>5.9.180.230</ip>
+</content>
 <content id="8742981" includeTime="2025-09-12T07:10:04" entryType="1" hash="3AEB7587CFC5A1ECDEF575080F7CC151" blockType="domain-mask" ts="2025-09-12T07:10:04">
  <decision date="2025-04-29" number="2-6-14/2025-04-29-7485-АИ" org="ФНС"/>
  <domain><![CDATA[*.riobet-casino-2025.site]]></domain>
@@ -3682,16 +3692,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="8743032" includeTime="2025-09-13T00:20:03" entryType="1" hash="D1216504791C657352789D47E46DAAD2" blockType="domain" ts="2025-09-13T00:20:03">
- <decision date="2025-08-27" number="2а-107/2025" org="Калганский районный суд - Забайкальский край"/>
- <domain><![CDATA[m.cheapsimki.com]]></domain>
- <ip>185.244.219.95</ip>
-</content>
-<content id="8743033" includeTime="2025-09-13T00:20:03" entryType="1" hash="27334626C25FD825EE394FF470F67860" blockType="domain" ts="2025-09-13T00:20:03">
- <decision date="2025-08-27" number="2а-107/2025" org="Калганский районный суд - Забайкальский край"/>
- <domain><![CDATA[nizhny-novgorod.cheapsimki.com]]></domain>
- <ip>185.244.219.95</ip>
 </content>
 <content id="8743034" includeTime="2025-09-12T07:10:04" entryType="1" hash="2340CE98D51FBB92F6D8122730F623A9" blockType="domain" ts="2025-09-12T07:10:04">
  <decision date="2025-09-01" number="2а-122/2025" org="Александрово-Заводский районный суд - Забайкальский край"/>
