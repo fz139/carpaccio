@@ -1187,6 +1187,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="8760685" includeTime="2025-09-19T07:55:02" entryType="1" hash="DEEC50929DE4DC759E78A24523AE832F" blockType="domain" ts="2025-09-19T07:55:02">
+ <decision date="2025-09-04" number="2025-08-22-1371-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[разливное-пиво-спб.рф]]></domain>
+ <ip>5.183.189.59</ip>
+</content>
 <content id="8760694" includeTime="2025-09-18T14:00:03" entryType="1" hash="BCBB907617DB8915D0013205CD992AC9" blockType="domain" ts="2025-09-18T14:00:03">
  <decision date="2025-09-04" number="2025-08-21-3422-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[club222566756.orgs.biz]]></domain>
@@ -1256,11 +1261,39 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="8760703" includeTime="2025-09-19T07:55:02" entryType="1" hash="5B588BF337DF21A6D0B68C6BD5F8F8E6" ts="2025-09-19T07:55:02">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@trieutrangloc7:9]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="8760706" includeTime="2025-09-19T07:55:02" entryType="1" hash="9D70FBA90C5BAACED17302A88C1C695F" blockType="domain" ts="2025-09-19T07:55:02">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[vpn.bsprut.life]]></domain>
+ <ip>31.192.244.49</ip>
+</content>
 <content id="8760707" includeTime="2025-09-17T13:25:02" entryType="1" hash="AC76A7F3FE4B2C73A1E56D7018B9F773" blockType="domain" ts="2025-09-17T13:25:02">
  <decision date="2025-08-22" number="2025-08-21-709-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[shop.krasnoeibeloespb.ru]]></domain>
  <ip>66.33.206.44</ip>
  <ipv6>2607:f298:0006:a027:0000:0000:0e30:cbd7</ipv6>
+</content>
+<content id="8760710" includeTime="2025-09-19T07:55:02" entryType="1" hash="0BE6ED83746844E1F6C774F2A31B8EFA" ts="2025-09-19T07:55:02">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://www.grepmed.com/hpegludaugog]]></url>
+ <domain><![CDATA[www.grepmed.com]]></domain>
+ <ip>18.189.83.217</ip>
+ <ip>18.225.14.187</ip>
+ <ip>3.148.85.191</ip>
+</content>
+<content id="8760711" includeTime="2025-09-19T07:55:02" entryType="1" hash="394ED9664A75104329B51B4774198F8B" ts="2025-09-19T07:55:02">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://www.grepmed.com/ibodogdaib]]></url>
+ <domain><![CDATA[www.grepmed.com]]></domain>
+ <ip>18.189.83.217</ip>
+ <ip>18.225.14.187</ip>
+ <ip>3.148.85.191</ip>
 </content>
 <content id="8760712" includeTime="2025-09-17T13:25:02" entryType="1" hash="5DF5419DAF159B24656E7E2FD5500893" blockType="domain-mask" ts="2025-09-17T13:25:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -1406,6 +1439,14 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:af7c</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:1f53</ipv6>
 </content>
+<content id="8760730" includeTime="2025-09-19T07:55:02" entryType="1" hash="3BB05E595EB0D742C0D7D5C816806393" blockType="domain-mask" ts="2025-09-19T07:55:02">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.mi-chaik.ru]]></domain>
+ <ip>104.21.61.171</ip>
+ <ip>172.67.212.97</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:3dab</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:d461</ipv6>
+</content>
 <content id="8760731" includeTime="2025-09-17T13:25:02" entryType="1" hash="82CE8FA9FBA01230EC032E611F43C458" blockType="domain-mask" ts="2025-09-17T13:25:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.kre38.online]]></domain>
@@ -1429,6 +1470,28 @@
  <ip>172.67.132.167</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:04f8</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:84a7</ipv6>
+</content>
+<content id="8760734" includeTime="2025-09-19T07:55:02" entryType="1" hash="EDFC66F3F8B1272A213EF6434075E95E" blockType="domain" ts="2025-09-19T07:55:02">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[kk.kraperehodnik.cc]]></domain>
+ <ip>104.21.112.1</ip>
+ <ip>104.21.16.1</ip>
+ <ip>104.21.32.1</ip>
+ <ip>104.21.48.1</ip>
+ <ip>104.21.64.1</ip>
+ <ip>104.21.80.1</ip>
+ <ip>104.21.96.1</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:1001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="8760735" includeTime="2025-09-17T13:25:02" entryType="1" hash="EA2F1F3D3F446502A25478CC4EB25CFB" blockType="domain-mask" ts="2025-09-17T13:25:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
