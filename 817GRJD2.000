@@ -2052,9 +2052,9 @@
  <domain><![CDATA[m91-44772.api-41829387-44817741.google-cloud.services]]></domain>
  <ip>62.197.48.110</ip>
 </content>
-<content id="7592901" includeTime="2024-11-07T14:10:03" entryType="1" hash="27FE876381F0D6EE043D64947FD29A64" blockType="domain" ts="2024-11-07T14:10:03">
+<content id="7592901" includeTime="2024-11-07T14:10:03" entryType="1" hash="E5A8F4632A6EB20A4D3F6742FFE242C6" blockType="domain-mask" ts="2025-09-22T13:45:02">
  <decision date="2024-11-05" number="2829075-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[xhchannel.com]]></domain>
+ <domain><![CDATA[*.xhchannel.com]]></domain>
  <ip>45.144.149.48</ip>
  <ipv6>2a02:0b48:4000:000d:00c7:0012:c4e1:0100</ipv6>
  <ipv6>2a02:0b49:0004:0008:00c7:0012:c4e1:0100</ipv6>
@@ -3250,8 +3250,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8566</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:0de4</ipv6>
 </content>
-<content id="7593192" includeTime="2024-11-07T14:10:03" entryType="1" hash="433993EA4B20E5E4E918C8E905E3E06D" blockType="domain" ts="2024-11-07T14:10:03">
+<content id="7593192" includeTime="2024-11-07T14:10:03" entryType="1" hash="5C79CAE778E983F79B84B845D7077F91" ts="2025-09-22T13:45:02">
  <decision date="2024-11-05" number="2829077-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://ru.xhchannel.com/]]></url>
  <domain><![CDATA[ru.xhchannel.com]]></domain>
  <ip>45.144.149.48</ip>
  <ipv6>2a02:0b48:4000:000d:00c7:0012:c4e1:0100</ipv6>
