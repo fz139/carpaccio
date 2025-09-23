@@ -4365,12 +4365,6 @@
  <domain><![CDATA[www.akkords.ru]]></domain>
  <ip>144.76.93.252</ip>
 </content>
-<content id="8406826" includeTime="2025-06-20T13:50:04" entryType="1" hash="E97D68CEACBABC482733F4D219731EF7" blockType="domain" ts="2025-06-20T13:50:04">
- <decision date="2025-06-16" number="2025-06-09-6222-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[8.alcogradus.store]]></domain>
- <ip>195.210.46.20</ip>
- <ipv6>2a00:5da0:1000:0000:0000:0000:0000:0147</ipv6>
-</content>
 <content id="8406827" includeTime="2025-06-25T13:30:04" entryType="1" hash="B49A3C967CD27AA5BF8CABEE92C666BE" blockType="domain" ts="2025-06-25T13:30:04">
  <decision date="2025-06-18" number="3219359-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[lacorn365.ru]]></domain>
@@ -21249,9 +21243,9 @@
  <domain><![CDATA[*.brentoliver.com]]></domain>
  <ip>69.27.124.220</ip>
 </content>
-<content id="8412804" includeTime="2025-06-20T13:50:04" entryType="1" hash="DE5E024EE5A9AF852F6BB2389B82ADE7" blockType="domain" ts="2025-06-20T13:50:04">
+<content id="8412804" includeTime="2025-06-20T13:50:04" entryType="1" hash="6BAFF115528D257783163F40D61E30CA" blockType="domain-mask" ts="2025-09-23T13:15:02">
  <decision date="2025-06-18" number="2025-05-19-6468" org="МВД"/>
- <domain><![CDATA[dedmoroz-na-zakaz.ru]]></domain>
+ <domain><![CDATA[*.dedmoroz-na-zakaz.ru]]></domain>
  <ip>104.21.30.16</ip>
  <ip>172.67.150.52</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:9634</ipv6>
