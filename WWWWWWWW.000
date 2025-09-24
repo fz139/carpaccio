@@ -5611,6 +5611,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="8783167" includeTime="2025-09-24T14:00:04" entryType="1" hash="21E92829EAFDE7A384389AB3E2532FF3" blockType="domain-mask" ts="2025-09-24T14:00:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.thesavepoint.ru]]></domain>
+ <ip>178.208.83.16</ip>
+</content>
 <content id="8783168" includeTime="2025-09-24T06:35:03" entryType="1" hash="29DFEADD22F322A0D709752BFEC950DC" blockType="domain-mask" ts="2025-09-24T06:35:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.darkinfo-shops.xyz]]></domain>
@@ -9807,6 +9812,50 @@
  <domain><![CDATA[*.stageclub.site]]></domain>
  <ip>128.199.62.140</ip>
 </content>
+<content id="8785620" includeTime="2025-09-24T14:00:04" entryType="1" hash="24A228B45DDBAAC784C01605D25925A7" blockType="domain-mask" ts="2025-09-24T14:00:04">
+ <decision date="2025-09-05" number="2а-524/2025" org="Омутинский районный суд - Тюменская область"/>
+ <domain><![CDATA[*.shluhi-moskvy.com]]></domain>
+ <ip>185.224.82.237</ip>
+ <ip>185.235.178.5</ip>
+</content>
+<content id="8785621" includeTime="2025-09-24T14:00:04" entryType="1" hash="BD53F7C347B80E33021E77228B3BFF77" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2023-09-07" number="2а-1-758/2023" org="Людиновский районный суд - Калужская область"/>
+ <domain><![CDATA[ebar62.com]]></domain>
+ <ip>104.21.77.67</ip>
+ <ip>172.67.205.36</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:4d43</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:cd24</ipv6>
+</content>
+<content id="8785622" includeTime="2025-09-24T14:00:04" entryType="1" hash="0A98FA51A28E2059E4FE2AA01F7DEE2B" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2023-09-07" number="2а-1-758/2023" org="Людиновский районный суд - Калужская область"/>
+ <domain><![CDATA[k.dloop.top]]></domain>
+ <ip>185.178.208.148</ip>
+</content>
+<content id="8785623" includeTime="2025-09-24T14:00:04" entryType="1" hash="F7706B35CCBD8002374702CD896FEB6B" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2023-07-21" number="2а-3-284/2023" org="Козельский районный суд - Калужская область"/>
+ <domain><![CDATA[hsy.ashoo.us]]></domain>
+ <ip>85.198.111.8</ip>
+</content>
+<content id="8785624" includeTime="2025-09-24T14:00:04" entryType="1" hash="E9840895F49C4BC0D2F04D08F8BF4FDA" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2023-07-21" number="2а-3-284/2023" org="Козельский районный суд - Калужская область"/>
+ <domain><![CDATA[dc.ashoo.cfd]]></domain>
+ <ip>85.198.111.8</ip>
+</content>
+<content id="8785629" includeTime="2025-09-24T14:00:04" entryType="1" hash="D2E9461261F4A80C2EC1A0CA244AA654" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2025-02-25" number="2а-757/2025" org="Ленинский районный суд г. Мурманска - Мурманская область"/>
+ <domain><![CDATA[ant-models.me]]></domain>
+ <ip>176.123.5.19</ip>
+</content>
+<content id="8785630" includeTime="2025-09-24T14:00:04" entryType="1" hash="2A8389E62B60B347A1546CEE7B9A6226" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2025-02-25" number="2а-757/2025" org="Ленинский районный суд г. Мурманска - Мурманская область"/>
+ <domain><![CDATA[vip.ant-models.me]]></domain>
+ <ip>176.123.5.19</ip>
+</content>
+<content id="8785632" includeTime="2025-09-24T14:00:04" entryType="1" hash="2737F3DD7942DE7B40016C9C47C5089D" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[a.voronezhfeya-lpx.com]]></domain>
+ <ip>192.124.249.65</ip>
+</content>
 <content id="8785634" includeTime="2025-09-24T06:35:03" entryType="1" hash="6C8DED8B880FF6597A9BB77467A31263" blockType="domain-mask" ts="2025-09-24T06:35:03">
  <decision date="2025-05-14" number="2-6-14/2025-05-14-445-АИ" org="ФНС"/>
  <domain><![CDATA[*.neonclubslots.com]]></domain>
@@ -9854,6 +9903,58 @@
  <ip>172.67.218.164</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:daa4</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:3b4d</ipv6>
+</content>
+<content id="8785646" includeTime="2025-09-24T14:00:04" entryType="1" hash="EE72AE690E3CD0DB83D51A9F7840EDE2" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2025-09-22" number="2а-294/2025" org="Порховский районный суд - Псковская область"/>
+ <domain><![CDATA[porhov.s-dosug.top]]></domain>
+ <ip>91.202.5.97</ip>
+</content>
+<content id="8785647" includeTime="2025-09-24T14:00:04" entryType="1" hash="D9245D48D31645FB37A3B18F298D2E89" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2025-09-22" number="2а-294/2025" org="Порховский районный суд - Псковская область"/>
+ <domain><![CDATA[porhov.romancee.click]]></domain>
+ <ip>91.202.5.97</ip>
+</content>
+<content id="8785648" includeTime="2025-09-24T14:00:04" entryType="1" hash="4EF31C00E2BC8581CDCD600E369E951E" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2025-09-22" number="2а-294/2025" org="Порховский районный суд - Псковская область"/>
+ <domain><![CDATA[porkhov.fuckbunny.top]]></domain>
+ <ip>194.62.105.59</ip>
+</content>
+<content id="8785649" includeTime="2025-09-24T14:00:04" entryType="1" hash="447692D62002B7F0BFAC9F9203F59946" ts="2025-09-24T14:00:04">
+ <decision date="2025-09-22" number="2а-848/2025" org="Омсукчанский районный суд - Магаданская область"/>
+ <url><![CDATA[https://msk1.malvinki.top/advanced-search/?services[]=2&]]></url>
+ <domain><![CDATA[msk1.malvinki.top]]></domain>
+ <ip>91.211.251.193</ip>
+</content>
+<content id="8785650" includeTime="2025-09-24T14:00:04" entryType="1" hash="4E068CC7066A0C13822A99B0686A33D2" ts="2025-09-24T14:00:04">
+ <decision date="2025-09-22" number="2а-848/2025" org="Омсукчанский районный суд - Магаданская область"/>
+ <url><![CDATA[https://a.devochki-v-spb.ru]]></url>
+ <domain><![CDATA[a.devochki-v-spb.ru]]></domain>
+ <ip>77.246.98.2</ip>
+</content>
+<content id="8785665" includeTime="2025-09-24T14:00:04" entryType="1" hash="371C1C59D503591B2AAA376D3487A697" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2025-09-03" number="2а-870/2025" org="Ржевский городской суд - Тверская область"/>
+ <domain><![CDATA[rzhev.s-dosug.top]]></domain>
+ <ip>91.202.5.97</ip>
+</content>
+<content id="8785687" includeTime="2025-09-24T14:00:04" entryType="1" hash="C60FE04AAFDF91BC7B5CB36F69A46903" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2025-09-23" number="3377857-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[new.zoo-sex.sbs]]></domain>
+ <ip>77.220.213.124</ip>
+</content>
+<content id="8785691" includeTime="2025-09-24T14:00:04" entryType="1" hash="A065A334504E71EA2293FB2F3E339063" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2025-09-23" number="3377861-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[mobi.zoo-porno.top]]></domain>
+ <ip>77.220.213.124</ip>
+</content>
+<content id="8785692" includeTime="2025-09-24T14:00:04" entryType="1" hash="D1092EEB9D24EA95F1BBD6E84A0BCFE4" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2025-09-23" number="3377862-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[alyzoo.org]]></domain>
+ <ip>89.249.49.141</ip>
+</content>
+<content id="8785693" includeTime="2025-09-24T14:00:04" entryType="1" hash="A99CDE5A46AB88E6910B4679ADEF7B2A" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2025-09-23" number="3377863-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[old.zooteka.buzz]]></domain>
+ <ip>77.220.213.124</ip>
 </content>
 <content id="8785724" includeTime="2025-09-24T06:35:03" entryType="1" hash="8F469D18442554510A1FD29D7AD8C24B" blockType="domain-mask" ts="2025-09-24T06:35:03">
  <decision date="2025-05-14" number="2-6-14/2025-05-14-560-АИ" org="ФНС"/>
@@ -10066,6 +10167,14 @@
  <decision date="2025-05-14" number="2-6-14/2025-05-14-1287-АИ" org="ФНС"/>
  <domain><![CDATA[*.selector2911.buzz]]></domain>
  <ip>212.34.152.200</ip>
+</content>
+<content id="8785860" includeTime="2025-09-24T14:00:04" entryType="1" hash="823914A77D394C035610C2415E3EE4AD" blockType="domain" ts="2025-09-24T14:00:04">
+ <decision date="2025-09-23" number="3378035-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[oxk.lol]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="8785912" includeTime="2025-09-24T06:35:03" entryType="1" hash="9902473E0DF90C055DE9026CE7BACB3F" blockType="domain-mask" ts="2025-09-24T06:35:03">
  <decision date="2025-05-14" number="2-6-14/2025-05-14-1315-АИ" org="ФНС"/>
@@ -10428,6 +10537,14 @@
  <domain><![CDATA[*.jetton-usdt.xyz]]></domain>
  <ip>104.21.36.165</ip>
  <ip>172.67.196.253</ip>
+</content>
+<content id="8786093" includeTime="2025-09-24T14:00:04" entryType="1" hash="97C700E322BF84D78D55898E3838BFA0" blockType="domain-mask" ts="2025-09-24T14:00:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.cocayou.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="8786094" includeTime="2025-09-24T06:35:03" entryType="1" hash="D843F7505712215A884D39CC6A0CE487" blockType="domain-mask" ts="2025-09-24T06:35:03">
  <decision date="2025-05-05" number="2-6-14/2025-05-03-3119-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
