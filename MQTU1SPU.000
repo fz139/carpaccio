@@ -2447,9 +2447,9 @@
  <ipv6>2a06:98c1:3123:a000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="3840918" includeTime="2021-12-03T23:15:06" entryType="1" hash="2BD4A027A079F5CCB88236757FBE7395" blockType="domain" ts="2021-12-03T23:15:06">
+<content id="3840918" includeTime="2021-12-03T23:15:06" entryType="1" hash="A0F567231DBCB7A7A82695E652B93F3D" blockType="domain-mask" ts="2025-09-25T06:40:04">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[3rus-pokerdom.com]]></domain>
+ <domain><![CDATA[*.3rus-pokerdom.com]]></domain>
  <ip>104.21.33.245</ip>
  <ip>172.67.151.251</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:97fb</ipv6>
