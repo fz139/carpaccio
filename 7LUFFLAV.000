@@ -173,6 +173,12 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d105</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3533</ipv6>
 </content>
+<content id="8790451" includeTime="2025-09-26T06:55:03" entryType="1" hash="DBA9F623B516B87B5802B70EA3C7BDAF" blockType="domain-mask" ts="2025-09-26T06:55:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.green-kartel.com]]></domain>
+ <ip>23.227.38.71</ip>
+ <ipv6>2620:0127:f00f:000b:0000:0000:0000:0000</ipv6>
+</content>
 <content id="8790452" includeTime="2025-09-25T15:30:04" entryType="1" hash="333BB5872A73F14463E11E01BF647CF6" blockType="domain-mask" ts="2025-09-25T15:30:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.medseed.eu]]></domain>
@@ -218,6 +224,16 @@
  <ip>172.67.179.112</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:b370</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4053</ipv6>
+</content>
+<content id="8790458" includeTime="2025-09-26T06:55:03" entryType="1" hash="A85822035EF1FE45C46F601CFAFC1EF9" blockType="domain-mask" ts="2025-09-26T06:55:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.bestbudtrip.com]]></domain>
+ <ip>92.113.16.191</ip>
+</content>
+<content id="8790459" includeTime="2025-09-26T06:55:03" entryType="1" hash="39DEE3D4757029F6550760115C27A786" blockType="domain-mask" ts="2025-09-26T06:55:03">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.bhang-bhang.store]]></domain>
+ <ip>74.208.159.53</ip>
 </content>
 <content id="8790460" includeTime="2025-09-25T15:30:04" entryType="1" hash="525A79685FCE0C45A0964EA758E21383" blockType="domain-mask" ts="2025-09-25T15:30:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -320,6 +336,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="8790504" includeTime="2025-09-26T06:55:03" entryType="1" hash="4AFBD0A6148E29538F9596191F6693A6" blockType="domain" ts="2025-09-26T06:55:03">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[www.mybuds.ca]]></domain>
+ <ip>198.12.235.223</ip>
+</content>
 <content id="8790505" includeTime="2025-09-25T15:30:04" entryType="1" hash="D18393E162646B22520C104609E09908" blockType="domain" ts="2025-09-25T15:30:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[www.nashahash.com]]></domain>
@@ -327,6 +348,11 @@
  <ip>198.185.159.145</ip>
  <ip>198.49.23.144</ip>
  <ip>198.49.23.145</ip>
+</content>
+<content id="8790506" includeTime="2025-09-26T06:55:03" entryType="1" hash="560BF87D39DAC9E2B24B394BF0066CEC" blockType="domain" ts="2025-09-26T06:55:03">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[www.420greenroad.com]]></domain>
+ <ip>185.100.5.142</ip>
 </content>
 <content id="8790507" includeTime="2025-09-25T15:30:04" entryType="1" hash="C74BCC1611D76CA1CF096D51B48989D7" blockType="domain-mask" ts="2025-09-25T15:30:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -1196,10 +1222,21 @@
  <domain><![CDATA[a.feyasochii-bnr.com]]></domain>
  <ip>192.124.249.179</ip>
 </content>
+<content id="8790877" includeTime="2025-09-26T06:55:03" entryType="1" hash="C58325902BCECBAE98B233B24FCD11AB" blockType="domain" ts="2025-09-26T06:55:03">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[a.feyasochi-loz.com]]></domain>
+ <ip>192.124.249.38</ip>
+</content>
 <content id="8790878" includeTime="2025-09-25T15:30:04" entryType="1" hash="1746CDCB8E8AA648770240DD30354006" blockType="domain" ts="2025-09-25T15:30:04">
  <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
  <domain><![CDATA[feyasochii-bnr.com]]></domain>
  <ip>192.124.249.179</ip>
+</content>
+<content id="8790879" includeTime="2025-09-26T06:55:03" entryType="1" hash="8CE544BF054CEEB1071590634BA80DC1" ts="2025-09-26T06:55:03">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <url><![CDATA[https://feyasochi-loz.com]]></url>
+ <domain><![CDATA[feyasochi-loz.com]]></domain>
+ <ip>192.124.249.38</ip>
 </content>
 <content id="8790880" includeTime="2025-09-25T15:30:04" entryType="1" hash="181F723F23C37AA016E3F1AF8A43ABB7" blockType="domain" ts="2025-09-25T15:30:04">
  <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
