@@ -2184,9 +2184,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5134920" includeTime="2022-11-30T13:55:44" entryType="1" hash="AF254B32865D5233A0B088EAACF45EAB" blockType="domain" ts="2022-11-30T13:55:44">
+<content id="5134920" includeTime="2022-11-30T13:55:44" entryType="1" hash="99481F15FD2E223136EACA07C28D8E73" blockType="domain-mask" ts="2025-09-30T06:50:04">
  <decision date="2022-11-28" number="2-6-18/2022-10-22-948-ÀÈ" org="ÔÍÑ"/>
- <domain><![CDATA[customsforum.ru]]></domain>
+ <domain><![CDATA[*.customsforum.ru]]></domain>
  <ip>104.21.41.131</ip>
  <ip>172.67.147.94</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:935e</ipv6>
