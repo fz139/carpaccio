@@ -925,6 +925,22 @@
  <domain><![CDATA[d.intimcity.golf]]></domain>
  <ip>195.3.221.119</ip>
 </content>
+<content id="8708797" includeTime="2025-09-30T14:15:04" entryType="1" hash="965CAE23E5184C895CC3F66036E67FC8" blockType="domain" ts="2025-09-30T14:15:04">
+ <decision date="2025-06-20" number="2а-145/2025" org="Ягоднинский районный суд - Магаданская область"/>
+ <domain><![CDATA[mgtimes.me]]></domain>
+ <ip>45.147.197.100</ip>
+</content>
+<content id="8708798" includeTime="2025-09-30T14:15:04" entryType="1" hash="076AA01D539B54C35DD79DA445954CDF" blockType="domain-mask" ts="2025-09-30T14:15:04">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[*.feyakrd-mxa.com]]></domain>
+ <ip>192.124.249.152</ip>
+</content>
+<content id="8708799" includeTime="2025-09-30T14:15:04" entryType="1" hash="78CA890360CE08DE015E72068496C69E" ts="2025-09-30T14:15:04">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <url><![CDATA[https://a.feyakrd-mxa.com]]></url>
+ <domain><![CDATA[a.feyakrd-mxa.com]]></domain>
+ <ip>192.124.249.152</ip>
+</content>
 <content id="8708800" includeTime="2025-09-03T16:30:04" entryType="1" hash="69E4626FC58E8ED0E1FB2109D524C014" blockType="domain-mask" ts="2025-09-03T16:30:04">
  <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
  <domain><![CDATA[*.krdfeyas-ory.com]]></domain>
@@ -7974,11 +7990,6 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="8712486" includeTime="2025-09-05T13:15:02" entryType="1" hash="BD8B0619E5F76BFADA58387372EC6144" blockType="domain" ts="2025-09-05T13:15:02">
- <decision date="2025-06-16" number="2а-310/25" org="Тимирязевский районный суд - Москва"/>
- <domain><![CDATA[sim-karty73.orgs.biz]]></domain>
- <ip>179.43.182.56</ip>
 </content>
 <content id="8712499" includeTime="2025-09-05T13:15:02" entryType="1" hash="D14B18CA1532D954BCC4D88672874F34" ts="2025-09-05T13:15:02">
  <decision date="2025-08-14" number="2а-3240/2025" org="Центральный районный суд г. Комсомольска-на-Амуре - Хабаровский край"/>

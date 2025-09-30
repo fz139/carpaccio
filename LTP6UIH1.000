@@ -420,6 +420,11 @@
  <domain><![CDATA[ft.ashoo.bar]]></domain>
  <ip>85.198.111.8</ip>
 </content>
+<content id="8791536" includeTime="2025-09-30T14:15:04" entryType="1" hash="A5FC225D9A64FB26003C495BAFC38306" blockType="domain-mask" ts="2025-09-30T14:15:04">
+ <decision date="2025-09-24" number="3381010-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.feyakrd-zme.com]]></domain>
+ <ip>192.124.249.177</ip>
+</content>
 <content id="8791537" includeTime="2025-09-26T14:55:03" entryType="1" hash="0205AA5E50E753084BC3EAA8E6B08AF7" blockType="domain" ts="2025-09-26T14:55:03">
  <decision date="2025-09-24" number="3381011-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[sexland.me]]></domain>
@@ -5890,6 +5895,11 @@
  <decision date="2025-09-15" number="2025-09-04-4067-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[*.zelenosoul.shop]]></domain>
  <ip>87.120.93.61</ip>
+</content>
+<content id="8793280" includeTime="2025-09-30T14:15:04" entryType="1" hash="DFB0066444A51F4C9695972E0E78A798" blockType="domain" ts="2025-09-30T14:15:04">
+ <decision date="2025-09-24" number="2025-09-19-1839" org="МВД"/>
+ <domain><![CDATA[pharmastores.co]]></domain>
+ <ip>142.132.143.214</ip>
 </content>
 <content id="8793282" includeTime="2025-09-26T14:55:03" entryType="1" hash="8A11C9CC1D2FA07E02824FCEB2A1F9A7" blockType="domain-mask" ts="2025-09-26T14:55:03">
  <decision date="2025-09-25" number="3382139-URL-on" org="Роскомнадзор"/>
