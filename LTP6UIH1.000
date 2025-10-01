@@ -2187,6 +2187,20 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
+<content id="8791884" includeTime="2025-10-01T14:40:05" entryType="6" hash="A345ECE558915B383A70A869DC35332F" ts="2025-10-01T14:40:05">
+ <decision date="2024-12-02" number="2-2982/2024" org="Таганский районный суд - Москва"/>
+ <url><![CDATA[https://himerasearch.me]]></url>
+ <domain><![CDATA[himerasearch.me]]></domain>
+ <ip>95.129.236.13</ip>
+</content>
+<content id="8791885" includeTime="2025-10-01T14:40:05" entryType="6" hash="3E58D0235C2739A70F3A0CF631AAE781" blockType="domain-mask" ts="2025-10-01T14:40:05">
+ <decision date="2022-12-26" number="2-3894/2022" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[*.rinkskr.to]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="8791886" includeTime="2025-09-25T07:10:05" entryType="1" hash="DF3A4AC6424DBF5E27F4DD46FAD68171" blockType="domain-mask" ts="2025-09-25T07:10:05">
  <decision date="2025-05-14" number="2-6-14/2025-05-14-7250-АИ" org="ФНС"/>
  <domain><![CDATA[*.drip-cas-son4.ru]]></domain>
