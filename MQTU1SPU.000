@@ -4595,9 +4595,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d1b7</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:2d33</ipv6>
 </content>
-<content id="3845751" includeTime="2021-12-08T13:28:41" entryType="1" hash="53D3C602C529704B95087698A348A7C7" blockType="domain" ts="2021-12-08T13:28:41">
+<content id="3845751" includeTime="2021-12-08T13:28:41" entryType="1" hash="C80B2740AD15B5289070E36DCFA38DF2" blockType="domain-mask" ts="2025-10-01T06:20:05">
  <decision date="2021-12-06" number="2021-12-05-512-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[rostabletka.com]]></domain>
+ <domain><![CDATA[*.rostabletka.com]]></domain>
  <ip>104.21.18.14</ip>
  <ip>172.67.179.42</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:120e</ipv6>
