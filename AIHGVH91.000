@@ -1840,6 +1840,15 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="8809683" includeTime="2025-10-03T16:50:03" entryType="1" hash="87056B059917F0D0EB49D65A897F0344" ts="2025-10-03T16:50:03">
+ <decision date="2025-09-30" number="3389884-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://www.yourupload.com/watch/FF0MJSuu6B03]]></url>
+ <domain><![CDATA[www.yourupload.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
 <content id="8809687" includeTime="2025-10-01T06:50:04" entryType="1" hash="DBB3F4AF101E74F9D46A735421B2CBBB" blockType="domain-mask" ts="2025-10-01T06:50:04">
  <decision date="2025-05-20" number="2-6-14/2025-05-09-1428-АИ" org="ФНС"/>
  <domain><![CDATA[*.spinamba112.com]]></domain>
@@ -2014,6 +2023,11 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8809741" includeTime="2025-10-03T16:50:03" entryType="1" hash="5816FD90F287770ED2FF88DAE535D50C" blockType="domain" ts="2025-10-03T16:50:03">
+ <decision date="2025-09-30" number="3389942-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[go.24videos.cc]]></domain>
+ <ip>94.23.144.26</ip>
 </content>
 <content id="8809742" includeTime="2025-10-03T05:40:05" entryType="1" hash="6EA4BE037D51F4811B7842282D96855B" blockType="domain" ts="2025-10-03T05:40:05">
  <decision date="2025-09-30" number="3389943-URL-on" org="Роскомнадзор"/>
@@ -5520,6 +5534,12 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8810542" includeTime="2025-10-03T16:50:03" entryType="1" hash="6E099AE1DBE60F0B331273C0213A9E48" ts="2025-10-03T16:50:03">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://forumuniversal.com/index.php?topic=2174.0]]></url>
+ <domain><![CDATA[forumuniversal.com]]></domain>
+ <ip>68.66.216.47</ip>
 </content>
 <content id="8810543" includeTime="2025-10-01T13:45:03" entryType="1" hash="B6831AFB0161821C8D8D3548A0DFBBA4" blockType="domain-mask" ts="2025-10-01T13:45:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
