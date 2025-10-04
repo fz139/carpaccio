@@ -288,6 +288,11 @@
  <ip>109.206.161.72</ip>
  <ipv6>2a13:f980:2000:0198:0000:0000:6dce:a148</ipv6>
 </content>
+<content id="8800931" includeTime="2025-10-04T10:20:04" entryType="1" hash="18064775A7065B30AF8257BF5DF6BDD9" blockType="domain" ts="2025-10-04T10:20:04">
+ <decision date="2025-09-26" number="3384940-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[x5.h-chan.me]]></domain>
+ <ip>212.83.129.174</ip>
+</content>
 <content id="8800934" includeTime="2025-09-30T07:50:04" entryType="1" hash="778A3A00CE01DFD5F50C02158A36E594" ts="2025-09-30T07:50:04">
  <decision date="2025-09-26" number="3384943-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://lordfilm-jared.store/s-lyubovyu-saymon-2018]]></url>
@@ -965,6 +970,17 @@
  <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
  <domain><![CDATA[*.sochifeyas-rww.com]]></domain>
  <ip>192.124.249.55</ip>
+</content>
+<content id="8801168" includeTime="2025-10-04T10:20:04" entryType="1" hash="921953DFCCF813710308FC8205853920" blockType="domain-mask" ts="2025-10-04T10:20:04">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[*.feyanovosib-bor.com]]></domain>
+ <ip>192.124.249.6</ip>
+</content>
+<content id="8801169" includeTime="2025-10-04T10:20:04" entryType="1" hash="BEBE393F5DBD7647D0A8D1BD6C59D228" ts="2025-10-04T10:20:04">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <url><![CDATA[https://tzv.feyanovosib-bor.com]]></url>
+ <domain><![CDATA[tzv.feyanovosib-bor.com]]></domain>
+ <ip>192.124.249.6</ip>
 </content>
 <content id="8801176" includeTime="2025-09-27T00:10:04" entryType="1" hash="58B81B2A2E074E2245DE0AD99E58FCB8" blockType="domain-mask" ts="2025-09-27T00:10:04">
  <decision date="2025-08-18" number="2-6-14/2025-08-13-2802-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
