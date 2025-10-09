@@ -6188,9 +6188,9 @@
  <ipv6>2606:4700:3036:0000:0000:0000:6815:3a5f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9ec3</ipv6>
 </content>
-<content id="7719570" includeTime="2024-12-18T14:25:02" entryType="1" hash="4DCDBA4E9485640A7CBB60A41C4A179B" blockType="domain" ts="2024-12-18T14:25:02">
+<content id="7719570" includeTime="2024-12-18T14:25:02" entryType="1" hash="3CDFEF31DF53F74FDE477CE92C42D3B4" blockType="domain-mask" ts="2025-10-09T13:45:03">
  <decision date="2024-12-16" number="2896771-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[ka4nem.ru]]></domain>
+ <domain><![CDATA[*.ka4nem.ru]]></domain>
  <ip>104.21.12.149</ip>
  <ip>172.67.194.235</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:0c95</ipv6>

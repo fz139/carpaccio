@@ -8585,9 +8585,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1622</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:ca3a</ipv6>
 </content>
-<content id="8480245" includeTime="2025-07-09T16:20:03" entryType="1" hash="216B1FAA92B5CA9836ADBE28FB484F05" blockType="domain" ts="2025-07-09T16:20:03">
+<content id="8480245" includeTime="2025-07-09T16:20:03" entryType="1" hash="F7BFCF61F10990B918EB4214E2C00588" blockType="domain-mask" ts="2025-10-09T13:45:03">
  <decision date="2025-07-07" number="3250020-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[xbxx.me]]></domain>
+ <domain><![CDATA[*.xbxx.me]]></domain>
  <ip>104.21.44.6</ip>
  <ip>172.67.192.141</ip>
  <ip>188.114.96.1</ip>

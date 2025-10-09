@@ -10769,9 +10769,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:aed3</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:37fb</ipv6>
 </content>
-<content id="7763416" includeTime="2025-01-03T03:50:03" entryType="1" hash="8DE35643D4666850F2BCB5D2FDB495D4" blockType="domain" ts="2025-01-03T03:50:03">
+<content id="7763416" includeTime="2025-01-03T03:50:03" entryType="1" hash="AD5965C72947C45B128BAC0559D98A2A" blockType="domain-mask" ts="2025-10-09T13:45:03">
  <decision date="2024-12-28" number="2922550-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[seksprice.com]]></domain>
+ <domain><![CDATA[*.seksprice.com]]></domain>
  <ip>104.21.21.176</ip>
  <ip>172.67.199.170</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:15b0</ipv6>

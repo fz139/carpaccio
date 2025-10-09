@@ -5753,9 +5753,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:45ab</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d291</ipv6>
 </content>
-<content id="3848139" includeTime="2025-01-24T14:40:03" entryType="1" hash="D949767639D11C1E1C6031E8EF94635D" blockType="domain" ts="2025-10-09T10:30:05">
+<content id="3848139" includeTime="2025-01-24T14:40:03" entryType="1" hash="DDEC51B9483A4DA88ADA680B6A51D51D" blockType="domain-mask" ts="2025-10-09T13:45:03">
  <decision date="2021-12-07" number="2021-12-04-577-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[mentab.ru]]></domain>
+ <domain><![CDATA[*.mentab.ru]]></domain>
  <ip>104.21.80.157</ip>
  <ip>172.67.151.89</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:509d</ipv6>
