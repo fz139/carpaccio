@@ -2712,11 +2712,6 @@
  <domain><![CDATA[ma7.tytgay1.xyz]]></domain>
  <ip>5.187.1.193</ip>
 </content>
-<content id="8756202" includeTime="2025-09-17T13:25:02" entryType="1" hash="324921BF853AE42A7BC12847881CE001" blockType="domain" ts="2025-09-17T13:25:02">
- <decision date="2025-09-15" number="3363884-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[zbc.gejmoskva5.xyz]]></domain>
- <ip>185.155.96.183</ip>
-</content>
 <content id="8756204" includeTime="2025-09-18T07:15:03" entryType="1" hash="D7AEBC61B510A87258DD57F42E901B06" blockType="domain-mask" ts="2025-09-18T07:15:03">
  <decision date="2025-09-15" number="3363886-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.green.porn]]></domain>
@@ -2794,6 +2789,12 @@
  <decision date="2025-09-15" number="3363910-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[v2.animelib.org]]></domain>
  <ip>186.2.163.220</ip>
+</content>
+<content id="8756229" includeTime="2025-10-09T14:50:04" entryType="1" hash="98776BACA9B338EAEA5963E357488AFD" ts="2025-10-09T14:50:04">
+ <decision date="2025-09-15" number="3363911-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://zbc.gejmoskva5.xyz/ads/znakomstva]]></url>
+ <domain><![CDATA[zbc.gejmoskva5.xyz]]></domain>
+ <ip>185.155.96.183</ip>
 </content>
 <content id="8756230" includeTime="2025-09-17T13:25:02" entryType="1" hash="9F4020773B8CD0BC85ED6FEC10A4FBA8" ts="2025-09-17T13:25:02">
  <decision date="2025-09-15" number="3363912-URL-on" org="Роскомнадзор"/>
