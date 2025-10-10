@@ -7505,6 +7505,19 @@
  <ipv6>2600:9000:2395:6c00:0014:bbe1:6b00:0021</ipv6>
  <ipv6>2600:9000:2395:d400:0014:bbe1:6b00:0021</ipv6>
 </content>
+<content id="8827198" includeTime="2025-10-10T16:10:05" urgencyType="1" entryType="3" hash="F418CE487E28BF3358F26E1C78DA3220" blockType="domain-mask" ts="2025-10-10T16:10:05">
+ <decision date="2025-10-03" number="" org=""/>
+ <domain><![CDATA[*.spr-aist1.info]]></domain>
+ <ip>104.21.18.225</ip>
+ <ip>172.67.183.218</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:12e1</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:b7da</ipv6>
+</content>
+<content id="8827199" includeTime="2025-10-10T16:10:05" urgencyType="1" entryType="3" hash="033602DA95AF311EFA075634C7C9AA81" blockType="domain-mask" ts="2025-10-10T16:10:05">
+ <decision date="2025-10-03" number="" org=""/>
+ <domain><![CDATA[*.medic-plus-spb.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
 <content id="8827200" includeTime="2025-10-04T19:25:03" urgencyType="1" entryType="3" hash="23506380085CA5747E8FAFDB31517EFB" blockType="domain-mask" ts="2025-10-04T19:25:03">
  <decision date="2025-10-03" number="" org=""/>
  <domain><![CDATA[*.pravahelper.ru]]></domain>
