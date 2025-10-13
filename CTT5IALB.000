@@ -106,9 +106,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0384</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:82ba</ipv6>
 </content>
-<content id="8318726" includeTime="2025-05-29T14:15:02" entryType="1" hash="F5419A133F49E343E95A2315B716BB57" blockType="domain" ts="2025-05-29T14:15:02">
+<content id="8318726" includeTime="2025-05-29T14:15:02" entryType="1" hash="D3D99B3EF9AF7C542284DC8C2A3D0C60" blockType="domain-mask" ts="2025-10-13T13:25:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[innreef.ru]]></domain>
+ <domain><![CDATA[*.innreef.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
