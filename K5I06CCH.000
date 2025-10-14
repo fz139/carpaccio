@@ -3980,6 +3980,11 @@
  <domain><![CDATA[alltelegram.com]]></domain>
  <ip>216.198.79.1</ip>
 </content>
+<content id="8832612" includeTime="2025-10-14T13:20:04" entryType="1" hash="5E33990654C96F0FC67A767976B94280" blockType="domain" ts="2025-10-14T13:20:04">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[outline-pro.ru]]></domain>
+ <ip>195.201.179.80</ip>
+</content>
 <content id="8832613" includeTime="2025-10-08T15:00:05" entryType="1" hash="E95C1AF7B44C5EBB0434C0E17D074557" blockType="domain" ts="2025-10-08T15:00:05">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[hiddify.site]]></domain>
@@ -4889,6 +4894,11 @@
  <decision date="2025-10-06" number="3400096-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[zbf.eburgay2.xyz]]></domain>
  <ip>185.155.96.140</ip>
+</content>
+<content id="8832910" includeTime="2025-10-14T13:20:04" entryType="1" hash="D3E861B7C898D657B104CC4649038B1F" blockType="domain" ts="2025-10-14T13:20:04">
+ <decision date="2025-10-06" number="3400097-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[ln.slyclub.xyz]]></domain>
+ <ip>91.211.248.91</ip>
 </content>
 <content id="8832911" includeTime="2025-10-08T15:00:05" entryType="1" hash="237DC58B73798E8D88E33D4F9832130F" blockType="domain" ts="2025-10-08T15:00:05">
  <decision date="2025-10-06" number="3400098-URL-on" org="Роскомнадзор"/>
@@ -6006,10 +6016,26 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0f20</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a149</ipv6>
 </content>
+<content id="8833118" includeTime="2025-10-14T13:20:04" entryType="1" hash="960732CB35FE1A0CC9FC76382BBE9892" blockType="domain-mask" ts="2025-10-14T13:20:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kra39.st]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="8833119" includeTime="2025-10-09T01:40:03" entryType="1" hash="C6F4B3663FBBDF1B933A1BE8B835F458" blockType="domain" ts="2025-10-09T01:40:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[minecrafterzv.xyz]]></domain>
  <ip>188.143.233.220</ip>
+</content>
+<content id="8833120" includeTime="2025-10-14T13:20:04" entryType="1" hash="A17C7DDF97BEAF9D6B1268188300EBB5" blockType="domain-mask" ts="2025-10-14T13:20:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kra39.st]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="8833121" includeTime="2025-10-07T13:30:06" entryType="1" hash="202032A92A099036D4F9B5F0771A54EB" blockType="domain" ts="2025-10-07T13:30:06">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -9257,6 +9283,17 @@
  <ip>104.21.68.9</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4409</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:b820</ipv6>
+</content>
+<content id="8834287" includeTime="2025-10-14T13:20:04" entryType="1" hash="8C59BC6427F50B0A32F909AF2DAD1F47" blockType="domain-mask" ts="2025-10-14T13:20:04">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[*.feya-rostov-vom.com]]></domain>
+ <ip>192.124.249.4</ip>
+</content>
+<content id="8834288" includeTime="2025-10-14T13:20:04" entryType="1" hash="029FEAF6A5C26C5B48CE73E746DA2380" ts="2025-10-14T13:20:04">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <url><![CDATA[https://elw.feya-rostov-vom.com]]></url>
+ <domain><![CDATA[elw.feya-rostov-vom.com]]></domain>
+ <ip>192.124.249.4</ip>
 </content>
 <content id="8834289" includeTime="2025-10-08T07:35:03" entryType="1" hash="D5E38D8DC6B5D390711093ADA404CE62" blockType="domain" ts="2025-10-08T07:35:03">
  <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
