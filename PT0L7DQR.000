@@ -16080,9 +16080,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5c96</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c347</ipv6>
 </content>
-<content id="8728498" includeTime="2025-09-10T13:45:03" entryType="1" hash="C7E727FB232F7D7A2CFD11D56AD51783" blockType="domain" ts="2025-09-10T13:45:03">
+<content id="8728498" includeTime="2025-09-10T13:45:03" entryType="1" hash="0D62770AC798BFCAE816ADCA37F7284B" blockType="domain-mask" ts="2025-10-15T13:20:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[bodyforumtr.com]]></domain>
+ <domain><![CDATA[*.bodyforumtr.com]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
