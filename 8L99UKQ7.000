@@ -1033,9 +1033,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6768699" includeTime="2024-02-27T13:45:03" entryType="1" hash="4E9F21997E914791C64D0CFF147CE049" blockType="domain" ts="2024-02-27T13:45:03">
+<content id="6768699" includeTime="2024-02-27T13:45:03" entryType="1" hash="157A06D108641F2245C5B4A135075CF0" blockType="domain-mask" ts="2025-10-17T00:40:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[cvfrental.ru]]></domain>
+ <domain><![CDATA[*.cvfrental.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>

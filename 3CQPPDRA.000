@@ -3493,9 +3493,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:33e2</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:be9c</ipv6>
 </content>
-<content id="8790171" includeTime="2025-09-25T15:30:04" entryType="1" hash="02A09C8FB5B244047890A059C8BD1CDE" blockType="domain" ts="2025-09-25T15:30:04">
+<content id="8790171" includeTime="2025-09-25T15:30:04" entryType="1" hash="12C7274C540D7EDE7E587AEC189EBBF8" blockType="domain-mask" ts="2025-10-17T00:40:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[annapalace.ru]]></domain>
+ <domain><![CDATA[*.annapalace.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
