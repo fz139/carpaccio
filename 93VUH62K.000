@@ -6666,11 +6666,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:9faf</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0e91</ipv6>
 </content>
-<content id="8524975" includeTime="2025-07-18T15:30:05" entryType="1" hash="F3D8DCB4E1F8DB309029E0B88C42B0D0" blockType="domain" ts="2025-07-18T15:30:05">
- <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[kipiavtomatika.ru]]></domain>
- <ip>185.178.208.156</ip>
-</content>
 <content id="8524987" includeTime="2025-07-18T15:30:05" entryType="1" hash="3A255A2277E61B54BFC08F4D9A77A68A" blockType="domain" ts="2025-07-18T15:30:05">
  <decision date="2025-07-16" number="3265652-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[yourfavai.com]]></domain>
@@ -10717,8 +10712,9 @@
  <domain><![CDATA[novodvinsk.angelandfamily.ru]]></domain>
  <ip>91.211.250.34</ip>
 </content>
-<content id="8527175" includeTime="2025-07-18T00:15:02" entryType="1" hash="E70E7D6731F6544DB08EAFF95F5D23E1" blockType="domain" ts="2025-07-18T00:15:02">
+<content id="8527175" includeTime="2025-07-18T00:15:02" entryType="1" hash="8F6B18A1FFC1F64DC15D6F597350BB95" ts="2025-10-17T13:05:03">
  <decision date="2025-07-15" number="2а-572/2025" org="Новодвинский городской суд - Архангельская область"/>
+ <url><![CDATA[https://novodvinsk.xxvizov.com/]]></url>
  <domain><![CDATA[novodvinsk.xxvizov.com]]></domain>
  <ip>194.62.105.59</ip>
 </content>
