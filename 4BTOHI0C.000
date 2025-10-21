@@ -10873,9 +10873,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:42a1</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:cd6e</ipv6>
 </content>
-<content id="3611309" includeTime="2021-09-15T19:55:20" entryType="1" hash="B796A587F3FC9CA1FB3D4602BF63331A" blockType="domain" ts="2021-09-15T19:55:20">
+<content id="3611309" includeTime="2021-09-15T19:55:20" entryType="1" hash="1FF4D872290BCE7CE35D7462F7C5DA18" blockType="domain-mask" ts="2025-10-21T23:05:03">
  <decision date="2021-09-07" number="2021-09-04-1049-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[galaxy-rus24.ru]]></domain>
+ <domain><![CDATA[*.galaxy-rus24.ru]]></domain>
  <ip>104.21.75.52</ip>
  <ip>172.67.214.136</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4b34</ipv6>

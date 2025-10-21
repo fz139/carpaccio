@@ -4740,9 +4740,9 @@
  <ip>104.21.5.40</ip>
  <ip>172.67.132.240</ip>
 </content>
-<content id="7409555" includeTime="2024-09-11T14:00:03" entryType="1" hash="39214EC4EB3A017785693B951241C80D" blockType="domain" ts="2024-09-11T14:00:03">
+<content id="7409555" includeTime="2024-09-11T14:00:03" entryType="1" hash="32067E6A21DCB068ADD53F3391245769" blockType="domain-mask" ts="2025-10-21T23:05:03">
  <decision date="2024-09-10" number="2024-09-10-4752-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[wine-labb.ru]]></domain>
+ <domain><![CDATA[*.wine-labb.ru]]></domain>
  <ip>104.21.5.254</ip>
  <ip>172.67.134.25</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8619</ipv6>
