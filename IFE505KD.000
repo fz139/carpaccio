@@ -834,9 +834,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6848211" includeTime="2024-03-15T14:05:03" entryType="1" hash="0CF11B91244C2D9FD822FDD6B74BBDD2" blockType="domain" ts="2024-03-15T14:05:03">
+<content id="6848211" includeTime="2024-03-15T14:05:03" entryType="1" hash="99FAF43CEA8C42B587580E9BE8D79AF7" blockType="domain-mask" ts="2025-10-22T13:25:01">
  <decision date="2024-03-13" number="2024-03-06-4778-ВН" org="Роскомнадзор"/>
- <domain><![CDATA[gas-lite.ru]]></domain>
+ <domain><![CDATA[*.gas-lite.ru]]></domain>
  <ip>45.67.231.216</ip>
 </content>
 <content id="6848216" includeTime="2024-03-15T14:05:03" entryType="1" hash="D9F257DA32F8D013E15678996F2DB865" ts="2024-06-11T14:30:04">
