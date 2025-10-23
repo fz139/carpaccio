@@ -9863,10 +9863,9 @@
  <domain><![CDATA[fordklimaaid.ru]]></domain>
  <ip>81.17.19.227</ip>
 </content>
-<content id="8904179" includeTime="2025-10-23T11:40:05" entryType="1" hash="2FB98D2ED07F343B4ED039D7C760FC08" ts="2025-10-23T11:40:05">
+<content id="8904179" includeTime="2025-10-23T11:40:05" entryType="1" hash="4450F69CC4E7C8EB6F250D43E745F444" blockType="domain-mask" ts="2025-10-23T13:20:03">
  <decision date="2025-10-22" number="2025-10-20-4589-СОБ" org="Роскомнадзор"/>
- <url><![CDATA[https://vpn-kovalenko.ru]]></url>
- <domain><![CDATA[vpn-kovalenko.ru]]></domain>
+ <domain><![CDATA[*.vpn-kovalenko.ru]]></domain>
  <ip>87.236.16.13</ip>
 </content>
 <content id="8904181" includeTime="2025-10-22T22:20:02" urgencyType="1" entryType="3" hash="899F51094A7B236287E051FB661C52E5" blockType="domain-mask" ts="2025-10-22T22:20:02">
@@ -11927,9 +11926,9 @@
  <ip>104.21.76.53</ip>
  <ip>172.67.188.174</ip>
 </content>
-<content id="8905322" includeTime="2025-10-23T02:05:03" entryType="1" hash="9B340CD0869FF988D7049B6B68EEB6CD" blockType="domain" ts="2025-10-23T02:05:03">
+<content id="8905322" includeTime="2025-10-23T02:05:03" entryType="1" hash="EFF0C5C6D1B26E3AE8FDFB562D13FDC9" blockType="domain-mask" ts="2025-10-23T13:20:03">
  <decision date="2025-06-16" number="2-6-14/2025-06-10-5457-АИ" org="ФНС"/>
- <domain><![CDATA[casinobezpasporta.com]]></domain>
+ <domain><![CDATA[*.casinobezpasporta.com]]></domain>
  <ip>188.143.235.215</ip>
 </content>
 <content id="8905323" includeTime="2025-10-23T02:05:03" entryType="1" hash="2D69E0F66A8C394ECF62A6482A275D88" blockType="domain" ts="2025-10-23T02:05:03">
@@ -20546,5 +20545,10 @@
  <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:b0e6</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:586c</ipv6>
+</content>
+<content id="8909910" includeTime="2025-10-23T13:20:03" entryType="5" hash="038A6631F3A5BB68927E7766A3EC2688" blockType="domain" ts="2025-10-23T13:20:03">
+ <decision date="2025-09-17" number="решение суда по делу № 3-1062/2025" org="Мосгорсуд"/>
+ <domain><![CDATA[rb.lordfilmy-2025.ru]]></domain>
+ <ip>5.45.87.135</ip>
 </content>
 </reg:register>
