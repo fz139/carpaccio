@@ -4416,6 +4416,29 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="8918864" includeTime="2025-10-25T13:05:03" urgencyType="1" entryType="3" hash="F9B50D5CCEA2CC677AA04B1600ADF65C" blockType="domain-mask" ts="2025-10-25T13:05:03">
+ <decision date="2023-09-09" number="" org=""/>
+ <domain><![CDATA[*.komp1.com]]></domain>
+ <ip>185.203.72.48</ip>
+</content>
+<content id="8918865" includeTime="2025-10-25T13:05:03" urgencyType="1" entryType="3" hash="2B5CB7F8D24646F890E70C89B12CA827" blockType="domain-mask" ts="2025-10-25T13:05:03">
+ <decision date="2023-09-09" number="" org=""/>
+ <domain><![CDATA[*.komp1.org]]></domain>
+ <ip>185.203.72.48</ip>
+</content>
+<content id="8918866" includeTime="2025-10-25T13:05:03" urgencyType="1" entryType="3" hash="D843DF2810CB76A0BFFE955701A48F71" blockType="domain-mask" ts="2025-10-25T13:05:03">
+ <decision date="2024-10-07" number="" org=""/>
+ <domain><![CDATA[*.rumafi.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8918867" includeTime="2025-10-25T13:05:03" urgencyType="1" entryType="3" hash="23F7D219ABC0568A3CC5BDF9EE3C7FFE" blockType="domain-mask" ts="2025-10-25T13:05:03">
+ <decision date="2023-09-29" number="" org=""/>
+ <domain><![CDATA[*.vlst1.net]]></domain>
+ <ip>185.203.72.56</ip>
+</content>
 <content id="8919772" includeTime="2025-10-24T20:20:03" entryType="5" hash="CE99A8C7915F593F13301FD514FB0197" blockType="domain" ts="2025-10-24T20:20:03">
  <decision date="2025-10-23" number="Пб/83637" org="Роскомнадзор"/>
  <domain><![CDATA[wa.lordfilm17.ru]]></domain>
@@ -5162,5 +5185,10 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8920234" includeTime="2025-10-25T13:05:03" urgencyType="1" entryType="3" hash="80518CB0773AF955A0A637E378DB0EDB" blockType="domain-mask" ts="2025-10-25T13:05:03">
+ <decision date="2023-08-08" number="" org=""/>
+ <domain><![CDATA[*.muntian.org]]></domain>
+ <ip>74.125.196.132</ip>
 </content>
 </reg:register>
