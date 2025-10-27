@@ -3044,10 +3044,27 @@
  <ip>104.21.8.220</ip>
  <ip>172.67.140.73</ip>
 </content>
+<content id="8910978" includeTime="2025-10-27T18:00:05" entryType="1" hash="520FA350B7305E18BC7D449ADD1A2C31" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3431196-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://www.qtoon.com/detail/c_11jHmTdEIT4nUzpR5uf9]]></url>
+ <domain><![CDATA[www.qtoon.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
 <content id="8910979" includeTime="2025-10-25T19:50:04" entryType="1" hash="1406568D581B3AFBBFC4371BB4321110" blockType="domain-mask" ts="2025-10-25T19:50:04">
  <decision date="2025-10-23" number="3431197-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.gpress.info]]></domain>
  <ip>5.101.118.83</ip>
+</content>
+<content id="8910980" includeTime="2025-10-27T18:00:05" entryType="1" hash="51465B8E783298FEF1EC768C664221B2" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3431198-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[manhwa18.cc]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="8910982" includeTime="2025-10-23T23:45:03" entryType="1" hash="3F4C6695F9B3348AEB2B8AE7427CF044" blockType="domain-mask" ts="2025-10-23T23:45:03">
  <decision date="2025-06-16" number="2-6-14/2025-06-16-6883-АИ" org="ФНС"/>
@@ -3337,11 +3354,21 @@
  <domain><![CDATA[*.ru-planetvpn.com]]></domain>
  <ip>157.180.41.161</ip>
 </content>
+<content id="8911135" includeTime="2025-10-27T18:00:05" entryType="1" hash="3838F7987B51688B03763A4E7298617C" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3431353-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[lordserials.fun]]></domain>
+ <ip>5.61.59.116</ip>
+</content>
 <content id="8911137" includeTime="2025-10-25T19:50:04" entryType="1" hash="6044254B8687388F4BAF04E55C826ACA" ts="2025-10-25T19:50:04">
  <decision date="2025-10-16" number="2а-1090/2025" org="Спасский районный суд - Приморский край"/>
  <url><![CDATA[https://check-splityou.ru/]]></url>
  <domain><![CDATA[check-splityou.ru]]></domain>
  <ip>144.124.230.169</ip>
+</content>
+<content id="8911139" includeTime="2025-10-27T18:00:05" entryType="1" hash="8342661E32F9DF189FA0683044AAF949" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-21" number="2а-555/2025" org="Мирнинский городской суд - Архангельская область"/>
+ <domain><![CDATA[shop.snus.monster]]></domain>
+ <ip>104.24.25.58</ip>
 </content>
 <content id="8911140" includeTime="2025-10-25T19:50:04" entryType="1" hash="C06CC431C38A8C8F203F839231AE58D8" blockType="domain" ts="2025-10-25T19:50:04">
  <decision date="2025-09-05" number="2а-855/25" org="Кузьминский районный суд - Москва"/>
@@ -3468,12 +3495,6 @@
  <domain><![CDATA[kireevsk.cheapsimki.org]]></domain>
  <ip>185.244.219.95</ip>
 </content>
-<content id="8911173" includeTime="2025-10-25T19:50:04" entryType="1" hash="FD80B4102D173C771D231BE5F575A135" ts="2025-10-25T19:50:04">
- <decision date="2025-10-21" number="2а-554/2025" org="Мирнинский городской суд - Архангельская область"/>
- <url><![CDATA[https://v8.vkidochnaya.com/category/snus]]></url>
- <domain><![CDATA[v8.vkidochnaya.com]]></domain>
- <ip>5.61.51.98</ip>
-</content>
 <content id="8911175" includeTime="2025-10-25T19:50:04" entryType="1" hash="60DC30817B1EA1CC6304209550AB6C92" blockType="domain" ts="2025-10-25T19:50:04">
  <decision date="2025-09-05" number="2а-854/25" org="Кузьминский районный суд - Москва"/>
  <domain><![CDATA[mihajlov.cheapsimki.org]]></domain>
@@ -3509,12 +3530,6 @@
  <domain><![CDATA[monchegorsk.cheapsimki.org]]></domain>
  <ip>185.244.219.95</ip>
 </content>
-<content id="8911182" includeTime="2025-10-25T19:50:04" entryType="1" hash="FA264F7EF4AACD5F334103D5EA4A8DC8" ts="2025-10-25T19:50:04">
- <decision date="2025-10-16" number="2а-2965/2025" org="Первомайский районный суд г. Кирова - Кировская область"/>
- <url><![CDATA[https://sale-simcard77.ru]]></url>
- <domain><![CDATA[sale-simcard77.ru]]></domain>
- <ip>91.228.152.144</ip>
-</content>
 <content id="8911183" includeTime="2025-10-25T19:50:04" entryType="1" hash="B36273B0971CD2D0536358F3864C3CD8" blockType="domain" ts="2025-10-25T19:50:04">
  <decision date="2025-10-16" number="2а-2965/2025" org="Первомайский районный суд г. Кирова - Кировская область"/>
  <domain><![CDATA[simkiopt01.ru]]></domain>
@@ -3534,12 +3549,6 @@
  <decision date="2025-09-05" number="2а-860/25" org="Кузьминский районный суд - Москва"/>
  <domain><![CDATA[ryazan.cheapsimki.org]]></domain>
  <ip>185.244.219.95</ip>
-</content>
-<content id="8911187" includeTime="2025-10-25T19:50:04" entryType="1" hash="21BD822E5BA7197DF4892F0FE20DE311" ts="2025-10-25T19:50:04">
- <decision date="2025-09-05" number="2а-860/25" org="Кузьминский районный суд - Москва"/>
- <url><![CDATA[https://simki-sale-bez.site/]]></url>
- <domain><![CDATA[simki-sale-bez.site]]></domain>
- <ip>91.228.152.144</ip>
 </content>
 <content id="8911188" includeTime="2025-10-25T19:50:04" entryType="1" hash="384F6B8FC760298C3A26AFA962562830" blockType="domain" ts="2025-10-25T19:50:04">
  <decision date="2025-09-05" number="2а-860/25" org="Кузьминский районный суд - Москва"/>
@@ -3571,73 +3580,6 @@
  <decision date="2025-10-21" number="2а-553/2025" org="Мирнинский городской суд - Архангельская область"/>
  <domain><![CDATA[sss2.snus-optom-1.com]]></domain>
  <ip>5.45.94.243</ip>
-</content>
-<content id="8911195" includeTime="2025-10-25T19:50:04" entryType="1" hash="7775CAE82C899C0A93FFF545ECC10A88" blockType="domain" ts="2025-10-25T19:50:04">
- <decision date="2025-09-05" number="2а-858/25" org="Кузьминский районный суд - Москва"/>
- <domain><![CDATA[simcheboksariopt.orgs.biz]]></domain>
- <ip>185.242.105.215</ip>
-</content>
-<content id="8911196" includeTime="2025-10-25T19:50:04" entryType="1" hash="EB2511013EE5B02C710E27F46F489F52" blockType="domain" ts="2025-10-25T19:50:04">
- <decision date="2025-09-05" number="2а-858/25" org="Кузьминский районный суд - Москва"/>
- <domain><![CDATA[sevastopolsim.orgs.biz]]></domain>
- <ip>185.242.105.215</ip>
-</content>
-<content id="8911197" includeTime="2025-10-25T19:50:04" entryType="1" hash="43571F130DCF86AC3EFC1CC3E456BEA3" blockType="domain" ts="2025-10-25T19:50:04">
- <decision date="2025-09-05" number="2а-858/25" org="Кузьминский районный суд - Москва"/>
- <domain><![CDATA[simsurgutopt.orgs.biz]]></domain>
- <ip>185.242.105.215</ip>
-</content>
-<content id="8911198" includeTime="2025-10-25T19:50:04" entryType="1" hash="62BD0CBFD49127D3E46AE589C221F24D" blockType="domain" ts="2025-10-25T19:50:04">
- <decision date="2025-09-05" number="2а-858/25" org="Кузьминский районный суд - Москва"/>
- <domain><![CDATA[simsimferopolopt.orgs.biz]]></domain>
- <ip>185.242.105.215</ip>
-</content>
-<content id="8911199" includeTime="2025-10-25T19:50:04" entryType="1" hash="613E408816483372BAC94A482AB22DC4" blockType="domain" ts="2025-10-25T19:50:04">
- <decision date="2025-09-05" number="2а-858/25" org="Кузьминский районный суд - Москва"/>
- <domain><![CDATA[club227053030.orgs.biz]]></domain>
- <ip>185.242.105.215</ip>
-</content>
-<content id="8911201" includeTime="2025-10-25T19:50:04" entryType="1" hash="1729F6DDF80038000D6D1B164AA8F384" ts="2025-10-25T19:50:04">
- <decision date="2025-10-10" number="2а-6211/2025" org="Абаканский городской суд - Республика Хакасия"/>
- <url><![CDATA[https://boss-club.vip/]]></url>
- <domain><![CDATA[boss-club.vip]]></domain>
- <ip>192.124.249.13</ip>
-</content>
-<content id="8911202" includeTime="2025-10-25T19:50:04" entryType="1" hash="32527C778832C0147FED26E158029FCA" ts="2025-10-25T19:50:04">
- <decision date="2025-10-10" number="2а-6211/2025" org="Абаканский городской суд - Республика Хакасия"/>
- <url><![CDATA[https://boss-club.vip/katalog/]]></url>
- <domain><![CDATA[boss-club.vip]]></domain>
- <ip>192.124.249.13</ip>
-</content>
-<content id="8911203" includeTime="2025-10-25T19:50:04" entryType="1" hash="B234605C5993EC4FA2DAE8041C57732E" ts="2025-10-25T19:50:04">
- <decision date="2025-10-10" number="2а-6211/2025" org="Абаканский городской суд - Республика Хакасия"/>
- <url><![CDATA[https://boss-club.vip/katalog/loya/]]></url>
- <domain><![CDATA[boss-club.vip]]></domain>
- <ip>192.124.249.13</ip>
-</content>
-<content id="8911204" includeTime="2025-10-25T19:50:04" entryType="1" hash="E8EAB93F741D14202EFACBD69083684D" ts="2025-10-25T19:50:04">
- <decision date="2025-10-10" number="2а-6211/2025" org="Абаканский городской суд - Республика Хакасия"/>
- <url><![CDATA[https://boss-club.vip/katalog/antonina/]]></url>
- <domain><![CDATA[boss-club.vip]]></domain>
- <ip>192.124.249.13</ip>
-</content>
-<content id="8911205" includeTime="2025-10-25T19:50:04" entryType="1" hash="4C77EB5C93F53646C8983784AE192EB6" ts="2025-10-25T19:50:04">
- <decision date="2025-10-10" number="2а-6211/2025" org="Абаканский городской суд - Республика Хакасия"/>
- <url><![CDATA[https://myboss.agency/]]></url>
- <domain><![CDATA[myboss.agency]]></domain>
- <ip>104.21.61.14</ip>
- <ip>172.67.204.222</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:ccde</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:3d0e</ipv6>
-</content>
-<content id="8911206" includeTime="2025-10-25T19:50:04" entryType="1" hash="763ADFDCCD58D24C6E44A5BF39A7181C" ts="2025-10-25T19:50:04">
- <decision date="2025-10-10" number="2а-6211/2025" org="Абаканский городской суд - Республика Хакасия"/>
- <url><![CDATA[https://myboss.agency/catalog]]></url>
- <domain><![CDATA[myboss.agency]]></domain>
- <ip>104.21.61.14</ip>
- <ip>172.67.204.222</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:ccde</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:3d0e</ipv6>
 </content>
 <content id="8911207" includeTime="2025-10-23T23:45:03" entryType="1" hash="C823543990F0D189496BC5E6BEDF1A0F" ts="2025-10-23T23:45:03">
  <decision date="2025-10-10" number="2а-6211/2025" org="Абаканский городской суд - Республика Хакасия"/>
@@ -4893,12 +4835,6 @@
  <domain><![CDATA[serialperfectmask.site]]></domain>
  <ip>194.26.232.17</ip>
 </content>
-<content id="8912647" includeTime="2025-10-23T16:40:04" entryType="2" hash="DA584AB1728087E8D2E907B03A277ACA" ts="2025-10-23T16:40:04">
- <decision date="2025-08-13" number="определение о предварительном обеспечении по заявлению № 2И-11856/2025" org="Мосгорсуд"/>
- <url><![CDATA[https://serialsfan.site/416-bistro-la-favorita-12-sezon.html]]></url>
- <domain><![CDATA[serialsfan.site]]></domain>
- <ip>194.26.232.17</ip>
-</content>
 <content id="8912648" includeTime="2025-10-23T16:40:04" entryType="2" hash="36AC881AF87CF90D24701464C06897BA" ts="2025-10-23T16:40:04">
  <decision date="2025-02-27" number="определение о предварительном обеспечении по заявлению № 2И-2963/2025" org="Мосгорсуд"/>
  <url><![CDATA[https://agw.gu-lordfilm.ru/17131-sorvat-bank-2-igra-po-krupnomu-2025.html]]></url>
@@ -4987,13 +4923,15 @@
  <domain><![CDATA[lqrdflimrani.ru]]></domain>
  <ip>91.211.251.229</ip>
 </content>
-<content id="8912663" includeTime="2025-10-23T16:40:04" entryType="2" hash="6516DA6BDC81D0C7FA8134047AE0A8F2" ts="2025-10-24T16:00:05">
+<content id="8912663" includeTime="2025-10-23T16:40:04" entryType="2" hash="DE0BF9880983CBDF489F4E4A2E3EF2E5" ts="2025-10-27T19:15:03">
  <decision date="2025-03-25" number="определение о предварительном обеспечении по заявлению № 2И-4894/2025" org="Мосгорсуд"/>
  <url><![CDATA[https://filmy.hdonlinetop.fun/films/18842-loznopolozitelnyi-2021-hd-online.html]]></url>
  <url><![CDATA[https://filmy.hdonlinetop.fun/films/22164-vecnaia-doc-2022-hd-online.html]]></url>
+ <url><![CDATA[https://filmy.hdonlinetop.fun/films/24979-tvari-bozi-2022-hd-online.html]]></url>
  <url><![CDATA[https://filmy.hdonlinetop.fun/serials/28907-v-pustyne-smerti-2015-hd-online.html]]></url>
  <url><![CDATA[https://filmy.hdonlinetop.fun/serials/29903-viktoriia-2016-hd-online.html]]></url>
  <url><![CDATA[https://filmy.hdonlinetop.fun/serials/30052-normalnye-liudi-2020-hd-online.html]]></url>
+ <url><![CDATA[https://filmy.hdonlinetop.fun/serials/31553-spasti-feit-2017-hd-online.html]]></url>
  <url><![CDATA[https://filmy.hdonlinetop.fun/serials/4070-zakliatye-podrugi-2024-hd-online.html]]></url>
  <domain><![CDATA[filmy.hdonlinetop.fun]]></domain>
  <ip>212.162.155.230</ip>
@@ -5042,10 +4980,11 @@
  <ip>78.40.116.145</ip>
  <ipv6>2a0b:4140:6e57:0000:0000:0000:0000:7470</ipv6>
 </content>
-<content id="8912670" includeTime="2025-10-23T16:40:04" entryType="2" hash="0E3970FAB15B37B981EC2D191C00A56F" ts="2025-10-23T16:40:04">
+<content id="8912670" includeTime="2025-10-23T16:40:04" entryType="2" hash="2840B38DEF81EDF4AD75E279E53EDBFA" ts="2025-10-27T19:15:03">
  <decision date="2025-04-02" number="определение о предварительном обеспечении по заявлению № 2И-5295/2025" org="Мосгорсуд"/>
  <url><![CDATA[https://kinosmeta.online/18714/dublinskie-ubijstva-2019/]]></url>
  <url><![CDATA[https://kinosmeta.online/27261/absoljutno-vse-v-porjadke-2023/]]></url>
+ <url><![CDATA[https://kinosmeta.online/44694/nevernaja-1-sezon/]]></url>
  <domain><![CDATA[kinosmeta.online]]></domain>
  <ip>37.1.203.98</ip>
 </content>
@@ -5704,9 +5643,10 @@
  <domain><![CDATA[kinogalo.online]]></domain>
  <ip>37.1.203.98</ip>
 </content>
-<content id="8912773" includeTime="2025-10-23T16:40:04" entryType="2" hash="7F495F678A3E8C312C972DB1C0D24CCB" ts="2025-10-23T16:40:04">
+<content id="8912773" includeTime="2025-10-23T16:40:04" entryType="2" hash="84136538B382BA21B842191B9621C6FD" ts="2025-10-27T19:15:03">
  <decision date="2025-03-25" number="определение о предварительном обеспечении по заявлению № 2И-4894/2025" org="Мосгорсуд"/>
  <url><![CDATA[https://avgust-smotret.ru/3222/opus/]]></url>
+ <url><![CDATA[https://avgust-smotret.ru/664/spasti-fjejt-2017/]]></url>
  <domain><![CDATA[avgust-smotret.ru]]></domain>
  <ip>37.1.203.98</ip>
 </content>
@@ -7598,12 +7538,28 @@
  <domain><![CDATA[lordfilminstant.lat]]></domain>
  <ip>185.244.218.174</ip>
 </content>
-<content id="8912971" includeTime="2025-10-23T16:40:04" entryType="2" hash="C27EBBDCD15CFB529AB3ECBD722ACE33" ts="2025-10-23T16:40:04">
+<content id="8912971" includeTime="2025-10-23T16:40:04" entryType="2" hash="7096C1E68238DF84E53AA91AD7D3F59C" ts="2025-10-27T19:15:03">
  <decision date="2025-05-27" number="определение о предварительном обеспечении по заявлению № 2И-7886/2025" org="Мосгорсуд"/>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1001027/smeshannye-edinoborstva-mma-ufc-fight-night-242-berns-vs-bredi-prelims-amp-main-card-07.09-2024-hdtvrip-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1002031/smeshannye-edinoborstva-mma-ufc-306-noche-ufc-o-malley-vs-dvalishvili-full-event-14.09-2024-hdtvrip-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1004169/smeshannye-edinoborstva-mma-ufc-fight-night-243-mojkano-vs-sen-deni-full-event-28.09-2024-hdtvrip-720r]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1005215/smeshannye-edinoborstva-mma-ufc-307-pereira-vs-rountree-prelims-amp-main-card-05.10-2024-hdtvrip-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1006295/smeshannye-edinoborstva-mma-ufc-fight-night-244-royval-vs-taira-full-event-12.10-2024-hdtvrip-720r]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1006351/smeshannye-edinoborstva-mma-ufc-fight-night-244-royval-vs-taira-full-event-12.10-2024-hdtv-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1007297/smeshannye-edinoborstva-mma-ufc-fight-night-245-pereira-vs-hernandez-full-event-19.10-2024-hdtvrip-720r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1008204/smeshannye-edinoborstva-mma-ufc-308-topurija-vs-hollovej-full-event-26.10-2024-webrip-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1008205/smeshannye-edinoborstva-mma-ufc-308-ufc-308-topurija-vs-hollovej-prelims-amp-main-card-26.10-2024-iptv-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1008206/smeshannye-edinoborstva-mma-ufc-308-topurija-vs-hollovej-full-event-26.10-2024-hdtvrip-720r-50fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1008207/smeshannye-edinoborstva-mma-ufc-308-topurija-vs-hollovej-full-event-26.10-2024-webrip]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1009255/smeshannye-edinoborstva-mma-ufc-fight-night-246-moreno-albazi-prelims-amp-main-card-02.11-2024-hdtvrip-720r-50fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1009316/smeshannye-edinoborstva-mma-ufc-fight-night-246-moreno-albazi-full-event-02.11-2024-webrip]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1010467/smeshannye-edinoborstva-mma-ufc-fight-night-247-magni-vs-prates-full-event-09.11-2024-hdtvrip-720r-50fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1011473/smeshannye-edinoborstva-mma-ufc-309-dzhons-vs-miochich-full-event-16.11-2024-hdtvrip-720r-50fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1011477/smeshannye-edinoborstva-mma-ufc-309-dzhons-vs-miochich-full-event-16.11-2024-webrip-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1011498/smeshannye-edinoborstva-mma-ufc-309-dzhons-vs-miochich-full-event-16.11-2024-webrip]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1012553/smeshannye-edinoborstva-mma-ufc-fight-night-248-jan-vs-figeredo-full-event-23.11-2024-hdtvrip-720r-50fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1014580/smeshannye-edinoborstva-mma-ufc-310-pantozha-vs-asakura-full-event-07.12-2024-webrip-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1014581/smeshannye-edinoborstva-mma-ufc-310-pantozha-vs-asakura-full-event-07.12-2024-hdtvrip-720r-50fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1019450/smeshannye-edinoborstva-mma-ufc-fight-night-249-dern-vs-ribas-2-prelims-amp-amp-main-card-11.01-2025-webrip-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1020511/smeshannye-edinoborstva-mma-ufc-311-mahachev-vs-mojkano-full-event-18.01-2025-hdtvrip-720r-50fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/1020527/smeshannye-edinoborstva-mma-ufc-fight-night-311-press-konferencija-posle-ufc-311-mahachev-vs-mojkano-18.01-2025-webrip-1080r]]></url>
@@ -7650,6 +7606,7 @@
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/865364/smeshannye-edinoborstva-ufc-272-covington-vs-masvidal-full-event-06.03-2022-web-dlrip]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/866328/smeshannye-edinoborstva-mma-ufc-fight-night-203-santos-vs-ankalaev-full-event-12.03-2022-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/867194/ufc-fight-night-204-volkov-vs-aspinall-prelims-19.03-2022-web-dl-1080p]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/867204/smeshannye-edinoborstva-ufc-fight-night-204-volkov-vs-aspinall-full-event-19.03-2022-web-dlrip]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/869936/smeshannye-edinoborstva-ufc-273-volkanovski-vs-the-korean-zombie-full-event-10.04-2022-web-dlrip]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/869990/smeshannye-edinoborstva-mma-ufc-273-volkanovski-vs-the-korean-zombie-main-card-10.04-2022-iptvrip-720p]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/870700/smeshannye-edinoborstva-mma-ufc-277-mckee-vs-pitbull-main-card-15.04-2022-iptvrip-720p]]></url>
@@ -7671,6 +7628,7 @@
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/879967/smeshannye-edinoborstva-mma-ufc-276-adesanya-vs-cannonier-main-card-02.07-2022-iptvrip-720p]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/880005/smeshannye-edinoborstva-mma-ufc-276-adesanya-vs-cannonier-ves-kard-02.07-2022-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/880608/smeshannye-edinoborstva-mma-ufc-on-espn-39-dos-anjos-vs-fiziev-main-card-09.07-2022-iptv-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/880622/smeshannye-edinoborstva-mma-ufc-on-espn-39-dos-anos-vs-fiziev-full-card-09.07-2022-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/881203/smeshannye-edinoborstva-ufc-on-abc-3-ortega-vs-rodriguez-full-event-16.07-2022-web-dlrip]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/881234/smeshannye-edinoborstva-mma-ufc-on-abc-3-ortega-vs-rodriges-main-card-16.07-2022-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/881844/smeshannye-edinoborstva-ufc-fight-night-208-blaydes-vs-aspinall-full-event-23.07-2022-web-dlrip]]></url>
@@ -7680,30 +7638,40 @@
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/885175/smeshannye-edinoborstva-ufc-278-usman-vs-edwards-2-early-prelims-20.08-2022-web-dl-1080p]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/885187/smeshannye-edinoborstva-ufc-278-usman-vs-edwards-2-full-event-20.08-2022-web-dlrip]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/885271/smeshannye-edinoborstva-mma-ufc-278-usman-vs-edwards-2-full-event-20.08-2022-iptvrip-720r]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/886795/smeshannye-edinoborstva-ufc-fight-night-209-gane-vs-tuivasa-full-event-03.09-2022-web-dl-1080p]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/886813/smeshannye-edinoborstva-ufc-fight-night-209-gane-vs-tuivasa-full-event-03.09-2022-web-dlrip]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/887776/smeshannye-edinoborstva-ufc-279-diaz-vs-ferguson-full-event-10.09-2022-web-dlrip]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/890604/smeshannye-edinoborstva-mma-ufc-fight-night-211-dern-vs-xiaonan-full-event-01.10-2022-iptvrip-720r]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/890606/smeshannye-edinoborstva-mma-ufc-fight-night-211-dern-vs-xiaonan-main-card-01.10-2022-iptvrip-720r]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/892741/smeshannye-edinoborstva-mma-ufc-fight-night-212-grasso-vs-araujo-full-event-15.10-2022-hdtv-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/893180/smeshannye-edinoborstva-ufc-280-oliveira-vs-makhachev-full-event-22.10-2022-web-dl-1080p]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/893187/smeshannye-edinoborstva-mma-ufc-280-oliveira-vs-makhachev-prelims-amp-main-card-22.10-2022-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/893193/smeshannye-edinoborstva-ufc-280-oliveira-vs-makhachev-full-event-22.10-2022-web-dlrip]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/894136/smeshannye-edinoborstva-ufc-fight-night-213-kattar-vs-allen-full-event-29.10-2022-web-dl-1080p]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/896208/smeshannye-edinoborstva-mma-ufc-281-adesanya-vs-pereira-main-card-12.11-2022-iptv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/896210/smeshannye-edinoborstva-ufc-281-adesanya-vs-pereira-full-event-12.11-2022-web-dlrip]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/897234/smeshannye-edinoborstva-mma-ufc-fight-night-lewis-vs-spivak-main-card-19.11-2022-iptvrip-720r]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/899426/smeshannye-edinoborstva-mma-ufc-on-espn-42-tompson-vs-holland-full-event-03.12-2022-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/901637/smeshannye-edinoborstva-mma-ufc-fight-night-216-dzhared-kannone-shon-striklend-prelims-amp-main-card-18.12-2022-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/906400/smeshannye-edinoborstva-mma-ufc-fight-night-283-tejshejra-vs-hill-ves-kard-21.01-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/908581/smeshannye-edinoborstva-mma-ufc-fight-night-218-ljuis-vs-spivak-prelimy-04.02-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/908865/smeshannye-edinoborstva-mma-ufc-fight-night-218-ljuis-vs-spivak-main-card-04.02-2023-iptvrip-1080r]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/909756/smeshannye-edinoborstva-mma-ufc-284-mahachev-volkanovski-full-event-11.02-2023-hdtv-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/910813/smeshannye-edinoborstva-ufc-219-andrade-vs-blanchfield-main-card-18.02-2023-iptv-720r]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/910865/smeshannye-edinoborstva-ufc-219-andrade-vs-blanchfield-ves-kard-18.02-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/910884/smeshannye-edinoborstva-ufc-219-andrade-vs-blanchfield-ves-kard-18.02-2023-webrip]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/911963/smeshannye-edinoborstva-ufc-fight-night-220-andre-munis-brendan-allen-full-event-25.02-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/913075/smeshannye-edinoborstva-ufc-285-dzhon-dzhons-siril-gan-full-event-04.03-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/914346/smeshannye-edinoborstva-ufc-fight-night-221-petr-jan-merab-dvalishvili-full-event-11.03-2023-hdtvrip-720r]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/915502/smeshannye-edinoborstva-ufc-286-edwards-vs-usman-3-full-event-18.03-2023-hdtvrip-720r]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/916670/smeshannye-edinoborstva-ufc-fight-night-vera-sandhagen-full-event-25.03-2023-hdtvrip-720r]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/918955/smeshannye-edinoborstva-ufc-287-pereira-vs-adesanya-2-full-event-08.04-2023-hdtvrip-720r]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/918958/smeshannye-edinoborstva-ufc-287-pereira-vs-adesanya-2-full-event-08.04-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/920036/smeshannye-edinoborstva-ufc-on-espn-44-hollovej-vs-allen-full-event-15.04-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/920037/smeshannye-edinoborstva-ufc-on-espn-44-hollovej-vs-allen-full-event-15.04-2023-hdtvrip-720p-50fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/921229/smeshannye-edinoborstva-ufc-fight-night-222-pavlovich-vs-blejds-full-event-22.04-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/922315/smeshannye-edinoborstva-ufc-fight-night-223-song-vs-simon-full-event-29.04-2023-hdtv-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/923449/smeshannye-edinoborstva-ufc-288-sterling-vs-sehudo-full-event-06.05-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/924393/smeshannye-edinoborstva-ufc-on-abc-4-rozenstrajk-vs-almejda-full-event-13.05-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/925616/smeshannye-edinoborstva-ufc-fight-night-224-dern-vs-hill-full-event-20.05-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/927740/smeshannye-edinoborstva-ufc-on-espn-46-kara-france-vs-albazi-full-event-03.06-2023-hdtv-1080i]]></url>
@@ -7716,25 +7684,53 @@
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/933162/smeshannye-edinoborstva-ufc-290-volkanovski-vs-rodriguez-full-event-08.07-2023-iptv-720p-50fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/934227/smeshannye-edinoborstva-ufc-on-espn-49-holm-silva-full-event-15.07-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/935136/smeshannye-edinoborstva-ufc-fight-night-224-aspinall-vs-tybura-full-event-22.07-2023-hdtv-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/936016/smeshannye-edinoborstva-ufc-291-pore-gejdzhi-2-full-event-29.07-2023-iptv-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/936912/smeshannye-edinoborstva-mma-ufc-on-espn-50-sendhagen-vs-font-main-card-05.08-2023-iptv-1080r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/936913/smeshannye-edinoborstva-mma-ufc-on-espn-50-sendhagen-vs-font-main-card-05.08-2023-iptv-1080r]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/936942/smeshannye-edinoborstva-mma-ufc-on-espn-50-sendhagen-vs-font-full-event-05.08-2023-iptv-720r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/938041/smeshannye-edinoborstva-mma-ufc-on-espn-51-luque-vs-dos-anjos-full-event-12.08-2023-iptv-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/939007/smeshannye-edinoborstva-mma-ufc-292-sterling-o-melli-prelims-amp-main-card-19.08-2023-iptv-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/939175/smeshannye-edinoborstva-mma-ufc-292-sterling-o-melli-prelims-amp-main-card-19.08-2023-hdtv-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/940225/smeshannye-edinoborstva-mma-ufc-fight-night-holloway-vs-the-korean-zombie-main-card-26.08-2023-iptv-1080r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/941438/smeshannye-edinoborstva-mma-ufc-fight-night-226-gane-vs-spivac-full-event-02.09-2023-iptvrip-720r]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/942514/smeshannye-edinoborstva-mma-ufc-293-adesanya-vs-strickland-full-event-09.09-2023-iptvrip-720r]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/943692/smeshannye-edinoborstva-mma-ufc-fight-night-227-grasso-vs-shevchenko-2-full-event-16.09-2023-hdtv-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/944807/smeshannye-edinoborstva-mma-ufc-fight-night-228-fiziev-vs-gamrot-full-event-23.09-2023-hdtv-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/944808/smeshannye-edinoborstva-mma-ufc-fight-night-228-fiziev-vs-gamrot-main-card-23.09-2023-iptv-1080r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/947227/smeshannye-edinoborstva-mma-ufc-fight-night-229-dawson-vs-green-full-event-07.10-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/947228/smeshannye-edinoborstva-mma-ufc-fight-night-229-dawson-vs-green-full-event-07.10-2023-hdtv-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/948655/smeshannye-edinoborstva-mma-ufc-fight-night-230-jusuff-vs-barboza-full-event-14.10-2023-hdtv-1080i-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/952181/smeshannye-edinoborstva-mma-ufc-fight-night-231-almeida-vs-lewis-full-event-04.11-2023-webrip-1080i-webrip-1080p]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/953383/smeshannye-edinoborstva-mma-ufc-295-prohazka-vs-perejra-full-event-11.11-2023-webrip-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/953419/smeshannye-edinoborstva-mma-ufc-295-prohazka-vs-perejra-full-event-11.11-2023-hdtvrip-720r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/954444/smeshannye-edinoborstva-mma-ufc-fight-night-232-allen-vs-krejg-18.11-2023-hdtvrip-720r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/956782/smeshannye-edinoborstva-mma-ufc-on-espn-52-dariush-vs-tsarukyan-full-event-02.12-2023-hdtvrip-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/956786/smeshannye-edinoborstva-mma-ufc-on-espn-52-dariush-vs-tsarukyan-full-event-02.12-2023-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/958025/smeshannye-edinoborstva-mma-ufc-fight-night-233-song-vs-gutierrez-09.12-2023-hdtvrip-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/959189/smeshannye-edinoborstva-mma-ufc-296-edvards-vs-kovington-full-event-16.12-2023-webrip-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/965270/smeshannye-edinoborstva-mma-ufc-297-striklend-vs-dju-plessi-full-event-20.01-2024-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/965273/smeshannye-edinoborstva-mma-ufc-297-striklend-vs-dju-plessi-full-event-20.01-2024-hdtvrip-720r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/968989/smeshannye-edinoborstva-mma-ufc-fight-night-236-hermansson-vs-pyfer-prelims-amp-main-card-10.02-2024-hdtvrip-720r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/969023/smeshannye-edinoborstva-mma-ufc-fight-night-236-hermansson-vs-pajfer-full-event-10.02-2024-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/970111/smeshannye-edinoborstva-mma-ufc-298-volkanovski-vs-topuria-full-event-17.02-2024-hdtvrip-720r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/971355/smeshannye-edinoborstva-mma-ufc-fight-night-237-moreno-vs-royval-2-prelims-amp-main-card-24.02-2024-hdtvrip-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/972622/smeshannye-edinoborstva-mma-ufc-fight-night-238-rozenstrajk-vs-gaziev-full-event-02.03-2024-hdtv-1080i]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/972640/smeshannye-edinoborstva-mma-ufc-fight-night-238-rozenstrajk-vs-gaziev-full-event-02.03-2024-hdtvrip-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/973705/smeshannye-edinoborstva-mma-ufc-299-o-malley-vs-vera-2-full-event-09.03-2024-hdtvrip-720r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/977103/smeshannye-edinoborstva-mma-ufc-on-espn-54-blanchfield-vs-fiorot-full-event-30.03-2024-hdtvrip-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/979616/smeshannye-edinoborstva-mma-ufc-300-pereira-vs-hill-full-event-13.04-2024-hdtvrip-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/981818/smeshannye-edinoborstva-mma-ufc-on-espn-55-nicolau-vs-perez-full-event-27.04-2024-hdtvrip-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/982996/smeshannye-edinoborstva-mma-ufc-301-pantoja-vs-erceg-full-prelims-amp-main-card-05.05-2024-hdtvrip-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/984133/smeshannye-edinoborstva-mma-ufc-on-espn-56-ljuis-vs-nasimento-ves-kard-11.05-2024-hdtv-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/985290/smeshannye-edinoborstva-mma-ufc-fight-night-241-barboza-vs-merfi-ves-kard-18.05-2024-hdtv-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/987205/smeshannye-edinoborstva-mma-ufc-302-makhachev-vs-poirier-full-event-01.06-2024-hdtvrip-720r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/989182/smeshannye-edinoborstva-mma-ufc-on-espn-58-perez-vs-taira-prelims-amp-main-card-15.06-2024-hdtvrip-720r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/990172/smeshannye-edinoborstva-mma-ufc-on-abc-6-whittaker-vs-aliskerov-full-event-22.06-2024-hdtvrip-720r-50-fps]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/991189/smeshannye-edinoborstva-mma-ufc-303-perejra-vs-prohazka-2-prelims-29.06-2024-hdtv-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/991211/smeshannye-edinoborstva-mma-ufc-303-perejra-vs-prohazka-2-full-event-29.06-2024-hdtvrip-720r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/993949/smeshannye-edinoborstva-mma-ufc-on-espn-60-lemus-vs-zhandiroba-prelims-amp-amp-main-card-20.07-2024-hdtvrip-720r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/994766/smeshannye-edinoborstva-mma-ufc-304-edvards-vs-muhammad-2-full-event-27.07-2024-hdtv-1080i]]></url>
+ <url><![CDATA[https://asugfdo.0123tt.ru/torrent/997965/smeshannye-edinoborstva-mma-ufc-305-du-plessis-vs-adesanya-full-event-18.08-2024-hdtvrip-720r-50-fps]]></url>
  <url><![CDATA[https://asugfdo.0123tt.ru/torrent/998000/smeshannye-edinoborstva-mma-ufc-305-du-plessis-vs-adesanya-full-event-18.08-2024-webrip]]></url>
  <domain><![CDATA[asugfdo.0123tt.ru]]></domain>
  <ip>104.21.47.122</ip>
@@ -9827,6 +9823,33 @@
  <domain><![CDATA[video.lordfilm-2025.online]]></domain>
  <ip>91.84.101.76</ip>
 </content>
+<content id="8913339" includeTime="2025-10-27T18:00:05" entryType="1" hash="DC552C723550A6912DDECE7719E40E71" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-21" number="191708" org="Роспотребнадзор"/>
+ <url><![CDATA[https://disco80.net/3158-lsp-monetka-speed-up.html]]></url>
+ <domain><![CDATA[disco80.net]]></domain>
+ <ip>104.21.93.190</ip>
+ <ip>172.67.214.4</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5dbe</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:d604</ipv6>
+</content>
+<content id="8913343" includeTime="2025-10-27T18:00:05" entryType="1" hash="91AF9AAA13294EBFD5056B905FC5ECB2" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-21" number="191699" org="Роспотребнадзор"/>
+ <url><![CDATA[https://mp3zvuki.net/audio/26559]]></url>
+ <domain><![CDATA[mp3zvuki.net]]></domain>
+ <ip>104.21.33.177</ip>
+ <ip>172.67.147.172</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:93ac</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:21b1</ipv6>
+</content>
+<content id="8913344" includeTime="2025-10-27T18:00:05" entryType="1" hash="A6B521F48FA923BE8BAC6754FCDE236B" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-21" number="191696" org="Роспотребнадзор"/>
+ <url><![CDATA[https://mp3zvuki.net/audio/26559%2Chttps%3A//kztop.net/svezhie-pesni/7514-lsp-monetka.html]]></url>
+ <domain><![CDATA[mp3zvuki.net]]></domain>
+ <ip>104.21.33.177</ip>
+ <ip>172.67.147.172</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:93ac</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:21b1</ipv6>
+</content>
 <content id="8913428" includeTime="2025-10-23T23:45:03" entryType="1" hash="11781C3D80ACB7C1EEE0B9564B284973" blockType="domain-mask" ts="2025-10-23T23:45:03">
  <decision date="2025-08-26" number="2-6-14/2025-08-25-3743-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.klubniks-gala.top]]></domain>
@@ -11427,6 +11450,11 @@
  <domain><![CDATA[*.vavada3137.com]]></domain>
  <ip>45.10.243.5</ip>
 </content>
+<content id="8914006" includeTime="2025-10-27T18:00:05" entryType="1" hash="CC965D4B16368CEE15F7067ACC8F422A" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-20-6341-ВН" org="Росмолодежь"/>
+ <domain><![CDATA[n4.azotmania.ru]]></domain>
+ <ip>104.28.7.67</ip>
+</content>
 <content id="8914007" includeTime="2025-10-23T23:45:03" entryType="1" hash="C55FD3DD7B2658F151422357BC332435" blockType="domain-mask" ts="2025-10-23T23:45:03">
  <decision date="2025-10-21" number="2-6-14/2025-10-21-397-АИ" org="ФНС"/>
  <domain><![CDATA[*.slottbet-ecj.top]]></domain>
@@ -11434,6 +11462,29 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8914016" includeTime="2025-10-27T18:00:05" entryType="1" hash="547DFA6B00E6DC3BE2E9DB3FB45E8868" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-06-26" number="2025-06-20-5863-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[browsec-ru.net]]></domain>
+ <ip>95.111.205.157</ip>
+</content>
+<content id="8914017" includeTime="2025-10-27T18:00:05" entryType="1" hash="7ADD3DD8A8018149F33E412B1BEFB767" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-04-23" number="2025-04-01-5106-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[add-vpn.com]]></domain>
+ <ip>104.21.8.124</ip>
+ <ip>172.67.157.88</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:9d58</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:087c</ipv6>
+</content>
+<content id="8914018" includeTime="2025-10-27T18:00:05" entryType="1" hash="91101CDDA1A586561D24CC8F28B58109" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-04-24" number="2025-04-22-7105-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[blancvpn.cc]]></domain>
+ <ip>103.50.32.133</ip>
+</content>
+<content id="8914019" includeTime="2025-10-27T18:00:05" entryType="1" hash="998F7CD2B2A1F454809D9745AF87C68D" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-06-06" number="2025-03-08-1501-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[papervpn.company]]></domain>
+ <ip>217.70.184.55</ip>
 </content>
 <content id="8914023" includeTime="2025-10-23T23:45:03" entryType="1" hash="3125D3A29B22CCED098466C3A9389168" blockType="domain-mask" ts="2025-10-23T23:45:03">
  <decision date="2025-10-21" number="2-6-14/2025-10-21-410-АИ" org="ФНС"/>
@@ -11623,6 +11674,16 @@
  <domain><![CDATA[tur-internet.ru]]></domain>
  <ip>104.21.40.206</ip>
  <ip>172.67.188.95</ip>
+</content>
+<content id="8914061" includeTime="2025-10-27T18:00:05" entryType="1" hash="18D45A585B3214B30679061F3A90F121" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-16" number="2а-488/2025" org="Батыревский районный суд - Чувашская  Республика - Чувашия"/>
+ <domain><![CDATA[q27.snusgo.ru]]></domain>
+ <ip>104.24.25.58</ip>
+</content>
+<content id="8914068" includeTime="2025-10-27T18:00:05" entryType="1" hash="B6681487E73504125210F1456A6B4DEA" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-13" number="2а-2835/2025" org="Железнодорожный районный суд г. Барнаула - Алтайский край"/>
+ <domain><![CDATA[barnaul.simkisgood.com]]></domain>
+ <ip>185.244.219.95</ip>
 </content>
 <content id="8914069" includeTime="2025-10-23T23:45:03" entryType="1" hash="0BAF6FA6A5154FA942ED4AC457E52CB3" blockType="domain-mask" ts="2025-10-23T23:45:03">
  <decision date="2025-10-21" number="2-6-14/2025-10-21-566-АИ" org="ФНС"/>
@@ -11906,12 +11967,6 @@
  <ip>193.23.16.57</ip>
  <ipv6>2a0f:5680:0001:0007:0000:0000:0000:0138</ipv6>
 </content>
-<content id="8914137" includeTime="2025-10-25T19:50:04" entryType="1" hash="3A682BD1CDAB4A2B28615BBC155E050C" ts="2025-10-25T19:50:04">
- <decision date="2025-03-25" number="181246" org="Роскомнадзор, на основании ранее вынесенного решения (Роспотребнадзор)"/>
- <url><![CDATA[https://rus.mp3xa.me/track/442313-zemfira-povesica-live.html]]></url>
- <domain><![CDATA[rus.mp3xa.me]]></domain>
- <ip>62.212.81.24</ip>
-</content>
 <content id="8914171" includeTime="2025-10-23T23:45:03" entryType="1" hash="FBC970EEC9AFA4B5736F650D5964705E" blockType="domain-mask" ts="2025-10-23T23:45:03">
  <decision date="2025-10-21" number="2-6-14/2025-10-21-2203-АИ" org="ФНС"/>
  <domain><![CDATA[*.unlimcasino-qplk.top]]></domain>
@@ -11976,12 +12031,6 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:26a7</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8907</ipv6>
 </content>
-<content id="8914185" includeTime="2025-10-25T19:50:04" entryType="1" hash="DA26841D358C9297EB5048B679DEF446" ts="2025-10-25T19:50:04">
- <decision date="2025-03-25" number="181246" org="Роскомнадзор, на основании ранее вынесенного решения (Роспотребнадзор)"/>
- <url><![CDATA[https://tabakk.com/tabs/zemfira/povesitsya-13510.html]]></url>
- <domain><![CDATA[tabakk.com]]></domain>
- <ip>185.104.248.144</ip>
-</content>
 <content id="8914186" includeTime="2025-10-23T23:45:03" entryType="1" hash="7AF5354146857548D715087A5F8D749C" blockType="domain-mask" ts="2025-10-23T23:45:03">
  <decision date="2025-10-21" number="2-6-14/2025-10-21-2279-АИ" org="ФНС"/>
  <domain><![CDATA[*.unlimcasino-gwqz.top]]></domain>
@@ -12023,12 +12072,6 @@
  <decision date="2025-10-21" number="2-6-14/2025-10-21-2324-АИ" org="ФНС"/>
  <domain><![CDATA[*.1xslots-aws1.top]]></domain>
  <ip>80.78.26.205</ip>
-</content>
-<content id="8914207" includeTime="2025-10-25T19:50:04" entryType="1" hash="94D4B3B4F27C0E42640EB61162C3E57B" ts="2025-10-25T19:50:04">
- <decision date="2025-03-25" number="181246" org="Роскомнадзор, на основании ранее вынесенного решения (Роспотребнадзор)"/>
- <url><![CDATA[https://akkrods.ru/zemfira-povesitsa]]></url>
- <domain><![CDATA[akkrods.ru]]></domain>
- <ip>5.63.158.160</ip>
 </content>
 <content id="8914208" includeTime="2025-10-23T23:45:03" entryType="1" hash="A25E782B9CDF53C8CBFF6084891DEA30" blockType="domain-mask" ts="2025-10-23T23:45:03">
  <decision date="2025-10-21" number="2-6-14/2025-10-21-2326-АИ" org="ФНС"/>
@@ -12257,12 +12300,6 @@
  <ip>172.67.144.64</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1c32</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9040</ipv6>
-</content>
-<content id="8914275" includeTime="2025-10-25T19:50:04" entryType="1" hash="B2EFB42569A8261BDE9183CE18EBC66E" ts="2025-10-25T19:50:04">
- <decision date="2025-03-25" number="181246" org="Роскомнадзор, на основании ранее вынесенного решения (Роспотребнадзор)"/>
- <url><![CDATA[https://boonex.ru/texts/472168.php]]></url>
- <domain><![CDATA[boonex.ru]]></domain>
- <ip>195.161.41.242</ip>
 </content>
 <content id="8914277" includeTime="2025-10-23T23:45:03" entryType="1" hash="B3B33655C4C20EEDFE15C46BAB9B14A8" blockType="domain-mask" ts="2025-10-23T23:45:03">
  <decision date="2025-10-21" number="2-6-14/2025-10-21-245-АИ" org="ФНС"/>
@@ -13106,6 +13143,24 @@
  <domain><![CDATA[*.1widpl.life]]></domain>
  <ip>188.114.97.1</ip>
 </content>
+<content id="8914493" includeTime="2025-10-27T18:00:05" entryType="1" hash="0C4498E858F4105E3AAF4C63BCA64682" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[lite-vpn2025.vercel.app]]></domain>
+ <ip>216.198.79.3</ip>
+ <ip>216.198.79.67</ip>
+ <ip>64.29.17.3</ip>
+ <ip>64.29.17.67</ip>
+</content>
+<content id="8914497" includeTime="2025-10-27T18:00:05" entryType="1" hash="9AF0D3BE301F65F11DF088F10D2C8C94" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-04-23" number="2025-04-01-5106-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[onix-vpn.ru]]></domain>
+ <ip>185.162.94.97</ip>
+</content>
+<content id="8914498" includeTime="2025-10-27T18:00:05" entryType="1" hash="CBE57A7D2B39F88C915FA5FE4483A978" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[vpntv.lol]]></domain>
+ <ip>103.246.146.199</ip>
+</content>
 <content id="8914499" includeTime="2025-10-23T23:45:03" entryType="1" hash="1F8A926D749B94F2B782D8C90F2E07BE" blockType="domain-mask" ts="2025-10-23T23:45:03">
  <decision date="2025-10-21" number="2-6-14/2025-10-20-7510-АИ" org="ФНС"/>
  <domain><![CDATA[*.1widhf.life]]></domain>
@@ -13233,10 +13288,10 @@
  <domain><![CDATA[*.pro-glushitel.ru]]></domain>
  <ip>193.105.134.30</ip>
 </content>
-<content id="8914521" includeTime="2025-10-24T16:00:05" entryType="1" hash="D99CAEB64ED8671FDED8A64F5449D58D" blockType="domain-mask" ts="2025-10-24T16:00:05">
+<content id="8914521" includeTime="2025-10-24T16:00:05" entryType="1" hash="A5D2E7E25A7960B18A06D8C92830F6D4" blockType="domain-mask" ts="2025-10-27T12:30:05">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.kra40at-2.ru]]></domain>
- <ip>92.255.111.71</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="8914522" includeTime="2025-10-24T16:00:05" entryType="1" hash="764A1E1C842D88B3F76E6F2B9664F0AB" blockType="domain-mask" ts="2025-10-24T16:00:05">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -13292,6 +13347,12 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8914532" includeTime="2025-10-27T18:00:05" entryType="1" hash="333070F77F2DC1A4CE514A0F5783EA33" ts="2025-10-27T18:00:05">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://kra-86.site/?ref=kra42.cc&shop2go=/]]></url>
+ <domain><![CDATA[kra-86.site]]></domain>
+ <ip>193.105.134.36</ip>
 </content>
 <content id="8914533" includeTime="2025-10-24T16:00:05" entryType="1" hash="7D72B427707904D6A061190050CEEDA8" blockType="domain-mask" ts="2025-10-24T16:00:05">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -13353,6 +13414,35 @@
  <domain><![CDATA[*.kra40at-1.ru]]></domain>
  <ip>92.255.111.71</ip>
 </content>
+<content id="8914545" includeTime="2025-10-27T18:00:05" entryType="1" hash="CF5B360FAF7146C9DE719375D53E4809" ts="2025-10-27T18:00:05">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://emglobalgroup.com/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D1%84%D0%BE%D1%80%D1%83%D0%BC-2025-%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C/]]></url>
+ <domain><![CDATA[emglobalgroup.com]]></domain>
+ <ip>170.39.77.82</ip>
+</content>
+<content id="8914546" includeTime="2025-10-27T18:00:05" entryType="1" hash="3DB7B196E28700FA264F9E1A0BB66CCF" ts="2025-10-27T18:00:05">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://emglobalgroup.com/%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B2%D1%85%D0%BE%D0%B4%D0%B0-%D0%B2-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-2025/]]></url>
+ <domain><![CDATA[emglobalgroup.com]]></domain>
+ <ip>170.39.77.82</ip>
+</content>
+<content id="8914547" includeTime="2025-10-27T18:00:05" entryType="1" hash="AE7F16091AA04A979D44923D3AC6C5FA" ts="2025-10-27T18:00:05">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://emglobalgroup.com/kraken-%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-%D0%B8-%D0%B7%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%B0-%D0%B2-2025-%D0%B3%D0%BE%D0%B4%D1%83/]]></url>
+ <domain><![CDATA[emglobalgroup.com]]></domain>
+ <ip>170.39.77.82</ip>
+</content>
+<content id="8914548" includeTime="2025-10-27T18:00:05" entryType="1" hash="51394281A586C36B40B25276607BDCA7" ts="2025-10-27T18:00:05">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://emglobalgroup.com/new-kraken-%D0%B2%D1%81%D0%B5-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-2024-2025-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D1%85-%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA/]]></url>
+ <domain><![CDATA[emglobalgroup.com]]></domain>
+ <ip>170.39.77.82</ip>
+</content>
+<content id="8914550" includeTime="2025-10-27T18:00:05" entryType="1" hash="6B8EA4A153F8F4F64C950F5959AF6F0B" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[www.drbriffa.com]]></domain>
+ <ip>109.169.83.2</ip>
+</content>
 <content id="8914551" includeTime="2025-10-24T16:00:05" entryType="1" hash="62EC722D57822AFE25B5D850E5D35B33" blockType="domain-mask" ts="2025-10-24T16:00:05">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.kr81.cc]]></domain>
@@ -13360,6 +13450,15 @@
  <ip>172.67.204.111</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:cc6f</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:5562</ipv6>
+</content>
+<content id="8914552" includeTime="2025-10-27T18:00:05" entryType="1" hash="BDF1C8C5827D6DBDE575A79506D78FFE" ts="2025-10-27T18:00:05">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://www1.mega555netl.com/login.html]]></url>
+ <domain><![CDATA[www1.mega555netl.com]]></domain>
+ <ip>104.21.19.197</ip>
+ <ip>172.67.188.151</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:13c5</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:bc97</ipv6>
 </content>
 <content id="8914554" includeTime="2025-10-24T16:00:05" entryType="1" hash="C20CE6A6D0CDDF39DD364024D481DDC8" blockType="domain-mask" ts="2025-10-24T16:00:05">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -13590,6 +13689,15 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:2599</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d24f</ipv6>
 </content>
+<content id="8914587" includeTime="2025-10-27T18:00:05" entryType="1" hash="DDE79B3BA45B2A5B72384C2CE2AE1F9C" ts="2025-10-27T18:00:05">
+ <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://www.aina-russia.ru/donetsk.html]]></url>
+ <domain><![CDATA[www.aina-russia.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="8914588" includeTime="2025-10-24T16:00:05" entryType="1" hash="788353FE65CD376423847C6CA2421C6A" blockType="domain-mask" ts="2025-10-24T16:00:05">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.rovenkijp.ru]]></domain>
@@ -13682,6 +13790,176 @@
  <ip>51.75.64.157</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:a02f</ipv6>
 </content>
+<content id="8914602" includeTime="2025-10-27T18:00:05" entryType="1" hash="3CBB3EE4386D1D15C5082A0421FFFC31" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-3128-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://shop.vipgeneric.ru/product/levitra-zhewitra-40mg/]]></url>
+ <domain><![CDATA[shop.vipgeneric.ru]]></domain>
+ <ip>91.84.108.180</ip>
+</content>
+<content id="8914603" includeTime="2025-10-27T18:00:05" entryType="1" hash="074CD960DB31EEB80CEAB8074EE1C43F" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-3076-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://shop.vipgeneric.ru/product/levitra-zhewitra-20mg/]]></url>
+ <domain><![CDATA[shop.vipgeneric.ru]]></domain>
+ <ip>91.84.108.180</ip>
+</content>
+<content id="8914604" includeTime="2025-10-27T18:00:05" entryType="1" hash="9CAF46543699DCA18DEE83F2E0AA31D5" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-3002-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://shop.vipgeneric.ru/product/dapoksetin-poxet-60mg/]]></url>
+ <domain><![CDATA[shop.vipgeneric.ru]]></domain>
+ <ip>91.84.108.180</ip>
+</content>
+<content id="8914613" includeTime="2025-10-27T18:00:05" entryType="1" hash="C9D28C1D682327CF4574AD6D81169A09" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-795-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://shop.vipgeneric.ru/product/viagra-soft-kamagra-jelly-100mg/]]></url>
+ <domain><![CDATA[shop.vipgeneric.ru]]></domain>
+ <ip>91.84.108.180</ip>
+</content>
+<content id="8914614" includeTime="2025-10-27T18:00:05" entryType="1" hash="4985BCCB117411DC484FB42ACD8AF080" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-792-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://shop.vipgeneric.ru/product/sialis-tadacip-20mg/]]></url>
+ <domain><![CDATA[shop.vipgeneric.ru]]></domain>
+ <ip>91.84.108.180</ip>
+</content>
+<content id="8914615" includeTime="2025-10-27T18:00:05" entryType="1" hash="AB2F5D9BBFA3808B9962F5C388E64352" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-788-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://shop.vipgeneric.ru/product/levitra-soft-snovitra-20mg/]]></url>
+ <domain><![CDATA[shop.vipgeneric.ru]]></domain>
+ <ip>91.84.108.180</ip>
+</content>
+<content id="8914616" includeTime="2025-10-27T18:00:05" entryType="1" hash="4DF622DFA8E290A769CD6D95D22B8608" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-20-4713-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://lpv.thepharm24.space/katalog/cabaser-kabazer-2-mg-20-tabletok/]]></url>
+ <domain><![CDATA[lpv.thepharm24.space]]></domain>
+ <ip>92.205.171.217</ip>
+</content>
+<content id="8914617" includeTime="2025-10-27T18:00:05" entryType="1" hash="FB7FF98A8125092AFD12068CB45A4846" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-20-3607-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[go62.indiasofosbuvir.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+</content>
+<content id="8914618" includeTime="2025-10-27T18:00:05" entryType="1" hash="0EFF63EC859F315C16FD64BDED0E63D7" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-4873-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://t.animal-farma.net/product-category/zhiroszhigateli/tiroksin-t3/]]></url>
+ <domain><![CDATA[t.animal-farma.net]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="8914619" includeTime="2025-10-27T18:00:05" entryType="1" hash="E57112B30CEF3BF46B0A76336CA9C7EE" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-4841-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://t.animal-farma.net/product-category/poslekursovaya-terapiya-posle-priyoma-steroidov-pkt/antiestrogeny/]]></url>
+ <domain><![CDATA[t.animal-farma.net]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="8914620" includeTime="2025-10-27T18:00:05" entryType="1" hash="2BC9DB4E198D1CEEBAD73993F55FE039" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-4827-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://t.animal-farma.net/product-category/poslekursovaya-terapiya-posle-priyoma-steroidov-pkt/gonadotropin/]]></url>
+ <domain><![CDATA[t.animal-farma.net]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="8914621" includeTime="2025-10-27T18:00:05" entryType="1" hash="7371BA8A66593137FB2173D139A78084" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-4800-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://t.animal-farma.net/product-category/poslekursovaya-terapiya-posle-priyoma-steroidov-pkt/viagra/]]></url>
+ <domain><![CDATA[t.animal-farma.net]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="8914622" includeTime="2025-10-27T18:00:05" entryType="1" hash="A567A9811AAFFF99C977C492AF5B53AC" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-4789-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://t.animal-farma.net/product-category/poslekursovaya-terapiya-posle-priyoma-steroidov-pkt/sialis-tadalafil/]]></url>
+ <domain><![CDATA[t.animal-farma.net]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="8914623" includeTime="2025-10-27T18:00:05" entryType="1" hash="82DC203C41E5D9483F4BA8EF60CE04B5" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-4777-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://t.animal-farma.net/product-category/oralnye-steroidy/turinabol/]]></url>
+ <domain><![CDATA[t.animal-farma.net]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="8914624" includeTime="2025-10-27T18:00:05" entryType="1" hash="E3774854174FBBFDBF88E83260DFFD34" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-4769-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://t.animal-farma.net/product-category/oralnye-steroidy/klenbuterol/]]></url>
+ <domain><![CDATA[t.animal-farma.net]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="8914625" includeTime="2025-10-27T18:00:05" entryType="1" hash="2422E8FFB505BAD14AE3AE5C7D810178" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-4764-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://t.animal-farma.net/product-category/inekczionnye-steroidy/metan-inekczionnyj/]]></url>
+ <domain><![CDATA[t.animal-farma.net]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="8914626" includeTime="2025-10-27T18:00:05" entryType="1" hash="587EACE42C778413D115812102A8E2F2" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-21-4758-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://t.animal-farma.net/product-category/inekczionnye-steroidy/sustanon/]]></url>
+ <domain><![CDATA[t.animal-farma.net]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="8914637" includeTime="2025-10-27T18:00:05" entryType="1" hash="170CBEA8908B67CDBA5638EB2B2AAA6B" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-09-11-555-ПЛ" org="Росздравнадзор"/>
+ <domain><![CDATA[rilutek-buy.ru]]></domain>
+ <ip>45.130.41.22</ip>
+</content>
+<content id="8914650" includeTime="2025-10-27T18:00:05" entryType="1" hash="6E92FDC028CA15D834F245AAB3B13EBC" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-22-1187-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://shop.vipgeneric.ru/product/sialis-vidalista-40mg/]]></url>
+ <domain><![CDATA[shop.vipgeneric.ru]]></domain>
+ <ip>91.84.108.180</ip>
+</content>
+<content id="8914651" includeTime="2025-10-27T18:00:05" entryType="1" hash="D210938E9FB86C90937CA550D33B9F2D" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-22-1177-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://shop.vipgeneric.ru/product/sialis-vidalista-20mg/]]></url>
+ <domain><![CDATA[shop.vipgeneric.ru]]></domain>
+ <ip>91.84.108.180</ip>
+</content>
+<content id="8914652" includeTime="2025-10-27T18:00:05" entryType="1" hash="1652362D7CE1829F80F9C840FD61F456" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-22-1169-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://shop.vipgeneric.ru/product/viagra-jekstra-cenforce-200mg/]]></url>
+ <domain><![CDATA[shop.vipgeneric.ru]]></domain>
+ <ip>91.84.108.180</ip>
+</content>
+<content id="8914653" includeTime="2025-10-27T18:00:05" entryType="1" hash="549B39A15A5D9D42FF36A78DE724AC1A" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-22-1163-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://shop.vipgeneric.ru/product/viagra-soft-cenforce-ct-100mg/]]></url>
+ <domain><![CDATA[shop.vipgeneric.ru]]></domain>
+ <ip>91.84.108.180</ip>
+</content>
+<content id="8914654" includeTime="2025-10-27T18:00:05" entryType="1" hash="7F66B658EBCB3E7C904D16720D1B6C0E" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-22-1156-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://shop.vipgeneric.ru/product/viagra-cenforce-100mg/]]></url>
+ <domain><![CDATA[shop.vipgeneric.ru]]></domain>
+ <ip>91.84.108.180</ip>
+</content>
+<content id="8914655" includeTime="2025-10-27T18:00:05" entryType="1" hash="A815DAB4DAEC4BE43DB21D566643A9E5" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-22-1148-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://shop.vipgeneric.ru/product/viagra-sialis/]]></url>
+ <domain><![CDATA[shop.vipgeneric.ru]]></domain>
+ <ip>91.84.108.180</ip>
+</content>
 <content id="8914665" includeTime="2025-10-24T16:00:05" entryType="1" hash="2F6E578CA46CC4840B080502A8A42B40" blockType="domain" ts="2025-10-24T16:00:05">
  <decision date="2025-10-22" number="2025-10-07-1695-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[evromedica24.com]]></domain>
@@ -13700,6 +13978,24 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c1cd</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:548c</ipv6>
 </content>
+<content id="8914692" includeTime="2025-10-27T18:00:05" entryType="1" hash="A69C68946206D9898131D7FD6206C253" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-15-3096-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <url><![CDATA[https://q1.alcoraketa1-247-omsk.ru/product-category/dostavka-vodki-v-omske/]]></url>
+ <domain><![CDATA[q1.alcoraketa1-247-omsk.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8914694" includeTime="2025-10-27T18:00:05" entryType="1" hash="382CA0EAAD7636EE8899BDF93FCB268C" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-15-3105-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <url><![CDATA[https://q1.alcoraketa1-247-omsk.ru/product-category/dostavka-konyaka-v-omske/]]></url>
+ <domain><![CDATA[q1.alcoraketa1-247-omsk.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="8914695" includeTime="2025-10-24T16:00:05" entryType="1" hash="29E3C59954539BE17012E5C88EBFF8EE" blockType="domain" ts="2025-10-24T16:00:05">
  <decision date="2025-10-23" number="2025-10-22-1769-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[www.sur56gyt.ru]]></domain>
@@ -13709,11 +14005,6 @@
  <decision date="2025-10-23" number="2025-10-22-1741-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[www.magnitaire.ru]]></domain>
  <ip>87.120.93.61</ip>
-</content>
-<content id="8914697" includeTime="2025-10-24T16:00:05" entryType="1" hash="BCD5F289DF250B550493CB037EF306E3" blockType="domain" ts="2025-10-24T16:00:05">
- <decision date="2025-10-23" number="2025-10-22-1634-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[alcosbarsochi.orgs.biz]]></domain>
- <ip>216.173.68.205</ip>
 </content>
 <content id="8914698" includeTime="2025-10-24T16:00:05" entryType="1" hash="0DFF182B0192B8E1C885D117DBF461B0" blockType="domain" ts="2025-10-24T16:00:05">
  <decision date="2025-10-22" number="2025-10-21-2714-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
@@ -13725,11 +14016,33 @@
  <domain><![CDATA[www.tolevo91life.ru]]></domain>
  <ip>87.120.93.61</ip>
 </content>
-<content id="8914715" includeTime="2025-10-25T19:50:04" entryType="1" hash="2AA7707393625C9A7CF4C31D23175923" blockType="domain" ts="2025-10-25T19:50:04">
+<content id="8914701" includeTime="2025-10-27T18:00:05" entryType="1" hash="BA80F839CF70462321474E81FDB8E044" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-15-3131-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <url><![CDATA[https://q1.alcoraketa1-247-omsk.ru/product-category/dostavka-shampanskogo-v-omske/]]></url>
+ <domain><![CDATA[q1.alcoraketa1-247-omsk.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8914702" includeTime="2025-10-27T18:00:05" entryType="1" hash="1AA35A27B9463AE0E47B7D25DF4B3D79" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-15-3149-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <url><![CDATA[https://q1.alcoraketa1-247-omsk.ru/product-category/dostavka-vermuta-v-omske/]]></url>
+ <domain><![CDATA[q1.alcoraketa1-247-omsk.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8914704" includeTime="2025-10-27T18:00:05" entryType="1" hash="1C677806E3D58B7136C8DD4BD09EFEBC" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-22" number="2025-10-20-6178-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[www.medalco.site]]></domain>
+ <ip>185.237.218.94</ip>
+</content>
+<content id="8914715" includeTime="2025-10-25T19:50:04" entryType="1" hash="3E3263206ED5364B07283255A474F3D5" blockType="domain" ts="2025-10-27T15:35:04">
  <decision date="2025-10-23" number="2025-10-22-1126-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[пример.барнадом.рф]]></domain>
- <ip>141.8.193.221</ip>
- <ipv6>2a0a:2b42:0000:004e:0000:0000:0000:0000</ipv6>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="8914716" includeTime="2025-10-24T16:00:05" entryType="1" hash="9C5C9889E26B6945BC7196A2736F93A5" blockType="domain" ts="2025-10-24T16:00:05">
  <decision date="2025-10-23" number="2025-10-22-1251-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
@@ -13751,11 +14064,6 @@
  <domain><![CDATA[alko-delivery.ru]]></domain>
  <ip>5.45.82.70</ip>
 </content>
-<content id="8914732" includeTime="2025-10-25T19:50:04" entryType="1" hash="1C6E6818D2FB11E0D097E22CBEF15552" blockType="domain" ts="2025-10-25T19:50:04">
- <decision date="2025-10-23" number="2025-10-20-652-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[podolsk-dostavka24.shop]]></domain>
- <ip>87.120.126.81</ip>
-</content>
 <content id="8914733" includeTime="2025-10-25T19:50:04" entryType="1" hash="6024C4F0968140C25AFB8FCFFA79207F" blockType="domain-mask" ts="2025-10-25T19:50:04">
  <decision date="2025-10-23" number="2025-10-14-3686-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[*.alca74.ru]]></domain>
@@ -13765,6 +14073,16 @@
  <decision date="2025-10-23" number="2025-10-20-3632-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[*.1-himzakaz.org]]></domain>
  <ip>179.43.157.94</ip>
+</content>
+<content id="8914735" includeTime="2025-10-27T18:00:05" entryType="1" hash="871F58F9810ED18899842841E2391A3D" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="2025-10-22-1621-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[q3.100gramm2-247-voronezh.ru]]></domain>
+ <ip>45.130.41.161</ip>
+</content>
+<content id="8914736" includeTime="2025-10-27T18:00:05" entryType="1" hash="3D106B1680E6D0FF11EADBDDCEE32E3E" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="2025-10-22-1502-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[q3.rusalco-24-7-kurgan.online]]></domain>
+ <ip>87.236.16.177</ip>
 </content>
 <content id="8914740" includeTime="2025-10-25T19:50:04" entryType="1" hash="D9F52F42D8291C3F1F00DF5F89A70645" blockType="domain" ts="2025-10-25T19:50:04">
  <decision date="2025-10-23" number="2025-10-15-2790-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
@@ -13805,6 +14123,12 @@
  <decision date="2025-10-23" number="2025-10-15-4325-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[*.alcorush247kursk.online]]></domain>
  <ip>144.76.230.46</ip>
+</content>
+<content id="8914759" includeTime="2025-10-27T18:00:05" entryType="1" hash="220D734F8E748EB5A2799EF73DD97098" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="2025-10-15-5591-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <url><![CDATA[http://forex-i-ya.ru/?p=1564]]></url>
+ <domain><![CDATA[forex-i-ya.ru]]></domain>
+ <ip>195.201.179.80</ip>
 </content>
 <content id="8914760" includeTime="2025-10-25T19:50:04" entryType="1" hash="4D020781A20CFBAE7F8837E1F6A98B23" blockType="domain-mask" ts="2025-10-25T19:50:04">
  <decision date="2025-10-23" number="2025-10-16-887-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
@@ -13870,6 +14194,21 @@
  <decision date="2025-10-23" number="2025-10-21-2806-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[cocktailbarspb-24.ru]]></domain>
  <ip>185.190.250.118</ip>
+</content>
+<content id="8914770" includeTime="2025-10-27T18:00:05" entryType="1" hash="5243A08C4CF080D1D869FA5891B675E1" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="2025-10-22-1288-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[www.effectkalinin.ru]]></domain>
+ <ip>87.120.93.61</ip>
+</content>
+<content id="8914771" includeTime="2025-10-27T18:00:05" entryType="1" hash="A8F1A0F7F2CC8F1FFC23C66F83A70C08" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="2025-10-22-1512-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[www.saratune33vibe.ru]]></domain>
+ <ip>87.120.93.61</ip>
+</content>
+<content id="8914772" includeTime="2025-10-27T18:00:05" entryType="1" hash="92C4AFE4690EF0D9FEE3A18FB70EE693" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="2025-10-22-1526-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[www.penzarion84global.ru]]></domain>
+ <ip>87.120.93.61</ip>
 </content>
 <content id="8914773" includeTime="2025-10-25T19:50:04" entryType="1" hash="5A5C63AEC787A9531B30002EE6CB253A" blockType="domain" ts="2025-10-25T19:50:04">
  <decision date="2025-10-23" number="2025-10-22-1581-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
@@ -13947,10 +14286,89 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="8914787" includeTime="2025-10-27T18:00:05" entryType="1" hash="EE55C2DAA8EED0A8E3A0E2E9E9FE4C3D" blockType="domain-mask" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432936-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.sex-studentki.beer]]></domain>
+ <ip>190.2.153.212</ip>
+</content>
+<content id="8914797" includeTime="2025-10-27T18:00:05" entryType="1" hash="AD92690DFF69916E86D8218C343E6F2D" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432946-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[vampire-project.org]]></domain>
+ <ip>104.21.69.48</ip>
+ <ip>172.67.204.89</ip>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:4530</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:cc59</ipv6>
+</content>
 <content id="8914798" includeTime="2025-10-24T16:00:05" entryType="1" hash="0873B28C5F56F181663F97E00B8100C7" blockType="domain" ts="2025-10-24T16:00:05">
  <decision date="2025-10-23" number="3432947-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[a.zo-sex.xyz]]></domain>
  <ip>77.220.213.124</ip>
+</content>
+<content id="8914800" includeTime="2025-10-27T18:00:05" entryType="1" hash="088687EF8D024F1F23D25D1E9D37339D" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432949-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://ru.xn--d1aihcfio7a7di.top/watch-show/3618994~%D0%AD%D0%B9%D1%84%D0%BE%D1%80%D0%B8%D1%8F~25-25-10]]></url>
+ <domain><![CDATA[ru.xn--d1aihcfio7a7di.top]]></domain>
+ <ip>45.93.9.157</ip>
+ <ipv6>2a0b:4140:6e57:0000:0000:0000:0000:8830</ipv6>
+</content>
+<content id="8914801" includeTime="2025-10-27T18:00:05" entryType="1" hash="21A9D7049DCC401F9A4EF5E62712A205" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432950-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://copro-porno3.top/playlist/гей/]]></url>
+ <domain><![CDATA[copro-porno3.top]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="8914804" includeTime="2025-10-27T18:00:05" entryType="1" hash="ED03626F98DAAC7216F0A0449917C75D" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432953-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://gomosek5.top/playlist/копро/]]></url>
+ <domain><![CDATA[gomosek5.top]]></domain>
+ <ip>104.21.33.129</ip>
+ <ip>172.67.145.48</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:2181</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:9130</ipv6>
+</content>
+<content id="8914806" includeTime="2025-10-27T18:00:05" entryType="1" hash="82DE2B88BC0BEFBFA4D97528DEF32EAB" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432955-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://nl.private.com]]></url>
+ <domain><![CDATA[nl.private.com]]></domain>
+ <ip>104.26.8.157</ip>
+ <ip>104.26.9.157</ip>
+ <ip>172.67.75.47</ip>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="8914807" includeTime="2025-10-27T18:00:05" entryType="1" hash="63280947F04FA0F64B13610F8D24CDDF" blockType="domain-mask" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432956-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.private.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="8914808" includeTime="2025-10-27T18:00:05" entryType="1" hash="D48391F19ABB9B671D0B40402E1461EB" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432957-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sexygirl.cc]]></domain>
+ <ip>104.21.56.254</ip>
+ <ip>172.67.139.89</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:8b59</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:38fe</ipv6>
+</content>
+<content id="8914809" includeTime="2025-10-27T18:00:05" entryType="1" hash="D779A7EB40030BD99F5FD73C5AD36207" blockType="domain-mask" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432958-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.wankz.com]]></domain>
+ <ip>216.18.168.43</ip>
+</content>
+<content id="8914810" includeTime="2025-10-27T18:00:05" entryType="1" hash="B2E79CE9BEF350DB6DE69527DDD98168" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432959-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[chothuecanhohcm.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="8914811" includeTime="2025-10-24T16:00:05" entryType="1" hash="27EE4019DCA4671C547C4E2C8E5E178A" ts="2025-10-24T16:00:05">
  <decision date="2025-10-23" number="3432960-URL-on" org="Роскомнадзор"/>
@@ -13983,15 +14401,57 @@
  <domain><![CDATA[zbl.gayche2.xyz]]></domain>
  <ip>185.155.96.140</ip>
 </content>
+<content id="8914819" includeTime="2025-10-27T18:00:05" entryType="1" hash="F48245A4FDA8FF54A4190B9AEB5276FF" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432968-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://nu3.www-zagonkas.top/material/1708299~%D0%AD%D0%B9%D1%84%D0%BE%D1%80%D0%B8%D1%8F~f3-04-09]]></url>
+ <domain><![CDATA[nu3.www-zagonkas.top]]></domain>
+ <ip>45.93.9.192</ip>
+ <ipv6>2a0b:4140:6e57:0000:0000:0000:0000:4900</ipv6>
+</content>
 <content id="8914820" includeTime="2025-10-24T16:00:05" entryType="1" hash="CE125D040AD37C6909EE9F7F3203F179" blockType="domain" ts="2025-10-24T16:00:05">
  <decision date="2025-10-23" number="3432969-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[zbl.gaysmska4.xyz]]></domain>
  <ip>185.155.96.183</ip>
 </content>
+<content id="8914821" includeTime="2025-10-27T18:00:05" entryType="1" hash="C8AEDF94BBE83EA4CEAB50BE0F42B5E2" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432970-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://kinono.live/5658-jejforija-2019.html]]></url>
+ <domain><![CDATA[kinono.live]]></domain>
+ <ip>37.1.203.98</ip>
+</content>
 <content id="8914822" includeTime="2025-10-24T16:00:05" entryType="1" hash="723D5E1745681E3DCFA1B459073F80E9" blockType="domain" ts="2025-10-24T16:00:05">
  <decision date="2025-10-23" number="3432971-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[zbl.msgay6.xyz]]></domain>
  <ip>185.155.96.183</ip>
+</content>
+<content id="8914824" includeTime="2025-10-27T18:00:05" entryType="1" hash="9E861D1767A6E7B321BC50766FAD65CC" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432973-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://gomosek5.top/playlist/русская-озвучкой/]]></url>
+ <domain><![CDATA[gomosek5.top]]></domain>
+ <ip>104.21.33.129</ip>
+ <ip>172.67.145.48</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:2181</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:9130</ipv6>
+</content>
+<content id="8914825" includeTime="2025-10-27T18:00:05" entryType="1" hash="BBCA353FF3C61B3F8552D2AE030AEC73" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432974-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://porno-trans3.top/category/gei]]></url>
+ <domain><![CDATA[porno-trans3.top]]></domain>
+ <ip>31.184.242.9</ip>
+</content>
+<content id="8914826" includeTime="2025-10-27T18:00:05" entryType="1" hash="9289EF90DE932E3FA7FB4E02BD189F75" blockType="domain" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432975-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[m.porno365.catering]]></domain>
+ <ip>89.39.104.183</ip>
+</content>
+<content id="8914827" includeTime="2025-10-27T18:00:05" entryType="1" hash="8AF0DBCD9E2BC73E0342F337C683F4CD" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432976-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://gaygator5.top/category/young/5]]></url>
+ <domain><![CDATA[gaygator5.top]]></domain>
+ <ip>104.21.87.238</ip>
+ <ip>172.67.148.111</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:946f</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:57ee</ipv6>
 </content>
 <content id="8914828" includeTime="2025-10-24T16:00:05" entryType="1" hash="DE1101362AB3B7E3FEFB203E0E0B7CC0" ts="2025-10-24T16:00:05">
  <decision date="2025-10-23" number="3432977-URL-on" org="Роскомнадзор"/>
@@ -14004,11 +14464,26 @@
  <domain><![CDATA[zbl.kazgay2.xyz]]></domain>
  <ip>185.155.96.140</ip>
 </content>
+<content id="8914830" includeTime="2025-10-27T18:00:05" entryType="1" hash="B5B5B4E7F94D0DA7EB0FC792A2EE5CBA" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432979-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://gomosek5.top/playlist/порно-волосатый-актив/]]></url>
+ <domain><![CDATA[gomosek5.top]]></domain>
+ <ip>104.21.33.129</ip>
+ <ip>172.67.145.48</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:2181</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:9130</ipv6>
+</content>
 <content id="8914831" includeTime="2025-10-24T16:00:05" entryType="1" hash="E292A15665A7D5DC47A5DC9884CFE385" ts="2025-10-24T16:00:05">
  <decision date="2025-10-23" number="3432980-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://ru.pornsok.tv/lesbian]]></url>
  <domain><![CDATA[ru.pornsok.tv]]></domain>
  <ip>93.88.75.132</ip>
+</content>
+<content id="8914832" includeTime="2025-10-27T18:00:05" entryType="1" hash="B229DC2D3E14BA5471C543B6567A1495" ts="2025-10-27T18:00:05">
+ <decision date="2025-10-23" number="3432981-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://gaybaza6.top/video/tyuremnoe-gey-porno-novenkiy-ebet-duplo-sokamernika/]]></url>
+ <domain><![CDATA[gaybaza6.top]]></domain>
+ <ip>31.184.242.9</ip>
 </content>
 <content id="8914837" includeTime="2025-10-24T16:00:05" entryType="1" hash="5916FD1DF66B6C03AF94A0292D0A2FD0" blockType="domain" ts="2025-10-24T16:00:05">
  <decision date="2025-10-23" number="3432986-URL-on" org="Роскомнадзор"/>
