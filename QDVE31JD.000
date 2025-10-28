@@ -5319,9 +5319,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="3807960" includeTime="2021-11-25T14:26:35" entryType="1" hash="B84485A11B510EF3DCE0C4F187FCAA49" blockType="domain" ts="2021-11-25T14:26:35">
+<content id="3807960" includeTime="2021-11-25T14:26:35" entryType="1" hash="510F9321691AC2339FF7E4C97919A378" blockType="domain-mask" ts="2025-10-28T14:20:03">
  <decision date="2021-11-23" number="2021-11-21-435-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[galaxyrus24.ru]]></domain>
+ <domain><![CDATA[*.galaxyrus24.ru]]></domain>
  <ip>104.21.76.123</ip>
  <ip>172.67.194.53</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:c235</ipv6>

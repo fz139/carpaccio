@@ -15406,9 +15406,9 @@
  <ip>104.21.6.179</ip>
  <ip>172.67.135.23</ip>
 </content>
-<content id="7452645" includeTime="2024-09-25T14:40:03" entryType="1" hash="7E3949ACC35C7D03D0BF14A2989CFDDF" blockType="domain" ts="2024-09-25T14:40:03">
+<content id="7452645" includeTime="2024-09-25T14:40:03" entryType="1" hash="2DE104EC867CED66C1FBF67FF168B57E" blockType="domain-mask" ts="2025-10-28T14:20:03">
  <decision date="2024-09-23" number="2024-09-20-15542-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[vips-steroids.com]]></domain>
+ <domain><![CDATA[*.vips-steroids.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>

@@ -3689,9 +3689,9 @@
  <ip>185.170.164.133</ip>
  <ipv6>2a0f:5680:0000:0007:0000:0000:0000:012d</ipv6>
 </content>
-<content id="3643440" includeTime="2021-09-21T19:17:39" entryType="1" hash="1207AA940500C562348958E913EC5C87" blockType="domain" ts="2021-09-21T19:17:39">
+<content id="3643440" includeTime="2021-09-21T19:17:39" entryType="1" hash="4D4674855D757FA09B21B4F0281BA69F" blockType="domain-mask" ts="2025-10-28T14:20:03">
  <decision date="2021-09-17" number="2021-09-16-1253-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[gepanet-24-7.ru]]></domain>
+ <domain><![CDATA[*.gepanet-24-7.ru]]></domain>
  <ip>104.21.5.14</ip>
  <ip>172.67.132.186</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:84ba</ipv6>

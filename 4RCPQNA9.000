@@ -1417,9 +1417,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7427616" includeTime="2024-09-18T14:55:03" entryType="1" hash="19E086B2701C694BB6B4C3D554B95E3F" blockType="domain" ts="2024-09-18T14:55:03">
+<content id="7427616" includeTime="2024-09-18T14:55:03" entryType="1" hash="F0E7D9FB8C13A360FFB886BF551C1F45" blockType="domain-mask" ts="2025-10-28T14:20:03">
  <decision date="2024-09-16" number="2748092-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[nudemoon.lat]]></domain>
+ <domain><![CDATA[*.nudemoon.lat]]></domain>
  <ip>104.21.88.132</ip>
  <ip>172.67.179.178</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:5884</ipv6>
