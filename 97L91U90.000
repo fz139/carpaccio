@@ -1470,8 +1470,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:2c40</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c470</ipv6>
 </content>
-<content id="8023536" includeTime="2025-03-18T07:05:02" entryType="1" hash="6E8CDBB98065CB052D846F9D5543A052" blockType="domain" ts="2025-03-18T07:05:02">
+<content id="8023536" includeTime="2025-03-18T07:05:02" entryType="1" hash="22D441A013B7B92D338B5B365C54F13E" ts="2025-10-29T12:45:04">
  <decision date="2025-03-13" number="3040863-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://tgp.erito.com/]]></url>
  <domain><![CDATA[tgp.erito.com]]></domain>
  <ip>66.254.114.234</ip>
 </content>
@@ -2301,9 +2302,9 @@
  <domain><![CDATA[*.catcasino-avq.top]]></domain>
  <ip>45.10.243.9</ip>
 </content>
-<content id="8023873" includeTime="2025-03-18T07:05:02" entryType="1" hash="46FBFB13B9BBD7AA703EED425D7D3BB3" blockType="domain" ts="2025-03-18T07:05:02">
+<content id="8023873" includeTime="2025-03-18T07:05:02" entryType="1" hash="4F92A66B5D9F97B8D2707422BCA02B85" blockType="domain-mask" ts="2025-10-29T12:45:04">
  <decision date="2025-03-13" number="3040865-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[erito.com]]></domain>
+ <domain><![CDATA[*.erito.com]]></domain>
  <ip>66.254.114.234</ip>
 </content>
 <content id="8023874" includeTime="2025-03-14T00:05:01" entryType="1" hash="710A36A7268A91055AAEA4843CF7BA0C" blockType="domain-mask" ts="2025-03-14T00:05:01">
