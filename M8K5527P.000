@@ -7911,6 +7911,12 @@
  <ip>78.40.116.150</ip>
  <ipv6>2a0b:4140:6e57:0000:0000:0000:0000:1200</ipv6>
 </content>
+<content id="8682481" includeTime="2025-11-01T15:05:04" entryType="1" hash="792115C649EE25E9DBFB385CC1CF66D8" ts="2025-11-01T15:05:04">
+ <decision date="2025-08-26" number="3332364-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://d-giovanni.ru/?ysclid=mdtzyx6v90454000018]]></url>
+ <domain><![CDATA[d-giovanni.ru]]></domain>
+ <ip>104.18.47.121</ip>
+</content>
 <content id="8682483" includeTime="2025-08-29T07:30:03" entryType="1" hash="7C7F2AFD7055B79E4B0B9CB8ABE63141" blockType="domain-mask" ts="2025-08-29T07:30:03">
  <decision date="2025-08-26" number="3332366-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.anilist.ink]]></domain>
