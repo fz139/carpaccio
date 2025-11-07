@@ -1715,9 +1715,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8193916" includeTime="2025-04-25T13:45:04" entryType="1" hash="170E7F58A548813BDBF8FE91C5351ADE" blockType="domain" ts="2025-04-25T13:45:04">
+<content id="8193916" includeTime="2025-04-25T13:45:04" entryType="1" hash="1DD7AD1DB0F5425E593EEF3A02CA2128" blockType="domain-mask" ts="2025-11-07T22:45:04">
  <decision date="2025-04-23" number="3127726-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[singlelogin.re]]></domain>
+ <domain><![CDATA[*.singlelogin.re]]></domain>
  <ip>104.21.37.89</ip>
  <ip>172.67.206.154</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ce9a</ipv6>
