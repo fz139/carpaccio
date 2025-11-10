@@ -1072,10 +1072,20 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="9022062" includeTime="2025-11-10T11:20:05" entryType="1" hash="8A7006DF9EBE3B07D740EA9E44A86147" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2025-02-27" number="2а-1624/2025" org="Центральный районный суд г. Воронежа - Воронежская область"/>
+ <domain><![CDATA[msk.leopard-esc.online]]></domain>
+ <ip>176.123.5.19</ip>
+</content>
 <content id="9022063" includeTime="2025-11-08T00:05:04" entryType="1" hash="C9DD2598D78A4AB3BDF7809CB4848D66" blockType="domain-mask" ts="2025-11-08T00:05:04">
  <decision date="2025-06-17" number="2-6-14/2025-06-16-6697-АИ" org="ФНС"/>
  <domain><![CDATA[*.slottica.pe]]></domain>
  <ip>184.174.80.12</ip>
+</content>
+<content id="9022064" includeTime="2025-11-10T11:20:05" entryType="1" hash="D4FD355129F9EBC5F8003463D6F26D67" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2025-02-27" number="2а-1624/2025" org="Центральный районный суд г. Воронежа - Воронежская область"/>
+ <domain><![CDATA[msk.leopard-esc.online]]></domain>
+ <ip>176.123.5.19</ip>
 </content>
 <content id="9022066" includeTime="2025-11-08T00:05:04" entryType="1" hash="8757129FB5A8D488F558627EE9E57757" blockType="domain" ts="2025-11-08T00:05:04">
  <decision date="2025-06-27" number="2-6-14/2025-06-26-5184-АИ" org="ФНС"/>
@@ -1084,6 +1094,11 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9022067" includeTime="2025-11-10T11:20:05" entryType="1" hash="DC18A3A622753AB818165DA2D6E563D7" blockType="domain-mask" ts="2025-11-10T11:20:05">
+ <decision date="2025-02-27" number="2а-1624/2025" org="Центральный районный суд г. Воронежа - Воронежская область"/>
+ <domain><![CDATA[*.leopard-esc.online]]></domain>
+ <ip>176.123.5.19</ip>
 </content>
 <content id="9022068" includeTime="2025-11-08T00:05:04" entryType="1" hash="6A1E5DE6D0995CD141CE08E51ADB9988" blockType="domain" ts="2025-11-08T00:05:04">
  <decision date="2025-07-16" number="2-6-14/2025-07-16-2511-АИ" org="ФНС"/>
@@ -1303,6 +1318,266 @@
  <ip>172.67.202.176</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5aad</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:cab0</ipv6>
+</content>
+<content id="9022143" includeTime="2025-11-10T11:20:05" entryType="1" hash="F055BE1854A41A41D5F3C70C4B88366C" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[glazboga2025.online]]></domain>
+ <ip>185.199.108.153</ip>
+ <ip>185.199.109.153</ip>
+ <ip>185.199.110.153</ip>
+ <ip>185.199.111.153</ip>
+ <ipv6>2606:50c0:8000:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8001:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8002:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8003:0000:0000:0000:0000:0153</ipv6>
+</content>
+<content id="9022155" includeTime="2025-11-10T11:20:05" entryType="1" hash="3AD2941F55A5FABDA8FF528EE659B0AB" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[feya26-efk.com]]></domain>
+ <ip>192.124.249.162</ip>
+</content>
+<content id="9022156" includeTime="2025-11-10T11:20:05" entryType="1" hash="5D5A21910DADB56072CF82EB33EE1EA3" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[anc.feya26-efk.com]]></domain>
+ <ip>192.124.249.162</ip>
+</content>
+<content id="9022157" includeTime="2025-11-10T11:20:05" entryType="1" hash="FBD9A428B54EA53D8F51F8A82DEF269B" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[feyakrd-lle.com]]></domain>
+ <ip>192.124.249.189</ip>
+</content>
+<content id="9022158" includeTime="2025-11-10T11:20:05" entryType="1" hash="FE55AC65B8462A59DF83584C46F3778D" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[krdfeyas-dqg.com]]></domain>
+ <ip>192.124.249.38</ip>
+</content>
+<content id="9022159" includeTime="2025-11-10T11:20:05" entryType="1" hash="9851EA35C002169681C7E5398B56DCF2" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[feyakazani-wfm.com]]></domain>
+ <ip>192.124.249.132</ip>
+</content>
+<content id="9022160" includeTime="2025-11-10T11:20:05" entryType="1" hash="CBC2476010C97265F7AEB03316DB3E66" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[bai.feyakazani-wfm.com]]></domain>
+ <ip>192.124.249.132</ip>
+</content>
+<content id="9022161" includeTime="2025-11-10T11:20:05" entryType="1" hash="D860AC4B4D0F68750F651CC613F229C7" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[rlx.feyakryma-mfk.com]]></domain>
+ <ip>192.124.249.18</ip>
+</content>
+<content id="9022162" includeTime="2025-11-10T11:20:05" entryType="1" hash="649BDA20B62B408CC724707B86ECF644" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[feyakryma-mfk.com]]></domain>
+ <ip>192.124.249.18</ip>
+</content>
+<content id="9022163" includeTime="2025-11-10T11:20:05" entryType="1" hash="C78869D48A91A0E343FE0CF5307A5AE9" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[pag.adler-feya-wvt.com]]></domain>
+ <ip>192.124.249.27</ip>
+</content>
+<content id="9022164" includeTime="2025-11-10T11:20:05" entryType="1" hash="8BCF06556906857E344317A09A24A696" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[xpt.feyagelendzkik-oem.com]]></domain>
+ <ip>192.124.249.162</ip>
+</content>
+<content id="9022165" includeTime="2025-11-10T11:20:05" entryType="1" hash="C3A664811B4DA63DCB0741CC17412DE7" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[adler-feya-wvt.com]]></domain>
+ <ip>192.124.249.27</ip>
+</content>
+<content id="9022166" includeTime="2025-11-10T11:20:05" entryType="1" hash="1EFBD81FBD55A24530E5E14BAA2D9BBD" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[feyagelendzkik-oem.com]]></domain>
+ <ip>192.124.249.162</ip>
+</content>
+<content id="9022167" includeTime="2025-11-10T11:20:05" entryType="1" hash="17BC29321954795B50BBA955B09916A4" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[feyavolgogradzih.com]]></domain>
+ <ip>192.124.249.11</ip>
+</content>
+<content id="9022168" includeTime="2025-11-10T11:20:05" entryType="1" hash="8E6BAA41621CAB1DA7719909C943F02A" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[npr.feyavolgograd-kym.com]]></domain>
+ <ip>192.124.249.11</ip>
+</content>
+<content id="9022169" includeTime="2025-11-10T11:20:05" entryType="1" hash="04982BE8B6033600DAD3C2BEAEA09417" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-08-01" number="2а-1027/2023" org="Шилкинский районный суд - Забайкальский край"/>
+ <domain><![CDATA[prostitutkikrasnoyarskaclub.com]]></domain>
+ <ip>146.0.73.59</ip>
+</content>
+<content id="9022170" includeTime="2025-11-10T11:20:05" entryType="1" hash="9F2A08CC4F6634A82C7AE4C0D4267549" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-08-01" number="2а-1027/2023" org="Шилкинский районный суд - Забайкальский край"/>
+ <domain><![CDATA[prostitutkikrasnoyrska777.ru]]></domain>
+ <ip>46.17.96.39</ip>
+</content>
+<content id="9022171" includeTime="2025-11-10T11:20:05" entryType="1" hash="27595AC25C628AB4B6CB4325C748FAD9" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[feyaufa-kpq.com]]></domain>
+ <ip>192.124.249.154</ip>
+</content>
+<content id="9022172" includeTime="2025-11-10T11:20:05" entryType="1" hash="CB4A751D8659833043606FCFB2AA7EAB" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[axh.feyaufa-kpq.com]]></domain>
+ <ip>192.124.249.154</ip>
+</content>
+<content id="9022173" includeTime="2025-11-10T11:20:05" entryType="1" hash="DED6D05D07CC87289393E17DBFB37359" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-08-01" number="2а-1027/2023" org="Шилкинский районный суд - Забайкальский край"/>
+ <domain><![CDATA[ufa-intim.ru]]></domain>
+ <ip>46.17.96.37</ip>
+</content>
+<content id="9022174" includeTime="2025-11-10T11:20:05" entryType="1" hash="817B62CE6A46B7229EC47AF6C0B8E177" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-08-01" number="2а-1027/2023" org="Шилкинский районный суд - Забайкальский край"/>
+ <domain><![CDATA[www.individualki-ufa-foto.com]]></domain>
+ <ip>146.0.73.61</ip>
+</content>
+<content id="9022175" includeTime="2025-11-10T11:20:05" entryType="1" hash="59D590704FA4E181CC2A550D8A64AAFC" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[fki.krdfeyas-dqg.com]]></domain>
+ <ip>192.124.249.38</ip>
+</content>
+<content id="9022176" includeTime="2025-11-10T11:20:05" entryType="1" hash="1CA7FA80C592102830789A5AFF151673" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-08-01" number="2а-1027/2023" org="Шилкинский районный суд - Забайкальский край"/>
+ <domain><![CDATA[prostitutkivoronezharest.info]]></domain>
+ <ip>146.0.73.59</ip>
+</content>
+<content id="9022177" includeTime="2025-11-10T11:20:05" entryType="1" hash="67EF4ED6244FEBE4BF6E9B24474922F6" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[nfw.sochifeyas-wuu.com]]></domain>
+ <ip>192.124.249.25</ip>
+</content>
+<content id="9022178" includeTime="2025-11-10T11:20:05" entryType="1" hash="2484C490A0821CC595BCE283EEDE4701" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[sochifeyas-wuu.com]]></domain>
+ <ip>192.124.249.25</ip>
+</content>
+<content id="9022179" includeTime="2025-11-10T11:20:05" entryType="1" hash="B229D58BE7C5EE9D542DA52D0998DE5A" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2016-12-22" number="2-14075/2016" org="Кировский районный суд г. Уфы - Республика Башкортостан"/>
+ <domain><![CDATA[m.sibirki.dev]]></domain>
+ <ip>109.206.161.102</ip>
+</content>
+<content id="9022180" includeTime="2025-11-10T11:20:05" entryType="1" hash="2D4B7E9A19A893E6616C62EE1EE5327C" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-08-01" number="2а-1029/2023" org="Шилкинский районный суд - Забайкальский край"/>
+ <domain><![CDATA[sexonsk.now]]></domain>
+ <ip>134.122.55.89</ip>
+</content>
+<content id="9022181" includeTime="2025-11-10T11:20:05" entryType="1" hash="46CAC024F6FAB972C7CFCB66BD36D1C6" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2024-04-15" number="2а-852/2024" org="Октябрьский районный суд г. Иваново - Ивановская область"/>
+ <domain><![CDATA[sexxnsk.fun]]></domain>
+ <ip>134.122.55.89</ip>
+</content>
+<content id="9022182" includeTime="2025-11-10T11:20:05" entryType="1" hash="34EEC6C01FA6FBF1723EED757180259B" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2024-04-15" number="2а-852/2024" org="Октябрьский районный суд г. Иваново - Ивановская область"/>
+ <domain><![CDATA[sex0.sexxnsk.fun]]></domain>
+ <ip>134.122.55.89</ip>
+</content>
+<content id="9022183" includeTime="2025-11-10T11:20:05" entryType="1" hash="36846BE6251634497B1022F7DAD02E7F" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2024-04-15" number="2а-852/2024" org="Октябрьский районный суд г. Иваново - Ивановская область"/>
+ <domain><![CDATA[sexxxsev.me]]></domain>
+ <ip>188.166.113.202</ip>
+</content>
+<content id="9022184" includeTime="2025-11-10T11:20:05" entryType="1" hash="8ADF682CA3E24984A5F9071F985D9267" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2024-04-15" number="2а-852/2024" org="Октябрьский районный суд г. Иваново - Ивановская область"/>
+ <domain><![CDATA[sex0.sexxxsev.me]]></domain>
+ <ip>188.166.113.202</ip>
+</content>
+<content id="9022185" includeTime="2025-11-10T11:20:05" entryType="1" hash="3A4332CA9A164F3C148EEEEC9889B9D9" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2024-04-19" number="2а-842/2024" org="Октябрьский районный суд г. Иваново - Ивановская область"/>
+ <domain><![CDATA[prostitutkivoronezhanow.net]]></domain>
+ <ip>5.61.55.76</ip>
+</content>
+<content id="9022186" includeTime="2025-11-10T11:20:05" entryType="1" hash="9D88D2D6E93F6A1CAA0CD3396761B4B7" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2024-04-19" number="2а-842/2024" org="Октябрьский районный суд г. Иваново - Ивановская область"/>
+ <domain><![CDATA[sex1.prostitutkivoronezhanow.net]]></domain>
+ <ip>5.61.55.76</ip>
+</content>
+<content id="9022187" includeTime="2025-11-10T11:20:05" entryType="1" hash="51C12B8A586C22284B3E74A8F9416B7F" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2024-04-15" number="2а-852/2024" org="Октябрьский районный суд г. Иваново - Ивановская область"/>
+ <domain><![CDATA[sahalinsk-ij.info]]></domain>
+ <ip>46.102.106.151</ip>
+</content>
+<content id="9022188" includeTime="2025-11-10T11:20:05" entryType="1" hash="8522B77F74E2F840E5CB8D5DD494180D" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2024-04-15" number="2а-852/2024" org="Октябрьский районный суд г. Иваново - Ивановская область"/>
+ <domain><![CDATA[sex.sahalinsk-ij.info]]></domain>
+ <ip>46.102.106.151</ip>
+</content>
+<content id="9022189" includeTime="2025-11-10T11:20:05" entryType="1" hash="0F3A185B1B8AE5ED9D35F86937227FC0" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2016-12-22" number="2-14075/2016" org="Кировский районный суд г. Уфы - Республика Башкортостан"/>
+ <domain><![CDATA[sibirka.com]]></domain>
+ <ip>109.206.162.64</ip>
+</content>
+<content id="9022190" includeTime="2025-11-10T11:20:05" entryType="1" hash="824B822F4857B775814EE8EAD07E0F47" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2022-12-22" number="2а-843/2022" org="Хангаласский районный суд - Республика Саха (Якутия)"/>
+ <domain><![CDATA[sev-dd.net]]></domain>
+ <ip>5.61.55.116</ip>
+</content>
+<content id="9022191" includeTime="2025-11-10T11:20:05" entryType="1" hash="CAF8C923DC94CE558BE50E1EBD0E6811" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2022-12-22" number="2а-843/2022" org="Хангаласский районный суд - Республика Саха (Якутия)"/>
+ <domain><![CDATA[sex1.sev-dd.net]]></domain>
+ <ip>5.61.55.116</ip>
+</content>
+<content id="9022192" includeTime="2025-11-10T11:20:05" entryType="1" hash="74B9F1C4024F57D268C4A647D842F860" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-08-01" number="2а-1027/2023" org="Шилкинский районный суд - Забайкальский край"/>
+ <domain><![CDATA[prostitutkikrasnodara.online]]></domain>
+ <ip>15.197.240.20</ip>
+</content>
+<content id="9022193" includeTime="2025-11-10T11:20:05" entryType="1" hash="F56251264A655C98060FE84D74B94555" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
+ <domain><![CDATA[bka.feyakrd-lle.com]]></domain>
+ <ip>192.124.249.189</ip>
+</content>
+<content id="9022194" includeTime="2025-11-10T11:20:05" entryType="1" hash="D25A48567FEACA23D80908D522633792" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-02-14" number="2а-1208/2023" org="Ленинский районный суд г. Костромы - Костромская область"/>
+ <domain><![CDATA[cab.intimlife18.com]]></domain>
+ <ip>31.220.27.227</ip>
+</content>
+<content id="9022195" includeTime="2025-11-10T11:20:05" entryType="1" hash="616B615DA6DF81091AEE6FBD04DAC4B8" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2020-12-30" number="2а-2401/2020" org="Иглинский межрайонный суд - Республика Башкортостан"/>
+ <domain><![CDATA[pimp-36.org]]></domain>
+ <ip>151.243.132.26</ip>
+</content>
+<content id="9022196" includeTime="2025-11-10T11:20:05" entryType="1" hash="63CA80A546B37DA8095798205D595CC7" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2020-12-30" number="2а-2401/2020" org="Иглинский межрайонный суд - Республика Башкортостан"/>
+ <domain><![CDATA[girls.pimp-36.org]]></domain>
+ <ip>151.243.132.26</ip>
+</content>
+<content id="9022199" includeTime="2025-11-10T11:20:05" entryType="1" hash="9B4664339BD1A3230BB505CC22C2B0BF" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2020-12-30" number="2а-2401/2020" org="Иглинский межрайонный суд - Республика Башкортостан"/>
+ <domain><![CDATA[intimsimf.net]]></domain>
+ <ip>151.243.132.253</ip>
+</content>
+<content id="9022203" includeTime="2025-11-10T11:20:05" entryType="1" hash="55EE150FDF6153DB521A9DC94FE456C0" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2016-12-22" number="2-14075/2016" org="Кировский районный суд г. Уфы - Республика Башкортостан"/>
+ <domain><![CDATA[sibirki.dev]]></domain>
+ <ip>109.206.161.102</ip>
+</content>
+<content id="9022204" includeTime="2025-11-10T11:20:05" entryType="1" hash="9DBE86B763DA57FABB65B70B0BE48592" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-09-07" number="2а-1-758/2023" org="Людиновский районный суд - Калужская область"/>
+ <domain><![CDATA[ebar92.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9022205" includeTime="2025-11-10T11:20:05" entryType="1" hash="554155D3E65E48563E0FD463225EE07C" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-09-07" number="2а-1-758/2023" org="Людиновский районный суд - Калужская область"/>
+ <domain><![CDATA[m.dloop.top]]></domain>
+ <ip>185.178.208.148</ip>
+</content>
+<content id="9022206" includeTime="2025-11-10T11:20:05" entryType="1" hash="4EB1FB6343C24EDD0446B14E044D210F" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-08-01" number="2а-1027/2023" org="Шилкинский районный суд - Забайкальский край"/>
+ <domain><![CDATA[sochy.prostitutkibalashiha.info]]></domain>
+ <ip>46.17.96.36</ip>
+</content>
+<content id="9022207" includeTime="2025-11-10T11:20:05" entryType="1" hash="81C6D7E72C62DACC53FDF83D071B74A7" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-08-01" number="2а-1027/2023" org="Шилкинский районный суд - Забайкальский край"/>
+ <domain><![CDATA[prostitutkisochi24.org]]></domain>
+ <ip>146.0.73.61</ip>
+</content>
+<content id="9022208" includeTime="2025-11-10T11:20:05" entryType="1" hash="5BB30C1AF10654787092FFD08FE4750D" blockType="domain" ts="2025-11-10T11:20:05">
+ <decision date="2023-08-01" number="2а-1027/2023" org="Шилкинский районный суд - Забайкальский край"/>
+ <domain><![CDATA[prostitutkibelgorodasex.info]]></domain>
+ <ip>146.0.73.60</ip>
 </content>
 <content id="9022215" includeTime="2025-11-08T00:05:04" entryType="1" hash="D41E643F89FD3A6802A7EDD3616FE81E" blockType="domain" ts="2025-11-08T00:05:04">
  <decision date="2025-09-29" number="2-6-14/2025-09-23-7083-АИ" org="ФНС"/>
