@@ -2022,6 +2022,11 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:5687</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:dc58</ipv6>
 </content>
+<content id="9030908" includeTime="2025-11-13T16:00:07" entryType="1" hash="393725EEF663DCE5B4ABE6BB2B557DEA" blockType="domain-mask" ts="2025-11-13T16:00:07">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.yugolon.ru]]></domain>
+ <ip>81.91.178.50</ip>
+</content>
 <content id="9030909" includeTime="2025-11-12T07:40:04" entryType="1" hash="BEF654FF8FDC8C74A7D7A87CF9C06553" blockType="domain-mask" ts="2025-11-12T07:40:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.zoprin.ru]]></domain>
@@ -2496,6 +2501,12 @@
  <decision date="2025-11-10" number="3519553-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[milfnudepics.com]]></domain>
  <ip>184.94.149.13</ip>
+</content>
+<content id="9031036" includeTime="2025-11-13T16:00:07" entryType="1" hash="269801FBFD2C807783F659974B8823AD" blockType="domain" ts="2025-11-13T16:00:07">
+ <decision date="2025-11-10" number="3519554-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[fullmalesex.cc]]></domain>
+ <ip>91.216.220.21</ip>
+ <ipv6>2a13:f980:4000:03e8:0000:0000:5bd8:dc15</ipv6>
 </content>
 <content id="9031037" includeTime="2025-11-12T23:15:03" entryType="1" hash="E174D33B7AEEF19D216110E7237B9BDE" blockType="domain" ts="2025-11-12T23:15:03">
  <decision date="2025-11-10" number="3519555-URL-on" org="Роскомнадзор"/>
@@ -4185,6 +4196,22 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="9031333" includeTime="2025-11-13T16:00:07" entryType="1" hash="DACF57675997888291C226487E72DDBA" blockType="domain-mask" ts="2025-11-13T16:00:07">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.russia-maps.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9031334" includeTime="2025-11-13T16:00:07" entryType="1" hash="DFCE48C9D90541E3C7D91E8DA1ABBE64" blockType="domain-mask" ts="2025-11-13T16:00:07">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.salonnatalyahtary.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="9031335" includeTime="2025-11-12T07:40:04" entryType="1" hash="4C3B491AA205F1FA6802FF46E72883FC" blockType="domain-mask" ts="2025-11-12T07:40:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.penkid-kids.online]]></domain>
@@ -5281,6 +5308,11 @@
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.4kra42--cc.ru]]></domain>
  <ip>92.255.111.71</ip>
+</content>
+<content id="9031562" includeTime="2025-11-13T16:00:07" entryType="1" hash="A29BE9C2F20356A659C3B96723017B77" blockType="domain-mask" ts="2025-11-13T16:00:07">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.https-kra39cc.ru]]></domain>
+ <ip>91.236.116.113</ip>
 </content>
 <content id="9031563" includeTime="2025-11-11T14:00:06" entryType="1" hash="7E48B686E48FE86774A8F255F386CE5A" blockType="domain-mask" ts="2025-11-11T14:00:06">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -7065,10 +7097,10 @@
  <domain><![CDATA[club228338212.orgs.biz]]></domain>
  <ip>5.199.173.82</ip>
 </content>
-<content id="9031945" includeTime="2025-11-12T13:30:04" entryType="1" hash="5D2F9B0578B97A42E17D4DA88002022B" blockType="domain" ts="2025-11-12T13:30:04">
+<content id="9031945" includeTime="2025-11-12T13:30:04" entryType="1" hash="FEE9708F34EA8753DEBEA882BB5E3D27" blockType="domain" ts="2025-11-13T16:00:07">
  <decision date="2025-11-06" number="2025-10-21-8145-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[2.kyply-lekarstva.ru]]></domain>
- <ip>92.255.111.71</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9031946" includeTime="2025-11-12T13:30:04" entryType="1" hash="04EB0BB10B86B091340CF1B43F987A07" blockType="domain" ts="2025-11-12T13:30:04">
  <decision date="2025-11-06" number="2025-10-18-685-ПЛ" org="Росздравнадзор"/>
@@ -7152,13 +7184,6 @@
  <ip>8.6.112.6</ip>
  <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
  <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
-</content>
-<content id="9032004" includeTime="2025-11-12T23:15:03" entryType="1" hash="2D9B39A77247BB9C28A2C08FA6B5F303" ts="2025-11-12T23:15:03">
- <decision date="2025-11-07" number="2025-11-06-3369-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://blitz-farm.com/diabet/ozempic_0_25mg]]></url>
- <domain><![CDATA[blitz-farm.com]]></domain>
- <ip>94.241.171.116</ip>
- <ipv6>2a03:6f01:0001:0002:0000:0000:0000:b157</ipv6>
 </content>
 <content id="9032005" includeTime="2025-11-12T23:15:03" entryType="1" hash="2E947FCD6CD1461618F598FDC8129A39" ts="2025-11-12T23:15:03">
  <decision date="2025-11-07" number="2025-11-06-3350-ПЛ" org="Росздравнадзор"/>
@@ -7675,6 +7700,11 @@
  <domain><![CDATA[*.gradus1-247-74.online]]></domain>
  <ip>178.32.248.248</ip>
 </content>
+<content id="9032150" includeTime="2025-11-13T16:00:07" entryType="1" hash="3B4B14B5C05BAA822160BBD241FA266E" blockType="domain" ts="2025-11-13T16:00:07">
+ <decision date="2025-11-01" number="2025-10-30-2423-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[zelpivo.orgs.biz]]></domain>
+ <ip>5.199.173.82</ip>
+</content>
 <content id="9032151" includeTime="2025-11-12T23:15:03" entryType="1" hash="7D183DEC1C7272DAB2B691B9C37E5638" blockType="domain" ts="2025-11-12T23:15:03">
  <decision date="2025-11-06" number="2025-10-24-2109-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[alkogol-market154.online]]></domain>
@@ -7835,6 +7865,11 @@
  <decision date="2025-11-05" number="2025-11-05-1346-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[*.alkonigght996.online]]></domain>
  <ip>185.14.30.22</ip>
+</content>
+<content id="9032179" includeTime="2025-11-13T16:00:07" entryType="1" hash="FD8AD7D13F9AEF05596E6F9E73080F6A" blockType="domain" ts="2025-11-13T16:00:07">
+ <decision date="2025-11-05" number="2025-11-05-1668-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[alko-vologda-zakaz.orgs.biz]]></domain>
+ <ip>5.199.173.82</ip>
 </content>
 <content id="9032181" includeTime="2025-11-11T14:00:06" entryType="1" hash="83EE834ECC08A379A25A124B4BD279F3" blockType="domain-mask" ts="2025-11-11T14:00:06">
  <decision date="2025-11-07" number="2025-11-05-912-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
