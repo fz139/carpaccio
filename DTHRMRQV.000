@@ -243,6 +243,14 @@
  <ip>104.21.87.49</ip>
  <ip>172.67.141.130</ip>
 </content>
+<content id="9044673" includeTime="2025-11-14T14:20:04" entryType="1" hash="83426FE3C2F78A0D00F40460EB1980F5" blockType="domain-mask" ts="2025-11-14T14:20:04">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.ee-1.ru]]></domain>
+ <ip>104.21.44.26</ip>
+ <ip>172.67.194.81</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:2c1a</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:c251</ipv6>
+</content>
 <content id="9044679" includeTime="2025-11-14T00:30:05" entryType="1" hash="5199BD9F83D9746CEF48CC8D4094BD77" blockType="domain-mask" ts="2025-11-14T00:30:05">
  <decision date="2025-11-12" number="2-6-14/2025-11-11-4632-АИ" org="ФНС"/>
  <domain><![CDATA[*.banda-play-path.com]]></domain>
@@ -4121,6 +4129,22 @@
  <decision date="2025-11-13" number="3528709-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[zbp.gaysmska4.xyz]]></domain>
  <ip>185.155.96.183</ip>
+</content>
+<content id="9045573" includeTime="2025-11-14T14:20:04" entryType="1" hash="D31017FDF0D04BC5A2E93C35550234DD" blockType="domain" ts="2025-11-14T14:20:04">
+ <decision date="2025-11-13" number="3528710-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[zbp.msgay6.xyz]]></domain>
+ <ip>185.155.96.183</ip>
+</content>
+<content id="9045576" includeTime="2025-11-14T14:20:04" entryType="1" hash="3C9BDFB82804ABD1D5A8E484E4BCB427" blockType="domain" ts="2025-11-14T14:20:04">
+ <decision date="2025-11-13" number="3528713-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[zbp.gayche2.xyz]]></domain>
+ <ip>185.155.96.140</ip>
+</content>
+<content id="9045627" includeTime="2025-11-14T14:20:04" entryType="1" hash="836E8D74265FE611B4CA960821212948" ts="2025-11-14T14:20:04">
+ <decision date="2025-11-13" number="3528764-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://lordfilmkxy.lat/372-mediator.html]]></url>
+ <domain><![CDATA[lordfilmkxy.lat]]></domain>
+ <ip>212.162.152.112</ip>
 </content>
 <content id="9045666" includeTime="2025-11-14T00:30:05" entryType="1" hash="C77D78A65F5432AF2A065E5D3DA05F06" blockType="domain" ts="2025-11-14T00:30:05">
  <decision date="2025-11-13" number="3528803-URL-on" org="Роскомнадзор"/>
