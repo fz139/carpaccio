@@ -3599,19 +3599,45 @@
  <ipv6>2606:50c0:8002:0000:0000:0000:0000:0153</ipv6>
  <ipv6>2606:50c0:8003:0000:0000:0000:0000:0153</ipv6>
 </content>
+<content id="8832524" includeTime="2025-11-18T15:20:04" entryType="1" hash="3CF60F61907403EB5E1A8C94E8483B1A" ts="2025-11-18T15:20:04">
+ <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
+ <url><![CDATA[https://bot.sherlock.pw/]]></url>
+ <domain><![CDATA[bot.sherlock.pw]]></domain>
+ <ip>104.21.23.156</ip>
+ <ip>172.67.211.179</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="8832525" includeTime="2025-10-07T08:05:03" entryType="1" hash="42E3370EFD23057B802C7637DA284E70" blockType="domain-mask" ts="2025-10-07T13:20:04">
  <decision date="2025-08-18" number="2-6-14/2025-08-13-2802-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.arkada100amp.top]]></domain>
  <ip>104.21.69.104</ip>
  <ip>172.67.207.107</ip>
 </content>
-<content id="8832526" includeTime="2025-10-09T01:40:03" entryType="1" hash="D99D83413189D41A2408FCD177ABE9B5" blockType="domain" ts="2025-10-09T01:40:03">
+<content id="8832526" includeTime="2025-10-09T01:40:03" entryType="1" hash="89F5D8A2EF9E2ADDAED7EEBB83DAA7C9" blockType="domain-mask" ts="2025-11-18T14:50:04">
  <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
- <domain><![CDATA[sherlock.pw]]></domain>
+ <domain><![CDATA[*.sherlock.pw]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:d3b3</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:179c</ipv6>
+</content>
+<content id="8832527" includeTime="2025-11-18T15:20:04" entryType="1" hash="7A39A1DD02D6CFB2153242F883CBC7BC" ts="2025-11-18T15:20:04">
+ <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
+ <url><![CDATA[https://bot.sherlock.zone]]></url>
+ <domain><![CDATA[bot.sherlock.zone]]></domain>
+ <ip>104.21.1.177</ip>
+ <ip>172.67.129.173</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:81ad</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:01b1</ipv6>
+</content>
+<content id="8832528" includeTime="2025-11-18T15:20:04" entryType="1" hash="392E0E5E2301C118F11172363963BA5E" blockType="domain-mask" ts="2025-11-18T15:20:04">
+ <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[*.sherlock.zone]]></domain>
+ <ip>104.21.1.177</ip>
+ <ip>172.67.129.173</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:81ad</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:01b1</ipv6>
 </content>
 <content id="8832529" includeTime="2025-10-07T08:05:03" entryType="1" hash="C46BA2EAB1291438BD7997BA56BC1338" blockType="domain-mask" ts="2025-10-07T13:20:04">
  <decision date="2025-08-18" number="2-6-14/2025-08-13-2802-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
