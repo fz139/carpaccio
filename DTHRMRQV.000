@@ -211,13 +211,14 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:5392</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:b172</ipv6>
 </content>
-<content id="9044664" includeTime="2025-11-14T00:30:05" entryType="1" hash="C9B98036E15B95CAEFB686E5A181DA54" blockType="domain" ts="2025-11-14T00:30:05">
+<content id="9044664" includeTime="2025-11-14T00:30:05" entryType="1" hash="D6CC1BBADE0DBE9A4A4D8F519AF9515E" blockType="domain-mask" ts="2025-11-18T06:55:03">
  <decision date="2023-08-01" number="2а-1027/2023" org="Шилкинский районный суд - Забайкальский край"/>
- <domain><![CDATA[kovkadeshevo.ru]]></domain>
+ <domain><![CDATA[*.kovkadeshevo.ru]]></domain>
  <ip>92.119.114.233</ip>
 </content>
-<content id="9044665" includeTime="2025-11-14T00:30:05" entryType="1" hash="F6165B461A07E7C16DA990A59A0975B7" blockType="domain" ts="2025-11-14T00:30:05">
+<content id="9044665" includeTime="2025-11-14T00:30:05" entryType="1" hash="2AB83F6F321E1FA662F715EB2C8CE0EE" ts="2025-11-18T06:55:03">
  <decision date="2023-08-01" number="2а-1027/2023" org="Шилкинский районный суд - Забайкальский край"/>
+ <url><![CDATA[https://moskva112.kovkadeshevo.ru/]]></url>
  <domain><![CDATA[moskva112.kovkadeshevo.ru]]></domain>
  <ip>92.119.114.233</ip>
 </content>
@@ -3967,6 +3968,11 @@
  <ip>104.21.72.91</ip>
  <ip>172.67.179.117</ip>
 </content>
+<content id="9045406" includeTime="2025-11-18T07:25:03" entryType="1" hash="5A70E35F1C8328CDCC66CD4BDF16008F" blockType="domain" ts="2025-11-18T07:25:03">
+ <decision date="2025-10-28" number="2а-942/2025" org="Карабулакский районный суд - Республика Ингушетия"/>
+ <domain><![CDATA[optom-snus.ru]]></domain>
+ <ip>104.18.47.121</ip>
+</content>
 <content id="9045407" includeTime="2025-11-17T13:50:03" entryType="1" hash="1BCA58FFDF49AC2E498A43E81C7C6CF2" blockType="domain" ts="2025-11-17T13:50:03">
  <decision date="2025-11-11" number="2а-4374/2025" org="Советский районный суд г. Астрахани - Астраханская область"/>
  <domain><![CDATA[tabacmarket.com]]></domain>
@@ -3998,13 +4004,15 @@
  <domain><![CDATA[kamyshin.penatime.ru]]></domain>
  <ip>92.119.114.233</ip>
 </content>
-<content id="9045418" includeTime="2025-11-14T00:30:05" entryType="1" hash="E0B0FD2EF2888B961B0D0B3AF21022EE" blockType="domain" ts="2025-11-14T00:30:05">
+<content id="9045418" includeTime="2025-11-14T00:30:05" entryType="1" hash="59B7D7FA693EE3CF044C6DA846334E3F" ts="2025-11-18T06:55:03">
  <decision date="2025-11-12" number="2а-1895/2025" org="Камышинский городской суд - Волгоградская область"/>
+ <url><![CDATA[https://kamyshin.aero-transport.ru]]></url>
  <domain><![CDATA[kamyshin.aero-transport.ru]]></domain>
  <ip>92.119.114.233</ip>
 </content>
-<content id="9045419" includeTime="2025-11-14T00:30:05" entryType="1" hash="D609696BF7330C73A72D165B017E924B" blockType="domain" ts="2025-11-14T00:30:05">
+<content id="9045419" includeTime="2025-11-14T00:30:05" entryType="1" hash="E964D5667D74E1F305B81604021D4860" ts="2025-11-18T06:55:03">
  <decision date="2025-11-12" number="2а-1895/2025" org="Камышинский городской суд - Волгоградская область"/>
+ <url><![CDATA[https://kamyshin.kovkadeshevo.ru]]></url>
  <domain><![CDATA[kamyshin.kovkadeshevo.ru]]></domain>
  <ip>92.119.114.233</ip>
 </content>
@@ -4057,6 +4065,12 @@
  <domain><![CDATA[*.flagman-casino-briy1.top]]></domain>
  <ip>104.21.50.59</ip>
  <ip>172.67.157.136</ip>
+</content>
+<content id="9045483" includeTime="2025-11-18T07:25:03" entryType="1" hash="D090F6BBFD351F760432A33A6BEA6C02" ts="2025-11-18T07:25:03">
+ <decision date="2025-11-11" number="2025-11-07-5382-ВН" org="Росмолодежь"/>
+ <url><![CDATA[https://futbolka3.ru/product/futbolka-detskaya-tyurma-tatuirovki-zaklyuchennogo-pr160882/?utm_referrer=https%3A%2F%2Fwww.google.com%2F]]></url>
+ <domain><![CDATA[futbolka3.ru]]></domain>
+ <ip>81.177.165.89</ip>
 </content>
 <content id="9045500" includeTime="2025-11-14T00:30:05" entryType="1" hash="8AAD8DAD960DA04CA2C322A90779FE08" blockType="domain-mask" ts="2025-11-14T00:30:05">
  <decision date="2025-11-12" number="2-6-14/2025-11-11-6901-АИ" org="ФНС"/>
@@ -4194,6 +4208,17 @@
  <domain><![CDATA[sex1.prostitutkinizhnegonovgorodawant.com]]></domain>
  <ip>5.61.53.122</ip>
 </content>
+<content id="9045530" includeTime="2025-11-18T07:25:03" entryType="1" hash="DD68A2F46FF4813642758E63E8EC9D1E" blockType="domain" ts="2025-11-18T07:25:03">
+ <decision date="2025-11-13" number="3528667-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[viralxporno.com]]></domain>
+ <ip>198.20.111.117</ip>
+</content>
+<content id="9045532" includeTime="2025-11-18T07:25:03" entryType="1" hash="5A3E096B14C65163B64F38EF6F7BDB86" ts="2025-11-18T07:25:03">
+ <decision date="2025-11-13" number="3528669-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://hd14.19lordserials.xyz/7935-kolca-dank-ili-skvoznyak.html]]></url>
+ <domain><![CDATA[hd14.19lordserials.xyz]]></domain>
+ <ip>37.1.204.16</ip>
+</content>
 <content id="9045534" includeTime="2025-11-17T13:50:03" entryType="1" hash="6589B54C86288393A8970404ACDD2043" blockType="domain" ts="2025-11-17T13:50:03">
  <decision date="2025-11-13" number="3528671-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[www.cuckoldsessions.com]]></domain>
@@ -4208,6 +4233,12 @@
  <ip>172.67.136.101</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2e49</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:8865</ipv6>
+</content>
+<content id="9045536" includeTime="2025-11-18T07:25:03" entryType="1" hash="8776F68CFDEF79CDB998527F145CED80" ts="2025-11-18T07:25:03">
+ <decision date="2025-11-13" number="3528673-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://omnirezka.tv/films/comedy/62581-kogda-luchshiy-drug-gey-2013.html]]></url>
+ <domain><![CDATA[omnirezka.tv]]></domain>
+ <ip>213.111.160.58</ip>
 </content>
 <content id="9045537" includeTime="2025-11-14T00:30:05" entryType="1" hash="50DA89CE8B57E93E8187E478C182B9FC" blockType="domain" ts="2025-11-14T00:30:05">
  <decision date="2025-11-13" number="3528674-URL-on" org="Роскомнадзор"/>
@@ -4257,6 +4288,15 @@
  <decision date="2025-11-13" number="3528686-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[all.dosugbarsch.best]]></domain>
  <ip>190.115.16.3</ip>
+</content>
+<content id="9045550" includeTime="2025-11-18T07:25:03" entryType="1" hash="18CD7D145B10BBB51802CC90264EC8FB" ts="2025-11-18T07:25:03">
+ <decision date="2025-11-13" number="3528687-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://ru.1luxtv.biz/serial-18060-eto-greh.html]]></url>
+ <domain><![CDATA[ru.1luxtv.biz]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="9045551" includeTime="2025-11-17T13:50:03" entryType="1" hash="497E038D7A8EBB1860AF68B234BBF59B" blockType="domain" ts="2025-11-17T13:50:03">
  <decision date="2025-11-13" number="3528688-URL-on" org="Роскомнадзор"/>
@@ -4491,17 +4531,52 @@
  <domain><![CDATA[i.kuni-x.top]]></domain>
  <ip>45.136.48.25</ip>
 </content>
+<content id="9045642" includeTime="2025-11-18T07:25:03" entryType="1" hash="81CE163FE4CB92229A32509F8AB7CF05" ts="2025-11-18T07:25:03">
+ <decision date="2025-11-13" number="3528779-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://latinskoe-porno.com/playlist/страпон/]]></url>
+ <domain><![CDATA[latinskoe-porno.com]]></domain>
+ <ip>31.184.242.9</ip>
+</content>
 <content id="9045644" includeTime="2025-11-17T13:50:03" entryType="1" hash="2D7A23EFC79D72ECEAD3277390080455" ts="2025-11-17T13:50:03">
  <decision date="2025-11-13" number="3528781-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://analporno24.center/cat-strapon/]]></url>
  <domain><![CDATA[analporno24.center]]></domain>
  <ip>185.16.38.80</ip>
 </content>
+<content id="9045649" includeTime="2025-11-18T07:25:03" entryType="1" hash="78844C402C92F5D43BEE1A2CDF2AB82C" ts="2025-11-18T07:25:03">
+ <decision date="2025-11-13" number="3528786-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://porno-aziatka.com/cat-kazah/]]></url>
+ <domain><![CDATA[porno-aziatka.com]]></domain>
+ <ip>195.3.223.162</ip>
+</content>
+<content id="9045651" includeTime="2025-11-18T07:25:03" entryType="1" hash="BA0BBCD7AF0BA5C0397F03A3F0739249" blockType="domain" ts="2025-11-18T07:25:03">
+ <decision date="2025-11-13" number="3528788-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[m.kazahov.vip]]></domain>
+ <ip>93.88.74.150</ip>
+</content>
+<content id="9045652" includeTime="2025-11-18T07:25:03" entryType="1" hash="B67F5A0F7ACBE7614D6FE47BAFE991B2" ts="2025-11-18T07:25:03">
+ <decision date="2025-11-13" number="3528789-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://porno-asia.org/cat-kazahskoe]]></url>
+ <domain><![CDATA[porno-asia.org]]></domain>
+ <ip>87.236.177.124</ip>
+</content>
+<content id="9045653" includeTime="2025-11-18T07:25:03" entryType="1" hash="50B0BDFE0AB7038F11684861AB887AF5" ts="2025-11-18T07:25:03">
+ <decision date="2025-11-13" number="3528790-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://a.kazakh-sex.top/category/sex]]></url>
+ <domain><![CDATA[a.kazakh-sex.top]]></domain>
+ <ip>31.184.242.12</ip>
+</content>
 <content id="9045655" includeTime="2025-11-17T13:50:03" entryType="1" hash="7BAFF68278A936FA2C7B957D336695D3" ts="2025-11-17T13:50:03">
  <decision date="2025-11-13" number="3528792-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://c.arabskoe-porno.com/category/kazakh]]></url>
  <domain><![CDATA[c.arabskoe-porno.com]]></domain>
  <ip>31.184.242.9</ip>
+</content>
+<content id="9045656" includeTime="2025-11-18T07:25:03" entryType="1" hash="738A48CE73AA159337ABFB336E328B77" ts="2025-11-18T07:25:03">
+ <decision date="2025-11-13" number="3528793-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://e.aziahub.com/category/kazakhskoe/3]]></url>
+ <domain><![CDATA[e.aziahub.com]]></domain>
+ <ip>31.184.242.97</ip>
 </content>
 <content id="9045657" includeTime="2025-11-17T13:50:03" entryType="1" hash="EE090CA6D415F84F7CD00BAC8689AD40" ts="2025-11-17T13:50:03">
  <decision date="2025-11-13" number="3528794-URL-on" org="Роскомнадзор"/>
@@ -4514,6 +4589,16 @@
  <url><![CDATA[https://www.allserial.org/1295-kipo-i-era-cudesnyx-zverei-truth.html]]></url>
  <domain><![CDATA[www.allserial.org]]></domain>
  <ip>185.74.252.38</ip>
+</content>
+<content id="9045659" includeTime="2025-11-18T07:25:03" entryType="1" hash="51577B8C6A6C243D716CDE02E759CA58" blockType="domain" ts="2025-11-18T07:25:03">
+ <decision date="2025-11-13" number="3528796-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[vladikavkaz.tirthadeva.ru]]></domain>
+ <ip>185.244.218.246</ip>
+</content>
+<content id="9045661" includeTime="2025-11-18T07:25:03" entryType="1" hash="0156C8002DB3348F772E2481EB7BBC16" blockType="domain" ts="2025-11-18T07:25:03">
+ <decision date="2025-11-13" number="3528798-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[fanfap.wiki]]></domain>
+ <ip>184.154.78.60</ip>
 </content>
 <content id="9045663" includeTime="2025-11-17T13:50:03" entryType="1" hash="025D13554C36BC03FE423C3458858007" ts="2025-11-17T13:50:03">
  <decision date="2025-11-13" number="3528800-URL-on" org="Роскомнадзор"/>

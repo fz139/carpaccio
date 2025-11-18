@@ -3346,9 +3346,9 @@
  <domain><![CDATA[opsvpn.biz]]></domain>
  <ip>188.137.181.57</ip>
 </content>
-<content id="8911099" includeTime="2025-10-25T19:50:04" entryType="1" hash="C255E2172B9384CE63C9145B557B75D4" blockType="domain" ts="2025-10-25T19:50:04">
+<content id="8911099" includeTime="2025-10-25T19:50:04" entryType="1" hash="E7ADE289CDF9F3C3B23C9752C8AA6F8F" blockType="domain-mask" ts="2025-11-18T06:55:03">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[bearvpn.com]]></domain>
+ <domain><![CDATA[*.bearvpn.com]]></domain>
  <ip>104.21.77.50</ip>
  <ip>172.67.204.166</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:cca6</ipv6>
