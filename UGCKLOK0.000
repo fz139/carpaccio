@@ -1251,9 +1251,9 @@
  <ip>135.125.233.147</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:78b6</ipv6>
 </content>
-<content id="7900291" includeTime="2025-02-18T07:20:04" entryType="1" hash="E9C4B642409BCC83061DABBF38D1C202" blockType="domain" ts="2025-02-18T07:20:04">
+<content id="7900291" includeTime="2025-02-18T07:20:04" entryType="1" hash="724C10FB82F25EE826BBC69E53F8CA21" blockType="domain-mask" ts="2025-11-19T13:15:04">
  <decision date="2025-02-07" number="2024-05-24-8329-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[italy-apteka.store]]></domain>
+ <domain><![CDATA[*.italy-apteka.store]]></domain>
  <ip>46.8.210.199</ip>
 </content>
 <content id="7900293" includeTime="2025-02-18T07:20:04" entryType="1" hash="2C160ED499ABD879ADB8A97062C88B70" ts="2025-02-18T07:20:04">
