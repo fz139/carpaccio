@@ -1612,9 +1612,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:3cec</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:ca87</ipv6>
 </content>
-<content id="6645266" includeTime="2024-01-17T23:15:04" entryType="1" hash="F2AB2C5B7D4CC93DB66838B08F68BF3F" blockType="domain" ts="2024-01-18T09:30:05">
+<content id="6645266" includeTime="2024-01-17T23:15:04" entryType="1" hash="865B5F644D7E4E63C13195517D74D43C" blockType="domain-mask" ts="2025-11-20T06:50:04">
  <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
- <domain><![CDATA[probiv-bot.com]]></domain>
+ <domain><![CDATA[*.probiv-bot.com]]></domain>
  <ip>195.210.46.30</ip>
  <ipv6>2a00:5da0:1000:0000:0000:0000:0000:0145</ipv6>
 </content>
