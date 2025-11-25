@@ -11621,21 +11621,13 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="637041" includeTime="2017-11-14T19:58:00" entryType="1" hash="363956BC5BB2AFB0E4FC83C843F0B22C" blockType="domain" ts="2023-12-20T16:30:02">
+<content id="637041" includeTime="2017-11-14T19:58:00" entryType="1" hash="CD34404FF25B2AA5D59980BEA6ED3122" blockType="domain-mask" ts="2025-11-25T13:50:04">
  <decision date="2016-08-31" number="2-5831/2016" org="Центральный районный суд г. Новокузнецка - Кемеровская область"/>
- <domain><![CDATA[nkdosug.net]]></domain>
+ <domain><![CDATA[*.nkdosug.net]]></domain>
  <ip>104.21.30.115</ip>
  <ip>172.67.172.224</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:ace0</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:1e73</ipv6>
-</content>
-<content id="637043" includeTime="2017-09-13T22:52:35" entryType="1" hash="6FA0E25E56754323CE8DA4AA195CF127" blockType="domain" ts="2023-12-20T16:30:02">
- <decision date="2016-11-15" number="2-1035/2016" org="Петровск-Забайкальский городской суд - Забайкальский край"/>
- <domain><![CDATA[www.dosug22.org]]></domain>
- <ip>104.21.44.73</ip>
- <ip>172.67.196.239</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:c4ef</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:2c49</ipv6>
 </content>
 <content id="637044" includeTime="2017-11-20T18:43:04" entryType="1" hash="C8DCDBF18A1E749C522C63EEB47DAD50" blockType="domain" ts="2017-11-20T18:43:04">
  <decision date="2015-02-09" number="2-1106/15" org="Ленинский районный суд г. Самары"/>
