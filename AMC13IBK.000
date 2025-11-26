@@ -11600,6 +11600,15 @@
  <domain><![CDATA[*.390.casino]]></domain>
  <ip>91.84.104.32</ip>
 </content>
+<content id="9079758" includeTime="2025-11-26T13:55:03" entryType="1" hash="6F4B59C421A4137D8D0EF258037BC27B" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://www.malavida.com/ru/soft/supervpn/android]]></url>
+ <domain><![CDATA[www.malavida.com]]></domain>
+ <ip>95.100.107.154</ip>
+ <ip>95.100.107.183</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c0e</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1e</ipv6>
+</content>
 <content id="9079759" includeTime="2025-11-24T14:20:08" entryType="1" hash="0BE75487F44FD11EF78531AF62859896" blockType="domain-mask" ts="2025-11-24T14:20:08">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.hide-my-name.org]]></domain>
@@ -11615,10 +11624,82 @@
  <domain><![CDATA[*.hiddify.help]]></domain>
  <ip>103.246.146.199</ip>
 </content>
+<content id="9079762" includeTime="2025-11-26T13:55:03" entryType="1" hash="E22CA74D4F9593479A2571F4F49346CF" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://bitdefender-vpn.ru.malavida.com/android]]></url>
+ <domain><![CDATA[bitdefender-vpn.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
 <content id="9079763" includeTime="2025-11-24T14:20:08" entryType="1" hash="5660F25067852F6E8757F8ADE735BC2A" blockType="domain-mask" ts="2025-11-24T14:20:08">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.avevpn.org]]></domain>
  <ip>185.125.50.154</ip>
+</content>
+<content id="9079764" includeTime="2025-11-26T13:55:03" entryType="1" hash="F30BDB1564DBB8A5AD76167F00D4A33E" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://fancy-light.ru.malavida.com/android]]></url>
+ <domain><![CDATA[fancy-light.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079765" includeTime="2025-11-26T13:55:03" entryType="1" hash="10046AB6F040C0C340C08851D11ABEEA" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://galaxynet.ru.malavida.com/android]]></url>
+ <domain><![CDATA[galaxynet.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079766" includeTime="2025-11-26T13:55:03" entryType="1" hash="856A6BEFD9D53ADE58525163B36EFEE4" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://keynote.ru.malavida.com/android]]></url>
+ <domain><![CDATA[keynote.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079767" includeTime="2025-11-26T13:55:03" entryType="1" hash="4E972A7B5628A83A43C122332C4A908A" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://rocket-lite.ru.malavida.com/android]]></url>
+ <domain><![CDATA[rocket-lite.ru.malavida.com]]></domain>
+ <ip>104.69.222.128</ip>
+ <ip>104.69.222.89</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079768" includeTime="2025-11-26T13:55:03" entryType="1" hash="35C3DD9D85944F876E3DB95F5D8BDC40" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://safelight.ru.malavida.com/android]]></url>
+ <domain><![CDATA[safelight.ru.malavida.com]]></domain>
+ <ip>23.216.134.210</ip>
+ <ip>23.216.134.224</ip>
+ <ipv6>2a02:26f0:00e2:0000:0000:0000:1732:3b8b</ipv6>
+ <ipv6>2a02:26f0:00e2:0000:0000:0000:687b:44ea</ipv6>
+</content>
+<content id="9079769" includeTime="2025-11-26T13:55:03" entryType="1" hash="2D2261AF653B8BDFA2DD01424A9BCC00" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://www.malavida.com/ru/soft/proxy-browser/android]]></url>
+ <domain><![CDATA[www.malavida.com]]></domain>
+ <ip>23.216.134.209</ip>
+ <ip>23.216.134.219</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c0e</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1e</ipv6>
+</content>
+<content id="9079770" includeTime="2025-11-26T13:55:03" entryType="1" hash="3466889FD1DE503A994F4312ED0B4AB6" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://vast-vpn.ru.malavida.com/android]]></url>
+ <domain><![CDATA[vast-vpn.ru.malavida.com]]></domain>
+ <ip>23.216.134.210</ip>
+ <ip>23.216.134.224</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
 </content>
 <content id="9079771" includeTime="2025-11-24T14:20:08" entryType="1" hash="2448CB3CA94A10BC7B35D2D777084B78" blockType="domain-mask" ts="2025-11-24T14:20:08">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
@@ -11633,10 +11714,82 @@
  <ipv6>2606:4700:0000:0000:0000:0000:6812:18f8</ipv6>
  <ipv6>2606:4700:0000:0000:0000:0000:6812:19f8</ipv6>
 </content>
+<content id="9079773" includeTime="2025-11-26T13:55:03" entryType="1" hash="7E593CADE58832618B6668020E5CD7D0" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://fox-fast-vpn.ru.malavida.com/android]]></url>
+ <domain><![CDATA[fox-fast-vpn.ru.malavida.com]]></domain>
+ <ip>23.216.134.210</ip>
+ <ip>23.216.134.224</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079774" includeTime="2025-11-26T13:55:03" entryType="1" hash="D11454B227A52CC24CE559715DBC5094" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://magic-tool.ru.malavida.com/android]]></url>
+ <domain><![CDATA[magic-tool.ru.malavida.com]]></domain>
+ <ip>23.216.134.210</ip>
+ <ip>23.216.134.224</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079775" includeTime="2025-11-26T13:55:03" entryType="1" hash="E92149C6D9B0EBEB15665A9AC3DD7A8E" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://ravovpn.ru.malavida.com/android]]></url>
+ <domain><![CDATA[ravovpn.ru.malavida.com]]></domain>
+ <ip>23.216.134.210</ip>
+ <ip>23.216.134.224</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079776" includeTime="2025-11-26T13:55:03" entryType="1" hash="2B8FF149232605C5A064DCFA471030A4" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://ruby-vpn.ru.malavida.com/android]]></url>
+ <domain><![CDATA[ruby-vpn.ru.malavida.com]]></domain>
+ <ip>23.216.134.210</ip>
+ <ip>23.216.134.224</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079777" includeTime="2025-11-26T13:55:03" entryType="1" hash="5C19299B910FD9228589AD7A724768D1" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://speedfiy.ru.malavida.com/android]]></url>
+ <domain><![CDATA[speedfiy.ru.malavida.com]]></domain>
+ <ip>23.216.134.205</ip>
+ <ip>23.216.134.210</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079778" includeTime="2025-11-26T13:55:03" entryType="1" hash="7C6F80A44AFAC8324BFA165C84C36799" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://streamit.ru.malavida.com/android]]></url>
+ <domain><![CDATA[streamit.ru.malavida.com]]></domain>
+ <ip>23.216.134.205</ip>
+ <ip>23.216.134.210</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079779" includeTime="2025-11-26T13:55:03" entryType="1" hash="95E61541A3102B83B7C4BF61E79C44EE" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://thumb-lite.ru.malavida.com/android]]></url>
+ <domain><![CDATA[thumb-lite.ru.malavida.com]]></domain>
+ <ip>23.216.134.205</ip>
+ <ip>23.216.134.210</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
 <content id="9079780" includeTime="2025-11-24T14:20:08" entryType="1" hash="3674D8827DDC9739E1597C3ADC9FFA52" blockType="domain-mask" ts="2025-11-24T14:20:08">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.sigmavpn.help]]></domain>
  <ip>103.246.146.199</ip>
+</content>
+<content id="9079790" includeTime="2025-11-26T13:55:03" entryType="1" hash="875F8D67A6F9F30732E195999FE26A64" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://bear.ru.malavida.com/android/]]></url>
+ <domain><![CDATA[bear.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:0e80:007f:0000:0000:17d8:8691</ipv6>
+ <ipv6>2a02:26f0:0e80:007f:0000:0000:17d8:86a0</ipv6>
 </content>
 <content id="9079791" includeTime="2025-11-24T14:20:08" entryType="1" hash="2587B6ACFD6C8C3C65BE2CAB21BCAAD0" ts="2025-11-24T14:20:08">
  <decision date="2025-05-12" number="2025-05-12-4014-СОБ" org="Роскомнадзор"/>
@@ -11646,6 +11799,15 @@
  <ip>172.66.150.34</ip>
  <ipv6>2606:4700:0010:0000:0000:0000:6814:1896</ipv6>
  <ipv6>2606:4700:0010:0000:0000:0000:ac42:9622</ipv6>
+</content>
+<content id="9079793" includeTime="2025-11-26T13:55:03" entryType="1" hash="2E4A8045CE1A8EE812B748B8F2FCB6BA" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://slowdns.ru.malavida.com/android/]]></url>
+ <domain><![CDATA[slowdns.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
 </content>
 <content id="9079794" includeTime="2025-11-24T14:20:08" entryType="1" hash="9594CB0B652DEF7D5E7C57F23E6C783C" ts="2025-11-24T14:20:08">
  <decision date="2025-05-12" number="2025-05-12-4014-СОБ" org="Роскомнадзор"/>
@@ -11665,10 +11827,217 @@
  <ipv6>2606:4700:0010:0000:0000:0000:6814:1896</ipv6>
  <ipv6>2606:4700:0010:0000:0000:0000:ac42:9622</ipv6>
 </content>
+<content id="9079798" includeTime="2025-11-26T13:55:03" entryType="1" hash="E3DB1AA4344508D4FA72C71035268965" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://surfeasy.ru.malavida.com/android/]]></url>
+ <domain><![CDATA[surfeasy.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f92</ipv6>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f98</ipv6>
+</content>
+<content id="9079799" includeTime="2025-11-26T13:55:03" entryType="1" hash="2F2A3ABE53A1E24BF3806EA9B1AF20CE" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://proxyhub.ru.malavida.com/android]]></url>
+ <domain><![CDATA[proxyhub.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079800" includeTime="2025-11-26T13:55:03" entryType="1" hash="2E3E85AC7187F97831EFC017DB06B25F" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://tapvpn.ru.malavida.com/android/]]></url>
+ <domain><![CDATA[tapvpn.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079801" includeTime="2025-11-26T13:55:03" entryType="1" hash="00002C4B4CF4014A578DD31CE11EF281" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://share-vpn.ru.malavida.com/android]]></url>
+ <domain><![CDATA[share-vpn.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079802" includeTime="2025-11-26T13:55:03" entryType="1" hash="043454DB45F701736EDCEB9010128B56" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://vpn-unlimited.ru.malavida.com/android/]]></url>
+ <domain><![CDATA[vpn-unlimited.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079803" includeTime="2025-11-26T13:55:03" entryType="1" hash="F308E2DBC1A2F8C8A3DD540084BF3FB9" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://thumb-vpn.ru.malavida.com/android]]></url>
+ <domain><![CDATA[thumb-vpn.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f92</ipv6>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f98</ipv6>
+</content>
+<content id="9079804" includeTime="2025-11-26T13:55:03" entryType="1" hash="99C064D921B4594B4673804A2619222F" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://parar-proxy.ru.malavida.com/android/]]></url>
+ <domain><![CDATA[parar-proxy.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f92</ipv6>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f98</ipv6>
+</content>
+<content id="9079805" includeTime="2025-11-26T13:55:03" entryType="1" hash="25381419246842F35CA0571982240D07" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://tiger-accelerator.ru.malavida.com/android]]></url>
+ <domain><![CDATA[tiger-accelerator.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f92</ipv6>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f98</ipv6>
+</content>
+<content id="9079806" includeTime="2025-11-26T13:55:03" entryType="1" hash="F30D299D99CB5AC9A4A58FC8406AB967" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://vpn-hamster.ru.malavida.com/android]]></url>
+ <domain><![CDATA[vpn-hamster.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f92</ipv6>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f98</ipv6>
+</content>
+<content id="9079807" includeTime="2025-11-26T13:55:03" entryType="1" hash="EA26402A91A6DFB6B25AE55F5A3D95D7" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://soul-vpn.ru.malavida.com/android/]]></url>
+ <domain><![CDATA[soul-vpn.ru.malavida.com]]></domain>
+ <ip>95.100.107.134</ip>
+ <ip>95.100.107.156</ip>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f92</ipv6>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f98</ipv6>
+</content>
+<content id="9079808" includeTime="2025-11-26T13:55:03" entryType="1" hash="1BE4A7FA2418C52253DCB58F675A640A" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://engelsiz.ru.malavida.com/android]]></url>
+ <domain><![CDATA[engelsiz.ru.malavida.com]]></domain>
+ <ip>92.123.135.72</ip>
+ <ip>92.123.135.74</ip>
+ <ipv6>2a02:26f0:00e2:0000:0000:0000:1732:3b8b</ipv6>
+ <ipv6>2a02:26f0:00e2:0000:0000:0000:687b:44ea</ipv6>
+</content>
+<content id="9079809" includeTime="2025-11-26T13:55:03" entryType="1" hash="886F7037D63CDB4AB148A6F8EA4D8E89" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://zenmate.ru.malavida.com/android/]]></url>
+ <domain><![CDATA[zenmate.ru.malavida.com]]></domain>
+ <ip>92.123.135.72</ip>
+ <ip>92.123.135.74</ip>
+ <ipv6>2a02:26f0:00e2:0000:0000:0000:1732:3b8b</ipv6>
+ <ipv6>2a02:26f0:00e2:0000:0000:0000:687b:44ea</ipv6>
+</content>
+<content id="9079810" includeTime="2025-11-26T13:55:03" entryType="1" hash="36B0F1550B029568D33DA5A12A71F54C" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://hotspot-shield-vpn.ru.malavida.com/android]]></url>
+ <domain><![CDATA[hotspot-shield-vpn.ru.malavida.com]]></domain>
+ <ip>23.216.134.145</ip>
+ <ip>23.216.134.160</ip>
+ <ipv6>2a02:26f0:00e2:0000:0000:0000:1732:3b8b</ipv6>
+ <ipv6>2a02:26f0:00e2:0000:0000:0000:687b:44ea</ipv6>
+</content>
+<content id="9079811" includeTime="2025-11-26T13:55:03" entryType="1" hash="08370D77458988D1571F0CD04350842F" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://66-vpn.ru.malavida.com/android/]]></url>
+ <domain><![CDATA[66-vpn.ru.malavida.com]]></domain>
+ <ip>2.22.145.150</ip>
+ <ip>2.22.145.157</ip>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f92</ipv6>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f98</ipv6>
+</content>
+<content id="9079812" includeTime="2025-11-26T13:55:03" entryType="1" hash="5F284175433710EE175CBDF9B0FE953A" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://nordvpn.ru.malavida.com/iphone]]></url>
+ <domain><![CDATA[nordvpn.ru.malavida.com]]></domain>
+ <ip>2.22.145.86</ip>
+ <ip>2.22.145.96</ip>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f92</ipv6>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f98</ipv6>
+</content>
+<content id="9079813" includeTime="2025-11-26T13:55:03" entryType="1" hash="6652887A7424C34654DB27CD062E17DE" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://split-vpn.ru.malavida.com/android/]]></url>
+ <domain><![CDATA[split-vpn.ru.malavida.com]]></domain>
+ <ip>2.22.145.86</ip>
+ <ip>2.22.145.96</ip>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f92</ipv6>
+ <ipv6>2a02:26f0:0041:0000:0000:0000:0216:1f98</ipv6>
+</content>
+<content id="9079814" includeTime="2025-11-26T13:55:03" entryType="1" hash="524CE16C5A590F890DB8510011DA273C" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://power-vpn.ru.malavida.com/android]]></url>
+ <domain><![CDATA[power-vpn.ru.malavida.com]]></domain>
+ <ip>2.22.145.86</ip>
+ <ip>2.22.145.96</ip>
+ <ipv6>2a02:26f0:0e80:007f:0000:0000:17d8:8691</ipv6>
+ <ipv6>2a02:26f0:0e80:007f:0000:0000:17d8:86a0</ipv6>
+</content>
 <content id="9079815" includeTime="2025-11-25T07:20:04" entryType="1" hash="DD8E49F9FF9E3CB4B0CD69AC9847AA6F" blockType="domain" ts="2025-11-25T07:20:04">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[www.vpn4.ru]]></domain>
  <ip>95.181.224.106</ip>
+</content>
+<content id="9079816" includeTime="2025-11-26T13:55:03" entryType="1" hash="09E9F23A8AC3C6E02A126C21D464B3FE" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://rev-hunter.ru.malavida.com/android]]></url>
+ <domain><![CDATA[rev-hunter.ru.malavida.com]]></domain>
+ <ip>2.22.145.86</ip>
+ <ip>2.22.145.96</ip>
+ <ipv6>2a02:26f0:0e80:007f:0000:0000:17d8:8691</ipv6>
+ <ipv6>2a02:26f0:0e80:007f:0000:0000:17d8:86a0</ipv6>
+</content>
+<content id="9079817" includeTime="2025-11-26T13:55:03" entryType="1" hash="CEF1800036E0EA8950F4F1CC7028835A" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://touchvpn.ru.malavida.com/android]]></url>
+ <domain><![CDATA[touchvpn.ru.malavida.com]]></domain>
+ <ip>2.22.145.86</ip>
+ <ip>2.22.145.96</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079818" includeTime="2025-11-26T13:55:03" entryType="1" hash="3657247FAC5DA4C7D4DD2BDAB752B693" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://tweakware.ru.malavida.com/android]]></url>
+ <domain><![CDATA[tweakware.ru.malavida.com]]></domain>
+ <ip>23.216.134.205</ip>
+ <ip>23.216.134.210</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079819" includeTime="2025-11-26T13:55:03" entryType="1" hash="0F73FBF378FE2281479E0943E9C2D195" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://vpn-easy.ru.malavida.com/android]]></url>
+ <domain><![CDATA[vpn-easy.ru.malavida.com]]></domain>
+ <ip>23.216.134.205</ip>
+ <ip>23.216.134.210</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079820" includeTime="2025-11-26T13:55:03" entryType="1" hash="034D31B6C117B28D432B576F38C5B141" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://vpn-master.ru.malavida.com/android]]></url>
+ <domain><![CDATA[vpn-master.ru.malavida.com]]></domain>
+ <ip>23.216.134.205</ip>
+ <ip>23.216.134.210</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
+</content>
+<content id="9079821" includeTime="2025-11-26T13:55:03" entryType="1" hash="F3479446E82F31CA59D3D38F683FD2EB" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://vpn-private.ru.malavida.com/android]]></url>
+ <domain><![CDATA[vpn-private.ru.malavida.com]]></domain>
+ <ip>23.216.134.205</ip>
+ <ip>23.216.134.210</ip>
+ <ipv6>2a02:26f0:0e80:007f:0000:0000:17d8:8691</ipv6>
+ <ipv6>2a02:26f0:0e80:007f:0000:0000:17d8:86a0</ipv6>
 </content>
 <content id="9079822" includeTime="2025-11-24T14:20:08" entryType="1" hash="9CFA11F51D1697489B7E7E3A61BD8D49" ts="2025-11-24T14:20:08">
  <decision date="2025-05-12" number="2025-05-12-4014-СОБ" org="Роскомнадзор"/>
@@ -11687,6 +12056,33 @@
  <ip>172.66.150.34</ip>
  <ipv6>2606:4700:0010:0000:0000:0000:6814:1896</ipv6>
  <ipv6>2606:4700:0010:0000:0000:0000:ac42:9622</ipv6>
+</content>
+<content id="9079824" includeTime="2025-11-26T13:55:03" entryType="1" hash="B1E3CEE3AE1346043AFE05643F7CBDA0" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://capa-vpn-master.ru.malavida.com/android/]]></url>
+ <domain><![CDATA[capa-vpn-master.ru.malavida.com]]></domain>
+ <ip>23.216.134.205</ip>
+ <ip>23.216.134.210</ip>
+ <ipv6>2a02:26f0:0e80:007f:0000:0000:17d8:8691</ipv6>
+ <ipv6>2a02:26f0:0e80:007f:0000:0000:17d8:86a0</ipv6>
+</content>
+<content id="9079825" includeTime="2025-11-26T13:55:03" entryType="1" hash="83E9C106D37AAC78B40953DF03201373" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://freedome.ru.malavida.com/android/]]></url>
+ <domain><![CDATA[freedome.ru.malavida.com]]></domain>
+ <ip>23.216.134.205</ip>
+ <ip>23.216.134.210</ip>
+ <ipv6>2a02:26f0:0e80:007f:0000:0000:17d8:8691</ipv6>
+ <ipv6>2a02:26f0:0e80:007f:0000:0000:17d8:86a0</ipv6>
+</content>
+<content id="9079826" includeTime="2025-11-26T13:55:03" entryType="1" hash="171795534CD3180BD9DC740B46B2306C" ts="2025-11-26T13:55:03">
+ <decision date="2025-10-06" number="2025-10-03-2036-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://hot-vpn.ru.malavida.com/android/]]></url>
+ <domain><![CDATA[hot-vpn.ru.malavida.com]]></domain>
+ <ip>23.216.134.205</ip>
+ <ip>23.216.134.210</ip>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c1d</ipv6>
+ <ipv6>2a02:26f0:3780:0013:0000:0000:172f:7c21</ipv6>
 </content>
 <content id="9079831" includeTime="2025-11-21T07:25:04" entryType="1" hash="EEA562FFCA979C38A4BDFA74909A05B9" blockType="domain-mask" ts="2025-11-21T07:25:04">
  <decision date="2025-09-15" number="2-6-14/2025-09-12-2285-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
