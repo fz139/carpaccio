@@ -1123,9 +1123,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6942547" includeTime="2024-04-17T10:05:03" entryType="1" hash="92A03E4EE7A60EA44175444D575A19A7" blockType="domain" ts="2024-04-17T10:05:03">
+<content id="6942547" includeTime="2024-04-17T10:05:03" entryType="1" hash="BE4C377000641E019F6511867659B15C" blockType="domain-mask" ts="2025-11-26T13:15:04">
  <decision date="2024-04-15" number="2495191-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[dextv.org]]></domain>
+ <domain><![CDATA[*.dextv.org]]></domain>
  <ip>104.21.81.47</ip>
  <ip>172.67.188.45</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:bc2d</ipv6>
@@ -1731,9 +1731,9 @@
  <ip>13.33.243.94</ip>
  <ip>13.33.243.97</ip>
 </content>
-<content id="6942825" includeTime="2024-04-17T10:05:03" entryType="1" hash="B563F727AEEB589473B682C24CD89FB2" blockType="domain" ts="2024-04-17T10:05:03">
+<content id="6942825" includeTime="2024-04-17T10:05:03" entryType="1" hash="65F4B0B677985C00585B27FB36D1E0F5" blockType="domain-mask" ts="2025-11-26T13:15:04">
  <decision date="2024-04-15" number="2495193-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[lakorny.top]]></domain>
+ <domain><![CDATA[*.lakorny.top]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>

@@ -1114,9 +1114,9 @@
  <domain><![CDATA[*.kino-free.online]]></domain>
  <ip>5.35.172.61</ip>
 </content>
-<content id="6600127" includeTime="2023-12-25T14:40:07" entryType="1" hash="BFCB6A1A8C972EF379FBCFA2F9FB8EBF" blockType="domain" ts="2023-12-25T14:40:07">
+<content id="6600127" includeTime="2023-12-25T14:40:07" entryType="1" hash="8E028F2E7C0E0E311F5DDC0764E4A22F" blockType="domain-mask" ts="2025-11-26T13:15:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[csess.ru]]></domain>
+ <domain><![CDATA[*.csess.ru]]></domain>
  <ip>104.21.56.83</ip>
  <ip>172.67.181.176</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:b5b0</ipv6>
