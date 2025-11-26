@@ -6978,9 +6978,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ce0a</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:42af</ipv6>
 </content>
-<content id="6761664" includeTime="2024-02-22T14:15:02" entryType="1" hash="1C9C688368DB796A61578D11AFD904F8" blockType="domain" ts="2025-11-26T13:55:03">
+<content id="6761664" includeTime="2024-02-22T14:15:02" entryType="1" hash="CEEC00C66E40C43BA5D4E33E875BAA8A" blockType="domain-mask" ts="2025-11-26T23:40:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[belaya-gorka.ru]]></domain>
+ <domain><![CDATA[*.belaya-gorka.ru]]></domain>
  <ip>193.105.134.30</ip>
 </content>
 <content id="6761675" includeTime="2024-02-27T19:45:03" urgencyType="1" entryType="3" hash="7CD465EEF35174BF8F2E7A4D37667A70" blockType="domain-mask" ts="2024-02-27T19:45:03">

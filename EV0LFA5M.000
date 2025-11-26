@@ -5768,9 +5768,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:11be</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:b217</ipv6>
 </content>
-<content id="6628921" includeTime="2024-01-11T13:40:05" entryType="1" hash="88E9907FC4E884C29EE40AF3F5BFE50B" blockType="domain" ts="2025-11-26T13:55:03">
+<content id="6628921" includeTime="2024-01-11T13:40:05" entryType="1" hash="50C520983C60C2BA5581F19E594CEA90" blockType="domain-mask" ts="2025-11-26T23:40:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[whitedress-perm.ru]]></domain>
+ <domain><![CDATA[*.whitedress-perm.ru]]></domain>
  <ip>193.105.134.30</ip>
 </content>
 <content id="6628926" includeTime="2024-01-10T22:40:05" entryType="1" hash="ABEB4AEA9657D0C1CBA190573DF4A05B" blockType="domain-mask" ts="2024-01-10T22:40:05">
