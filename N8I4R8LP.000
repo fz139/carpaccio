@@ -22358,9 +22358,9 @@
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c195</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:29cf</ipv6>
 </content>
-<content id="8287918" includeTime="2025-05-21T17:25:01" entryType="1" hash="F00BC7818B4C345CA5C78B88AC9D3F61" blockType="domain" ts="2025-05-21T17:25:01">
+<content id="8287918" includeTime="2025-05-21T17:25:01" entryType="1" hash="4E30A28545B8200C67F4318CB04F711C" blockType="domain-mask" ts="2025-11-27T13:35:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[kra-40at.com.ru]]></domain>
+ <domain><![CDATA[*.kra-40at.com.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>

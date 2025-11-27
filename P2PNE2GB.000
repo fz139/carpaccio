@@ -1830,9 +1830,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6611350" includeTime="2023-12-28T13:40:06" entryType="1" hash="10494FE173398A84425A45459C752B97" blockType="domain" ts="2023-12-28T13:40:06">
+<content id="6611350" includeTime="2023-12-28T13:40:06" entryType="1" hash="8BC5F937BF75AD680BB37E4AFC90CA8D" blockType="domain-mask" ts="2025-11-27T13:35:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[unsleepmu.ru]]></domain>
+ <domain><![CDATA[*.unsleepmu.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
