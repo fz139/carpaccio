@@ -4694,9 +4694,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6604126" includeTime="2023-12-26T14:15:05" entryType="1" hash="39023D5AEC03C15E0063A9F2867BB77B" blockType="domain" ts="2025-11-28T12:00:05">
+<content id="6604126" includeTime="2023-12-26T14:15:05" entryType="1" hash="25F1279A5193E23953F48C81149FE7BE" blockType="domain-mask" ts="2025-11-28T13:35:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[oka-nn.ru]]></domain>
+ <domain><![CDATA[*.oka-nn.ru]]></domain>
  <ip>193.105.134.30</ip>
 </content>
 <content id="6604128" includeTime="2023-12-26T00:00:06" entryType="1" hash="F4F21130E4D66D82BAE7D33BF764FCD2" blockType="domain-mask" ts="2023-12-26T00:00:06">
