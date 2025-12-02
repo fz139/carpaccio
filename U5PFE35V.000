@@ -19254,9 +19254,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:81f6</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:0302</ipv6>
 </content>
-<content id="6493160" includeTime="2023-11-13T13:10:04" entryType="1" hash="2C526F30F2D9D7BC5BB6F2869395D55E" blockType="domain" ts="2023-11-13T13:10:04">
+<content id="6493160" includeTime="2023-11-13T13:10:04" entryType="1" hash="E2FE8275FC9542996BC356ECAB591D59" blockType="domain-mask" ts="2025-12-02T13:55:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[resto-bel.ru]]></domain>
+ <domain><![CDATA[*.resto-bel.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
