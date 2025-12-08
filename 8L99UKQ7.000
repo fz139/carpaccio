@@ -10,9 +10,9 @@
  <ip>167.172.105.213</ip>
  <ipv6>2a03:b0c0:0003:00d0:0000:0000:1241:1001</ipv6>
 </content>
-<content id="6768381" includeTime="2024-02-27T13:45:03" entryType="1" hash="DA99B65151A31FE7DE103364B8092AEB" blockType="domain" ts="2025-02-07T15:10:03">
+<content id="6768381" includeTime="2024-02-27T13:45:03" entryType="1" hash="70B2CAE45B5E797668136E63A2B6CAA2" blockType="domain-mask" ts="2025-12-08T23:40:06">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[os-school33.ru]]></domain>
+ <domain><![CDATA[*.os-school33.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
