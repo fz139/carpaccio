@@ -4322,9 +4322,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7565496" includeTime="2024-10-30T13:45:03" entryType="1" hash="34B12AA98C732282C5A889141E118593" blockType="domain" ts="2024-10-30T13:45:03">
+<content id="7565496" includeTime="2024-10-30T13:45:03" entryType="1" hash="4AA5072951E4253E71E51736C958A464" blockType="domain-mask" ts="2025-12-09T13:40:04">
  <decision date="2024-10-28" number="2816196-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[lesbi-xxx.online]]></domain>
+ <domain><![CDATA[*.lesbi-xxx.online]]></domain>
  <ip>213.142.147.134</ip>
 </content>
 <content id="7565500" includeTime="2024-10-29T04:20:03" entryType="1" hash="18B50F3DB8FDA3133B8C069F449AE3BB" blockType="domain-mask" ts="2024-10-29T04:20:03">
@@ -4925,15 +4925,6 @@
  <domain><![CDATA[*.savvita.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
-</content>
-<content id="7565681" includeTime="2024-10-30T13:45:03" entryType="1" hash="F3B020B21753CC18684302613302C259" ts="2024-10-30T13:45:03">
- <decision date="2024-10-28" number="2816197-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://d-w.lrdfilm-6.pro/162-eiforiia-270.html]]></url>
- <domain><![CDATA[d-w.lrdfilm-6.pro]]></domain>
- <ip>104.21.85.81</ip>
- <ip>172.67.203.218</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:5551</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:cbda</ipv6>
 </content>
 <content id="7565682" includeTime="2024-10-29T14:40:03" entryType="1" hash="DF3A4C7D08653F2EC7548E0798DE51A5" blockType="domain-mask" ts="2025-11-19T13:15:04">
  <decision date="2024-10-22" number="2а-3056/2024" org="Кунгурский городской суд - Пермский край"/>
