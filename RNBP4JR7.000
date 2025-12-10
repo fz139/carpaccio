@@ -17415,9 +17415,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1d38</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:ab62</ipv6>
 </content>
-<content id="6793396" includeTime="2024-03-07T13:45:03" entryType="1" hash="C862E693C94B9E95E89AFF934E35662F" blockType="domain" ts="2024-03-07T13:45:03">
+<content id="6793396" includeTime="2024-03-07T13:45:03" entryType="1" hash="F47123F439EEEEE44F841D5B3AE1F72D" blockType="domain-mask" ts="2025-12-10T23:40:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[sv-msk.ru]]></domain>
+ <domain><![CDATA[*.sv-msk.ru]]></domain>
  <ip>104.21.57.191</ip>
  <ip>172.67.191.160</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:39bf</ipv6>

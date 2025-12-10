@@ -519,17 +519,17 @@
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea1c</ipv6>
  <ipv6>2606:4700:3038:0000:0000:0000:6815:ea1d</ipv6>
 </content>
-<content id="6483699" includeTime="2023-11-08T13:35:03" entryType="1" hash="9382504B45A54A2C052EC6D299E42A5A" blockType="domain" ts="2023-11-08T13:35:03">
+<content id="6483699" includeTime="2023-11-08T13:35:03" entryType="1" hash="64DB6B0171812FA0BD4D3A4BE1503B65" blockType="domain-mask" ts="2025-12-10T23:40:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[ideltower.ru]]></domain>
+ <domain><![CDATA[*.ideltower.ru]]></domain>
  <ip>104.21.64.201</ip>
  <ip>172.67.136.52</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8834</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:40c9</ipv6>
 </content>
-<content id="6483701" includeTime="2023-11-08T13:35:03" entryType="1" hash="0C28A6D558EEDC3F1B27DE52B480AED6" blockType="domain" ts="2023-11-08T13:35:03">
+<content id="6483701" includeTime="2023-11-08T13:35:03" entryType="1" hash="92DF9CB635C8101392F179351C782C23" blockType="domain-mask" ts="2025-12-10T23:40:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[formula1service.ru]]></domain>
+ <domain><![CDATA[*.formula1service.ru]]></domain>
  <ip>104.21.21.130</ip>
  <ip>172.67.198.204</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c6cc</ipv6>
