@@ -7844,9 +7844,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6516019" includeTime="2023-11-22T15:45:04" entryType="1" hash="653F07C5BDFE6048B7F3A63181936EE6" blockType="domain" ts="2023-11-22T15:45:04">
+<content id="6516019" includeTime="2023-11-22T15:45:04" entryType="1" hash="92E9DA1375A88F4609EC6D3164638439" blockType="domain-mask" ts="2025-12-11T12:55:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[sto-petroparts.ru]]></domain>
+ <domain><![CDATA[*.sto-petroparts.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
