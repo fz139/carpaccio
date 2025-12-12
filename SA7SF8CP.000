@@ -1158,9 +1158,9 @@
  <ip>104.21.73.96</ip>
  <ip>172.67.189.91</ip>
 </content>
-<content id="6537627" includeTime="2023-11-30T21:50:04" entryType="1" hash="61D71FE475C2D9B8D55297FE4A73505E" blockType="domain" ts="2024-06-26T00:10:03">
+<content id="6537627" includeTime="2023-11-30T21:50:04" entryType="1" hash="DA8778E012E7C0870551CD90CD6CD076" blockType="domain-mask" ts="2025-12-12T00:20:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[imc-msk.ru]]></domain>
+ <domain><![CDATA[*.imc-msk.ru]]></domain>
  <ip>104.21.82.62</ip>
  <ip>172.67.197.110</ip>
  <ip>188.114.96.1</ip>

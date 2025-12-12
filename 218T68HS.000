@@ -10004,9 +10004,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5406</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:b883</ipv6>
 </content>
-<content id="6193329" includeTime="2023-07-12T14:18:18" entryType="1" hash="96683157BD205067D004C226A25C72A0" blockType="domain" ts="2023-07-21T09:05:02">
+<content id="6193329" includeTime="2023-07-12T14:18:18" entryType="1" hash="9D0C449A30109D207313B30E917EFF95" blockType="domain-mask" ts="2025-12-12T00:20:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[onegps.ru]]></domain>
+ <domain><![CDATA[*.onegps.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>

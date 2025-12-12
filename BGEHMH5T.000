@@ -12388,9 +12388,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:2004</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:b5e5</ipv6>
 </content>
-<content id="6643197" includeTime="2024-01-16T13:40:05" entryType="1" hash="45314A1C3911386133F1511BBB379AEE" blockType="domain" ts="2024-01-16T13:40:05">
+<content id="6643197" includeTime="2024-01-16T13:40:05" entryType="1" hash="057ECDA3472F9CBF17672CC9915EA52F" blockType="domain-mask" ts="2025-12-12T00:20:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[kaef-studio.ru]]></domain>
+ <domain><![CDATA[*.kaef-studio.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>

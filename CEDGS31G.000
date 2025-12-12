@@ -17825,9 +17825,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:a24d</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3aaa</ipv6>
 </content>
-<content id="6938132" includeTime="2024-04-15T14:25:02" entryType="1" hash="BA74F4E81E3687D86D4EFC9324F47E1B" blockType="domain" ts="2024-04-15T14:25:02">
+<content id="6938132" includeTime="2024-04-15T14:25:02" entryType="1" hash="B30905B6BD98DF1ED04DA2D20C83A8F1" blockType="domain-mask" ts="2025-12-12T00:20:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[albatrosprint.ru]]></domain>
+ <domain><![CDATA[*.albatrosprint.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
