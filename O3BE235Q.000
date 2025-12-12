@@ -2902,10 +2902,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:37b1</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:9682</ipv6>
 </content>
-<content id="6556295" includeTime="2023-12-07T14:05:03" entryType="1" hash="2437D7CB532D0695F9A9FD85425F59B9" ts="2023-12-07T14:05:03">
+<content id="6556295" includeTime="2023-12-07T14:05:03" entryType="1" hash="906DF22D0954D25FC1D62B0EA20CFEB0" blockType="domain-mask" ts="2025-12-12T13:10:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://lflivanovo.ru]]></url>
- <domain><![CDATA[lflivanovo.ru]]></domain>
+ <domain><![CDATA[*.lflivanovo.ru]]></domain>
  <ip>104.21.47.31</ip>
  <ip>172.67.144.43</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:902b</ipv6>

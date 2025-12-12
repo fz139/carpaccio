@@ -4644,9 +4644,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6628750" includeTime="2024-01-11T13:40:05" entryType="1" hash="566C827FBB879B77ED3D282E5B54B7C2" blockType="domain" ts="2024-01-11T13:40:05">
+<content id="6628750" includeTime="2024-01-11T13:40:05" entryType="1" hash="17E4441C79567DDE83806EDFCF10875C" blockType="domain-mask" ts="2025-12-12T13:10:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[avantfoto42.ru]]></domain>
+ <domain><![CDATA[*.avantfoto42.ru]]></domain>
  <ip>104.21.1.77</ip>
  <ip>172.67.128.200</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:80c8</ipv6>

@@ -1232,9 +1232,9 @@
  <ip>104.21.59.185</ip>
  <ip>172.67.182.111</ip>
 </content>
-<content id="6511971" includeTime="2023-11-21T14:25:03" entryType="1" hash="BDFD37822E341B6FD41F43ACB66E8A6D" blockType="domain" ts="2023-11-21T14:25:03">
+<content id="6511971" includeTime="2023-11-21T14:25:03" entryType="1" hash="1F1483648E3B66B1CD894829A72659CD" blockType="domain-mask" ts="2025-12-12T13:10:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[artmotion-dance.ru]]></domain>
+ <domain><![CDATA[*.artmotion-dance.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
