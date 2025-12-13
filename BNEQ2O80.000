@@ -1375,9 +1375,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6664432" includeTime="2024-01-24T00:00:03" entryType="1" hash="25169F4305E2CBCEBA370836E15CCDCD" blockType="domain" ts="2024-07-09T12:40:03">
+<content id="6664432" includeTime="2024-01-24T00:00:03" entryType="1" hash="DF4E66A6CF7B5F17213C9646BB506DF2" blockType="domain-mask" ts="2025-12-13T08:35:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[restaurant-metel.ru]]></domain>
+ <domain><![CDATA[*.restaurant-metel.ru]]></domain>
  <ip>104.21.24.163</ip>
  <ip>172.67.219.154</ip>
  <ip>188.114.96.1</ip>
@@ -2233,9 +2233,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:5827</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:ac49</ipv6>
 </content>
-<content id="6664731" includeTime="2024-01-23T15:20:04" entryType="1" hash="78EDC9504915D1110995591644871295" blockType="domain" ts="2024-07-09T12:40:03">
+<content id="6664731" includeTime="2024-01-23T15:20:04" entryType="1" hash="6B7079DCEBB02655FCA8E3F536CACD1E" blockType="domain-mask" ts="2025-12-13T08:35:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[veterinarka36.ru]]></domain>
+ <domain><![CDATA[*.veterinarka36.ru]]></domain>
  <ip>104.21.89.8</ip>
  <ip>172.67.155.104</ip>
  <ip>188.114.96.1</ip>
