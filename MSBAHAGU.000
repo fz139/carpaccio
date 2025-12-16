@@ -2698,10 +2698,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6674348" includeTime="2024-01-25T23:05:03" entryType="1" hash="183CC407376F6EB317F3E40B60042B28" ts="2024-01-25T23:05:03">
+<content id="6674348" includeTime="2024-01-25T23:05:03" entryType="1" hash="294C5ACFBB971D15DFE3D29D13F0E6D8" blockType="domain-mask" ts="2025-12-16T13:15:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://banivrusskomstile.ru]]></url>
- <domain><![CDATA[banivrusskomstile.ru]]></domain>
+ <domain><![CDATA[*.banivrusskomstile.ru]]></domain>
  <ip>104.21.22.234</ip>
  <ip>172.67.207.149</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:cf95</ipv6>

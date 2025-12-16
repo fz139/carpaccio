@@ -4282,9 +4282,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:da06</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2614</ipv6>
 </content>
-<content id="6760815" includeTime="2024-02-22T14:15:02" entryType="1" hash="7AF1750A091B104EE9CA8932586B1486" blockType="domain" ts="2024-02-22T14:15:02">
+<content id="6760815" includeTime="2024-02-22T14:15:02" entryType="1" hash="B442BEC43667486EEAD121D52F270CAB" blockType="domain-mask" ts="2025-12-16T13:15:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[fabrica-cvetov.ru]]></domain>
+ <domain><![CDATA[*.fabrica-cvetov.ru]]></domain>
  <ip>104.21.8.19</ip>
  <ip>172.67.156.179</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:0813</ipv6>
@@ -12825,14 +12825,6 @@
  <domain><![CDATA[oxygen-pharma.ru]]></domain>
  <ip>185.212.130.10</ip>
 </content>
-<content id="6764181" includeTime="2024-02-26T13:40:04" entryType="1" hash="F95D17B6DA02D574E57F06C994CA669B" blockType="domain" ts="2024-02-26T13:40:04">
- <decision date="2024-02-22" number="2024-02-21-3810-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[ltd.sportmagaz.shop]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6764191" includeTime="2024-02-22T23:35:03" entryType="1" hash="935630410F2EAC44EDA4E1B8292CB098" blockType="domain-mask" ts="2024-02-22T23:35:03">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.1xlite-220208.top]]></domain>
@@ -13674,8 +13666,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:8e6e</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:471b</ipv6>
 </content>
-<content id="6764389" includeTime="2024-02-26T13:40:04" entryType="1" hash="805A27EA0338D53D018B6B07294BD2AA" blockType="domain" ts="2024-02-26T13:40:04">
+<content id="6764389" includeTime="2024-02-26T13:40:04" entryType="1" hash="744E2C9A75FCA427F7E26B93BB3A03A1" ts="2025-12-16T13:15:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://www.fabrica-cvetov.ru/]]></url>
  <domain><![CDATA[www.fabrica-cvetov.ru]]></domain>
  <ip>104.21.8.19</ip>
  <ip>172.67.156.179</ip>

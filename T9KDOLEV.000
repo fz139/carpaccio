@@ -4311,9 +4311,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:5c3a</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:bb13</ipv6>
 </content>
-<content id="7400650" includeTime="2024-09-09T15:05:02" entryType="1" hash="8ED409FB3F0488E503CE8632232F5BC1" blockType="domain" ts="2024-09-09T15:05:02">
+<content id="7400650" includeTime="2024-09-09T15:05:02" entryType="1" hash="394E7753E6DF1C33089937EC525AF2F2" blockType="domain-mask" ts="2025-12-16T13:15:05">
  <decision date="2016-08-22" number="2-1225/16" org="Железнодорожный районный суд г. Орла - Орловская область"/>
- <domain><![CDATA[sochi-dosug.net]]></domain>
+ <domain><![CDATA[*.sochi-dosug.net]]></domain>
  <ip>104.21.63.4</ip>
  <ip>172.67.168.244</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:3f04</ipv6>

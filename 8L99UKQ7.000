@@ -2004,9 +2004,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ba3a</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:5097</ipv6>
 </content>
-<content id="6769027" includeTime="2024-02-27T13:45:03" entryType="1" hash="A169FB34F546ABBD477F1FEDC67F8047" blockType="domain" ts="2024-02-27T13:45:03">
+<content id="6769027" includeTime="2024-02-27T13:45:03" entryType="1" hash="52A2261BF07379D3174834D2DEC20C1B" blockType="domain-mask" ts="2025-12-16T13:15:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[furniture-profi.ru]]></domain>
+ <domain><![CDATA[*.furniture-profi.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>

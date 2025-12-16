@@ -13557,9 +13557,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6575709" includeTime="2023-12-14T22:55:04" entryType="1" hash="C6825C9CDFAE3B724A01C9C17C25FFD6" blockType="domain" ts="2023-12-15T13:10:06">
+<content id="6575709" includeTime="2023-12-14T22:55:04" entryType="1" hash="16F1429BA034252D20CD16F36126AA54" blockType="domain-mask" ts="2025-12-16T13:15:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[sovetsk-cgb.ru]]></domain>
+ <domain><![CDATA[*.sovetsk-cgb.ru]]></domain>
  <ip>104.21.2.127</ip>
  <ip>172.67.152.204</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:98cc</ipv6>

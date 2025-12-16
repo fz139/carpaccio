@@ -146,9 +146,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:180b</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:d748</ipv6>
 </content>
-<content id="6865223" includeTime="2024-03-21T14:05:02" entryType="1" hash="4BD223E28FB6A8415D02AE8BB7801BA7" blockType="domain" ts="2024-03-21T14:05:02">
+<content id="6865223" includeTime="2024-03-21T14:05:02" entryType="1" hash="B09B144B08371F1A808B31B37CF2A7E2" blockType="domain-mask" ts="2025-12-16T13:15:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[mebel-is.ru]]></domain>
+ <domain><![CDATA[*.mebel-is.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
