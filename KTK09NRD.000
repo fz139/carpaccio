@@ -13873,9 +13873,9 @@
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:cc11</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:4281</ipv6>
 </content>
-<content id="7658204" includeTime="2024-11-29T07:15:03" entryType="1" hash="0CF0B9C5D0ECA939737E1F51F384A980" blockType="domain" ts="2024-11-29T07:15:03">
+<content id="7658204" includeTime="2024-11-29T07:15:03" entryType="1" hash="64D3BACCA08EFF703B94DC6F985C5742" blockType="domain-mask" ts="2025-12-17T14:00:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[novsvet18.ru]]></domain>
+ <domain><![CDATA[*.novsvet18.ru]]></domain>
  <ip>104.21.64.94</ip>
  <ip>172.67.180.142</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:405e</ipv6>

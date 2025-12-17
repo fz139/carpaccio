@@ -8367,14 +8367,6 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:be3f</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:13dc</ipv6>
 </content>
-<content id="7350071" includeTime="2024-09-17T18:10:01" entryType="1" hash="52EFFAEDCBDC964D24D5C3676BF1FDF3" blockType="domain" ts="2024-09-17T18:10:01">
- <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
- <domain><![CDATA[a.prostitutkiadler2.net]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="7350074" includeTime="2024-08-26T14:05:03" entryType="1" hash="C002407C8512505113073FAB8D97CD1C" blockType="domain" ts="2024-08-26T14:05:03">
  <decision date="2023-12-22" number="2а-4499/2023" org="Ленинский районный суд г. Ижевска - Удмуртская Республика"/>
  <domain><![CDATA[prostitutkirostovagid.info]]></domain>
@@ -8659,9 +8651,9 @@
  <domain><![CDATA[prostitutkikrasnodaraneed.net]]></domain>
  <ip>5.61.52.141</ip>
 </content>
-<content id="7350471" includeTime="2024-09-17T18:10:01" entryType="1" hash="6DF759E5525F8D53361C61EF975BFE75" blockType="domain" ts="2024-09-17T18:10:01">
+<content id="7350471" includeTime="2024-09-17T18:10:01" entryType="1" hash="5A7DD101C0A63A1E62DEE3B5E5B3BAC6" blockType="domain-mask" ts="2025-12-17T14:00:03">
  <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
- <domain><![CDATA[prostitutkiadler2.net]]></domain>
+ <domain><![CDATA[*.prostitutkiadler2.net]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
