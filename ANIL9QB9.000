@@ -3611,9 +3611,9 @@
  <ip>104.27.128.112</ip>
  <ip>104.27.129.112</ip>
 </content>
-<content id="424988" includeTime="2017-01-20T20:24:07" entryType="1" hash="A5328F6F89E4F90A4AE2274CC248A33B" blockType="domain" ts="2023-12-20T13:05:03">
+<content id="424988" includeTime="2017-01-20T20:24:07" entryType="1" hash="DDDCED020150AEAC7612507B7EB15DAF" blockType="domain-mask" ts="2025-12-18T23:15:04">
  <decision date="2015-08-27" number="2-5521/2015" org="Центральный районный суд г. Красноярска"/>
- <domain><![CDATA[intim27.org]]></domain>
+ <domain><![CDATA[*.intim27.org]]></domain>
  <ip>104.21.71.223</ip>
  <ip>172.67.149.182</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:47df</ipv6>
@@ -8382,14 +8382,6 @@
  <ip>172.67.183.131</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:b783</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:4071</ipv6>
-</content>
-<content id="443448" includeTime="2017-02-08T20:53:46" entryType="1" hash="7AF1BF3B07E8831934E3DEA1B04E81D2" blockType="domain" ts="2023-12-20T13:05:03">
- <decision date="2016-12-26" number="2-14220/2016" org="Кировский районный суд г. Уфы - Республика Башкортостан"/>
- <domain><![CDATA[www.intim27.org]]></domain>
- <ip>104.21.71.223</ip>
- <ip>172.67.149.182</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:47df</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:95b6</ipv6>
 </content>
 <content id="443466" includeTime="2017-02-07T20:59:47" entryType="1" hash="3CD4F87F25446DD79BFABF58608DBC1D" blockType="domain" ts="2017-02-07T20:59:47">
  <decision date="2017-02-03" number="2-6-20/2017-02-02-41" org="ФНС"/>
