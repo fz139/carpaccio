@@ -2306,9 +2306,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="9159338" includeTime="2025-12-10T00:40:04" entryType="1" hash="96BCD5E5A0FA435302AD9A6C85FC1060" blockType="domain" ts="2025-12-10T00:40:04">
+<content id="9159338" includeTime="2025-12-10T00:40:04" entryType="1" hash="681F6E004330365CDDDBD65EB7E20678" blockType="domain-mask" ts="2025-12-23T06:55:03">
  <decision date="2025-12-05" number="2-6-14/2025-12-02-13290-ÀÈ" org="ÔÍÑ"/>
- <domain><![CDATA[your-haus.ru]]></domain>
+ <domain><![CDATA[*.your-haus.ru]]></domain>
  <ip>104.21.85.45</ip>
  <ip>172.67.202.73</ip>
 </content>

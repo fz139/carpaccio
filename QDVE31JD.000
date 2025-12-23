@@ -2629,9 +2629,9 @@
  <domain><![CDATA[ushop.in.ua]]></domain>
  <ip>176.97.76.52</ip>
 </content>
-<content id="3802437" includeTime="2021-11-23T22:42:26" entryType="1" hash="60C34AA073187F5A6E044DB86855FD1B" blockType="domain" ts="2021-11-23T22:42:26">
+<content id="3802437" includeTime="2021-11-23T22:42:26" entryType="1" hash="F99AA49E4EB061AE7E8F450180AE4DBC" blockType="domain-mask" ts="2025-12-22T13:40:05">
  <decision date="2021-11-22" number="2021-11-16-1056-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[india-expres-24.ru]]></domain>
+ <domain><![CDATA[*.india-expres-24.ru]]></domain>
  <ip>104.21.63.175</ip>
  <ip>172.67.148.215</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:94d7</ipv6>
@@ -5376,9 +5376,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="3808139" includeTime="2021-11-25T14:26:38" entryType="1" hash="8665FAD778073F1B0B384F7EE5E042A8" blockType="domain" ts="2021-11-25T14:26:38">
+<content id="3808139" includeTime="2021-11-25T14:26:38" entryType="1" hash="E050C56138F65F5C3F8E001A227CB43B" blockType="domain-mask" ts="2025-12-22T13:40:05">
  <decision date="2021-11-23" number="2021-11-21-429-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[india-helps8-7.ru]]></domain>
+ <domain><![CDATA[*.india-helps8-7.ru]]></domain>
  <ip>104.21.78.112</ip>
  <ip>172.67.220.101</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:dc65</ipv6>
@@ -5551,14 +5551,6 @@
  <domain><![CDATA[images.uncyclomedia.co]]></domain>
  <ip>176.31.248.206</ip>
  <ipv6>2001:41d0:0008:09ce:0000:0000:0000:0000</ipv6>
-</content>
-<content id="3808401" includeTime="2021-11-25T14:26:41" entryType="1" hash="61D09CF05D99A853A18EB908647BC80B" blockType="domain" ts="2021-11-25T14:26:41">
- <decision date="2021-11-23" number="2021-11-21-428-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[express.india-helps8-7.ru]]></domain>
- <ip>104.21.78.112</ip>
- <ip>172.67.220.101</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:dc65</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:4e70</ipv6>
 </content>
 <content id="3808450" includeTime="2021-11-29T13:47:02" entryType="1" hash="AE544E7688878FD67CE28FE2332C7899" ts="2021-11-29T13:47:02">
  <decision date="2021-05-04" number="2а-1-76/2021" org="Новодеревеньковский районный суд - Орловская область"/>

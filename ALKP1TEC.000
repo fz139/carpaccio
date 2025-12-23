@@ -543,15 +543,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6559658" includeTime="2023-12-11T22:55:02" entryType="1" hash="43D635880BECA184918B4AA261893DEC" ts="2023-12-11T22:55:02">
- <decision date="2023-12-07" number="2023-12-01-1595-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <url><![CDATA[https://alkonew.ru/zakazat/]]></url>
- <domain><![CDATA[alkonew.ru]]></domain>
- <ip>104.21.46.119</ip>
- <ip>172.67.168.121</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:2e77</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:a879</ipv6>
-</content>
 <content id="6559660" includeTime="2023-12-07T22:20:04" entryType="1" hash="A86CEB11720A11AC12B103EDDC09D1EC" blockType="domain-mask" ts="2023-12-07T22:20:04">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.cazinos-goldy.xyz]]></domain>
@@ -1766,11 +1757,6 @@
  <domain><![CDATA[*.driftcasino-help1.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
-</content>
-<content id="6560127" includeTime="2023-12-11T22:55:02" entryType="1" hash="239546750E7E5E6B72E2114E1BF3A11F" blockType="domain" ts="2024-10-22T09:35:02">
- <decision date="2023-12-06" number="2023-12-05-3666-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[ru62.homosteron.vip]]></domain>
- <ip>45.10.243.81</ip>
 </content>
 <content id="6560128" includeTime="2023-12-07T22:20:04" entryType="1" hash="449A8309683B06EA241D7BBA4E6D7136" blockType="domain-mask" ts="2023-12-07T22:20:04">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -7566,9 +7552,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6563211" includeTime="2023-12-11T13:40:06" entryType="1" hash="A92344DA167E1BA14F86412C5BA81948" blockType="domain" ts="2023-12-11T13:40:06">
+<content id="6563211" includeTime="2023-12-11T13:40:06" entryType="1" hash="E67E34A9F3ED7C2FA1C48AE0DA159A47" blockType="domain-mask" ts="2025-12-22T13:40:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[dragkameshki.ru]]></domain>
+ <domain><![CDATA[*.dragkameshki.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
