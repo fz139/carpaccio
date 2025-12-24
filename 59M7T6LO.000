@@ -1940,9 +1940,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:b1a2</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:23a2</ipv6>
 </content>
-<content id="6714614" includeTime="2024-02-07T11:20:04" entryType="1" hash="6633BFD9094A9558116850F5AEDF96BF" blockType="domain" ts="2024-02-07T11:20:04">
+<content id="6714614" includeTime="2024-02-07T11:20:04" entryType="1" hash="3A0F9AC2C36655E9A4D4DEB6A239F786" blockType="domain-mask" ts="2025-12-25T00:20:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[dacharest.ru]]></domain>
+ <domain><![CDATA[*.dacharest.ru]]></domain>
  <ip>104.21.8.67</ip>
  <ip>172.67.138.162</ip>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:0843</ipv6>
@@ -23426,9 +23426,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6723230" includeTime="2024-02-09T11:50:05" entryType="1" hash="2BDE1772B86E87C52511601091E758AE" blockType="domain" ts="2024-02-09T11:50:05">
+<content id="6723230" includeTime="2024-02-09T11:50:05" entryType="1" hash="98E23DAE5519467829EFE65564955421" blockType="domain-mask" ts="2025-12-25T00:20:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[linekoss.ru]]></domain>
+ <domain><![CDATA[*.linekoss.ru]]></domain>
  <ip>104.21.75.28</ip>
  <ip>172.67.167.1</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a701</ipv6>

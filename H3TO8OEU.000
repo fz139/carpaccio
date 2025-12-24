@@ -9257,9 +9257,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2b64</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:b204</ipv6>
 </content>
-<content id="6516592" includeTime="2023-11-22T15:45:04" entryType="1" hash="2AEDAB80064B7F981A8112691BC829F7" blockType="domain" ts="2023-11-22T15:45:04">
+<content id="6516592" includeTime="2023-11-22T15:45:04" entryType="1" hash="E767B171E5C55AEB42CABE9D52E28660" blockType="domain-mask" ts="2025-12-25T00:20:05">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[atbmksvatson.ru]]></domain>
+ <domain><![CDATA[*.atbmksvatson.ru]]></domain>
  <ip>104.21.5.105</ip>
  <ip>172.67.133.83</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:0569</ipv6>
