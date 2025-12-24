@@ -4160,10 +4160,10 @@
  <domain><![CDATA[*.altvpn.work]]></domain>
  <ip>82.22.184.99</ip>
 </content>
-<content id="9203252" includeTime="2025-12-19T18:15:03" entryType="1" hash="8ED0E312ACCC8E2E9023519229AB79B0" blockType="domain-mask" ts="2025-12-19T18:15:03">
+<content id="9203252" includeTime="2025-12-19T18:15:03" entryType="1" hash="43BED2494890A69EFBCF8562BC22BAE8" blockType="domain-mask" ts="2025-12-23T16:20:04">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.ytbam.live]]></domain>
- <ip>178.236.252.169</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9203253" includeTime="2025-12-19T18:15:03" entryType="1" hash="7F87DF79457866B75693CE99DB5D359F" blockType="domain-mask" ts="2025-12-19T18:15:03">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
@@ -5942,22 +5942,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:99fb</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0464</ipv6>
 </content>
-<content id="9203665" includeTime="2025-12-18T15:30:05" entryType="1" hash="F4EEB330CF85894AFD32E6BF00345A05" blockType="domain-mask" ts="2025-12-18T15:30:05">
- <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[*.megawebmg.com]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="9203666" includeTime="2025-12-18T15:30:05" entryType="1" hash="D9AA33B001CD52CD4840687A58246973" blockType="domain-mask" ts="2025-12-18T15:30:05">
- <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[*.krakenonionsite.com]]></domain>
- <ip>104.21.72.215</ip>
- <ip>172.67.155.157</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:48d7</ipv6>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:9b9d</ipv6>
-</content>
 <content id="9203667" includeTime="2025-12-18T15:30:05" entryType="1" hash="F3C240037ED9E34120FA8B3388C576A0" blockType="domain-mask" ts="2025-12-18T15:30:05">
  <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.psyhologtoday.ru]]></domain>
@@ -6038,15 +6022,6 @@
  <url><![CDATA[https://www.distinctiveimpressions.ca/2025/09/15/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D1%84%D0%BE%D1%80%D1%83%D0%BC-2025-%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C]]></url>
  <domain><![CDATA[www.distinctiveimpressions.ca]]></domain>
  <ip>159.203.53.119</ip>
-</content>
-<content id="9203690" includeTime="2025-12-20T08:20:04" entryType="1" hash="598EB2A1B9B2CCC583446D96D2277D9D" ts="2025-12-20T08:20:04">
- <decision date="2025-12-16" number="2025-12-09-11852" org="МВД"/>
- <url><![CDATA[https://welena.ru/short-nails/svarit-vint-v-domashnih-usloviyah-podrobnaya-instrukciya-chto-takoe-vint-u-narikov.html]]></url>
- <domain><![CDATA[welena.ru]]></domain>
- <ip>104.21.29.27</ip>
- <ip>172.67.148.79</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:1d1b</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:944f</ipv6>
 </content>
 <content id="9203692" includeTime="2025-12-19T18:15:03" entryType="1" hash="5DBC9D2C1C6DA2BFA012E94EC7D87C01" ts="2025-12-19T18:15:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -6491,10 +6466,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="9203849" includeTime="2025-12-19T18:15:03" entryType="1" hash="397CCA3FE305D594156F84BC1D78B827" blockType="domain-mask" ts="2025-12-19T18:15:03">
+<content id="9203849" includeTime="2025-12-19T18:15:03" entryType="1" hash="0DD6D0526F72B436B1DD307101FCE9A9" blockType="domain-mask" ts="2025-12-23T11:15:04">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.vpnkovalenko.info]]></domain>
- <ip>52.38.173.188</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9203850" includeTime="2025-12-19T18:15:03" entryType="1" hash="DA89C9B15F63CF389FEB79C20541D05F" blockType="domain-mask" ts="2025-12-19T18:15:03">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
@@ -7445,30 +7420,6 @@
  <decision date="2024-02-19" number="определение о предварительном обеспечении по заявлению № 2И-3694/2024" org="Мосгорсуд"/>
  <url><![CDATA[https://03-12-25.torrent24.org/105518-pryatki-1-2-sezon-1-9-seriya-26-10-1157.html]]></url>
  <domain><![CDATA[03-12-25.torrent24.org]]></domain>
- <ip>144.124.242.65</ip>
-</content>
-<content id="9205280" includeTime="2025-12-17T19:15:03" entryType="2" hash="09F8AEA56859AC191EA2AA521B461F50" ts="2025-12-17T19:15:03">
- <decision date="2025-07-18" number="определение о предварительном обеспечении по заявлению № 2И-10540/2025" org="Мосгорсуд"/>
- <url><![CDATA[https://190925.torrent24.name/110942-proklyatyy-ostrov-08-08-1240.html]]></url>
- <domain><![CDATA[190925.torrent24.name]]></domain>
- <ip>144.124.242.65</ip>
-</content>
-<content id="9205281" includeTime="2025-12-17T19:15:03" entryType="2" hash="58888C3762224CEFFE2AC5B3F415209E" ts="2025-12-17T19:15:03">
- <decision date="2025-07-18" number="определение о предварительном обеспечении по заявлению № 2И-10540/2025" org="Мосгорсуд"/>
- <url><![CDATA[https://281025.tartugi.name/110942-proklyatyy-ostrov-09-08-0115.html]]></url>
- <domain><![CDATA[281025.tartugi.name]]></domain>
- <ip>144.124.242.65</ip>
-</content>
-<content id="9205282" includeTime="2025-12-17T19:15:03" entryType="2" hash="7BDF2BF7E3600D2163D6F9F44624DCC4" ts="2025-12-17T19:15:03">
- <decision date="2025-07-18" number="определение о предварительном обеспечении по заявлению № 2И-10540/2025" org="Мосгорсуд"/>
- <url><![CDATA[https://291025.zalipni.pro/110942-proklyatyy-ostrov-09-08-0115.html]]></url>
- <domain><![CDATA[291025.zalipni.pro]]></domain>
- <ip>144.124.242.65</ip>
-</content>
-<content id="9205283" includeTime="2025-12-17T19:15:03" entryType="2" hash="11FE99FFF02A92A075FFFC46508B73C3" ts="2025-12-17T19:15:03">
- <decision date="2025-07-18" number="определение о предварительном обеспечении по заявлению № 2И-10540/2025" org="Мосгорсуд"/>
- <url><![CDATA[https://311025.kinogid.top/110942-proklyatyy-ostrov-09-08-0115.html]]></url>
- <domain><![CDATA[311025.kinogid.top]]></domain>
  <ip>144.124.242.65</ip>
 </content>
 <content id="9205284" includeTime="2025-12-17T19:15:03" entryType="2" hash="8B9D7D6D4DB56C35237D45A710E287E8" ts="2025-12-17T19:15:03">
