@@ -831,9 +831,9 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
-<content id="6585744" includeTime="2023-12-19T13:30:05" entryType="1" hash="35D54370F09072C917811F2BDAD0DD54" blockType="domain" ts="2023-12-19T13:30:05">
+<content id="6585744" includeTime="2023-12-19T13:30:05" entryType="1" hash="429999BEC1A1612FAE81605F5C7FE857" blockType="domain-mask" ts="2025-12-26T12:55:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[orfeyhi-fi.ru]]></domain>
+ <domain><![CDATA[*.orfeyhi-fi.ru]]></domain>
  <ip>104.21.66.132</ip>
  <ip>172.67.160.98</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4284</ipv6>
