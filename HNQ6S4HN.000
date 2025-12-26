@@ -1647,9 +1647,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="8239333" includeTime="2025-05-07T07:00:03" entryType="1" hash="F1C68C1A0B84DD31181070758632AE2A" blockType="domain" ts="2025-05-07T07:00:03">
+<content id="8239333" includeTime="2025-05-07T07:00:03" entryType="1" hash="63AD68A3F1979DD8B38DCD6642E692C1" blockType="domain-mask" ts="2025-12-26T07:25:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[kra39.com.ru]]></domain>
+ <domain><![CDATA[*.kra39.com.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>

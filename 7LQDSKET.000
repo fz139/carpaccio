@@ -555,9 +555,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6713738" includeTime="2024-02-07T11:20:04" entryType="1" hash="BA2182C8B5CCFD4A5B86BA95EE3A3886" blockType="domain" ts="2024-06-25T13:25:03">
+<content id="6713738" includeTime="2024-02-07T11:20:04" entryType="1" hash="432545457466CCFF1243207BEC526E6B" blockType="domain-mask" ts="2025-12-26T07:25:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[jrbeautylab.ru]]></domain>
+ <domain><![CDATA[*.jrbeautylab.ru]]></domain>
  <ip>104.21.68.16</ip>
  <ip>172.67.184.220</ip>
  <ip>188.114.96.1</ip>

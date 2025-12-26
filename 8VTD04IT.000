@@ -4097,9 +4097,9 @@
  <domain><![CDATA[forum.bmwhouse.ee]]></domain>
  <ip>217.146.69.8</ip>
 </content>
-<content id="5536251" includeTime="2023-03-06T14:26:44" entryType="1" hash="0C338C5F726B2CB944DB86365D80119E" blockType="domain" ts="2023-03-06T14:26:44">
+<content id="5536251" includeTime="2023-03-06T14:26:44" entryType="1" hash="CC2A5E30651AE19FFF6598E6FCD378BC" blockType="domain-mask" ts="2025-12-26T07:25:04">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[da-74.ru]]></domain>
+ <domain><![CDATA[*.da-74.ru]]></domain>
  <ip>104.21.35.252</ip>
  <ip>172.67.181.198</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:b5c6</ipv6>
