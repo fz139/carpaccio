@@ -8597,9 +8597,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6284240" includeTime="2023-08-25T14:45:02" entryType="1" hash="2050712574E7AE13291B98972D6C71C6" blockType="domain" ts="2023-08-25T14:45:02">
+<content id="6284240" includeTime="2023-08-25T14:45:02" entryType="1" hash="0B6FF6466505DC8A46D12327B6BCEB5E" blockType="domain-mask" ts="2025-12-29T21:05:03">
  <decision date="2023-08-17" number="2202674-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[gamcore.com]]></domain>
+ <domain><![CDATA[*.gamcore.com]]></domain>
  <ip>51.195.73.91</ip>
  <ipv6>2001:41d0:0700:4933:0105:0000:0000:0001</ipv6>
 </content>
