@@ -9067,9 +9067,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6534474" includeTime="2023-11-29T10:05:03" entryType="1" hash="9421979F663DC9DC5AE1D8DF7EB25A61" blockType="domain" ts="2023-11-29T10:05:03">
+<content id="6534474" includeTime="2023-11-29T10:05:03" entryType="1" hash="091CFF2C7410AF2DAD53378A016F6C0E" blockType="domain-mask" ts="2025-12-30T13:40:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[avto-perm59.ru]]></domain>
+ <domain><![CDATA[*.avto-perm59.ru]]></domain>
  <ip>104.21.35.6</ip>
  <ip>172.67.167.38</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:a726</ipv6>

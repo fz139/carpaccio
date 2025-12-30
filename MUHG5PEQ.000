@@ -588,9 +588,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6553063" includeTime="2023-12-06T14:10:04" entryType="1" hash="A8C87AB0A434F57F1A07E77B4264DB08" blockType="domain" ts="2023-12-06T14:10:04">
+<content id="6553063" includeTime="2023-12-06T14:10:04" entryType="1" hash="4F45BEDE93F997418D53676DAA65E95E" blockType="domain-mask" ts="2025-12-30T13:40:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[am-avtosvet.ru]]></domain>
+ <domain><![CDATA[*.am-avtosvet.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>

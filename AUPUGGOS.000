@@ -4763,9 +4763,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6954925" includeTime="2024-04-19T13:40:03" entryType="1" hash="26D74C700EC8C4B91B7F0760625CC8F0" blockType="domain" ts="2024-04-19T13:40:03">
+<content id="6954925" includeTime="2024-04-19T13:40:03" entryType="1" hash="EBE65BFF40749BB352089C21BEB8A689" blockType="domain-mask" ts="2025-12-30T13:40:04">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[decor-np.ru]]></domain>
+ <domain><![CDATA[*.decor-np.ru]]></domain>
  <ip>104.21.3.170</ip>
  <ip>172.67.130.247</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:82f7</ipv6>
