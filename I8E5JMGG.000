@@ -2200,9 +2200,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:9dca</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:08ae</ipv6>
 </content>
-<content id="7714483" includeTime="2024-12-17T07:15:03" entryType="1" hash="47135DC17208BFA91C075288006801E3" blockType="domain" ts="2024-12-17T07:15:03">
+<content id="7714483" includeTime="2024-12-17T07:15:03" entryType="1" hash="B87C2F399F4AB84A7166DB94C80A7B3D" blockType="domain-mask" ts="2026-01-14T23:30:05">
  <decision date="2024-12-13" number="2894265-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[porn-lord.org]]></domain>
+ <domain><![CDATA[*.porn-lord.org]]></domain>
  <ip>104.21.62.231</ip>
  <ip>172.67.139.236</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:8bec</ipv6>
