@@ -1845,12 +1845,6 @@
  <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
  <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
 </content>
-<content id="9109635" includeTime="2025-12-02T00:30:04" entryType="1" hash="EF486041BADA23E6622EA798E22E0D1E" ts="2025-12-17T14:00:03">
- <decision date="2025-11-27" number="3563283-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://wwv.russkaya-ozvuchka2.ru]]></url>
- <domain><![CDATA[wwv.russkaya-ozvuchka2.ru]]></domain>
- <ip>62.204.42.143</ip>
-</content>
 <content id="9109636" includeTime="2025-12-02T00:30:04" entryType="1" hash="EBD645D47F2B0BA9BC0636FF9D76D6A8" blockType="domain" ts="2025-12-02T00:30:04">
  <decision date="2025-11-27" number="3563284-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[xpervmom.com]]></domain>
@@ -1920,6 +1914,11 @@
  <decision date="2025-11-27" number="3563309-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[dom.sisidrive.org]]></domain>
  <ip>186.2.165.12</ip>
+</content>
+<content id="9109662" includeTime="2026-01-14T07:00:04" entryType="1" hash="9E3ACC5E725D2E7AD3E9219C1F2BF60E" blockType="domain" ts="2026-01-14T07:00:04">
+ <decision date="2025-11-27" number="3563310-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[elite-tv.online]]></domain>
+ <ip>193.3.168.74</ip>
 </content>
 <content id="9109663" includeTime="2025-12-01T14:20:05" entryType="1" hash="BCABADC260FDECD0BEA32BCCD01CA7FA" blockType="domain" ts="2025-12-01T14:20:05">
  <decision date="2025-11-27" number="3563311-URL-on" org="Роскомнадзор"/>

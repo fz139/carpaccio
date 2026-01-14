@@ -9330,18 +9330,6 @@
  <domain><![CDATA[admiral-kazinos-online.net.ru]]></domain>
  <ip>80.89.235.241</ip>
 </content>
-<content id="6466125" includeTime="2023-10-31T14:55:02" entryType="1" hash="054A88F28FD09E3324C6F1F02D59474A" blockType="domain" ts="2023-10-31T14:55:02">
- <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[www.golova-bolit.ru]]></domain>
- <ip>104.21.74.143</ip>
- <ip>172.67.203.142</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:cb8e</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:4a8f</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6466126" includeTime="2023-10-30T22:55:02" entryType="1" hash="272165153478C42275C54DB2C952DA13" blockType="domain-mask" ts="2023-10-30T22:55:02">
  <decision date="2017-10-11" number="2-6-20/2017-10-10-84-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.jetcasino-437.top]]></domain>
@@ -11232,18 +11220,6 @@
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:8a58</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1ab8</ipv6>
 </content>
-<content id="6466858" includeTime="2023-10-31T14:55:02" entryType="1" hash="6BA42A68E3D2C1A4758889F0FB87281F" blockType="domain" ts="2023-10-31T14:55:02">
- <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[www.klienti-okna.ru]]></domain>
- <ip>104.21.83.199</ip>
- <ip>172.67.181.9</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:53c7</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:b509</ipv6>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6466859" includeTime="2023-10-30T22:55:02" entryType="1" hash="F71586E3DBDA4736EB1D6216C8C99A9B" blockType="domain-mask" ts="2023-10-30T22:55:02">
  <decision date="2017-10-11" number="2-6-20/2017-10-10-84-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vulkan24-uur.top]]></domain>
@@ -12406,6 +12382,15 @@
  <domain><![CDATA[xn--80aag4awmaedh1a5fo4e.xn--p1ai]]></domain>
  <ip>104.21.54.161</ip>
  <ip>172.67.140.90</ip>
+</content>
+<content id="6467352" includeTime="2026-01-14T14:00:04" entryType="1" hash="A61E93F62ABB01FCD9014CD36EA5E59B" ts="2026-01-14T14:00:04">
+ <decision date="2023-10-26" number="2а-4338/2023" org="Наро-Фоминский городской суд - Московская область"/>
+ <url><![CDATA[https://msk-checks.ru]]></url>
+ <domain><![CDATA[msk-checks.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="6467356" includeTime="2023-10-31T23:45:03" entryType="1" hash="E09BE34D343057E6F2056C0CAE4615F5" blockType="domain-mask" ts="2023-10-31T23:45:03">
  <decision date="2023-10-30" number="2-6-14/2023-07-15-2106-АИ" org="ФНС"/>

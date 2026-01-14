@@ -5290,36 +5290,6 @@
  <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
  <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
 </content>
-<content id="9102491" includeTime="2025-11-28T14:30:05" entryType="1" hash="0486237E25F051FDC995DD2F2A70341C" ts="2025-11-28T14:30:05">
- <decision date="2025-11-26" number="2025-11-26-720-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://ap.maglv.ru/sialis-soft-40-mg-professional]]></url>
- <domain><![CDATA[ap.maglv.ru]]></domain>
- <ip>152.232.8.190</ip>
-</content>
-<content id="9102492" includeTime="2025-11-28T14:30:05" entryType="1" hash="C1A7B652BC74CBECCEC811FFB8B462E6" ts="2025-11-28T14:30:05">
- <decision date="2025-11-26" number="2025-11-26-630-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://ap.maglv.ru/super-kamagra-160-mg]]></url>
- <domain><![CDATA[ap.maglv.ru]]></domain>
- <ip>152.232.8.190</ip>
-</content>
-<content id="9102493" includeTime="2025-11-28T14:30:05" entryType="1" hash="6A27D461F0A15DD5AE9B672DEF75C6FD" ts="2025-11-28T14:30:05">
- <decision date="2025-11-26" number="2025-11-26-625-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://ap.maglv.ru/kamagra-fruktovaya-100-mg]]></url>
- <domain><![CDATA[ap.maglv.ru]]></domain>
- <ip>152.232.8.190</ip>
-</content>
-<content id="9102494" includeTime="2025-11-28T14:30:05" entryType="1" hash="437416D790FFA637976CBA1D9791822B" ts="2025-11-28T14:30:05">
- <decision date="2025-11-26" number="2025-11-26-616-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://ap.maglv.ru/kamagra-fizz-shipuchaya]]></url>
- <domain><![CDATA[ap.maglv.ru]]></domain>
- <ip>152.232.8.190</ip>
-</content>
-<content id="9102495" includeTime="2025-11-28T14:30:05" entryType="1" hash="6D5F45F13CA1B45EA9AC5720C023D2DF" ts="2025-11-28T14:30:05">
- <decision date="2025-11-26" number="2025-11-26-589-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://ap.maglv.ru/kamagra-gold-100-mg]]></url>
- <domain><![CDATA[ap.maglv.ru]]></domain>
- <ip>152.232.8.190</ip>
-</content>
 <content id="9102496" includeTime="2025-11-28T14:30:05" entryType="1" hash="23AE0D3666E3A32A0FA0762C99ED0B07" ts="2025-11-28T14:30:05">
  <decision date="2025-11-26" number="2025-11-24-2396-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://mr.masswolf.ru/shop/pkt/tamoksifen/]]></url>
@@ -6455,6 +6425,11 @@
  <decision date="2025-11-26" number="3558540-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[www.mylfshoplyfters.com]]></domain>
  <ip>198.252.104.170</ip>
+</content>
+<content id="9102845" includeTime="2026-01-14T07:00:04" entryType="1" hash="CBCC933EAABEBD6EB1DD94440372CC54" blockType="domain" ts="2026-01-14T07:00:04">
+ <decision date="2025-11-26" number="3558541-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[b.xxxperevod.icu]]></domain>
+ <ip>193.42.111.216</ip>
 </content>
 <content id="9102846" includeTime="2025-11-28T14:30:05" entryType="1" hash="F081DA49FED102324A46AB068619D680" blockType="domain-mask" ts="2025-11-28T14:30:05">
  <decision date="2025-11-26" number="3558542-URL-on" org="Роскомнадзор"/>
@@ -7778,11 +7753,6 @@
  <decision date="2025-11-24" number="2025-11-24-4802" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[forum.place-life.ru]]></domain>
  <ip>45.130.41.164</ip>
-</content>
-<content id="9103189" includeTime="2025-12-03T00:10:03" entryType="1" hash="5EC0BC6EDF3C0BF18CC69D72FC406A8D" blockType="domain" ts="2025-12-03T00:10:03">
- <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[divbaby.ru]]></domain>
- <ip>152.232.8.190</ip>
 </content>
 <content id="9103190" includeTime="2025-11-29T09:35:03" entryType="1" hash="082F91C59EABE2B96C722A3CCCCC017C" ts="2025-11-29T09:35:03">
  <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
