@@ -2815,22 +2815,6 @@
  <ipv6>2600:9000:2334:c600:0009:8911:0780:0021</ipv6>
  <ipv6>2600:9000:2334:dc00:0009:8911:0780:0021</ipv6>
 </content>
-<content id="9279690" includeTime="2026-01-14T14:40:05" urgencyType="1" entryType="3" hash="99520095D24B3ECC22A4F494845ECD1B" blockType="domain" ts="2026-01-14T14:40:05">
- <decision date="2023-01-26" number="" org=""/>
- <domain><![CDATA[d3mcoyd126fb4u.cloudfront.net]]></domain>
- <ip>108.157.217.106</ip>
- <ip>108.157.217.189</ip>
- <ip>108.157.217.38</ip>
- <ip>108.157.217.63</ip>
- <ipv6>2600:9000:2334:2400:0009:8911:0780:0021</ipv6>
- <ipv6>2600:9000:2334:2a00:0009:8911:0780:0021</ipv6>
- <ipv6>2600:9000:2334:7e00:0009:8911:0780:0021</ipv6>
- <ipv6>2600:9000:2334:8800:0009:8911:0780:0021</ipv6>
- <ipv6>2600:9000:2334:a600:0009:8911:0780:0021</ipv6>
- <ipv6>2600:9000:2334:b000:0009:8911:0780:0021</ipv6>
- <ipv6>2600:9000:2334:c200:0009:8911:0780:0021</ipv6>
- <ipv6>2600:9000:2334:ee00:0009:8911:0780:0021</ipv6>
-</content>
 <content id="9279691" includeTime="2026-01-14T14:40:05" urgencyType="1" entryType="3" hash="528E2676013BD6395D59C1E51435CF9D" blockType="domain" ts="2026-01-14T14:40:05">
  <decision date="2023-06-15" number="" org=""/>
  <domain><![CDATA[d1rlqpihrsn7hy.cloudfront.net]]></domain>
@@ -2863,6 +2847,60 @@
  <ipv6>2600:9000:2094:b200:001c:8309:6b80:0021</ipv6>
  <ipv6>2600:9000:2094:fe00:001c:8309:6b80:0021</ipv6>
 </content>
+<content id="9279693" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="EEE5BE3520C23A1FF1D5ABDD27497021" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-05-14" number="" org=""/>
+ <domain><![CDATA[*.1diplomn.online]]></domain>
+ <ip>77.83.175.32</ip>
+</content>
+<content id="9279694" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="5574C2A5858AEEBCC9D16318A6CA7399" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-04-09" number="" org=""/>
+ <domain><![CDATA[*.auto-prava-rze.top]]></domain>
+ <ip>31.3.253.100</ip>
+ <ipv6>2a02:2658:101c:0000:6077:70ff:fe43:7bed</ipv6>
+</content>
+<content id="9279695" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="BADDCD796E0296571182FA3437E29C63" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-01-20" number="" org=""/>
+ <domain><![CDATA[*.gdediplom1.ru]]></domain>
+ <ip>185.74.253.184</ip>
+</content>
+<content id="9279696" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="4A475BE3FFFF7A1F9AFDD22192134E3E" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-01-16" number="" org=""/>
+ <domain><![CDATA[*.diplomi-lands.ru]]></domain>
+ <ip>185.74.252.189</ip>
+</content>
+<content id="9279697" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="4D06C098003C5CACC9F89D71313BBD9A" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2022-02-24" number="" org=""/>
+ <domain><![CDATA[*.lordfilmxa.fun]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9279698" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="DE44C0B11CF3C39D5D19D458C73E7D48" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-02-27" number="" org=""/>
+ <domain><![CDATA[*.diplomwobr.ru]]></domain>
+ <ip>185.74.254.136</ip>
+</content>
+<content id="9279699" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="E9D27D46014A963BA865A3C99F3EDF72" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-02-24" number="" org=""/>
+ <domain><![CDATA[*.101-diplomwz.top]]></domain>
+ <ip>194.113.153.15</ip>
+</content>
+<content id="9279700" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="33DDA06F9A1F258333D9BCE5E2B982CE" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-02-19" number="" org=""/>
+ <domain><![CDATA[*.m-diplomq.pro]]></domain>
+ <ip>45.88.77.227</ip>
+</content>
+<content id="9279702" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="5D03B8C56D5A692E7BE2D72FA01DDF16" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-02-12" number="" org=""/>
+ <domain><![CDATA[*.good-diplomn.click]]></domain>
+ <ip>45.88.77.227</ip>
+</content>
+<content id="9279703" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="33EC2DD86EE841E89767BDE52382AFCC" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-02-12" number="" org=""/>
+ <domain><![CDATA[*.onliney-diploma.ru]]></domain>
+ <ip>185.74.252.187</ip>
+</content>
 <content id="9279704" includeTime="2026-01-14T16:35:04" entryType="2" hash="5CD4AC37CD6E88919C80AF80CF7E1481" ts="2026-01-14T16:35:04">
  <decision date="2025-01-21" number="определение о предварительном обеспечении по заявлению № 2И-0607/2025" org="Мосгорсуд"/>
  <url><![CDATA[https://kislorod-jeverest-new3.lordf.net/]]></url>
@@ -2873,6 +2911,172 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:9ecb</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9279705" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="4CFA153EB424A2BE41A6B88B6F05A72D" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-08-30" number="" org=""/>
+ <domain><![CDATA[*.express-diplomiz.top]]></domain>
+ <ip>43.245.224.213</ip>
+</content>
+<content id="9279706" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="7A9A145D96510E2A87EA23E02CC020D9" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-10-11" number="" org=""/>
+ <domain><![CDATA[*.kupi-prava-5w2h.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9279707" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="F2EEDB265DD1F759B6D3DF335CF03356" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-10-11" number="" org=""/>
+ <domain><![CDATA[*.on-prava-4t6s.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9279708" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="02111742C19B505748D04132A52AD349" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-10-11" number="" org=""/>
+ <domain><![CDATA[*.zerkalnye-prava-2t5h.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9279709" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="A03CF5121868BD05CC7DBA2487EA64D9" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-10-11" number="" org=""/>
+ <domain><![CDATA[*.pravaonline-msaq-1.ru]]></domain>
+ <ip>5.63.158.160</ip>
+</content>
+<content id="9279710" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="771E2455BE3D50466DF854B3FE50C7C3" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-10-11" number="" org=""/>
+ <domain><![CDATA[*.kupit-prava-msk-7i3r.ru]]></domain>
+ <ip>217.11.166.206</ip>
+</content>
+<content id="9279711" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="F3BA55E09D39F8429B75D78A51466176" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-10-25" number="" org=""/>
+ <domain><![CDATA[*.russiao-diplomr.click]]></domain>
+ <ip>185.74.254.6</ip>
+</content>
+<content id="9279712" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="000CDB20F8160C7D597F9C8359C49750" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-10-25" number="" org=""/>
+ <domain><![CDATA[*.diplomuchvv.ru]]></domain>
+ <ip>185.74.253.176</ip>
+</content>
+<content id="9279713" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="157B2611D9005BF7980127BF2898F445" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-10-25" number="" org=""/>
+ <domain><![CDATA[*.russia-diplom.click]]></domain>
+ <ip>151.241.228.138</ip>
+</content>
+<content id="9279714" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="49FAB502CD22481750D1110E44AF7798" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-10-25" number="" org=""/>
+ <domain><![CDATA[*.diplom-groupa.space]]></domain>
+ <ip>212.108.83.241</ip>
+</content>
+<content id="9279715" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="419B09AA34F42465435D8623C9A3C5B4" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-10-25" number="" org=""/>
+ <domain><![CDATA[*.diplom-group.space]]></domain>
+ <ip>151.245.137.14</ip>
+</content>
+<content id="9279716" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="967820F1D5D4AC44EEDED8322FAB303A" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-10-25" number="" org=""/>
+ <domain><![CDATA[*.russia-diplomb.space]]></domain>
+ <ip>5.180.173.233</ip>
+</content>
+<content id="9279717" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="AFF7BC47DEB4D5DFC576A4772FE3D5DD" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-12-29" number="" org=""/>
+ <domain><![CDATA[*.garantpravonline-xzq1.ru]]></domain>
+ <ip>5.63.158.160</ip>
+</content>
+<content id="9279718" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="E909E0E2574AABBE37154D3487D77B6F" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-10-31" number="" org=""/>
+ <domain><![CDATA[*.goznakp-diplomy.ru]]></domain>
+ <ip>185.74.254.5</ip>
+</content>
+<content id="9279719" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="418A517160426E6B5E553698D7B380A6" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-11-19" number="" org=""/>
+ <domain><![CDATA[*.diploms.site]]></domain>
+ <ip>172.236.192.8</ip>
+ <ipv6>2600:3c17:0000:0000:f03c:95ff:fe5e:6989</ipv6>
+</content>
+<content id="9279720" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="C3070DD6B485BE74D9CDF200D3913F5B" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-11-19" number="" org=""/>
+ <domain><![CDATA[*.diplomsogid.ru]]></domain>
+ <ip>185.74.253.185</ip>
+</content>
+<content id="9279721" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="8E279763202DDC224B5BA7F7A031CD5C" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-11-19" number="" org=""/>
+ <domain><![CDATA[*.free-diplome.space]]></domain>
+ <ip>151.245.137.14</ip>
+</content>
+<content id="9279722" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="2B33B27B731432E12561EE3C55B47429" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-11-19" number="" org=""/>
+ <domain><![CDATA[*.diplomsq.shop]]></domain>
+ <ip>45.88.77.227</ip>
+</content>
+<content id="9279723" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="84532245032F277488F71ACEEE26754F" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-12-10" number="" org=""/>
+ <domain><![CDATA[*.poluchit-prava-7u4t.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9279724" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="9696DD52411887D88D42BF8B451D0E84" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-12-16" number="" org=""/>
+ <domain><![CDATA[*.diplomd-bz.top]]></domain>
+ <ip>213.166.70.43</ip>
+</content>
+<content id="9279725" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="D45BE78BDA2876EDB6B3550054FCC73B" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-09-11" number="" org=""/>
+ <domain><![CDATA[*.bestdiploml.ru]]></domain>
+ <ip>77.83.175.32</ip>
+</content>
+<content id="9279726" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="502B52609FDE6200E7C5432354DBBF3B" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-02-03" number="" org=""/>
+ <domain><![CDATA[*.oreglncdlplomna.site]]></domain>
+ <ip>185.74.255.156</ip>
+</content>
+<content id="9279727" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="66880CBCA3CD8D879D8BFC8E032D6A78" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-07-08" number="" org=""/>
+ <domain><![CDATA[*.diplom2024life.top]]></domain>
+ <ip>77.83.175.46</ip>
+</content>
+<content id="9279728" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="C2AF1CC5074AFC03094088E18B690606" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2024-06-24" number="" org=""/>
+ <domain><![CDATA[*.prava112-6u7k.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9279729" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="E330BED676AD3B36A0A120CF2E40249B" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-12-23" number="" org=""/>
+ <domain><![CDATA[*.diplomi-attestati-v-ulyanovske.ru]]></domain>
+ <ip>5.61.53.17</ip>
+</content>
+<content id="9279730" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="EDA53A9A617ACE3FB6F3089765AD5E43" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-12-23" number="" org=""/>
+ <domain><![CDATA[*.diplomi-attestaty-v-tveri.ru]]></domain>
+ <ip>5.61.53.17</ip>
+</content>
+<content id="9279731" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="4322E42D2C5C6B6F1211487798A6B3F2" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-12-23" number="" org=""/>
+ <domain><![CDATA[*.diplomi-attestati-v-moskve.ru]]></domain>
+ <ip>5.61.53.17</ip>
+</content>
+<content id="9279732" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="F4AD250856D6E604814CE7EAAF9841E6" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-12-23" number="" org=""/>
+ <domain><![CDATA[*.diplomi-attestati-v-voronezhe.ru]]></domain>
+ <ip>5.61.53.17</ip>
+</content>
+<content id="9279740" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="F3945418254CA148D8CB39BF8A7B106B" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-01-09" number="" org=""/>
+ <domain><![CDATA[*.diplomznak777.top]]></domain>
+ <ip>109.107.157.82</ip>
+</content>
+<content id="9279741" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="619A65D9880BFD69B73E6C20FFB960B3" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-01-09" number="" org=""/>
+ <domain><![CDATA[*.1gosdip.ru]]></domain>
+ <ip>185.74.253.182</ip>
+</content>
+<content id="9279742" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="EDA0D2328133B1E46FDE271E9962ADF6" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-01-09" number="" org=""/>
+ <domain><![CDATA[*.diplomfree99.top]]></domain>
+ <ip>91.211.249.180</ip>
+</content>
+<content id="9279743" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="6D8140D5D6695BC8F6EFB36253925E9C" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-01-09" number="" org=""/>
+ <domain><![CDATA[*.diplom-originala-24.ru]]></domain>
+ <ip>151.243.171.254</ip>
+</content>
+<content id="9279744" includeTime="2026-01-15T12:00:04" urgencyType="1" entryType="3" hash="358CA2E6FCFE8D1B8642487BDB189787" blockType="domain-mask" ts="2026-01-15T12:00:04">
+ <decision date="2025-01-09" number="" org=""/>
+ <domain><![CDATA[*.diplomonefast.top]]></domain>
+ <ip>45.66.10.40</ip>
 </content>
 <content id="9280277" includeTime="2026-01-14T14:30:04" entryType="5" hash="8194CC3D3B37EB010A32642270AD6F18" blockType="domain" ts="2026-01-14T14:30:04">
  <decision date="2026-01-13" number="Пб/105805" org="Роскомнадзор"/>
@@ -12052,15 +12256,6 @@
  <ip>172.67.203.169</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:cba9</ipv6>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:2cc8</ipv6>
-</content>
-<content id="9284010" includeTime="2026-01-14T16:35:04" entryType="2" hash="53C56729937FE4A7BF1BC227583D6F56" ts="2026-01-14T16:35:04">
- <decision date="2023-03-02" number="определение о предварительном обеспечении по заявлению № 2И-2142/2023" org="Мосгорсуд"/>
- <url><![CDATA[https://j.bobfilm.info/1518090-pravednik-2023.html]]></url>
- <domain><![CDATA[j.bobfilm.info]]></domain>
- <ip>104.21.92.248</ip>
- <ip>172.67.201.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:c901</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:5cf8</ipv6>
 </content>
 <content id="9284011" includeTime="2026-01-14T16:35:04" entryType="2" hash="95AC3F2C9B245E94200A729D47F3E779" ts="2026-01-14T16:35:04">
  <decision date="2023-02-01" number="определение о предварительном обеспечении по заявлению № 2И-0829/2023" org="Мосгорсуд"/>
