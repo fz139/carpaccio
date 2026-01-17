@@ -729,6 +729,16 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1137</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:de55</ipv6>
 </content>
+<content id="9282637" includeTime="2026-01-17T00:40:05" entryType="1" hash="CDEE4650BA3F93B1E06C5754DB97D896" blockType="domain-mask" ts="2026-01-17T00:40:05">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.avovpn.site]]></domain>
+ <ip>144.124.250.40</ip>
+</content>
+<content id="9282639" includeTime="2026-01-17T00:40:05" entryType="1" hash="F6EB802431E4A6F8F2B0900B5F2FE48C" blockType="domain" ts="2026-01-17T00:40:05">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[avovpn.biz]]></domain>
+ <ip>65.108.143.210</ip>
+</content>
 <content id="9282641" includeTime="2026-01-16T00:00:05" entryType="1" hash="2607E91D6515AF54388E6485C7972300" blockType="domain" ts="2026-01-16T00:00:05">
  <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
  <domain><![CDATA[glaz--boga01.com]]></domain>
