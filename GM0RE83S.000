@@ -1558,9 +1558,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7033192" includeTime="2024-05-28T16:05:02" urgencyType="1" entryType="3" hash="D6D42C4815227441835E7F45872E0130" blockType="domain" ts="2024-05-28T16:05:02">
+<content id="7033192" includeTime="2024-05-28T16:05:02" urgencyType="1" entryType="3" hash="C9AF6292CA2850A9E13C831890A4529D" blockType="domain-mask" ts="2026-01-19T12:30:05">
  <decision date="2024-05-14" number="" org=""/>
- <domain><![CDATA[moda-image.ru]]></domain>
+ <domain><![CDATA[*.moda-image.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
