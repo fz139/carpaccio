@@ -7246,9 +7246,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:0fd9</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a482</ipv6>
 </content>
-<content id="8006956" includeTime="2025-03-13T07:10:01" entryType="1" hash="67B0F12D7980820B2028E2278A4754BB" blockType="domain" ts="2025-03-13T12:50:01">
+<content id="8006956" includeTime="2025-03-13T07:10:01" entryType="1" hash="497BB5B12B7B3830E0F4E8E913624EC4" blockType="domain-mask" ts="2026-01-20T00:55:03">
  <decision date="2025-03-10" number="3033201-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[finevids.xxx]]></domain>
+ <domain><![CDATA[*.finevids.xxx]]></domain>
  <ip>162.251.108.41</ip>
  <ipv6>2605:6280:0001:0030:0000:0000:0000:0004</ipv6>
 </content>
