@@ -5643,9 +5643,9 @@
  <ip>178.21.19.207</ip>
  <ipv6>2a00:1ca8:002a:0000:0000:0000:0000:026f</ipv6>
 </content>
-<content id="7116222" includeTime="2024-06-13T14:40:03" entryType="1" hash="4BA484A6E532F1C31120F7149BB16D30" blockType="domain" ts="2024-06-13T14:40:03">
+<content id="7116222" includeTime="2024-06-13T14:40:03" entryType="1" hash="D0D492D4A7E1ADACE9021D09B1D33FF2" blockType="domain-mask" ts="2026-01-21T13:10:04">
  <decision date="2024-06-10" number="2580826-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[bestaviatickets.ru]]></domain>
+ <domain><![CDATA[*.bestaviatickets.ru]]></domain>
  <ip>104.21.85.40</ip>
  <ip>172.67.202.15</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:5528</ipv6>
