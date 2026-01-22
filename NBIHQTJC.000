@@ -8650,9 +8650,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:18e3</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:dce4</ipv6>
 </content>
-<content id="8870414" includeTime="2025-10-19T18:40:04" urgencyType="1" entryType="3" hash="C2FFBA35D81AF114DBBAE349DCAFE42E" blockType="domain" ts="2025-10-19T18:40:04">
+<content id="8870414" includeTime="2025-10-19T18:40:04" urgencyType="1" entryType="3" hash="A5C57ABEC6EFFF29FB0CE5A184FE684A" blockType="domain-mask" ts="2026-01-22T16:50:03">
  <decision date="2025-10-10" number="" org=""/>
- <domain><![CDATA[filo-edu.ru]]></domain>
+ <domain><![CDATA[*.filo-edu.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -10731,12 +10731,6 @@
 <content id="8871590" includeTime="2025-10-17T13:35:02" entryType="1" hash="BC0845CB14031737A74B1410BC5645BF" blockType="domain" ts="2025-10-17T13:35:02">
  <decision date="2025-10-03" number="2а-385/2025" org="ќстровский городской суд - ѕсковска€ область"/>
  <domain><![CDATA[pskov.prostitutkix.top]]></domain>
- <ip>194.62.105.59</ip>
-</content>
-<content id="8871591" includeTime="2025-10-17T13:35:02" entryType="1" hash="085CA3A594E37E9F83D5BC023EEF1E1F" ts="2025-10-17T13:35:02">
- <decision date="2025-10-03" number="2а-385/2025" org="ќстровский городской суд - ѕсковска€ область"/>
- <url><![CDATA[https://pskov.xxvizov.com]]></url>
- <domain><![CDATA[pskov.xxvizov.com]]></domain>
  <ip>194.62.105.59</ip>
 </content>
 <content id="8871592" includeTime="2025-10-21T07:20:04" entryType="1" hash="BE67C4EEDCFEAFBB6568533DF558C5E1" blockType="domain" ts="2025-10-21T07:20:04">
