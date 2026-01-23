@@ -12488,9 +12488,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:598a</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:a034</ipv6>
 </content>
-<content id="7511097" includeTime="2024-10-14T16:20:04" entryType="1" hash="4E2C5520C8D4DC73C1BB1079E94BCF0E" blockType="domain" ts="2024-10-14T16:20:04">
+<content id="7511097" includeTime="2024-10-14T16:20:04" entryType="1" hash="B663BBBA59CAC2C3BC2526F452802D4D" blockType="domain-mask" ts="2026-01-23T00:15:04">
  <decision date="2024-10-10" number="2789523-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[kr-shoes.ru]]></domain>
+ <domain><![CDATA[*.kr-shoes.ru]]></domain>
  <ip>104.21.21.152</ip>
  <ip>172.67.199.81</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1598</ipv6>

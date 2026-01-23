@@ -630,12 +630,6 @@
  <ip>208.122.193.60</ip>
  <ipv6>2607:ffb8:000c:0129:0000:0000:0000:0129</ipv6>
 </content>
-<content id="8123722" includeTime="2025-04-08T00:15:02" entryType="1" hash="6A53ACB30C7AF94452DFAE02DDCFED0C" ts="2025-04-08T00:15:02">
- <decision date="2025-04-04" number="3094943-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://v_1.kino-ok2.store/8-zizn-adel-854.html]]></url>
- <domain><![CDATA[v_1.kino-ok2.store]]></domain>
- <ip>172.67.179.154</ip>
-</content>
 <content id="8123725" includeTime="2025-04-08T00:45:03" entryType="1" hash="0DC8F59535ED6EBDA3013A43B34F47E8" blockType="domain" ts="2025-04-08T13:25:03">
  <decision date="2025-04-04" number="3094951-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[ebosex.net]]></domain>
@@ -861,9 +855,9 @@
  <domain><![CDATA[*.riobet6040.buzz]]></domain>
  <ip>185.149.120.253</ip>
 </content>
-<content id="8123782" includeTime="2025-04-08T00:45:03" entryType="1" hash="AB712A930A8A70D8FA07F56CBF230B22" blockType="domain" ts="2025-04-08T13:25:03">
+<content id="8123782" includeTime="2025-04-08T00:45:03" entryType="1" hash="3E02A7A73119B3664DABBAB04B66A147" blockType="domain-mask" ts="2026-01-23T00:15:04">
  <decision date="2025-04-04" number="3095126-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[genesis76.ru]]></domain>
+ <domain><![CDATA[*.genesis76.ru]]></domain>
  <ip>104.21.86.115</ip>
  <ip>172.67.218.150</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:5673</ipv6>

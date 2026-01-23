@@ -4477,8 +4477,9 @@
  <domain><![CDATA[*.mbbgbook.xyz]]></domain>
  <ip>212.30.38.243</ip>
 </content>
-<content id="4610613" includeTime="2022-07-14T21:28:01" entryType="1" hash="ADD7825F0BEC271534903284B28953E9" blockType="domain" ts="2022-07-14T21:28:01">
+<content id="4610613" includeTime="2022-07-14T21:28:01" entryType="1" hash="E4ED73BC7182919D1C87C50CE90BCEB3" ts="2026-01-23T13:15:04">
  <decision date="2022-07-11" number="2022-07-09-2728-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://a.doctor-hcv24.ru/]]></url>
  <domain><![CDATA[a.doctor-hcv24.ru]]></domain>
  <ip>104.21.43.209</ip>
  <ip>172.67.185.46</ip>
@@ -4598,9 +4599,9 @@
  <domain><![CDATA[*.bets-bc-orcmr.xyz]]></domain>
  <ip>37.48.77.229</ip>
 </content>
-<content id="4610825" includeTime="2022-07-14T21:27:51" entryType="1" hash="A4719EED82946E77DAACA32DF36FEA25" blockType="domain" ts="2022-07-14T21:27:51">
+<content id="4610825" includeTime="2022-07-14T21:27:51" entryType="1" hash="883FB7D0C05FDCA7EBBD14D575CAEE4A" blockType="domain-mask" ts="2026-01-23T13:15:04">
  <decision date="2022-07-11" number="2022-07-08-4078-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[doctor-hcv24.ru]]></domain>
+ <domain><![CDATA[*.doctor-hcv24.ru]]></domain>
  <ip>104.21.43.209</ip>
  <ip>172.67.185.46</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b92e</ipv6>
