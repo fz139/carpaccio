@@ -2373,9 +2373,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6579141" includeTime="2023-12-15T13:20:02" entryType="1" hash="CED93B14F61E72C64283B2255854ED66" blockType="domain" ts="2023-12-15T13:20:02">
+<content id="6579141" includeTime="2023-12-15T13:20:02" entryType="1" hash="AA6DE0C2AE346F94694A4F1FDE43174D" blockType="domain-mask" ts="2026-01-24T00:15:03">
  <decision date="2023-05-30" number="2а-191/2023" org="Стругокрасненский районный суд - Псковская область"/>
- <domain><![CDATA[ufalove.me]]></domain>
+ <domain><![CDATA[*.ufalove.me]]></domain>
  <ip>91.228.153.122</ip>
 </content>
 <content id="6579144" includeTime="2023-12-14T22:55:04" entryType="1" hash="B65BAD627B4D8F56F8F3B4A0A041FBDE" blockType="domain-mask" ts="2023-12-15T13:10:06">
@@ -2718,11 +2718,6 @@
  <ip>172.67.189.112</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:bd70</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:315a</ipv6>
-</content>
-<content id="6579290" includeTime="2023-12-15T13:20:02" entryType="1" hash="4143F7B5CD3C6DF84DB8B4AC24B5913B" blockType="domain" ts="2023-12-15T13:20:02">
- <decision date="2023-05-30" number="2а-191/2023" org="Стругокрасненский районный суд - Псковская область"/>
- <domain><![CDATA[baby.ufalove.me]]></domain>
- <ip>91.228.153.122</ip>
 </content>
 <content id="6579293" includeTime="2023-12-14T22:55:04" entryType="1" hash="5A111A4690314B974FD128AB1E629189" blockType="domain-mask" ts="2023-12-15T13:10:06">
  <decision date="2017-11-02" number="2-6-20/ 2017-11-01-291-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
