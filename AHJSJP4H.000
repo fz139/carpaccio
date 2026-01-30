@@ -604,6 +604,377 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="9366337" includeTime="2026-01-31T01:20:04" entryType="1" hash="F37FDC72916376BABBF95069D70D7ED0" blockType="domain" ts="2026-01-31T01:20:04">
+ <decision date="2026-01-23" number="2026-01-23-35532" org="МВД"/>
+ <domain><![CDATA[3-mir.biz]]></domain>
+ <ip>104.21.93.242</ip>
+ <ip>172.67.216.224</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5df2</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:d8e0</ipv6>
+</content>
+<content id="9366338" includeTime="2026-01-31T01:20:04" entryType="1" hash="EDFBB5EF20195EC0F8DD35EBC64DE70F" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.aldumak.ru]]></domain>
+ <ip>81.91.178.50</ip>
+</content>
+<content id="9366339" includeTime="2026-01-31T01:20:04" entryType="1" hash="9681518F0FFB194AA825E98040684FF6" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.omgyp15.at]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366340" includeTime="2026-01-31T01:20:04" entryType="1" hash="27E41DB225C1F5F93327B5EA94144EE4" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.omgap15.at]]></domain>
+ <ip>104.21.63.22</ip>
+ <ip>172.67.142.145</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:3f16</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:8e91</ipv6>
+</content>
+<content id="9366341" includeTime="2026-01-31T01:20:04" entryType="1" hash="2EAFE84AE7BC15EA7F12E5501B912420" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.1zy.online]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366342" includeTime="2026-01-31T01:20:04" entryType="1" hash="62633F0FA6BFC458AC41EC297DC5A1C5" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.8kra.at]]></domain>
+ <ip>104.21.2.180</ip>
+ <ip>172.67.129.135</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:8187</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:02b4</ipv6>
+</content>
+<content id="9366343" includeTime="2026-01-31T01:20:04" entryType="1" hash="EB06008A9009AAB9E3479E6A29CF6D82" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.hebeh.biz]]></domain>
+ <ip>104.21.43.65</ip>
+ <ip>172.67.221.116</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:2b41</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:dd74</ipv6>
+</content>
+<content id="9366344" includeTime="2026-01-31T01:20:04" entryType="1" hash="3EC48DF37CC65D025558B73DD7CA857B" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.havana-mama.top]]></domain>
+ <ip>104.21.57.129</ip>
+ <ip>172.67.163.228</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3981</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:a3e4</ipv6>
+</content>
+<content id="9366345" includeTime="2026-01-31T01:20:04" entryType="1" hash="493D788CD432B108F2042CD0FADECDCF" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://www.crazesportsrecruiting.com/ru/kupit-darknet-marketpleys-gashish-geroin_5097.html]]></url>
+ <domain><![CDATA[www.crazesportsrecruiting.com]]></domain>
+ <ip>198.12.220.0</ip>
+</content>
+<content id="9366346" includeTime="2026-01-31T01:20:04" entryType="1" hash="C5A57F0F564FA289A6B9F07853F17452" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://about.me/donalddaggercmepthuk]]></url>
+ <domain><![CDATA[about.me]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="9366347" includeTime="2026-01-31T01:20:04" entryType="1" hash="D87CBABCCE8CF517C0B1FA06400E9A54" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://art-light.net/ru/sayt-na-gidru-ssylka-gidra-ssylki-hydra-_5350.html]]></url>
+ <domain><![CDATA[art-light.net]]></domain>
+ <ip>50.87.249.17</ip>
+</content>
+<content id="9366348" includeTime="2026-01-31T01:20:04" entryType="1" hash="A01E284F8E372D2F2C4B75F4F9CE5E34" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://koltics.online/lsd-geroin-kupit-belgorod-mefedron-gashish.html]]></url>
+ <domain><![CDATA[koltics.online]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366350" includeTime="2026-01-31T01:20:04" entryType="1" hash="836E345C619CBF4A1448F79B010CF5D3" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.24tochkasbora.online]]></domain>
+ <ip>104.18.47.121</ip>
+</content>
+<content id="9366351" includeTime="2026-01-31T01:20:04" entryType="1" hash="FF862B8D658D35561CA3566FE7262F87" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.magres.ru]]></domain>
+ <ip>104.21.93.101</ip>
+ <ip>172.67.208.168</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:d0a8</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:5d65</ipv6>
+</content>
+<content id="9366352" includeTime="2026-01-31T01:20:04" entryType="1" hash="46BCB77BF385DC8A67CD87998A92630C" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.ashraaf.biz]]></domain>
+ <ip>104.21.58.254</ip>
+ <ip>172.67.210.134</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:d286</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3afe</ipv6>
+</content>
+<content id="9366353" includeTime="2026-01-31T01:20:04" entryType="1" hash="F9B92CB87B229070D377A81DDA7FDE1E" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.bilet-msk.ru]]></domain>
+ <ip>104.21.46.193</ip>
+ <ip>172.67.141.146</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:2ec1</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:8d92</ipv6>
+</content>
+<content id="9366354" includeTime="2026-01-31T01:20:04" entryType="1" hash="72403823B11ABBED55D2927E99DB93AB" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.misterchester.ru]]></domain>
+ <ip>104.21.79.21</ip>
+ <ip>172.67.168.179</ip>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:4f15</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:a8b3</ipv6>
+</content>
+<content id="9366355" includeTime="2026-01-31T01:20:04" entryType="1" hash="32D36FC13F5A5330BBA5DFC0A6E738D0" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.skrtl.ru]]></domain>
+ <ip>104.21.88.56</ip>
+ <ip>172.67.173.76</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:ad4c</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:5838</ipv6>
+</content>
+<content id="9366356" includeTime="2026-01-31T01:20:04" entryType="1" hash="3D6CAED816CEC5AEF4268A4BB0875C37" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kpyx.ac]]></domain>
+ <ip>104.21.44.149</ip>
+ <ip>172.67.200.228</ip>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:2c95</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:c8e4</ipv6>
+</content>
+<content id="9366357" includeTime="2026-01-31T01:20:04" entryType="1" hash="1C57DA9F098DF4B66F0901839958A0E9" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kra-57.com]]></domain>
+ <ip>104.21.94.161</ip>
+ <ip>172.67.138.17</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:5ea1</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:8a11</ipv6>
+</content>
+<content id="9366358" includeTime="2026-01-31T01:20:04" entryType="1" hash="97217AB7C19999D8E319FD0B3C52793F" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.ra80.cc]]></domain>
+ <ip>104.21.75.218</ip>
+ <ip>172.67.182.102</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:b666</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:4bda</ipv6>
+</content>
+<content id="9366359" includeTime="2026-01-31T01:20:04" entryType="1" hash="BB265BE085E9E10E670065998C3F3C96" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.krs29.at]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366360" includeTime="2026-01-31T01:20:04" entryType="1" hash="A9F00B2012D79CD27169C4AB934FFB5D" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.knmp.at]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4056</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:b373</ipv6>
+</content>
+<content id="9366361" includeTime="2026-01-31T01:20:04" entryType="1" hash="10B6191EAFA6CB64674B300A6DA6C085" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kda31.at]]></domain>
+ <ip>104.21.21.93</ip>
+ <ip>172.67.197.159</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:155d</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:c59f</ipv6>
+</content>
+<content id="9366362" includeTime="2026-01-31T01:20:04" entryType="1" hash="14BA5F1EAA085D6C17B7DB3E27E67FF8" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kracen24.at]]></domain>
+ <ip>45.130.151.185</ip>
+</content>
+<content id="9366363" includeTime="2026-01-31T01:20:04" entryType="1" hash="BA4DB464645097EF37DA28E68E9404D2" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.12cra.at]]></domain>
+ <ip>104.21.91.99</ip>
+ <ip>172.67.214.239</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:5b63</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:d6ef</ipv6>
+</content>
+<content id="9366364" includeTime="2026-01-31T01:20:04" entryType="1" hash="A7139618FE65202B0535A75363965442" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.mgshop20.at]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:063b</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:9af9</ipv6>
+</content>
+<content id="9366365" includeTime="2026-01-31T01:20:04" entryType="1" hash="626D4C1015965B1948AD106AA476200D" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kram29.cc]]></domain>
+ <ip>104.21.67.223</ip>
+ <ip>172.67.182.14</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:b60e</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:43df</ipv6>
+</content>
+<content id="9366366" includeTime="2026-01-31T01:20:04" entryType="1" hash="26D8AA5F9BE9CCD04F78022DDDBDCFE4" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kra59at.net]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366367" includeTime="2026-01-31T01:20:04" entryType="1" hash="7498760744A935D090EC99659068ED4E" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.rak75.at]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366368" includeTime="2026-01-31T01:20:04" entryType="1" hash="D1D92703D9D09FFB4E12221689C48685" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.krra18.at]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366369" includeTime="2026-01-31T01:20:04" entryType="1" hash="5FE3F9FC32D8B56F2494A0B84C8A5043" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.20kra20.cc]]></domain>
+ <ip>104.21.89.160</ip>
+ <ip>172.67.189.154</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:59a0</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:bd9a</ipv6>
+</content>
+<content id="9366370" includeTime="2026-01-31T01:20:04" entryType="1" hash="61B53CFABDE2A059FD914D161647AB50" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kra.rip]]></domain>
+ <ip>104.21.81.125</ip>
+ <ip>172.67.160.227</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366371" includeTime="2026-01-31T01:20:04" entryType="1" hash="E8B695BF1E114CBBFE21AB1B6A4160C5" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.mgmarmet5.at]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366372" includeTime="2026-01-31T01:20:04" entryType="1" hash="14BAAFEAAC3BC2406EFCB5AC8A29556F" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kra58c.cc]]></domain>
+ <ip>104.21.73.232</ip>
+ <ip>172.67.193.12</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366373" includeTime="2026-01-31T01:20:04" entryType="1" hash="9C1CF9FFD991DF73D94D85460B6AD83F" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.rak73.cc]]></domain>
+ <ip>104.21.87.243</ip>
+ <ip>172.67.171.132</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:ab84</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:57f3</ipv6>
+</content>
+<content id="9366374" includeTime="2026-01-31T01:20:04" entryType="1" hash="B6DE6BAC0CAF7C4B8FED134DDF1F9A54" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kmp15.at]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366375" includeTime="2026-01-31T01:20:04" entryType="1" hash="6FD5B7BBE376F8EC02EB02792867958F" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.mra58.cc]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:8e1e</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:270f</ipv6>
+</content>
+<content id="9366376" includeTime="2026-01-31T01:20:04" entryType="1" hash="D3AB861D379CB495B3BC2E97B7A88FA0" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kra58-cc.net]]></domain>
+ <ip>104.21.53.38</ip>
+ <ip>172.67.208.186</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:d0ba</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:3526</ipv6>
+</content>
+<content id="9366377" includeTime="2026-01-31T01:20:04" entryType="1" hash="42A7E020681C9CAE5666BBA1C5C35E3D" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.nboox.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366378" includeTime="2026-01-31T01:20:04" entryType="1" hash="B9D8BAE13920EE5BD88AA5580BEC91CD" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kea41.at]]></domain>
+ <ip>104.21.52.49</ip>
+ <ip>172.67.195.143</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:3431</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:c38f</ipv6>
+</content>
+<content id="9366379" includeTime="2026-01-31T01:20:04" entryType="1" hash="361D33AEB22A5E4F9EC7DCB4AD81B915" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.redirect1.at]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366380" includeTime="2026-01-31T01:20:04" entryType="1" hash="57E1BC54BD5B207162DB1E04E3EFE857" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.hotel-mandarin-oriental.ru]]></domain>
+ <ip>104.21.15.234</ip>
+ <ip>172.67.208.157</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:d09d</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:0fea</ipv6>
+</content>
+<content id="9366381" includeTime="2026-01-31T01:20:04" entryType="1" hash="F86BE9C23421AE96FF473D15961907EA" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.kv19.at]]></domain>
+ <ip>104.21.5.160</ip>
+ <ip>172.67.133.156</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:05a0</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:859c</ipv6>
+</content>
+<content id="9366382" includeTime="2026-01-31T01:20:04" entryType="1" hash="DC4F0255048ED76E8F8D640A7429FB81" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.vc19.at]]></domain>
+ <ip>104.21.87.126</ip>
+ <ip>172.67.143.79</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:577e</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:8f4f</ipv6>
+</content>
+<content id="9366383" includeTime="2026-01-31T01:20:04" entryType="1" hash="EBED40C52127CF02702010127CD9AC5F" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.bsshop-zone.me]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366384" includeTime="2026-01-31T01:20:04" entryType="1" hash="9D359F2D4AA73A103C2B5DAF8A629011" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://caliber.co.tz/ru/black-sprut-ssylka-brauzer-blacksprut-po_7933.html]]></url>
+ <domain><![CDATA[caliber.co.tz]]></domain>
+ <ip>66.235.200.147</ip>
+</content>
+<content id="9366385" includeTime="2026-01-31T01:20:04" entryType="1" hash="A972C68A66955B37F1854F757F515BCC" blockType="domain-mask" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.nonnaguk.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="9366386" includeTime="2026-01-30T14:30:04" entryType="1" hash="8D867DB6E1EC41E86F0C027804104098" blockType="domain-mask" ts="2026-01-30T14:30:04">
  <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.task39.ru]]></domain>
@@ -619,6 +990,21 @@
  <ip>172.67.171.178</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3fbd</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:abb2</ipv6>
+</content>
+<content id="9366388" includeTime="2026-01-31T01:20:04" entryType="1" hash="5030B5D2E351C8053FF56FDF488C8C0A" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://www.moblanovar.com/ru/kupit-darknet-marketpleys-kokain-sochi-t_2572.html]]></url>
+ <domain><![CDATA[www.moblanovar.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366390" includeTime="2026-01-31T01:20:04" entryType="1" hash="5BE11CDB4B4DA5F38E3E2D7ED2F44722" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://findandhire.com/employer/%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BDkraken%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-2024kraken-2024%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-2025kraken-2025%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D1%80-15]]></url>
+ <domain><![CDATA[findandhire.com]]></domain>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9366391" includeTime="2026-01-30T14:30:04" entryType="1" hash="51F063A1DE909DD94270781575CFAB02" blockType="domain-mask" ts="2026-01-30T14:30:04">
  <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -748,6 +1134,26 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="9366408" includeTime="2026-01-31T01:20:04" entryType="1" hash="29109B51A797DEE1113504878D78DA7E" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@toddherrington412669]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="9366413" includeTime="2026-01-31T01:20:04" entryType="1" hash="C99A8D3D36E7C325BCE9BDEE874C2FBE" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@danstonelogin853]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="9366414" includeTime="2026-01-31T01:20:04" entryType="1" hash="C2303E0499A45337C5687716C8D79826" ts="2026-01-31T01:20:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://www.landingpoint.ca/company/%D0%BC%D0%B5%D0%B3%D0%B0mega%D0%BC%D0%B5%D0%B3%D0%B0-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8Fmega-%D1%80%D1%84%D0%BC%D0%B5%D0%B3%D0%B0-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%BC%D0%B0%D0%B3-2]]></url>
+ <domain><![CDATA[www.landingpoint.ca]]></domain>
+ <ip>64.21.191.83</ip>
+</content>
 <content id="9366417" includeTime="2026-01-29T23:40:03" entryType="1" hash="F9056D93B0076B7AA6C1BE8B438D0ED0" blockType="domain" ts="2026-01-29T23:40:03">
  <decision date="2025-11-24" number="2025-11-24-4802" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[www.caldonic.online]]></domain>
@@ -755,6 +1161,24 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366419" includeTime="2026-01-31T01:20:04" entryType="1" hash="17D7A71AA73E8EBCC803CD9376F1EA27" ts="2026-01-31T01:20:04">
+ <decision date="2026-01-29" number="2025-04-23-1993-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://alfa-apotheke.ru/oporno-dvigatelnuy-apparat/cimzia]]></url>
+ <domain><![CDATA[alfa-apotheke.ru]]></domain>
+ <ip>104.21.18.161</ip>
+ <ip>172.67.182.187</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:12a1</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b6bb</ipv6>
+</content>
+<content id="9366425" includeTime="2026-01-31T01:20:04" entryType="1" hash="D42A4EA8BFE0F49FA7797E91281D0B90" ts="2026-01-31T01:20:04">
+ <decision date="2026-01-28" number="2026-01-26-17374-ПЛ" org="Росздравнадзор"/>
+ <url><![CDATA[https://farmaqn.apteka-ru.online/shop/preparaty/mizoprostol/]]></url>
+ <domain><![CDATA[farmaqn.apteka-ru.online]]></domain>
+ <ip>104.21.14.246</ip>
+ <ip>172.67.160.208</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:0ef6</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:a0d0</ipv6>
 </content>
 <content id="9366430" includeTime="2026-01-30T14:30:04" entryType="1" hash="D20BEB2F3667723E46EB15C51AA7899C" blockType="domain-mask" ts="2026-01-30T14:30:04">
  <decision date="2026-01-28" number="2026-01-19-34541-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
@@ -890,6 +1314,11 @@
  <domain><![CDATA[*.pinup-ihi.top]]></domain>
  <ip>45.10.243.73</ip>
 </content>
+<content id="9366499" includeTime="2026-01-31T01:20:04" entryType="1" hash="3506437B2FA7D390A1BAC8FDE74863DD" blockType="domain" ts="2026-01-31T01:20:04">
+ <decision date="2026-01-29" number="3703191-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[zhizn-adel-2013.lordfilm-onu.ru]]></domain>
+ <ip>185.50.24.172</ip>
+</content>
 <content id="9366535" includeTime="2026-01-29T23:40:03" entryType="1" hash="C76F6772F47998FC863F47168897670F" blockType="domain-mask" ts="2026-01-29T23:40:03">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.lordfilmext.top]]></domain>
@@ -942,6 +1371,64 @@
  <domain><![CDATA[kometa.slot2301.casino]]></domain>
  <ip>144.124.251.231</ip>
 </content>
+<content id="9366544" includeTime="2026-01-31T01:20:04" entryType="1" hash="09EFA197DAFCCAC194A9DEF477A328BA" blockType="domain" ts="2026-01-31T01:20:04">
+ <decision date="2025-08-27" number="2а-8044/2025" org="Ленинский районный суд г. Тюмени - Тюменская область"/>
+ <domain><![CDATA[prostitutkitumeni.mobi]]></domain>
+ <ip>146.0.73.63</ip>
+</content>
+<content id="9366545" includeTime="2026-01-31T01:20:04" entryType="1" hash="AC98667B65FD880FF753C48ADD9FBC5F" blockType="domain" ts="2026-01-31T01:20:04">
+ <decision date="2025-08-27" number="2а-8044/2025" org="Ленинский районный суд г. Тюмени - Тюменская область"/>
+ <domain><![CDATA[tumen.intim-fei.store]]></domain>
+ <ip>31.42.177.77</ip>
+ <ip>91.234.199.223</ip>
+</content>
+<content id="9366546" includeTime="2026-01-31T01:20:04" entryType="1" hash="08AC0A94328A625DA453C98E2E0989BD" blockType="domain" ts="2026-01-31T01:20:04">
+ <decision date="2025-08-27" number="2а-8044/2025" org="Ленинский районный суд г. Тюмени - Тюменская область"/>
+ <domain><![CDATA[dosugbartym.info]]></domain>
+ <ip>190.115.31.222</ip>
+</content>
+<content id="9366547" includeTime="2026-01-31T01:20:04" entryType="1" hash="9670AF84B6D91F83A5CC7B29CC808169" blockType="domain" ts="2026-01-31T01:20:04">
+ <decision date="2025-08-27" number="2а-8044/2025" org="Ленинский районный суд г. Тюмени - Тюменская область"/>
+ <domain><![CDATA[prostitutkitumenireal.net]]></domain>
+ <ip>212.34.142.78</ip>
+</content>
+<content id="9366548" includeTime="2026-01-31T01:20:04" entryType="1" hash="DE5BF14D3A9AC245A5C905A22944BA54" blockType="domain" ts="2026-01-31T01:20:04">
+ <decision date="2025-08-27" number="2а-8044/2025" org="Ленинский районный суд г. Тюмени - Тюменская область"/>
+ <domain><![CDATA[prostitutkitumenihim.net]]></domain>
+ <ip>94.103.80.18</ip>
+</content>
+<content id="9366550" includeTime="2026-01-31T01:20:04" entryType="1" hash="17F16F45A484689380371E6031F798F6" blockType="domain" ts="2026-01-31T01:20:04">
+ <decision date="2026-01-23" number="2а-178/2026" org="Михайловский районный суд - Рязанская область"/>
+ <domain><![CDATA[zaliv.shop]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9366551" includeTime="2026-01-31T01:20:04" entryType="1" hash="86B57EEEDF66953B8C0C661586A9C0FE" ts="2026-01-31T01:20:04">
+ <decision date="2026-01-15" number="2а-352/2026" org="Железнодорожный районный суд г. Ростова-на-Дону - Ростовская область"/>
+ <url><![CDATA[https://k.mboom.club/rostov-na-donu/]]></url>
+ <domain><![CDATA[k.mboom.club]]></domain>
+ <ip>104.21.92.199</ip>
+ <ip>172.67.197.108</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5cc7</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:c56c</ipv6>
+</content>
+<content id="9366554" includeTime="2026-01-31T01:20:04" entryType="1" hash="5E1E3F8F9E0EF86E02752E6AD20F51B2" blockType="domain" ts="2026-01-31T01:20:04">
+ <decision date="2026-01-15" number="2а-139/2026" org="Тейковский районный суд - Ивановская область"/>
+ <domain><![CDATA[voenrf-xxpwfny.top]]></domain>
+ <ip>185.224.132.209</ip>
+</content>
+<content id="9366555" includeTime="2026-01-31T01:20:04" entryType="1" hash="A136F693762FEA6B2907A060E1B6DCCA" blockType="domain" ts="2026-01-31T01:20:04">
+ <decision date="2026-01-15" number="2а-139/2026" org="Тейковский районный суд - Ивановская область"/>
+ <domain><![CDATA[voennikrf-xxeikcx.top]]></domain>
+ <ip>188.137.180.126</ip>
+</content>
+<content id="9366556" includeTime="2026-01-31T01:20:04" entryType="1" hash="01D623C1E190BB5121B588A402A8B652" blockType="domain" ts="2026-01-31T01:20:04">
+ <decision date="2026-01-15" number="2а-139/2026" org="Тейковский районный суд - Ивановская область"/>
+ <domain><![CDATA[voen-xxzlbbq.top]]></domain>
+ <ip>188.137.183.247</ip>
+</content>
 <content id="9366575" includeTime="2026-01-29T23:40:03" entryType="1" hash="6866698D802C2C67AEC1E15CADC868C4" blockType="domain" ts="2026-01-29T23:40:03">
  <decision date="2026-01-28" number="2а-64/2026" org="Вилегодский районный суд - Архангельская область"/>
  <domain><![CDATA[koryazhma.s-dosug.top]]></domain>
@@ -980,6 +1467,23 @@
  <domain><![CDATA[koryaz.romancee.click]]></domain>
  <ip>91.202.5.97</ip>
 </content>
+<content id="9366582" includeTime="2026-01-31T01:20:04" entryType="1" hash="2935A9AE28E0A1D779EE6D1CFE41BE53" blockType="domain" ts="2026-01-31T01:20:04">
+ <decision date="2026-01-15" number="2а-138/2026" org="Тейковский районный суд - Ивановская область"/>
+ <domain><![CDATA[vpn-6sa9na.blackguns.net]]></domain>
+ <ip>104.21.35.103</ip>
+ <ip>172.67.217.75</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2367</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:d94b</ipv6>
+</content>
+<content id="9366583" includeTime="2026-01-31T01:20:04" entryType="1" hash="860B24E81F4027FAB97EA8A8EB0C8483" ts="2026-01-31T01:20:04">
+ <decision date="2026-01-15" number="2а-138/2026" org="Тейковский районный суд - Ивановская область"/>
+ <url><![CDATA[https://vpn-3da7mo.oruzhieshop.net/]]></url>
+ <domain><![CDATA[vpn-3da7mo.oruzhieshop.net]]></domain>
+ <ip>104.21.75.133</ip>
+ <ip>172.67.177.73</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4b85</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:b149</ipv6>
+</content>
 <content id="9366599" includeTime="2026-01-30T14:30:04" entryType="1" hash="BE1060B06491342BB6835E20C55675D1" ts="2026-01-30T14:30:04">
  <decision date="2026-01-15" number="2а-228/2026" org="Семикаракорский районный суд - Ростовская область"/>
  <url><![CDATA[https://volgodonsk.mfc-pavlovo.ru/proverennye/?ysclid=mirfze9hml1731252013]]></url>
@@ -1002,6 +1506,11 @@
  <decision date="2026-01-15" number="2а-228/2026" org="Семикаракорский районный суд - Ростовская область"/>
  <domain><![CDATA[volgodonsk.s-women.life]]></domain>
  <ip>91.202.5.97</ip>
+</content>
+<content id="9366615" includeTime="2026-01-31T01:20:04" entryType="1" hash="ECD8B73FA9A7BACE352F16F3E93738C7" blockType="domain" ts="2026-01-31T01:20:04">
+ <decision date="2026-01-19" number="2а-541/2026" org="Индустриальный районный суд г. Хабаровска - Хабаровский край"/>
+ <domain><![CDATA[sim-karty-krasnodar-939393.orgs.biz]]></domain>
+ <ip>176.125.240.157</ip>
 </content>
 <content id="9366669" includeTime="2026-01-29T23:40:03" entryType="1" hash="4100D8075966933F4BA222C23332D0A9" blockType="domain-mask" ts="2026-01-29T23:40:03">
  <decision date="2026-01-23" number="2-6-14/2026-01-19-38174-АИ" org="ФНС"/>
