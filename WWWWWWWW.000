@@ -5594,4 +5594,25 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="9376611" includeTime="2026-01-30T20:50:03" urgencyType="1" entryType="3" hash="D8BFF9BEB24AB6E13BC3872EFE506102" blockType="domain-mask" ts="2026-01-30T20:50:03">
+ <decision date="2026-01-23" number="" org=""/>
+ <domain><![CDATA[*.www.gwu.edu]]></domain>
+ <ip>104.18.8.37</ip>
+ <ip>104.18.9.37</ip>
+ <ipv6>2606:4700:0000:0000:0000:0000:6812:0825</ipv6>
+ <ipv6>2606:4700:0000:0000:0000:0000:6812:0925</ipv6>
+</content>
+<content id="9376612" includeTime="2026-01-30T20:50:03" urgencyType="1" entryType="3" hash="4FCC36A5A9D8B583114C3583B630FF01" blockType="domain-mask" ts="2026-01-30T20:50:03">
+ <decision date="2026-01-23" number="" org=""/>
+ <domain><![CDATA[*.president.gwu.edu]]></domain>
+ <ip>104.18.8.37</ip>
+ <ip>104.18.9.37</ip>
+ <ipv6>2606:4700:0000:0000:0000:0000:6812:0825</ipv6>
+ <ipv6>2606:4700:0000:0000:0000:0000:6812:0925</ipv6>
+</content>
+<content id="9376613" includeTime="2026-01-30T20:50:03" urgencyType="1" entryType="3" hash="5B86DD80FD95B76CDA081A8F29312B58" blockType="domain-mask" ts="2026-01-30T20:50:03">
+ <decision date="2026-01-23" number="" org=""/>
+ <domain><![CDATA[*.therussiaprogram.org]]></domain>
+ <ip>5.181.161.74</ip>
+</content>
 </reg:register>
