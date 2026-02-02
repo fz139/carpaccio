@@ -682,9 +682,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a198</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4161</ipv6>
 </content>
-<content id="6332793" includeTime="2023-09-05T23:00:03" entryType="1" hash="8D5272519DB2A2139ED440C54051E953" blockType="domain" ts="2023-09-05T23:00:03">
+<content id="6332793" includeTime="2023-09-05T23:00:03" entryType="1" hash="79DB1ED8C68745B21F82BA22C763580D" blockType="domain-mask" ts="2026-02-02T23:40:04">
  <decision date="2017-06-20" number="2-6-20/2017-06-16-104-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[shkola5mih.ru]]></domain>
+ <domain><![CDATA[*.shkola5mih.ru]]></domain>
  <ip>104.21.52.154</ip>
  <ip>172.67.201.33</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:349a</ipv6>
