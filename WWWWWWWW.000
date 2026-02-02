@@ -9109,9 +9109,9 @@
  <ipv6>2600:9000:2764:e400:0004:c905:b6c0:0021</ipv6>
  <ipv6>2600:9000:2764:fe00:0004:c905:b6c0:0021</ipv6>
 </content>
-<content id="9376764" includeTime="2026-02-02T14:10:04" urgencyType="1" entryType="3" hash="29DFF68401414777976077F6264193AA" blockType="domain" ts="2026-02-02T14:10:04">
+<content id="9376764" includeTime="2026-02-02T14:10:04" urgencyType="1" entryType="3" hash="40059F496AC36E5C76F2955821EC397E" blockType="domain-mask" ts="2026-02-02T14:50:05">
  <decision date="2023-10-10" number="" org=""/>
- <domain><![CDATA[ukt24.space]]></domain>
+ <domain><![CDATA[*.ukt24.space]]></domain>
  <ip>167.235.153.84</ip>
 </content>
 <content id="9376765" includeTime="2026-02-02T14:10:04" urgencyType="1" entryType="3" hash="13BA0647567C751697B960AA72825BF5" blockType="domain" ts="2026-02-02T14:10:04">
@@ -9142,6 +9142,19 @@
  <ip>151.101.129.91</ip>
  <ip>151.101.193.91</ip>
  <ip>151.101.65.91</ip>
+</content>
+<content id="9376865" includeTime="2026-02-02T14:50:05" urgencyType="1" entryType="3" hash="59E9C83AAA1C9B65B0A9085083BD0E45" blockType="domain-mask" ts="2026-02-02T14:50:05">
+ <decision date="2026-01-28" number="" org=""/>
+ <domain><![CDATA[*.ilga.org]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="9376883" includeTime="2026-02-02T14:50:05" urgencyType="1" entryType="3" hash="8F4950231B1CDC52A2131D6ACEDEFDDD" blockType="domain" ts="2026-02-02T14:50:05">
+ <decision date="2026-01-28" number="" org=""/>
+ <domain><![CDATA[www.lemkininstitute.com]]></domain>
+ <ip>74.125.196.132</ip>
 </content>
 <content id="9377162" includeTime="2026-02-02T14:10:04" urgencyType="1" entryType="3" hash="725F1423C3635438C200475E60B804A2" ts="2026-02-02T14:10:04">
  <decision date="2023-01-26" number="" org=""/>
