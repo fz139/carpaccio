@@ -28665,6 +28665,23 @@
  <domain><![CDATA[*.v2raytun.fit]]></domain>
  <ip>185.149.120.121</ip>
 </content>
+<content id="9366030" includeTime="2026-02-03T00:40:04" entryType="1" hash="7C132AB774768B52C0DA2AE51D74A5B2" blockType="domain-mask" ts="2026-02-03T00:40:04">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.v2raytun-app.help]]></domain>
+ <ip>91.184.244.231</ip>
+</content>
+<content id="9366031" includeTime="2026-02-03T00:40:04" entryType="1" hash="A7A5178220042CA84570ED808AC633E3" blockType="domain" ts="2026-02-03T00:40:04">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[i2pd.website]]></domain>
+ <ip>185.199.108.153</ip>
+ <ip>185.199.109.153</ip>
+ <ip>185.199.110.153</ip>
+ <ip>185.199.111.153</ip>
+ <ipv6>2606:50c0:8000:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8001:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8002:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8003:0000:0000:0000:0000:0153</ipv6>
+</content>
 <content id="9366049" includeTime="2026-01-29T23:40:03" entryType="1" hash="848C45C40DE4D53471CDDD556B2A98A8" blockType="domain" ts="2026-01-29T23:40:03">
  <decision date="2026-01-27" number="2-6-14/2026-01-26-25374-АИ" org="ФНС"/>
  <domain><![CDATA[zooma.t2000.buzz]]></domain>
