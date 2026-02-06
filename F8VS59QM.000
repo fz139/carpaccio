@@ -1673,9 +1673,9 @@
  <domain><![CDATA[*.twin.4003.casino]]></domain>
  <ip>62.113.116.139</ip>
 </content>
-<content id="9308701" includeTime="2026-01-20T14:35:03" entryType="1" hash="1AB46392BF327FD7FC2DE443844DB6AC" blockType="domain" ts="2026-01-20T14:35:03">
+<content id="9308701" includeTime="2026-01-20T14:35:03" entryType="1" hash="BD3329E4769DF5DA5289C681737CB412" blockType="domain-mask" ts="2026-02-05T00:20:04">
  <decision date="2026-01-14" number="2-6-14/2026-01-13-32554-АИ" org="ФНС"/>
- <domain><![CDATA[1056.casino]]></domain>
+ <domain><![CDATA[*.1056.casino]]></domain>
  <ip>212.118.37.44</ip>
 </content>
 <content id="9308702" includeTime="2026-01-21T00:35:03" entryType="1" hash="619AF6DA10B69EA52D191DC59D9AF12B" blockType="domain-mask" ts="2026-01-21T00:35:03">
@@ -3570,12 +3570,6 @@
  <ip>172.67.176.184</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:b0b8</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:2394</ipv6>
-</content>
-<content id="9309171" includeTime="2026-01-21T17:35:04" entryType="1" hash="06D3BE254BABB8D035F71547AFF7D855" ts="2026-01-21T17:35:04">
- <decision date="2026-01-19" number="3666915-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://sex5.prostitutkisaratovagid.net]]></url>
- <domain><![CDATA[sex5.prostitutkisaratovagid.net]]></domain>
- <ip>5.61.32.56</ip>
 </content>
 <content id="9309172" includeTime="2026-01-20T14:35:03" entryType="1" hash="C7C4FC87E2B0AD8B1FF74B33F04FE7AF" blockType="domain" ts="2026-01-20T14:35:03">
  <decision date="2026-01-19" number="3666916-URL-on" org="Роскомнадзор"/>

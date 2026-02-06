@@ -6742,9 +6742,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7013471" includeTime="2024-05-15T13:40:03" entryType="1" hash="6FC81EE5F2B4864A1F851CBBE0FA44F1" blockType="domain" ts="2024-05-15T13:40:03">
+<content id="7013471" includeTime="2024-05-15T13:40:03" entryType="1" hash="E5386A82D9E46084DA6702F50389C484" blockType="domain-mask" ts="2026-02-03T14:00:04">
  <decision date="2024-02-22" number="2а-340/2024" org="Алданский районный суд - Республика Саха (Якутия)"/>
- <domain><![CDATA[dox-krasnodar.com]]></domain>
+ <domain><![CDATA[*.dox-krasnodar.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -7517,14 +7517,6 @@
  <ip>172.67.219.38</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:db26</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:3318</ipv6>
-</content>
-<content id="7013673" includeTime="2024-05-15T13:40:03" entryType="1" hash="93A75BA72A6808B577CE4C7AECF92EC1" blockType="domain" ts="2024-05-15T13:40:03">
- <decision date="2024-02-22" number="2а-340/2024" org="Алданский районный суд - Республика Саха (Якутия)"/>
- <domain><![CDATA[a.dox-krasnodar.com]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="7013675" includeTime="2024-05-14T22:35:02" entryType="1" hash="321D1C3294851ADA62F8AF3675C12659" blockType="domain-mask" ts="2024-05-14T22:35:02">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

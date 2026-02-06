@@ -4626,14 +4626,6 @@
  <ip>104.21.73.58</ip>
  <ip>172.67.158.70</ip>
 </content>
-<content id="8837762" includeTime="2025-10-08T07:35:03" entryType="1" hash="B3CCFA1781917A4FEFE17337AD6A8C37" blockType="domain" ts="2025-10-08T07:35:03">
- <decision date="2025-05-26" number="2-6-14/2025-05-26-6816-АИ" org="ФНС"/>
- <domain><![CDATA[zoo46.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="8837764" includeTime="2025-10-08T07:35:03" entryType="1" hash="53650C99AAEFCD11C3FA942518B91171" blockType="domain-mask" ts="2025-10-08T07:35:03">
  <decision date="2025-05-26" number="2-6-14/2025-05-26-6825-АИ" org="ФНС"/>
  <domain><![CDATA[*.zerkalo-vulkandeluxe.com]]></domain>
@@ -5941,6 +5933,11 @@
  <domain><![CDATA[cayashobo.com]]></domain>
  <ip>45.32.7.127</ip>
  <ipv6>2001:19f0:1000:348c:5400:05ff:fe48:97f8</ipv6>
+</content>
+<content id="8838314" includeTime="2026-02-06T00:15:03" entryType="1" hash="6097BB9DE2B8C6340BC96EE1BD51AC00" blockType="domain" ts="2026-02-06T00:15:03">
+ <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[gaz21.ru]]></domain>
+ <ip>217.174.105.17</ip>
 </content>
 <content id="8838315" includeTime="2025-10-08T15:00:05" entryType="1" hash="3A360039A4E40A1FF07FFF28D967883F" blockType="domain-mask" ts="2025-10-08T15:00:05">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>

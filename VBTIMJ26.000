@@ -3385,17 +3385,9 @@
  <ipv6>2606:4700:3037:0000:0000:0000:6815:422b</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:9cab</ipv6>
 </content>
-<content id="8361478" includeTime="2025-06-06T07:00:03" entryType="1" hash="C829364089F19C3323B0E6F22EFC011C" blockType="domain" ts="2025-06-06T07:00:03">
+<content id="8361478" includeTime="2025-06-06T07:00:03" entryType="1" hash="E241BED48E77898050C99434D8571D68" blockType="domain-mask" ts="2026-02-03T14:00:04">
  <decision date="2024-02-15" number="2а-41/2024" org="Калганский районный суд - Забайкальский край"/>
- <domain><![CDATA[rostovdoxy.com]]></domain>
- <ip>104.21.96.59</ip>
- <ip>172.67.173.153</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:ad99</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:603b</ipv6>
-</content>
-<content id="8361479" includeTime="2025-06-06T07:00:03" entryType="1" hash="41808ECD809AF8D4EEEEF8D0837A45CE" blockType="domain" ts="2025-06-06T07:00:03">
- <decision date="2024-02-15" number="2а-41/2024" org="Калганский районный суд - Забайкальский край"/>
- <domain><![CDATA[a.rostovdoxy.com]]></domain>
+ <domain><![CDATA[*.rostovdoxy.com]]></domain>
  <ip>104.21.96.59</ip>
  <ip>172.67.173.153</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:ad99</ipv6>
@@ -4193,7 +4185,7 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="8363533" includeTime="2025-08-13T16:15:02" entryType="2" hash="BDEC25E93CF525D87B3C3C9D2DFF9FE7" ts="2025-08-13T16:15:02">
+<content id="8363533" includeTime="2025-08-13T16:15:02" entryType="2" hash="0A296670754DCFF02C2466AD7D883931" ts="2026-02-03T17:00:06">
  <decision date="2024-01-11" number="определение о предварительном обеспечении по заявлению № 2И-0349/2024" org="Мосгорсуд"/>
  <url><![CDATA[http://erzatz-rutor.ru/torrent/976217/bremenskie-muzykanty-2023-web-dl-1080p]]></url>
  <url><![CDATA[http://erzatz-rutor.ru/torrent/976223/bremenskie-muzykanty-2023-web-dlrip-ot-elektri4ka-okko]]></url>
@@ -4206,10 +4198,7 @@
  <url><![CDATA[http://erzatz-rutor.ru/torrent/976642/bremenskie-muzykanty-2023-web-dlrip-ot-exkinoray]]></url>
  <url><![CDATA[http://erzatz-rutor.ru/torrent/977012/bremenskie-muzykanty-2023-web-dlrip-avc-ot-domino]]></url>
  <domain><![CDATA[erzatz-rutor.ru]]></domain>
- <ip>104.21.19.92</ip>
- <ip>172.67.185.182</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:b9b6</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:135c</ipv6>
+ <ip>179.43.155.62</ip>
 </content>
 <content id="8363741" includeTime="2025-06-05T16:45:01" entryType="2" hash="CD385D4ADAE8EB285E89A63E1BF72733" ts="2025-06-05T16:45:01">
  <decision date="2025-04-15" number="определение о предварительном обеспечении по заявлению № 2И-5965/2025" org="Мосгорсуд"/>
