@@ -3176,9 +3176,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d1c7</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1749</ipv6>
 </content>
-<content id="7983863" includeTime="2025-03-06T14:20:03" entryType="1" hash="4889B37FA375E9D7B2D3CC261C487993" blockType="domain" ts="2025-03-06T14:20:03">
+<content id="7983863" includeTime="2025-03-06T14:20:03" entryType="1" hash="6946771F2AC9597FE5E09D4F9C93EF74" blockType="domain-mask" ts="2026-02-09T13:55:04">
  <decision date="2025-03-04" number="3023190-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[filedrom.ru]]></domain>
+ <domain><![CDATA[*.filedrom.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
