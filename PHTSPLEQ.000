@@ -7969,6 +7969,11 @@
  <domain><![CDATA[vodka.narimskoe.ru]]></domain>
  <ip>37.252.8.25</ip>
 </content>
+<content id="9417103" includeTime="2026-02-12T00:50:04" entryType="1" hash="07D00B8675AC44FC423E413D6516825C" blockType="domain-mask" ts="2026-02-12T00:50:04">
+ <decision date="2025-04-23" number="2025-04-01-5106-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.android2vpn.top]]></domain>
+ <ip>195.26.87.244</ip>
+</content>
 <content id="9417104" includeTime="2026-02-11T00:15:03" entryType="1" hash="594EF030DB49CE3EDBC9CB89D9CAE39F" blockType="domain-mask" ts="2026-02-11T00:15:03">
  <decision date="2026-02-06" number="2-6-14/2026-02-05-34610-АИ" org="ФНС"/>
  <domain><![CDATA[*.1x-1x-1xbet.ru]]></domain>
@@ -9385,6 +9390,56 @@
  <domain><![CDATA[*.1win.zerkalorg.casino]]></domain>
  <ip>65.38.120.129</ip>
 </content>
+<content id="9417510" includeTime="2026-02-12T00:50:04" entryType="1" hash="BA24A6EFE79C73C3D564D5CDAC70829A" blockType="domain-mask" ts="2026-02-12T00:50:04">
+ <decision date="2026-02-09" number="2026-02-09-17122-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[*.100gramm1-24-voronezh.ru]]></domain>
+ <ip>37.252.1.39</ip>
+</content>
+<content id="9417513" includeTime="2026-02-12T00:50:04" entryType="1" hash="55FD0E52AF56D25E21EEAD5F1ED4EEAB" blockType="domain" ts="2026-02-12T00:50:04">
+ <decision date="2026-02-09" number="2026-02-09-17324-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[55.fat7.ru]]></domain>
+ <ip>104.28.7.67</ip>
+</content>
+<content id="9417514" includeTime="2026-02-12T00:50:04" entryType="1" hash="CF05BD7C12321323C7CC81DA5426A760" blockType="domain-mask" ts="2026-02-12T00:50:04">
+ <decision date="2026-02-06" number="2026-02-06-41095-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[*.100gramm-1-samara.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9417516" includeTime="2026-02-12T00:50:04" entryType="1" hash="E3097BA9332D96F9C521D0C237F5AE91" blockType="domain-mask" ts="2026-02-12T00:50:04">
+ <decision date="2026-02-06" number="2026-02-06-41814-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[*.alcoexpress-24-spb1.online]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9417517" includeTime="2026-02-12T00:50:04" entryType="1" hash="AAC4E52EB75AF7A93862FB13057D7549" blockType="domain-mask" ts="2026-02-12T00:50:04">
+ <decision date="2026-02-06" number="2026-02-06-42684-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[*.alcoraketa-2-chelyabinsk.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9417519" includeTime="2026-02-12T00:50:04" entryType="1" hash="0024E5044D8304DDB5BF978C81437A9C" blockType="domain-mask" ts="2026-02-12T00:50:04">
+ <decision date="2026-02-06" number="2026-02-06-43121-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[*.alcoexpress-1-krasnoyarsk.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9417520" includeTime="2026-02-12T00:50:04" entryType="1" hash="47549D98C428208655FC89D12F7A4E21" blockType="domain-mask" ts="2026-02-12T00:50:04">
+ <decision date="2026-02-06" number="2026-02-06-43639-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[*.alcoexpress-1-ufa.ru]]></domain>
+ <ip>104.21.33.6</ip>
+ <ip>172.67.188.106</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:bc6a</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:2106</ipv6>
+</content>
 <content id="9417525" includeTime="2026-02-11T15:30:06" entryType="1" hash="FA5DEC7A2CDD6AE47065C551A0BA85AE" blockType="domain-mask" ts="2026-02-11T15:30:06">
  <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.kea73.at]]></domain>
@@ -9559,6 +9614,25 @@
  <domain><![CDATA[*.loksyopt.ru]]></domain>
  <ip>186.2.175.37</ip>
 </content>
+<content id="9417553" includeTime="2026-02-12T00:50:04" entryType="1" hash="7331E5B5EA924400C17E56D1133E51A6" ts="2026-02-12T00:50:04">
+ <decision date="2026-02-09" number="2026-02-09-51824" org="МВД"/>
+ <url><![CDATA[https://www.sh-yueyun.com/2025/04/15]]></url>
+ <domain><![CDATA[www.sh-yueyun.com]]></domain>
+ <ip>61.244.199.238</ip>
+</content>
+<content id="9417579" includeTime="2026-02-12T00:50:04" entryType="1" hash="FB39555C05D39FCF80B8E5EB35F7AF66" blockType="domain" ts="2026-02-12T00:50:04">
+ <decision date="2026-02-09" number="2026-02-09-27914-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[q1.alkokrd40.ru]]></domain>
+ <ip>87.236.16.177</ip>
+</content>
+<content id="9417587" includeTime="2026-02-12T00:50:04" entryType="1" hash="22B83199F8041421EFD1518F9CE3AA26" blockType="domain-mask" ts="2026-02-12T00:50:04">
+ <decision date="2026-02-10" number="2026-01-30-33878-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[*.alcoexpress24-kaliningrad-dostavka.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="9417588" includeTime="2026-02-11T00:15:03" entryType="1" hash="D9DB5012DAFA546CAE41C67C3299524B" blockType="domain-mask" ts="2026-02-11T00:15:03">
  <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.krab----4-at.ru]]></domain>
@@ -9597,6 +9671,89 @@
  <decision date="2026-02-09" number="2026-02-09-20893-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[*.omskalcobar2026.online]]></domain>
  <ip>185.154.20.52</ip>
+</content>
+<content id="9417613" includeTime="2026-02-12T00:50:04" entryType="1" hash="6435C6C9A87100AE5BDB9C5E1C599FCA" ts="2026-02-12T00:50:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@rmssZulemaseebad]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="9417614" includeTime="2026-02-12T00:50:04" entryType="1" hash="605A9298057116F488EE15673CB5BDF8" ts="2026-02-12T00:50:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@peychoyordanov]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="9417615" includeTime="2026-02-12T00:50:04" entryType="1" hash="DBBC27A937F08B8E5AB3B90C135EFC7A" ts="2026-02-12T00:50:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@zerro61howkan:d]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="9417616" includeTime="2026-02-12T00:50:04" entryType="1" hash="2F147EA3427A5CFBF35FF90BC6C0D04A" ts="2026-02-12T00:50:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@tortstraxcarl8:a]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="9417617" includeTime="2026-02-12T00:50:04" entryType="1" hash="D56B6E9DF87337376F5BBAAE4B0EBD0C" ts="2026-02-12T00:50:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@wennberglillemor]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="9417618" includeTime="2026-02-12T00:50:04" entryType="1" hash="FA6818C7FC81E5E5673138F2FFAC7791" ts="2026-02-12T00:50:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@dmanhtoan03]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="9417619" includeTime="2026-02-12T00:50:04" entryType="1" hash="447122C3AC8C7AE59B52E8440A8C6182" ts="2026-02-12T00:50:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@susannlindman]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="9417620" includeTime="2026-02-12T00:50:04" entryType="1" hash="020F25B81C949EDD5B57E0E7CF2EB346" ts="2026-02-12T00:50:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@lindquistaino]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="9417621" includeTime="2026-02-12T00:50:04" entryType="1" hash="26C78E8007CC2BE443CC5226D374794A" ts="2026-02-12T00:50:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@topgamer_alexander]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="9417622" includeTime="2026-02-12T00:50:04" entryType="1" hash="2D1E1D6A5403218C9EBBA577F916FCB5" ts="2026-02-12T00:50:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@dhelzpiila]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="9417623" includeTime="2026-02-12T00:50:04" entryType="1" hash="38B0B4753319C5D809D79557539459EB" ts="2026-02-12T00:50:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://odysee.com/@stenquistgullvi:9]]></url>
+ <domain><![CDATA[odysee.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+</content>
+<content id="9417630" includeTime="2026-02-12T00:50:04" entryType="1" hash="020E390F26393303878E8C0484DED808" ts="2026-02-12T00:50:04">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[http://web24online.ru/podolsk-pereezd/]]></url>
+ <domain><![CDATA[web24online.ru]]></domain>
+ <ip>186.2.175.37</ip>
 </content>
 <content id="9417631" includeTime="2026-02-11T00:15:03" entryType="1" hash="A8DE870933996689A028548EB68831FB" blockType="domain-mask" ts="2026-02-11T00:15:03">
  <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
