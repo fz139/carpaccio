@@ -593,9 +593,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6705992" includeTime="2024-02-05T22:55:02" entryType="1" hash="09E3AC8EFC1CDD363E9462BBE61AC614" blockType="domain" ts="2024-02-05T22:55:02">
+<content id="6705992" includeTime="2024-02-05T22:55:02" entryType="1" hash="24062EBD52B59FDA29FE33567D533315" blockType="domain-mask" ts="2026-02-12T13:05:04">
  <decision date="2024-02-02" number="2024-02-01-6578-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[topgenerics.ru]]></domain>
+ <domain><![CDATA[*.topgenerics.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
