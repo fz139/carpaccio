@@ -8620,6 +8620,16 @@
  <domain><![CDATA[ufa-ih.info]]></domain>
  <ip>91.84.123.219</ip>
 </content>
+<content id="9439851" includeTime="2026-02-18T14:40:04" entryType="1" hash="0D7D2D74AD638479DE6E44B13627AE46" blockType="domain" ts="2026-02-18T14:40:04">
+ <decision date="2026-02-13" number="3742095-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[tv.lordserial-0.top]]></domain>
+ <ip>185.113.8.64</ip>
+</content>
+<content id="9439852" includeTime="2026-02-18T14:40:04" entryType="1" hash="066AC51656C407F7D51598CB059D75B3" blockType="domain-mask" ts="2026-02-18T14:40:04">
+ <decision date="2026-02-13" number="3742096-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.lordserial-0.top]]></domain>
+ <ip>185.113.8.64</ip>
+</content>
 <content id="9439856" includeTime="2026-02-17T00:40:05" entryType="1" hash="6769647E8E38E162B0E3C1D5BA463910" blockType="domain" ts="2026-02-17T00:40:05">
  <decision date="2026-02-13" number="3742100-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[msk21.hot-dosug.net]]></domain>
@@ -19142,6 +19152,15 @@
  <domain><![CDATA[*.mostbet-tza.xyz]]></domain>
  <ip>188.137.179.229</ip>
  <ipv6>2a13:4ac0:0020:0004:f816:3eff:fe8d:147e</ipv6>
+</content>
+<content id="9443299" includeTime="2026-02-18T14:40:04" entryType="1" hash="E783B99E0CD3B6645B79CCE200AF410C" ts="2026-02-18T14:40:04">
+ <decision date="2026-02-16" number="3743746-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://lordfilm.hk/10210-otel-hazbin-2019.html]]></url>
+ <domain><![CDATA[lordfilm.hk]]></domain>
+ <ip>104.21.84.88</ip>
+ <ip>172.67.190.146</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:5458</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:be92</ipv6>
 </content>
 <content id="9443306" includeTime="2026-02-17T00:40:05" entryType="1" hash="2B197F37234DB4129AE41BCB64AE596C" blockType="domain-mask" ts="2026-02-17T00:40:05">
  <decision date="2026-02-13" number="2-6-14/2026-02-11-49629-АИ" org="ФНС"/>
