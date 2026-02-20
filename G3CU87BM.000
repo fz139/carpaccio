@@ -6134,12 +6134,6 @@
  <domain><![CDATA[tgscanner.ru]]></domain>
  <ip>64.226.72.239</ip>
 </content>
-<content id="9102786" includeTime="2025-11-28T14:30:05" entryType="1" hash="BEAE9ED8975765E13ECB6577ECF37736" ts="2025-11-28T14:30:05">
- <decision date="2025-11-26" number="3558482-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://lordfilm-school.ru/blizkie-druzya-2000]]></url>
- <domain><![CDATA[lordfilm-school.ru]]></domain>
- <ip>45.137.215.17</ip>
-</content>
 <content id="9102788" includeTime="2025-11-28T14:30:05" entryType="1" hash="A5CB75E29D051B7C2CEC43933C855238" blockType="domain" ts="2025-11-28T14:30:05">
  <decision date="2025-11-26" number="3558484-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[lakorns-365.top]]></domain>
@@ -6161,12 +6155,6 @@
  <url><![CDATA[https://omnirezka.tv/films/drama/4703-seks-v-bolshom-gorode-2-2010-latest.html]]></url>
  <domain><![CDATA[omnirezka.tv]]></domain>
  <ip>213.111.160.58</ip>
-</content>
-<content id="9102792" includeTime="2025-11-28T14:30:05" entryType="1" hash="C3B33E02754DC04514D3EA6F1A8A2E59" ts="2025-11-28T14:30:05">
- <decision date="2025-11-26" number="3558488-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://lordfilm-debate.ru/seks-v-bolshom-gorode-2-2010]]></url>
- <domain><![CDATA[lordfilm-debate.ru]]></domain>
- <ip>45.137.215.17</ip>
 </content>
 <content id="9102794" includeTime="2025-11-29T09:35:03" entryType="1" hash="350D7137D541DF50B8182240EAC82BA9" ts="2025-11-29T09:35:03">
  <decision date="2025-11-26" number="3558490-URL-on" org="Роскомнадзор"/>
@@ -7417,6 +7405,11 @@
  <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.pil-oga-robic.com]]></domain>
  <ip>188.165.24.3</ip>
+</content>
+<content id="9103122" includeTime="2026-02-20T15:15:03" entryType="1" hash="68001B415C541192772986B669011AE4" blockType="domain-mask" ts="2026-02-20T15:15:03">
+ <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.oxfordmfg.com]]></domain>
+ <ip>160.153.0.130</ip>
 </content>
 <content id="9103123" includeTime="2025-11-27T16:20:06" entryType="1" hash="055E4F8E9580DA3EDBBFFBE59EA05890" blockType="domain-mask" ts="2025-11-27T16:20:06">
  <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
