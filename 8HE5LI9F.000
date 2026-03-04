@@ -1234,6 +1234,14 @@
  <domain><![CDATA[*.slotgameatom.com]]></domain>
  <ip>89.124.64.142</ip>
 </content>
+<content id="9466978" includeTime="2026-03-03T23:45:07" entryType="1" hash="326AFC083D31B4D1DE6DB4B89F8E9542" blockType="domain-mask" ts="2026-03-03T23:45:07">
+ <decision date="2026-01-30" number="2026-01-16-18258-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.proxyma.io]]></domain>
+ <ip>104.21.56.44</ip>
+ <ip>172.67.177.95</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:b15f</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:382c</ipv6>
+</content>
 <content id="9466979" includeTime="2026-02-19T23:30:04" entryType="1" hash="927B5392C3BCAD2843F75B3069340CD7" blockType="domain-mask" ts="2026-02-19T23:30:04">
  <decision date="2025-11-20" number="2-6-14/2025-11-19-5027-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.118m.casino]]></domain>
@@ -2792,6 +2800,11 @@
  <domain><![CDATA[insto.top]]></domain>
  <ip>188.130.160.82</ip>
 </content>
+<content id="9467434" includeTime="2026-03-03T13:15:08" entryType="1" hash="51FE76992E3956B85CAE2DF5D1247A18" blockType="domain" ts="2026-03-03T13:15:08">
+ <decision date="2025-10-03" number="2а-4876/2025" org="Ногинский городской суд - Московская область"/>
+ <domain><![CDATA[fervet-tabak.shop]]></domain>
+ <ip>159.253.120.100</ip>
+</content>
 <content id="9467435" includeTime="2026-02-24T14:55:04" entryType="1" hash="0E0626CDF84B0A1CCC0C0F3E3892F136" ts="2026-02-24T14:55:04">
  <decision date="2025-12-15" number="2а-2593/2025" org="Ленинский районный суд г. Ярославля - Ярославская область"/>
  <url><![CDATA[https://tabak2.tobacco-spb.ru/]]></url>
@@ -2802,6 +2815,11 @@
  <decision date="2025-12-16" number="2а-909/2025" org="Серебряно-Прудский районный суд - Московская область"/>
  <domain><![CDATA[bez-nomera.ru]]></domain>
  <ip>185.93.104.229</ip>
+</content>
+<content id="9467447" includeTime="2026-03-03T13:15:08" entryType="1" hash="F20D74EEC5F69A818E967389B9E2A7BF" blockType="domain-mask" ts="2026-03-03T13:15:08">
+ <decision date="2025-12-16" number="2а-909/2025" org="Серебряно-Прудский районный суд - Московская область"/>
+ <domain><![CDATA[*.russispravki.online]]></domain>
+ <ip>45.82.69.172</ip>
 </content>
 <content id="9467449" includeTime="2026-02-25T00:40:04" entryType="1" hash="BD49FA037F7B8C1B244AEEC6E333C4B4" blockType="domain" ts="2026-02-25T00:40:04">
  <decision date="2025-12-16" number="2а-909/2025" org="Серебряно-Прудский районный суд - Московская область"/>

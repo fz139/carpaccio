@@ -4192,10 +4192,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4b39</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:d6d5</ipv6>
 </content>
-<content id="9424472" includeTime="2026-02-12T15:00:05" entryType="1" hash="E79DA9700B89F25ECE1141A31B5DA2DE" ts="2026-02-12T15:00:05">
+<content id="9424472" includeTime="2026-02-12T15:00:05" entryType="1" hash="194C08602B574A789D288D43FC8F5C2F" blockType="domain-mask" ts="2026-03-03T13:15:08">
  <decision date="2026-01-27" number="2а-1023/2026" org="Железнодорожный районный суд г. Хабаровска - Хабаровский край"/>
- <url><![CDATA[https://podshipnik16.online]]></url>
- <domain><![CDATA[podshipnik16.online]]></domain>
+ <domain><![CDATA[*.podshipnik16.online]]></domain>
  <ip>104.21.84.44</ip>
  <ip>172.67.186.61</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:542c</ipv6>
@@ -4297,10 +4296,22 @@
  <domain><![CDATA[*.krab---4-cc.ru]]></domain>
  <ip>198.251.84.33</ip>
 </content>
+<content id="9424508" includeTime="2026-03-03T00:15:07" entryType="1" hash="0AF3ADC79D421B6E8A85B9EFFF636E57" ts="2026-03-03T00:15:07">
+ <decision date="2026-02-10" number="2026-01-28-37458" org="МВД"/>
+ <url><![CDATA[https://196.13.207.59/forums/discussion/general/gashish-kupit-kiev-sayt-nig24top-kupit-gashish-v-kieve-2]]></url>
+ <domain><![CDATA[196.13.207.59]]></domain>
+ <ip>196.13.207.59</ip>
+</content>
 <content id="9424510" includeTime="2026-02-12T15:00:05" entryType="1" hash="B39928C9736DEAE9A419563ACFE30A3B" blockType="domain-mask" ts="2026-02-12T15:00:05">
  <decision date="2026-02-10" number="2026-02-10-3344-ПЛ" org="МВД"/>
  <domain><![CDATA[*.krab----4----cc.ru]]></domain>
  <ip>198.251.84.33</ip>
+</content>
+<content id="9424512" includeTime="2026-03-03T00:15:07" entryType="1" hash="79EA100DF250A4A32E26F5B24E0FB440" ts="2026-03-03T00:15:07">
+ <decision date="2026-02-10" number="2026-01-28-37457" org="МВД"/>
+ <url><![CDATA[https://196.13.207.59/forums/discussion/general/coca1top-sayt-kupit-gashish-boshki-v-kieve]]></url>
+ <domain><![CDATA[196.13.207.59]]></domain>
+ <ip>196.13.207.59</ip>
 </content>
 <content id="9424513" includeTime="2026-02-13T14:10:04" entryType="1" hash="B790A3A528189A2A9999E72E024F95F2" blockType="domain" ts="2026-02-13T14:10:04">
  <decision date="2026-02-10" number="2026-02-10-30663" org="МВД"/>

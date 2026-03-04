@@ -7949,6 +7949,12 @@
  <domain><![CDATA[*.catcasino-jqf.top]]></domain>
  <ip>95.129.234.99</ip>
 </content>
+<content id="9430597" includeTime="2026-03-03T00:15:07" entryType="1" hash="A9405552FCD48458D993E95991DBD40C" blockType="domain-mask" ts="2026-03-03T00:15:07">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.hidemy.name]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+</content>
 <content id="9430598" includeTime="2026-02-16T15:10:07" entryType="1" hash="49300830DCCD11ACD3C7EA3932F5FD87" ts="2026-02-16T15:10:07">
  <decision date="2025-04-23" number="2025-04-01-5106-СОБ" org="Роскомнадзор"/>
  <url><![CDATA[https://findvpn.sbs/gamevpn-shark.html]]></url>
@@ -10182,6 +10188,12 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0b7c</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a607</ipv6>
 </content>
+<content id="9431041" includeTime="2026-03-03T00:15:07" entryType="1" hash="6D8B293DF1869D28B5D055CD58BF5749" ts="2026-03-03T00:15:07">
+ <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://theannareport.com/%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D1%83-%D0%BA%D0%B0%D0%BD%D0%B0%D0%B1%D0%B8%D1%81-telegram-%D0%B1%D0%BE%D1%82/]]></url>
+ <domain><![CDATA[theannareport.com]]></domain>
+ <ip>66.147.244.53</ip>
+</content>
 <content id="9431044" includeTime="2026-02-17T00:40:05" entryType="1" hash="D6C9AD1BC56BF1652362E7920A243A43" blockType="domain" ts="2026-02-17T00:40:05">
  <decision date="2025-11-24" number="2025-11-24-4802" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[purecybin.co.uk]]></domain>
@@ -10196,9 +10208,8 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:adfe</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:6044</ipv6>
 </content>
-<content id="9431054" includeTime="2026-02-13T14:10:04" entryType="1" hash="385D0AA8844A84FB94052BC12FB79F50" ts="2026-02-13T14:10:04">
+<content id="9431054" includeTime="2026-02-13T14:10:04" entryType="1" hash="65F39D53570353B7AD839A140D4D250D" blockType="domain" ts="2026-03-03T13:15:08">
  <decision date="2025-11-24" number="2025-11-24-4802" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[http://www.urspravkaru.ru]]></url>
  <domain><![CDATA[www.urspravkaru.ru]]></domain>
  <ip>104.21.18.167</ip>
  <ip>172.67.182.193</ip>
@@ -10575,6 +10586,11 @@
  <decision date="2026-02-11" number="2а-447/2026 (М-74/2026)" org="Юргинский городской суд - Кемеровская область"/>
  <domain><![CDATA[jurga.sweet-smoke-market.store]]></domain>
  <ip>104.28.7.67</ip>
+</content>
+<content id="9431222" includeTime="2026-03-03T13:15:08" entryType="1" hash="397D4B51130C0B320A3509378EA34401" blockType="domain-mask" ts="2026-03-03T13:15:08">
+ <decision date="2025-11-27" number="2а-1156/2025" org="Мостовской районный суд - Краснодарский край"/>
+ <domain><![CDATA[*.xxx24video.link]]></domain>
+ <ip>109.206.161.25</ip>
 </content>
 <content id="9431234" includeTime="2026-02-17T00:40:05" entryType="1" hash="413636CF188F2AC87B5CDB9632F3A3AC" blockType="domain" ts="2026-02-17T00:40:05">
  <decision date="2026-02-10" number="2026-02-09-40472-НП" org="Росмолодежь"/>

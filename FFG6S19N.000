@@ -361,12 +361,6 @@
  <domain><![CDATA[lirik.web.id]]></domain>
  <ip>188.245.171.40</ip>
 </content>
-<content id="9426858" includeTime="2026-02-13T14:10:04" entryType="1" hash="93253FE1FFA42A00222DF211B720368C" ts="2026-02-13T14:10:04">
- <decision date="2026-02-10" number="198613" org="Роспотребнадзор"/>
- <url><![CDATA[https://goodsongs.com.ua/song111475_rashamba_suka.html]]></url>
- <domain><![CDATA[goodsongs.com.ua]]></domain>
- <ip>178.20.157.41</ip>
-</content>
 <content id="9426867" includeTime="2026-02-12T00:50:04" entryType="1" hash="BCA24033C3E0320C1777D9037B601068" blockType="domain-mask" ts="2026-02-12T00:50:04">
  <decision date="2026-02-08" number="2-6-14/2026-02-07-33650-АИ" org="ФНС"/>
  <domain><![CDATA[*.azino888.4947.buzz]]></domain>
@@ -558,10 +552,9 @@
  <ip>51.77.12.224</ip>
  <ip>51.83.57.161</ip>
 </content>
-<content id="9426923" includeTime="2026-02-13T14:10:04" entryType="1" hash="01421761E6774E6B7C506CE4EDFE52BE" ts="2026-02-13T14:10:04">
+<content id="9426923" includeTime="2026-02-13T14:10:04" entryType="1" hash="99924599915C73AD7EDBF10F75A6ADBB" blockType="domain-mask" ts="2026-03-03T13:15:08">
  <decision date="2026-01-29" number="2а-143/2026 (2а-1270/2025)" org="Кизилюртовский городской суд - Республика Дагестан"/>
- <url><![CDATA[http://frees-diplom.com]]></url>
- <domain><![CDATA[frees-diplom.com]]></domain>
+ <domain><![CDATA[*.frees-diplom.com]]></domain>
  <ip>185.74.254.15</ip>
 </content>
 <content id="9426926" includeTime="2026-02-12T00:50:04" entryType="1" hash="4C7A608F03CBE027F8085FFCAABCD7B1" blockType="domain-mask" ts="2026-02-12T00:50:04">
@@ -1327,6 +1320,12 @@
  <decision date="2025-11-24" number="2025-11-24-4802" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[forum.rsaonline.ru]]></domain>
  <ip>91.236.116.26</ip>
+</content>
+<content id="9427113" includeTime="2026-03-03T00:15:07" entryType="1" hash="9285D880519120B70A284E9FDF37AB05" ts="2026-03-03T00:15:07">
+ <decision date="2026-02-09" number="2026-01-28-28415" org="МВД"/>
+ <url><![CDATA[https://robertangle.com/beta/topic/43-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82-%D1%82%D0%B0%D0%B9%D0%BD%D1%8B-%D0%B4%D0%B0%D1%80%D0%BA%D0%B2%D0%B5%D0%B1%D0%B0-%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7]]></url>
+ <domain><![CDATA[robertangle.com]]></domain>
+ <ip>162.211.80.145</ip>
 </content>
 <content id="9427114" includeTime="2026-02-13T14:10:04" entryType="1" hash="E550D0F3D8A5235AD341791925178C73" ts="2026-02-13T14:10:04">
  <decision date="2026-02-09" number="2026-01-27-26007" org="МВД"/>
