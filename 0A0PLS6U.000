@@ -3072,12 +3072,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="9486987" includeTime="2026-02-27T16:05:06" entryType="1" hash="4EF214D209052C3F1F69DDF431947D4B" ts="2026-02-27T16:05:06">
- <decision date="2026-02-24" number="199289" org="Роспотребнадзор"/>
- <url><![CDATA[https://словатекст.рф/%D0%BF%D0%B5%D1%81%D0%BD%D0%B8/%D0%BD%D0%B0%D0%B9%D1%82%D0%B8%D0%B2%D1%8B%D1%85%D0%BE%D0%B4_5-%D0%BD%D0%BE%D1%8F-%D0%B1%D1%8B%D0%BB-%D0%B2-%D1%81%D0%B5%D1%82%D0%B8-15-%D0%BC%D0%B8%D0%BD%D1%83%D1%82-%D0%BD%D0%B0%D0%B7%D0%B0%D0%B4]]></url>
- <domain><![CDATA[словатекст.рф]]></domain>
- <ip>194.247.187.123</ip>
-</content>
 <content id="9486990" includeTime="2026-02-27T16:05:06" entryType="1" hash="8A6920A503541CF70A2756FDB3268285" ts="2026-02-27T16:05:06">
  <decision date="2026-02-24" number="199293" org="Роспотребнадзор"/>
  <url><![CDATA[https://regtext.ru/text/tekst_pesni_monetka_056551974_00113581p023561821.html]]></url>
@@ -5837,6 +5831,27 @@
  <domain><![CDATA[*.xn--e1akmqaze4f.su]]></domain>
  <ip>81.177.111.93</ip>
 </content>
+<content id="9487838" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="298FB54CDC7FA2EC1B77104CFFA35291" blockType="domain" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[traktorist-info.ru]]></domain>
+ <ip>104.21.28.32</ip>
+ <ip>172.67.170.57</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:aa39</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:1c20</ipv6>
+</content>
+<content id="9487839" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="57038D5145F3C4DF3DC354A57B6E7661" blockType="domain" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[tractor-driver.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9487840" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="4D451AF817591EBFF341793182403958" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.docis-traktor.com]]></domain>
+ <ip>192.142.18.250</ip>
+</content>
 <content id="9487841" includeTime="2026-02-26T10:35:03" urgencyType="1" entryType="3" hash="978939A8FED2F51A727236C8D962F986" blockType="domain-mask" ts="2026-02-26T10:35:03">
  <decision date="2026-02-24" number="" org=""/>
  <domain><![CDATA[*.77-buhgaltervip.ru]]></domain>
@@ -5867,6 +5882,114 @@
  <domain><![CDATA[*.splityouaudit.ru]]></domain>
  <ip>144.124.227.143</ip>
 </content>
+<content id="9487847" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="C9238361FACD695129B9A77DF5C9A7ED" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.diplomsakz.com]]></domain>
+ <ip>198.211.119.216</ip>
+</content>
+<content id="9487848" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="766E205D297001007311BBF825029A43" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.propiska-spb578.ru]]></domain>
+ <ip>45.10.243.45</ip>
+</content>
+<content id="9487849" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="B77377071F577ECB739EF4DE991D861C" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.spb-prop78.ru]]></domain>
+ <ip>45.10.243.45</ip>
+</content>
+<content id="9487850" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="8FC8B02DD868658016C0190DB2A747FA" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.piter-reg98.ru]]></domain>
+ <ip>45.10.243.45</ip>
+</content>
+<content id="9487851" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="B11AF8708100B7068E8E023657935D6D" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.propuslugispb.com]]></domain>
+ <ip>148.251.254.59</ip>
+</content>
+<content id="9487852" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="E91466544E6423CBE47908D629264584" blockType="domain" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[propiska-spb-piter.orgs.biz]]></domain>
+ <ip>176.125.240.202</ip>
+</content>
+<content id="9487853" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="D1827B57F3388DC13E8E4EB928E19BB7" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.101reg.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9487854" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="0081CBFA70005645E5FF016383201C87" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.reg-198.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9487855" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="43E597C7020B97C818F73047AA028D83" blockType="domain" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[spb-registratsija578.ru]]></domain>
+ <ip>45.10.243.45</ip>
+</content>
+<content id="9487856" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="17D930EC579EB0C9C74269F2BA1F7B0A" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.intelligent-pr.ru]]></domain>
+ <ip>185.81.165.42</ip>
+</content>
+<content id="9487857" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="2BC91E74F2F80ED7319853D30E3AF832" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.spb-rega58.ru]]></domain>
+ <ip>185.196.9.247</ip>
+</content>
+<content id="9487859" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="CAF20EB41060AE616FEB4E53B666C506" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.gcrgspb98.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9487861" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="EFAFD9F0D1D7869BC818173D599F691C" blockType="domain" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[pro-auto-ru.top]]></domain>
+ <ip>89.104.84.92</ip>
+</content>
+<content id="9487862" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="B2DE03185C28E15DC5D1316423EF7DD1" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.prava-abcde.top]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9487863" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="12084DD2E79E96C15E794D2AA86C0720" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.prawauto.shop]]></domain>
+ <ip>185.229.251.116</ip>
+</content>
+<content id="9487864" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="F5141BAC6B05D8B75FCB6CFD6FE116CF" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.onprava-top.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9487865" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="80A38E0B26E494A6A431A267A1113B43" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.tractorpro.top]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9487866" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="94D8021F6C5662DF75EECC71F52D1025" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.tracpro.shop]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9487867" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="E27BB199930DB1F95E4757B5C977B666" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.tractorpro.shop]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9487868" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="D086BD709629F73BCAACB66D64976B50" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.tactoroprav.shop]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9487869" includeTime="2026-03-05T11:20:07" urgencyType="1" entryType="3" hash="F165B09E692B62B85282CA6D09821F97" blockType="domain-mask" ts="2026-03-05T11:20:07">
+ <decision date="2026-02-24" number="" org=""/>
+ <domain><![CDATA[*.prava-servis.com]]></domain>
+ <ip>104.21.87.66</ip>
+ <ip>172.67.142.43</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5742</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:8e2b</ipv6>
+</content>
 <content id="9487870" includeTime="2026-02-26T10:35:03" urgencyType="1" entryType="3" hash="93BF1334AFD24451662E93E1646C6BE3" blockType="domain-mask" ts="2026-02-26T10:35:03">
  <decision date="2022-02-24" number="" org=""/>
  <domain><![CDATA[*.lordfilmjh.run]]></domain>
@@ -5874,6 +5997,42 @@
  <ip>172.67.222.138</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:de8a</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2e11</ipv6>
+</content>
+<content id="9487871" includeTime="2026-03-05T17:50:07" entryType="2" hash="25FF92D3C848545A1455F7DDA9B8F110" ts="2026-03-05T17:50:07">
+ <decision date="2021-12-29" number="определение о предварительном обеспечении по заявлению № 2И-16793/2021" org="Мосгорсуд"/>
+ <url><![CDATA[https://chempion-mira-film-2021.lord236qz.sbs/]]></url>
+ <domain><![CDATA[chempion-mira-film-2021.lord236qz.sbs]]></domain>
+ <ip>144.124.250.86</ip>
+</content>
+<content id="9487872" includeTime="2026-03-05T17:50:07" entryType="2" hash="CE25EFF9BD32396BCE9FE94A1E570051" ts="2026-03-05T17:50:07">
+ <decision date="2021-12-29" number="определение о предварительном обеспечении по заявлению № 2И-16793/2021" org="Мосгорсуд"/>
+ <url><![CDATA[https://chempion-mira-film-2021.lord241nx.lol/]]></url>
+ <domain><![CDATA[chempion-mira-film-2021.lord241nx.lol]]></domain>
+ <ip>144.124.250.86</ip>
+</content>
+<content id="9487873" includeTime="2026-03-05T17:50:07" entryType="2" hash="D7BF670E76944307622FBB693605CA8F" ts="2026-03-05T17:50:07">
+ <decision date="2021-12-29" number="определение о предварительном обеспечении по заявлению № 2И-16793/2021" org="Мосгорсуд"/>
+ <url><![CDATA[https://chempion-mira-film-2021.lord247eu.mom/]]></url>
+ <domain><![CDATA[chempion-mira-film-2021.lord247eu.mom]]></domain>
+ <ip>144.124.250.86</ip>
+</content>
+<content id="9487874" includeTime="2026-03-05T17:50:07" entryType="2" hash="4486699AB4FCD15F5ABBCC45B889C2BE" ts="2026-03-05T17:50:07">
+ <decision date="2021-12-29" number="определение о предварительном обеспечении по заявлению № 2И-16793/2021" org="Мосгорсуд"/>
+ <url><![CDATA[https://chempion-mira-film-2021.lordu8il.lat/]]></url>
+ <domain><![CDATA[chempion-mira-film-2021.lordu8il.lat]]></domain>
+ <ip>144.124.250.86</ip>
+</content>
+<content id="9487875" includeTime="2026-03-05T17:50:07" entryType="2" hash="13F062C007060402C3AEE2C00DEDF4FC" ts="2026-03-05T17:50:07">
+ <decision date="2021-12-29" number="определение о предварительном обеспечении по заявлению № 2И-16793/2021" org="Мосгорсуд"/>
+ <url><![CDATA[https://chempion-mira-film-2021.lordwa2a.lat/]]></url>
+ <domain><![CDATA[chempion-mira-film-2021.lordwa2a.lat]]></domain>
+ <ip>144.124.250.86</ip>
+</content>
+<content id="9487876" includeTime="2026-03-05T17:50:07" entryType="2" hash="72ED4B1DC54E08122425A0F36F590AF8" ts="2026-03-05T17:50:07">
+ <decision date="2021-12-29" number="определение о предварительном обеспечении по заявлению № 2И-16793/2021" org="Мосгорсуд"/>
+ <url><![CDATA[https://chempion-mira-film-2021.lord246wh.top/]]></url>
+ <domain><![CDATA[chempion-mira-film-2021.lord246wh.top]]></domain>
+ <ip>144.124.250.86</ip>
 </content>
 <content id="9487877" includeTime="2026-03-02T18:15:07" urgencyType="1" entryType="3" hash="BEA0EA57AF38A97B320FF6A6092ABC24" blockType="domain-mask" ts="2026-03-02T18:15:07">
  <decision date="2025-02-19" number="" org=""/>
@@ -6355,6 +6514,12 @@
  <decision date="2026-02-24" number="Пб/117708" org="Роскомнадзор"/>
  <domain><![CDATA[lordfilmsteep.cfd]]></domain>
  <ip>81.17.19.227</ip>
+</content>
+<content id="9488029" includeTime="2026-03-05T17:50:07" entryType="2" hash="D32B8A81D161CEB0919277ED050DFEE2" ts="2026-03-05T17:50:07">
+ <decision date="2023-05-25" number="определение о предварительном обеспечении по заявлению № 2И-6121/2023" org="Мосгорсуд"/>
+ <url><![CDATA[https://zimorodok-o.tnt4.lat/]]></url>
+ <domain><![CDATA[zimorodok-o.tnt4.lat]]></domain>
+ <ip>89.105.213.225</ip>
 </content>
 <content id="9488054" includeTime="2026-03-02T18:15:07" urgencyType="1" entryType="3" hash="7ADC1D455E3E40EEC77C07CAF60C16AA" blockType="domain-mask" ts="2026-03-02T18:15:07">
  <decision date="2026-02-20" number="" org=""/>
@@ -7526,6 +7691,45 @@
  <decision date="2026-02-25" number="Пб/117880" org="Роскомнадзор"/>
  <domain><![CDATA[lordserialic.life]]></domain>
  <ip>91.211.251.186</ip>
+</content>
+<content id="9488835" includeTime="2026-03-05T17:50:07" entryType="2" hash="77F380D2B4982DA3EB6F43F0E1CEC2C3" ts="2026-03-05T17:50:07">
+ <decision date="2024-06-17" number="определение о предварительном обеспечении по заявлению № 2И-13111/2024" org="Мосгорсуд"/>
+ <url><![CDATA[https://polupanovy-1-sezon.lord206qo.sbs/]]></url>
+ <domain><![CDATA[polupanovy-1-sezon.lord206qo.sbs]]></domain>
+ <ip>144.124.250.86</ip>
+</content>
+<content id="9488838" includeTime="2026-03-05T17:50:07" entryType="2" hash="D12980DA43133A62D7CEBFD18898BF94" ts="2026-03-05T17:50:07">
+ <decision date="2024-06-17" number="определение о предварительном обеспечении по заявлению № 2И-13111/2024" org="Мосгорсуд"/>
+ <url><![CDATA[https://polupanovy-1-sezon.lord202mq.sbs/]]></url>
+ <domain><![CDATA[polupanovy-1-sezon.lord202mq.sbs]]></domain>
+ <ip>144.124.250.86</ip>
+</content>
+<content id="9488839" includeTime="2026-03-05T17:50:07" entryType="2" hash="7D4F424E3BE8C24ADB8F05ED08DEC117" ts="2026-03-05T17:50:07">
+ <decision date="2024-06-17" number="определение о предварительном обеспечении по заявлению № 2И-13111/2024" org="Мосгорсуд"/>
+ <url><![CDATA[https://polupanovy-1-sezon.lord180jb.mom/]]></url>
+ <domain><![CDATA[polupanovy-1-sezon.lord180jb.mom]]></domain>
+ <ip>144.124.250.86</ip>
+</content>
+<content id="9488841" includeTime="2026-03-05T17:50:07" entryType="2" hash="09B15F17CDF3AC9A107F26D6EA5701BB" ts="2026-03-05T17:50:07">
+ <decision date="2021-10-04" number="определение о предварительном обеспечении по заявлению № 2И-10537/2021" org="Мосгорсуд"/>
+ <url><![CDATA[https://insomnija-ver63-61.lordfilm.ph/]]></url>
+ <domain><![CDATA[insomnija-ver63-61.lordfilm.ph]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9488845" includeTime="2026-03-05T17:50:07" entryType="2" hash="8E5131775612548849A24B7821D10CFA" ts="2026-03-05T17:50:07">
+ <decision date="2025-11-28" number="определение о предварительном обеспечении по заявлению № 2И-16586/2025" org="Мосгорсуд"/>
+ <url><![CDATA[https://fort-vozvraschenie-legendy-2025.pet-forum.ru/]]></url>
+ <domain><![CDATA[fort-vozvraschenie-legendy-2025.pet-forum.ru]]></domain>
+ <ip>179.43.180.152</ip>
+</content>
+<content id="9488849" includeTime="2026-03-05T17:50:07" entryType="2" hash="4ACBE6ABCE118CC1436DD1510AB18D86" ts="2026-03-05T17:50:07">
+ <decision date="2024-06-17" number="определение о предварительном обеспечении по заявлению № 2И-13111/2024" org="Мосгорсуд"/>
+ <url><![CDATA[https://sekta-new6.lordfilm4.art/]]></url>
+ <domain><![CDATA[sekta-new6.lordfilm4.art]]></domain>
+ <ip>80.85.141.129</ip>
 </content>
 <content id="9488850" includeTime="2026-02-27T00:30:03" entryType="1" hash="DADAD4C7A078A37052F67D46AD0B25BC" blockType="domain-mask" ts="2026-02-27T00:30:03">
  <decision date="2026-02-24" number="2-6-14/2026-02-23-51138-АИ" org="ФНС"/>

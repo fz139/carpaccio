@@ -316,9 +316,9 @@
  <ip>54.38.193.130</ip>
  <ip>54.38.193.131</ip>
 </content>
-<content id="1917594" includeTime="2019-11-14T12:29:57" entryType="1" hash="1ADE170015175B707467933C4F3AD588" blockType="domain" ts="2019-11-14T12:29:57">
+<content id="1917594" includeTime="2019-11-14T12:29:57" entryType="1" hash="9A717F223E0A1F8C26684AD4B772A2C4" blockType="domain-mask" ts="2026-03-05T13:25:05">
  <decision date="2019-11-12" number="2019-11-04-76" org="МВД"/>
- <domain><![CDATA[hydra1983.com]]></domain>
+ <domain><![CDATA[*.hydra1983.com]]></domain>
  <ip>104.21.39.250</ip>
  <ip>172.67.172.122</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:27fa</ipv6>
@@ -2338,15 +2338,6 @@
  <decision date="2019-10-24" number="2а-4156/2019" org="Ленинский районный суд г. Смоленска - Смоленская область"/>
  <domain><![CDATA[prostitutki-smolenska.stream]]></domain>
  <ip>5.61.54.93</ip>
-</content>
-<content id="1923796" includeTime="2019-11-18T12:16:07" entryType="1" hash="1DD50C04FEBF95A2B01485370D81D0C5" ts="2019-11-18T12:16:07">
- <decision date="2019-07-10" number="2а-3576/2019" org="Ленинский районный суд г. Перми - Пермский край"/>
- <url><![CDATA[http://perm.vremennaya-registratsia.ru/schoolpropiska.php]]></url>
- <domain><![CDATA[perm.vremennaya-registratsia.ru]]></domain>
- <ip>104.21.65.89</ip>
- <ip>172.67.161.130</ip>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:4159</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:a182</ipv6>
 </content>
 <content id="1923797" includeTime="2019-11-18T12:16:07" entryType="1" hash="06DBB9FD4FE106AF8A16308DEE93C8B0" ts="2024-03-05T18:00:05">
  <decision date="2019-07-10" number="2а-3576/2019" org="Ленинский районный суд г. Перми - Пермский край"/>
