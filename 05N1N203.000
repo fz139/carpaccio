@@ -1734,9 +1734,9 @@
  <domain><![CDATA[omsk-2026-dostavka24.online]]></domain>
  <ip>212.32.225.148</ip>
 </content>
-<content id="9454368" includeTime="2026-02-19T00:55:03" entryType="1" hash="4BAF1989AD42E589C7E9AFED0E693A89" blockType="domain" ts="2026-02-19T00:55:03">
+<content id="9454368" includeTime="2026-02-19T00:55:03" entryType="1" hash="C431D2E944D935A4ABA7B31A48DC0E25" blockType="domain-mask" ts="2026-03-06T13:40:08">
  <decision date="2026-02-16" number="2026-02-16-26523-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[omsk-dostavka-alko55.store]]></domain>
+ <domain><![CDATA[*.omsk-dostavka-alko55.store]]></domain>
  <ip>84.54.29.177</ip>
 </content>
 <content id="9454370" includeTime="2026-02-18T14:40:04" entryType="1" hash="5B1AF88E09CDDBC1D8A5452AA7FB8940" blockType="domain" ts="2026-02-18T14:40:04">
@@ -1817,11 +1817,6 @@
  <decision date="2026-02-16" number="2026-02-13-28061-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[*.alcoexpress-2-krasnoyarsk.ru]]></domain>
  <ip>188.143.235.175</ip>
-</content>
-<content id="9454410" includeTime="2026-02-19T00:55:03" entryType="1" hash="66078FC747C8C7450D866A5167DA774E" blockType="domain" ts="2026-02-19T00:55:03">
- <decision date="2026-02-16" number="2026-02-12-32904-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <domain><![CDATA[www.omsk-dostavka-alko55.store]]></domain>
- <ip>84.54.29.177</ip>
 </content>
 <content id="9454411" includeTime="2026-02-19T00:55:03" entryType="1" hash="AAABDAF3BB105FE053E824B913E68BD7" blockType="domain-mask" ts="2026-02-19T00:55:03">
  <decision date="2026-02-16" number="2026-02-11-18571-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>

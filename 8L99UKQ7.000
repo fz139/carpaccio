@@ -363,9 +363,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:bfc9</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:1434</ipv6>
 </content>
-<content id="6768471" includeTime="2024-02-27T13:45:03" entryType="1" hash="5EBB9F87BD5C8CDFD829D1D1852FEA18" blockType="domain" ts="2024-02-27T13:45:03">
+<content id="6768471" includeTime="2024-02-27T13:45:03" entryType="1" hash="B494B310BDDE5BE4BFE8006992B332B0" blockType="domain-mask" ts="2026-03-06T13:40:08">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[avalontur.ru]]></domain>
+ <domain><![CDATA[*.avalontur.ru]]></domain>
  <ip>104.21.7.14</ip>
  <ip>172.67.155.94</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:9b5e</ipv6>
@@ -8258,14 +8258,6 @@
  <decision date="2024-02-27" number="2422315-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.kinotik.zone]]></domain>
  <ip>104.28.7.67</ip>
-</content>
-<content id="6772655" includeTime="2024-02-28T15:40:02" entryType="1" hash="7203B94B72C9A84CF410D200FF947520" blockType="domain" ts="2024-02-28T15:40:02">
- <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[www.avalontur.ru]]></domain>
- <ip>104.21.7.14</ip>
- <ip>172.67.155.94</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:9b5e</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:070e</ipv6>
 </content>
 <content id="6772667" includeTime="2024-02-28T09:35:03" entryType="1" hash="ECA80B71A7F827E167268FC3D889EB8F" blockType="domain" ts="2024-02-28T09:35:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>

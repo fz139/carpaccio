@@ -1460,17 +1460,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="1560783" includeTime="2019-06-10T20:04:53" entryType="1" hash="C3C9B1678DAC68A81B6828333C41DAD0" blockType="domain" ts="2023-09-06T18:20:02">
+<content id="1560783" includeTime="2019-06-10T20:04:53" entryType="1" hash="19BB76E15B09BB32B4773F32B0EC2F6E" blockType="domain-mask" ts="2026-03-06T13:40:08">
  <decision date="2019-06-05" number="2019-06-05-97" org="ÌÂÄ"/>
- <domain><![CDATA[hydraruzxpnew4af-union.com]]></domain>
- <ip>104.21.89.45</ip>
- <ip>172.67.156.114</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:592d</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:9c72</ipv6>
-</content>
-<content id="1560852" includeTime="2019-06-10T20:04:49" entryType="1" hash="008562DA7CD32A37F3C437AE8D4D9DD0" blockType="domain" ts="2023-09-06T18:20:02">
- <decision date="2019-06-05" number="2019-05-31-1979" org="ÌÂÄ"/>
- <domain><![CDATA[www.hydraruzxpnew4af-union.com]]></domain>
+ <domain><![CDATA[*.hydraruzxpnew4af-union.com]]></domain>
  <ip>104.21.89.45</ip>
  <ip>172.67.156.114</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:592d</ipv6>
