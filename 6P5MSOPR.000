@@ -2935,9 +2935,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="7895130" includeTime="2025-02-14T14:00:02" entryType="1" hash="AF1CB2468BF76EE28A31C9717109D4A2" blockType="domain" ts="2025-02-14T14:00:02">
+<content id="7895130" includeTime="2025-02-14T14:00:02" entryType="1" hash="A45695E111D657AF2D5402141F67AFFB" blockType="domain-mask" ts="2026-03-10T23:20:07">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[kra25-cc.com.ru]]></domain>
+ <domain><![CDATA[*.kra25-cc.com.ru]]></domain>
  <ip>104.21.45.34</ip>
  <ip>172.67.208.93</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d05d</ipv6>
@@ -5448,14 +5448,6 @@
  <ip>172.67.217.242</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:35c0</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:d9f2</ipv6>
-</content>
-<content id="7895653" includeTime="2025-02-14T14:00:02" entryType="1" hash="0B0528931031381B70988CC153CF1D82" blockType="domain" ts="2025-02-14T14:00:02">
- <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[www.kra25-cc.com.ru]]></domain>
- <ip>104.21.45.34</ip>
- <ip>172.67.208.93</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:d05d</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2d22</ipv6>
 </content>
 <content id="7895654" includeTime="2025-02-14T14:00:02" entryType="1" hash="E99C744B62614857429FF52F17AAF539" ts="2025-02-14T14:00:02">
  <decision date="2025-02-11" number="178472" org="Роспотребнадзор"/>

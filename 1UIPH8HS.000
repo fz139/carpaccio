@@ -139,17 +139,9 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:c77d</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:3a24</ipv6>
 </content>
-<content id="3982477" includeTime="2022-01-26T23:11:51" entryType="1" hash="2FE83B536A16F6E4E495E6FA084E1FE7" blockType="domain" ts="2022-01-26T23:11:51">
+<content id="3982477" includeTime="2022-01-26T23:11:51" entryType="1" hash="2B7DE735BEE96781B729FF369140F683" blockType="domain-mask" ts="2026-03-10T23:20:07">
  <decision date="2022-01-25" number="2022-01-23-243-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[daclatasvir-sofosbuvir1.ru]]></domain>
- <ip>104.21.72.25</ip>
- <ip>172.67.174.32</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:4819</ipv6>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:ae20</ipv6>
-</content>
-<content id="3982536" includeTime="2022-01-26T23:11:55" entryType="1" hash="7BBBD20879A10D3B5A5F4912DBE436D0" blockType="domain" ts="2022-01-26T23:11:55">
- <decision date="2022-01-25" number="2022-01-23-241-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[doctor.daclatasvir-sofosbuvir1.ru]]></domain>
+ <domain><![CDATA[*.daclatasvir-sofosbuvir1.ru]]></domain>
  <ip>104.21.72.25</ip>
  <ip>172.67.174.32</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:4819</ipv6>
@@ -1337,9 +1329,9 @@
  <domain><![CDATA[*.0685.info]]></domain>
  <ip>45.33.94.36</ip>
 </content>
-<content id="3986524" includeTime="2022-01-27T20:57:21" entryType="1" hash="4E11E601C06AD6A6FB9ED356BEAEAAEF" blockType="domain" ts="2022-01-27T20:57:21">
+<content id="3986524" includeTime="2022-01-27T20:57:21" entryType="1" hash="0A00B9216D2610E913CB29D191736EB5" blockType="domain-mask" ts="2026-03-10T23:20:07">
  <decision date="2022-01-26" number="2022-01-26-434-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[gelaxyrus.ru]]></domain>
+ <domain><![CDATA[*.gelaxyrus.ru]]></domain>
  <ip>104.21.76.149</ip>
  <ip>172.67.196.64</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4c95</ipv6>
@@ -1431,14 +1423,6 @@
  <ip>188.114.97.2</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="3986806" includeTime="2022-01-27T20:57:26" entryType="1" hash="326C3855549C55C2EA21BD83FBCCF4F3" blockType="domain" ts="2022-01-27T20:57:26">
- <decision date="2022-01-26" number="2022-01-26-435-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[drugs.gelaxyrus.ru]]></domain>
- <ip>104.21.76.149</ip>
- <ip>172.67.196.64</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:6815:4c95</ipv6>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:c440</ipv6>
 </content>
 <content id="3986821" includeTime="2022-01-27T20:57:27" entryType="1" hash="7C9D7268619A5700C9690D5E9C925A9E" blockType="domain" ts="2022-01-27T20:57:27">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

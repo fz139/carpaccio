@@ -15647,9 +15647,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
 </content>
-<content id="4041066" includeTime="2022-02-14T10:19:38" entryType="1" hash="7EB3778E56C14B3A333E85F54BBFB5EC" blockType="domain" ts="2022-02-14T10:19:38">
+<content id="4041066" includeTime="2022-02-14T10:19:38" entryType="1" hash="A50FF97CD3728A6B5A4C74E297C29961" blockType="domain-mask" ts="2026-03-10T23:20:07">
  <decision date="2022-02-10" number="2022-02-09-3045-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[lider-farma.ru]]></domain>
+ <domain><![CDATA[*.lider-farma.ru]]></domain>
  <ip>104.21.94.254</ip>
  <ip>172.67.142.114</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:8e72</ipv6>
@@ -15691,14 +15691,6 @@
  <ip>188.114.97.2</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0002</ipv6>
-</content>
-<content id="4041105" includeTime="2022-02-14T10:19:38" entryType="1" hash="0636B01FA02032C2563FB64EB2DE33BB" blockType="domain" ts="2022-02-14T10:19:38">
- <decision date="2022-02-10" number="2022-02-09-3042-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[sofos.lider-farma.ru]]></domain>
- <ip>104.21.94.254</ip>
- <ip>172.67.142.114</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:8e72</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:5efe</ipv6>
 </content>
 <content id="4041112" includeTime="2022-02-14T20:45:05" entryType="1" hash="E2F7011193DAC8A3F04E6BF2FB71A404" blockType="domain-mask" ts="2024-12-18T13:25:02">
  <decision date="2022-02-04" number="2а-39/2022" org="Яльчикский районный суд Чувашской Республики"/>
