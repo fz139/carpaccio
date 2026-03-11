@@ -19011,9 +19011,9 @@
  <domain><![CDATA[xxxlib.ru]]></domain>
  <ip>213.174.158.133</ip>
 </content>
-<content id="4051286" includeTime="2022-02-16T09:39:38" entryType="1" hash="58E12A70C2D9533CD2FDB052073F4532" blockType="domain" ts="2022-02-16T09:39:38">
+<content id="4051286" includeTime="2022-02-16T09:39:38" entryType="1" hash="92C4B7ABCD5E06C67729AF521DF6731E" blockType="domain-mask" ts="2026-03-11T14:25:05">
  <decision date="2022-02-14" number="2022-02-12-163-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[gepatit-c-stop1.ru]]></domain>
+ <domain><![CDATA[*.gepatit-c-stop1.ru]]></domain>
  <ip>104.21.36.111</ip>
  <ip>172.67.192.152</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c098</ipv6>
@@ -19050,14 +19050,6 @@
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="4051321" includeTime="2022-02-16T09:39:38" entryType="1" hash="4D30E341C001200249477C65CFE97E94" blockType="domain" ts="2022-02-16T09:39:38">
- <decision date="2022-02-14" number="2022-02-12-161-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[life.gepatit-c-stop1.ru]]></domain>
- <ip>104.21.36.111</ip>
- <ip>172.67.192.152</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:c098</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:246f</ipv6>
 </content>
 <content id="4051338" includeTime="2022-02-17T13:47:21" entryType="1" hash="6E2146CDC2D2484284295984966EB6CF" ts="2024-04-24T10:30:02">
  <decision date="2022-02-14" number="1589847-URL-on" org="Роскомнадзор"/>
