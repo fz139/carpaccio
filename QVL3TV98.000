@@ -429,9 +429,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:d32e</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:4dc0</ipv6>
 </content>
-<content id="4100078" includeTime="2022-03-03T00:06:43" entryType="1" hash="A5D8D0D869CDC2AC837F1CF9E7055EE5" blockType="domain" ts="2022-03-03T00:06:43">
+<content id="4100078" includeTime="2022-03-03T00:06:43" entryType="1" hash="348498F777DD89CA112BBBFFDDDDF972" blockType="domain-mask" ts="2026-03-16T13:30:08">
  <decision date="2022-02-28" number="2022-02-26-264-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[india-help1.ru]]></domain>
+ <domain><![CDATA[*.india-help1.ru]]></domain>
  <ip>104.21.47.209</ip>
  <ip>172.67.172.170</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2fd1</ipv6>

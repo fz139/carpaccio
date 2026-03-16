@@ -17199,14 +17199,6 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:272d</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8f34</ipv6>
 </content>
-<content id="6793285" includeTime="2024-03-07T13:45:03" entryType="1" hash="E23F2FE4279BC3F57B36C4A74616638A" blockType="domain" ts="2024-03-07T13:45:03">
- <decision date="2024-02-15" number="2а-41/2024" org="Калганский районный суд - Забайкальский край"/>
- <domain><![CDATA[a.doxy-krd.net]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6793286" includeTime="2024-03-06T22:30:03" entryType="1" hash="B7E4C370C6E4D3DB71EC951C947AE9BD" blockType="domain-mask" ts="2024-03-06T22:30:03">
  <decision date="2017-05-18" number="2-6-20/2017-05-18-27-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.gamesgo2m.ru]]></domain>
@@ -20022,9 +20014,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:dc88</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:18cd</ipv6>
 </content>
-<content id="6794375" includeTime="2024-03-07T13:45:03" entryType="1" hash="BBBADE59F0F25B696ADE60169B7ADEBB" blockType="domain" ts="2024-03-07T13:45:03">
+<content id="6794375" includeTime="2024-03-07T13:45:03" entryType="1" hash="C1A95F2B42D15FFF1882ABFC8C0BCFB8" blockType="domain-mask" ts="2026-03-16T13:30:08">
  <decision date="2024-02-15" number="2а-41/2024" org="Калганский районный суд - Забайкальский край"/>
- <domain><![CDATA[doxy-krd.net]]></domain>
+ <domain><![CDATA[*.doxy-krd.net]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
