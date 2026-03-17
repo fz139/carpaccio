@@ -4452,9 +4452,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="5701833" includeTime="2023-04-10T13:46:59" entryType="1" hash="458A7BD1FA802B20ADA8BB2FBADD9D1A" blockType="domain" ts="2023-04-10T13:46:59">
+<content id="5701833" includeTime="2023-04-10T13:46:59" entryType="1" hash="CB6C9257496C2802A70948C02645EF92" blockType="domain-mask" ts="2026-03-17T13:20:07">
  <decision date="2023-02-28" number="02а-0296/2023" org="Мещанский районный суд - Москва"/>
- <domain><![CDATA[moswom.com]]></domain>
+ <domain><![CDATA[*.moswom.com]]></domain>
  <ip>104.21.33.33</ip>
  <ip>172.67.158.127</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:2121</ipv6>
