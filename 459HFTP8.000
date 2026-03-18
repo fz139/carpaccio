@@ -1604,9 +1604,9 @@
  <ipv6>2604:a880:0400:00d1:0000:0000:0b06:a001</ipv6>
  <ipv6>2604:a880:0400:00d1:0000:0000:0b16:8001</ipv6>
 </content>
-<content id="3508173" includeTime="2021-08-09T22:13:41" entryType="1" hash="6FAA6765F9C338535E5B21C993EE6C27" blockType="domain" ts="2021-08-09T22:13:41">
+<content id="3508173" includeTime="2021-08-09T22:13:41" entryType="1" hash="5D27AB12931101EF383278412493E89B" blockType="domain-mask" ts="2026-03-18T13:35:05">
  <decision date="2021-08-04" number="2021-08-03-2410" org="ÌÂÄ"/>
- <domain><![CDATA[semyanich.ninja]]></domain>
+ <domain><![CDATA[*.semyanich.ninja]]></domain>
  <ip>104.21.45.145</ip>
  <ip>172.67.215.125</ip>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2d91</ipv6>
@@ -5959,14 +5959,6 @@
  <ip>172.67.146.53</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:9235</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:5fa6</ipv6>
-</content>
-<content id="3519759" includeTime="2021-08-12T14:51:56" entryType="1" hash="32CC8371D14C0F335DAC3A311CBFDA4C" blockType="domain" ts="2021-08-12T14:51:56">
- <decision date="2021-08-06" number="2021-08-06-135" org="ÌÂÄ"/>
- <domain><![CDATA[a.semyanich.cool]]></domain>
- <ip>104.21.95.53</ip>
- <ip>172.67.143.70</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:5f35</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:8f46</ipv6>
 </content>
 <content id="3519816" includeTime="2021-09-30T14:33:44" urgencyType="1" entryType="3" hash="043A3EBF962564509B9F932C724E05F5" ts="2021-09-30T14:33:44">
  <decision date="2015-04-03" number="" org=""/>
