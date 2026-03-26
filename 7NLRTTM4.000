@@ -2346,9 +2346,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:bb85</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:073e</ipv6>
 </content>
-<content id="6711087" includeTime="2024-02-06T13:30:02" entryType="1" hash="97C61DE3849104F25141B59C75B661CB" blockType="domain" ts="2024-06-21T14:30:02">
+<content id="6711087" includeTime="2024-02-06T13:30:02" entryType="1" hash="3351930711CF7B8FDC82893F4068D582" blockType="domain-mask" ts="2026-03-25T23:25:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[antostar.ru]]></domain>
+ <domain><![CDATA[*.antostar.ru]]></domain>
  <ip>104.21.5.170</ip>
  <ip>172.67.133.167</ip>
  <ip>188.114.96.1</ip>

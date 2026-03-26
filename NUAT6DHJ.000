@@ -221,6 +221,26 @@
  <domain><![CDATA[*.1975.casino]]></domain>
  <ip>95.129.234.48</ip>
 </content>
+<content id="9584088" includeTime="2026-03-24T00:20:04" entryType="1" hash="DFF1BFE9231AFAF3CACB688EEEFE6B54" blockType="domain-mask" ts="2026-03-24T00:20:04">
+ <decision date="2026-03-19" number="2026-03-19-31561" org="МВД"/>
+ <domain><![CDATA[*.shishkin-semena-3.pro]]></domain>
+ <ip>89.124.80.108</ip>
+</content>
+<content id="9584089" includeTime="2026-03-24T00:20:04" entryType="1" hash="D6D5387A0AB3A5A1123E18D181CC982B" blockType="domain-mask" ts="2026-03-24T00:20:04">
+ <decision date="2026-03-19" number="2026-03-19-31535-АЛК" org="МВД"/>
+ <domain><![CDATA[*.grrowerz.quest]]></domain>
+ <ip>146.103.40.214</ip>
+</content>
+<content id="9584090" includeTime="2026-03-24T00:20:04" entryType="1" hash="543E7B19B9DA25A72F396AF665A27637" blockType="domain-mask" ts="2026-03-24T00:20:04">
+ <decision date="2026-03-19" number="2026-03-18-33888" org="МВД"/>
+ <domain><![CDATA[*.msk-seedshop035.xyz]]></domain>
+ <ip>91.90.194.17</ip>
+</content>
+<content id="9584091" includeTime="2026-03-24T00:20:04" entryType="1" hash="16FACF3540EEF3837F400F70D35E18FF" blockType="domain-mask" ts="2026-03-24T00:20:04">
+ <decision date="2026-03-19" number="2026-03-18-33893" org="МВД"/>
+ <domain><![CDATA[*.forum-semyanich-13.info]]></domain>
+ <ip>94.130.228.251</ip>
+</content>
 <content id="9584092" includeTime="2026-03-23T14:55:03" entryType="1" hash="230313A662804B68190C10AE3482814D" blockType="domain" ts="2026-03-23T14:55:03">
  <decision date="2026-03-05" number="2026-03-05-9091" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[alwesaam.tech]]></domain>
@@ -301,6 +321,15 @@
  <url><![CDATA[https://dao.spb.su/2014/03/14/способы-обхода-блокировок-сайтов-плю/]]></url>
  <domain><![CDATA[dao.spb.su]]></domain>
  <ip>188.134.18.130</ip>
+</content>
+<content id="9584130" includeTime="2026-03-25T14:10:03" entryType="1" hash="2DF2F4361AF47A7DA7F8B72074A32A26" ts="2026-03-25T14:10:03">
+ <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://forum.bless.gs/index.php?/topic/89209-обход-блокировок/]]></url>
+ <domain><![CDATA[forum.bless.gs]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
 </content>
 <content id="9584138" includeTime="2026-03-20T23:25:02" entryType="1" hash="9C2E8A80CF28DD172C59341FCF797ADE" blockType="domain-mask" ts="2026-03-20T23:25:02">
  <decision date="2025-12-18" number="2-6-14/2025-12-11-12436-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
