@@ -1399,6 +1399,17 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:5e92</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:8936</ipv6>
 </content>
+<content id="9605763" includeTime="2026-03-27T23:35:02" entryType="1" hash="84B1B20EEDCCBCB997BBE5820E2AE679" blockType="domain-mask" ts="2026-03-27T23:35:02">
+ <decision date="2026-03-26" number="3829318-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.gaycation.travel]]></domain>
+ <ip>45.13.254.241</ip>
+</content>
+<content id="9605768" includeTime="2026-03-27T23:35:02" entryType="1" hash="185DB19AB92B3F2156838359A7C614B3" ts="2026-03-27T23:35:02">
+ <decision date="2026-03-26" number="3829323-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://lgbtspor-fe.orgs.biz/]]></url>
+ <domain><![CDATA[lgbtspor-fe.orgs.biz]]></domain>
+ <ip>176.125.240.241</ip>
+</content>
 <content id="9605770" includeTime="2026-03-26T23:50:04" entryType="1" hash="020F6DBA949D47602FF994E48E49693B" blockType="domain-mask" ts="2026-03-26T23:50:04">
  <decision date="2026-03-25" number="2-6-14/2026-03-25-6472-АИ" org="ФНС"/>
  <domain><![CDATA[*.freshcasino1517.com]]></domain>
