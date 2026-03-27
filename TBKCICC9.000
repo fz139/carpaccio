@@ -5941,9 +5941,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7506060" includeTime="2024-10-11T13:55:03" entryType="1" hash="811C62A609303B86BA6D7CBBD5480FE8" blockType="domain" ts="2024-10-11T13:55:03">
+<content id="7506060" includeTime="2024-10-11T13:55:03" entryType="1" hash="A799B237E85D6F23AA3D37D84A68C9D9" blockType="domain-mask" ts="2026-03-26T23:20:03">
  <decision date="2024-10-09" number="2787050-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[xxx.pics]]></domain>
+ <domain><![CDATA[*.xxx.pics]]></domain>
  <ip>185.73.220.205</ip>
  <ipv6>2a05:44c0:0001:004f:0000:0000:0000:001a</ipv6>
 </content>
