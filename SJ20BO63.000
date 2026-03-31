@@ -6077,9 +6077,9 @@
  <ip>104.21.69.217</ip>
  <ip>172.67.213.127</ip>
 </content>
-<content id="5476101" includeTime="2023-02-20T16:16:05" entryType="1" hash="5F58588C4E531E244F1906C5D1487B9F" blockType="domain" ts="2023-02-20T16:16:05">
+<content id="5476101" includeTime="2023-02-20T16:16:05" entryType="1" hash="06ECB00E04D5425119CCF39B09B5027C" blockType="domain-mask" ts="2026-04-01T00:05:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[ft77.biz]]></domain>
+ <domain><![CDATA[*.ft77.biz]]></domain>
  <ip>104.21.11.251</ip>
  <ip>172.67.150.225</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:96e1</ipv6>
