@@ -1780,9 +1780,9 @@
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:c937</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:5519</ipv6>
 </content>
-<content id="7811696" includeTime="2025-01-16T15:35:03" entryType="1" hash="FB24390CB7ADB1AF4762F40037A7491E" blockType="domain" ts="2025-01-16T15:35:03">
+<content id="7811696" includeTime="2025-01-16T15:35:03" entryType="1" hash="E3F6015A59927700E4BF22CFB2444EC4" blockType="domain-mask" ts="2026-04-02T13:20:02">
  <decision date="2025-01-14" number="2933981-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[oosex.net]]></domain>
+ <domain><![CDATA[*.oosex.net]]></domain>
  <ip>104.21.80.27</ip>
  <ip>172.67.173.89</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:ad59</ipv6>

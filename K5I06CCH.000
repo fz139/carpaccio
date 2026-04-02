@@ -3608,9 +3608,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="8832533" includeTime="2025-10-09T01:40:03" entryType="1" hash="B888385BF78FB13A0DE502104C96CE07" blockType="domain" ts="2025-10-09T01:40:03">
+<content id="8832533" includeTime="2025-10-09T01:40:03" entryType="1" hash="E5CA5C4525932EE575D3057BEDCE5E28" blockType="domain-mask" ts="2026-04-02T13:20:02">
  <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
- <domain><![CDATA[manticore.bot]]></domain>
+ <domain><![CDATA[*.manticore.bot]]></domain>
  <ip>8.47.69.6</ip>
  <ip>8.6.112.6</ip>
  <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
