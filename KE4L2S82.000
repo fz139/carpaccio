@@ -4335,9 +4335,9 @@
  <ip>104.21.50.29</ip>
  <ip>172.67.155.220</ip>
 </content>
-<content id="5621796" includeTime="2023-03-23T21:59:10" entryType="1" hash="ADA65C52B6F6821DF5CDCB0582212489" blockType="domain" ts="2023-03-23T21:59:10">
+<content id="5621796" includeTime="2023-03-23T21:59:10" entryType="1" hash="43C255C5F5214AF048D32EBC2F7F815B" blockType="domain-mask" ts="2026-04-04T00:40:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[bs-gl.ltd]]></domain>
+ <domain><![CDATA[*.bs-gl.ltd]]></domain>
  <ip>104.21.57.217</ip>
  <ip>172.67.167.12</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:a70c</ipv6>

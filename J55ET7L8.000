@@ -1889,9 +1889,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4538</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:ccea</ipv6>
 </content>
-<content id="3390886" includeTime="2021-06-25T17:09:47" entryType="1" hash="EEA50E761A56016E8A0E1BA25BD4B77F" blockType="domain" ts="2021-06-25T17:09:47">
+<content id="3390886" includeTime="2021-06-25T17:09:47" entryType="1" hash="C238A0B9E30DDDC39863138A0A740747" blockType="domain-mask" ts="2026-04-04T00:40:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[legalhighlabs.com]]></domain>
+ <domain><![CDATA[*.legalhighlabs.com]]></domain>
  <ip>104.21.9.39</ip>
  <ip>172.67.141.112</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:8d70</ipv6>
@@ -4335,6 +4335,14 @@
  <ip>172.67.170.109</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:aa6d</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:1c54</ipv6>
+</content>
+<content id="3395808" includeTime="2026-04-04T01:10:02" entryType="1" hash="832A7951012A46AA92FE76717520CE6C" blockType="domain-mask" ts="2026-04-04T01:10:02">
+ <decision date="2021-06-25" number="2-6-18/2021-05-15-1003-АИ" org="ФНС"/>
+ <domain><![CDATA[*.casinoeldorado.info]]></domain>
+ <ip>104.21.39.84</ip>
+ <ip>172.67.170.21</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:2754</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:aa15</ipv6>
 </content>
 <content id="3395809" includeTime="2021-06-25T21:31:42" entryType="1" hash="500B5A532623A4105DBC4B3DEA424BB6" blockType="domain-mask" ts="2021-06-25T21:31:42">
  <decision date="2021-06-25" number="2-6-18/2021-05-15-376-АИ" org="ФНС"/>

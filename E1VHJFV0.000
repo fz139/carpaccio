@@ -8899,9 +8899,9 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:c5eb</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:222e</ipv6>
 </content>
-<content id="7688918" includeTime="2024-12-10T01:10:03" entryType="1" hash="E05002DE3B3D62EE349FD1A94FD71D8D" blockType="domain" ts="2024-12-10T01:10:03">
+<content id="7688918" includeTime="2024-12-10T01:10:03" entryType="1" hash="6948736D49A81A32369CE382924857A9" blockType="domain-mask" ts="2026-04-04T00:40:02">
  <decision date="2024-12-06" number="2880024-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[18-teen.net]]></domain>
+ <domain><![CDATA[*.18-teen.net]]></domain>
  <ip>104.21.4.92</ip>
  <ip>172.67.131.228</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:045c</ipv6>

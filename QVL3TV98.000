@@ -423,9 +423,9 @@
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2fd1</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:acaa</ipv6>
 </content>
-<content id="4100082" includeTime="2022-03-03T00:06:28" entryType="1" hash="32BB8BD735E04ECEEDDE69A094599A36" blockType="domain" ts="2022-03-03T00:06:28">
+<content id="4100082" includeTime="2022-03-03T00:06:28" entryType="1" hash="A9F69CB3568BB93F71BB483AC68D6E74" blockType="domain-mask" ts="2026-04-04T00:40:02">
  <decision date="2022-02-28" number="2022-02-26-422-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[india-express8-7.ru]]></domain>
+ <domain><![CDATA[*.india-express8-7.ru]]></domain>
  <ip>188.114.96.2</ip>
  <ip>188.114.97.2</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0002</ipv6>
