@@ -2741,4 +2741,20 @@
  <domain><![CDATA[scryde.b-cdn.host]]></domain>
  <ip>185.203.72.61</ip>
 </content>
+<content id="9678067" includeTime="2026-04-09T21:30:01" urgencyType="1" entryType="3" hash="4715F7E53144CE0FAEC5E98B47A47EA5" blockType="domain" ts="2026-04-09T21:30:01">
+ <decision date="2026-04-03" number="" org=""/>
+ <domain><![CDATA[www.tufts.edu]]></domain>
+ <ip>151.101.130.133</ip>
+ <ip>151.101.194.133</ip>
+ <ip>151.101.2.133</ip>
+ <ip>151.101.66.133</ip>
+</content>
+<content id="9678068" includeTime="2026-04-09T21:30:01" urgencyType="1" entryType="3" hash="8D484896C177A6B71974D9CB340D24D4" blockType="domain-mask" ts="2026-04-09T21:30:01">
+ <decision date="2026-04-03" number="" org=""/>
+ <domain><![CDATA[*.tufts.edu]]></domain>
+ <ip>151.101.130.133</ip>
+ <ip>151.101.194.133</ip>
+ <ip>151.101.2.133</ip>
+ <ip>151.101.66.133</ip>
+</content>
 </reg:register>
