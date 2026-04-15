@@ -5371,9 +5371,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="9672999" includeTime="2026-04-13T15:30:02" entryType="1" hash="B34277C1D6B031B77C38C6557DD47C03" blockType="domain" ts="2026-04-13T15:30:02">
+<content id="9672999" includeTime="2026-04-13T15:30:02" entryType="1" hash="788FF9CECD8C397F9331C2AE0D1FD8CD" blockType="domain-mask" ts="2026-04-15T22:05:01">
  <decision date="2024-08-03" number="2024-07-25-6847-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[vpnplanet-free.ru]]></domain>
+ <domain><![CDATA[*.vpnplanet-free.ru]]></domain>
  <ip>86.54.82.221</ip>
 </content>
 <content id="9673000" includeTime="2026-04-13T15:30:02" entryType="1" hash="21FCD311245049CE7C618DD9D78F8327" blockType="domain" ts="2026-04-13T15:30:02">
@@ -6287,6 +6287,11 @@
  <decision date="2026-03-25" number="2а-320/26" org="Савеловский районный суд - Москва"/>
  <domain><![CDATA[ohotxdom.ru]]></domain>
  <ip>179.43.176.211</ip>
+</content>
+<content id="9673201" includeTime="2026-04-15T22:05:01" entryType="1" hash="0DD5C1BA6C766A850F15E8A279D911CD" blockType="domain" ts="2026-04-15T22:05:01">
+ <decision date="2026-03-25" number="2а-341/2026" org="Карабулакский районный суд - Республика Ингушетия"/>
+ <domain><![CDATA[s2bmsk.ru]]></domain>
+ <ip>81.29.139.81</ip>
 </content>
 <content id="9673205" includeTime="2026-04-13T15:30:02" entryType="1" hash="D0928D52F0E43957206D3E71C862936A" ts="2026-04-13T15:30:02">
  <decision date="2026-02-03" number="2а-180/2026" org="Саянский городской суд - Иркутская область"/>
