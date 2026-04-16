@@ -6493,10 +6493,10 @@
  <domain><![CDATA[*.k-p.store]]></domain>
  <ip>82.24.195.249</ip>
 </content>
-<content id="9636762" includeTime="2026-04-06T15:25:02" entryType="1" hash="BFCA8D46AA017C2220DB0A491186D2A6" blockType="domain-mask" ts="2026-04-06T15:25:02">
+<content id="9636762" includeTime="2026-04-06T15:25:02" entryType="1" hash="CF0E6EDA4AAFDCA3C50E06DCC5B9052A" blockType="domain-mask" ts="2026-04-16T14:25:02">
  <decision date="2026-03-25" number="2026-03-23-8342-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.ivan-kornev.ru]]></domain>
- <ip>5.129.213.151</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9636792" includeTime="2026-04-03T01:45:02" entryType="1" hash="CA520B446EF2C4A3B372503A0D0E38E1" ts="2026-04-03T01:45:02">
  <decision date="2026-03-31" number="2-6-14/2026-03-30-22664-АИ" org="ФНС"/>
@@ -7457,6 +7457,12 @@
  <ip>8.6.112.6</ip>
  <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
  <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
+</content>
+<content id="9637000" includeTime="2026-04-16T13:55:02" entryType="1" hash="A11E4A12409A5138BE1D18699860AB22" ts="2026-04-16T13:55:02">
+ <decision date="2026-02-12" number="2а-137/2026" org="Кузьминский районный суд - Москва"/>
+ <url><![CDATA[https://simki-optom.website/?yclid=6305469315942973439]]></url>
+ <domain><![CDATA[simki-optom.website]]></domain>
+ <ip>91.228.152.144</ip>
 </content>
 <content id="9637008" includeTime="2026-04-03T01:45:02" entryType="1" hash="63871B53D35C7D74B575BDA1174C2466" blockType="domain" ts="2026-04-03T01:45:02">
  <decision date="2026-03-23" number="2а-163/2026" org="Спасский районный суд - Рязанская область"/>
