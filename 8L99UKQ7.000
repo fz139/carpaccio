@@ -8443,9 +8443,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4293</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:cd32</ipv6>
 </content>
-<content id="6772855" includeTime="2024-02-28T15:40:02" entryType="1" hash="FC32718F9C66879EBB5EBCDD58FFCB85" blockType="domain" ts="2024-02-28T15:40:02">
+<content id="6772855" includeTime="2024-02-28T15:40:02" entryType="1" hash="FCA14073283CF4DC5E715E7F4D3D411A" blockType="domain-mask" ts="2026-04-30T22:45:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[anshlagperm.ru]]></domain>
+ <domain><![CDATA[*.anshlagperm.ru]]></domain>
  <ip>104.21.12.172</ip>
  <ip>172.67.152.213</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:0cac</ipv6>

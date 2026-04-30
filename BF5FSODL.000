@@ -572,9 +572,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6776432" includeTime="2024-03-01T06:40:03" entryType="1" hash="A007CCFF0EF0F337A426DE365D738C10" blockType="domain" ts="2024-03-01T06:40:03">
+<content id="6776432" includeTime="2024-03-01T06:40:03" entryType="1" hash="866AE91D28408B0B11341ABE709302DB" blockType="domain-mask" ts="2026-04-30T22:45:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[kancler-kmv.ru]]></domain>
+ <domain><![CDATA[*.kancler-kmv.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>

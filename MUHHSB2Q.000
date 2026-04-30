@@ -5796,9 +5796,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:2c77</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c792</ipv6>
 </content>
-<content id="7693565" includeTime="2024-12-11T15:55:01" entryType="1" hash="C317254A1780AA3FAD00A6429BEFE01B" blockType="domain" ts="2024-12-11T15:55:01">
+<content id="7693565" includeTime="2024-12-11T15:55:01" entryType="1" hash="7F0B59BF7A0B6E6767157C8E8CF9A42B" blockType="domain-mask" ts="2026-04-30T22:45:02">
  <decision date="2024-12-09" number="2882432-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[xxx-maturepics.com]]></domain>
+ <domain><![CDATA[*.xxx-maturepics.com]]></domain>
  <ip>104.21.9.45</ip>
  <ip>172.67.141.185</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:092d</ipv6>
