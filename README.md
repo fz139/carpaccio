@@ -83,3 +83,20 @@ python parse_dump_xml.py dump.xml -o dump.csv
 ```powershell
 powershell -Command "Get-Content carpaccio/dump.xml.lst | ForEach-Object { Get-Content carpaccio/$_ -Raw } | Set-Content dump.xml"
 ```
+
+## analyze.py
+
+Анализатор дампа на наличие ключевых слов с выводом анализа в txt-файлы.
+Список групп и слов задается внутри скрипта в словаре `words_set`.
+
+## Полный скрипт для анализа дампа в Windows
+
+```
+cd carpaccio
+git pull
+cd ..
+
+powershell -Command "Get-Content carpaccio/dump.xml.lst | ForEach-Object { Get-Content carpaccio/$_ -Raw } | Set-Content dump.xml"
+python carpaccio_rufatpro/parse_dump_xml.py dump.xml -o dump.csv
+python carpaccio_rufatpro/analyze.py > result.txt
+```
