@@ -68,3 +68,12 @@ Using fixed-size chunks causes the repository to grow beyond 100 GiB and takes o
 Content-defined chunks without content-derived names still result in the repository growing beyond 18 GiB.
 
 The current format is the fifth iteration of lossless compression for this cursed dataset.
+
+
+## Конвертер XML в CSV в формат https://github.com/zapret-info/z-i
+
+Запускается так:
+
+```python
+python parse_dump_xml.py dump.xml -o dump.csv
+```
