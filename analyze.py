@@ -35,8 +35,7 @@ class Analyze:
 words_set = {
     "trackers": [
         ["rutracker.org"],
-        ["nnm-club"],
-        ["nnmclub"],
+        ["nnm-club", "nnmclub"],
     ],
     "vpn": [
         ["vpn"],
