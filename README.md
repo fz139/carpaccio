@@ -77,3 +77,9 @@ The current format is the fifth iteration of lossless compression for this curse
 ```python
 python parse_dump_xml.py dump.xml -o dump.csv
 ```
+
+Перед этим можно объединить файлы в 1 xml файл так:
+
+```powershell
+powershell -Command "Get-Content carpaccio/dump.xml.lst | ForEach-Object { Get-Content carpaccio/$_ -Raw } | Set-Content dump.xml"
+```
