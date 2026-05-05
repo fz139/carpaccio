@@ -97,6 +97,6 @@ git pull
 cd ..
 
 powershell -Command "Get-Content carpaccio/dump.xml.lst | ForEach-Object { Get-Content carpaccio/$_ -Raw } | Set-Content dump.xml"
-python carpaccio_rufatpro/parse_dump_xml.py dump.xml -o dump.csv
-python carpaccio_rufatpro/analyze.py > result.txt
+python parse_dump_xml.py dump.xml -o dump.csv
+python analyze.py > result.txt
 ```
