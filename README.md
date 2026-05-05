@@ -92,7 +92,7 @@ powershell -Command "Get-Content carpaccio/dump.xml.lst | ForEach-Object { Get-C
 ## Полный скрипт для анализа дампа в Windows
 
 ```
-REM Один раз нужно в начале выполнить git clone -b main https://github.com/fz139/carpaccio.git.
+REM Один раз нужно в начале выполнить `git clone -b main https://github.com/fz139/carpaccio.git`.
 cd carpaccio
 git pull
 cd ..
