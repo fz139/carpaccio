@@ -105,4 +105,6 @@ pip install -r requirements.txt
 git clone -b main https://github.com/fz139/carpaccio.git
 ```
 
-Полный скрипт находится в с файле `parsers/analyze.bat`.
+### Периодический запуск
+
+Полный скрипт находится в с файле `parsers/analyze.bat`, просто запускайте его когда нужна очередная проверка.
