@@ -1,6 +1,9 @@
 if not exist "results" mkdir results
 
-REM Один раз нужно в начале выполнить `git clone -b main https://github.com/fz139/carpaccio.git`.
+REM Один раз перед первым запуском нужно выполнить:
+REM pip install -r requirements.txt
+REM git clone -b main https://github.com/fz139/carpaccio.git
+
 cd carpaccio
 git pull
 git checkout dump

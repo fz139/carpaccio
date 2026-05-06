@@ -91,11 +91,18 @@ powershell -Command "Get-Content carpaccio/dump.xml.lst | ForEach-Object { Get-C
 
 ## Полный скрипт для анализа дампа в Windows
 
-Для установки зависимостей для Питона:
+### Один раз перед первым запуском нужно выполнить
+
+1. Для установки зависимостей для Питона:
 
 ```
 pip install -r requirements.txt
 ```
 
-Полный скрипт находится в с файле `parsers/analyze.bat`.
+2. Загрузить начальные данные дампа из репозитория:
 
+```
+git clone -b main https://github.com/fz139/carpaccio.git
+```
+
+Полный скрипт находится в с файле `parsers/analyze.bat`.
