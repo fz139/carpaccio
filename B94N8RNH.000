@@ -1489,9 +1489,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:3e74</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:df80</ipv6>
 </content>
-<content id="7185944" includeTime="2024-07-05T16:30:02" entryType="1" hash="DC28FE28A56C9771C4B401F5B78CF7C3" blockType="domain" ts="2024-07-05T16:30:02">
+<content id="7185944" includeTime="2024-07-05T16:30:02" entryType="1" hash="0752F4262DA7DADB03824534CA4A0B4C" blockType="domain-mask" ts="2026-05-06T23:35:02">
  <decision date="2024-06-26" number="2024-06-04-6358-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[privateinternetaccess.com]]></domain>
+ <domain><![CDATA[*.privateinternetaccess.com]]></domain>
  <ip>188.114.98.224</ip>
  <ip>188.114.99.224</ip>
 </content>
