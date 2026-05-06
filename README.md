@@ -91,5 +91,5 @@ powershell -Command "Get-Content carpaccio/dump.xml.lst | ForEach-Object { Get-C
 
 ## Полный скрипт для анализа дампа в Windows
 
-Полный скрипт находится в с файле `analyze.bat`.
+Полный скрипт находится в с файле `parsers/analyze.bat`.
 
