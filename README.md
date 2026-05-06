@@ -70,7 +70,7 @@ Content-defined chunks without content-derived names still result in the reposit
 The current format is the fifth iteration of lossless compression for this cursed dataset.
 
 
-## Конвертер XML в CSV в формат https://github.com/zapret-info/z-i
+## Конвертер из XML в CSV в формате репозитория https://github.com/zapret-info/z-i
 
 Запускается так:
 
@@ -84,7 +84,7 @@ python parse_dump_xml.py dump.xml -o dump.csv
 powershell -Command "Get-Content carpaccio/dump.xml.lst | ForEach-Object { Get-Content carpaccio/$_ -Raw } | Set-Content dump.xml"
 ```
 
-## analyze.py
+## Анализатор дампа analyze.py
 
 Анализатор дампа на наличие ключевых слов с выводом анализа в txt-файлы.
 Список групп и слов задается внутри файла `config.yaml`.
