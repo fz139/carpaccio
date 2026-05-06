@@ -70,7 +70,7 @@ Content-defined chunks without content-derived names still result in the reposit
 The current format is the fifth iteration of lossless compression for this cursed dataset.
 
 
-## Конвертер из XML в CSV в формате репозитория https://github.com/zapret-info/z-i
+## Конвертер parse_dump_xml.py из XML в CSV в формате репозитория https://github.com/zapret-info/z-i
 
 Запускается так:
 
