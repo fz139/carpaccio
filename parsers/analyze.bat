@@ -3,6 +3,7 @@ if not exist "results" mkdir results
 REM Один раз нужно в начале выполнить `git clone -b main https://github.com/fz139/carpaccio.git`.
 cd carpaccio
 git pull
+git checkout dump
 cd ..
 
 powershell -Command "Get-Content carpaccio/dump.xml.lst | ForEach-Object { Get-Content carpaccio/$_ -Raw } | Set-Content results/dump.xml"
