@@ -87,7 +87,7 @@ powershell -Command "Get-Content carpaccio/dump.xml.lst | ForEach-Object { Get-C
 ## analyze.py
 
 Анализатор дампа на наличие ключевых слов с выводом анализа в txt-файлы.
-Список групп и слов задается внутри скрипта в словаре `words_set`.
+Список групп и слов задается внутри файла `config.yaml`.
 
 ## Полный скрипт для анализа дампа в Windows
 
