@@ -1834,9 +1834,9 @@
  <ip>51.75.64.157</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:a02f</ipv6>
 </content>
-<content id="7912552" includeTime="2025-02-21T07:05:03" entryType="1" hash="3C1B615170A5A03472A368C0DAFBFB75" blockType="domain" ts="2025-02-21T07:05:03">
+<content id="7912552" includeTime="2025-02-21T07:05:03" entryType="1" hash="571C817DEB8D0128CD1D77A07C59BD4D" blockType="domain-mask" ts="2026-05-07T13:50:01">
  <decision date="2025-02-18" number="2996287-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[www-lordserial.org]]></domain>
+ <domain><![CDATA[*.www-lordserial.org]]></domain>
  <ip>104.21.7.143</ip>
  <ip>172.67.187.152</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:bb98</ipv6>
