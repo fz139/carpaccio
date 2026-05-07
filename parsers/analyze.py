@@ -84,7 +84,7 @@ def load_words_set(config_path: str = "config.yaml") -> dict:
     words_set = config.get("words_set")
     if not isinstance(words_set, dict):
         raise ValueError("Invalid config.yaml: `words_set` must be a mapping")
-    print(f"words_set: {words_set}")
+    # print(f"words_set: {words_set}")
     return words_set
 
 
