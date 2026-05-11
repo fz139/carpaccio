@@ -8,7 +8,7 @@ This repository stores unredacted data exports that [Roskomnadzor](https://eng.r
 It has two branches:
 
 - `main` serves as the entry point and documentation
-- `dump` stores the XML files in a somewhat convoluted format
+- [`dump`](https://github.com/fz139/carpaccio/tree/dump) stores the XML files in a somewhat convoluted format
 
 
 ## Restoring `dump.xml`
