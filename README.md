@@ -25,6 +25,12 @@ dump.xml.sig: OK
 
 This snippet assumes that `dump` is the tree-ish corresponding to the version you want to restore.
 
+The Windows PowerShell equivalents of `xargs` and `cat` are the following (thanks @rufatpro):
+
+```powershell
+Get-Content dump.xml.lst | ForEach-Object { Get-Content $_ -Raw } | Set-Content dump.xml
+```
+
 ## Verifying `dump.xml` signature
 
 You will need the OpenSSL GOST engine and a bundle of Russian CAs.
