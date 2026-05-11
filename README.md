@@ -25,7 +25,7 @@ dump.xml.sig: OK
 
 This snippet assumes that `dump` is the tree-ish corresponding to the version you want to restore.
 
-The Windows PowerShell equivalents of `xargs` and `cat` are the following (thanks @rufatpro):
+The Windows PowerShell equivalents of `xargs` and `cat` are the following (thanks [@rufatpro](https://github.com/rufatpro)):
 
 ```powershell
 Get-Content dump.xml.lst | ForEach-Object { Get-Content $_ -Raw } | Set-Content dump.xml
