@@ -63,7 +63,7 @@ TL;DR: to save storage and CPU.
 
 `dump.xml` is split into content-defined chunks, and the chunks are renamed using content-derived names to help Git store the dump efficiently.
 
-Using fixed-size chunks causes the repository to grow beyond 100 GiB and takes over five hours to `clone` on an Intel Core i7-10750H machine connected via Gigabit Ethernet.
+Using fixed-size chunks causes the repository to grow beyond 100 GiB and takes over five hours to `clone` on an Intel Core i7-10750H machine connected via Gigabit Ethernet. Both [vigruzki](https://github.com/fz139/vigruzki) and [zapret-info/z-i](https://github.com/zapret-info/z-i) eventually hit the 100 GiB limit.
 
 Content-defined chunks without content-derived names still result in the repository growing beyond 18 GiB.
 
