@@ -4227,9 +4227,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7012740" includeTime="2024-05-16T13:30:03" entryType="1" hash="2AD555CB3C95FFE5918B8EEEFBB504E0" blockType="domain" ts="2024-05-16T13:30:03">
+<content id="7012740" includeTime="2024-05-16T13:30:03" entryType="1" hash="66F624ECCE1B6D2275F987049153F3B2" blockType="domain-mask" ts="2026-05-12T13:45:03">
  <decision date="2024-05-08" number="2024-05-06-5753-ВН" org="Росмолодежь"/>
- <domain><![CDATA[azot-snab.com]]></domain>
+ <domain><![CDATA[*.azot-snab.com]]></domain>
  <ip>104.21.30.64</ip>
  <ip>172.67.172.52</ip>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:ac34</ipv6>

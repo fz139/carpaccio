@@ -15429,9 +15429,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6775800" includeTime="2024-02-29T10:10:03" entryType="1" hash="D77FF362E885BADCA3CD7DE6DDC253CE" blockType="domain" ts="2024-02-29T10:10:03">
+<content id="6775800" includeTime="2024-02-29T10:10:03" entryType="1" hash="75C644E11BDDF4257B2E50495330D2F4" blockType="domain-mask" ts="2026-05-12T13:45:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[realwarfare.ru]]></domain>
+ <domain><![CDATA[*.realwarfare.ru]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>

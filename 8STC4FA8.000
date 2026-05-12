@@ -1028,9 +1028,9 @@
  <ip>3.72.140.173</ip>
  <ip>52.58.254.253</ip>
 </content>
-<content id="6855932" includeTime="2024-03-19T00:05:03" entryType="1" hash="786666DB5BBBBE8D997D43E6A4A63C22" blockType="domain" ts="2024-03-19T00:05:03">
+<content id="6855932" includeTime="2024-03-19T00:05:03" entryType="1" hash="E3C5015D056251284F5A2F98E66F1977" blockType="domain-mask" ts="2026-05-12T13:45:03">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[megadmsb.net]]></domain>
+ <domain><![CDATA[*.megadmsb.net]]></domain>
  <ip>104.21.63.171</ip>
  <ip>172.67.148.211</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:94d3</ipv6>
