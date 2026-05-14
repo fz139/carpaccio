@@ -319,6 +319,16 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
+<content id="9836555" includeTime="2026-05-14T18:20:02" urgencyType="1" entryType="3" hash="F948512BB75407258FA24E88EAC183F8" blockType="domain" ts="2026-05-14T18:20:02">
+ <decision date="2026-05-12" number="" org=""/>
+ <domain><![CDATA[reg-moskva977.ru]]></domain>
+ <ip>172.67.208.177</ip>
+</content>
+<content id="9836559" includeTime="2026-05-14T18:20:02" urgencyType="1" entryType="3" hash="B59F67045C91D82DEDE0FE2824DFAA61" blockType="domain-mask" ts="2026-05-14T18:20:02">
+ <decision date="2026-05-12" number="" org=""/>
+ <domain><![CDATA[*.svidetelstva-xxmzkau.top]]></domain>
+ <ip>185.182.82.213</ip>
+</content>
 <content id="9838535" includeTime="2026-05-14T16:35:02" entryType="2" hash="8E0F5A49B792476D955D6D684D553F90" ts="2026-05-14T16:35:02">
  <decision date="2024-06-19" number="определение о предварительном обеспечении по заявлению № 2И-13257/2024" org="Мосгорсуд"/>
  <url><![CDATA[https://sitebysite.lat/film/5267731/]]></url>
@@ -3665,5 +3675,82 @@
  <url><![CDATA[https://courses53.znaniyamarket.com/course/olga-dutova-yevgeniya-starkova-pro-detskiy-sad]]></url>
  <domain><![CDATA[courses53.znaniyamarket.com]]></domain>
  <ip>144.124.237.135</ip>
+</content>
+<content id="9840202" includeTime="2026-05-14T18:05:02" entryType="6" hash="EE3910E2481A9CDE632BEBD6B459110F" blockType="domain-mask" ts="2026-05-14T18:20:02">
+ <decision date="2023-05-03" number="2-1669/2023" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[*.logbin.ru]]></domain>
+ <ip>104.21.33.191</ip>
+ <ip>172.67.148.64</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:21bf</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:9440</ipv6>
+</content>
+<content id="9840203" includeTime="2026-05-14T18:05:02" entryType="6" hash="012A0B5C34F219B172AB870FFB0C431B" blockType="domain-mask" ts="2026-05-14T18:20:02">
+ <decision date="2022-12-26" number="2-3894/2022" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[*.rynokshkur.wiki]]></domain>
+ <ip>104.21.88.170</ip>
+ <ip>172.67.151.110</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:58aa</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:976e</ipv6>
+</content>
+<content id="9840204" includeTime="2026-05-14T18:05:02" entryType="6" hash="6355D27C919C083BF7A204D1D6D196D6" blockType="domain-mask" ts="2026-05-14T18:20:02">
+ <decision date="2022-12-26" number="2-3894/2022" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[*.rynokshkurr.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9840205" includeTime="2026-05-14T18:05:02" entryType="6" hash="698A2D947D461EF57F200C5B8EE60DAA" blockType="domain-mask" ts="2026-05-14T18:20:02">
+ <decision date="2022-12-26" number="2-3894/2022" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[*.рынок-ш.рф]]></domain>
+ <ip>104.21.94.205</ip>
+ <ip>172.67.139.208</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9840206" includeTime="2026-05-14T18:05:02" entryType="6" hash="1FB8B147D7BE3A8519CD5FB4E3E9AC22" blockType="domain-mask" ts="2026-05-14T18:20:02">
+ <decision date="2022-12-26" number="2-3894/2022" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[*.р-ш.рф]]></domain>
+ <ip>104.21.50.245</ip>
+ <ip>172.67.215.5</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:32f5</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:d705</ipv6>
+</content>
+<content id="9840207" includeTime="2026-05-14T18:05:02" entryType="6" hash="EBE74994068317C8007F1F39F399C1B8" blockType="domain-mask" ts="2026-05-14T18:20:02">
+ <decision date="2022-12-26" number="2-3894/2022" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[*.рынокшкур.рф]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9840208" includeTime="2026-05-14T18:20:02" entryType="6" hash="134DB363F2DD5472C46ECBD12ECA1549" blockType="domain-mask" ts="2026-05-14T18:20:02">
+ <decision date="2022-12-26" number="2-3894/2022" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[*.rynok-net.ru]]></domain>
+ <ip>104.21.52.248</ip>
+ <ip>172.67.206.15</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:ce0f</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:34f8</ipv6>
+</content>
+<content id="9840209" includeTime="2026-05-14T18:20:02" entryType="6" hash="6735579D8C63881FCB6B02AA80179627" blockType="domain-mask" ts="2026-05-14T18:20:02">
+ <decision date="2022-12-26" number="2-3894/2022" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[*.р-шкур.рф]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9840210" includeTime="2026-05-14T18:20:02" entryType="6" hash="FB12B39096CDE536104C02371B3FAA6C" blockType="domain-mask" ts="2026-05-14T18:20:02">
+ <decision date="2022-12-26" number="2-3894/2022" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[*.rynok-to.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9840211" includeTime="2026-05-14T18:20:02" entryType="6" hash="C335E7B5A7B591380C2A881C0D09D5E6" blockType="domain-mask" ts="2026-05-14T18:20:02">
+ <decision date="2022-12-26" number="2-3895/2022" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[*.slivshkur.biz]]></domain>
+ <ip>45.132.107.203</ip>
 </content>
 </reg:register>
