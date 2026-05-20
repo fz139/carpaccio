@@ -5833,9 +5833,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a9c5</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:1bd9</ipv6>
 </content>
-<content id="6432059" includeTime="2023-10-26T14:45:04" entryType="1" hash="86C34E63F72505601ACC0D9D563135F0" blockType="domain" ts="2023-10-26T14:45:04">
+<content id="6432059" includeTime="2023-10-26T14:45:04" entryType="1" hash="5AA5A44770390A0F4D7ECC977537C91A" blockType="domain-mask" ts="2026-05-20T04:10:02">
  <decision date="2023-10-16" number="2023-09-25-851-ВН" org="Росмолодежь"/>
- <domain><![CDATA[stargaz.kz]]></domain>
+ <domain><![CDATA[*.stargaz.kz]]></domain>
  <ip>104.21.85.67</ip>
  <ip>172.67.203.26</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5543</ipv6>
