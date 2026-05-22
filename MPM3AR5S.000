@@ -1320,9 +1320,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:c90e</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4cd1</ipv6>
 </content>
-<content id="5433201" includeTime="2023-02-10T14:27:43" entryType="1" hash="C0E8229121C27190E60FB3B9192144C8" blockType="domain" ts="2023-02-10T14:27:43">
+<content id="5433201" includeTime="2023-02-10T14:27:43" entryType="1" hash="0093DEB160145ED7D19F2B6166291F47" blockType="domain-mask" ts="2026-05-22T14:10:03">
  <decision date="2023-02-07" number="2023-02-06-3803-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[doctor-hcv.com]]></domain>
+ <domain><![CDATA[*.doctor-hcv.com]]></domain>
  <ip>104.21.18.115</ip>
  <ip>172.67.181.202</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:b5ca</ipv6>
