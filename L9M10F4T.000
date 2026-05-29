@@ -3053,14 +3053,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:6815:5353</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:da3b</ipv6>
 </content>
-<content id="6913217" includeTime="2024-04-05T09:40:03" entryType="1" hash="F648FF4C5255D6459A2E8E94FD177DC1" blockType="domain" ts="2024-04-05T09:40:03">
- <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[www.alyrp.ru]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="6913219" includeTime="2024-04-08T13:25:06" entryType="1" hash="22490CFD3625463A5B235A0239CD9038" blockType="domain" ts="2024-04-08T13:25:06">
  <decision date="2024-04-04" number="2479444-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[lordsserial.click]]></domain>
@@ -3110,9 +3102,9 @@
  <domain><![CDATA[*.1xbet-chaa.top]]></domain>
  <ip>38.180.117.48</ip>
 </content>
-<content id="6913234" includeTime="2024-04-05T09:40:03" entryType="1" hash="64D29859BE25E192AB3F3CE28C15C011" blockType="domain" ts="2025-02-04T15:00:02">
+<content id="6913234" includeTime="2024-04-05T09:40:03" entryType="1" hash="58118100C362EBDC40A1C94A4B07D6BA" blockType="domain-mask" ts="2026-05-27T13:45:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[gtkleasing.ru]]></domain>
+ <domain><![CDATA[*.gtkleasing.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -3485,10 +3477,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5e25</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:db05</ipv6>
 </content>
-<content id="6913361" includeTime="2024-04-05T09:40:03" entryType="1" hash="81D7962686A8CAAB79BD8DE81960A790" ts="2025-02-06T16:30:03">
+<content id="6913361" includeTime="2024-04-05T09:40:03" entryType="1" hash="57AA5D18C5CC1369BA6ADD8CED589711" blockType="domain-mask" ts="2026-05-27T13:45:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://pereladov.ru]]></url>
- <domain><![CDATA[pereladov.ru]]></domain>
+ <domain><![CDATA[*.pereladov.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>
@@ -10171,9 +10162,9 @@
  <domain><![CDATA[*.up6jk8x.life]]></domain>
  <ip>193.233.15.188</ip>
 </content>
-<content id="6916236" includeTime="2024-04-08T13:25:06" entryType="1" hash="2B11C76212D850302A202ABA6D28ED42" blockType="domain" ts="2025-02-06T16:30:03">
+<content id="6916236" includeTime="2024-04-08T13:25:06" entryType="1" hash="CCF5878757D732C9141DDC9B6FED6A65" blockType="domain-mask" ts="2026-05-27T13:45:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[pereladov.ru]]></domain>
+ <domain><![CDATA[*.pereladov.ru]]></domain>
  <ip>104.21.112.1</ip>
  <ip>104.21.16.1</ip>
  <ip>104.21.32.1</ip>

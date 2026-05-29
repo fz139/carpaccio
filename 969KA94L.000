@@ -2764,10 +2764,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="9771766" includeTime="2026-04-30T23:15:01" entryType="1" hash="8151A4EA18DADA4D4698317134C6E312" blockType="domain" ts="2026-04-30T23:15:01">
+<content id="9771766" includeTime="2026-04-30T23:15:01" entryType="1" hash="06C86C6D1FD0C8E53C9A0CCD7EB6A648" blockType="domain" ts="2026-05-27T16:35:02">
  <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
  <domain><![CDATA[xn----btbkuesdky5c.xn--p1ai]]></domain>
- <ip>185.185.143.74</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9771767" includeTime="2026-04-30T00:15:02" entryType="1" hash="3EE02F8A235C591402BAD76B00991A0F" blockType="domain-mask" ts="2026-04-30T00:15:02">
  <decision date="2026-04-28" number="2-6-14/2026-04-27-19535-АИ" org="ФНС"/>
@@ -3318,10 +3318,10 @@
  <domain><![CDATA[*.catcasino-znf.top]]></domain>
  <ip>185.149.120.131</ip>
 </content>
-<content id="9771928" includeTime="2026-04-30T23:15:01" entryType="1" hash="084978C124F977E6F53CD0B8D2730AAE" blockType="domain" ts="2026-04-30T23:15:01">
+<content id="9771928" includeTime="2026-04-30T23:15:01" entryType="1" hash="EFBA37FAF7D5D325F8617A2CD0D84434" blockType="domain" ts="2026-05-27T17:15:03">
  <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
  <domain><![CDATA[botsherlock.ru]]></domain>
- <ip>195.161.62.134</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9771929" includeTime="2026-04-30T00:15:02" entryType="1" hash="7393586934FFCE97920A662C4C17BEF2" blockType="domain-mask" ts="2026-04-30T00:15:02">
  <decision date="2026-04-28" number="2-6-14/2026-04-28-35399-АИ" org="ФНС"/>
@@ -5656,11 +5656,6 @@
  <url><![CDATA[https://ytube.top/life/video/655346]]></url>
  <domain><![CDATA[ytube.top]]></domain>
  <ip>94.103.95.229</ip>
-</content>
-<content id="9772443" includeTime="2026-05-08T22:30:02" entryType="1" hash="0702FB867792AD6DF610293A5BF4D9BB" blockType="domain-mask" ts="2026-05-08T22:30:02">
- <decision date="2026-04-29" number="3908051-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[*.rpgmakerunion.ru]]></domain>
- <ip>109.194.42.52</ip>
 </content>
 <content id="9772444" includeTime="2026-04-30T00:15:02" entryType="1" hash="7B45760F2D70CAFC2CBE9AAED4AAC87F" blockType="domain-mask" ts="2026-04-30T00:15:02">
  <decision date="2026-04-28" number="2-6-14/2026-04-27-10116-АИ" org="ФНС"/>
@@ -8851,10 +8846,13 @@
  <domain><![CDATA[indiapollsconsulting.com]]></domain>
  <ip>69.57.172.148</ip>
 </content>
-<content id="9773271" includeTime="2026-04-30T00:15:02" entryType="1" hash="976975E5347DBA8DBAF00D130FC87363" blockType="domain-mask" ts="2026-04-30T00:15:02">
+<content id="9773271" includeTime="2026-04-30T00:15:02" entryType="1" hash="3EF6DB79E278E75C29E29C4C1D5CC21E" blockType="domain-mask" ts="2026-05-26T13:45:02">
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.lkra42.cc]]></domain>
- <ip>77.232.138.150</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="9773272" includeTime="2026-04-30T00:15:02" entryType="1" hash="3D3DE802728C64BFE40C24D88DEE0968" blockType="domain-mask" ts="2026-04-30T00:15:02">
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -11925,6 +11923,17 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9775844" includeTime="2026-05-26T17:30:02" entryType="2" hash="9642B9A059818718033BFC98A4D8E228" ts="2026-05-26T17:30:02">
+ <decision date="2026-04-16" number="определение о предварительном обеспечении по заявлению № 2И-3526/2026" org="Мосгорсуд"/>
+ <url><![CDATA[https://hdx.zorgfilm-4.xyz/22324-cuzoi-726.html]]></url>
+ <url><![CDATA[https://hdx.zorgfilm-4.xyz/22324-cuzoi-769.html]]></url>
+ <url><![CDATA[https://hdx.zorgfilm-4.xyz/22324-cuzoi-832.html]]></url>
+ <domain><![CDATA[hdx.zorgfilm-4.xyz]]></domain>
+ <ip>104.21.49.161</ip>
+ <ip>172.67.164.245</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:31a1</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:a4f5</ipv6>
 </content>
 <content id="9775936" includeTime="2026-05-07T17:45:02" entryType="2" hash="C753F52CE17D5BF89F039F7BC080AD18" ts="2026-05-07T17:45:02">
  <decision date="2024-12-06" number="определение о предварительном обеспечении по заявлению № 2И-24529/2024" org="Мосгорсуд"/>
@@ -16771,10 +16780,10 @@
  <domain><![CDATA[*.1xbet-beo2.cfd]]></domain>
  <ip>89.124.75.27</ip>
 </content>
-<content id="9778536" includeTime="2026-05-04T14:50:02" entryType="1" hash="CD7190C33C9BE665530ECEE96F40FEAC" blockType="domain-mask" ts="2026-05-04T14:50:02">
+<content id="9778536" includeTime="2026-05-04T14:50:02" entryType="1" hash="2CAB5CE72E907A7B07DCAA0E50867649" blockType="domain-mask" ts="2026-05-27T14:45:03">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.uskori.ru]]></domain>
- <ip>45.11.26.231</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9778540" includeTime="2026-05-04T14:50:02" entryType="1" hash="86DEC6BC9056D72AFDD3B41E1184DFAF" blockType="domain-mask" ts="2026-05-04T14:50:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
@@ -26111,27 +26120,6 @@
  <domain><![CDATA[club194627993.orgs.biz]]></domain>
  <ip>176.125.241.117</ip>
 </content>
-<content id="9781291" includeTime="2026-05-04T14:50:02" entryType="1" hash="FB4CA084323D9D7EC34DCC09F544A1E1" ts="2026-05-04T14:50:02">
- <decision date="2026-04-29" number="2026-04-29-5568" org="МВД"/>
- <url><![CDATA[https://itoolings.pk/mega-sb-bezopasnyi-dostup-k-darknetu-2026]]></url>
- <domain><![CDATA[itoolings.pk]]></domain>
- <ip>191.101.230.20</ip>
- <ipv6>2a02:4780:0003:0721:0000:101f:c0e8:0002</ipv6>
-</content>
-<content id="9781292" includeTime="2026-05-04T14:50:02" entryType="1" hash="6A8BE6F7110CE86CD32A88D46F6E7202" ts="2026-05-04T14:50:02">
- <decision date="2026-04-29" number="2026-04-29-5590" org="МВД"/>
- <url><![CDATA[https://itoolings.pk/kraken-bezopasnyi-i-anonimnyi-vkhod-v-darknet-2026]]></url>
- <domain><![CDATA[itoolings.pk]]></domain>
- <ip>191.101.230.20</ip>
- <ipv6>2a02:4780:0003:0721:0000:101f:c0e8:0002</ipv6>
-</content>
-<content id="9781293" includeTime="2026-05-04T14:50:02" entryType="1" hash="2787D3D38533B198F7033509AAF79A6B" ts="2026-05-04T14:50:02">
- <decision date="2026-04-29" number="2026-04-29-5591" org="МВД"/>
- <url><![CDATA[https://itoolings.pk/kraken-bezopasnyi-i-legkii-vkhod-v-darknet]]></url>
- <domain><![CDATA[itoolings.pk]]></domain>
- <ip>191.101.230.20</ip>
- <ipv6>2a02:4780:0003:0721:0000:101f:c0e8:0002</ipv6>
-</content>
 <content id="9781296" includeTime="2026-05-04T14:50:02" entryType="1" hash="17B460A25E70BCBE276A803363C8761F" blockType="domain" ts="2026-05-04T14:50:02">
  <decision date="2026-04-29" number="2026-04-29-16838" org="МВД"/>
  <domain><![CDATA[skunksoasis.io]]></domain>
@@ -26140,10 +26128,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="9781300" includeTime="2026-05-04T14:50:02" entryType="1" hash="6F5B570B84F6D9869CC41DF8CC48B6CE" blockType="domain-mask" ts="2026-05-04T14:50:02">
+<content id="9781300" includeTime="2026-05-04T14:50:02" entryType="1" hash="F0F932AEBC6ABAFC7F24A86A12408429" blockType="domain-mask" ts="2026-05-27T16:35:02">
  <decision date="2026-04-29" number="2026-04-22-20862-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[*.galaxy-india24.ru]]></domain>
- <ip>185.114.247.170</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9781301" includeTime="2026-05-04T14:50:02" entryType="1" hash="409280B9E9D5A05C00DC24D19B2CD48C" blockType="domain-mask" ts="2026-05-04T14:50:02">
  <decision date="2026-04-30" number="2026-04-27-7300-ПЛ" org="Росздравнадзор"/>
@@ -26155,11 +26143,10 @@
  <domain><![CDATA[ru1.homosteron.ac]]></domain>
  <ip>45.10.243.81</ip>
 </content>
-<content id="9781303" includeTime="2026-05-04T14:50:02" entryType="1" hash="362F78603BAD3D8D4DFD61FC958F34D1" blockType="domain-mask" ts="2026-05-04T14:50:02">
+<content id="9781303" includeTime="2026-05-04T14:50:02" entryType="1" hash="0D78B0A0C29C9DE983C9C93F4395C9B4" blockType="domain-mask" ts="2026-05-27T16:35:02">
  <decision date="2026-04-29" number="2026-04-28-25128-ПЛ" org="Росздравнадзор"/>
  <domain><![CDATA[*.dibas.su]]></domain>
- <ip>188.225.40.188</ip>
- <ipv6>2a03:6f00:0006:0001:0000:0000:b972:f56e</ipv6>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9781304" includeTime="2026-05-04T14:50:02" entryType="1" hash="33A1258D266BA3C6C3F66D904132F08B" blockType="domain-mask" ts="2026-05-04T14:50:02">
  <decision date="2026-04-29" number="2026-04-28-25504-ПЛ" org="Росздравнадзор"/>
@@ -27137,6 +27124,15 @@
  <url><![CDATA[https://russkie-serialy.top/detektivy/400-pervyj-otdel6/3-season/9-episode.html]]></url>
  <domain><![CDATA[russkie-serialy.top]]></domain>
  <ip>185.182.82.157</ip>
+</content>
+<content id="9782878" includeTime="2026-05-29T17:00:02" entryType="2" hash="8DD22A23A166057525BE0F76C41720C9" ts="2026-05-29T17:00:02">
+ <decision date="2025-08-20" number="определение о предварительном обеспечении по заявлению № 2И-12120/2025" org="Мосгорсуд"/>
+ <url><![CDATA[https://puteshestvie-na-solnce-i-obratno-kinogo.vip/season-1/episode-1/7-original]]></url>
+ <domain><![CDATA[puteshestvie-na-solnce-i-obratno-kinogo.vip]]></domain>
+ <ip>104.21.47.221</ip>
+ <ip>172.67.173.116</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:2fdd</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:ad74</ipv6>
 </content>
 <content id="9782984" includeTime="2026-05-04T13:30:02" urgencyType="1" entryType="3" hash="8B9B558CFA33E05985FD7C33A6DFC435" blockType="domain-mask" ts="2026-05-04T13:30:02">
  <decision date="2023-11-30" number="" org=""/>

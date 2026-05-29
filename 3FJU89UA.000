@@ -2754,12 +2754,6 @@
  <domain><![CDATA[hentaiforce.net]]></domain>
  <ip>149.202.72.71</ip>
 </content>
-<content id="6210105" includeTime="2023-07-18T21:30:02" entryType="1" hash="6FB9FFCCADEDC823BBC9B9E2F0C4C15E" ts="2025-03-13T15:35:03">
- <decision date="2023-07-17" number="2164064-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://baraag.net/@nambus/106849639944588158]]></url>
- <domain><![CDATA[baraag.net]]></domain>
- <ip>185.178.208.171</ip>
-</content>
 <content id="6210120" includeTime="2023-07-17T22:10:02" entryType="1" hash="1A22FC0946D8FE2268B24D34C4EC96C9" blockType="domain" ts="2023-07-21T09:05:02">
  <decision date="2015-11-12" number="2-6-27/1" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[lo32.lordfilm6.zone]]></domain>
@@ -2849,15 +2843,6 @@
 <content id="6210168" includeTime="2023-07-17T22:10:02" entryType="1" hash="E7B4B9382034883C160B96E7498199AF" blockType="domain-mask" ts="2023-07-21T09:05:02">
  <decision date="2023-07-14" number="2-6-14/2023-06-16-613-АИ" org="ФНС"/>
  <domain><![CDATA[*.ezcash17.casino]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="6210175" includeTime="2023-07-18T21:30:02" entryType="1" hash="17302F97587354337B28DF0287C40CA0" ts="2023-07-21T09:05:02">
- <decision date="2023-07-17" number="2164009-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://i.imgez.me/2023/07/09/6333.mp4_.jpeg]]></url>
- <domain><![CDATA[i.imgez.me]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -3842,9 +3827,9 @@
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
 </content>
-<content id="6211100" includeTime="2023-07-19T13:50:03" entryType="1" hash="A964D131C439763D8E0A4D39BF691763" blockType="domain" ts="2023-07-21T09:05:02">
+<content id="6211100" includeTime="2023-07-19T13:50:03" entryType="1" hash="8234CBD0C6F28C78519D65CE69FE162B" blockType="domain-mask" ts="2026-05-27T13:45:02">
  <decision date="2023-07-04" number="2а-3358/2023" org="Советский районный суд г. Челябинска - Челябинская область"/>
- <domain><![CDATA[kakopis.ru]]></domain>
+ <domain><![CDATA[*.kakopis.ru]]></domain>
  <ip>104.21.75.28</ip>
  <ip>172.67.167.1</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:a701</ipv6>

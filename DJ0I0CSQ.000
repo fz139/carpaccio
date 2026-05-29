@@ -3393,6 +3393,11 @@
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
+<content id="5926246" includeTime="2026-05-25T20:40:02" entryType="1" hash="7FF8F182047DA941759B6C39B6BE8F88" blockType="domain" ts="2026-05-25T20:40:02">
+ <decision date="2023-05-17" number="2-6-14/2023-04-06-2969-АИ" org="ФНС"/>
+ <domain><![CDATA[gcup.ru]]></domain>
+ <ip>193.106.232.43</ip>
+</content>
 <content id="5926247" includeTime="2023-05-17T20:52:51" entryType="1" hash="C407FEA56FE89DCB95C90217BD9E896F" blockType="domain-mask" ts="2023-05-17T20:52:51">
  <decision date="2023-05-17" number="2-6-14/2023-04-08-585-АИ" org="ФНС"/>
  <domain><![CDATA[*.pokerdom-official-site6d.top]]></domain>
@@ -7017,12 +7022,6 @@
  <ip>188.114.99.234</ip>
  <ipv6>2a06:98c1:3122:e000:0000:0000:0000:000a</ipv6>
  <ipv6>2a06:98c1:3123:e000:0000:0000:0000:000a</ipv6>
-</content>
-<content id="5933567" includeTime="2023-05-22T22:14:54" entryType="1" hash="690B28341476C546A72CDF6904A2987B" ts="2024-02-05T16:45:03">
- <decision date="2023-05-18" number="2091058-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://peervideo.club/w/c7Uj9Ak6oD5pw2vNiLQbsT]]></url>
- <domain><![CDATA[peervideo.club]]></domain>
- <ip>38.242.212.101</ip>
 </content>
 <content id="5933573" includeTime="2023-05-18T21:43:31" entryType="1" hash="9FBEDDA008D9E3DBE3CA533976CE74BD" blockType="domain-mask" ts="2023-05-18T21:43:31">
  <decision date="2017-10-18" number="2-6-20/ 2017-10-12-138-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
