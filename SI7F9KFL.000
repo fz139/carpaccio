@@ -1176,10 +1176,22 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="9908202" includeTime="2026-05-29T23:40:01" entryType="1" hash="969A13EC8A3093914E247409F4F3D6C1" ts="2026-05-29T23:40:01">
+ <decision date="2026-05-26" number="2025-11-05-4885-ВЛ" org="Россельхознадзор"/>
+ <url><![CDATA[https://www.hvost-griva.ru/index.php3?id=9881]]></url>
+ <domain><![CDATA[www.hvost-griva.ru]]></domain>
+ <ip>104.18.47.121</ip>
+</content>
 <content id="9908204" includeTime="2026-05-27T23:40:02" entryType="1" hash="AD70332F4F32FB1DC508E0145EFAC88F" blockType="domain-mask" ts="2026-05-27T23:40:02">
  <decision date="2026-02-27" number="2-6-14/2026-02-25-101803-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.8086.casino]]></domain>
  <ip>95.129.234.62</ip>
+</content>
+<content id="9908214" includeTime="2026-05-29T23:40:01" entryType="1" hash="CBBFD14DFCB663AC466E343F86CBCAEC" ts="2026-05-29T23:40:01">
+ <decision date="2026-05-22" number="2026-05-12-11393" org="МВД"/>
+ <url><![CDATA[https://www.fida-cameroon.org/kraken-bezopasnoe-poluchenie-ssylok-v-darknete]]></url>
+ <domain><![CDATA[www.fida-cameroon.org]]></domain>
+ <ip>136.243.92.92</ip>
 </content>
 <content id="9908215" includeTime="2026-05-28T14:45:01" entryType="1" hash="2C635F3D8CAEDE3DBE985FBE45103AA8" blockType="domain-mask" ts="2026-05-28T14:45:01">
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -1757,6 +1769,12 @@
  <domain><![CDATA[apkcombo.com]]></domain>
  <ip>8.47.69.6</ip>
  <ip>8.6.112.6</ip>
+</content>
+<content id="9908358" includeTime="2026-05-29T23:40:01" entryType="1" hash="E82FA5485511483E57CE9523EEED691A" ts="2026-05-29T23:40:01">
+ <decision date="2026-05-25" number="2026-05-16-2926-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://safeweb.live/proksi-dlya-telegram-may-2026/]]></url>
+ <domain><![CDATA[safeweb.live]]></domain>
+ <ip>78.40.199.216</ip>
 </content>
 <content id="9908359" includeTime="2026-05-29T15:00:03" entryType="1" hash="0088EDC403D2EBBCEB1268952750A518" blockType="domain" ts="2026-05-29T15:00:03">
  <decision date="2025-11-26" number="2025-11-19-6426-СОБ" org="Роскомнадзор"/>
