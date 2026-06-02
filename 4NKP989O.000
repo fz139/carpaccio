@@ -2224,9 +2224,9 @@
  <ipv6>2606:4700:3034:0000:0000:0000:6815:3c91</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c5c6</ipv6>
 </content>
-<content id="5226010" includeTime="2023-01-12T13:58:25" entryType="1" hash="7EAAAF6B8D7F941D26D969AF19E337E2" blockType="domain" ts="2023-01-12T13:58:25">
+<content id="5226010" includeTime="2023-01-12T13:58:25" entryType="1" hash="755C1308BA989082F6A0F2693E0B807F" blockType="domain-mask" ts="2026-06-02T13:55:01">
  <decision date="2022-12-21" number="2022-12-20-1400-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[rostabletka24.ru]]></domain>
+ <domain><![CDATA[*.rostabletka24.ru]]></domain>
  <ip>104.21.20.154</ip>
  <ip>172.67.193.42</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:c12a</ipv6>

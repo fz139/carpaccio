@@ -3211,14 +3211,9 @@
  <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
  <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
 </content>
-<content id="8514993" includeTime="2025-07-16T06:55:03" entryType="1" hash="F20CB848361CC8626D3F5FDF3F140C6C" blockType="domain" ts="2025-08-27T10:50:04">
+<content id="8514997" includeTime="2025-07-16T06:55:03" entryType="1" hash="F46C9820726E204760A0557B6ED4470B" blockType="domain-mask" ts="2026-06-01T23:15:02">
  <decision date="2022-07-29" number="2а-492/22" org="Кузьминский районный суд - Москва"/>
- <domain><![CDATA[d.intimcity.ltd]]></domain>
- <ip>195.3.221.119</ip>
-</content>
-<content id="8514997" includeTime="2025-07-16T06:55:03" entryType="1" hash="BC3D7910654663AE08A646633B95615F" blockType="domain" ts="2025-07-16T06:55:03">
- <decision date="2022-07-29" number="2а-492/22" org="Кузьминский районный суд - Москва"/>
- <domain><![CDATA[intimcity.ltd]]></domain>
+ <domain><![CDATA[*.intimcity.ltd]]></domain>
  <ip>104.21.33.241</ip>
  <ip>172.67.193.250</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:21f1</ipv6>

@@ -6725,9 +6725,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:8030</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:00b8</ipv6>
 </content>
-<content id="6899835" includeTime="2024-04-02T09:30:04" entryType="1" hash="A3F4BB9B7AC3EFCFBD91B300D556CB7E" blockType="domain" ts="2024-04-02T09:30:04">
+<content id="6899835" includeTime="2024-04-02T09:30:04" entryType="1" hash="9789BAF054CFF80589C75A6E7DBF251C" blockType="domain-mask" ts="2026-06-01T23:15:02">
  <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[shtorysosedi.ru]]></domain>
+ <domain><![CDATA[*.shtorysosedi.ru]]></domain>
  <ip>104.21.70.187</ip>
  <ip>172.67.138.198</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:8ac6</ipv6>
