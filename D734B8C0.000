@@ -12753,10 +12753,10 @@
  <domain><![CDATA[*.kvn1.pro]]></domain>
  <ip>78.40.199.101</ip>
 </content>
-<content id="9810656" includeTime="2026-05-12T23:45:02" entryType="1" hash="8E12D75AEECE34B442230E60D73E9F74" blockType="domain-mask" ts="2026-05-12T23:45:02">
+<content id="9810656" includeTime="2026-05-12T23:45:02" entryType="1" hash="51CC0B6EA6A2DA4FF87CCA3434149D83" blockType="domain-mask" ts="2026-06-04T16:20:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.spydernet-pay.ru]]></domain>
- <ip>195.161.62.100</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9810657" includeTime="2026-05-12T14:55:02" entryType="1" hash="24B09CA3CFCA45B7699E1B9B3D6B52BE" blockType="domain-mask" ts="2026-05-12T14:55:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
@@ -18403,6 +18403,11 @@
  <decision date="2026-05-07" number="2026-04-29-18149-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[*.rusalco-3-arhangelsk.online]]></domain>
  <ip>87.236.16.177</ip>
+</content>
+<content id="9814872" includeTime="2026-06-05T07:25:02" entryType="1" hash="E586047D6A39BA87CF5DA525935224E4" blockType="domain-mask" ts="2026-06-05T07:25:02">
+ <decision date="2026-05-07" number="2026-04-20-44813-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[*.spirtalfagroup.ru]]></domain>
+ <ip>185.4.65.107</ip>
 </content>
 <content id="9814919" includeTime="2026-05-07T23:25:02" entryType="1" hash="EEEDFAABF52496E03C1DA38D996ABFB0" blockType="domain-mask" ts="2026-05-07T23:25:02">
  <decision date="2026-02-09" number="2-6-14/2026-02-05-50658-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

@@ -467,6 +467,31 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="9932470" includeTime="2026-06-04T14:20:02" entryType="1" hash="8F7AAFA6177DCFF0758702C70A331E4C" blockType="domain" ts="2026-06-04T14:20:02">
+ <decision date="2026-06-01" number="2026-05-31-4164-ВН" org="Росмолодежь"/>
+ <domain><![CDATA[12.azotmania.ru]]></domain>
+ <ip>104.28.7.67</ip>
+</content>
+<content id="9932472" includeTime="2026-06-04T14:20:02" entryType="1" hash="D2C68F3231B4695F878C8AE0774003CA" blockType="domain" ts="2026-06-04T14:20:02">
+ <decision date="2026-06-01" number="2026-05-31-4160-ВН" org="Росмолодежь"/>
+ <domain><![CDATA[fun28.gaz-matrix-fun.com]]></domain>
+ <ip>188.137.254.55</ip>
+</content>
+<content id="9932473" includeTime="2026-06-04T14:20:02" entryType="1" hash="7ED9BE9F2CFB2DD847890789C9BC13E6" blockType="domain" ts="2026-06-04T14:20:02">
+ <decision date="2026-06-01" number="2026-05-31-4184-ВН" org="Росмолодежь"/>
+ <domain><![CDATA[27.goldgaz24.ru]]></domain>
+ <ip>104.28.7.67</ip>
+</content>
+<content id="9932474" includeTime="2026-06-04T14:20:02" entryType="1" hash="97461E5EBF0DE250047B7B28B9F063E3" blockType="domain" ts="2026-06-04T14:20:02">
+ <decision date="2026-06-01" number="2026-05-31-4195-ВН" org="Росмолодежь"/>
+ <domain><![CDATA[ice77.icegazz.com]]></domain>
+ <ip>144.172.107.83</ip>
+</content>
+<content id="9932475" includeTime="2026-06-04T14:20:02" entryType="1" hash="FF4F0B08F4ABBAD90DFA49164CBBB6A1" blockType="domain" ts="2026-06-04T14:20:02">
+ <decision date="2026-06-01" number="2026-05-31-4209-ВН" org="Росмолодежь"/>
+ <domain><![CDATA[s7.azot-zakis-life.ru]]></domain>
+ <ip>212.118.38.156</ip>
+</content>
 <content id="9932485" includeTime="2026-06-03T00:30:02" entryType="1" hash="AEBA7CC4DBD6AD2157CE69D18519239E" blockType="domain-mask" ts="2026-06-03T00:30:02">
  <decision date="2026-02-27" number="2-6-14/2026-02-25-101803-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.izhdanov.ru]]></domain>
@@ -484,6 +509,11 @@
  <ip>172.67.143.13</ip>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:4f5c</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:8f0d</ipv6>
+</content>
+<content id="9932488" includeTime="2026-06-04T14:20:02" entryType="1" hash="8742E1B5B85CCCD00723F6C2094988BB" blockType="domain-mask" ts="2026-06-04T14:20:02">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.avobl.com]]></domain>
+ <ip>188.130.251.111</ip>
 </content>
 <content id="9932489" includeTime="2026-06-03T00:30:02" entryType="1" hash="25C1FC9EFA1D127EDBF10A9A3D79FC8B" blockType="domain-mask" ts="2026-06-03T00:30:02">
  <decision date="2026-02-27" number="2-6-14/2026-02-25-101803-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -592,6 +622,14 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="9932520" includeTime="2026-06-04T14:20:02" entryType="1" hash="E442BFCE5D06E83D2D023E05825F1A15" blockType="domain" ts="2026-06-04T14:20:02">
+ <decision date="2026-06-02" number="2026-06-01-11445-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[www.safeshellvpn.com]]></domain>
+ <ip>2.16.56.71</ip>
+ <ip>2.16.56.97</ip>
+ <ipv6>2a02:26f0:0e80:0003:0000:0000:0211:fbb5</ipv6>
+ <ipv6>2a02:26f0:0e80:0003:0000:0000:5c7b:8788</ipv6>
 </content>
 <content id="9932521" includeTime="2026-06-03T00:30:02" entryType="1" hash="1E198616B1F3E2D171B048EFF77FD6C8" blockType="domain-mask" ts="2026-06-03T00:30:02">
  <decision date="2026-02-27" number="2-6-14/2026-02-25-101803-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -720,12 +758,6 @@
  <domain><![CDATA[nu5.zetfliksss.click]]></domain>
  <ip>81.177.212.156</ip>
  <ipv6>2a14:1e00:0003:0894:0000:0000:0000:5450</ipv6>
-</content>
-<content id="9932547" includeTime="2026-06-02T19:30:03" entryType="2" hash="301F70101792D42668951F50F459A09C" ts="2026-06-02T19:30:03">
- <decision date="2015-11-05" number="определение о предварительном обеспечении по заявлению № 2и-0445/2015" org="Мосгорсуд"/>
- <url><![CDATA[https://en.malosolka.net/poslednii-ohotnik-na-vedm.html]]></url>
- <domain><![CDATA[en.malosolka.net]]></domain>
- <ip>179.43.155.116</ip>
 </content>
 <content id="9932548" includeTime="2026-06-02T19:30:03" entryType="2" hash="F54AF605B397D4FE56EF8C992B1695A2" ts="2026-06-02T19:30:03">
  <decision date="2025-09-03" number="определение о предварительном обеспечении по заявлению № 2И-12637/2025" org="Мосгорсуд"/>
@@ -1476,12 +1508,6 @@
  <url><![CDATA[https://1.megokinohd.online/4550-serial-mosgaz-delo-no-10-metronom-2024.html]]></url>
  <domain><![CDATA[1.megokinohd.online]]></domain>
  <ip>212.162.155.230</ip>
-</content>
-<content id="9933956" includeTime="2026-06-02T19:30:03" entryType="2" hash="68260800DDBEDDDBB4F35A5B76C64EA8" ts="2026-06-02T19:30:03">
- <decision date="2024-06-20" number="определение о предварительном обеспечении по заявлению № 2И-13299/2024" org="Мосгорсуд"/>
- <url><![CDATA[https://vselordfilmv.ru/serialy/684-shakal-serial-2016-hd-smotret-onlayn.html]]></url>
- <domain><![CDATA[vselordfilmv.ru]]></domain>
- <ip>185.209.20.69</ip>
 </content>
 <content id="9933957" includeTime="2026-06-02T19:30:03" entryType="2" hash="5F26F040D3DB79A662B5901F61EF5202" ts="2026-06-02T19:30:03">
  <decision date="2024-06-21" number="определение о предварительном обеспечении по заявлению № 2И-13388/2024" org="Мосгорсуд"/>
@@ -3258,12 +3284,6 @@
  <domain><![CDATA[190526.torrent24.name]]></domain>
  <ip>144.124.242.65</ip>
 </content>
-<content id="9933982" includeTime="2026-06-02T19:30:03" entryType="2" hash="ECA573F5DA9CEE731AE1ED04621BD0E9" ts="2026-06-02T19:30:03">
- <decision date="2016-04-01" number="определение о предварительном обеспечении по заявлению № 2и-0202/2016" org="Мосгорсуд"/>
- <url><![CDATA[https://2426fa.lordfilm2025.name/3809-ekipazh-2016.html]]></url>
- <domain><![CDATA[2426fa.lordfilm2025.name]]></domain>
- <ip>144.124.242.65</ip>
-</content>
 <content id="9933983" includeTime="2026-06-02T19:30:03" entryType="2" hash="2C51DA79AFC8FAAEF736597F3942E577" ts="2026-06-02T19:30:03">
  <decision date="2016-04-01" number="определение о предварительном обеспечении по заявлению № 2и-0202/2016" org="Мосгорсуд"/>
  <url><![CDATA[https://kinogov.online/filmy/ekipaj-2016]]></url>
@@ -3387,12 +3407,6 @@
  <decision date="2022-09-30" number="определение о предварительном обеспечении по заявлению № 2И-11172/2022" org="Мосгорсуд"/>
  <url><![CDATA[https://2226mari.kino24.uno/filmi/83999-serdce-parmy-2021.html]]></url>
  <domain><![CDATA[2226mari.kino24.uno]]></domain>
- <ip>144.124.242.65</ip>
-</content>
-<content id="9934002" includeTime="2026-06-02T19:30:03" entryType="2" hash="9B29CAF75D3BD44981DDB38EA54872A0" ts="2026-06-02T19:30:03">
- <decision date="2022-09-30" number="определение о предварительном обеспечении по заявлению № 2И-11172/2022" org="Мосгорсуд"/>
- <url><![CDATA[https://2426fa.lordfilm2025.name/83999-serdce-parmy-2021.html]]></url>
- <domain><![CDATA[2426fa.lordfilm2025.name]]></domain>
  <ip>144.124.242.65</ip>
 </content>
 <content id="9934003" includeTime="2026-06-02T19:30:03" entryType="2" hash="E3F2ABF02C8FD9B5F38601290E65BF6C" ts="2026-06-02T19:30:03">
@@ -6128,12 +6142,6 @@
  <domain><![CDATA[180526.torrent24.name]]></domain>
  <ip>144.124.242.65</ip>
 </content>
-<content id="9934152" includeTime="2026-06-02T19:30:03" entryType="2" hash="CB30F1A210F5EC025AA76F8BA37B8FC4" ts="2026-06-02T19:30:03">
- <decision date="2025-08-28" number="определение о предварительном обеспечении по заявлению № 2И-12418/2025" org="Мосгорсуд"/>
- <url><![CDATA[https://230526.torrent24.name/117369-bar-odin-zvonok-1-sezon-1-7-seriya-08-05-0507.html]]></url>
- <domain><![CDATA[230526.torrent24.name]]></domain>
- <ip>144.124.242.65</ip>
-</content>
 <content id="9934153" includeTime="2026-06-02T19:30:03" entryType="2" hash="24A67A3161FF8C2D604EB5B50AA9E3F4" ts="2026-06-02T19:30:03">
  <decision date="2025-08-28" number="определение о предварительном обеспечении по заявлению № 2И-12418/2025" org="Мосгорсуд"/>
  <url><![CDATA[https://krestonoscy-14.smotreshka.mom/335-bar-odin-zvonok.html]]></url>
@@ -6150,18 +6158,6 @@
  <decision date="2019-04-18" number="определение о предварительном обеспечении по заявлению № 2И-1302/2019" org="Мосгорсуд"/>
  <url><![CDATA[https://225ya.tartugi.site/18533-milliard-07-05-1040.html]]></url>
  <domain><![CDATA[225ya.tartugi.site]]></domain>
- <ip>144.124.242.65</ip>
-</content>
-<content id="9934156" includeTime="2026-06-02T19:30:03" entryType="2" hash="7BB812ED21385AF319A7D7A61E28C1B3" ts="2026-06-02T19:30:03">
- <decision date="2019-04-18" number="определение о предварительном обеспечении по заявлению № 2И-1302/2019" org="Мосгорсуд"/>
- <url><![CDATA[https://230526.torrent24.name/18533-milliard-08-05-3812.html]]></url>
- <domain><![CDATA[230526.torrent24.name]]></domain>
- <ip>144.124.242.65</ip>
-</content>
-<content id="9934157" includeTime="2026-06-02T19:30:03" entryType="2" hash="A9B0AF1E8B2EB0CD76B62E7EA45672F0" ts="2026-06-02T19:30:03">
- <decision date="2019-04-18" number="определение о предварительном обеспечении по заявлению № 2И-1302/2019" org="Мосгорсуд"/>
- <url><![CDATA[https://2426fa.lordfilm2025.name/18533-milliard-2019.html]]></url>
- <domain><![CDATA[2426fa.lordfilm2025.name]]></domain>
  <ip>144.124.242.65</ip>
 </content>
 <content id="9934158" includeTime="2026-06-02T19:30:03" entryType="2" hash="E92405A18624AEAD8585D8E63CF5DE8B" ts="2026-06-02T19:30:03">
