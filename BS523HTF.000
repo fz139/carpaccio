@@ -2931,9 +2931,9 @@
  <ip>203.34.28.24</ip>
  <ipv6>2a05:7880:0074:0f96:8286:4a44:0b80:f8c1</ipv6>
 </content>
-<content id="9960386" includeTime="2026-06-09T14:10:02" entryType="1" hash="ACDD35221A664BF16FAFD0AB49129376" blockType="domain" ts="2026-06-09T14:10:02">
+<content id="9960386" includeTime="2026-06-09T14:10:02" entryType="1" hash="447C8E598E42BA3AEA835A4A7E8B366E" blockType="domain-mask" ts="2026-06-10T22:45:02">
  <decision date="2026-06-07" number="2-6-14/2026-06-05-6007-АИ" org="ФНС"/>
- <domain><![CDATA[47clubvulkan190.com]]></domain>
+ <domain><![CDATA[*.47clubvulkan190.com]]></domain>
  <ip>203.13.32.89</ip>
  <ipv6>2a06:9ac0:00c7:32c9:3251:2ca7:c24e:257e</ipv6>
 </content>
@@ -5168,10 +5168,10 @@
  <domain><![CDATA[*.dosugz.com]]></domain>
  <ip>81.91.178.190</ip>
 </content>
-<content id="9960929" includeTime="2026-06-09T14:10:02" entryType="1" hash="28D1698890183B4A4E9AE698846BEA67" blockType="domain-mask" ts="2026-06-09T14:10:02">
+<content id="9960929" includeTime="2026-06-09T14:10:02" entryType="1" hash="4D3D8B621E3B55EDAA104AF36844CB8F" blockType="domain-mask" ts="2026-06-11T15:25:02">
  <decision date="2026-05-15" number="2а-211/2026" org="Шелковской районный суд - Чеченская Республика"/>
  <domain><![CDATA[*.dosug-nu.com]]></domain>
- <ip>185.244.49.18</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9960930" includeTime="2026-06-09T14:10:02" entryType="1" hash="E6138DBF11AB51EF3C34966C34042D3A" blockType="domain-mask" ts="2026-06-09T14:10:02">
  <decision date="2026-05-15" number="2а-211/2026" org="Шелковской районный суд - Чеченская Республика"/>
@@ -5499,10 +5499,20 @@
  <domain><![CDATA[*.worldlordq.top]]></domain>
  <ip>5.101.87.166</ip>
 </content>
+<content id="9961052" includeTime="2026-06-11T13:20:02" entryType="1" hash="3F4C7FB7B6BBD794351AE01E6445C914" blockType="domain" ts="2026-06-11T13:20:02">
+ <decision date="2026-06-08" number="3990721-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[mcsms.ru]]></domain>
+ <ip>109.248.199.55</ip>
+</content>
 <content id="9961056" includeTime="2026-06-10T00:20:02" entryType="1" hash="B2197C43B3D6F379133927CD0017EB04" blockType="domain" ts="2026-06-10T00:20:02">
  <decision date="2026-06-08" number="3990725-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[lilith-soft.com]]></domain>
  <ip>153.122.116.35</ip>
+</content>
+<content id="9961058" includeTime="2026-06-11T13:20:02" entryType="1" hash="6C85A5530DD59E94BD5CF269B6F205F4" blockType="domain" ts="2026-06-11T13:20:02">
+ <decision date="2026-06-08" number="3990727-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[hentaiheroes.com]]></domain>
+ <ip>94.75.250.120</ip>
 </content>
 <content id="9961067" includeTime="2026-06-10T00:20:02" entryType="1" hash="593FE4DFD41B14DA3464457BC34FD7F1" ts="2026-06-10T00:20:02">
  <decision date="2026-06-08" number="3990736-URL-on" org="Роскомнадзор"/>
