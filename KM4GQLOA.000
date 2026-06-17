@@ -5458,9 +5458,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:44fa</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:c886</ipv6>
 </content>
-<content id="6976979" includeTime="2024-05-13T14:05:02" entryType="1" hash="2509D4DE116D8AAE43C08C4578A9B7C3" blockType="domain" ts="2024-05-13T14:05:02">
+<content id="6976979" includeTime="2024-05-13T14:05:02" entryType="1" hash="952E50ECB6BE116F3846AA5039BE7DF5" blockType="domain-mask" ts="2026-06-16T14:15:02">
  <decision date="2024-04-24" number="2024-03-21-3544-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[veepn.com]]></domain>
+ <domain><![CDATA[*.veepn.com]]></domain>
  <ip>104.21.8.3</ip>
  <ip>172.67.156.148</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:0803</ipv6>
