@@ -749,10 +749,10 @@
  <domain><![CDATA[*.spacevpn.mom]]></domain>
  <ip>212.43.155.133</ip>
 </content>
-<content id="10035184" includeTime="2026-06-25T14:50:02" entryType="1" hash="020D861CFF5173C41E6A8185E2A349B2" blockType="domain-mask" ts="2026-06-25T14:50:02">
+<content id="10035184" includeTime="2026-06-25T14:50:02" entryType="1" hash="241D4B9A787DF5F5811556ACBAE0F0CD" blockType="domain-mask" ts="2026-06-26T13:20:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.v2rayvpn.one]]></domain>
- <ip>91.186.211.169</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="10035185" includeTime="2026-06-25T14:50:02" entryType="1" hash="9889355E43ECBCDD2C836BBE13A877B7" blockType="domain" ts="2026-06-25T14:50:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
@@ -816,6 +816,12 @@
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.enryvpn.ru]]></domain>
  <ip>94.103.83.225</ip>
+</content>
+<content id="10035196" includeTime="2026-06-26T23:45:02" entryType="1" hash="BA4A31D713E5FCA360F7C541F8B00F80" blockType="domain" ts="2026-06-26T23:45:02">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[glowway-mirror.onrender.com]]></domain>
+ <ip>216.24.57.8</ip>
+ <ip>216.24.57.9</ip>
 </content>
 <content id="10035197" includeTime="2026-06-25T14:50:02" entryType="1" hash="13F96B543DA80AFBE8F250C190C9EC48" blockType="domain-mask" ts="2026-06-25T14:50:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
