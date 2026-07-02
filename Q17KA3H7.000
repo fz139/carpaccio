@@ -1115,9 +1115,9 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:42be</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a378</ipv6>
 </content>
-<content id="6221428" includeTime="2025-05-05T13:50:03" entryType="1" hash="923F3935180C7CB387923A4DD2DBC4E4" blockType="domain" ts="2025-05-05T13:50:03">
+<content id="6221428" includeTime="2025-05-05T13:50:03" entryType="1" hash="64123CF7052F4C2C7E9C646352D471CB" blockType="domain-mask" ts="2026-07-02T14:25:02">
  <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[2kraken.net]]></domain>
+ <domain><![CDATA[*.2kraken.net]]></domain>
  <ip>104.21.69.166</ip>
  <ip>172.67.210.140</ip>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:45a6</ipv6>

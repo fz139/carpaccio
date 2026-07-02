@@ -263,9 +263,9 @@
  <domain><![CDATA[www.purepov.com]]></domain>
  <ip>208.64.45.54</ip>
 </content>
-<content id="8791500" includeTime="2025-09-26T14:55:03" entryType="1" hash="4983FAC3D536500E9E67B59EB25B9AF7" blockType="domain" ts="2025-09-26T14:55:03">
+<content id="8791500" includeTime="2025-09-26T14:55:03" entryType="1" hash="313B2AF59A4F2E328EF585F08389C804" blockType="domain-mask" ts="2026-07-01T06:50:02">
  <decision date="2025-09-24" number="3380973-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[crazyxnxx.com]]></domain>
+ <domain><![CDATA[*.crazyxnxx.com]]></domain>
  <ip>88.208.35.215</ip>
 </content>
 <content id="8791501" includeTime="2025-09-26T14:55:03" entryType="1" hash="656B0C4FE054CD54CCDEC18A45D3DCCF" blockType="domain" ts="2025-09-26T14:55:03">
@@ -5234,11 +5234,6 @@
  <domain><![CDATA[www.praguefringe.com]]></domain>
  <ip>81.95.96.121</ip>
  <ipv6>2a02:04a8:ac24:0102:0000:0000:0096:0121</ipv6>
-</content>
-<content id="8793161" includeTime="2025-09-26T14:55:03" entryType="1" hash="319813312A9A34933141C0785EC72DF1" blockType="domain" ts="2025-09-26T14:55:03">
- <decision date="2025-09-16" number="2025-09-05-918" org="МВД"/>
- <domain><![CDATA[x.s420b.store]]></domain>
- <ip>50.87.28.175</ip>
 </content>
 <content id="8793162" includeTime="2025-09-29T14:10:05" entryType="1" hash="87B3B4A83AE1885CC5DF2942FF8A0190" blockType="domain" ts="2025-09-29T14:10:05">
  <decision date="2025-09-18" number="2025-09-05-1372" org="МВД"/>

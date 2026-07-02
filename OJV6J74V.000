@@ -248,12 +248,6 @@
  <domain><![CDATA[beef.zlz.casino]]></domain>
  <ip>95.129.234.62</ip>
 </content>
-<content id="10056987" includeTime="2026-06-29T14:35:02" entryType="1" hash="AF700E2747081C602CC1DDB540CBE930" ts="2026-06-29T14:35:02">
- <decision date="2026-06-15" number="2-6-14/2026-06-14-79945-АИ" org="ФНС"/>
- <url><![CDATA[https://beef.ocy.casino/mirror/]]></url>
- <domain><![CDATA[beef.ocy.casino]]></domain>
- <ip>95.129.234.62</ip>
-</content>
 <content id="10056988" includeTime="2026-06-29T14:35:02" entryType="1" hash="4538B0D6B75028069BA71FAD4AEE07EE" ts="2026-06-29T14:35:02">
  <decision date="2026-06-15" number="2-6-14/2026-06-14-79946-АИ" org="ФНС"/>
  <url><![CDATA[https://beef.casino5128.fun/en/en/en/en/en/en/en/en/en/en/en/en/en/]]></url>
@@ -1578,15 +1572,6 @@
  <domain><![CDATA[izzi.casino7zz.sbs]]></domain>
  <ip>80.96.113.141</ip>
 </content>
-<content id="10057246" includeTime="2026-06-29T14:35:02" entryType="1" hash="3B3252615D89993B493F7B46DC10D8FF" ts="2026-06-29T14:35:02">
- <decision date="2026-06-15" number="2-6-14/2026-06-15-649-АИ" org="ФНС"/>
- <url><![CDATA[https://jet.casino724.sbs/vhod]]></url>
- <domain><![CDATA[jet.casino724.sbs]]></domain>
- <ip>104.21.88.55</ip>
- <ip>172.67.173.13</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:ad0d</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:5837</ipv6>
-</content>
 <content id="10057247" includeTime="2026-06-29T14:35:02" entryType="1" hash="E23251AECFA38FE30959E152ED71B3CC" ts="2026-06-29T14:35:02">
  <decision date="2026-06-15" number="2-6-14/2026-06-15-650-АИ" org="ФНС"/>
  <url><![CDATA[https://jet.casino2333.lol/en]]></url>
@@ -2188,6 +2173,11 @@
  <ip>172.67.130.141</ip>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:089e</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:828d</ipv6>
+</content>
+<content id="10057594" includeTime="2026-07-01T14:10:02" entryType="1" hash="D922391C92773F2965C26AC4B2034591" blockType="domain" ts="2026-07-01T14:10:02">
+ <decision date="2026-02-09" number="2а-381/2026" org="Московский районный суд г. Рязани - Рязанская область"/>
+ <domain><![CDATA[unis-mc.ru]]></domain>
+ <ip>91.228.152.119</ip>
 </content>
 <content id="10057595" includeTime="2026-06-29T14:35:02" entryType="1" hash="C5314693DC25A32A4B7AF99CD2D3BBAE" ts="2026-06-29T14:35:02">
  <decision date="2026-06-23" number="2а-645/2026" org="Пролетарский районный суд - Ростовская область"/>
@@ -7932,10 +7922,25 @@
  <domain><![CDATA[*.rbr-mobil.top]]></domain>
  <ip>193.233.15.14</ip>
 </content>
+<content id="10060874" includeTime="2026-07-01T14:10:02" entryType="1" hash="F077C68A2F6C78FBB2EFE2758DD2E1D3" blockType="domain-mask" ts="2026-07-01T14:10:02">
+ <decision date="2025-04-23" number="2025-04-01-5106-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.easylightwallet.com]]></domain>
+ <ip>37.252.19.61</ip>
+</content>
+<content id="10060875" includeTime="2026-07-01T14:10:02" entryType="1" hash="F453C6A0FA3E1CDC494EF864983BE5D1" blockType="domain-mask" ts="2026-07-01T14:10:02">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.hlksite.net]]></domain>
+ <ip>104.28.7.67</ip>
+</content>
 <content id="10060877" includeTime="2026-06-30T07:40:02" entryType="1" hash="75E4CB44F4AE8A06968A7FD789ECC820" blockType="domain-mask" ts="2026-06-30T07:40:02">
  <decision date="2026-06-25" number="2-6-14/2026-06-24-77942-АИ" org="ФНС"/>
  <domain><![CDATA[*.clubniksplunder.top]]></domain>
  <ip>172.67.204.152</ip>
+</content>
+<content id="10060878" includeTime="2026-07-01T14:10:02" entryType="1" hash="9A4A520A980DDF7841F404E581AC2444" blockType="domain" ts="2026-07-01T14:10:02">
+ <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[app.gozoogs.online]]></domain>
+ <ip>89.144.48.93</ip>
 </content>
 <content id="10060879" includeTime="2026-06-30T07:10:02" entryType="1" hash="F7586945D43138DAE905F94CEA23C9B0" blockType="domain-mask" ts="2026-06-30T07:10:02">
  <decision date="2026-06-25" number="2-6-14/2026-06-24-105018-АИ" org="ФНС"/>
@@ -9918,6 +9923,54 @@
  <domain><![CDATA[*.gizbo.cy4.casino]]></domain>
  <ip>95.129.234.62</ip>
 </content>
+<content id="10061333" includeTime="2026-07-01T07:20:02" entryType="1" hash="9A12A90C2CA61B743C0D9BEEC0241CED" blockType="domain-mask" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037368-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.transstudent.org]]></domain>
+ <ip>192.0.78.153</ip>
+ <ip>192.0.78.247</ip>
+</content>
+<content id="10061334" includeTime="2026-07-01T07:20:02" entryType="1" hash="1DF44AA413303F637E097AD50B43A501" blockType="domain-mask" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037369-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.transgenderlawcenter.org]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10061346" includeTime="2026-07-01T14:10:02" entryType="1" hash="A897B701FCD59243E69A7163B1DFCACD" blockType="domain" ts="2026-07-01T14:10:02">
+ <decision date="2026-06-25" number="2026-06-23-24040-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[app.chpokoloc.ru]]></domain>
+ <ip>104.28.7.67</ip>
+</content>
+<content id="10061350" includeTime="2026-07-01T14:10:02" entryType="1" hash="B1DEAC987656B1F0F1B56CBCD01E7BB9" blockType="domain" ts="2026-07-01T14:10:02">
+ <decision date="2026-06-25" number="2026-06-23-23730-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[proton-converter.github.io]]></domain>
+ <ip>185.199.108.153</ip>
+ <ip>185.199.109.153</ip>
+ <ip>185.199.110.153</ip>
+ <ip>185.199.111.153</ip>
+ <ipv6>2606:50c0:8000:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8001:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8002:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8003:0000:0000:0000:0000:0153</ipv6>
+</content>
+<content id="10061352" includeTime="2026-07-01T14:10:02" entryType="1" hash="24D77AFB1BDD0E0B3B02C8B019167FAE" blockType="domain-mask" ts="2026-07-01T14:10:02">
+ <decision date="2026-06-26" number="2026-06-25-28577-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.aurora-vps.ru]]></domain>
+ <ip>104.28.7.67</ip>
+</content>
+<content id="10061355" includeTime="2026-07-01T14:10:02" entryType="1" hash="65F10865931103EAB33F6E6F17306B5F" blockType="domain" ts="2026-07-01T14:10:02">
+ <decision date="2026-06-25" number="2026-06-20-2591-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[fk1x0t3g78.execute-api.eu-north-1.amazonaws.com]]></domain>
+ <ip>13.63.183.111</ip>
+ <ip>13.63.46.176</ip>
+</content>
+<content id="10061369" includeTime="2026-07-01T14:10:02" entryType="1" hash="8F4D6B5CA87DEFE89D856A25DD1F8BA8" ts="2026-07-01T14:10:02">
+ <decision date="2026-06-26" number="2026-06-15-4433" org="МВД"/>
+ <url><![CDATA[https://sbharat24.com/2026/06/15/%D1%81-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0-%D0%BA%D0%B0%D0%BA-%D0%BD%D0%B0%D0%B9%D1%82%D0%B8-%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C]]></url>
+ <domain><![CDATA[sbharat24.com]]></domain>
+ <ip>149.86.225.36</ip>
+</content>
 <content id="10061383" includeTime="2026-06-30T07:10:02" entryType="1" hash="79BC3C99299D05EEA1E1615E6C062D69" blockType="domain" ts="2026-06-30T07:10:02">
  <decision date="2026-06-15" number="2-6-14/2026-06-15-5402-АИ" org="ФНС"/>
  <domain><![CDATA[tepicstar-casino.kazino89.sbs]]></domain>
@@ -10510,10 +10563,41 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="10061633" includeTime="2026-07-01T07:20:02" entryType="1" hash="E467B426974728CE2D9FDD2163464532" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-16" number="2а-1а-791/2026" org="Ливенский районный суд - Орловская область"/>
+ <url><![CDATA[https://simki3333.orgs.biz/#contact]]></url>
+ <domain><![CDATA[simki3333.orgs.biz]]></domain>
+ <ip>185.229.251.137</ip>
+</content>
 <content id="10061634" includeTime="2026-06-30T14:00:03" entryType="1" hash="21B819D4B2956311BB5C1701E1A7850A" blockType="domain" ts="2026-06-30T14:00:03">
  <decision date="2026-06-26" number="2а-888/2026" org="Шуйский городской суд - Ивановская область"/>
  <domain><![CDATA[sex1.prostitutkisochihappy.com]]></domain>
  <ip>85.136.181.236</ip>
+</content>
+<content id="10061635" includeTime="2026-07-01T07:20:02" entryType="1" hash="8BB8A59B284E89DF6DC07E8908ACE584" blockType="domain-mask" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-01" number="2а-924/2026" org="Железнодорожный районный суд г. Орла - Орловская область"/>
+ <domain><![CDATA[*.camblock.site]]></domain>
+ <ip>81.91.178.100</ip>
+</content>
+<content id="10061639" includeTime="2026-07-01T07:20:02" entryType="1" hash="5A0906DF5EBCB241593C2003FEC7F579" blockType="domain-mask" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-25" number="2а-1705/2026" org="Советский районный суд г. Орла - Орловская область"/>
+ <domain><![CDATA[*.fervetcity.shop]]></domain>
+ <ip>81.180.93.246</ip>
+</content>
+<content id="10061650" includeTime="2026-07-01T07:20:02" entryType="1" hash="30E5EB417BB75F982EE7E3B7C45000BD" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-25" number="2а-1016/2026" org="Елецкий городской суд - Липецкая область"/>
+ <url><![CDATA[http://vpn-ol1ga2.blackguns.net]]></url>
+ <domain><![CDATA[vpn-ol1ga2.blackguns.net]]></domain>
+ <ip>104.21.35.103</ip>
+ <ip>172.67.217.75</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:d94b</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:2367</ipv6>
+</content>
+<content id="10061651" includeTime="2026-07-01T07:20:02" entryType="1" hash="638C8FF19ADE91A35089D5779C54BC19" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-23" number="2а-721/2026" org="Рославльский городской суд - Смоленская область"/>
+ <url><![CDATA[https://www.electro-fisher.com/homeRU.html]]></url>
+ <domain><![CDATA[www.electro-fisher.com]]></domain>
+ <ip>66.128.59.6</ip>
 </content>
 <content id="10061668" includeTime="2026-06-30T14:00:03" entryType="1" hash="F4F86DBF4D1B78BC998FE99768F4B9DF" blockType="domain-mask" ts="2026-06-30T14:00:03">
  <decision date="2023-07-28" number="2а-420/2023" org="Чернышевский районный суд - Забайкальский край"/>
@@ -11146,6 +11230,239 @@
  <decision date="2026-06-29" number="4037875-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[*.lordfilmus.vu]]></domain>
  <ip>155.212.132.185</ip>
+</content>
+<content id="10061841" includeTime="2026-07-01T07:20:02" entryType="1" hash="6C3AD3D59524D8936D086F20CED07889" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037876-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex1.prostitutkikaliningradaarea.com]]></domain>
+ <ip>146.103.108.167</ip>
+</content>
+<content id="10061842" includeTime="2026-07-01T07:20:02" entryType="1" hash="D22716A86FD572405984DBE2F0998EF0" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037877-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex5.prostitutkikaliningradaneed.info]]></domain>
+ <ip>85.136.181.236</ip>
+</content>
+<content id="10061843" includeTime="2026-07-01T07:20:02" entryType="1" hash="5208BC3C86960E60F507CC88556C16EB" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037878-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex3.prostitutkikaliningradalist.com]]></domain>
+ <ip>5.61.32.56</ip>
+</content>
+<content id="10061844" includeTime="2026-07-01T07:20:02" entryType="1" hash="AE856AC6C1EA530CA65BC8CDEF6B5133" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037879-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex5.prostitutkikaliningradakiss.net]]></domain>
+ <ip>77.246.98.52</ip>
+</content>
+<content id="10061845" includeTime="2026-07-01T07:20:02" entryType="1" hash="FACE7D085454957ADCC74D40F4EF1E27" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037880-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex4.prostitutkikaliningradasuck.info]]></domain>
+ <ip>144.124.247.32</ip>
+</content>
+<content id="10061846" includeTime="2026-07-01T07:20:02" entryType="1" hash="9B5D18CE10D7199E24FA6DFC9A23D3D8" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037881-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex1.prostitutkikaliningradaafter.com]]></domain>
+ <ip>144.124.245.37</ip>
+</content>
+<content id="10061847" includeTime="2026-07-01T07:20:02" entryType="1" hash="26C221958712E4B586B117E2982B7E9B" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037882-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex1.prostitutkikaliningradacase.net]]></domain>
+ <ip>144.124.233.29</ip>
+</content>
+<content id="10061848" includeTime="2026-07-01T07:20:02" entryType="1" hash="23C61071430173C8CF9DF167227BDD26" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037883-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex6.prostitutkikaliningradatake.info]]></domain>
+ <ip>146.103.100.195</ip>
+</content>
+<content id="10061849" includeTime="2026-07-01T07:20:02" entryType="1" hash="1DEFCD1C3BE83A534F31028F7E52CEDF" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037884-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex4.prostitutkikaliningradaonline.net]]></domain>
+ <ip>144.124.234.46</ip>
+</content>
+<content id="10061850" includeTime="2026-07-01T07:20:02" entryType="1" hash="5145BC9A483FD975B83578D8A8877F75" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037885-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex7.prostitutkikaliningradahim.com]]></domain>
+ <ip>46.151.29.232</ip>
+</content>
+<content id="10061851" includeTime="2026-07-01T07:20:02" entryType="1" hash="AEF0155F48B6857F655AFF5F02DCF60D" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037886-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex2.prostitutkikaliningradasweet.com]]></domain>
+ <ip>77.246.104.169</ip>
+</content>
+<content id="10061852" includeTime="2026-07-01T07:20:02" entryType="1" hash="7B70D0799EA2C9F9468F0D8AA4B9607A" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037887-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex2.prostitutkikaliningradanice.info]]></domain>
+ <ip>85.136.181.186</ip>
+</content>
+<content id="10061853" includeTime="2026-07-01T07:20:02" entryType="1" hash="0910720EEC865E08DADE75B7AA4C5E5B" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037888-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex3.prostitutkikaliningradareal.net]]></domain>
+ <ip>144.124.244.161</ip>
+</content>
+<content id="10061854" includeTime="2026-07-01T07:20:02" entryType="1" hash="0477EE6AE490B3C713C314BD2B6294F3" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037889-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex4.prostitutkikaliningrada2022.info]]></domain>
+ <ip>109.107.177.146</ip>
+</content>
+<content id="10061855" includeTime="2026-07-01T07:20:02" entryType="1" hash="A9EB639A31D862E49919AD0A7BF3CE76" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037890-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex1.prostitutkikaliningradasweet.info]]></domain>
+ <ip>148.227.170.241</ip>
+</content>
+<content id="10061857" includeTime="2026-07-01T07:20:02" entryType="1" hash="F76CAD0C34324BB51EFE178E9D144F38" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037892-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://porno365x.wiki/movie/19983]]></url>
+ <domain><![CDATA[porno365x.wiki]]></domain>
+ <ip>51.68.24.26</ip>
+</content>
+<content id="10061858" includeTime="2026-07-01T07:20:02" entryType="1" hash="EBD5A5EB305FD8F3D6102953F111F82E" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037893-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://my.porno365x.wiki/movie/19983]]></url>
+ <domain><![CDATA[my.porno365x.wiki]]></domain>
+ <ip>5.196.58.80</ip>
+</content>
+<content id="10061859" includeTime="2026-07-01T07:20:02" entryType="1" hash="345012B0C4412A91BA9AE67EBD97BED0" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037894-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://a.porno365.golf/movie/49532]]></url>
+ <domain><![CDATA[a.porno365.golf]]></domain>
+ <ip>190.115.31.73</ip>
+</content>
+<content id="10061860" includeTime="2026-07-01T07:20:02" entryType="1" hash="C4B1A8892CBFEFFF579613593192B39D" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037895-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://cosplay-porn.video/serials]]></url>
+ <domain><![CDATA[cosplay-porn.video]]></domain>
+ <ip>175.110.121.41</ip>
+</content>
+<content id="10061862" includeTime="2026-07-01T07:20:02" entryType="1" hash="40CAAFF6EF45C9534551A8A831FB514F" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037897-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[app.dosugbar39.com]]></domain>
+ <ip>190.115.31.222</ip>
+</content>
+<content id="10061863" includeTime="2026-07-01T07:20:02" entryType="1" hash="21B9A728D676A3959A34948964AF8E18" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037898-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex2.prostitutkikaliningradacool.net]]></domain>
+ <ip>77.246.104.169</ip>
+</content>
+<content id="10061864" includeTime="2026-07-01T07:20:02" entryType="1" hash="40F805F30953924A0B082680E21644C0" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037899-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex5.prostitutkikaliningradavisit.org]]></domain>
+ <ip>104.192.42.252</ip>
+</content>
+<content id="10061865" includeTime="2026-07-01T07:20:02" entryType="1" hash="4D55D522FA691C8A28BFFAC4AB189ABE" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037900-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex5.prostitutkikaliningradareal.info]]></domain>
+ <ip>85.136.181.61</ip>
+</content>
+<content id="10061866" includeTime="2026-07-01T07:20:02" entryType="1" hash="FB49817CC7E1C0281F3FE9B3EE609005" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037901-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex5.prostitutkikaliningradagood.info]]></domain>
+ <ip>62.84.99.161</ip>
+</content>
+<content id="10061867" includeTime="2026-07-01T07:20:02" entryType="1" hash="6DED91F80ABCDEAC7176D1C5F09DDE8B" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037902-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex2.prostitutkikaliningradaintim.com]]></domain>
+ <ip>85.136.181.236</ip>
+</content>
+<content id="10061868" includeTime="2026-07-01T07:20:02" entryType="1" hash="270304A046FC519205945FA7FFCA1973" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037903-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex.prostitutkikaliningradahappy.net]]></domain>
+ <ip>146.103.124.87</ip>
+</content>
+<content id="10061869" includeTime="2026-07-01T07:20:02" entryType="1" hash="567ADD4BB710077578F3585C89956B94" blockType="domain-mask" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037904-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.prostitutkikaliningrada.ru]]></domain>
+ <ip>80.79.4.178</ip>
+</content>
+<content id="10061870" includeTime="2026-07-01T07:20:02" entryType="1" hash="2B8D45146E84E92A30421E53E3252622" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037905-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex2.prostitutkikaliningradahot.info]]></domain>
+ <ip>77.246.104.169</ip>
+</content>
+<content id="10061873" includeTime="2026-07-01T07:20:02" entryType="1" hash="4C888F91A4CA781B8869FE2DCDF57DA3" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037908-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex1.prostitutkikaliningradanext.com]]></domain>
+ <ip>144.124.244.161</ip>
+</content>
+<content id="10061875" includeTime="2026-07-01T07:20:02" entryType="1" hash="D158A1B9C13F08A3F8CBFCC83F98B09A" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037910-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex3.prostitutkikaliningradaxxx.net]]></domain>
+ <ip>62.84.99.161</ip>
+</content>
+<content id="10061876" includeTime="2026-07-01T07:20:02" entryType="1" hash="6F8331A031C3E8FD3E6C33DE4268C035" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037911-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex.prostitutkikaliningradaact.net]]></domain>
+ <ip>85.136.181.152</ip>
+</content>
+<content id="10061877" includeTime="2026-07-01T07:20:02" entryType="1" hash="BE44149D41026FC2705EAC596AC5B8E2" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037912-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sex2.prostitutkikaliningradaonline.org]]></domain>
+ <ip>85.136.112.42</ip>
+</content>
+<content id="10061878" includeTime="2026-07-01T07:20:02" entryType="1" hash="BE647CFF2B07CE7052E1BAA0B84E6C49" blockType="domain-mask" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037913-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.kalindi.pro]]></domain>
+ <ip>78.159.101.144</ip>
+</content>
+<content id="10061879" includeTime="2026-07-01T07:20:02" entryType="1" hash="16499F2673D8F26DA0C22EA98C1E737F" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037914-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[kaliningrad1.dosug-hub.xyz]]></domain>
+ <ip>138.226.240.230</ip>
+ <ip>138.226.240.231</ip>
+ <ip>31.42.177.77</ip>
+ <ip>91.234.199.223</ip>
+</content>
+<content id="10061880" includeTime="2026-07-01T07:20:02" entryType="1" hash="B89126E377915362D0A57275CC1202CD" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037915-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sankt-peterburg1.dosug-hub.xyz]]></domain>
+ <ip>138.226.240.230</ip>
+ <ip>138.226.240.231</ip>
+ <ip>31.42.177.77</ip>
+ <ip>91.234.199.223</ip>
+</content>
+<content id="10061881" includeTime="2026-07-01T07:20:02" entryType="1" hash="C44932A1A11BD94386838407A6AF9A53" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037916-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[moskva1.dosug-hub.xyz]]></domain>
+ <ip>138.226.240.230</ip>
+ <ip>138.226.240.231</ip>
+ <ip>31.42.177.77</ip>
+ <ip>91.234.199.223</ip>
+</content>
+<content id="10061882" includeTime="2026-07-01T07:20:02" entryType="1" hash="4504013CDEDEF8A3ADB0B09FB571C946" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037917-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[sergiev-posad1.dosug-hub.xyz]]></domain>
+ <ip>138.226.240.230</ip>
+ <ip>138.226.240.231</ip>
+ <ip>31.42.177.77</ip>
+ <ip>91.234.199.223</ip>
+</content>
+<content id="10061883" includeTime="2026-07-01T07:20:02" entryType="1" hash="6EE0BBE80B2B02F0624F123DB558330D" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037918-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[kazan1.dosug-hub.xyz]]></domain>
+ <ip>138.226.240.230</ip>
+ <ip>138.226.240.231</ip>
+ <ip>31.42.177.77</ip>
+ <ip>91.234.199.223</ip>
+</content>
+<content id="10061884" includeTime="2026-07-01T07:20:02" entryType="1" hash="E8A06DA4F30D0C824FFFBB9AD67042ED" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037919-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[novosibirsk1.dosug-hub.xyz]]></domain>
+ <ip>138.226.240.230</ip>
+ <ip>138.226.240.231</ip>
+ <ip>31.42.177.77</ip>
+ <ip>91.234.199.223</ip>
+</content>
+<content id="10061885" includeTime="2026-07-01T07:20:02" entryType="1" hash="DF2FA0454F643A6BFAD715E139F13BD0" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037920-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[samara1.dosug-hub.xyz]]></domain>
+ <ip>138.226.240.230</ip>
+ <ip>138.226.240.231</ip>
+ <ip>31.42.177.77</ip>
+ <ip>91.234.199.223</ip>
+</content>
+<content id="10061886" includeTime="2026-07-01T07:20:02" entryType="1" hash="3102FC70B72A70CB61026819C96C5643" blockType="domain" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-29" number="4037921-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[omsk1.dosug-hub.xyz]]></domain>
+ <ip>138.226.240.230</ip>
+ <ip>138.226.240.231</ip>
+ <ip>31.42.177.77</ip>
+ <ip>91.234.199.223</ip>
 </content>
 <content id="10061890" includeTime="2026-06-30T07:40:02" entryType="1" hash="93DA04841E31C4CA49064D5A81945B67" blockType="domain-mask" ts="2026-06-30T07:40:02">
  <decision date="2026-06-26" number="2-6-14/2026-06-24-108137-АИ" org="ФНС"/>

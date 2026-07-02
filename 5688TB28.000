@@ -3244,6 +3244,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="9950388" includeTime="2026-07-01T07:20:02" entryType="1" hash="EB35B48C622F4C0257ABAEF2E60520DB" blockType="domain-mask" ts="2026-07-01T07:20:02">
+ <decision date="2026-06-04" number="2026-06-01-14270-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[*.alcoraketa-5-chelyabinsk.online]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="9950389" includeTime="2026-06-09T00:25:02" entryType="1" hash="78BB532D0B1FBDBF608FB574107D5A8C" blockType="domain-mask" ts="2026-06-09T00:25:02">
  <decision date="2026-06-04" number="2026-06-01-14881-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[*.gradus-3-nn.online]]></domain>
@@ -3265,18 +3273,6 @@
  <url><![CDATA[https://13win1.net/%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D0%B5%D0%BC%D1%81%D1%8F-%D1%81-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D0%B9%D1%82%D0%B8-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5]]></url>
  <domain><![CDATA[13win1.net]]></domain>
  <ip>198.252.98.168</ip>
-</content>
-<content id="9950397" includeTime="2026-06-08T15:20:02" entryType="1" hash="86774E080CD0CE1E492DE77DA00EC704" ts="2026-06-08T15:20:02">
- <decision date="2026-03-05" number="2026-03-05-8185" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://discuss.financier.io/index.php?topic=581.0]]></url>
- <domain><![CDATA[discuss.financier.io]]></domain>
- <ip>198.252.99.155</ip>
-</content>
-<content id="9950398" includeTime="2026-06-08T15:20:02" entryType="1" hash="CEA527E7552F73ED2504A6EF9D32099B" ts="2026-06-08T15:20:02">
- <decision date="2026-03-05" number="2026-03-05-8185" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://discuss.financier.io/index.php?topic=584.0]]></url>
- <domain><![CDATA[discuss.financier.io]]></domain>
- <ip>198.252.99.155</ip>
 </content>
 <content id="9950399" includeTime="2026-06-09T00:25:02" entryType="1" hash="C6E27586AB0F6BF3B73DC78581E010C5" ts="2026-06-09T00:25:02">
  <decision date="2026-03-05" number="2026-03-05-8185" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>

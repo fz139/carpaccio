@@ -146,16 +146,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:b81a</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:4404</ipv6>
 </content>
-<content id="8365127" includeTime="2025-06-10T07:10:02" entryType="1" hash="8145D2018CFD8219A37DF1502C58B687" blockType="domain" ts="2025-06-10T07:10:02">
- <decision date="2025-06-05" number="3202053-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[www.gosliv.net]]></domain>
- <ip>104.21.3.248</ip>
- <ip>172.67.131.97</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:8361</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:03f8</ipv6>
-</content>
 <content id="8365130" includeTime="2025-06-10T07:10:02" entryType="1" hash="E0FDA03553873C188BE1626C5E017AC8" ts="2025-06-10T07:10:02">
  <decision date="2025-06-05" number="3202056-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://a.sochifeyas-fum.com/cache/photo/3/b/a/e/origin_397f5b4-780x1040.jpg]]></url>
@@ -192,9 +182,9 @@
  <domain><![CDATA[www.freshsroom.com]]></domain>
  <ip>192.243.50.111</ip>
 </content>
-<content id="8365153" includeTime="2025-06-10T07:10:02" entryType="1" hash="8A86F60FA630861607C94603E0CF9FFA" blockType="domain" ts="2025-06-10T07:10:02">
+<content id="8365153" includeTime="2025-06-10T07:10:02" entryType="1" hash="2FD602692C17A43483FB6AA590DA906F" blockType="domain-mask" ts="2026-07-02T14:25:02">
  <decision date="2025-06-05" number="3202079-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[gosliv.net]]></domain>
+ <domain><![CDATA[*.gosliv.net]]></domain>
  <ip>104.21.3.248</ip>
  <ip>172.67.131.97</ip>
  <ip>188.114.96.1</ip>
@@ -12184,14 +12174,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:5001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
-</content>
-<content id="8369978" includeTime="2025-06-10T07:10:02" entryType="1" hash="A3E9766B59947EEE1EF03B1542582319" blockType="domain" ts="2025-06-10T07:10:02">
- <decision date="2023-09-01" number="2023-08-31-2164" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[desnogorsk.forumuzao.ru]]></domain>
- <ip>104.21.95.20</ip>
- <ip>172.67.169.44</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:a92c</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:5f14</ipv6>
 </content>
 <content id="8369980" includeTime="2025-06-09T13:25:02" entryType="1" hash="7785D28B6AEBC4454F4AF9135BF269DB" blockType="domain-mask" ts="2025-06-09T13:25:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
