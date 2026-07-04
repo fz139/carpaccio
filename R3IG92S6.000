@@ -756,10 +756,10 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:a316</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:0a73</ipv6>
 </content>
-<content id="10071804" includeTime="2026-07-02T14:55:02" entryType="1" hash="4F089303BB18307E5A833B37CDACA2D2" blockType="domain" ts="2026-07-02T14:55:02">
+<content id="10071804" includeTime="2026-07-02T14:55:02" entryType="1" hash="EF1F1A43197C9515D878F4C5F63FDF6D" blockType="domain" ts="2026-07-03T12:10:02">
  <decision date="2023-08-14" number="2а-639/23" org="Кузьминский районный суд - Москва"/>
  <domain><![CDATA[1.reestr.tech]]></domain>
- <ip>87.249.43.21</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="10071816" includeTime="2026-07-01T07:20:02" entryType="1" hash="10D4844AE1B7FCAB3FF9938226A58BBD" blockType="domain-mask" ts="2026-07-01T07:20:02">
  <decision date="2026-04-27" number="2-6-14/2026-04-23-42644-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -968,6 +968,11 @@
  <decision date="2026-04-27" number="2-6-14/2026-04-23-42644-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.izdwxkmost.com]]></domain>
  <ip>18.158.162.44</ip>
+</content>
+<content id="10071865" includeTime="2026-07-03T07:15:02" entryType="1" hash="D065AE73107BB16CDCD891658C4B8BD4" blockType="domain-mask" ts="2026-07-03T07:15:02">
+ <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[*.sherlock-bot.report]]></domain>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="10071866" includeTime="2026-07-01T07:20:02" entryType="1" hash="4E07D022943692AC61B4545AEECB1A50" blockType="domain-mask" ts="2026-07-01T07:20:02">
  <decision date="2026-06-29" number="2-6-14/2026-06-29-28291-АИ" org="ФНС"/>
