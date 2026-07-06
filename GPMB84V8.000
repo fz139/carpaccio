@@ -3588,12 +3588,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="10080867" includeTime="2026-07-03T14:35:02" entryType="1" hash="2E9EA80DC8020B782352DCA1AE4DE030" ts="2026-07-03T14:35:02">
- <decision date="2026-06-30" number="2026-06-30-6745-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://res2.maglv.ru/dapoksetin/?refD=8b7b31cd0ceeee0ca42b802e9e1b7d23]]></url>
- <domain><![CDATA[res2.maglv.ru]]></domain>
- <ip>152.232.9.170</ip>
-</content>
 <content id="10080874" includeTime="2026-07-03T14:35:02" entryType="1" hash="0DC873B47BE2E99218692C1B19A217AB" ts="2026-07-03T14:35:02">
  <decision date="2026-06-30" number="2026-06-30-10848-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://aptekawg.apteka-ru.online/shop/preparaty/mifepriston/]]></url>
@@ -6367,6 +6361,19 @@
  <domain><![CDATA[molodezhka.lord1.you]]></domain>
  <ip>91.211.251.243</ip>
 </content>
+<content id="10081619" includeTime="2026-07-06T17:20:01" urgencyType="1" entryType="3" hash="586D587C717FA09DBB8F62805B5B636D" blockType="domain-mask" ts="2026-07-06T17:20:01">
+ <decision date="2026-06-30" number="" org=""/>
+ <domain><![CDATA[*.ateobreaking.com]]></domain>
+ <ip>162.159.140.98</ip>
+ <ip>172.66.0.96</ip>
+ <ipv6>2606:4700:0007:0000:0000:0000:0000:0060</ipv6>
+ <ipv6>2a06:98c1:0058:0000:0000:0000:0000:0060</ipv6>
+</content>
+<content id="10081620" includeTime="2026-07-06T17:20:01" urgencyType="1" entryType="3" hash="839DFF1B4A3B03769A33DB227F28061D" blockType="domain" ts="2026-07-06T17:20:01">
+ <decision date="2026-06-30" number="" org=""/>
+ <domain><![CDATA[mikhailshishkin.com]]></domain>
+ <ip>162.241.225.141</ip>
+</content>
 <content id="10081623" includeTime="2026-07-02T17:30:01" urgencyType="1" entryType="3" hash="BADE2B90692BA6D489DCD3B9CA901EA8" blockType="domain-mask" ts="2026-07-02T17:30:01">
  <decision date="2024-03-16" number="" org=""/>
  <domain><![CDATA[*.diplatteho.cfd]]></domain>
@@ -8764,6 +8771,18 @@
  <decision date="2026-07-01" number="2-6-14/2026-06-30-13211-АИ" org="ФНС"/>
  <domain><![CDATA[*.beef.casino5522.online]]></domain>
  <ip>95.129.234.62</ip>
+</content>
+<content id="10083004" includeTime="2026-07-06T16:05:02" entryType="1" hash="9405958438AFF1BEB2DEEEC460CC0912" blockType="domain" ts="2026-07-06T16:05:02">
+ <decision date="2026-06-29" number="2026-06-26-18103-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[xtls.github.io]]></domain>
+ <ip>185.199.108.153</ip>
+ <ip>185.199.109.153</ip>
+ <ip>185.199.110.153</ip>
+ <ip>185.199.111.153</ip>
+ <ipv6>2606:50c0:8000:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8001:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8002:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8003:0000:0000:0000:0000:0153</ipv6>
 </content>
 <content id="10083005" includeTime="2026-07-03T07:15:02" entryType="1" hash="6A5B088AA3579C384F89724EC8D0CEB4" blockType="domain-mask" ts="2026-07-03T07:15:02">
  <decision date="2026-07-01" number="2-6-14/2026-06-30-13333-АИ" org="ФНС"/>
