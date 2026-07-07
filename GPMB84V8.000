@@ -3468,6 +3468,15 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="10080764" includeTime="2026-07-07T14:00:03" entryType="1" hash="12C48426DA706CED4D163E2F31A59DCC" ts="2026-07-07T14:00:03">
+ <decision date="2015-11-30" number="2-1960/15" org="Фрунзенский районный суд г. Владимира - Владимирская область"/>
+ <url><![CDATA[https://www.volynnews.com/files/news/2015/12-12/173634/5555.jpg]]></url>
+ <domain><![CDATA[www.volynnews.com]]></domain>
+ <ip>104.21.89.184</ip>
+ <ip>172.67.164.68</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:59b8</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:a444</ipv6>
+</content>
 <content id="10080804" includeTime="2026-07-03T14:35:02" entryType="1" hash="DFECD5BDBA8359A4747F0C546039BD3B" ts="2026-07-03T14:35:02">
  <decision date="2012-05-24" number="2-2795/12" org="Никулинский районный суд - Москва"/>
  <url><![CDATA[https://knizkin.com/detektivy-trillery/18953-audiokniga-ohotnik-endrju-makdonald.html]]></url>
@@ -3503,6 +3512,12 @@
  <ip>172.67.178.190</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:4ba4</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:b2be</ipv6>
+</content>
+<content id="10080822" includeTime="2026-07-07T14:00:03" entryType="1" hash="121D116406740E807B8759B55E244AD8" ts="2026-07-07T14:00:03">
+ <decision date="2017-02-10" number="2-19/2017" org="Ломоносовский районный суд г. Архангельска - Архангельская область"/>
+ <url><![CDATA[https://kk-8.ucoz.ru/_ph/2/357810893.jpg]]></url>
+ <domain><![CDATA[kk-8.ucoz.ru]]></domain>
+ <ip>193.109.247.20</ip>
 </content>
 <content id="10080843" includeTime="2026-07-02T07:20:02" entryType="1" hash="45D99CF9176A924C4EABDC72EF53811D" blockType="domain-mask" ts="2026-07-02T07:20:02">
  <decision date="2026-04-27" number="2-6-14/2026-04-23-42644-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -4380,6 +4395,13 @@
  <domain><![CDATA[v2ray-klyuchi.vercel.app]]></domain>
  <ip>216.198.79.67</ip>
  <ip>64.29.17.67</ip>
+</content>
+<content id="10081062" includeTime="2026-07-07T14:00:03" entryType="1" hash="F64208368956C36E4A1C3E76D2C05EA5" ts="2026-07-07T14:00:03">
+ <decision date="2026-06-29" number="2026-06-26-12128-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://help-guide.notion.site/1f72684dab0d8092a582ed6328632d06]]></url>
+ <domain><![CDATA[help-guide.notion.site]]></domain>
+ <ip>208.103.161.32</ip>
+ <ip>208.103.161.33</ip>
 </content>
 <content id="10081063" includeTime="2026-07-03T14:35:02" entryType="1" hash="5D24B0ED756236993177196751678496" blockType="domain-mask" ts="2026-07-03T14:35:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
@@ -6645,6 +6667,11 @@
  <decision date="2026-07-01" number="" org=""/>
  <domain><![CDATA[*.stoprussianrecruiters.org]]></domain>
  <ip>185.233.152.85</ip>
+</content>
+<content id="10081689" includeTime="2026-07-07T14:15:02" urgencyType="1" entryType="3" hash="C9E1DA49365A503BA52099B16DBECF7D" blockType="domain-mask" ts="2026-07-07T14:15:02">
+ <decision date="2026-07-01" number="" org=""/>
+ <domain><![CDATA[*.3rm.info]]></domain>
+ <ip>192.250.229.26</ip>
 </content>
 <content id="10081738" includeTime="2026-07-03T18:40:02" urgencyType="1" entryType="3" hash="3CB62110F10F860C24750BA5CC0F4E35" blockType="domain" ts="2026-07-03T18:40:02">
  <decision date="2026-07-01" number="" org=""/>
