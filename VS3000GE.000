@@ -1858,6 +1858,11 @@
  <ipv6>2606:4700:0030:0000:0000:0000:681b:9c2f</ipv6>
  <ipv6>2606:4700:0030:0000:0000:0000:681b:9d2f</ipv6>
 </content>
+<content id="1269499" includeTime="2026-07-13T15:20:02" entryType="1" hash="43B90B6E16497A0A7DF53D1960CEF9AC" blockType="domain-mask" ts="2026-07-13T15:20:02">
+ <decision date="2018-12-20" number="2018-12-19-746-АЛК" org="Росалкогольрегулирование"/>
+ <domain><![CDATA[*.alcobutik.info]]></domain>
+ <ip>5.45.80.61</ip>
+</content>
 <content id="1269661" includeTime="2018-12-22T09:02:14" entryType="1" hash="8480D5EFC418194BF4AA8C64B51E0031" blockType="domain-mask" ts="2018-12-22T09:02:14">
  <decision date="2015-11-23" number="2-6-27/115" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.f6b859.olimpef97.site]]></domain>
@@ -3529,12 +3534,6 @@
  <url><![CDATA[http://vuvido.com/video/YFxOHbbm3G4/1/]]></url>
  <domain><![CDATA[vuvido.com]]></domain>
  <ip>198.54.116.225</ip>
-</content>
-<content id="1271596" includeTime="2019-03-13T20:13:34" entryType="1" hash="6EAF1C202B0C78A0AE7B5A0320EC0749" ts="2019-03-13T20:13:34">
- <decision date="2015-11-20" number="1-868/2015" org="Уссурийский районный суд - Приморский край"/>
- <url><![CDATA[http://www.kontrast.org.ua/news/1867.html]]></url>
- <domain><![CDATA[www.kontrast.org.ua]]></domain>
- <ip>178.238.226.51</ip>
 </content>
 <content id="1271664" includeTime="2019-07-17T19:02:34" urgencyType="1" entryType="3" hash="7CF203BE6D6415620934255DFCFCD250" ts="2019-07-17T19:02:34">
  <decision date="2015-04-03" number="" org=""/>
