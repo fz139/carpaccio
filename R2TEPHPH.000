@@ -4925,11 +4925,6 @@
  <domain><![CDATA[*.transy-msk.club]]></domain>
  <ip>5.187.2.15</ip>
 </content>
-<content id="9985742" includeTime="2026-06-15T14:05:02" entryType="1" hash="92AC6FDA397110C90CF18D16A8C2C4E2" blockType="domain" ts="2026-06-15T14:05:02">
- <decision date="2026-03-05" number="2а-312/2026" org="Люблинский районный суд - Москва"/>
- <domain><![CDATA[a.transy-msk.club]]></domain>
- <ip>5.187.2.15</ip>
-</content>
 <content id="9985743" includeTime="2026-06-15T14:05:02" entryType="1" hash="50329095B829EDE8428173ACCFA5FE15" blockType="domain-mask" ts="2026-06-15T14:05:02">
  <decision date="2021-05-24" number="2а-486/2021" org="Кировский районный суд - Приморский край"/>
  <domain><![CDATA[*.nbkirov.com]]></domain>
@@ -9955,6 +9950,11 @@
  <domain><![CDATA[*.mostbet-weik.top]]></domain>
  <ip>212.162.152.40</ip>
 </content>
+<content id="9987949" includeTime="2026-07-14T23:55:02" entryType="1" hash="0D5307E7554AE09C8BB79BAEB981DDF9" blockType="domain-mask" ts="2026-07-14T23:55:02">
+ <decision date="2026-03-10" number="2026-03-10-89382" org="МВД"/>
+ <domain><![CDATA[*.sem14r43.top]]></domain>
+ <ip>83.147.18.165</ip>
+</content>
 <content id="9987950" includeTime="2026-06-16T23:15:01" entryType="1" hash="3E39CE4EFF4568F4FC5FB60A8B7BBB2F" blockType="domain" ts="2026-06-16T23:15:01">
  <decision date="2026-06-08" number="2026-05-19-2918" org="МВД"/>
  <domain><![CDATA[techno-by.ru]]></domain>
@@ -14358,12 +14358,6 @@
  <domain><![CDATA[315ya.tartugi.site]]></domain>
  <ip>144.124.242.65</ip>
 </content>
-<content id="9990671" includeTime="2026-06-15T17:05:02" entryType="2" hash="F97021FF7875D6440453F0FDB97035FA" ts="2026-06-15T17:05:02">
- <decision date="2024-03-25" number="определение о предварительном обеспечении по заявлению № 2И-6352/2024" org="Мосгорсуд"/>
- <url><![CDATA[https://526mari.kino24.uno/novinki/102106-adam-i-eva-2024.html]]></url>
- <domain><![CDATA[526mari.kino24.uno]]></domain>
- <ip>144.124.242.65</ip>
-</content>
 <content id="9990672" includeTime="2026-06-15T17:05:02" entryType="2" hash="15A9F900B61E218AB1804B0BE411637E" ts="2026-06-15T17:05:02">
  <decision date="2024-03-25" number="определение о предварительном обеспечении по заявлению № 2И-6352/2024" org="Мосгорсуд"/>
  <url><![CDATA[https://826mari.kino24.uno/novinki/102106-adam-i-eva-2024.html]]></url>
@@ -14530,12 +14524,6 @@
  <decision date="2024-06-25" number="определение о предварительном обеспечении по заявлению № 2И-13554/2024" org="Мосгорсуд"/>
  <url><![CDATA[https://26ma.tartugi.pro/9302-ledi-bag-i-super-kot-1-6-sezon-1-18-seriya-07-05-1000.html]]></url>
  <domain><![CDATA[26ma.tartugi.pro]]></domain>
- <ip>144.124.242.65</ip>
-</content>
-<content id="9990699" includeTime="2026-06-15T17:05:02" entryType="2" hash="8F5E145FC715020199BB59D649C78540" ts="2026-06-15T17:05:02">
- <decision date="2024-06-25" number="определение о предварительном обеспечении по заявлению № 2И-13554/2024" org="Мосгорсуд"/>
- <url><![CDATA[https://526mari.kino24.uno/multsseril/9302-ledi-bag-i-super-kot-1-6-sezon-1-15-seriya.html]]></url>
- <domain><![CDATA[526mari.kino24.uno]]></domain>
  <ip>144.124.242.65</ip>
 </content>
 <content id="9990700" includeTime="2026-06-15T17:05:02" entryType="2" hash="D6F59212940BA3E5BCC65842E9189311" ts="2026-06-15T17:05:02">
@@ -15444,9 +15432,10 @@
  <domain><![CDATA[soderzhanki.lordfilm9.ink]]></domain>
  <ip>5.8.248.172</ip>
 </content>
-<content id="9992309" includeTime="2026-06-22T17:25:02" entryType="2" hash="DE32C7147F5FD28C3D0771A5845ECAA8" ts="2026-06-22T17:25:02">
+<content id="9992309" includeTime="2026-06-22T17:25:02" entryType="2" hash="DBD45ED529AFCDBA8336D4F0CAADFC02" ts="2026-07-15T20:55:02">
  <decision date="2025-02-25" number="определение о предварительном обеспечении по заявлению № 2И-2821/2025" org="Мосгорсуд"/>
  <url><![CDATA[https://granica.domashny.lat/]]></url>
+ <url><![CDATA[https://granica.domashny.lat/991-granica-mirov.html]]></url>
  <domain><![CDATA[granica.domashny.lat]]></domain>
  <ip>89.105.213.225</ip>
 </content>

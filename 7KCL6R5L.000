@@ -10898,15 +10898,6 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:d2c0</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:2d44</ipv6>
 </content>
-<content id="9079630" includeTime="2025-11-24T14:20:08" entryType="1" hash="1F1D99272903E42CC62A9FD721F536FE" ts="2025-11-24T14:20:08">
- <decision date="2025-11-20" number="3544836-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://r1.rumedia.top/4050-s-lyubovyu-saymon-film-2018.html]]></url>
- <domain><![CDATA[r1.rumedia.top]]></domain>
- <ip>104.21.47.198</ip>
- <ip>172.67.172.111</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:ac6f</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:6815:2fc6</ipv6>
-</content>
 <content id="9079631" includeTime="2025-11-24T14:20:08" entryType="1" hash="E8A79708F92AAA5B6D2E19E71871629C" ts="2025-11-24T14:20:08">
  <decision date="2025-11-20" number="3544837-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://rezka-kz.net/films/drama/27403-s-lyubovyu-saymon-2018.html]]></url>
@@ -33773,10 +33764,10 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:503c</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:aeb8</ipv6>
 </content>
-<content id="9086651" includeTime="2025-11-22T00:20:04" entryType="1" hash="672B13796B6A7B6418B6873199983C07" blockType="domain-mask" ts="2025-11-22T00:20:04">
+<content id="9086651" includeTime="2025-11-22T00:20:04" entryType="1" hash="2D10D5CA2D92FDE06BCFA5AD1FE93DCD" blockType="domain-mask" ts="2026-07-15T13:35:02">
  <decision date="2025-09-15" number="2-6-14/2025-09-12-2285-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.kometa-casino-1.com]]></domain>
- <ip>185.178.208.160</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9086652" includeTime="2025-11-22T00:20:04" entryType="1" hash="9FB245E1D430DEBBC5436F5B0FD2C334" blockType="domain-mask" ts="2025-11-22T00:20:04">
  <decision date="2025-09-15" number="2-6-14/2025-09-12-2285-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
@@ -46129,10 +46120,10 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="9091497" includeTime="2025-11-25T13:50:04" entryType="1" hash="437512B66665978ADACCCEE5F08AAE28" blockType="domain-mask" ts="2025-11-25T13:50:04">
+<content id="9091497" includeTime="2025-11-25T13:50:04" entryType="1" hash="86F95AEADA62DA40F6E7E781C4323FF2" blockType="domain-mask" ts="2026-07-15T15:50:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.kra41cca.online]]></domain>
- <ip>92.255.111.71</ip>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9091498" includeTime="2025-11-25T13:50:04" entryType="1" hash="258F5B474A2DB0BB7626680C8D0D77D4" blockType="domain-mask" ts="2025-11-25T13:50:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -47195,10 +47186,13 @@
  <domain><![CDATA[*.trips56.cc]]></domain>
  <ip>185.178.208.147</ip>
 </content>
-<content id="9091707" includeTime="2025-11-25T13:50:04" entryType="1" hash="B52761F55C30DB2E448A6C90BACCBA01" blockType="domain-mask" ts="2025-11-25T13:50:04">
+<content id="9091707" includeTime="2025-11-25T13:50:04" entryType="1" hash="222AE587C65627D8A61C3A6598661C7C" blockType="domain-mask" ts="2026-07-15T13:35:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.trips55.cc]]></domain>
- <ip>185.178.208.160</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="9091708" includeTime="2025-11-25T13:50:04" entryType="1" hash="E06EDA7A853169C4BD26ECB9D9F8172C" blockType="domain-mask" ts="2025-11-25T13:50:04">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>

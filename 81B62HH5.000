@@ -3795,9 +3795,9 @@
  <domain><![CDATA[lordfilmkptj.lol]]></domain>
  <ip>185.224.215.247</ip>
 </content>
-<content id="10093764" includeTime="2026-07-06T13:45:02" entryType="5" hash="1FEF1C5022D3E96649CDBCCC0076B154" blockType="domain" ts="2026-07-06T13:45:02">
+<content id="10093764" includeTime="2026-07-06T13:45:02" entryType="5" hash="07DFE198C45FC1BEADAC268F301FCAEF" blockType="domain-mask" ts="2026-07-15T12:20:01">
  <decision date="2026-07-06" number="Пб/154972" org="Роскомнадзор"/>
- <domain><![CDATA[katanabest.click]]></domain>
+ <domain><![CDATA[*.katanabest.click]]></domain>
  <ip>185.193.125.40</ip>
 </content>
 <content id="10093765" includeTime="2026-07-06T13:45:02" entryType="5" hash="77C83479150FCB957C19E63517A5B232" blockType="domain" ts="2026-07-06T13:45:02">
@@ -4214,9 +4214,11 @@
  <domain><![CDATA[krasnye-linii-new1.lordfilm1.fit]]></domain>
  <ip>80.85.141.132</ip>
 </content>
-<content id="10094037" includeTime="2026-07-13T19:25:02" entryType="2" hash="ADDD926C7D7F3FC08A5750384FBD8334" ts="2026-07-13T19:25:02">
+<content id="10094037" includeTime="2026-07-13T19:25:02" entryType="2" hash="38FA6631D963192C5DC4F3688EEAC533" ts="2026-07-15T20:55:02">
  <decision date="2026-04-01" number="определение о предварительном обеспечении по заявлению № 2И-3048/2026" org="Мосгорсуд"/>
  <url><![CDATA[https://zakulisyerealnosti-1tv.monster/]]></url>
+ <url><![CDATA[https://zakulisyerealnosti-1tv.monster/1tv/1?.1tv]]></url>
+ <url><![CDATA[https://zakulisyerealnosti-1tv.monster/1tv/zakulise-realnosti-online?.1tv]]></url>
  <url><![CDATA[https://zakulisyerealnosti-1tv.monster/1tv/zakulise-realnosti-prjamoj-jefir?.1tv]]></url>
  <domain><![CDATA[zakulisyerealnosti-1tv.monster]]></domain>
  <ip>188.137.254.233</ip>
@@ -8006,11 +8008,6 @@
  <url><![CDATA[https://attestateasy-xxpvcwj.live/catalog/srednee-polnoe]]></url>
  <domain><![CDATA[attestateasy-xxpvcwj.live]]></domain>
  <ip>145.63.129.106</ip>
-</content>
-<content id="10095261" includeTime="2026-07-08T07:15:03" entryType="1" hash="808F9F6FDB718E595C0E9E5F5F7DC70E" blockType="domain-mask" ts="2026-07-08T07:15:03">
- <decision date="2026-07-03" number="2а-441/2026" org="Буйский районный суд - Костромская область"/>
- <domain><![CDATA[*.otvets1.ru]]></domain>
- <ip>85.239.62.166</ip>
 </content>
 <content id="10095262" includeTime="2026-07-08T07:15:03" entryType="1" hash="9219F5B1E0AD7BFF3C6237EF188DC678" ts="2026-07-08T07:15:03">
  <decision date="2026-07-03" number="2а-441/2026" org="Буйский районный суд - Костромская область"/>
