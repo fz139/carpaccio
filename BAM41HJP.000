@@ -6314,10 +6314,10 @@
  <ip>31.42.177.77</ip>
  <ip>91.234.199.223</ip>
 </content>
-<content id="9388767" includeTime="2026-02-06T00:15:03" entryType="1" hash="1D1C12CB8329A3943ED6A0469C62BD5C" blockType="domain" ts="2026-02-06T00:15:03">
+<content id="9388767" includeTime="2026-02-06T00:15:03" entryType="1" hash="6C20EEC4595F1D44774F9CD3515C9BC3" blockType="domain-mask" ts="2026-07-16T23:45:02">
  <decision date="2026-02-03" number="3713971-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[chohanpohan.com]]></domain>
- <ip>178.162.153.208</ip>
+ <domain><![CDATA[*.chohanpohan.com]]></domain>
+ <ip>178.162.153.211</ip>
 </content>
 <content id="9388770" includeTime="2026-02-04T14:50:04" entryType="1" hash="E10AAF035141F1F653BE416BA602018B" blockType="domain" ts="2026-02-04T14:50:04">
  <decision date="2026-02-03" number="3713974-URL-on" org="Роскомнадзор"/>
@@ -6893,12 +6893,6 @@
  <url><![CDATA[https://omnirezka.tv/films/thriller/17788-serbskiy-film-2010.html]]></url>
  <domain><![CDATA[omnirezka.tv]]></domain>
  <ip>82.221.105.32</ip>
-</content>
-<content id="9389022" includeTime="2026-02-06T00:15:03" entryType="1" hash="C153A47BF246A40BD7F2835842C88352" ts="2026-02-06T00:15:03">
- <decision date="2026-02-03" number="3714226-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://serbskij-film-2010.1films.biz/serbskij-film-2010]]></url>
- <domain><![CDATA[serbskij-film-2010.1films.biz]]></domain>
- <ip>80.85.141.253</ip>
 </content>
 <content id="9389024" includeTime="2026-02-06T00:15:03" entryType="1" hash="D2A31F9F4E234F6611CB5607A6D1E4C8" blockType="domain" ts="2026-02-06T00:15:03">
  <decision date="2026-02-03" number="3714228-URL-on" org="Роскомнадзор"/>
@@ -7484,13 +7478,6 @@
  <url><![CDATA[https://thetalkingthyroid.com/phpbb3/viewtopic.php?t=181029]]></url>
  <domain><![CDATA[thetalkingthyroid.com]]></domain>
  <ip>68.178.221.206</ip>
-</content>
-<content id="9389131" includeTime="2026-02-06T00:15:03" entryType="1" hash="9AE7D476244CC0742FD8993EF6C4B509" ts="2026-02-06T00:15:03">
- <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://tobehealthy.cz/ru/kraken-narkotiki-kak-otlichit-kraken-ot-_4801.html]]></url>
- <domain><![CDATA[tobehealthy.cz]]></domain>
- <ip>185.102.21.101</ip>
- <ipv6>2001:0880:0000:0015:0000:0000:0000:01b2</ipv6>
 </content>
 <content id="9389132" includeTime="2026-02-06T00:15:03" entryType="1" hash="3DDADFDF330342BC734961B629FB7D3B" ts="2026-02-06T00:15:03">
  <decision date="2025-11-24" number="2025-11-24-631" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>

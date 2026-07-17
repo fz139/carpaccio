@@ -5439,20 +5439,26 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="9961002" includeTime="2026-06-09T14:10:02" entryType="1" hash="77687D26030C57AEC8526CBD9DD73C58" blockType="domain-mask" ts="2026-06-09T14:10:02">
+<content id="9961002" includeTime="2026-06-09T14:10:02" entryType="1" hash="A597529EAA590787FDB37C5826C2D236" blockType="domain-mask" ts="2026-07-16T16:15:02">
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.trip75c.co]]></domain>
- <ip>185.178.208.146</ip>
+ <ip>104.21.3.34</ip>
+ <ip>172.67.130.41</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:8229</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:0322</ipv6>
 </content>
-<content id="9961003" includeTime="2026-06-09T14:10:02" entryType="1" hash="B4520C9D91203809FE3CBE2AFC64D89B" blockType="domain-mask" ts="2026-06-09T14:10:02">
+<content id="9961003" includeTime="2026-06-09T14:10:02" entryType="1" hash="0517F00E36D639E612FC8DC36170441C" blockType="domain-mask" ts="2026-07-16T16:15:02">
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.tripscan75c.cc]]></domain>
- <ip>185.178.208.188</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5d15</ipv6>
 </content>
-<content id="9961004" includeTime="2026-06-09T14:10:02" entryType="1" hash="8712C33FE66C7533C261BC2F0AB68D6A" blockType="domain-mask" ts="2026-06-09T14:10:02">
+<content id="9961004" includeTime="2026-06-09T14:10:02" entryType="1" hash="1550DB4184515C9DB2B2022565DCDFF1" blockType="domain-mask" ts="2026-07-16T16:15:02">
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.trip75c.cc]]></domain>
- <ip>185.178.208.137</ip>
+ <ip>104.21.0.194</ip>
+ <ip>172.67.128.58</ip>
 </content>
 <content id="9961007" includeTime="2026-06-10T00:20:02" entryType="1" hash="97CC7F89F64AB3244AB433F079E45967" blockType="domain" ts="2026-06-10T00:20:02">
  <decision date="2026-06-05" number="2026-05-26-4579" org="МВД"/>
