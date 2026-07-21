@@ -2421,11 +2421,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="6243472" includeTime="2023-08-02T09:55:02" entryType="1" hash="9857650CD5C3036274BFE912808B68F2" blockType="domain" ts="2023-08-02T09:55:02">
- <decision date="2023-07-27" number="2а-2347/2023" org="Заводской районный суд г. Орла - Орловская область"/>
- <domain><![CDATA[msk12.slustena.net]]></domain>
- <ip>178.32.116.148</ip>
-</content>
 <content id="6243474" includeTime="2023-08-01T21:25:02" entryType="1" hash="2E5BF63121DBDDA17D4CC73FDDD40EDD" blockType="domain" ts="2023-08-01T21:25:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[play.vulkan-deluxe-mirror.pp.ru]]></domain>
@@ -38979,11 +38974,6 @@
  <ipv6>2606:4700:3035:0000:0000:0000:6815:4813</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:adc2</ipv6>
 </content>
-<content id="6263515" includeTime="2023-08-11T14:15:02" entryType="1" hash="081B95C03314BD7968F866668C94113F" blockType="domain" ts="2026-07-16T15:20:02">
- <decision date="2023-07-25" number="2а-5633/2023" org="Ленинский районный суд г. Оренбурга - Оренбургская область"/>
- <domain><![CDATA[orenburg.kupitpravan.com]]></domain>
- <ip>104.28.7.67</ip>
-</content>
 <content id="6263516" includeTime="2023-08-10T00:15:02" entryType="1" hash="B6EE525A297EDC1E391F643749D96FD8" blockType="domain-mask" ts="2023-08-10T00:15:02">
  <decision date="2017-10-31" number="2-6-20/2017-10-31-74-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.vulkan-apk.ru]]></domain>
@@ -39263,8 +39253,9 @@
  <ip>18.239.94.57</ip>
  <ip>18.239.94.92</ip>
 </content>
-<content id="6263658" includeTime="2023-08-11T14:15:02" entryType="1" hash="D50B744CDAF9AFF55382C028263FBAE8" blockType="domain" ts="2026-07-16T15:20:02">
+<content id="6263658" includeTime="2023-08-11T14:15:02" entryType="1" hash="AC3C14FAA2C6443B71EAF564AA9A81A6" ts="2026-07-20T13:40:02">
  <decision date="2023-07-25" number="2а-5633/2023" org="Ленинский районный суд г. Оренбурга - Оренбургская область"/>
+ <url><![CDATA[https://onpravat.com/]]></url>
  <domain><![CDATA[onpravat.com]]></domain>
  <ip>104.28.7.67</ip>
 </content>

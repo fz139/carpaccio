@@ -377,17 +377,9 @@
  <domain><![CDATA[btc.intimcity.llc]]></domain>
  <ip>195.3.221.119</ip>
 </content>
-<content id="8746350" includeTime="2025-09-12T14:05:03" entryType="1" hash="8C92BB618F3104135ADFA2BCC8D892ED" blockType="domain" ts="2025-09-12T14:05:03">
+<content id="8746350" includeTime="2025-09-12T14:05:03" entryType="1" hash="297D6734EA8B313E1A31D35618170B8F" blockType="domain-mask" ts="2026-07-20T13:40:02">
  <decision date="2024-08-01" number="2а-642/2024" org="Агинский районный суд - Забайкальский край"/>
- <domain><![CDATA[devochki.today]]></domain>
- <ip>104.21.27.87</ip>
- <ip>172.67.169.20</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:a914</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:1b57</ipv6>
-</content>
-<content id="8746351" includeTime="2025-09-12T14:05:03" entryType="1" hash="E45C11C77FF7AB238A5799A7189F31DD" blockType="domain" ts="2025-09-12T14:05:03">
- <decision date="2024-08-01" number="2а-642/2024" org="Агинский районный суд - Забайкальский край"/>
- <domain><![CDATA[msk.devochki.today]]></domain>
+ <domain><![CDATA[*.devochki.today]]></domain>
  <ip>104.21.27.87</ip>
  <ip>172.67.169.20</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a914</ipv6>
