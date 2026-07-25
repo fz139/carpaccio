@@ -5649,10 +5649,11 @@
  <ip>54.37.75.68</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:7f4d</ipv6>
 </content>
-<content id="6613790" includeTime="2025-06-06T07:00:03" entryType="1" hash="847C8AC045EEE97D3B2B7C9A93383CB2" blockType="domain" ts="2025-06-06T07:00:03">
+<content id="6613790" includeTime="2025-06-06T07:00:03" entryType="1" hash="C0FE4F525A1DBB23A3D2A75B04B66236" blockType="domain-mask" ts="2026-07-24T13:30:01">
  <decision date="2021-08-13" number="2а-168/2021" org="Таганский районный суд - Москва"/>
- <domain><![CDATA[glaz-boga.biz]]></domain>
- <ip>198.54.115.33</ip>
+ <domain><![CDATA[*.glaz-boga.biz]]></domain>
+ <ip>188.137.243.200</ip>
+ <ipv6>2a13:4ac0:0018:0001:f816:3eff:fe56:65a8</ipv6>
 </content>
 <content id="6613791" includeTime="2023-12-28T22:15:04" entryType="1" hash="84791958F84CC3475662D5FE00E5FF66" blockType="domain-mask" ts="2023-12-28T22:15:04">
  <decision date="2017-06-20" number="2-6-20/2017-06-20-319-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
