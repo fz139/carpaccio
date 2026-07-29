@@ -1056,9 +1056,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:bdda</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:6815:0a09</ipv6>
 </content>
-<content id="7413453" includeTime="2024-09-14T00:50:03" entryType="1" hash="F1D2951645293B9D27CE5AEF46B6F561" blockType="domain" ts="2024-09-14T00:50:03">
+<content id="7413453" includeTime="2024-09-14T00:50:03" entryType="1" hash="BFC2B8613A20DF8FCAC42BF5CF4E79C8" blockType="domain-mask" ts="2026-07-28T23:10:01">
  <decision date="2024-09-07" number="2024-08-21-3790-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[vpnproxymaster.com]]></domain>
+ <domain><![CDATA[*.vpnproxymaster.com]]></domain>
  <ip>18.165.122.107</ip>
  <ip>18.165.122.117</ip>
  <ip>18.165.122.58</ip>
