@@ -6259,15 +6259,21 @@
  <domain><![CDATA[*.888pm.casino]]></domain>
  <ip>89.124.68.45</ip>
 </content>
-<content id="9318656" includeTime="2026-01-22T00:05:04" entryType="1" hash="64884890B7FD39028C3B7EB3C691A418" blockType="domain-mask" ts="2026-01-22T00:05:04">
+<content id="9318656" includeTime="2026-01-22T00:05:04" entryType="1" hash="DF1CC69BB806FADAF5D4EB85402CCE8E" blockType="domain-mask" ts="2026-08-07T14:25:02">
  <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.trips64.cc]]></domain>
- <ip>89.223.67.246</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="9318657" includeTime="2026-01-22T00:05:04" entryType="1" hash="B32D1362A84B5064A1CB868112CC9CCC" blockType="domain-mask" ts="2026-01-22T00:05:04">
+<content id="9318657" includeTime="2026-01-22T00:05:04" entryType="1" hash="7595A2625CBD429C7D7BD141F8490C56" blockType="domain-mask" ts="2026-08-07T14:25:02">
  <decision date="2025-11-24" number="2025-11-24-1986" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.tripscan101.cc]]></domain>
- <ip>89.223.67.246</ip>
+ <ip>104.21.50.96</ip>
+ <ip>172.67.159.239</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:3260</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:9fef</ipv6>
 </content>
 <content id="9318659" includeTime="2026-01-21T17:35:04" entryType="1" hash="E8D44417D2CE804B942FFF2977B39933" blockType="domain-mask" ts="2026-01-21T17:35:04">
  <decision date="2026-01-19" number="2-6-14/2026-01-17-30104-АИ" org="ФНС"/>

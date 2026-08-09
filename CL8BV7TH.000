@@ -616,11 +616,6 @@
  <domain><![CDATA[*.kazino50rublej.space]]></domain>
  <ip>217.12.206.28</ip>
 </content>
-<content id="9553012" includeTime="2026-03-16T14:00:08" entryType="1" hash="0827C89724C66D354E073A6419FE837E" blockType="domain" ts="2026-03-16T14:00:08">
- <decision date="2026-03-12" number="3800878-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[sex11.prostitutkimoskvyarea.net]]></domain>
- <ip>185.245.104.193</ip>
-</content>
 <content id="9553013" includeTime="2026-03-16T14:00:08" entryType="1" hash="63C84FC1877143CCA0256127E4DD6803" blockType="domain" ts="2026-03-16T14:00:08">
  <decision date="2026-03-12" number="3800879-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[sex.prostitutkimoskvygo.com]]></domain>
@@ -1756,10 +1751,10 @@
  <domain><![CDATA[*.krab6.cfd]]></domain>
  <ip>104.28.7.67</ip>
 </content>
-<content id="9553289" includeTime="2026-03-13T14:25:06" entryType="1" hash="A4272DB85538D9FFDCD04346F4BFDAA1" blockType="domain-mask" ts="2026-03-17T14:20:08">
+<content id="9553289" includeTime="2026-03-13T14:25:06" entryType="1" hash="2DD942CC6CAF2CBD8F609A68CB7BEF43" blockType="domain-mask" ts="2026-08-07T13:25:02">
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.bs-lp.cfd]]></domain>
- <ip>5.42.114.221</ip>
+ <ip>107.189.24.137</ip>
 </content>
 <content id="9553290" includeTime="2026-03-13T14:25:06" entryType="1" hash="BAA4DD07D719EB9918B8E11C9ABE7DA8" blockType="domain-mask" ts="2026-03-13T14:25:06">
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -8469,10 +8464,13 @@
  <domain><![CDATA[*.slion3.cc]]></domain>
  <ip>193.105.134.38</ip>
 </content>
-<content id="9555454" includeTime="2026-03-16T14:00:08" entryType="1" hash="BAF5DB22601277CB1CF68F58FA4F67B1" blockType="domain-mask" ts="2026-03-23T12:25:03">
+<content id="9555454" includeTime="2026-03-16T14:00:08" entryType="1" hash="4C3D6CAB55172CCA9551EAA677B473C9" blockType="domain-mask" ts="2026-08-07T11:55:02">
  <decision date="2026-03-12" number="2026-03-12-81107" org="МВД"/>
  <domain><![CDATA[*.krtt.cc]]></domain>
- <ip>80.66.78.34</ip>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="9555458" includeTime="2026-03-16T14:00:08" entryType="1" hash="0F20B465ADB0F0BB1B5AF02C193BCADA" blockType="domain-mask" ts="2026-03-16T14:00:08">
  <decision date="2026-03-12" number="2026-03-12-80534" org="МВД"/>

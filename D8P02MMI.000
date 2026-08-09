@@ -3934,24 +3934,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="9356732" includeTime="2026-01-30T14:30:04" entryType="1" hash="12B388FA50E6BD79D9BAD241889B7D80" ts="2026-01-30T14:30:04">
- <decision date="2026-01-27" number="3696060-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://pixv.ws/images/0571jbcam26396jblover.jpg]]></url>
- <domain><![CDATA[pixv.ws]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="9356733" includeTime="2026-01-30T14:30:04" entryType="1" hash="DA1D9EAD8D464EA3B86D9EEC8405F907" ts="2026-01-30T14:30:04">
- <decision date="2026-01-27" number="3696061-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://pixv.ws/images/0577jbcam12906jblover.jpg]]></url>
- <domain><![CDATA[pixv.ws]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="9356734" includeTime="2026-01-30T14:30:04" entryType="1" hash="00DE662C3E49209D71D83F793F5695A8" ts="2026-01-30T14:30:04">
  <decision date="2026-01-27" number="3696062-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[https://media.baraag.net/media_attachments/files/115/869/092/259/752/599/original/15d01b5db05e14e6.jpg]]></url>
@@ -5890,11 +5872,6 @@
  <decision date="2026-01-27" number="3696844-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[zharkoe-sopernichestvo.lordfilm822.lat]]></domain>
  <ip>45.14.14.106</ip>
-</content>
-<content id="9357521" includeTime="2026-01-30T14:30:04" entryType="1" hash="FD707EAC88C27F649013DA6ADB3A2541" blockType="domain" ts="2026-01-30T14:30:04">
- <decision date="2026-01-27" number="3696849-URL-on" org="Роскомнадзор"/>
- <domain><![CDATA[sex9.prostitutkimoskvyarea.net]]></domain>
- <ip>185.245.104.193</ip>
 </content>
 <content id="9357524" includeTime="2026-01-30T14:30:04" entryType="1" hash="475DDFC62E7D0C617D40AB78730AEC0C" ts="2026-01-30T14:30:04">
  <decision date="2026-01-27" number="3696852-URL-on" org="Роскомнадзор"/>
@@ -31186,11 +31163,10 @@
  <domain><![CDATA[*.happvpn.pro]]></domain>
  <ip>144.31.94.8</ip>
 </content>
-<content id="9366026" includeTime="2026-02-02T15:45:05" entryType="1" hash="08DF7E760B340675015BA38652B85519" blockType="domain-mask" ts="2026-02-02T15:45:05">
+<content id="9366026" includeTime="2026-02-02T15:45:05" entryType="1" hash="111BF27E955DF1A12F8911F0ADA9AFC0" blockType="domain-mask" ts="2026-08-07T15:05:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.v2raytun-tut.ru]]></domain>
- <ip>188.225.63.143</ip>
- <ipv6>2a03:6f00:0006:0001:0000:0000:bce1:3f8f</ipv6>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="9366027" includeTime="2026-02-02T15:45:05" entryType="1" hash="2890C653FC100AA55A3B590B1F98CCAF" blockType="domain-mask" ts="2026-02-02T15:45:05">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>

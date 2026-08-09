@@ -6314,9 +6314,9 @@
  <domain><![CDATA[sdsmnent.store]]></domain>
  <ip>102.208.217.22</ip>
 </content>
-<content id="9743172" includeTime="2026-04-27T15:45:02" entryType="1" hash="C910F523B07561F8C8351C56F96EA422" blockType="domain" ts="2026-04-27T15:45:02">
+<content id="9743172" includeTime="2026-04-27T15:45:02" entryType="1" hash="57D97595A3DC5A06BE66A375E171FC34" blockType="domain-mask" ts="2026-08-03T23:40:02">
  <decision date="2026-03-06" number="2а-1-3361/2026" org="Калужский районный суд - Калужская область"/>
- <domain><![CDATA[shop-sigaret.com]]></domain>
+ <domain><![CDATA[*.shop-sigaret.com]]></domain>
  <ip>185.81.129.40</ip>
 </content>
 <content id="9743174" includeTime="2026-04-27T15:45:02" entryType="1" hash="0337D6E09C72C54075D449563E85103D" blockType="domain" ts="2026-04-27T15:45:02">
@@ -7100,15 +7100,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:d727</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:35a0</ipv6>
 </content>
-<content id="9744581" includeTime="2026-04-23T17:15:02" entryType="2" hash="9FAE978965F1FB91B50663B41F8FA5EF" ts="2026-04-23T17:15:02">
- <decision date="2021-12-14" number="определение о предварительном обеспечении по заявлению № 2И-15557/2021" org="Мосгорсуд"/>
- <url><![CDATA[https://tv.lordseriall.cv/3296-zena-oligarxa-756.html]]></url>
- <domain><![CDATA[tv.lordseriall.cv]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
 <content id="9744582" includeTime="2026-04-23T17:15:02" entryType="2" hash="FFD8191B8ACC4CAC8C67B5A8CF92343A" ts="2026-04-23T17:15:02">
  <decision date="2026-03-23" number="определение о предварительном обеспечении по заявлению № 2И-2690/2026" org="Мосгорсуд"/>
  <url><![CDATA[https://gudbaj-6.lordfilmok.fyi/1012-pastbischa-bogov.html]]></url>
@@ -7246,15 +7237,6 @@
  <ip>172.67.141.201</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:291b</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:8dc9</ipv6>
-</content>
-<content id="9744603" includeTime="2026-04-23T17:15:02" entryType="2" hash="FC6A78FEA7D4D549F7605FAE90BE8E95" ts="2026-04-23T17:15:02">
- <decision date="2025-02-28" number="определение о предварительном обеспечении по заявлению № 2И-3040/2025" org="Мосгорсуд"/>
- <url><![CDATA[https://tv.lordseriall.cv/12680-prorok-istoriia-aleksandra-puskina-826.html]]></url>
- <domain><![CDATA[tv.lordseriall.cv]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="9744605" includeTime="2026-04-23T17:15:02" entryType="2" hash="CDA6E19AD246368C7ADB898E74E90BB7" ts="2026-05-08T17:40:02">
  <decision date="2025-11-20" number="определение о предварительном обеспечении по заявлению № 2И-16236/2025" org="Мосгорсуд"/>
@@ -7866,15 +7848,6 @@
  <ip>172.67.141.201</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:291b</ipv6>
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:8dc9</ipv6>
-</content>
-<content id="9744702" includeTime="2026-04-23T17:15:02" entryType="2" hash="D4F5A9E62EC746C374E42CE4EBEC0EEB" ts="2026-04-23T17:15:02">
- <decision date="2022-11-14" number="определение о предварительном обеспечении по заявлению № 2И-12573/2022" org="Мосгорсуд"/>
- <url><![CDATA[https://tv.lordseriall.cv/5534-sny-808.html]]></url>
- <domain><![CDATA[tv.lordseriall.cv]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="9744703" includeTime="2026-04-23T17:15:02" entryType="2" hash="81C1E8C02C410C2D078FC9B0D2C55DC9" ts="2026-04-23T17:15:02">
  <decision date="2024-08-20" number="определение о предварительном обеспечении по заявлению № 2И-17284/2024" org="Мосгорсуд"/>
@@ -8563,8 +8536,9 @@
  <domain><![CDATA[follaut-2.megogo.one]]></domain>
  <ip>89.105.213.225</ip>
 </content>
-<content id="9744820" includeTime="2026-04-23T17:15:02" entryType="2" hash="F819B6646B201112EF7D541C0EE2B6DC" ts="2026-04-23T17:15:02">
+<content id="9744820" includeTime="2026-04-23T17:15:02" entryType="2" hash="BEC21C5D93AB4AC09664A143D8375F98" ts="2026-08-06T17:20:02">
  <decision date="2025-12-09" number="определение о предварительном обеспечении по заявлению № 2И-17079/2025" org="Мосгорсуд"/>
+ <url><![CDATA[https://hdmax-kino.cc/51775-doktor-dinozavrov.html]]></url>
  <url><![CDATA[https://hdmax-kino.cc/multfilmy/51775-doktor-dinozavrov.html]]></url>
  <domain><![CDATA[hdmax-kino.cc]]></domain>
  <ip>80.96.59.175</ip>
