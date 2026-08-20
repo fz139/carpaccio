@@ -298,10 +298,13 @@
  <domain><![CDATA[*.notvpn.io]]></domain>
  <ip>65.109.10.129</ip>
 </content>
-<content id="9584107" includeTime="2026-03-23T14:55:03" entryType="1" hash="21E77B2A497C0B9C263292E92A4FDD6C" blockType="domain-mask" ts="2026-03-23T14:55:03">
+<content id="9584107" includeTime="2026-03-23T14:55:03" entryType="1" hash="AEE3F137FD77A7A184CD48058A68B5E9" blockType="domain-mask" ts="2026-08-20T13:10:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.vanyavpn.as]]></domain>
- <ip>185.71.67.143</ip>
+ <ip>104.21.80.220</ip>
+ <ip>172.67.187.73</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:50dc</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:bb49</ipv6>
 </content>
 <content id="9584118" includeTime="2026-03-23T14:55:03" entryType="1" hash="C6C7CC5B2246719F0CDD5E8E9EF12699" blockType="domain-mask" ts="2026-03-23T14:55:03">
  <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
