@@ -1936,6 +1936,16 @@
  <domain><![CDATA[h0lrdfiilm.online]]></domain>
  <ip>185.19.206.119</ip>
 </content>
+<content id="10342161" includeTime="2026-08-20T23:35:02" entryType="1" hash="1800099637115B662F211072AFAE74B0" blockType="domain" ts="2026-08-20T23:35:02">
+ <decision date="2026-08-18" number="2026-08-14-6613-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[vps.giont.ru]]></domain>
+ <ip>104.28.7.67</ip>
+</content>
+<content id="10342162" includeTime="2026-08-20T23:35:02" entryType="1" hash="2635967219F4CC1135ABDAA54D7A29EE" blockType="domain-mask" ts="2026-08-20T23:35:02">
+ <decision date="2026-08-18" number="2026-08-14-6240-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.m24mproxy.work]]></domain>
+ <ip>104.28.7.67</ip>
+</content>
 <content id="10342421" includeTime="2026-08-20T00:30:02" entryType="1" hash="2F57752B97BD82B095D834063052BB2F" blockType="domain-mask" ts="2026-08-20T00:30:02">
  <decision date="2026-08-18" number="2-6-14/2026-08-17-20529-АИ" org="ФНС"/>
  <domain><![CDATA[*.luckybear.casino1508.top]]></domain>
@@ -2213,6 +2223,15 @@
  <domain><![CDATA[*.gost3vds.org]]></domain>
  <ip>194.87.98.25</ip>
 </content>
+<content id="10342575" includeTime="2026-08-20T23:35:02" entryType="1" hash="63205D61978113B07FE2CF80154E54D2" ts="2026-08-20T23:35:02">
+ <decision date="2025-05-12" number="2025-05-12-4014-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[https://purevpn.ru.aptoide.com/app]]></url>
+ <domain><![CDATA[purevpn.ru.aptoide.com]]></domain>
+ <ip>104.20.24.150</ip>
+ <ip>172.66.150.34</ip>
+ <ipv6>2606:4700:0010:0000:0000:0000:6814:1896</ipv6>
+ <ipv6>2606:4700:0010:0000:0000:0000:ac42:9622</ipv6>
+</content>
 <content id="10342576" includeTime="2026-08-20T00:30:02" entryType="1" hash="CF9D44D8DEA38B7F42C288FBFA1592D3" blockType="domain-mask" ts="2026-08-20T00:30:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.matryoshkanet.ru]]></domain>
@@ -2392,11 +2411,49 @@
  <domain><![CDATA[*.tripc88.co]]></domain>
  <ip>45.84.59.52</ip>
 </content>
+<content id="10342884" includeTime="2026-08-20T23:35:02" entryType="1" hash="38F957D57CF8B0BD0626593732CAE8D4" blockType="domain" ts="2026-08-20T23:35:02">
+ <decision date="2026-05-14" number="2а-1365/2026" org="Новочеркасский городской суд - Ростовская область"/>
+ <domain><![CDATA[vamtabak1.ru]]></domain>
+ <ip>185.74.252.202</ip>
+</content>
+<content id="10342885" includeTime="2026-08-20T23:35:02" entryType="1" hash="7F4DF866EB93F1AF52F2378BE039B6C4" ts="2026-08-20T23:35:02">
+ <decision date="2026-07-15" number="2а-2366/2026" org="Новочеркасский городской суд - Ростовская область"/>
+ <url><![CDATA[https://taburastore.shop/]]></url>
+ <domain><![CDATA[taburastore.shop]]></domain>
+ <ip>81.180.93.206</ip>
+</content>
+<content id="10342886" includeTime="2026-08-20T23:35:02" entryType="1" hash="B0B476B561AAB36DD43E2E19847BF57C" ts="2026-08-20T23:35:02">
+ <decision date="2026-07-15" number="2а-2367/2026" org="Новочеркасский городской суд - Ростовская область"/>
+ <url><![CDATA[https://zakazsigaret1.ru/orehovo-zuevo/]]></url>
+ <domain><![CDATA[zakazsigaret1.ru]]></domain>
+ <ip>185.74.252.202</ip>
+</content>
+<content id="10342887" includeTime="2026-08-20T23:35:02" entryType="1" hash="A7AE2E06A2593CD88B153111F3ADD298" blockType="domain" ts="2026-08-20T23:35:02">
+ <decision date="2026-07-30" number="2а-1160/2026" org="Курганинский районный суд - Краснодарский край"/>
+ <domain><![CDATA[c.t-p.cc]]></domain>
+ <ip>185.178.208.159</ip>
+</content>
 <content id="10342888" includeTime="2026-08-20T00:30:02" entryType="1" hash="AF4CD33E095DED9B973073923EFC3A38" ts="2026-08-20T00:30:02">
  <decision date="2026-08-10" number="2а-620/2026" org="Куйбышевский районный суд - Новосибирская область"/>
  <url><![CDATA[https://kuybyshev.lovr.life/]]></url>
  <domain><![CDATA[kuybyshev.lovr.life]]></domain>
  <ip>138.226.242.251</ip>
+</content>
+<content id="10342890" includeTime="2026-08-20T23:35:02" entryType="1" hash="693DBC29FDB6E8D368364371DBE0E5C8" ts="2026-08-20T23:35:02">
+ <decision date="2026-04-21" number="2а-3484/2026" org="Кировский районный суд - Санкт-Петербург"/>
+ <url><![CDATA[http://de.tranny.one/view/1101223]]></url>
+ <domain><![CDATA[de.tranny.one]]></domain>
+ <ip>46.229.171.170</ip>
+</content>
+<content id="10342891" includeTime="2026-08-20T23:35:02" entryType="1" hash="35B3C174F3CEFBB0312798CC4213F767" blockType="domain" ts="2026-08-20T23:35:02">
+ <decision date="2026-07-31" number="2а-223/2026" org="Ольхонский районный суд - Иркутская область"/>
+ <domain><![CDATA[onlinetexosmotr.ru]]></domain>
+ <ip>104.28.7.67</ip>
+</content>
+<content id="10342898" includeTime="2026-08-20T23:35:02" entryType="1" hash="E960B00864628AD7307CE6CDCB4993BE" blockType="domain" ts="2026-08-20T23:35:02">
+ <decision date="2026-08-06" number="2а-1197/2026" org="Свободненский городской суд - Амурская область"/>
+ <domain><![CDATA[наноплёнка.рф]]></domain>
+ <ip>92.53.96.141</ip>
 </content>
 <content id="10342899" includeTime="2026-08-20T00:30:02" entryType="1" hash="69AF72A92FF9FF50CBC5E5242311E793" ts="2026-08-20T00:30:02">
  <decision date="2026-07-08" number="2а-804/2026" org="Свердловский городской суд - Луганская Народная Республика"/>
@@ -2410,6 +2467,21 @@
  <domain><![CDATA[lgn.seex.life]]></domain>
  <ip>138.226.242.251</ip>
 </content>
+<content id="10342953" includeTime="2026-08-20T23:35:02" entryType="1" hash="0211A00D00FDB87FA311D4B102153C6E" ts="2026-08-20T23:35:02">
+ <decision date="2026-08-18" number="2026-08-18-265" org="МВД"/>
+ <url><![CDATA[https://www.teremochek.by/73161.html]]></url>
+ <domain><![CDATA[www.teremochek.by]]></domain>
+ <ip>194.62.19.226</ip>
+</content>
+<content id="10342957" includeTime="2026-08-20T23:35:02" entryType="1" hash="B079D8B8073B622B28668EAFF98AC2CC" ts="2026-08-20T23:35:02">
+ <decision date="2026-03-05" number="2026-03-05-8185" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <url><![CDATA[https://sassopi.com/ru/kupit-mefedron-telegramme-sol-mef-geroin_4935.html]]></url>
+ <domain><![CDATA[sassopi.com]]></domain>
+ <ip>104.21.22.5</ip>
+ <ip>172.67.201.173</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:1605</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:c9ad</ipv6>
+</content>
 <content id="10342966" includeTime="2026-08-20T00:30:02" entryType="1" hash="E1881C6071F161610D0E0E9C51F3B45C" blockType="domain" ts="2026-08-20T00:30:02">
  <decision date="2026-08-19" number="4185477-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[paw.dosugbar39.com]]></domain>
@@ -2422,6 +2494,14 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10342968" includeTime="2026-08-20T23:35:02" entryType="1" hash="B5A9AFE6D1DE3CAAB26F2241FBF9E02D" blockType="domain-mask" ts="2026-08-20T23:35:02">
+ <decision date="2026-08-19" number="4185479-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.off.gay]]></domain>
+ <ip>104.21.92.223</ip>
+ <ip>172.67.199.40</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:5cdf</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:c728</ipv6>
 </content>
 <content id="10342987" includeTime="2026-08-20T00:30:02" entryType="1" hash="5A7AA2573A8ECCD3015FD42D3032E81B" blockType="domain" ts="2026-08-20T00:30:02">
  <decision date="2026-08-19" number="4185498-URL-on" org="Роскомнадзор"/>
