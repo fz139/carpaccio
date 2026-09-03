@@ -636,11 +636,6 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:a0d0</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:6815:0ef6</ipv6>
 </content>
-<content id="10410652" includeTime="2026-09-02T14:05:02" entryType="1" hash="D79150C057DEE78567CBF877C1569E97" blockType="domain" ts="2026-09-02T14:05:02">
- <decision date="2026-08-27" number="2026-08-25-8969-ПЛ" org="Росздравнадзор"/>
- <domain><![CDATA[spb3.apt-india24.com]]></domain>
- <ip>185.247.225.7</ip>
-</content>
 <content id="10410654" includeTime="2026-09-02T14:05:02" entryType="1" hash="5FCAD4917B7B079A86B2C1BF667D4E64" ts="2026-09-02T14:05:02">
  <decision date="2026-08-27" number="2026-08-21-2753-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://farmaQrh.apteka-ru.online/shop/preparaty/mizoprostol/]]></url>
@@ -732,12 +727,6 @@
 <content id="10410683" includeTime="2026-09-02T14:05:02" entryType="1" hash="6E828DA00C1A41ECF56C70F415D52ABA" ts="2026-09-02T14:05:02">
  <decision date="2026-08-28" number="2026-08-27-20627-ПЛ" org="Росздравнадзор"/>
  <url><![CDATA[https://athletic-pharm.com/product/auto-draft-26/]]></url>
- <domain><![CDATA[athletic-pharm.com]]></domain>
- <ip>193.233.15.107</ip>
-</content>
-<content id="10410685" includeTime="2026-09-02T14:05:02" entryType="1" hash="DAB1F41A5C8FD298CCD461CF3CD64676" ts="2026-09-02T14:05:02">
- <decision date="2026-08-28" number="2026-08-27-20601-ПЛ" org="Росздравнадзор"/>
- <url><![CDATA[https://athletic-pharm.com/product/auto-draft-64/]]></url>
  <domain><![CDATA[athletic-pharm.com]]></domain>
  <ip>193.233.15.107</ip>
 </content>
@@ -1504,10 +1493,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="10410925" includeTime="2026-09-02T23:35:02" entryType="1" hash="357FF3754B76CCFACB17F3FAE361A25A" ts="2026-09-02T23:35:02">
+<content id="10410925" includeTime="2026-09-02T23:35:02" entryType="1" hash="B8EEF82E18815A62F5C69BFD7FE507AB" blockType="domain-mask" ts="2026-09-03T13:05:01">
  <decision date="2026-08-31" number="4221020-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://henvids.com/]]></url>
- <domain><![CDATA[henvids.com]]></domain>
+ <domain><![CDATA[*.henvids.com]]></domain>
  <ip>104.21.28.178</ip>
  <ip>172.67.147.13</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1cb2</ipv6>

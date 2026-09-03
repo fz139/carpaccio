@@ -554,6 +554,11 @@
  <domain><![CDATA[*.kinokod.biz]]></domain>
  <ip>131.123.38.49</ip>
 </content>
+<content id="10416952" includeTime="2026-09-03T14:05:02" entryType="1" hash="0DE173F4213F3BE0822CA90B758F5886" blockType="domain-mask" ts="2026-09-03T14:05:02">
+ <decision date="2026-08-31" number="2026-08-27-23337-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[*.alcorush-2-kirov.online]]></domain>
+ <ip>45.130.41.161</ip>
+</content>
 <content id="10416961" includeTime="2026-09-02T07:25:02" entryType="1" hash="8E1F35B078454C6671BA012B1F1D8506" blockType="domain-mask" ts="2026-09-02T07:25:02">
  <decision date="2026-08-31" number="2-6-14/2026-08-31-82962-АИ" org="ФНС"/>
  <domain><![CDATA[*.1xbet-umv12.sbs]]></domain>
@@ -1172,6 +1177,11 @@
  <domain><![CDATA[*.pin-up-casino-seej4.top]]></domain>
  <ip>89.124.74.150</ip>
 </content>
+<content id="10417080" includeTime="2026-09-03T14:05:02" entryType="1" hash="AAE7610F5313DF948477B20D11CF2185" blockType="domain" ts="2026-09-03T14:05:02">
+ <decision date="2026-09-01" number="4223955-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[ros.bonga15.com]]></domain>
+ <ip>195.85.23.107</ip>
+</content>
 <content id="10417081" includeTime="2026-09-02T07:25:02" entryType="1" hash="AC91D2460337A695AE74811C1E626DED" blockType="domain-mask" ts="2026-09-02T07:25:02">
  <decision date="2026-07-27" number="2-6-14/2026-07-24-6481-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdom-wjj74.cfd]]></domain>
@@ -1273,18 +1283,15 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="10417098" includeTime="2026-09-02T23:35:02" entryType="1" hash="E136570AFD07B4CBD4ED88E633543EDB" ts="2026-09-02T23:35:02">
+<content id="10417098" includeTime="2026-09-02T23:35:02" entryType="1" hash="089D4F14E52AC24C6DC4B090309FCEB4" blockType="domain" ts="2026-09-03T13:05:01">
  <decision date="2026-09-01" number="2026-09-01-2176-ТБК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <url><![CDATA[https://01.tobaccoservice.my/]]></url>
  <domain><![CDATA[01.tobaccoservice.my]]></domain>
  <ip>104.18.47.121</ip>
 </content>
-<content id="10417099" includeTime="2026-09-02T23:35:02" entryType="1" hash="31BE6989BE75D2BFC05683D32B9E7CA2" ts="2026-09-02T23:35:02">
+<content id="10417099" includeTime="2026-09-02T23:35:02" entryType="1" hash="9EE197524315E0FE39076784AE7581B4" blockType="domain-mask" ts="2026-09-03T13:05:01">
  <decision date="2026-09-01" number="2026-09-01-2568-ТБК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
- <url><![CDATA[https://tabakkmsk.store/]]></url>
- <domain><![CDATA[tabakkmsk.store]]></domain>
- <ip>185.114.245.109</ip>
- <ipv6>2a03:6f00:0006:0001:0000:0000:b972:f56d</ipv6>
+ <domain><![CDATA[*.tabakkmsk.store]]></domain>
+ <ip>104.28.7.67</ip>
 </content>
 <content id="10417100" includeTime="2026-09-02T07:25:02" entryType="1" hash="B84D58BDDAB7E3F357586D4FBE9F6C7D" blockType="domain-mask" ts="2026-09-02T07:25:02">
  <decision date="2026-07-27" number="2-6-14/2026-07-24-6481-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
