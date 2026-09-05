@@ -347,13 +347,6 @@
  <domain><![CDATA[iy1308.kino24.uno]]></domain>
  <ip>144.124.242.65</ip>
 </content>
-<content id="10407944" includeTime="2026-08-31T17:00:02" entryType="2" hash="84C3C8AA9F7DC5178052814B6F430E9A" ts="2026-08-31T17:00:02">
- <decision date="2023-06-14" number="определение о предварительном обеспечении по заявлению № 2И-7152/2023" org="Мосгорсуд"/>
- <url><![CDATA[https://ru1.lordserialztv.top/38220131-sansara.html]]></url>
- <domain><![CDATA[ru1.lordserialztv.top]]></domain>
- <ip>185.204.55.232</ip>
- <ipv6>2a14:1e00:0003:0894:0000:0000:0000:7360</ipv6>
-</content>
 <content id="10407945" includeTime="2026-08-31T17:00:02" entryType="2" hash="BD1A4B0C0B92647556F69AFF5BC3F51E" ts="2026-08-31T17:00:02">
  <decision date="2023-06-14" number="определение о предварительном обеспечении по заявлению № 2И-7150/2023" org="Мосгорсуд"/>
  <url><![CDATA[https://130826.torrent24.name/80049-predposlednyaya-instanciya-1-2-3-sezon-1-8-9-10-seriya-28-06-1001.html]]></url>
@@ -4070,9 +4063,9 @@
  <domain><![CDATA[interny-promo.lordserialwizard.vu]]></domain>
  <ip>131.123.39.88</ip>
 </content>
-<content id="10409128" includeTime="2026-08-31T17:00:02" entryType="5" hash="4B835BF0B59FE430663C90BB9CF67585" blockType="domain" ts="2026-08-31T17:00:02">
+<content id="10409128" includeTime="2026-08-31T17:00:02" entryType="5" hash="8B8DB4DFC662E1EADBA2A949AC11C73D" blockType="domain-mask" ts="2026-09-04T13:15:02">
  <decision date="2026-08-31" number="Пб/169145" org="Роскомнадзор"/>
- <domain><![CDATA[bonus-start-valkyrie.click]]></domain>
+ <domain><![CDATA[*.bonus-start-valkyrie.click]]></domain>
  <ip>195.123.172.17</ip>
 </content>
 <content id="10409129" includeTime="2026-08-31T17:00:02" entryType="5" hash="43374FF89A894EE9CE4CAD78F6235E72" blockType="domain" ts="2026-08-31T17:00:02">
@@ -5294,12 +5287,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="10409837" includeTime="2026-09-02T23:35:02" entryType="1" hash="1169FD187E06AF73ECCA5AD90A2B4ADA" ts="2026-09-02T23:35:02">
- <decision date="2026-08-29" number="2026-08-26-17863" org="МВД"/>
- <url><![CDATA[https://vepr-paintball.ru/2026/06/29/почему-выбирают-slon5-at-для-строительных-и-р/]]></url>
- <domain><![CDATA[vepr-paintball.ru]]></domain>
- <ip>104.28.7.67</ip>
-</content>
 <content id="10409838" includeTime="2026-09-01T13:50:02" entryType="1" hash="8E9515DF8502F1E608A4D41349E9309E" blockType="domain-mask" ts="2026-09-01T13:50:02">
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.faberlic-kemerovo.ru]]></domain>
@@ -5855,6 +5842,11 @@
  <url><![CDATA[https://simbez-kupit4.ru/]]></url>
  <domain><![CDATA[simbez-kupit4.ru]]></domain>
  <ip>89.127.213.205</ip>
+</content>
+<content id="10410292" includeTime="2026-09-04T13:45:01" entryType="1" hash="8071DBB7434F30A2EC25807EC39FC6F2" blockType="domain" ts="2026-09-04T13:45:01">
+ <decision date="2026-08-26" number="2а-643/2026" org="Каменский городской суд - Алтайский край"/>
+ <domain><![CDATA[vape-optom.ru]]></domain>
+ <ip>185.65.148.57</ip>
 </content>
 <content id="10410294" includeTime="2026-09-02T14:05:02" entryType="1" hash="E8D5C61C1943B8C391FBFF74D33FD831" blockType="domain" ts="2026-09-02T14:05:02">
  <decision date="2026-08-26" number="2а-643/2026" org="Каменский городской суд - Алтайский край"/>
