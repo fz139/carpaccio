@@ -9627,24 +9627,6 @@
  <domain><![CDATA[porno365x.trade]]></domain>
  <ip>51.68.59.255</ip>
 </content>
-<content id="10316641" includeTime="2026-08-17T13:25:01" entryType="1" hash="B393BCDDF3631F373A5FE82216C50E61" ts="2026-08-17T13:25:01">
- <decision date="2026-08-14" number="4169987-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[http://p.porno365.broker/movie/34928]]></url>
- <domain><![CDATA[p.porno365.broker]]></domain>
- <ip>89.39.104.183</ip>
-</content>
-<content id="10316642" includeTime="2026-08-17T13:25:01" entryType="1" hash="BCB8DED71606219A1EE5B7E2F7BE7726" ts="2026-08-17T13:25:01">
- <decision date="2026-08-14" number="4169988-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[http://p.porno365.broker/movie/32962]]></url>
- <domain><![CDATA[p.porno365.broker]]></domain>
- <ip>89.39.104.183</ip>
-</content>
-<content id="10316643" includeTime="2026-08-17T13:25:01" entryType="1" hash="CF9B5810C6D84846553CBB415D3194E1" ts="2026-08-17T13:25:01">
- <decision date="2026-08-14" number="4169989-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[http://p.porno365.broker/bds]]></url>
- <domain><![CDATA[p.porno365.broker]]></domain>
- <ip>89.39.104.183</ip>
-</content>
 <content id="10316644" includeTime="2026-08-17T22:50:02" entryType="1" hash="9BD1E180879810A8FF03D73E1C1CA9EF" ts="2026-08-17T22:50:02">
  <decision date="2026-08-14" number="4169990-URL-on" org="Роскомнадзор"/>
  <url><![CDATA[http://porno365.broker/movie/50065]]></url>
@@ -9683,6 +9665,12 @@
  <domain><![CDATA[iptv-watch.com]]></domain>
  <ip>195.179.237.178</ip>
  <ipv6>2a02:4780:000b:0876:0000:1ccc:b0bd:0004</ipv6>
+</content>
+<content id="10316661" includeTime="2026-09-08T13:55:02" entryType="1" hash="460D5D66548764C8F4F0081C841A1D6E" blockType="domain" ts="2026-09-08T13:55:02">
+ <decision date="2026-03-05" number="2026-03-05-9091" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[triangleatlantic.com]]></domain>
+ <ip>141.193.213.10</ip>
+ <ip>141.193.213.11</ip>
 </content>
 <content id="10316662" includeTime="2026-08-17T13:25:01" entryType="1" hash="93A26A579D3059841CF8E3ABB814C389" ts="2026-08-17T13:25:01">
  <decision date="2026-03-05" number="2026-03-05-8185" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
