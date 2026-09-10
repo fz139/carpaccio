@@ -5820,24 +5820,6 @@
  <domain><![CDATA[*.sexorostov.one]]></domain>
  <ip>185.178.208.186</ip>
 </content>
-<content id="10459170" includeTime="2026-09-09T23:40:02" entryType="1" hash="B66C7B0342DD95A564D673A4303073DC" ts="2026-09-09T23:40:02">
- <decision date="2026-09-07" number="2а-5920/2026" org="Южно-Сахалинский городской суд - Сахалинская область"/>
- <url><![CDATA[https://vxv.ashoo.dance]]></url>
- <domain><![CDATA[vxv.ashoo.dance]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="10459172" includeTime="2026-09-09T23:40:02" entryType="1" hash="B6019CFC24E76340C9BEDCFBC297372D" ts="2026-09-09T23:40:02">
- <decision date="2026-09-07" number="2а-5920/2026" org="Южно-Сахалинский городской суд - Сахалинская область"/>
- <url><![CDATA[https://mf.ashoo.insure]]></url>
- <domain><![CDATA[mf.ashoo.insure]]></domain>
- <ip>104.21.93.16</ip>
- <ip>172.67.202.179</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:5d10</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:cab3</ipv6>
-</content>
 <content id="10459173" includeTime="2026-09-09T23:40:02" entryType="1" hash="7114ED782F28AF23C9CCA52960D1CD75" ts="2026-09-09T23:40:02">
  <decision date="2026-09-07" number="2а-5920/2026" org="Южно-Сахалинский городской суд - Сахалинская область"/>
  <url><![CDATA[https://p44.voronetki4.com/individuallki?utm_referrer=https%3A%2F%2fyandex.ru%2F]]></url>
@@ -6048,6 +6030,19 @@
  <domain><![CDATA[*.trip-79co.ru]]></domain>
  <ip>88.80.135.77</ip>
 </content>
+<content id="10459437" includeTime="2026-09-10T13:15:01" entryType="1" hash="5E92B9C61125E5FD60A23176132EE457" blockType="domain-mask" ts="2026-09-10T13:15:01">
+ <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.nocekshop.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10459438" includeTime="2026-09-10T13:15:01" entryType="1" hash="4B9146D4C99B2757FE2610AD1EA02840" blockType="domain-mask" ts="2026-09-10T13:15:01">
+ <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.mineral-science.ru]]></domain>
+ <ip>94.26.38.26</ip>
+</content>
 <content id="10459439" includeTime="2026-09-09T23:40:02" entryType="1" hash="6B0A78483D49D67E4AAC261BF1F0E59D" blockType="domain-mask" ts="2026-09-09T23:40:02">
  <decision date="2026-09-08" number="2026-09-07-35762" org="МВД"/>
  <domain><![CDATA[*.slon---10---cc.ru]]></domain>
@@ -6062,6 +6057,22 @@
  <decision date="2026-09-08" number="2026-09-08-18391" org="МВД"/>
  <domain><![CDATA[quebeccannabisseeds.com]]></domain>
  <ip>162.241.244.28</ip>
+</content>
+<content id="10459442" includeTime="2026-09-10T13:15:01" entryType="1" hash="631418E0C01C0A5A0B67B9650D0B4155" blockType="domain-mask" ts="2026-09-10T13:15:01">
+ <decision date="2026-09-08" number="2026-09-07-12466" org="МВД"/>
+ <domain><![CDATA[*.sydneykush.com]]></domain>
+ <ip>104.21.21.189</ip>
+ <ip>172.67.200.10</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:c80a</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:15bd</ipv6>
+</content>
+<content id="10459443" includeTime="2026-09-10T13:15:01" entryType="1" hash="F38793201CDFACF10DA99CE74B9888B6" blockType="domain" ts="2026-09-10T13:15:01">
+ <decision date="2026-03-05" number="2026-03-05-9091" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[www.designer-radiators.ru]]></domain>
+ <ip>104.21.29.145</ip>
+ <ip>172.67.149.99</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:1d91</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:9563</ipv6>
 </content>
 <content id="10459444" includeTime="2026-09-09T23:40:02" entryType="1" hash="00076103B7165CAF80BA366948420C2A" blockType="domain-mask" ts="2026-09-09T23:40:02">
  <decision date="2026-09-08" number="2026-09-08-31505" org="МВД"/>
@@ -6092,10 +6103,42 @@
  <domain><![CDATA[*.trips770.co]]></domain>
  <ip>81.181.113.133</ip>
 </content>
+<content id="10459448" includeTime="2026-09-10T13:15:01" entryType="1" hash="2D1BF6CFE45003356E4DB46791921BC8" blockType="domain-mask" ts="2026-09-10T13:15:01">
+ <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.bloggapedia.com]]></domain>
+ <ip>104.21.58.5</ip>
+ <ip>172.67.153.167</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:99a7</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:3a05</ipv6>
+</content>
 <content id="10459449" includeTime="2026-09-09T23:40:02" entryType="1" hash="04DE677F7B530DF3DD5931B983AF4992" blockType="domain-mask" ts="2026-09-09T23:40:02">
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.cc16slon.ru]]></domain>
  <ip>45.10.243.111</ip>
+</content>
+<content id="10459450" includeTime="2026-09-10T13:15:01" entryType="1" hash="C278FFB465925EF6B2E543B41159191C" blockType="domain-mask" ts="2026-09-10T13:15:01">
+ <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.irksun.ru]]></domain>
+ <ip>104.21.13.162</ip>
+ <ip>172.67.156.201</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:0da2</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:9cc9</ipv6>
+</content>
+<content id="10459451" includeTime="2026-09-10T13:15:01" entryType="1" hash="35E0E257E7833C22719D549CB53A42FF" blockType="domain-mask" ts="2026-09-10T13:15:01">
+ <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.zfmtpp.ru]]></domain>
+ <ip>104.21.8.115</ip>
+ <ip>172.67.188.115</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:0873</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:bc73</ipv6>
+</content>
+<content id="10459452" includeTime="2026-09-10T13:15:01" entryType="1" hash="68A7E84682148104592E1B8C50B8249B" blockType="domain-mask" ts="2026-09-10T13:15:01">
+ <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.times.band]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="10459454" includeTime="2026-09-09T23:40:02" entryType="1" hash="F67327F08C8DF69606FC05239D8C2BCC" blockType="domain-mask" ts="2026-09-09T23:40:02">
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -6116,6 +6159,12 @@
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.torzon-collect.rest]]></domain>
  <ip>176.123.0.55</ip>
+</content>
+<content id="10459458" includeTime="2026-09-10T13:15:01" entryType="1" hash="F9AFE13EC830C2B0E3BCDC15897885F3" blockType="domain-mask" ts="2026-09-10T13:15:01">
+ <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.terpyz.eu]]></domain>
+ <ip>23.227.38.67</ip>
+ <ipv6>2620:0127:f00f:0007:0000:0000:0000:0000</ipv6>
 </content>
 <content id="10459459" includeTime="2026-09-09T23:40:02" entryType="1" hash="D3A97E1D4DB29F10C889EB4B0E52A529" blockType="domain-mask" ts="2026-09-09T23:40:02">
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -6307,6 +6356,12 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10459484" includeTime="2026-09-10T13:15:01" entryType="1" hash="9F9661D1BCADA525125E9A9F5AFB6F68" blockType="domain" ts="2026-09-10T13:15:01">
+ <decision date="2026-03-05" number="2026-03-05-9091" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[www.lennagiardini.it]]></domain>
+ <ip>89.46.110.52</ip>
+ <ipv6>2a00:6d40:0004:0001:0000:0000:c313:0052</ipv6>
 </content>
 <content id="10459865" includeTime="2026-09-09T14:55:02" entryType="5" hash="FA5A26C6CD1E430439A22BB6B55B4941" blockType="domain" ts="2026-09-09T14:55:02">
  <decision date="2026-09-08" number="Пб/170681" org="Роскомнадзор"/>
