@@ -5831,17 +5831,6 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="10459013" includeTime="2026-09-11T14:25:02" entryType="1" hash="51E3B86430119FA50CAEB873DB55DC5F" ts="2026-09-11T14:25:02">
- <decision date="2026-09-08" number="210835" org="Роспотребнадзор"/>
- <url><![CDATA[https://webkind.ru/text/6931553_8142085p84481569_text_pesni_sifilitik.html]]></url>
- <domain><![CDATA[webkind.ru]]></domain>
- <ip>193.124.115.7</ip>
-</content>
-<content id="10459025" includeTime="2026-09-11T14:25:02" entryType="1" hash="24C4C34F229FE3DE39D1297BB71A8392" blockType="domain-mask" ts="2026-09-11T14:25:02">
- <decision date="2026-08-11" number="2а-1-840/2026" org="Балашовский районный суд - Саратовская область"/>
- <domain><![CDATA[*.esim.kz]]></domain>
- <ip>109.248.199.65</ip>
-</content>
 <content id="10459121" includeTime="2026-09-09T23:40:02" entryType="1" hash="3398903FF3DA8F6C909B026FB6E0F145" blockType="domain-mask" ts="2026-09-09T23:40:02">
  <decision date="2026-09-08" number="2026-09-05-41752-ТБК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
  <domain><![CDATA[*.tabak-55ru.ru]]></domain>
@@ -5867,15 +5856,17 @@
  <domain><![CDATA[*.sexorostov.one]]></domain>
  <ip>185.178.208.186</ip>
 </content>
-<content id="10459168" includeTime="2026-09-11T14:25:02" entryType="1" hash="9A47C1DB55DE0232C5C6358F3C5E62C2" blockType="domain-mask" ts="2026-09-11T14:25:02">
- <decision date="2026-08-11" number="2а-1-840/2026" org="Балашовский районный суд - Саратовская область"/>
- <domain><![CDATA[*.aktivatorsim.com]]></domain>
- <ip>142.11.193.222</ip>
-</content>
 <content id="10459169" includeTime="2026-09-10T23:45:02" entryType="1" hash="E559AE119928A3F79FD5FE389B174B00" blockType="domain-mask" ts="2026-09-10T23:45:02">
  <decision date="2026-08-11" number="2а-1-840/2026" org="Балашовский районный суд - Саратовская область"/>
  <domain><![CDATA[*.anonsimcard.com]]></domain>
  <ip>145.14.152.213</ip>
+</content>
+<content id="10459171" includeTime="2026-09-10T23:45:02" entryType="1" hash="D3965368B82F6E5499827EEE42271D16" ts="2026-09-10T23:45:02">
+ <decision date="2026-09-07" number="2а-5920/2026" org="Южно-Сахалинский городской суд - Сахалинская область"/>
+ <url><![CDATA[https://sq.ashoo.surf]]></url>
+ <domain><![CDATA[sq.ashoo.surf]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
 </content>
 <content id="10459173" includeTime="2026-09-09T23:40:02" entryType="1" hash="7114ED782F28AF23C9CCA52960D1CD75" ts="2026-09-09T23:40:02">
  <decision date="2026-09-07" number="2а-5920/2026" org="Южно-Сахалинский городской суд - Сахалинская область"/>
