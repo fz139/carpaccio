@@ -2677,6 +2677,14 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="2172861" includeTime="2026-09-14T15:25:01" entryType="1" hash="A8524EA5CFE7281907A8242D8B337910" blockType="domain-mask" ts="2026-09-14T15:25:01">
+ <decision date="2020-03-23" number="2020-03-16-1201" org="ÌÂÄ"/>
+ <domain><![CDATA[*.godnotaba.nl]]></domain>
+ <ip>104.21.59.43</ip>
+ <ip>172.67.213.200</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:3b2b</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:d5c8</ipv6>
+</content>
 <content id="2172912" includeTime="2020-03-25T19:48:24" entryType="1" hash="DF3435A7911F08857AD9FE3ACABA3CC5" blockType="domain" ts="2024-02-14T15:05:01">
  <decision date="2020-03-23" number="2020-03-15-888" org="ÌÂÄ"/>
  <domain><![CDATA[turborc.biz.net.ru]]></domain>
