@@ -194,6 +194,14 @@
  <ipv6>2606:4700:3034:0000:0000:0000:ac43:9cd5</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:082d</ipv6>
 </content>
+<content id="10504222" includeTime="2026-09-21T14:00:02" entryType="1" hash="D2AE4D6E2E5A9508EFD348C07F7340EF" blockType="domain" ts="2026-09-21T14:00:02">
+ <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[sadik110.ru]]></domain>
+ <ip>104.21.40.130</ip>
+ <ip>172.67.151.241</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:97f1</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:2882</ipv6>
+</content>
 <content id="10504223" includeTime="2026-09-17T13:35:03" entryType="1" hash="B24B267649F8299998D0076A1A803F3D" blockType="domain-mask" ts="2026-09-17T13:35:03">
  <decision date="2026-03-05" number="2026-03-05-8612" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.polyarnyi-17.ru]]></domain>
@@ -3643,12 +3651,6 @@
  <decision date="2026-07-27" number="2-6-14/2026-07-24-6481-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.allow24-52.com]]></domain>
  <ip>31.57.152.140</ip>
-</content>
-<content id="10504923" includeTime="2026-09-16T18:55:01" urgencyType="1" entryType="3" hash="AF978B4E503CC22CFECA6FB221781602" ts="2026-09-16T18:55:01">
- <decision date="2026-09-15" number="" org=""/>
- <url><![CDATA[https://winoptionvpn1.online/skolko-mozno-zarabotat-na-ai-trading-ot-pocket-option]]></url>
- <domain><![CDATA[winoptionvpn1.online]]></domain>
- <ip>45.136.58.130</ip>
 </content>
 <content id="10504924" includeTime="2026-09-16T18:55:01" urgencyType="1" entryType="3" hash="A487F956C26BB1D690027BFED8512158" ts="2026-09-16T18:55:01">
  <decision date="2026-09-15" number="" org=""/>
@@ -10069,12 +10071,6 @@
  <domain><![CDATA[a.sisidrivevgg.com]]></domain>
  <ip>186.2.165.12</ip>
 </content>
-<content id="10506753" includeTime="2026-09-18T22:50:02" entryType="1" hash="EED4046A12D2AFC8C9B5C96AEF1702CB" ts="2026-09-18T22:50:02">
- <decision date="2026-09-17" number="4269148-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://livemuz.com/song/kirgyztan-crew-maloletki]]></url>
- <domain><![CDATA[livemuz.com]]></domain>
- <ip>117.55.202.34</ip>
-</content>
 <content id="10506760" includeTime="2026-09-18T22:50:02" entryType="1" hash="94648EA6440F7EA1D88F8B0C5062FFE1" blockType="domain" ts="2026-09-18T22:50:02">
  <decision date="2026-09-17" number="4269155-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[ru.bonga14.com]]></domain>
@@ -10581,6 +10577,11 @@
  <decision date="2025-04-23" number="2025-04-01-5106-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[v1.catservers2.store]]></domain>
  <ip>188.137.182.27</ip>
+</content>
+<content id="10506986" includeTime="2026-09-21T14:00:02" entryType="1" hash="56CE404D58ADCF44D514E3E3C0761216" blockType="domain-mask" ts="2026-09-21T14:00:02">
+ <decision date="2026-08-25" number="2026-08-23-5051-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.proxytelegram.fyi]]></domain>
+ <ip>201.4.72.35</ip>
 </content>
 <content id="10506990" includeTime="2026-09-18T22:50:02" entryType="1" hash="2A01F7DB779982881CB15AB8F937F2AF" blockType="domain-mask" ts="2026-09-18T22:50:02">
  <decision date="2026-08-31" number="2а-2364/2026" org="Фрунзенский районный суд г. Иваново - Ивановская область"/>
