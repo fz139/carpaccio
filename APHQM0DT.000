@@ -2286,6 +2286,13 @@
  <domain><![CDATA[key.happ.shop]]></domain>
  <ip>138.16.179.26</ip>
 </content>
+<content id="10485250" includeTime="2026-09-21T23:55:02" entryType="1" hash="75F065AC340BAEC790C8C78C87AD780E" ts="2026-09-21T23:55:02">
+ <decision date="2025-04-23" number="2025-04-01-5106-СОБ" org="Роскомнадзор"/>
+ <url><![CDATA[http://bit.ly/m/proxy-liberty]]></url>
+ <domain><![CDATA[bit.ly]]></domain>
+ <ip>67.199.248.10</ip>
+ <ip>67.199.248.11</ip>
+</content>
 <content id="10485251" includeTime="2026-09-15T14:00:02" entryType="1" hash="2C69F7778BA78ED10E456145E0CB35A8" blockType="domain-mask" ts="2026-09-15T14:00:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.happtrue.ru]]></domain>
@@ -4784,6 +4791,24 @@
  <decision date="2026-07-27" number="2-6-14/2026-07-24-6481-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.gamacasino399.com]]></domain>
  <ip>191.101.213.222</ip>
+</content>
+<content id="10485920" includeTime="2026-09-21T23:55:02" entryType="6" hash="DEBD455B7922CFD6B3D70D25A5354600" ts="2026-09-21T23:55:02">
+ <decision date="2017-12-15" number="2-5237/17" org="Таганский районный суд - Москва"/>
+ <url><![CDATA[https://slivhb.today]]></url>
+ <domain><![CDATA[slivhb.today]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10485921" includeTime="2026-09-21T23:55:02" entryType="6" hash="1FF84DE5D744251B39591BE1CBD082DC" ts="2026-09-21T23:55:02">
+ <decision date="2022-12-26" number="2-3895/2022" org="Таганский районный суд - Москва"/>
+ <url><![CDATA[https://slivshkur.to]]></url>
+ <domain><![CDATA[slivshkur.to]]></domain>
+ <ip>104.21.94.239</ip>
+ <ip>172.67.141.158</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:5eef</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:8d9e</ipv6>
 </content>
 <content id="10485923" includeTime="2026-09-21T17:20:02" entryType="2" hash="C857AAB0D90036588DB21324B4F4CFE8" ts="2026-09-21T17:20:02">
  <decision date="2021-03-29" number="определение о предварительном обеспечении по заявлению № 2И-2447/2021" org="Мосгорсуд"/>

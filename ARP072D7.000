@@ -1414,6 +1414,14 @@
  <ip>203.24.108.229</ip>
  <ipv6>2a05:7880:0538:b916:9f79:ddff:4ed6:638b</ipv6>
 </content>
+<content id="4917331" includeTime="2026-09-21T23:55:02" entryType="1" hash="97734C3D04B484FAF0F245469C1BD7B2" blockType="domain-mask" ts="2026-09-21T23:55:02">
+ <decision date="2020-07-15" number="2020-07-15-1257" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.megapolisrc.biz]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="4917332" includeTime="2022-10-06T22:24:18" entryType="1" hash="88A31FABA5F2F4C5453E25A81313CAA3" blockType="domain" ts="2022-10-06T22:24:18">
  <decision date="2017-10-03" number="2-6-20/ 2017-10-03-874-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[www.golos-pobedy-2021.com]]></domain>
