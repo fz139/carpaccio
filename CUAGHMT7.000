@@ -1389,12 +1389,6 @@
  <domain><![CDATA[taburastore.shop]]></domain>
  <ip>81.180.93.206</ip>
 </content>
-<content id="10514708" includeTime="2026-09-21T23:55:02" entryType="1" hash="AA62B68B1314E0883C2BCEB14C0B1DF6" ts="2026-09-21T23:55:02">
- <decision date="2026-07-23" number="2а-2742/2026" org="Фрунзенский районный суд г. Владивостока - Приморский край"/>
- <url><![CDATA[https://store.chronomat24.ru/catalog/p/patek_philippe_nautilus_5711_1a_010-1676646136/#delivery]]></url>
- <domain><![CDATA[store.chronomat24.ru]]></domain>
- <ip>82.146.49.8</ip>
-</content>
 <content id="10514709" includeTime="2026-09-21T23:55:02" entryType="1" hash="707E4473FE16C34707C5F8E9DC0D4073" ts="2026-09-21T23:55:02">
  <decision date="2026-07-23" number="2а-2742/2026" org="Фрунзенский районный суд г. Владивостока - Приморский край"/>
  <url><![CDATA[https://luxe-room.ru/product/sumka-hermes-20-sm-510331683/]]></url>
@@ -2434,6 +2428,14 @@
  <decision date="2026-09-17" number="" org=""/>
  <domain><![CDATA[*.mbgc.live]]></domain>
  <ip>204.11.58.77</ip>
+</content>
+<content id="10515127" includeTime="2026-09-23T19:55:02" urgencyType="1" entryType="3" hash="115F327E410C0A16C6A385C538270616" blockType="domain-mask" ts="2026-09-23T19:55:02">
+ <decision date="2026-09-17" number="" org=""/>
+ <domain><![CDATA[*.fundednext.com]]></domain>
+ <ip>8.47.69.6</ip>
+ <ip>8.6.112.6</ip>
+ <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
+ <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
 </content>
 <content id="10515128" includeTime="2026-09-18T18:10:02" urgencyType="1" entryType="3" hash="A66635472337C398BA662FF224E4F4BE" blockType="domain-mask" ts="2026-09-18T18:10:02">
  <decision date="2026-09-17" number="" org=""/>
