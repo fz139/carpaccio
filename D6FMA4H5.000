@@ -12519,6 +12519,11 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="10538235" includeTime="2026-09-25T15:05:02" entryType="1" hash="B1DC000B8E9E1FBC782FBDE9F9D5635D" blockType="domain-mask" ts="2026-09-25T15:05:02">
+ <decision date="2026-08-25" number="2026-08-23-5051-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.mtprotoproxy.cfd]]></domain>
+ <ip>201.4.72.68</ip>
+</content>
 <content id="10538236" includeTime="2026-09-24T07:45:02" entryType="1" hash="CE65C9CE4D3DD3BA74A17F9BD345E3D4" blockType="domain-mask" ts="2026-09-24T07:45:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.prrm.site]]></domain>
@@ -12529,6 +12534,16 @@
  <domain><![CDATA[*.happrelay.click]]></domain>
  <ip>185.103.164.48</ip>
 </content>
+<content id="10538238" includeTime="2026-09-25T15:05:02" entryType="1" hash="43C35583A7C65AA21475ED510105131D" blockType="domain-mask" ts="2026-09-25T15:05:02">
+ <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.vpnshield.shop]]></domain>
+ <ip>64.188.106.141</ip>
+</content>
+<content id="10538239" includeTime="2026-09-25T15:05:02" entryType="1" hash="CF5C4A938696B1C27A465834118A97FE" blockType="domain-mask" ts="2026-09-25T15:05:02">
+ <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.uboost-vps.monster]]></domain>
+ <ip>45.130.41.156</ip>
+</content>
 <content id="10538240" includeTime="2026-09-24T07:45:02" entryType="1" hash="5440FDF69544E8CECD39F03AFBDEC0CD" blockType="domain-mask" ts="2026-09-24T07:45:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.vpsfast-itc.shop]]></domain>
@@ -12536,6 +12551,11 @@
  <ip>172.67.221.203</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:3e4b</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:ddcb</ipv6>
+</content>
+<content id="10538241" includeTime="2026-09-25T15:05:02" entryType="1" hash="757ABC4B20E15FB89C1E120141FC95BD" blockType="domain-mask" ts="2026-09-25T15:05:02">
+ <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.privacylessons.courses]]></domain>
+ <ip>64.188.106.141</ip>
 </content>
 <content id="10538242" includeTime="2026-09-24T07:45:02" entryType="1" hash="59E991C26FCC47DDEF79EF2AC67A10D6" blockType="domain-mask" ts="2026-09-24T07:45:02">
  <decision date="2025-04-23" number="2025-04-01-5106-СОБ" org="Роскомнадзор"/>
@@ -12547,10 +12567,20 @@
  <domain><![CDATA[*.vpsnext.click]]></domain>
  <ip>185.238.191.34</ip>
 </content>
+<content id="10538244" includeTime="2026-09-25T15:05:02" entryType="1" hash="B5E6974827BCB475D1EFE2E31D9D2658" blockType="domain-mask" ts="2026-09-25T15:05:02">
+ <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.privacyengine.digital]]></domain>
+ <ip>64.188.106.141</ip>
+</content>
 <content id="10538245" includeTime="2026-09-24T07:45:02" entryType="1" hash="84CE9D4C30B75707A675053A5FFA4BD4" blockType="domain-mask" ts="2026-09-24T07:45:02">
  <decision date="2025-04-23" number="2025-04-01-5106-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.vpsedge.click]]></domain>
  <ip>185.238.191.34</ip>
+</content>
+<content id="10538246" includeTime="2026-09-25T15:05:02" entryType="1" hash="C35EE637EA60FFB2BEB4551821A2939E" blockType="domain-mask" ts="2026-09-25T15:05:02">
+ <decision date="2026-08-25" number="2026-08-23-5051-СОБ" org="Роскомнадзор"/>
+ <domain><![CDATA[*.proxy-tg.bond]]></domain>
+ <ip>201.4.72.66</ip>
 </content>
 <content id="10538247" includeTime="2026-09-24T07:45:02" entryType="1" hash="65F4A8D77DCE6210C8C451CCA1FB8E03" blockType="domain-mask" ts="2026-09-24T07:45:02">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
@@ -16548,6 +16578,11 @@
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10538937" includeTime="2026-09-25T15:05:02" entryType="1" hash="CFB4FDC1279DA4E9699A3170227CC385" blockType="domain" ts="2026-09-25T15:05:02">
+ <decision date="2025-01-29" number="2а-1975/2025" org="Автозаводский районный суд г. Нижний Новгород - Нижегородская область"/>
+ <domain><![CDATA[ru4.bongacams6.com]]></domain>
+ <ip>94.199.249.25</ip>
 </content>
 <content id="10538938" includeTime="2026-09-24T13:50:02" entryType="1" hash="31DCA6F55FFDDE6E97A41D870AFBE8B0" blockType="domain-mask" ts="2026-09-24T13:50:02">
  <decision date="2026-09-21" number="2-6-14/2026-09-18-5558-АИ" org="ФНС"/>

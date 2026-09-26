@@ -2508,6 +2508,17 @@
  <domain><![CDATA[*.admiralx-baj.top]]></domain>
  <ip>45.10.243.125</ip>
 </content>
+<content id="10473917" includeTime="2026-09-25T23:05:02" entryType="1" hash="3B39869DA4EC730ED13261D813313F4B" blockType="domain" ts="2026-09-25T23:05:02">
+ <decision date="2026-09-11" number="4253494-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[www.ilga-europe.org]]></domain>
+ <ip>176.61.151.13</ip>
+</content>
+<content id="10473918" includeTime="2026-09-25T23:05:02" entryType="1" hash="775969273498A86CC761DEE59A34CC90" blockType="domain-mask" ts="2026-09-25T23:05:02">
+ <decision date="2026-09-11" number="4253495-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.diva-magazine.com]]></domain>
+ <ip>192.0.78.170</ip>
+ <ip>192.0.78.252</ip>
+</content>
 <content id="10473919" includeTime="2026-09-12T00:10:02" entryType="1" hash="A5C99EDBCBB865EA98E50B8B58B639CB" blockType="domain-mask" ts="2026-09-12T00:10:02">
  <decision date="2026-09-09" number="2-6-14/2026-09-09-11784-АИ" org="ФНС"/>
  <domain><![CDATA[*.admiralx-mnf.top]]></domain>
