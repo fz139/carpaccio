@@ -2381,9 +2381,9 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7042664" includeTime="2024-05-24T10:00:04" entryType="1" hash="4BB07FF5F442CB3050E877EADADFD4D1" blockType="domain" ts="2024-06-11T16:00:01">
+<content id="7042664" includeTime="2024-05-24T10:00:04" entryType="1" hash="4776262ABC191C46185C2882B239996D" blockType="domain-mask" ts="2026-09-30T23:10:02">
  <decision date="2024-05-21" number="2024-05-20-5034-СОБ" org="Роскомнадзор"/>
- <domain><![CDATA[vanyavpn.ru]]></domain>
+ <domain><![CDATA[*.vanyavpn.ru]]></domain>
  <ip>104.21.43.39</ip>
  <ip>172.67.218.224</ip>
  <ip>188.114.96.1</ip>
