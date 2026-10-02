@@ -1214,13 +1214,6 @@
  <domain><![CDATA[*.transe-hypnose.com]]></domain>
  <ip>135.125.1.207</ip>
 </content>
-<content id="10577745" includeTime="2026-10-01T13:45:02" entryType="1" hash="B9414C503D51A9A26EDA07C4073D8EA6" ts="2026-10-01T13:45:02">
- <decision date="2026-03-05" number="2026-03-05-8185" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://monitor.espec.ws/section18/printview338555.html]]></url>
- <domain><![CDATA[monitor.espec.ws]]></domain>
- <ip>5.45.124.27</ip>
- <ipv6>2a03:f480:0001:000f:0000:0000:0000:0071</ipv6>
-</content>
 <content id="10577747" includeTime="2026-10-01T23:45:02" entryType="1" hash="57DF562B07F7262F297CF444C2F7F560" ts="2026-10-01T23:45:02">
  <decision date="2026-03-05" number="2026-03-05-8185" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://grupo-luna.es/zapreshchionnye-tovary-i-pokupki-na-mega-darknet-market-tor]]></url>
@@ -1359,12 +1352,6 @@
  <ip>8.6.112.6</ip>
  <ipv6>2a06:98c1:3122:8000:0000:0000:0000:0006</ipv6>
  <ipv6>2a06:98c1:3123:8000:0000:0000:0000:0006</ipv6>
-</content>
-<content id="10577779" includeTime="2026-10-01T13:45:02" entryType="1" hash="9A0DCE1B5369E735094AF80D5F34F548" ts="2026-10-01T13:45:02">
- <decision date="2026-03-05" number="2026-03-05-8185" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://movarca.com/ischerpyvaiushchii-gaid-kraken-market-2026-bezopasnost-sdelok.htm]]></url>
- <domain><![CDATA[movarca.com]]></domain>
- <ip>3.17.116.98</ip>
 </content>
 <content id="10577780" includeTime="2026-10-01T13:45:02" entryType="1" hash="4DBDFEB0CA3C19116E5AA704D5E6FD22" ts="2026-10-01T13:45:02">
  <decision date="2026-03-05" number="2026-03-05-8185" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
@@ -1633,6 +1620,12 @@
  <ip>172.67.200.210</ip>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:15db</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:c8d2</ipv6>
+</content>
+<content id="10577912" includeTime="2026-10-02T23:20:03" entryType="1" hash="EC5D4AC216C469F1C11C62A5DFEF1501" blockType="domain" ts="2026-10-02T23:20:03">
+ <decision date="2026-09-29" number="2026-09-29-187-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
+ <domain><![CDATA[dostavimkazanalko.base44.app]]></domain>
+ <ip>216.24.57.16</ip>
+ <ip>216.24.57.18</ip>
 </content>
 <content id="10577913" includeTime="2026-10-01T00:20:02" entryType="1" hash="995332F076C5E119ED1BBDF51FC85DA3" blockType="domain-mask" ts="2026-10-01T00:20:02">
  <decision date="2026-09-29" number="2026-09-29-424-АЛК" org="Федеральная служба по контролю за алкогольным и табачным рынками"/>
@@ -13039,6 +13032,12 @@
  <ip>104.16.25.14</ip>
  <ipv6>2606:4700:0000:0000:0000:0000:6810:180e</ipv6>
  <ipv6>2606:4700:0000:0000:0000:0000:6810:190e</ipv6>
+</content>
+<content id="10582242" includeTime="2026-10-02T17:20:03" entryType="2" hash="0CCB39A73CABD2572630BBD5A601F592" ts="2026-10-02T17:20:03">
+ <decision date="2025-12-11" number="определение о предварительном обеспечении по заявлению № 2И-17193/2025" org="Мосгорсуд"/>
+ <url><![CDATA[https://pervyy-otdel-smotret.rest/4-sezon/7-seriya/]]></url>
+ <domain><![CDATA[pervyy-otdel-smotret.rest]]></domain>
+ <ip>138.226.220.237</ip>
 </content>
 <content id="10582887" includeTime="2026-09-30T17:30:02" entryType="8" hash="1B76FD196414D401D39F61217B96A8A8" blockType="domain" ts="2026-09-30T17:30:02">
  <decision date="2026-08-28" number="10-84519/26" org="Минюст России"/>
