@@ -1586,6 +1586,12 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="10565193" includeTime="2026-10-01T23:45:02" entryType="1" hash="D9633E38EAAEF69C147CBDC9C32CE577" ts="2026-10-01T23:45:02">
+ <decision date="2026-09-28" number="4297305-URL-on" org="Роскомнадзор"/>
+ <url><![CDATA[https://x24video.xyz/categories/]]></url>
+ <domain><![CDATA[x24video.xyz]]></domain>
+ <ip>109.206.161.25</ip>
+</content>
 <content id="10565194" includeTime="2026-10-01T00:20:02" entryType="1" hash="B11C3B14E714136321674CC5DBC903C8" blockType="domain" ts="2026-10-01T00:20:02">
  <decision date="2026-09-28" number="4297306-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[v4.hentasis.me]]></domain>
@@ -1833,12 +1839,6 @@
  <decision date="2026-03-20" number="2а-304/2026" org="Гурьевский городской суд - Кемеровская область"/>
  <domain><![CDATA[*.gosmoke.ru]]></domain>
  <ip>185.179.188.189</ip>
-</content>
-<content id="10565448" includeTime="2026-10-01T00:20:02" entryType="1" hash="1A3A1751D2FE4CDD5C4019DE7021120A" ts="2026-10-01T00:20:02">
- <decision date="2026-03-20" number="2а-304/2026" org="Гурьевский городской суд - Кемеровская область"/>
- <url><![CDATA[https://nosmoke.moscow]]></url>
- <domain><![CDATA[nosmoke.moscow]]></domain>
- <ip>104.18.47.121</ip>
 </content>
 <content id="10565639" includeTime="2026-09-29T00:00:02" entryType="1" hash="2057FFCABA1BDA9B641708408BDFC8D8" blockType="domain-mask" ts="2026-09-29T00:00:02">
  <decision date="2026-08-17" number="2-6-14/2026-08-13-1060-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>

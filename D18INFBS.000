@@ -4486,6 +4486,11 @@
  <ip>2.58.64.132</ip>
  <ipv6>2001:0678:06d4:5082:d7e6:6b50:b8a4:27ec</ipv6>
 </content>
+<content id="10557312" includeTime="2026-10-01T13:45:02" entryType="1" hash="F68FEA4B6C7DC96CF2748DBD8122FFF0" blockType="domain-mask" ts="2026-10-01T13:45:02">
+ <decision date="2026-09-25" number="4294323-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[*.walterboys.ru]]></domain>
+ <ip>81.180.92.93</ip>
+</content>
 <content id="10557313" includeTime="2026-09-28T15:55:02" entryType="1" hash="9759CC6D3B920F5BF206807F6D35C28F" blockType="domain" ts="2026-09-28T15:55:02">
  <decision date="2026-09-25" number="4294324-URL-on" org="Роскомнадзор"/>
  <domain><![CDATA[ru2.sex-videochat.me]]></domain>
@@ -5261,15 +5266,6 @@
  <url><![CDATA[https://boscadomingo.com/chto-takoe-mega-marketpleis-v-tiomnoi-seti-i-kak-rabotaet]]></url>
  <domain><![CDATA[boscadomingo.com]]></domain>
  <ip>91.199.120.12</ip>
-</content>
-<content id="10557592" includeTime="2026-09-29T00:00:02" entryType="1" hash="F73D03D4875C5AE8F4D90B5AFDA02BE1" ts="2026-09-29T00:00:02">
- <decision date="2026-03-05" number="2026-03-05-9091" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://forum.ee/]]></url>
- <domain><![CDATA[forum.ee]]></domain>
- <ip>104.21.42.137</ip>
- <ip>172.67.206.28</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:ce1c</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:6815:2a89</ipv6>
 </content>
 <content id="10557593" includeTime="2026-09-29T00:00:02" entryType="1" hash="ECFA0A3688D2A75CBF4F7BE7E4F3EC0B" blockType="domain" ts="2026-09-29T00:00:02">
  <decision date="2026-03-05" number="2026-03-05-9091" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
