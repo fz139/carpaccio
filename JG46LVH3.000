@@ -619,10 +619,32 @@
  <domain><![CDATA[*.playfortuna.jyw.lol]]></domain>
  <ip>179.43.176.168</ip>
 </content>
+<content id="10601008" includeTime="2026-10-07T00:30:02" entryType="1" hash="CA888B8360D91373D8DCED18B900882D" blockType="domain" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2026-10-01-6216-ÑÎÁ" org="Ðîñêîìíàäçîð"/>
+ <domain><![CDATA[pc-vpn-best.github.io]]></domain>
+ <ip>185.199.108.153</ip>
+ <ip>185.199.109.153</ip>
+ <ip>185.199.110.153</ip>
+ <ip>185.199.111.153</ip>
+ <ipv6>2606:50c0:8000:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8001:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8002:0000:0000:0000:0000:0153</ipv6>
+ <ipv6>2606:50c0:8003:0000:0000:0000:0000:0153</ipv6>
+</content>
 <content id="10601009" includeTime="2026-10-06T01:40:01" entryType="1" hash="365EA7E1370F124705C00A74654D7B24" blockType="domain-mask" ts="2026-10-06T01:40:01">
  <decision date="2026-10-01" number="2-6-14/2026-10-01-2684-ÀÈ" org="ÔÍÑ"/>
  <domain><![CDATA[*.xp1lln05u.life]]></domain>
  <ip>186.2.165.72</ip>
+</content>
+<content id="10601010" includeTime="2026-10-07T00:30:02" entryType="1" hash="8E3DA347F87DC8BA41569511BC8BD8F8" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-05" number="2026-10-01-8090-ÄÏ" org="Ðîñêîìíàäçîð"/>
+ <domain><![CDATA[*.brat-vpn.com]]></domain>
+ <ip>45.9.16.80</ip>
+</content>
+<content id="10601011" includeTime="2026-10-07T00:30:02" entryType="1" hash="DDD341456330EE0A2D7102D6ACEEEF0D" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-05" number="2026-10-01-6632-ÑÎÁ" org="Ðîñêîìíàäçîð"/>
+ <domain><![CDATA[*.vpn-i-tochka.com]]></domain>
+ <ip>104.28.28.35</ip>
 </content>
 <content id="10601012" includeTime="2026-10-06T01:40:01" entryType="1" hash="C244009077427DDEBCD964D6CD3D8BAC" blockType="domain-mask" ts="2026-10-06T01:40:01">
  <decision date="2026-10-01" number="2-6-14/2026-10-01-2706-ÀÈ" org="ÔÍÑ"/>
@@ -1250,17 +1272,41 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="10601179" includeTime="2026-10-07T00:30:02" entryType="1" hash="A49F3358EB3DFFAE4FD9CEF0E66A612E" ts="2026-10-07T00:30:02">
+ <decision date="2026-07-14" number="2à-1483/2026" org="Îñòàíêèíñêèé ðàéîííûé ñóä - Ìîñêâà"/>
+ <url><![CDATA[https://sim-simki.ru/sim-bez/]]></url>
+ <domain><![CDATA[sim-simki.ru]]></domain>
+ <ip>89.127.213.205</ip>
+</content>
+<content id="10601180" includeTime="2026-10-07T00:30:02" entryType="1" hash="320A61F91D01C3F1015DD3AC90E770F9" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-05-19" number="2à-760/2026" org="Èçìàéëîâñêèé ðàéîííûé ñóä - Ìîñêâà"/>
+ <domain><![CDATA[*.propiska-moskva977.ru]]></domain>
+ <ip>45.10.243.45</ip>
+</content>
 <content id="10601182" includeTime="2026-10-06T14:00:03" entryType="1" hash="8219E1016718DC2A9D2A14F55A254A72" ts="2026-10-06T14:00:03">
  <decision date="2026-10-01" number="2à-785/2026" org="Âåëüñêèé ðàéîííûé ñóä - Àðõàíãåëüñêàÿ îáëàñòü"/>
  <url><![CDATA[https://velsk.sex-puls.click/city-terebino]]></url>
  <domain><![CDATA[velsk.sex-puls.click]]></domain>
  <ip>138.226.242.250</ip>
 </content>
+<content id="10601183" includeTime="2026-10-07T00:30:02" entryType="1" hash="17A96D0C4A726DB90E53B2975688480B" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-01" number="2à-785/2026" org="Âåëüñêèé ðàéîííûé ñóä - Àðõàíãåëüñêàÿ îáëàñòü"/>
+ <url><![CDATA[https://velsk.pickaflame.fun/town-town-tereb/]]></url>
+ <domain><![CDATA[velsk.pickaflame.fun]]></domain>
+ <ip>212.86.127.158</ip>
+</content>
 <content id="10601184" includeTime="2026-10-06T14:00:03" entryType="1" hash="449E61B7819702F5CCE65C78AAD41DDA" ts="2026-10-06T14:00:03">
  <decision date="2026-10-01" number="2à-785/2026" org="Âåëüñêèé ðàéîííûé ñóä - Àðõàíãåëüñêàÿ îáëàñòü"/>
  <url><![CDATA[https://velsk.obnimashka.life/city-terebino/]]></url>
  <domain><![CDATA[velsk.obnimashka.life]]></domain>
  <ip>138.226.242.253</ip>
+</content>
+<content id="10601185" includeTime="2026-10-07T00:30:02" entryType="1" hash="9DE15F7284AB5586C48DD6ECD352C268" ts="2026-10-07T00:30:02">
+ <decision date="2026-09-16" number="2à-2182/2026" org="Ëåíèíñêèé ðàéîííûé ñóä ã. Áàðíàóëà - Àëòàéñêèé êðàé"/>
+ <url><![CDATA[https://a.simkigoods.ru/main.php?etext=2202.5KOpJ5gxvm_y0U0yESzZwwl_ehKmQ2K-U9JxrfYsCJyDtZfp0qIOCtOlGkXzyQlpdG94a3J6d3NhdHp6aG5rcQ.2bef643f082ef09ef96404efe48a3862019cac0a&yclid=16652319711042994175&ybaip=1]]></url>
+ <domain><![CDATA[a.simkigoods.ru]]></domain>
+ <ip>188.137.243.200</ip>
+ <ipv6>2a13:4ac0:0018:0001:f816:3eff:fe56:65a8</ipv6>
 </content>
 <content id="10601186" includeTime="2026-10-06T01:40:01" entryType="1" hash="6E1C224A21D59D7BC2F88878F218E14C" blockType="domain" ts="2026-10-06T01:40:01">
  <decision date="2026-09-09" number="2à-1019/2026" org="Ñåâåðíûé ðàéîííûé ñóä ã. Îðëà - Îðëîâñêàÿ îáëàñòü"/>
@@ -1436,6 +1482,14 @@
 <content id="10601227" includeTime="2026-10-06T01:40:01" entryType="1" hash="CE877890EAD515958EAA1F79C7584938" blockType="domain-mask" ts="2026-10-06T01:40:01">
  <decision date="2026-10-01" number="2-6-14/2026-09-30-9597-ÀÈ" org="ÔÍÑ"/>
  <domain><![CDATA[*.getx.rkw.lol]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601254" includeTime="2026-10-07T00:30:02" entryType="1" hash="B0E8FB9F304E8892E5D057A874AC79AF" blockType="domain" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-05" number="4316739-URL-on" org="Ðîñêîìíàäçîð"/>
+ <domain><![CDATA[www.tabooxhub.com]]></domain>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
@@ -4200,6 +4254,11 @@
  <domain><![CDATA[*.eldoslots.ru]]></domain>
  <ip>188.137.244.253</ip>
 </content>
+<content id="10601787" includeTime="2026-10-07T00:30:02" entryType="1" hash="C32414390A9236A63F7C0AAAA67AC12A" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-04-15" number="2026-04-10-27471-ÑÎÁ" org="Ðîñêîìíàäçîð"/>
+ <domain><![CDATA[*.ad-guard-vpn.net]]></domain>
+ <ip>195.216.190.74</ip>
+</content>
 <content id="10601788" includeTime="2026-10-06T01:40:01" entryType="1" hash="3125CC3E1AF3DB70F8043D0B5D5C35D5" blockType="domain-mask" ts="2026-10-06T01:40:01">
  <decision date="2026-10-02" number="2-6-14/2026-10-01-9371-ÀÈ" org="ÔÍÑ"/>
  <domain><![CDATA[*.1win-fcf89.sbs]]></domain>
@@ -4719,6 +4778,404 @@
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
+<content id="10601858" includeTime="2026-10-07T00:30:02" entryType="1" hash="32AC5861D620C6120956695D40EAC2AC" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-4851-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.archbiennale.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601859" includeTime="2026-10-07T00:30:02" entryType="1" hash="51655616C442651A816D7B350E473BE2" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-4857-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.tophotelsales.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601860" includeTime="2026-10-07T00:30:02" entryType="1" hash="2A8C3D943856BF9BC6FD9A03690AF65F" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-4858-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.andreysgarage.ru]]></domain>
+ <ip>104.21.51.161</ip>
+ <ip>172.67.182.131</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:33a1</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b683</ipv6>
+</content>
+<content id="10601861" includeTime="2026-10-07T00:30:02" entryType="1" hash="C4798A00287BA0D1BD7046D0469D2B2D" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5273-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://fresh.casino838d.top/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/]]></url>
+ <domain><![CDATA[fresh.casino838d.top]]></domain>
+ <ip>138.16.178.95</ip>
+</content>
+<content id="10601862" includeTime="2026-10-07T00:30:02" entryType="1" hash="423E80E4FDD57C16759D128BDB6FA594" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5275-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.freshcasino-trez6.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+</content>
+<content id="10601863" includeTime="2026-10-07T00:30:02" entryType="1" hash="0C6B4C38BE7FE8568E971516C15AE5DF" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5276-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://fresh.casino391o.top/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/]]></url>
+ <domain><![CDATA[fresh.casino391o.top]]></domain>
+ <ip>138.16.178.95</ip>
+</content>
+<content id="10601864" includeTime="2026-10-07T00:30:02" entryType="1" hash="EC1290CC1EFFC75B0FB329463343C2C6" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-4847-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://rdenla.com/2026-gam/]]></url>
+ <domain><![CDATA[rdenla.com]]></domain>
+ <ip>104.21.79.236</ip>
+ <ip>172.67.150.9</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9609</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:4fec</ipv6>
+</content>
+<content id="10601865" includeTime="2026-10-07T00:30:02" entryType="1" hash="B2248B0404F1ABAF0116119F4C335494" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-4878-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.advokat-yapeev.ru]]></domain>
+ <ip>104.21.72.131</ip>
+ <ip>172.67.185.31</ip>
+</content>
+<content id="10601866" includeTime="2026-10-07T00:30:02" entryType="1" hash="516B4583C0FF0596838872D92BD43A99" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-4949-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.kimmyungsoo.ru]]></domain>
+ <ip>104.21.26.80</ip>
+ <ip>172.67.135.163</ip>
+</content>
+<content id="10601867" includeTime="2026-10-07T00:30:02" entryType="1" hash="891664811B32EFDBEE6A6178F8494C82" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-4960-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://honeymoney.9446.team/app/ru/ru/ru/ru/ru]]></url>
+ <domain><![CDATA[honeymoney.9446.team]]></domain>
+ <ip>104.21.71.157</ip>
+ <ip>172.67.146.86</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:479d</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:9256</ipv6>
+</content>
+<content id="10601868" includeTime="2026-10-07T00:30:02" entryType="1" hash="ABD2821916597B3070E2452024811287" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-4972-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.fresh.4zzz.casino]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601869" includeTime="2026-10-07T00:30:02" entryType="1" hash="B6D872EE96A89CEE7932455E83C1702D" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-4977-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.888starz.1908bug-casino.buzz]]></domain>
+ <ip>104.21.14.15</ip>
+ <ip>172.67.133.191</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:0e0f</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:85bf</ipv6>
+</content>
+<content id="10601870" includeTime="2026-10-07T00:30:02" entryType="1" hash="E988FC1D5F33359F41321443B015A7C3" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-4979-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://flagman.games428b.top/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/]]></url>
+ <domain><![CDATA[flagman.games428b.top]]></domain>
+ <ip>138.16.178.95</ip>
+</content>
+<content id="10601871" includeTime="2026-10-07T00:30:02" entryType="1" hash="97CEBF580E2A90C0AF82ADC881882317" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5017-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://fresh.casino541z.top/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/]]></url>
+ <domain><![CDATA[fresh.casino541z.top]]></domain>
+ <ip>138.16.178.95</ip>
+</content>
+<content id="10601872" includeTime="2026-10-07T00:30:02" entryType="1" hash="3FD8E73BC02B923311DEC3C6990C11E0" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5018-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://fresh.games5595y.buzz/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/]]></url>
+ <domain><![CDATA[fresh.games5595y.buzz]]></domain>
+ <ip>138.16.178.95</ip>
+</content>
+<content id="10601873" includeTime="2026-10-07T00:30:02" entryType="1" hash="0787B9B62BCF7DE3205C98F3332C1E88" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-4970-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.gk-stalker.ru]]></domain>
+ <ip>104.21.43.247</ip>
+ <ip>172.67.190.168</ip>
+</content>
+<content id="10601874" includeTime="2026-10-07T00:30:02" entryType="1" hash="AC2B6C95EDD42D43EAC2D9A2E2247F42" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5063-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://weiss.2065.team/zerkalo]]></url>
+ <domain><![CDATA[weiss.2065.team]]></domain>
+ <ip>104.21.64.212</ip>
+ <ip>172.67.187.224</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:40d4</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:bbe0</ipv6>
+</content>
+<content id="10601875" includeTime="2026-10-07T00:30:02" entryType="1" hash="6522CCF810261DBAEB70F9870FFC1287" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5354-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.dragon-vnd52.buzz]]></domain>
+ <ip>176.125.242.33</ip>
+</content>
+<content id="10601876" includeTime="2026-10-07T00:30:02" entryType="1" hash="13F465B9300811695A3DA6687FC30A9D" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5355-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.dragon-quo98.cfd]]></domain>
+ <ip>176.125.242.33</ip>
+</content>
+<content id="10601877" includeTime="2026-10-07T00:30:02" entryType="1" hash="CD679CC70A484D3ED1A2D07AAC933A76" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5356-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.dragon-lpq39.cam]]></domain>
+ <ip>176.125.242.33</ip>
+</content>
+<content id="10601878" includeTime="2026-10-07T00:30:02" entryType="1" hash="23C586E6323A56035D618E0E97C9C214" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5369-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.drip-casino-ottam5.ru]]></domain>
+ <ip>104.21.53.78</ip>
+ <ip>172.67.210.101</ip>
+</content>
+<content id="10601879" includeTime="2026-10-07T00:30:02" entryType="1" hash="1AE8415AC48ABC197EF3215EFBCCC159" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5148-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.mellstroybett.cc]]></domain>
+ <ip>138.16.178.220</ip>
+</content>
+<content id="10601880" includeTime="2026-10-07T00:30:02" entryType="1" hash="EC564D85D2395F08C8CA4F7D5CBA55EB" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5165-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.eldorado.fb3k.buzz]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2e32</ipv6>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:dfde</ipv6>
+</content>
+<content id="10601881" includeTime="2026-10-07T00:30:02" entryType="1" hash="3BA8A87F3376EEA3C3918C37A2272C53" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5316-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://flagman.games445p.top/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/]]></url>
+ <domain><![CDATA[flagman.games445p.top]]></domain>
+ <ip>138.16.178.95</ip>
+</content>
+<content id="10601882" includeTime="2026-10-07T00:30:02" entryType="1" hash="510E01E72FEFF0C885133D984660051E" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5317-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.rprf.ru]]></domain>
+ <ip>104.21.42.6</ip>
+ <ip>172.67.197.225</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:2a06</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:c5e1</ipv6>
+</content>
+<content id="10601883" includeTime="2026-10-07T00:30:02" entryType="1" hash="D4D575CA1F50941F28E1E1BF0074FA85" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5353-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.dragon-rly11.cam]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601884" includeTime="2026-10-07T00:30:02" entryType="1" hash="D8C593FBFF6DA8D3C2BB72F44F336550" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5377-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.dragon-boq95.buzz]]></domain>
+ <ip>176.125.242.33</ip>
+</content>
+<content id="10601885" includeTime="2026-10-07T00:30:02" entryType="1" hash="59FDF1858CC1D71C672D6C400AA03DE9" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5394-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.dragon-ckh34.cfd]]></domain>
+ <ip>104.21.40.62</ip>
+ <ip>172.67.178.11</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:b20b</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:283e</ipv6>
+</content>
+<content id="10601886" includeTime="2026-10-07T00:30:02" entryType="1" hash="9157DF8441065771DFB3A3E994B7B1B1" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5397-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.dragon-osi68.sbs]]></domain>
+ <ip>176.125.242.33</ip>
+</content>
+<content id="10601887" includeTime="2026-10-07T00:30:02" entryType="1" hash="0DD229B67222435EFCA9768E13EC4A5E" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5399-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.dragon-ozz26.sbs]]></domain>
+ <ip>176.125.242.33</ip>
+</content>
+<content id="10601888" includeTime="2026-10-07T00:30:02" entryType="1" hash="C68A8470C09068A2A837BF4B993F309F" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5550-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.daddy-zuf67.buzz]]></domain>
+ <ip>104.21.29.44</ip>
+ <ip>172.67.148.95</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:1d2c</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:945f</ipv6>
+</content>
+<content id="10601889" includeTime="2026-10-07T00:30:02" entryType="1" hash="993F23497C0C0F932DDE69E79CE095A6" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5553-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.daddy-hzq96.buzz]]></domain>
+ <ip>104.21.43.114</ip>
+ <ip>172.67.178.141</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:2b72</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:b28d</ipv6>
+</content>
+<content id="10601890" includeTime="2026-10-07T00:30:02" entryType="1" hash="13BBC4A1241F908109CC4D4E37DD15B9" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5557-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://golden-mina.com/en/tournaments]]></url>
+ <domain><![CDATA[golden-mina.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601891" includeTime="2026-10-07T00:30:02" entryType="1" hash="4A3014B69C61B8567FE6F14431B9353F" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5558-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.goldenminacasino.com]]></domain>
+ <ip>104.21.70.100</ip>
+ <ip>172.67.222.127</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:4664</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:de7f</ipv6>
+</content>
+<content id="10601892" includeTime="2026-10-07T00:30:02" entryType="1" hash="62A3B218BE841DDF909D3D9ED05CD584" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5583-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.clubnika.fb3k.buzz]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601893" includeTime="2026-10-07T00:30:02" entryType="1" hash="B8544A3BF02EC2D3CA56E0E60EEF99CF" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5595-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.mostbet-5begw.sbs]]></domain>
+ <ip>104.21.59.184</ip>
+ <ip>172.67.182.110</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:3bb8</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:b66e</ipv6>
+</content>
+<content id="10601894" includeTime="2026-10-07T00:30:02" entryType="1" hash="3547031247709084C90E0DAE53D9137C" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5604-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.bounty-win.today]]></domain>
+ <ip>138.16.178.220</ip>
+</content>
+<content id="10601895" includeTime="2026-10-07T00:30:02" entryType="1" hash="A6E1497DEEA9B8E4B12F557727DD34B1" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5607-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.bauntycasino.co]]></domain>
+ <ip>138.16.178.220</ip>
+</content>
+<content id="10601896" includeTime="2026-10-07T00:30:02" entryType="1" hash="8458AAF40D29DC7080EBBF76AEC43F1B" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5624-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.ib3.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601897" includeTime="2026-10-07T00:30:02" entryType="1" hash="30EB4F9B5A54342B1BF33A9A30CD0F25" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5659-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.labcws.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601898" includeTime="2026-10-07T00:30:02" entryType="1" hash="48099AECAFB79B9E041580FCEF7E7B51" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5814-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.7k1575i.casino]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601899" includeTime="2026-10-07T00:30:02" entryType="1" hash="613820C33B442D4EEEF5E14C47BDF006" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5830-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://1xbet-winmoney.cc/en/en/]]></url>
+ <domain><![CDATA[1xbet-winmoney.cc]]></domain>
+ <ip>138.16.178.220</ip>
+</content>
+<content id="10601900" includeTime="2026-10-07T00:30:02" entryType="1" hash="D17178FA142A116DA91988299C3F02F0" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5664-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.81cib.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601901" includeTime="2026-10-07T00:30:02" entryType="1" hash="817671F2E086C141EA5BB7824FF790B5" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5694-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://azino777.casino391o.top/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/]]></url>
+ <domain><![CDATA[azino777.casino391o.top]]></domain>
+ <ip>138.16.178.95</ip>
+</content>
+<content id="10601902" includeTime="2026-10-07T00:30:02" entryType="1" hash="34E526BE9793429FDD82641AC80CAACD" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5716-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://beef.games947q.top/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/]]></url>
+ <domain><![CDATA[beef.games947q.top]]></domain>
+ <ip>138.16.178.95</ip>
+</content>
+<content id="10601903" includeTime="2026-10-07T00:30:02" entryType="1" hash="3D0A313FF401A5156EA6F8713A482EA7" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-6855-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.bannerwomen.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601904" includeTime="2026-10-07T00:30:02" entryType="1" hash="10A49DC7FD2E4030B08EDE46907EF6A3" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-6955-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.leon-casino-xibkn.pro]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601905" includeTime="2026-10-07T00:30:02" entryType="1" hash="4038D60180000970C383275DDBC0A4A0" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-7122-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.leon-casino-we0ch.club]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601906" includeTime="2026-10-07T00:30:02" entryType="1" hash="084AF6885DB81B5C4B279D2CBF3ADE17" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-7797-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.turboplay.casino]]></domain>
+ <ip>138.16.178.220</ip>
+</content>
+<content id="10601907" includeTime="2026-10-07T00:30:02" entryType="1" hash="7CB7B8947E54911F055E1019CC78B83D" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-7798-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://turbocasinowin.cc/en/]]></url>
+ <domain><![CDATA[turbocasinowin.cc]]></domain>
+ <ip>138.16.178.220</ip>
+</content>
+<content id="10601908" includeTime="2026-10-07T00:30:02" entryType="1" hash="4F6EBA478C59D1D1189ED5584A455ABC" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5769-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://zooma.games5595y.buzz/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/ru/]]></url>
+ <domain><![CDATA[zooma.games5595y.buzz]]></domain>
+ <ip>138.16.178.95</ip>
+</content>
+<content id="10601909" includeTime="2026-10-07T00:30:02" entryType="1" hash="B52A001B7E4F583E5086CE98EF2F8A8B" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-5877-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://draculacas1no.uk/en-gb/]]></url>
+ <domain><![CDATA[draculacas1no.uk]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601910" includeTime="2026-10-07T00:30:02" entryType="1" hash="D9A9DE35D9EEED0FC5C7B4F5D946C841" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-8028-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.avantigeo-shop.ru]]></domain>
+ <ip>104.21.22.55</ip>
+ <ip>172.67.202.247</ip>
+</content>
+<content id="10601911" includeTime="2026-10-07T00:30:02" entryType="1" hash="B80DDA27CC7BD44C7004DCD2B0709E11" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-7007-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.leon-kazino41.site]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="10601912" includeTime="2026-10-07T00:30:02" entryType="1" hash="8B762D24A3EBD080192767177EA90E11" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-7882-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.martin.games428b.top]]></domain>
+ <ip>138.16.178.95</ip>
+</content>
+<content id="10601913" includeTime="2026-10-07T00:30:02" entryType="1" hash="B02A58F8154FF7499C3D19F1D728977E" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-7896-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.martin.games445p.top]]></domain>
+ <ip>138.16.178.95</ip>
+</content>
+<content id="10601914" includeTime="2026-10-07T00:30:02" entryType="1" hash="354A178F73194D70846564EDAA60325D" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-7926-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.martin.games503h.top]]></domain>
+ <ip>138.16.178.95</ip>
+</content>
+<content id="10601915" includeTime="2026-10-07T00:30:02" entryType="1" hash="4E78AA9FA589CEF019E85299CF1530B7" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-7849-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.sykaaa.casinoboom289.buzz]]></domain>
+ <ip>138.16.178.183</ip>
+</content>
+<content id="10601916" includeTime="2026-10-07T00:30:02" entryType="1" hash="8D2C9F00E2EE433844EF753CD6D745BB" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-7895-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.martin.casino391o.top]]></domain>
+ <ip>138.16.178.95</ip>
+</content>
 <content id="10601923" includeTime="2026-10-06T01:40:01" entryType="1" hash="9F6214B3D09FD768C50719A1D2595AD4" blockType="domain" ts="2026-10-06T01:40:01">
  <decision date="2026-10-05" number="4317406-URL-on" org="Ðîñêîìíàäçîð"/>
  <domain><![CDATA[bs.ashoo.courses]]></domain>
@@ -4729,6 +5186,13 @@
  <url><![CDATA[https://r8.sosalkino.online/categories/lesbi/]]></url>
  <domain><![CDATA[r8.sosalkino.online]]></domain>
  <ip>190.2.148.157</ip>
+</content>
+<content id="10601928" includeTime="2026-10-07T00:30:02" entryType="1" hash="1A500173F6E916F57B04E3704ACF3BF4" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-05" number="4317411-URL-on" org="Ðîñêîìíàäçîð"/>
+ <url><![CDATA[https://dallasvoice.com/1000355044-2/]]></url>
+ <domain><![CDATA[dallasvoice.com]]></domain>
+ <ip>192.0.78.24</ip>
+ <ip>192.0.78.25</ip>
 </content>
 <content id="10601929" includeTime="2026-10-06T01:40:01" entryType="1" hash="D5D5D8CD6B1D8AA1A67E1BF34B6508B7" blockType="domain-mask" ts="2026-10-06T01:40:01">
  <decision date="2026-10-05" number="4317412-URL-on" org="Ðîñêîìíàäçîð"/>
@@ -4747,10 +5211,28 @@
  <domain><![CDATA[paw.sisidrive139.com]]></domain>
  <ip>186.2.165.12</ip>
 </content>
+<content id="10601944" includeTime="2026-10-07T00:30:02" entryType="1" hash="0A8CA4A0C84A1EF7B84C91118B54B31C" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-05" number="4317427-URL-on" org="Ðîñêîìíàäçîð"/>
+ <url><![CDATA[https://b.porno365.golf/movie/17449]]></url>
+ <domain><![CDATA[b.porno365.golf]]></domain>
+ <ip>190.115.31.184</ip>
+</content>
+<content id="10601946" includeTime="2026-10-07T00:30:02" entryType="1" hash="8D125E2992EEC40923447C4EAC8D88C0" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-05" number="4317429-URL-on" org="Ðîñêîìíàäçîð"/>
+ <url><![CDATA[https://b.porno365.golf/movie/32363]]></url>
+ <domain><![CDATA[b.porno365.golf]]></domain>
+ <ip>190.115.31.184</ip>
+</content>
 <content id="10601948" includeTime="2026-10-06T01:40:01" entryType="1" hash="15D41E1A9AF0ABD0573949DD831C8DE5" blockType="domain-mask" ts="2026-10-06T01:40:01">
  <decision date="2026-10-05" number="4317431-URL-on" org="Ðîñêîìíàäçîð"/>
  <domain><![CDATA[*.kiskis-pitera.com]]></domain>
  <ip>5.187.6.187</ip>
+</content>
+<content id="10601949" includeTime="2026-10-07T00:30:02" entryType="1" hash="83041CCD07C21A6645F851A45B15EF10" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-05" number="4317432-URL-on" org="Ðîñêîìíàäçîð"/>
+ <url><![CDATA[https://b.porno365.golf/movie/9397]]></url>
+ <domain><![CDATA[b.porno365.golf]]></domain>
+ <ip>190.115.31.184</ip>
 </content>
 <content id="10601999" includeTime="2026-10-06T01:40:01" entryType="1" hash="CC16055B08A270B785DE0C66D6D3D9FA" blockType="domain-mask" ts="2026-10-06T01:40:01">
  <decision date="2015-11-12" number="2-6-27/1" org="Ðîñêîìíàäçîð, íà îñíîâàíèè ðàíåå âûíåñåííîãî ðåøåíèÿ (ÔÍÑ)"/>
@@ -5000,6 +5482,11 @@
  <decision date="2026-10-02" number="2-6-14/2026-10-01-11568-ÀÈ" org="ÔÍÑ"/>
  <domain><![CDATA[*.1xbet-qxj.quest]]></domain>
  <ip>193.36.236.206</ip>
+</content>
+<content id="10602062" includeTime="2026-10-07T00:30:02" entryType="1" hash="38296CC22F4E1171918822CA371110BB" blockType="domain-mask" ts="2026-10-07T00:30:02">
+ <decision date="2026-10-02" number="2-6-14/2026-10-01-11569-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.ustanovit-1xbet.ru]]></domain>
+ <ip>186.2.174.141</ip>
 </content>
 <content id="10602176" includeTime="2026-10-05T17:10:02" entryType="2" hash="31AC4ADB7FB7E618AEF6C5CEEC507702" ts="2026-10-05T17:10:02">
  <decision date="2026-09-25" number="îïðåäåëåíèå î ïðåäâàðèòåëüíîì îáåñïå÷åíèè ïî çàÿâëåíèþ ¹ 2È-8010/2026" org="Ìîñãîðñóä"/>
