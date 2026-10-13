@@ -96,9 +96,9 @@
  <ipv6>2606:4700:3030:0000:0000:0000:6815:6001</ipv6>
  <ipv6>2606:4700:3030:0000:0000:0000:6815:7001</ipv6>
 </content>
-<content id="8318729" includeTime="2025-05-29T14:15:02" entryType="1" hash="E0BE48E19418DEB807E75821DB691343" blockType="domain" ts="2025-05-29T14:15:02">
+<content id="8318729" includeTime="2025-05-29T14:15:02" entryType="1" hash="5C5C6A67D64437AC4321989DC25E425D" blockType="domain-mask" ts="2026-10-12T23:35:02">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[fillstuff.ru]]></domain>
+ <domain><![CDATA[*.fillstuff.ru]]></domain>
  <ip>104.21.24.149</ip>
  <ip>172.67.219.67</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:db43</ipv6>
