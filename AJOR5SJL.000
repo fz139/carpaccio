@@ -3894,12 +3894,6 @@
  <domain><![CDATA[apk.house]]></domain>
  <ip>193.42.111.107</ip>
 </content>
-<content id="10659507" includeTime="2026-10-19T23:00:02" entryType="1" hash="D51ED183490CB31B6F07D629733A8ED0" ts="2026-10-19T23:00:02">
- <decision date="2026-10-14" number="2026-10-13-5551-СОБ" org="Роскомнадзор"/>
- <url><![CDATA[https://cybersoft.ru/internet/vpn-klienty/236-openvpn.html]]></url>
- <domain><![CDATA[cybersoft.ru]]></domain>
- <ip>46.17.250.42</ip>
-</content>
 <content id="10659508" includeTime="2026-10-16T13:45:03" entryType="1" hash="F318070CDAF06D763708DE1AB0DD2307" blockType="domain-mask" ts="2026-10-16T13:45:03">
  <decision date="2026-05-27" number="2026-05-22-10332-СОБ" org="Роскомнадзор"/>
  <domain><![CDATA[*.blancvpn.sbs]]></domain>
@@ -5995,6 +5989,15 @@
  <decision date="2026-08-17" number="2-6-14/2026-08-13-1060-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.pokerdom-jvni49.biz]]></domain>
  <ip>146.103.102.202</ip>
+</content>
+<content id="10659861" includeTime="2026-10-21T18:50:02" entryType="6" hash="251BFF66E66FFE48CB204851422081F7" ts="2026-10-21T18:50:02">
+ <decision date="2017-12-15" number="2-5237/17" org="Таганский районный суд - Москва"/>
+ <url><![CDATA[https://slivoteka.to]]></url>
+ <domain><![CDATA[slivoteka.to]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
 <content id="10659917" includeTime="2026-10-15T17:25:02" entryType="2" hash="B467F6FE4FC51FAC1091ED00926603EE" ts="2026-10-15T17:25:02">
  <decision date="2024-11-11" number="определение о предварительном обеспечении по заявлению № 2И-22735/2024" org="Мосгорсуд"/>
