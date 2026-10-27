@@ -1118,9 +1118,9 @@
  <ipv6>2606:4700:3031:0000:0000:0000:ac43:95e4</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:580a</ipv6>
 </content>
-<content id="6991393" includeTime="2024-05-06T09:20:04" entryType="1" hash="454137110811114445D0B09CAD6D4DE1" blockType="domain" ts="2024-05-06T09:20:04">
+<content id="6991393" includeTime="2024-05-06T09:20:04" entryType="1" hash="545AB9F7FAD62A6CA548F7D40F3F4DD9" blockType="domain-mask" ts="2026-10-27T18:50:02">
  <decision date="2023-07-21" number="2а-3-284/2023" org="Козельский районный суд - Калужская область"/>
- <domain><![CDATA[ashoo.pw]]></domain>
+ <domain><![CDATA[*.ashoo.pw]]></domain>
  <ip>104.21.58.2</ip>
  <ip>172.67.196.75</ip>
  <ipv6>2606:4700:3031:0000:0000:0000:6815:3a02</ipv6>
@@ -11865,12 +11865,6 @@
  <ip>172.67.157.214</ip>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:08ca</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:ac43:9dd6</ipv6>
-</content>
-<content id="6995001" includeTime="2024-05-09T08:55:02" entryType="1" hash="C21A3E04106B27E7DF0FC9ABAE316B35" ts="2024-05-09T08:55:02">
- <decision date="2016-12-22" number="2-5764/16" org="Василеостровский районный суд - Санкт-Петербург"/>
- <url><![CDATA[https://teksti-pesen.pro/30/Clockwork-Times/tekst-pesni-Boytsovskiy-klub]]></url>
- <domain><![CDATA[teksti-pesen.pro]]></domain>
- <ip>95.217.0.232</ip>
 </content>
 <content id="6995002" includeTime="2024-05-07T07:40:02" entryType="1" hash="5B025F88D5B30C2ED2B191AED44CFA04" blockType="domain-mask" ts="2024-05-07T07:40:02">
  <decision date="2020-11-16" number="2-6-20/2020-09-23-601-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
